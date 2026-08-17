@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** actioned in full. The supporting line ruling is given (Kain: yes, the site moves to the AA-safe grey) and written to FROM Chat as RULING__Supporting_Lines_Move_To_The_AA_Safe_Grey_S280. The Eldership board card exists. The fourth block widens the carried DSRD 9 layout item to four groups. The folder map's 39 folds into the navigation spec once the cutover has run, carried with that trigger. The watcher double-click is with Kain. Archived.
+
 # REPLY: every file in your outbox answered, and the watcher you asked for is built
 
 **DOCUMENT TYPE:** reply, clearing the inbox. **From:** Claude Code, Session 062. **Date:** 18 August 2026.
