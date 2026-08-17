@@ -1,0 +1,95 @@
+
+=== about.css ===
+  FAIL: 3 issue(s)
+    line 166: RADIUS 2px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 212: HAND-TYPED SHADOW '0 2px 12px rgba(53, 65, 73, 0.06)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 346: BREAKPOINT 599.98px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+
+=== base.css ===
+  PASS
+
+=== cards.css ===
+  FAIL: 7 issue(s)
+    line 181: RADIUS 2px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 195: RADIUS 2px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 292: RADIUS 3px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 293: HAND-TYPED SHADOW '4px 4px 16px rgba(0, 0, 0, 0.3)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 303: HAND-TYPED COLOUR #6b7078. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 753: RADIUS 2px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 754: HAND-TYPED SHADOW '2px 2px 8px rgba(0, 0, 0, 0.3)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+
+=== components.css ===
+  FAIL: 6 issue(s)
+    line 456: HAND-TYPED SHADOW '0 2px 12px rgba(53,65,73,0.10)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 460: HAND-TYPED SHADOW '0 8px 28px rgba(53,65,73,0.16)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 473: HAND-TYPED COLOUR #000. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 473: HAND-TYPED SHADOW '0 24px 64px rgba(0,0,0,0.4)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 475: HAND-TYPED SHADOW '0 4px 14px rgba(0,0,0,0.25)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 517: HAND-TYPED COLOUR #000. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+
+=== fonts.css ===
+  PASS
+
+=== footer.css ===
+  PASS
+
+=== header.css ===
+  FAIL: 4 issue(s)
+    line 46: HAND-TYPED SHADOW '0 2px 12px rgba(53, 65, 73, 0.06)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 159: HAND-TYPED SHADOW '0 12px 32px rgba(53, 65, 73, 0.14), 0 4px 12px rgba(53, 65, '. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 241: HAND-TYPED SHADOW '0 0 0 1.5px rgba(237, 105, 34, 0.35)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 341: RADIUS 8px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+
+=== help.css ===
+  FAIL: 5 issue(s)
+    line 420: RADIUS 999px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 456: BREAKPOINT 639px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+    line 537: RADIUS 6px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 578: RADIUS 3px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 579: HAND-TYPED SHADOW '0 0 0 2px rgba(237, 105, 34, 0.12)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+
+=== knowledge-hub.css ===
+  PASS
+
+=== people.css ===
+  FAIL: 3 issue(s)
+    line 84: BREAKPOINT 640px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+    line 155: BREAKPOINT 640px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+    line 197: BREAKPOINT 640px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+
+=== policies.css ===
+  FAIL: 1 issue(s)
+    line 505: BREAKPOINT 640px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+
+=== style.css ===
+  PASS
+
+=== testimonials.css ===
+  FAIL: 24 issue(s)
+    line 8: BREAKPOINT 900px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+    line 17: HAND-TYPED COLOUR #FDECE0. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 17: HAND-TYPED COLOUR #F6D6BE. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 17: HAND-TYPED COLOUR #EFC199. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 17: HAND-TYPED SHADOW '0 12px 34px rgba(53,65,73,0.14)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 21: HAND-TYPED SHADOW '0 2px 14px rgba(53,65,73,0.05)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 22: BREAKPOINT 860px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+    line 30: HAND-TYPED COLOUR #354149. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 30: HAND-TYPED SHADOW '0 2px 12px rgba(53,65,73,0.14)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 33: HAND-TYPED SHADOW '0 8px 28px rgba(53,65,73,0.20)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 36: HAND-TYPED COLOUR #fff. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 131: HAND-TYPED SHADOW '0 24px 64px rgba(0,0,0,.4)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 131: RADIUS 14px is outside the named tiers 10/12/16/20/50% (DSRD 7 section 5.3). Use a tier or annotate the one-off.
+    line 132: HAND-TYPED COLOUR #1a2228. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 134: HAND-TYPED COLOUR #fff. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 134: HAND-TYPED SHADOW '0 6px 18px rgba(237,105,34,.5)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 140: HAND-TYPED SHADOW '0 4px 14px rgba(0,0,0,.28)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 144: BREAKPOINT 720px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+    line 148: HAND-TYPED SHADOW '0 2px 10px rgba(53,65,73,0.05)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 150: HAND-TYPED COLOUR #000. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 150: HAND-TYPED COLOUR #000. Use a token from base.css, or annotate the one-off (DSRD 7 section 4.5).
+    line 152: HAND-TYPED SHADOW '0 10px 26px rgba(53,65,73,0.11)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 157: HAND-TYPED SHADOW '0 1px 5px rgba(53,65,73,0.20)'. Use a --shadow-* token (DSRD 7 section 5.4) or annotate the one-off.
+    line 179: BREAKPOINT 719px is not a system boundary (DSRD 7 sections 4.1 and 4.5). Use 768/1024, 1040 for the inset-panel outdent, or annotate the exception.
+
+==================================================
+GATE FAILED on 8 file(s). Fix or annotate before shipping.
