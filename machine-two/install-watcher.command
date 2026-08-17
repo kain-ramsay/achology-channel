@@ -100,8 +100,14 @@ launchctl unload "$PLIST" 2>/dev/null
 launchctl load "$PLIST" 2>/dev/null
 echo "  started."
 echo ""
-echo "Waiting for its first cycle to report ..."
-sleep 12
+echo "Running one cycle now, so any problem shows up while you are here ..."
+
+# Run a cycle directly rather than waiting to see whether launchd fires one.
+# This is what turns the install into a proof: it commits, pulls and PUSHES, so
+# if the credential is missing the failure appears now, in front of Kain, rather
+# than silently three days later when a file does not arrive.
+bash "$SCRIPT" >/dev/null 2>&1
+sleep 2
 
 STATUS="$DEST/achology_channel_watch.status"
 if [ -f "$STATUS" ]; then
