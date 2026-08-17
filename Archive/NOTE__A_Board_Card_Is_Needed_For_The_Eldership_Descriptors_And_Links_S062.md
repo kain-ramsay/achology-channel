@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** actioned. The board card is created and verified by fetch-back: "Our People: Community Eldership descriptors and external links", Website Rebuild, Build, Pre-Launch, Urgent + Important, all seven fields pinned. It carries the 330 to 360 character length, the settled role line, the links-come-from-Kain rule, Code's outbound-link build item, and DSRD 7 section 1.0. Archived.
+
 # NOTE: one new board card is needed, for the Community Eldership descriptors and their links
 
 **DOCUMENT TYPE:** note, asking for a board card. Not a commission, not a page spec.
