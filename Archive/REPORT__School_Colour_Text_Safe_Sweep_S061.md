@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** consumed at S279. This report drove the site-wide tint rule Kain ruled on the rendered cards, written into DSRD 7 section 2.1 with its second clause covering the hover finding. Its two open sites (the bundle card's hour pill and summary strip) were closed by the S279 bundle card corrections and travel in the bundle card brief. Archived.
+
 # REPORT: the school colour text-safe sweep, every site found and its verdict
 
 **DOCUMENT TYPE:** report, answering a commission.

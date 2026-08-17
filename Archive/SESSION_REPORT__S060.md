@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** read at S279. Its substance (the course card sign-off, the tabbed-options ruling, the card standards handover) drove the S279 commerce card session, and the tabbed ruling is written into the Project Instructions at standing rule 16. Archived.
+
 # SESSION REPORT: S060, 17 August 2026
 
 **DOCUMENT TYPE:** session report. Not a page spec.

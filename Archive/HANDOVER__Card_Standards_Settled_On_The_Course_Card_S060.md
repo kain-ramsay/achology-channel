@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** consumed at S279. This handover drove the whole commerce card session: the bundle, AAA and membership card reviews, the sixteen corrections Kain ruled on tabbed renders, and both build briefs now in FROM Chat. Archived.
+
 # HANDOVER: everything the course card settled, for the rest of the card sweep
 
 **DOCUMENT TYPE:** handover of settled standards. Not a page spec.

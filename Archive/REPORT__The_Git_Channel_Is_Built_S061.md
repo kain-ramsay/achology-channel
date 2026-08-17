@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** consumed. The one step it waited on happened at S278; the road has carried traffic both ways since, and the old folder's retirement was released to Code this session. Archived.
+
 # REPORT: the git channel is built, tested in both directions, and waiting on one step
 
 **DOCUMENT TYPE:** report, answering a commission.

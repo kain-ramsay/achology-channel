@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** consumed. The sitting it describes was completed: Chat reached the repository at S278 and the road has carried traffic both ways since. The living reference for how the channel works stays at the repository root; this file is the record of the setup. Archived.
+
 # HOW TO: the channel sitting, now one step instead of four
 
 **DOCUMENT TYPE:** how-to, for Kain. **From:** Claude Code, Session 061. **Date:** 17 August 2026.

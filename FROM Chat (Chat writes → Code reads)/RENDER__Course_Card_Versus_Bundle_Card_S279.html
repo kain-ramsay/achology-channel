@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>School bundle card, the approved build baseline, Session 279</title>
+<style>
+@font-face{font-family:'Como';src:url('https://achology.com/wp-content/themes/achology/fonts/Como.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Como';src:url('https://achology.com/wp-content/themes/achology/fonts/Como-Medium.woff2') format('woff2');font-weight:500;font-display:swap}
+@font-face{font-family:'Como';src:url('https://achology.com/wp-content/themes/achology/fonts/Como-SemiBold.woff2') format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:'Como';src:url('https://achology.com/wp-content/themes/achology/fonts/Como-Bold.woff2') format('woff2');font-weight:700;font-display:swap}
+:root{--font-heading:'Como',sans-serif;--font-body:'Source Sans 3',system-ui,sans-serif;--color-orange:#ED6922;--color-orange-hover:#d85a1b;--color-dark:#354149;--color-off-white:#F3F4F4;--color-white:#fff;--color-mid-grey:#8A9199;--color-soft-grey:#5E6B75;--color-hairline:#EEEDED;--sp-lg:24px;--shadow-card:0 2px 12px rgba(53,65,73,.08);--shadow-card-hover:0 8px 28px rgba(53,65,73,.14)}
+.school--nlp{--school-accent:#4D7258;--school-text:#4D7258;--school-accent-rgb:77,114,88}
+.school--cbp{--school-accent:#8E944E;--school-text:#747940;--school-accent-rgb:142,148,78}
+.school--lc{--school-accent:#B8704A;--school-text:#A66543;--school-accent-rgb:184,112,74}
+*{box-sizing:border-box}
+body{margin:0;background:var(--color-off-white);font-family:var(--font-body);color:var(--color-dark)}
+.wrap{max-width:1180px;margin:0 auto;padding:24px 20px 64px}
+h1{font-family:var(--font-heading);font-size:21px;margin:0 0 6px}
+p.lede{margin:0 0 20px;font-size:15px;line-height:1.55;max-width:76ch;color:#4b5760}
+.stage{background:#fff;border-radius:12px;padding:28px 24px}
+.grid3{display:grid;grid-template-columns:repeat(3,350px);gap:24px;justify-content:center}
+.ph{display:block;text-align:center;font-size:11.5px;line-height:1.45;color:#8A9199;border:1px dashed #d9dee1;border-radius:8px;padding:12px 14px;position:relative;z-index:3}
+.ph em{font-style:normal;opacity:.75}
+.card-product{background:#fff;border-radius:12px;overflow:hidden;box-shadow:var(--shadow-card);transition:box-shadow .2s ease,transform .2s ease;display:flex;flex-direction:column}
+@media (hover:hover) and (pointer:fine){.card-product:hover{box-shadow:var(--shadow-card-hover);transform:translateY(-3px)}}
+.btn--learn-more,.btn--enrol{flex:1;padding:11px 14px;border-radius:10px;font-family:var(--font-heading);font-size:14px;font-weight:600;text-align:center;text-decoration:none;cursor:pointer}
+.btn--learn-more{color:var(--color-dark);background:transparent;border:1.5px solid var(--school-accent);transition:background .15s ease,color .15s ease}
+.btn--enrol{color:#fff;background:var(--color-orange);border:1.5px solid var(--color-orange)}
+@media (hover:hover) and (pointer:fine){.btn--learn-more:hover{background:var(--school-text);border-color:var(--school-text);color:#fff}.btn--enrol:hover{background:var(--color-orange-hover);border-color:var(--color-orange-hover)}}
+.card--bundle .card__header{height:185px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;background:#fff}
+.card--bundle .card__image-gradient{position:absolute;inset:0;background:linear-gradient(to top,rgba(var(--school-accent-rgb),.13) 0%,rgba(var(--school-accent-rgb),.07) 35%,rgba(255,255,255,0) 100%);z-index:1}
+.card--bundle .card__accent-bar{height:3px;background:var(--school-accent);flex-shrink:0}
+.card--bundle .card__info{padding:20px var(--sp-lg) 0;display:flex;flex-direction:column;flex:1}
+.card--bundle .card__academy-line{display:flex;align-items:center;gap:5px;font-family:var(--font-heading);font-size:12px;font-weight:600;color:var(--school-text);margin-bottom:10px;line-height:1.6}
+.card--bundle .card__academy-line .icon-school{width:12px;height:12px;color:var(--school-text);flex-shrink:0;align-self:baseline;position:relative;top:1px}
+.card--bundle .card__school-name{font-family:var(--font-heading);font-size:18px;font-weight:600;line-height:1.35;color:var(--color-dark);margin-bottom:10px}
+.card--bundle .card__stats{display:flex;align-items:center;gap:14px;padding-bottom:16px;border-bottom:1px solid var(--color-hairline)}
+.card--bundle .card__stat{display:flex;align-items:center;gap:5px;font-size:12.5px;font-weight:400;color:var(--color-soft-grey);white-space:nowrap}
+.card--bundle .card__stat .icon-stat{width:13px;height:13px;color:var(--color-orange);flex-shrink:0}
+.card--bundle .card__checklist{display:flex;flex-direction:column;gap:8px;padding:4px 0;margin-top:12px}
+.card--bundle .card__checklist-item{display:flex;align-items:flex-start;gap:8px}
+.card--bundle .card__tick-circle{width:16px;height:16px;border-radius:50%;background:var(--school-accent);opacity:.12;flex-shrink:0;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.card--bundle .card__tick-circle svg{width:9px;height:9px;color:var(--school-accent);opacity:calc(1/.12)}
+.card--bundle .card__course-name{font-size:13px;line-height:1.4;color:var(--color-dark);flex:1}
+.card--bundle .card__hour-pill{font-size:10.5px;font-weight:600;color:var(--school-text);background:transparent;padding:0;margin-left:auto;white-space:nowrap}
+.card--bundle .card__summary-strip{display:flex;align-items:center;gap:8px;padding:10px var(--sp-lg);background:transparent;border-top:1px solid var(--color-hairline);border-bottom:1px solid var(--color-hairline);margin:14px calc(-1*var(--sp-lg)) 0}
+.card--bundle .card__summary-strip .strip-tick{width:16px;height:16px;border-radius:50%;background:var(--school-accent);opacity:.15;flex-shrink:0;display:flex;align-items:center;justify-content:center}
+.card--bundle .card__summary-strip .strip-tick svg{width:9px;height:9px;color:var(--school-accent);opacity:calc(1/.15)}
+.card--bundle .card__summary-strip .strip-text{font-size:12.5px;font-weight:500;color:var(--school-text);line-height:1.4}
+.card--bundle .card__price-area{padding:20px var(--sp-lg) 4px;margin-top:auto}
+.card--bundle .card__price-row{display:flex;align-items:center;gap:12px}
+.card--bundle .card__price{font-family:var(--font-heading);font-size:24px;font-weight:700;color:var(--color-dark)}
+.card--bundle .card__anchor-price{font-size:15px;font-weight:500;color:var(--color-mid-grey);text-decoration:line-through}
+.card--bundle .card__save-badge{font-size:12px;font-weight:600;color:var(--color-dark);background:rgba(53,65,73,.10);padding:3px 10px;border-radius:12px;margin-left:auto;white-space:nowrap}
+.card--bundle .card__guarantee{margin-top:10px}
+.card--bundle .card__guarantee-pill{font-size:11px;font-weight:600;color:var(--color-mid-grey);background:rgba(138,145,153,.10);padding:3px 10px;border-radius:12px}
+.card--bundle .card__ctas{display:flex;gap:10px;padding:12px var(--sp-lg) 20px}
+.note{margin-top:26px;font-size:13.5px;line-height:1.6;color:#67737b;max-width:88ch}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>School bundle card, the build baseline approved in the side panel, Session 279</h1>
+<p class="lede">Three of the seven schools, at real card width. This is the corrected card described in the brief beside it: the seven contradictions with the approved course card all closed. Every name, figure and price is read from DSRD 5 and DSRD 8 section 8.7. The picture areas are marked placeholders because the seven school heroes have not been drawn at the slot size yet.</p>
+<div class="stage">
+<div class="grid3">
+
+<div class="card-product card--bundle school--nlp">
+  <div class="card__header"><div class="card__image-gradient"></div><span class="ph">School hero image<br><em>to be drawn at the slot size</em></span></div>
+  <div class="card__accent-bar"></div>
+  <div class="card__info">
+    <div class="card__academy-line"><svg class="icon-school" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span>Academy of Applied Psychology</span></div>
+    <div class="card__school-name">The School of Neuro-Linguistic Programming (NLP)</div>
+    <div class="card__stats">
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><span>269,269</span></span>
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg><span>162+ hrs Teaching</span></span>
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><span>4.68 Avg. Rating</span></span>
+    </div>
+    <div class="card__checklist">
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Mindset Mastery: The Ultimate NLP-Based Guide to Self-Discovery</span><span class="card__hour-pill">12+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Neuro-Linguistic Programming Master Practitioner Course</span><span class="card__hour-pill">45+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Neuro-Linguistic Programming (NLP) Practitioner Training</span><span class="card__hour-pill">42+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Beginner's Guide to Neuro-Linguistic Programming (NLP)</span><span class="card__hour-pill">12+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Diploma Course in Modern Applied Psychology (DiMAP)</span><span class="card__hour-pill">51+ hrs</span></div>
+    </div>
+    <div class="card__summary-strip"><span class="strip-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="strip-text">Lifetime Access to Courses + 1 Year of Membership</span></div>
+  </div>
+  <div class="card__price-area">
+    <div class="card__price-row"><span class="card__price">$1,137</span><span class="card__anchor-price">$1,490</span><span class="card__save-badge">Save 24%</span></div>
+    <div class="card__guarantee"><span class="card__guarantee-pill">Money Back Guarantee</span></div>
+  </div>
+  <div class="card__ctas"><a class="btn--learn-more" href="#">Learn More</a><a class="btn--enrol" href="#">Enrol Now</a></div>
+</div>
+
+<div class="card-product card--bundle school--cbp">
+  <div class="card__header"><div class="card__image-gradient"></div><span class="ph">School hero image<br><em>to be drawn at the slot size</em></span></div>
+  <div class="card__accent-bar"></div>
+  <div class="card__info">
+    <div class="card__academy-line"><svg class="icon-school" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span>Academy of Applied Psychology</span></div>
+    <div class="card__school-name">The School of Cognitive Behavioural Psychology (CBP)</div>
+    <div class="card__stats">
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><span>245,286</span></span>
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg><span>121+ hrs Teaching</span></span>
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><span>4.63 Avg. Rating</span></span>
+    </div>
+    <div class="card__checklist">
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Cognitive Behavioural Therapy for Mental Health and Wellness</span><span class="card__hour-pill">16+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Cognitive Behavioural Therapy (CBT) Practitioner Course</span><span class="card__hour-pill">31+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">CBT Toolkit: Core Principles and Real-World Applications</span><span class="card__hour-pill">14+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Diploma Course in Modern Applied Psychology (DiMAP)</span><span class="card__hour-pill">51+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Strategic Goal Setting and Action Planning Masterclass</span><span class="card__hour-pill">9+ hrs</span></div>
+    </div>
+    <div class="card__summary-strip"><span class="strip-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="strip-text">Lifetime Access to Courses + 1 Year of Membership</span></div>
+  </div>
+  <div class="card__price-area">
+    <div class="card__price-row"><span class="card__price">$987</span><span class="card__anchor-price">$1,288</span><span class="card__save-badge">Save 23%</span></div>
+    <div class="card__guarantee"><span class="card__guarantee-pill">Money Back Guarantee</span></div>
+  </div>
+  <div class="card__ctas"><a class="btn--learn-more" href="#">Learn More</a><a class="btn--enrol" href="#">Enrol Now</a></div>
+</div>
+
+<div class="card-product card--bundle school--lc">
+  <div class="card__header"><div class="card__image-gradient"></div><span class="ph">School hero image<br><em>to be drawn at the slot size</em></span></div>
+  <div class="card__accent-bar"></div>
+  <div class="card__info">
+    <div class="card__academy-line"><svg class="icon-school" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span>Academy of Applied Psychology</span></div>
+    <div class="card__school-name">The School of Life Coaching and Professional Helping</div>
+    <div class="card__stats">
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><span>201,167</span></span>
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg><span>150+ hrs Teaching</span></span>
+      <span class="card__stat"><svg class="icon-stat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><span>4.71 Avg. Rating</span></span>
+    </div>
+    <div class="card__checklist">
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Skilled Helper Practitioner Course (Advanced to Expert)</span><span class="card__hour-pill">13+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Life Coaching Blueprint: The Complete Process and Practices</span><span class="card__hour-pill">31+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Life Coaching Certificate Course (Beginner to Advanced)</span><span class="card__hour-pill">38+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Skilled Helper Training Course (with Prof. Gerard Egan)</span><span class="card__hour-pill">7+ hrs</span></div>
+      <div class="card__checklist-item"><span class="card__tick-circle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="card__course-name">Diploma Course in Modern Applied Psychology (DiMAP)</span><span class="card__hour-pill">51+ hrs</span></div>
+    </div>
+    <div class="card__summary-strip"><span class="strip-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span><span class="strip-text">Lifetime Access to Courses + 1 Year of Membership</span></div>
+  </div>
+  <div class="card__price-area">
+    <div class="card__price-row"><span class="card__price">$1,287</span><span class="card__anchor-price">$1,637</span><span class="card__save-badge">Save 21%</span></div>
+    <div class="card__guarantee"><span class="card__guarantee-pill">Money Back Guarantee</span></div>
+  </div>
+  <div class="card__ctas"><a class="btn--learn-more" href="#">Learn More</a><a class="btn--enrol" href="#">Enrol Now</a></div>
+</div>
+
+</div>
+</div>
+<p class="note">Two things Kain left open for the Safari sitting, and they are the reason this is a build baseline rather than a signed record: the card carries too many words for his eye, and the bottom of it is overloaded. He will rule both on the real page. Build it whole and do not pre-trim it. The save badge wording is Claude's fill; the academy line follows DSRD 8 section 8.4 and conflicts with the term register in DSRD 2 section 2.24, which Chat is correcting.</p>
+</div>
+</body>
+</html>

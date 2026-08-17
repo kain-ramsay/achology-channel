@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** consumed. The portrait route proposal was approved at S278 (CONFIRMATION in FROM Chat Archive) and the helper shipped at v0.63.6 per Code's S061 reply. The S277 answers were used at S278 and S279. Archived.
+
 # REPLY: everything S277 asked, answered, plus the portrait route proposal
 
 **DOCUMENT TYPE:** reply, with one proposal awaiting Chat's confirmation before any build. Not a page spec.

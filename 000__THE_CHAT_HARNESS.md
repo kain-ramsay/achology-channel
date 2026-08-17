@@ -1,8 +1,24 @@
 # THE CHAT HARNESS
 
-**Version 1.8, S267. Authority: Kain Ramsay.**
+**Version 1.9, S280. Authority: Kain Ramsay.**
 **Read by Claude Chat at the open of every session, before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
+
+Version 1.9 gives the report-against-theme check the power to stop the session,
+ruled by Kain at S279 and executed at S280. At the S279 open the check ran and
+worked: it reported the deployed theme ahead of the newest session report Chat
+had read. Chat printed the line and then ran a four hour session on a picture
+of the site two versions stale. The check was fine; it produced a sentence,
+and a sentence can be read and ignored. So the check is now a hard stop: if
+the deployed theme version is ahead of the newest Code session report Chat has
+read, the session does not proceed to any agenda. Chat finds and reads the
+missing reports first, or tells Kain plainly that it cannot and why. No
+judgement call and no discretion. The accepted cost, stated so it is accepted
+rather than discovered: some sessions will pause at the open over something
+harmless, such as Code shipping a version and filing his report an hour later.
+Kain accepted that trade at S279 against the alternative, four hours of work
+built on a stale picture. Per Rule 8 this is a tightening of an existing
+mechanism: nothing is added and nothing needs retiring.
 
 Version 1.8 answers the question Kain carried into S267 and did not accept an
 answer to at S266: can this mechanism guarantee that Code's work reaches the
@@ -225,7 +241,7 @@ mapped to the drifts they catch:
 | Open Step 1 + Close Step 5: the channel served both ways. **The bare count is retired as proof (V1.8)** and replaced by the two mechanisms below | Inbox rot; answers read but unused |
 | Open Step 1's disposition line, per file (tightened V1.7): every file in TO Chat is listed with what happens to it this session, or the one named fact it waits on | A file read and quietly parked, invisible to Kain until he finds it himself. The count alone never caught this, because ten files read and one dispositioned still counts as ten files read |
 | **The disposition written onto the file itself (V1.8):** before any TO Chat file is archived, one line at its head names what was done with it and which board cards moved; a file that stays carries one line naming the fact it waits on | The disposition being true in the message and false in fact. A message vanishes at session end, so nothing outlives it to be graded. The folder outlives everything and any mind can read it |
-| **The report against the theme (V1.8):** at every open, the date of the newest session report against the date of the newest deployed theme version | A Code session that finished work and filed no report. Neither side has to be honest for this to fire, because both dates are read from the things themselves |
+| **The report against the theme (V1.8, hard stop V1.9):** at every open, the deployed theme version against the newest Code session report Chat has read. If the theme is ahead, the session does not proceed to any agenda: Chat finds and reads the missing reports first, or tells Kain plainly that it cannot and why. No judgement call and no discretion | A Code session that finished work and filed no report, and equally a report filed on a road Chat is not reading. Neither side has to be honest for this to fire, because both facts are read from the things themselves; and since V1.9 the finding cannot be printed and then ignored, which is what happened at S279 |
 | Open Step 1's board update from Code's session report (added V1.7): Code's `SESSION_REPORT` is opened first and its lines driven onto the Notion board in the same turn, with the count of cards moved stated in the opening message | The board going stale because work Code finished never reached it. At S055 Code and Kain fixed 108 book covers by hand; the board still showed the job outstanding the next day and Chat was one turn from asking Karen to redo it |
 | The output gate (added V1.6): produced text scripted through the standing checks (dashes, banned vocabulary, UK spelling) in Chat's code environment before it lands, count printed | Banned characters and vocabulary reaching files through eye-check fatigue |
 | Open Step 4: skills named aloud | A governing skill sitting unconsulted |
@@ -249,8 +265,9 @@ evaluator is structural: **the next session's Claude is a different instance
 with no memory of this one, and it grades the previous close at every open.**
 Folded into the open's Steps 1 and 2 (tightened V1.8): read the disposition
 lines written onto the files the previous session archived and check they
-describe work the board actually shows, run the report-against-theme date
-comparison, and verify one handover number against the thing it describes.
+describe work the board actually shows, run the report-against-theme
+comparison (a hard stop since V1.9), and verify one handover number against
+the thing it describes.
 The evaluator now grades durable artefacts rather than the previous close's
 own claims about itself. A close that reported falsely is caught by a
 different mind within one session, and the finding is named to Kain in the
@@ -282,4 +299,4 @@ and the Cowork Production Harness's pointer, and is never mirrored.
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.8.*
+*End of The Chat Harness, Version 1.9.*

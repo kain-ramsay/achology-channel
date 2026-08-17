@@ -1,3 +1,5 @@
+**DISPOSITION (S280, Chat):** folded. Kain's Safari ruling reached the record: DSRD 7 section 2.1's second clause (a school colour used as a fill still governs the contrast of any text sitting on it) was written at S279 from this finding. Archived.
+
 # RULING: the Learn More hover fill takes the school's text-safe colour
 
 **DOCUMENT TYPE:** ruling, given by Kain in session. Filed under Harness Rule 14.
