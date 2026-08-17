@@ -55,11 +55,23 @@ every couple of minutes. Code's session-open hook reads it and refuses to trust 
 channel whose heartbeat has gone stale, which is the whole reason this repository
 exists: **a stalled channel used to look exactly like a quiet one.**
 
-## The one thing that can go wrong
+## The one thing that can go wrong, and it went wrong (S280)
 
-The watcher pushes over whatever credential git already has on that machine. If
-GitHub Desktop cloned the repository, that credential normally exists. If the
-status file says the push or pull failed on authentication, open GitHub Desktop,
-press Push once so it stores the credential, and run the installer again.
+The watcher pushes over whatever credential git already has on that machine, and
+**on this machine it had none.** The installer ran clean on 18 August 2026 and the
+first cycle stopped at `Username for 'https://github.com':`. GitHub Desktop is
+logged in and keeps its login inside itself, so the git the watcher runs cannot
+see it. The advice this section used to give, press Push once in GitHub Desktop
+and the credential appears, is wrong for that reason and has been replaced.
+
+**The fix is the second file in this folder: double click
+`store-github-login.command`.** It asks for one thing, a GitHub token, stores it
+in the Mac keychain where command line git looks, and proves it by asking GitHub
+before it lets you close the window. It asks for no Mac password, installs
+nothing, and is safe to run twice.
+
+Getting the token is five clicks in Safari and one copy. The numbered walk is in
+`ANSWER__The_One_Step_That_Gives_Chats_Git_A_GitHub_Login_S063.md`, in the TO Chat
+folder, and Chat sits with Kain while he runs it.
 
 *No em or en dashes in this file; checked before writing.*
