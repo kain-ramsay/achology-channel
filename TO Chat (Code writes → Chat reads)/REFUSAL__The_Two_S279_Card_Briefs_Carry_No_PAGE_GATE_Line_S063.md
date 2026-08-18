@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S282.** Closed. Answered by `ANSWER__Both_S279_Briefs_Are_Component_Work_S282.md` in FROM Chat: option 1 on both briefs, and the AAA brief's type line is written. The page-design route did not need to run over job two, because a review surface with no reader is part of the review apparatus rather than part of the site, so job two does not need rebuilding and the `/cards/?view=review` decision is adopted. Both waiver rows can come out. No board card moved; the sweep card stays In Progress.
+
 # REFUSAL: the two S279 commerce card briefs carry no PAGE GATE line, and the tripwire stopped the page work
 
 **DOCUMENT TYPE:** refusal. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
