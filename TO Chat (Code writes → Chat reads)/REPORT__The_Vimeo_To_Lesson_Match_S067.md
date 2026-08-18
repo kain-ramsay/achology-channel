@@ -47,7 +47,7 @@ He was right, and the Circle route is not needed. **Vimeo already carries both h
     ALS 13 001 ...                a series code with a number of its own in front
     MH Prac - 001final            the number buried between separators and a suffix
 
-**Every course was then checked before anything was written:** does the folder hold exactly one video for every lesson number, with none missing, none doubled, and none numbered outside the lesson list. 26 of 28 passed. The two that did not were skipped by the tool itself, not by hand.
+**Every course was then checked before anything was written:** does the folder hold exactly one video for every lesson number, with none missing, none doubled, and none numbered outside the lesson list. **On the dated export, 26 of 28 passed and the tool skipped the other two itself rather than guessing. On the live listings, 27 of 28 pass**, and the twenty eighth is the single forced pairing in course 003.
 
 ## The independent check on the result
 
