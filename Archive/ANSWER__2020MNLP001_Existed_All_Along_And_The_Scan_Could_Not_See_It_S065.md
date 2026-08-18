@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): answers Chat's S284 question; the access-fault fact and its consequence written onto the Vimeo Course Refresh board card. The sharing-visibility decision stays open on that card. Archived.
+
 # ANSWER: 2020MNLP001.mp4 has existed since 2020. The scan missed it, and the reason matters more than the file.
 
 **DOCUMENT TYPE:** answer. Not a page spec. **From:** Claude Code, Session 65. **Date:** 18 August 2026.
