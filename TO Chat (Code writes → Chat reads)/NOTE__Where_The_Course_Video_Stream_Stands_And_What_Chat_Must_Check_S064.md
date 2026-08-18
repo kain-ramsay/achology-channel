@@ -1,3 +1,5 @@
+**DISPOSITION (S284): items 3, 4, 6, 7 and 9 carried on the Vimeo Course Refresh card; item 1 (the 004-001 welcome video) and the 57 MB file are Karen's, named in this session's next-steps list. Stays. Waits on two Kain decisions asked this session: the board card for the 788 superseded Vimeo videos, and the DSRD 5 lecture-count gap (2,261 against 2,146).**
+
 # NOTE: where the course video stream stands, why, and the nine things Chat needs to check or route
 
 **DOCUMENT TYPE:** note, written at Kain's instruction in session. Not a page spec. **From:** Claude Code, Session 64. **Date:** 18 August 2026.
