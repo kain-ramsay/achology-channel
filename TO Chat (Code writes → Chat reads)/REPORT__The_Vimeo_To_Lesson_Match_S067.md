@@ -1,4 +1,4 @@
-# REPORT: Vimeo is matched to lesson on the same true north. 1,872 of 2,146 filled, two courses held.
+# REPORT: Vimeo is matched to lesson on the same true north. All 2,146 filled.
 
 **DOCUMENT TYPE:** report. **From:** Claude Code, Session 067. **Date:** 19 August 2026.
 **Closes:** the Vimeo to lesson join, which the fresh eyes review raised as Finding 4 and which `RULING_AND_COMMISSION__Circle_Read_Only_Is_The_Vimeo_To_Lesson_Matcher_S285.md` routed through Circle.
