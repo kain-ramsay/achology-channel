@@ -6,6 +6,19 @@
 .Spotlight-V100
 .Trashes
 
+# THE ROOT HEARTBEAT, untracked from S063 and this is the fix for a dead road.
+#
+# Both machines wrote and committed this one file every two minutes. Two
+# divergent commits on the same single line, every cycle, which guarantees a
+# rebase conflict rather than risking one, and both machines were found wedged
+# mid-rebase because of it.
+#
+# It is still WRITTEN every cycle on every machine, because Code's session-open
+# hook reads its timestamp off its own disk to answer "did my watcher run". It
+# simply never needed to travel to answer that. Cross-machine liveness moved to
+# heartbeat/<machine>.txt, one path per machine, where a conflict is impossible.
+HEARTBEAT.txt
+
 # Editor and temporary files, so a half-saved document never travels as though
 # it were a delivered instruction.
 *.swp
