@@ -40,7 +40,9 @@ Your `Lesson Key` currently carries the section, in the form `001-S08-L175`. **S
 
 **Add one column, `Lesson Number Padded`**, holding the same padded number on its own. The source `Lesson Number` column stays exactly as Karen left it; this is an added column and never an edit.
 
-**Two things this fixes at once.** Every key becomes directly comparable to a Drive file name. And the two rows in course 012 that carry no section, which you correctly refused to guess at, now take keys without anybody inferring anything: they become `012-047` and `012-049` because a flat key needs no section. **Confirm both are keyed after the rewrite, so the set reads 2,146 of 2,146 rather than 2,144.**
+**Two things this fixes at once.** Every key becomes directly comparable to a Drive file name. And the two rows in course 012 that carry no section, which you correctly refused to guess at, now take keys without anybody inferring anything, because a flat key needs no section. **Build their keys from their own Lesson Number values, whatever those are.** Your report called them "rows 47 and 49" and Chat cannot tell from that whether 47 and 49 are their positions in the sheet or their lesson numbers, so no key is written here for you to copy. **Confirm both are keyed after the rewrite, so the set reads 2,146 of 2,146 rather than 2,144, and state the two keys you produced.**
+
+**`Section Order` stays.** It is no longer part of the key, and that is the only thing that changed about it. It is kept because the website's curriculum browser groups lessons under section headings and needs it. Do not drop it.
 
 ## Step 2: add two columns for the video itself
 
@@ -51,33 +53,46 @@ Your `Lesson Key` currently carries the section, in the form `001-S08-L175`. **S
 
 `Drive File ID` is new; `Drive File Name` already exists empty from the split.
 
-## Step 3: build the map, and match on two things rather than one
+## Step 3: prove the folder-to-course mapping before matching anything
+
+**Do this before Step 4 and stop if it fails.** Every join below assumes Drive folder `016` is the same course as CSV sheet `016`. That has been assumed, never checked, and if one folder is out of step then every row in it joins to the wrong lecture and the report will look clean.
+
+**Check each of the twenty eight Drive folder names against the canonical course name in DSRD 5 section 1 for that number.** Chat has already seen that the CSV filenames follow DSRD 5 and that some Drive folder names differ in punctuation or wording, so compare on meaning rather than on an exact string, and **list every folder whose name does not clearly denote the DSRD 5 course of the same number.** If any folder is genuinely a different course, stop and report rather than matching.
+
+## Step 4: build the map, and match on two things rather than one
 
 For every course, read its Drive folder and match each video to its lesson row.
 
-**Match on the number first.** Parse the three-digit number out of the file name, pair it with the course folder number, and join to `Lesson Key`.
+**Parse the number, do not assume its width.** Take the leading run of non-digit characters as the shortcode, then the run of digits immediately after it as the number. Do not assume the number is exactly three digits, and do not assume there is no space. Report anything that does not fit that shape rather than forcing it.
 
-**Then check the name independently.** Compare the remainder of the file name against `Lesson Name`. This is a check, never a matcher: Karen has ruled the number wins. Its only job is to tell us where the number is quietly pointing at the wrong lecture.
+**Match on the number.** Pair the parsed number, padded to three digits, with the course folder number, and join to `Lesson Key`. **The number is the only matcher.**
 
-**A match is recorded only where both agree.** Where the number matches and the name does not, record the match, flag the row, and show both strings so a human can read the difference. Where the number does not match anything, record nothing and list it.
+**Then check the name, as a check and never as a matcher.** Compare the remainder of the file name, with the `.mp4` removed, against `Lesson Name`. **Normalise both sides before comparing, and use exactly this normalisation:** lower case; `&` read as `and`; all punctuation and bracketed matter ignored; runs of whitespace collapsed to one; leading and trailing whitespace removed. Then record one of three verdicts per row: **exact** (identical before normalising), **normalised** (identical after normalising), or **different**. Report the three counts separately. Without a stated method the flag count means nothing, because a different rule would produce a different number.
+
+**Write the match into the row.** For every row whose number matched a Drive file, write that file's name into `Drive File Name` and its ID into `Drive File ID`. **This happens whether the name verdict is exact, normalised or different.** The name verdict is recorded for a human to read; it never decides whether the row is filled. A row left empty means no video was found for that lesson, and it must mean only that.
+
+**Where the number matches nothing**, write nothing into that row and list the lesson.
+
+**Where two or more Drive files in one folder carry the same number**, write nothing into that row, list every file involved with its ID and size, and move on. **Do not choose between them.** Picking the larger, the newer or the better-named one is an inference about somebody's library, and a wrong pick here puts the wrong video on a lesson with nothing left to show it happened.
 
 **Nothing in Google Drive is opened, moved, renamed or downloaded.** Metadata only.
 
-## What is asked back
+## What is asked back, in TO Chat
 
-**Per course, as a table:** Drive files found, CSV rows, matched on number and name, matched on number with the name differing, CSV rows with no Drive file, Drive files with no CSV row.
+**Per course, as a table:** Drive files found, CSV rows, matched with an exact name, matched with a normalised name, matched with a different name, CSV rows with no Drive file, Drive files with no CSV row, and duplicate-number collisions.
 
 **The size of the library, per course and in total.** Every Drive file's size in bytes is already in the metadata you are reading, so this costs nothing extra. Report it per course and as one total, in bytes and in terabytes.
 
-**Why it is asked, added on Karen's question in session.** Vimeo is currently at seventy one per cent of a seven terabyte allowance, which is roughly 4.97 TB used and 2 TB free. The Drive files are the re-edited versions and she expects them to be substantially smaller than what Vimeo holds. If that is right, the replacement run frees real space and the hosting plan may be able to come down, which is a money decision rather than a technical one. **The Drive total is half of that sum and you can produce it now; the Vimeo side comes with the library export, which is not yet commissioned.**
-
-**One thing to flag rather than assume when the Vimeo side is measured.** Replacing a file through the Vimeo API may or may not release the storage the old version occupied, depending on how Vimeo retains prior versions. **If the old versions still count against the allowance, the saving is on paper and not in the account**, and the plan decision changes completely. Name what you find rather than inferring it.
+**Why it is asked, added on Karen's question in session.** Vimeo is currently at seventy one per cent of a seven terabyte allowance, which is roughly 4.97 TB used and 2 TB free. The Drive files are the re-edited versions and she expects them to be substantially smaller than what Vimeo holds. If that is right, the replacement run frees real space and the hosting plan may be able to come down, which is a money decision rather than a technical one. **The Drive total is half of that sum. The Vimeo half is commissioned separately in `COMMISSION__Export_The_Whole_Vimeo_Library_Read_Only_And_Answer_The_Account_Questions_S283`, which also asks whether replacing a file actually releases the old version's storage.**
 
 **Then, listed in full rather than counted:**
 
-- Every row where the number matched and the name differed, with both strings side by side.
+- Every row where the number matched and the name verdict was **different**, with both strings side by side, and the raw strings rather than the normalised ones.
+- Every row whose name verdict was **normalised**, with both strings, because a punctuation difference today becomes a rename decision tomorrow.
 - Every lesson with no video, by key and name. These are the ones that cannot be replaced in Vimeo.
-- Every Drive file with no lesson row, by file name. These are either extra material, duplicates, or a lesson missing from the master.
+- Every Drive file with no lesson row, by file name, ID and size. These are either extra material, duplicates, or a lesson missing from the master.
+- **Every duplicate-number collision**, with every file involved.
+- **Every Drive folder whose name did not clearly denote the DSRD 5 course of the same number** (Step 3).
 - **Any course folder holding files that are not lecture videos at all**, or holding subfolders. **Karen stated in session that there is nothing else in these folders: no resources, no bonus files, no older duplicates, no subfolders.** That is her answer and it is expected to hold. It is still asked back because one folder was read this session and twenty seven were not, and a stated fact confirmed by machine is worth more than either alone. **Report agreement as plainly as you would report an exception.**
 - Any course using more than one shortcode, or a file whose name does not fit the shortcode-then-number pattern.
 
@@ -91,7 +106,7 @@ For every course, read its Drive folder and match each video to its lesson row.
 
 **No download, upload, replacement or deletion of any video.** Drive holds the only copy of this library.
 
-**No Vimeo work of any kind.** Still not written, still waiting on Karen's remaining answers.
+**No Vimeo work of any kind in this commission.** The Vimeo library export is a separate commission, `COMMISSION__Export_The_Whole_Vimeo_Library_Read_Only_And_Answer_The_Account_Questions_S283`, which is written and sitting beside this one. Run this one first: its map is what the Vimeo export gets read against.
 
 **No standardisation of any description.** That pass is Chat's.
 
