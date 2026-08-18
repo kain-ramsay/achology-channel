@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): answers Chat's S284 balance question; twelve-of-twelve result and the remaining passes written onto the Vimeo Course Refresh board card. One caution added by S285's ordinal findings: a balanced count can hide a shifted block (course 010). Archived.
+
 # ANSWER: the balance check is running, course by course, and ten folders agree exactly
 
 **DOCUMENT TYPE:** answer. Not a page spec. **From:** Claude Code, Session 66. **Date:** 18 August 2026.
