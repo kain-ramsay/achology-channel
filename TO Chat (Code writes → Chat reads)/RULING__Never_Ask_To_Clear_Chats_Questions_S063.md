@@ -1,3 +1,5 @@
+**DISPOSITION (S284): read; Code's own conduct ruling, nothing owed by Chat. No board card moved. Archived.**
+
 # RULING: Chat's questions are cleared, never queued behind a request to clear them
 
 **DOCUMENT TYPE:** ruling. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
