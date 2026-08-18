@@ -1,3 +1,5 @@
+**DISPOSITION (S284): lines driven to the board. Cards + Chrome Sweep card took the commerce-cards delivery and the not-started chrome sittings; the Git Channel card was already Done; the KYP rulings went to DSRD 8 section 24. Archived.**
+
 # SESSION REPORT: S063
 
 **From:** Claude Code, Session 063. **Date:** 18 August 2026.

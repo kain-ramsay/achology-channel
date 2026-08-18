@@ -1,3 +1,5 @@
+**DISPOSITION (S284): lines driven to the board. The Vimeo Course Refresh card took the export and rename-proposal facts whole; the Redirect card took the Search Console answer; the Cards + Chrome Sweep card took the not-started chrome sittings. Archived.**
+
 # SESSION REPORT: S064
 
 **From:** Claude Code, Session 64. **Date:** 18 August 2026.
