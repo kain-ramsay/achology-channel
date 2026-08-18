@@ -1,3 +1,5 @@
+**DISPOSITION (S284): the eight rulings and their values written into DSRD 8 as section 24, decision history. The open items (master recolour, ship format, per-page placements) are recorded there and in DSRD 7 set 8. No board card moved. Archived.**
+
 # RULING: the Know Your Psychology rework, everything Kain settled at S063
 
 **DOCUMENT TYPE:** ruling. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
