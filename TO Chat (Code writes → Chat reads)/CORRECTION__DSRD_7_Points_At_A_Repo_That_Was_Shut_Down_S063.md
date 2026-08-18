@@ -1,3 +1,5 @@
+**DISPOSITION (S284): DSRD 7 section 12.2 corrected. The dead library line replaced with the four real locations, the PNG-and-SVG guarantee removed, the retirement noted. No board card moved. Archived.**
+
 # CORRECTION: DSRD 7 names a master library that was shut down months ago
 
 **DOCUMENT TYPE:** correction. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
