@@ -1,3 +1,5 @@
+**DISPOSITION (S284): facts and all three pre-rename flags driven onto the Vimeo Course Refresh card. Step 2 waits on the fresh-eyes review, then Kain reading the proposal and saying yes; the card carries that wait. Archived.**
+
 # REPORT: the rename is proposed, 2,145 files, and nothing has been renamed
 
 **DOCUMENT TYPE:** report. Not a page spec. **From:** Claude Code, Session 64. **Date:** 18 August 2026.
