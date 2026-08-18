@@ -1,3 +1,5 @@
+**DISPOSITION (S284): stays. Waits on two Kain rulings asked this session: whether the specification records 42 or 43 (recommendation: 42, the reproducible count, with the Archive named as the deliberate exclusion), and whether the content-hash drift check travels to Code as a brief.**
+
 # ANSWERS: the generator count, the seven 620 pages, and how to catch instruction drift
 
 **DOCUMENT TYPE:** answers. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
