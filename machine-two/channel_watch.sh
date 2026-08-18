@@ -108,6 +108,16 @@ trap 'rmdir "$LOCKDIR" 2>/dev/null' EXIT INT TERM
 
 stamp() { date -u "+%Y-%m-%dT%H:%M:%SZ"; }
 
+# THE MACHINE'S OWN NAME, worked out before anything can fail, because the status
+# written on a failure is the one most worth having and it is filed under this
+# name. Sanitised to letters, digits and hyphens: it becomes a path in a git
+# repository, and a computer called "Kain's iMac" would otherwise produce a
+# filename carrying an apostrophe and a space.
+MACHINE=$(scutil --get ComputerName 2>/dev/null || hostname)
+MACHINE=$(printf '%s' "$MACHINE" | tr '[:upper:]' '[:lower:]' \
+          | sed 's/[^a-z0-9]\{1,\}/-/g; s/^-//; s/-$//')
+[ -z "$MACHINE" ] && MACHINE="unknown-machine"
+
 write_status() {
   # $1 = OK or FAIL, $2 = the sentence. Written whole each time rather than
   # appended, so the hook reads a state rather than a log it must interpret.
@@ -193,14 +203,8 @@ fi
 #                          can see this machine beating and no two machines ever
 #                          write the same path.
 #
-# The machine name is sanitised to letters, digits and hyphens: it becomes a
-# filename in a git repository, and a computer called "Kain's iMac" would
-# otherwise produce a path with an apostrophe and a space in it.
-MACHINE=$(scutil --get ComputerName 2>/dev/null || hostname)
-MACHINE=$(printf '%s' "$MACHINE" | tr '[:upper:]' '[:lower:]' \
-          | sed 's/[^a-z0-9]\{1,\}/-/g; s/^-//; s/-$//')
-[ -z "$MACHINE" ] && MACHINE="unknown-machine"
-
+# The machine's name was worked out at the head of this file, before anything
+# could fail, so that a failure status is filed under it too.
 mkdir -p heartbeat
 stamp > HEARTBEAT.txt
 stamp > "heartbeat/$MACHINE.txt"
