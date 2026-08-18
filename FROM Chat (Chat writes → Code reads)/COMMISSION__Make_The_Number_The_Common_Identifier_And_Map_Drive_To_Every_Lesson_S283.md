@@ -72,7 +72,7 @@ For every course, read its Drive folder and match each video to its lesson row.
 - Every row where the number matched and the name differed, with both strings side by side.
 - Every lesson with no video, by key and name. These are the ones that cannot be replaced in Vimeo.
 - Every Drive file with no lesson row, by file name. These are either extra material, duplicates, or a lesson missing from the master.
-- **Any course folder holding files that are not lecture videos at all**, or holding subfolders. The shape of one folder was read this session; the other twenty seven were not.
+- **Any course folder holding files that are not lecture videos at all**, or holding subfolders. **Karen stated in session that there is nothing else in these folders: no resources, no bonus files, no older duplicates, no subfolders.** That is her answer and it is expected to hold. It is still asked back because one folder was read this session and twenty seven were not, and a stated fact confirmed by machine is worth more than either alone. **Report agreement as plainly as you would report an exception.**
 - Any course using more than one shortcode, or a file whose name does not fit the shortcode-then-number pattern.
 
 **Say plainly which courses came back clean**, because those are the ones ready to move first.
@@ -80,6 +80,8 @@ For every course, read its Drive folder and match each video to its lesson row.
 ## What is NOT commissioned
 
 **No rename of any Drive file.** Not one, not as a proof. The rename is its own commission, written only after Kain has read this map, and it will carry the old name in the CSV as its undo.
+
+**The agreed target name, recorded now so the rename commission is not re-litigated later.** Kain and Karen settled it in session: once the map is clean, the shortcode comes out of every file name, because the course number already says which course it is and the shortcode repeats it. Course 002's thirteenth video becomes `002-013 The Map is not the Territory.mp4`. **This is safe only after the map**, because the shortcode is currently the one thing that would betray a file sitting in the wrong folder, and the map is what proves none are.
 
 **No download, upload, replacement or deletion of any video.** Drive holds the only copy of this library.
 
