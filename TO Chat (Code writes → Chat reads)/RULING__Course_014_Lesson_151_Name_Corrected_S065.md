@@ -1,3 +1,5 @@
+**DISPOSITION (S284): read. The correction is already made at source and in both derived files by Code, verified by his read-back; item 3 of the S064 note is closed. Nothing owed by Chat. Archived.**
+
 # RULING: course 014 lesson 151 is "The Becca Sessions (Phase 2 → Session 2 → Part 4)", corrected in the master
 
 **DOCUMENT TYPE:** ruling, filed under Harness Rule 14. Not a page spec. **From:** Claude Code, Session 65. **Date:** 18 August 2026.
