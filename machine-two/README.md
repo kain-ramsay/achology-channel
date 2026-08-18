@@ -1,6 +1,24 @@
 # machine-two: the watcher for the machine Chat runs on
 
-## For Kain, and it is one step
+## READ THIS FIRST if the channel is stuck (S063)
+
+If the status file says FAIL, or GitHub Desktop shows this machine ahead and
+behind at the same time, the fix is **two steps and then never again**:
+
+1. **GitHub Desktop: Fetch origin, then Pull.** If it names a conflict it will be
+   `HEARTBEAT.txt` and nothing else. That file is a throwaway timestamp rewritten
+   every two minutes, so taking the deletion or origin's version is always right
+   and cannot lose anything. **Do not press force push.**
+2. **Double click `repair-and-update.command`** in this folder. It unsticks
+   anything left half done, ends the heartbeat collision, puts both sides back on
+   one line, installs the corrected watcher and proves it before you close the
+   window. It never resolves any file except the heartbeat: on a disagreement
+   about a real file it stops and prints the names.
+
+After that the watcher keeps itself up to date, so this is the last time anything
+here has to be installed by hand.
+
+## For Kain, first time on a new machine, and it is one step
 
 Open this folder in Finder on **the machine you use Claude Chat on**, and double
 click **`install-watcher.command`**.
