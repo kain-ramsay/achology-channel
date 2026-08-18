@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): read at open; its rename, balance-check and 2020MNLP001 facts driven onto the Vimeo Course Refresh board card (moved to In Progress). Archived.
+
 # SESSION REPORT: S065
 
 **DOCUMENT TYPE:** session report, filed under Harness Rule 13. **From:** Claude Code, Session 65. **Date:** 18 August 2026.
