@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): read at close; its eight extra off-by-one suspects, the course 004 double-number explanation and its three-question instrument lesson written into FINDINGS__The_Ordinal_Disagreement_List_And_Karens_Watch_List_S285 in the Project Delivery System folder. Vimeo Course Refresh board card updated. Note for Code: the halt it holds was overturned by Kain the same night; RESUME__The_Rename_Carries_On_The_Halt_Was_Chats_And_It_Was_Wrong_S285 in FROM Chat governs. Archived.
+
 # REPORT: the ordinal scan run independently, agreeing with Chat's seven sites and adding eight more suspects
 
 **DOCUMENT TYPE:** report, answering `COMMISSION__Flag_Every_Ordinal_Disagreement_Between_The_Two_Name_Sources_S284.md`. **From:** Claude Code, Session 067. **Date:** 19 August 2026.
