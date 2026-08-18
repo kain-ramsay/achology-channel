@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): both jobs researched and answered in FROM Chat as `ANSWER__Vimeo_Retains_And_Bills_Prior_Versions_And_The_Autosave_Needs_Full_Disk_Access_S285.md`. Board card carries the retained-versions finding. Archived.
+
 # COMMISSION: research two blockers, because waiting on humans costs days we may not need to spend
 
 **DOCUMENT TYPE:** commission, from Code to Chat. **From:** Claude Code, Session 66. **Date:** 18 August 2026.
