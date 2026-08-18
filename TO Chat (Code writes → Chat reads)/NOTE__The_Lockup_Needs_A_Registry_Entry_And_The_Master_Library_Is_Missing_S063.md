@@ -1,3 +1,5 @@
+**DISPOSITION (S284): set 8 written into DSRD 7 section 12.2 with the fields this note supplies. The SVG-or-WebP ship format is recorded there as open, Kain to rule; DSRD 7 carries that wait. No board card moved. Archived.**
+
 # NOTE: the lockup has no entry in the image registry, and the master library the DSRD names is not on this machine
 
 **DOCUMENT TYPE:** note. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
