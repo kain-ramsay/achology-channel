@@ -135,6 +135,29 @@ if [ -f .git/MERGE_HEAD ]; then
   recovered="${recovered} A half-finished merge was aborted."
 fi
 
+# AND THE THIRD SHAPE, found on Code's machine minutes after the first two were
+# fixed, which is why it is here: an unmerged index entry with NO rebase and NO
+# merge in progress. An interrupted stash pop can leave one behind. It blocks
+# every pull with the same "unresolved conflict" message while both --abort
+# commands above report nothing to do, so the recovery sails straight past it and
+# the road stays shut with the watcher saying only that the pull failed.
+#
+# Only the heartbeat paths are cleared, and deliberately so: those are timestamps
+# and there is never anything in them worth a decision. An unmerged entry on any
+# real file is left exactly where it is and named in the status, because
+# resolving somebody's actual writing is not a watcher's business.
+unmerged=$(git diff --name-only --diff-filter=U 2>/dev/null)
+if [ -n "$unmerged" ]; then
+  real_unmerged=$(printf '%s\n' "$unmerged" | grep -v '^HEARTBEAT.txt$' | grep -v '^heartbeat/' | grep -v '^$')
+  if [ -n "$real_unmerged" ]; then
+    write_status FAIL "A conflict is sitting unresolved on a real file, so nothing was touched. Tell Claude Code: $(printf '%s' "$real_unmerged" | tr '\n' ' ')"
+    exit 1
+  fi
+  git rm -q --cached HEARTBEAT.txt 2>/dev/null
+  git add heartbeat/ 2>/dev/null
+  recovered="${recovered} A stuck heartbeat entry left in the index was cleared."
+fi
+
 # ── 1. THE HEARTBEATS ────────────────────────────────────────────────────────
 # Written first, so that even a failing cycle proves the watcher itself ran. A
 # missing heartbeat and a stale one mean different things: never started, against
