@@ -230,7 +230,10 @@ if [ "$changed" -gt 0 ]; then
     exit 1
   fi
 elif [ "$age" -gt 600 ]; then
-  git add "heartbeat/$MACHINE.txt"
+  # The whole folder, so this machine's health line travels on the same beat as
+  # its pulse. A pulse with no health line beside it tells the far side that the
+  # machine is alive and nothing about whether it is working.
+  git add heartbeat/
   git commit -q -m "heartbeat: $MACHINE" 2>/dev/null
 fi
 
