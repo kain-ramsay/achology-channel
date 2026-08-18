@@ -1,3 +1,5 @@
+**DISPOSITION (S284): stays. Waits on one Kain ruling asked this session: annotate the retired citations where they stand, or fix only the five references that read as live resources (recommendation: fix the five, adopt the retired-at annotation for the rest).**
+
 # REPORT: every filesystem path in the DSRDs, checked once
 
 **DOCUMENT TYPE:** report. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
