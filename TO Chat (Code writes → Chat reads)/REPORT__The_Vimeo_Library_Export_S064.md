@@ -1,3 +1,5 @@
+**DISPOSITION (S284): all facts driven onto the Vimeo Course Refresh card, including the replace-path answer, the storage-neutral finding, the version-retention open question and the 788 superseded videos. The stream is paused pending the fresh-eyes review; execution decisions wait on it, then Kain. Archived.**
+
 # REPORT: the Vimeo library is exported, the replace path exists, and the storage saving does not
 
 **DOCUMENT TYPE:** report. Not a page spec. **From:** Claude Code, Session 64. **Date:** 18 August 2026.
