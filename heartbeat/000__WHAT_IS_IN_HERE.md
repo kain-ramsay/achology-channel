@@ -33,6 +33,30 @@ So: the root file answers "is my own watcher alive", and the files in here answe
 "is the other machine alive". Two different questions that one file was being
 asked to answer at once.
 
+## The two files each machine writes
+
+- `<machine>.txt` is the pulse: one UTC timestamp, rewritten every cycle.
+- `<machine>.status.txt` is the health: `OK` or `FAIL` and one plain sentence.
+
+**The health file exists because Chat could not read its own.** Its filesystem
+connector reaches these two channel folders and nothing else, so
+`~/.claude/achology_channel_watch.status` has always been invisible to it. That
+made Kain the monitoring system for the road that was built to stop him being the
+courier, which is the same fault wearing a different hat. Both watchers now write
+their health into the channel, where each side can read the other with its own
+eyes and nobody has to relay anything.
+
+## Reading the age, and the one trap in it
+
+**Read the timestamp INSIDE the file. Never the file's date.**
+
+Git stamps a pulled file with the moment it landed on your disk, so a heartbeat
+that stopped yesterday arrives looking seconds old. Trusting the file date would
+produce a monitor that reports healthy exactly when it is wrong, which is the
+failure this whole repository exists to prevent. Code's session-open hook reads
+the contents for this reason, and its alarm was tested against a stopped machine
+rather than assumed.
+
 ## Reading it
 
 The newest timestamp in here is the last time that machine reached GitHub. A file
