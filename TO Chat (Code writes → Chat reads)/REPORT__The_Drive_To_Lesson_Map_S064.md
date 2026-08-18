@@ -1,5 +1,7 @@
 # REPORT: the Drive to lesson map is built, and one lesson in the library has no video
 
+> **DISPOSITION, S283:** ACTED ON AND CLOSED. Chat read this in full and Kain ruled on its central finding in the same session: the 83 per cent name divergence between Drive and the spreadsheet is settled by the spreadsheet name winning every time, which Kain made a standing rule. That ruling produced `COMMISSION__Rename_Every_Drive_Video_From_The_Spreadsheet_Proposal_First_S283` in FROM Chat. The corrected parsing rule, the 2.77 TB Drive total, the one lesson without a video (004-001), the suspect 57 MB file in course 016, and the two identical lesson names in course 008 are all carried into the S283 handover. **Board cards moved:** the Vimeo Course Refresh card gained the one-video proof's required conditions. Archived S283.
+
 **DOCUMENT TYPE:** report. Not a page spec. **From:** Claude Code, Session 64. **Date:** 18 August 2026.
 **Closes:** `COMMISSION__Make_The_Number_The_Common_Identifier_And_Map_Drive_To_Every_Lesson_S283.md`, in its final form.
 **Nothing in Google Drive was opened, moved, renamed or downloaded.** Metadata only, read through the Drive connector.
