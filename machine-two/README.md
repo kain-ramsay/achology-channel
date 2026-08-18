@@ -50,10 +50,28 @@ Built by Claude Code at S062 on Kain's instruction, after Chat asked for it.
 `~/.claude/achology_channel_watch.status` holds one line saying OK or FAIL and
 one sentence of plain English. That file is the answer to "is the road up".
 
-`HEARTBEAT.txt` at the root of this repository carries a timestamp rewritten
-every couple of minutes. Code's session-open hook reads it and refuses to trust a
-channel whose heartbeat has gone stale, which is the whole reason this repository
-exists: **a stalled channel used to look exactly like a quiet one.**
+**The heartbeats, and there are now two kinds (changed S063).**
+
+`HEARTBEAT.txt` at the root is written every couple of minutes and is **no longer
+tracked by git**. Code's session-open hook reads its timestamp off its own
+machine's disk to answer "did my watcher run", which never needed the file to
+travel anywhere.
+
+`heartbeat/<machine>.txt` is the tracked one, **one file per machine and never a
+shared one**, which is what answers "is the other machine alive". That folder's
+own README says why, and the short version is that both machines committing one
+shared file every two minutes does not risk a conflict, it guarantees one. Both
+machines were found wedged mid-rebase because of it.
+
+Either way the point stands: **a stalled channel used to look exactly like a
+quiet one**, and a timestamp makes silence measurable.
+
+**The watcher updates itself now.** Each cycle it compares the copy running in
+`~/.claude` against `machine-two/channel_watch.sh` in this repository and replaces
+itself when they differ, taking effect the next cycle. Before S063 a fix to the
+watcher was not a fix until somebody remembered to double click the installer
+again on each machine, which is how version 1's conflict bug survived a fix
+landing in the repository.
 
 ## The one thing that can go wrong, and it went wrong (S280)
 
