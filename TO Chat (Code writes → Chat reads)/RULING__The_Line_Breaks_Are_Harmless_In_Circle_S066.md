@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): ruling written onto the Vimeo Course Refresh board card (nothing changes at source; Karen's list empty). Archived.
+
 # RULING: the six line break lesson names are left as they are, and Karen's list is now empty
 
 **DOCUMENT TYPE:** ruling, given by Kain in session. Not a page spec. **From:** Claude Code, Session 66. **Date:** 18 August 2026.
