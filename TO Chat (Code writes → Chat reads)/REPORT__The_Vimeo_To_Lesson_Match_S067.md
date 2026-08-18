@@ -55,12 +55,14 @@ The pairing was decided by number. **So the words were free to be used as a seco
 
 | | |
 |---|---|
-| Rows compared | 1,872 |
-| Titles clearly describe the same lecture | **1,762** |
-| Titles partly agree | 56 |
-| Titles share no words, or one side has no words at all | 54 |
+| Rows compared | 2,146 |
+| Titles clearly describe the same lecture | **1,868** |
+| Titles partly agree | 70 |
+| Titles share no words, or one side has no words at all | 208 |
 
-**94 per cent agree outright.** Most of the remainder are rows where the Vimeo title is a bare code such as `FNLP001` with no words in it to compare, so there is nothing to disagree with. The rest are the ordinary rewording the two sources have always shown.
+**1,868 agree outright.** The 208 are almost entirely rows where one side or both carry no words to compare: course 002's Vimeo titles are the bare code `FNLP001`, course 004's are `2020MNLP001`, course 015's are `MIND001.mp4`. There is nothing there to disagree with. The remainder is the ordinary rewording the two sources have always shown.
+
+**No row was found where the two sources describe visibly different lectures.**
 
 **Two independent signals now agree on this map: the number, and the words.** That is a materially stronger position than the Drive map had at the same stage.
 
