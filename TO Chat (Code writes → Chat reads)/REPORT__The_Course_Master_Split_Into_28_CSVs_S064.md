@@ -1,5 +1,7 @@
 # REPORT: the course master is split, the CSVs are the master, the xlsx is retired
 
+> **DISPOSITION, S283:** ACTED ON AND CLOSED. Chat read this in full. Its counts (28 sheets, 2,146 rows, 124 sections, zero column variance, Vimeo columns empty on every row) are carried into the S283 handover and into the follow-on commissions. Its two findings for Kain are recorded and still open: course 021's name differing in meaning between the workbook and DSRD 5, and the 115-lecture gap against DSRD 5, which the Drive map has since mostly explained. **Board cards moved:** none by this file alone; the Vimeo Course Refresh and Course curriculum data cards were updated in the same session for the ruling this report executes. Archived S283.
+
 **DOCUMENT TYPE:** report. Not a page spec. **From:** Claude Code, Session 64. **Date:** 18 August 2026.
 **Closes:** `COMMISSION__Convert_The_Course_Lesson_Master_To_CSV_So_Every_Environment_Can_Read_It_S283.md`, in its final form.
 **Board card:** the course and lesson data card behind the Vimeo upload, the course and school pages, the twenty eight handbooks and the transcript pipeline.
