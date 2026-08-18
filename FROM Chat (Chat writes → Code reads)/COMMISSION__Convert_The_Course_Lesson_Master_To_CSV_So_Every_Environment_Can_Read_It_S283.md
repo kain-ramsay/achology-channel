@@ -42,18 +42,27 @@ One thing in it does still hold, and it is the only key you have: **sheets `001`
 1. **Write one CSV per sheet**, into the `Course + Lesson Data | MASTER` folder itself.
 2. **Name each CSV by its sheet number and its canonical course name** from DSRD 5 section 1, so the folder listing tells a human which course is which without opening anything.
 3. **Carry every existing column through untouched**: no renaming, no reordering, no cleaning, no trimming, no filling of blanks. Every value arrives exactly as Karen left it.
-4. **Add the five columns below, empty on every row**, appended after the existing ones. They are empty by design: each is filled by a later, separately commissioned job, and adding them now means no file is ever restructured mid-stream.
+4. **Add the seven columns below**, appended after the existing ones. Two you fill in this pass. Five are created empty by design, each filled by a later separately commissioned job, so no file is ever restructured mid-stream.
+
+   **Filled by you, in this pass:**
+
+   | Column | What it holds |
+   |---|---|
+   | Section Order | An integer, 1 upward, in the order the sections appear in the sheet, restarting at 1 for each course. Every row of a section carries its section's number. **This exists because nothing in the source states section order except the physical row order, so one sort would scramble a course silently and nothing would report it.** Derive it from the row order as found, and change nothing else. |
+   | Lesson Key | A unique label for one lesson, in the exact form `001-S03-L07`: the three-digit sheet number, then `S` and the two-digit Section Order, then `L` and the two-digit Lesson Number from the source. **This exists because no column in the source identifies a lesson: names repeat across courses and are about to be rewritten by the standardisation pass, Vimeo Video ID is empty on every row, and the Circle IDs cover roughly a seventh of rows. Row position is currently the only identifier, and row positions move.** Every downstream job is a matching job (Drive file to lesson, Vimeo video to lesson, website row to lesson) and each becomes checkable with this key and guesswork without it. **Report any duplicate key you generate rather than resolving it**, and report any Lesson Number that is blank or not a number; either means the source holds something we do not yet understand. |
+
+   **Created empty, filled later:**
 
    | Column | What fills it, later |
    |---|---|
-   | Course Slug | The same value on every row of one file. The website import needs it to know which course a row belongs to. |
+   | Course Slug | The same value on every row of one file. **Read from the site URL structure in DSRD 1, never invented**, or the website import points at pages that do not exist. Left empty here because that mapping is its own verification job. |
    | Drive File Name | The Drive to spreadsheet match, once Karen has named the folders and the naming relationship. |
    | Circle Course ID | Recovery from the archived `28 Achology Courses Structure (Incomplete but Current) SUPERSEDED S254.xlsx`, which carries these on roughly 328 rows. |
    | Circle Lesson ID | The same recovery. |
    | Standardised Description | The house-copy standardisation pass, run by Chat. **It writes here, never over Lesson Description**, so the original is always visible beside the rewrite and any disagreement is checkable rather than lost. |
 
 5. **Retire the xlsx** into that folder's Archive, renamed so its status is readable from the name, in the same shape the other superseded files there already use.
-6. **Rewrite `Course_Lesson_Master__Read_Me_First.md`** to describe what the folder now is: the twenty eight CSVs are the master, one per course, named by sheet number and canonical course name; the five appended columns and what fills each; the DSRD 5 numbering as the key; and the xlsx named as retired with its date. Its current contents are stale and are replaced, not appended to.
+6. **Rewrite `Course_Lesson_Master__Read_Me_First.md`** to describe what the folder now is: the twenty eight CSVs are the master, one per course, named by sheet number and canonical course name; the seven appended columns, which two are filled and which five wait; the Lesson Key's exact form, so anyone can read one and know what it means; the DSRD 5 numbering as the key; and the xlsx named as retired with its date. Its current contents are stale and are replaced, not appended to.
 
 ## What is asked back, as facts rather than assurances
 
@@ -61,7 +70,9 @@ Report these in TO Chat:
 
 - The number of sheets found, and the number of CSVs written.
 - **The row count per course, as a table.** Chat cannot verify this independently, so it is the number every downstream job is counted against.
-- The exact column list found in the source sheets, in order, before your five were appended.
+- The exact column list found in the source sheets, in order, before your seven were appended.
+- **The section count per course**, beside the row count, since Section Order is now a fact we are asserting rather than inferring.
+- Any duplicate Lesson Key, any blank or non-numeric Lesson Number, and any row that carries no section at all.
 - **Any sheet whose columns differ from the others.** One odd sheet is what breaks a bulk run silently.
 - Whether Vimeo URL and Vimeo Video ID are still empty on every row, or whether some now carry values.
 - Anything in the file nobody has asked about.
