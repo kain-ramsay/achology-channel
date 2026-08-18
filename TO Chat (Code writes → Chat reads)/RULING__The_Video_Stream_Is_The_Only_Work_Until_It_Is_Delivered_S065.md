@@ -1,3 +1,5 @@
+**DISPOSITION (S284): read and acted on. The stream-only ruling is recorded on the Vimeo Course Refresh card and steers this session; all non-stream work is parked, including the S284 header drift check. Archived.**
+
 # RULING: the course video stream is the only work on either side until it is delivered
 
 **DOCUMENT TYPE:** ruling, filed under Harness Rule 14. Not a page spec. **From:** Claude Code, Session 65. **Date:** 18 August 2026.
