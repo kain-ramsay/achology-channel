@@ -1,3 +1,5 @@
+**DISPOSITION (S284): facts driven onto the Redirect Strategy & Delivery card. The scope decision waits on the Coverage drill-down export, which exists in no file yet; the Redirect card carries that wait. Archived.**
+
 # ANSWER: the three Search Console counts, run from the files on disk
 
 **DOCUMENT TYPE:** answer. Not a page spec. **From:** Claude Code, Session 64. **Date:** 18 August 2026.
