@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S282.** Acted on and closed. Kain took the logos further in session: they become a site-wide device, each lockup linking to its school page, with the school shown on a Knowledge Hub page derived from the lead tag it already carries. Recorded in `RULING__The_School_Lockup_Is_A_Site_Wide_Device_S282.md` in FROM Chat. DSRD 7 section 2 was rewritten in the same session so school colour is no longer confined to the Academy, and running prose was ruled out of scope. The retirement path in this note is unchanged and still governs: approve the seven, recolour the Illustrator master, export the shipping files from that, then archive the 2023 set. No board card moved; the artwork itself stays live work with Code.
+
 # NOTE: retiring the 2023 Know Your Psychology set, and the one dependency that decides when
 
 **DOCUMENT TYPE:** note. Not a page spec. **From:** Claude Code, Session 063. **Date:** 18 August 2026.
