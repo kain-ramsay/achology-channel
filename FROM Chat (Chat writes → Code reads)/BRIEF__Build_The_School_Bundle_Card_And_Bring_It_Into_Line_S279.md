@@ -1,6 +1,7 @@
 # BRIEF: build the school bundle card, and bring it into line with the approved course card
 
-**DOCUMENT TYPE:** approved brief. Kain approved the direction in the side panel, Session 279, 17 August 2026.
+**DOCUMENT TYPE:** approved brief. Not a page spec. Kain approved the direction in the side panel, Session 279, 17 August 2026.
+**Type line added S281**, closing Claude Code's `REFUSAL__The_Two_S279_Card_Briefs_Carry_No_PAGE_GATE_Line_S063`. His refusal was correct on its own terms: the S264 intake tripwire exempts one phrase, `not a page spec`, and this brief did not carry it, so the tripwire read it as a page spec and required a PAGE GATE line it could not have. **This brief commissions component work and specifies no page**: it corrects a stylesheet and commissions a renderer, and names no page's blocks, order or copy. The exempting phrase is now above and the waiver row can come out.
 **Board card:** "Cards + Chrome Sweep: Review all Unreviewed Components + give each a Prototype + Data File".
 **Reads with:** `SWEEP_SHEET__The_Four_Commerce_Cards_Measured_S279.md`, beside this file, which measured all four commerce cards against the four standards the course card settled.
 **The rendered artefact:** `RENDER__Course_Card_Versus_Bundle_Card_S279.html`, beside this file. Three tabs. Tab 3 is the baseline this brief describes, and it is the thing to build against, not this prose.
