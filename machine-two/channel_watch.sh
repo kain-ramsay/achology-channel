@@ -112,6 +112,28 @@ write_status() {
   # $1 = OK or FAIL, $2 = the sentence. Written whole each time rather than
   # appended, so the hook reads a state rather than a log it must interpret.
   printf '%s  %s\n%s\n' "$1" "$(stamp)" "$2" > "$STATUS"
+
+  # AND THE SAME LINE INSIDE THE CHANNEL, added S063, where BOTH sides can read
+  # it. This is the fix for a real limit Chat reported rather than guessed at:
+  # "~/.claude/achology_channel_watch.status sits outside the two folders my
+  # filesystem connector is allowed to reach. I have never been able to read it
+  # and cannot start now."
+  #
+  # So the health of each machine lived on that machine only, and the sole way to
+  # learn whether the far end was alive was to ask Kain to read a file out loud.
+  # That makes him the monitoring system for the road built to stop him being the
+  # courier, which is the same fault wearing a different hat.
+  #
+  # The channel is the one surface both of us can read. Writing the status into it
+  # means Chat can answer "is Code's machine alive" with its own eyes, and my
+  # session open can answer the same about Chat's, with nobody relaying anything.
+  #
+  # It is deliberately NOT committed on its own. Like the heartbeat it travels
+  # when something else travels, or on the ten minute beat, so the log does not
+  # fill with seven hundred status commits a day.
+  if [ -n "${MACHINE:-}" ] && [ -d "$CHANNEL/heartbeat" ]; then
+    printf '%s  %s\n%s\n' "$1" "$(stamp)" "$2" > "$CHANNEL/heartbeat/$MACHINE.status.txt"
+  fi
 }
 
 if [ ! -d "$CHANNEL/.git" ]; then
