@@ -18,15 +18,21 @@ He was right, and the Circle route is not needed. **Vimeo already carries both h
 
 ## What was filled
 
-**1,872 rows across 26 courses now carry `Vimeo URL` and `Vimeo Video ID`.** Before this they were empty on all 2,146.
+**All 2,146 rows now carry `Vimeo URL` and `Vimeo Video ID`.** Before this they were empty on every row.
 
-**Two courses were deliberately not filled**, because their folders do not line up exactly and a guess is worse than a gap:
+**Twenty six courses filled straight from the dated export.** Two needed a live read of their Vimeo folder first, and Kain asked in session for that to be done rather than left:
 
-**Course 003, NLP Practitioner Training.** 155 lessons and 155 videos, but the videos run to number 156 and nothing carries 155. One video is numbered one higher than it should be, or one is missing and one is misnumbered. Karen settles it by opening `2020NLP156`.
+**Course 007, CBT Practitioner.** The export showed 120 videos with two numbered 19. **Read live, the folder holds 119 and the duplicate is gone**, exactly as `RULING__Course_007_Vimeo_Duplicate_Deleted_By_Karen_S066.md` records. The export was simply taken before Karen deleted it. 119 videos against 119 lessons, and it filled clean with no exceptions.
 
-**Course 007, CBT Practitioner.** 119 lessons and 120 videos, with two videos numbered 19. **This is the duplicate Karen already deleted**, recorded in `RULING__Course_007_Vimeo_Duplicate_Deleted_By_Karen_S066.md`. The export predates the deletion, so the file on disk still shows both. The fix is a fresh export of that one folder, not a decision.
+**Course 003, NLP Practitioner Training.** Read live, the folder holds 155 videos against 155 lessons, and the numbering runs 001 to 154 and then jumps to 156. There is no 155. Every number from 1 to 154 appears exactly once, so **one lesson and one video were left over and the pairing was forced: lesson 155 takes the video titled `2020NLP156`.**
 
-**274 rows therefore still have no Vimeo id**, all of them in those two courses.
+**That single row is the only one in the whole library not matched on its number**, and it is named here rather than buried. It is arithmetic rather than judgement, because with the count balanced there was no other pairing available, but it deserves ten seconds of Karen's time to confirm by eye.
+
+## The live read, and what it touched
+
+**Two GET requests to the Vimeo API, one per folder. Nothing was created, changed or deleted.** The token was read from Kain's own file, was never printed and never written into any output or any committed file. The standing constraint that nothing writes to Vimeo is intact.
+
+**The live listing now outranks the dated export wherever both exist**, which is the right precedence: course 007 proves the export goes stale.
 
 ## How the match was made, so it can be checked
 
