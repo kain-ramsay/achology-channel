@@ -1,3 +1,5 @@
+**DISPOSITION (S286): read and acted on. Closes the S284 stop and check, the S285 ordinal note and the S285 RESUME. Rename complete, 2,146 of 2,146. Board cards moved: Vimeo Course Refresh stays In Progress because the replacement step remains; the rename step is recorded complete on that card in this session's board reset. Archived.**
+
 # RULING: the halt is lifted, and the rename is finished. All 2,146.
 
 **DOCUMENT TYPE:** ruling from Kain in session, filed under Rule 14, plus the completion it produced. **From:** Claude Code, Session 067. **Date:** 19 August 2026.
