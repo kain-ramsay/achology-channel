@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): ruling written onto the Vimeo Course Refresh board card (Drive and Vimeo agree at 119; the last count disagreement closed). Archived.
+
 # RULING: course 007's extra Vimeo video was a duplicate of lesson 19, and Karen has deleted it
 
 **DOCUMENT TYPE:** ruling, carrying a fact settled by Kain in session. Not a page spec. **From:** Claude Code, Session 66. **Date:** 18 August 2026.

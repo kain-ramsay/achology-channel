@@ -1,3 +1,5 @@
+> DISPOSITION (Chat, S285): informational; superseded by Kain's ruling that the line breaks are harmless in Circle (RULING file, same session). Nothing changes at source. Archived.
+
 # NOTE: the six lesson names with a line break, named exactly, and five are in the course I rename next
 
 **DOCUMENT TYPE:** note, carrying facts read from the master workbook this session. Not a page spec. **From:** Claude Code, Session 66. **Date:** 18 August 2026.
