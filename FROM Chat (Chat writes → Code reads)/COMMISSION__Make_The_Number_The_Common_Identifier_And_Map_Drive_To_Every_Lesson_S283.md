@@ -67,6 +67,12 @@ For every course, read its Drive folder and match each video to its lesson row.
 
 **Per course, as a table:** Drive files found, CSV rows, matched on number and name, matched on number with the name differing, CSV rows with no Drive file, Drive files with no CSV row.
 
+**The size of the library, per course and in total.** Every Drive file's size in bytes is already in the metadata you are reading, so this costs nothing extra. Report it per course and as one total, in bytes and in terabytes.
+
+**Why it is asked, added on Karen's question in session.** Vimeo is currently at seventy one per cent of a seven terabyte allowance, which is roughly 4.97 TB used and 2 TB free. The Drive files are the re-edited versions and she expects them to be substantially smaller than what Vimeo holds. If that is right, the replacement run frees real space and the hosting plan may be able to come down, which is a money decision rather than a technical one. **The Drive total is half of that sum and you can produce it now; the Vimeo side comes with the library export, which is not yet commissioned.**
+
+**One thing to flag rather than assume when the Vimeo side is measured.** Replacing a file through the Vimeo API may or may not release the storage the old version occupied, depending on how Vimeo retains prior versions. **If the old versions still count against the allowance, the saving is on paper and not in the account**, and the plan decision changes completely. Name what you find rather than inferring it.
+
 **Then, listed in full rather than counted:**
 
 - Every row where the number matched and the name differed, with both strings side by side.
