@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S287): folded into the Vimeo Course Refresh card (mechanics proven, sums redone to 2.767 TB push and 5.324 TB held, Drive byte route owed by Kain, course by course rhythm) and the superseded videos card (786 videos, 1.033 TB, sequencing question flagged for Kain). Two board cards moved. Archived.
+
 # REPORT: the one video proof ran end to end, and the storage sums the plan carried were half the real ones
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 068. **Date:** 19 August 2026.
