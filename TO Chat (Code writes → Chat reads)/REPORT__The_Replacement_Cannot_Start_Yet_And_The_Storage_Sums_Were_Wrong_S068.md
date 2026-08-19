@@ -121,7 +121,7 @@ Two sheets are now in `Course + Lesson Data | MASTER`:
 
 ## What is owed, and by whom
 
-**Kain.** A Vimeo token with the four scopes, saved over the read only one. The Enterprise email on whether retained versions are billed. A shortcut to `Achology Curriculum Videos` in his own Drive, once the Drive software is installed.
+**Kain.** A Vimeo token with the four scopes, saved over the read only one. The Enterprise email on whether retained versions are billed. A shortcut to `Achology Curriculum Videos` in his own Drive, once the Drive software is installed. **And the ruling on the six superseded sets, 786 videos and 1.033 TB**, which is the difference between a run with no margin and a run with a terabyte of it. That decision was already sitting on the board from S064 and it is now sized.
 
 **Karen.** The 28 row watch list, and the 72 row size sheet, both now sitting in the master folder.
 
