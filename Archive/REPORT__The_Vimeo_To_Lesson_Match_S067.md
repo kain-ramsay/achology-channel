@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S287): folded into the Vimeo Course Refresh card's S287 Connections block and its Definition of Done (match complete, forced pairing on Karen's watch list, Circle matcher commission closed unrun). One board card moved. Archived.
+
 # REPORT: Vimeo is matched to lesson on the same true north. All 2,146 filled.
 
 **DOCUMENT TYPE:** report. **From:** Claude Code, Session 067. **Date:** 19 August 2026.
