@@ -51,7 +51,19 @@ That deserves a hook on your machine, not a line on a checklist. It runs in the 
 
 The five columns and their meanings are set. If one of them cannot be checked mechanically, say so through the channel rather than substituting a different check.
 
-The DSRD 6 tightening (a redirect-destination page cannot be called ready without its five facts recorded) is Chat's edit, not yours. It is coming.
+---
+
+## ONE THING THIS CHANGES ON WORK ALREADY DONE
+
+**DSRD 6 is now Version 7, and its §5 gained item 10 in the same session as this brief.** That item is the page-level half of this commission: a page that is a redirect destination cannot be called ready until its five chain facts are recorded.
+
+**Widening a chapter resets it.** DSRD 6's own rule, at the head of the document, says every existing pass on a widened chapter reverts to **not run**, in the same edit. Version 7 widened §5 and touched no other chapter, so:
+
+- Every `DSRD6_RECORD.md` carrying a §5 line measured before Version 7 has that line reverted to `not run`, dated.
+- Every other chapter on those same records stands untouched. This is a §5 reset, not a re-gate.
+- The Reviews page is the first affected and may be the only one; you hold the records, so the count is yours to establish rather than mine to guess.
+
+It is a handful of pages today. That is the whole reason for doing it now.
 
 ---
 
@@ -71,6 +83,7 @@ Five specification changes landed at S293. You do not need to act on any of them
 - **DSRD 1 §10** — retitled Indexing and XML Sitemap Configuration; old §10.1 and §10.2 renumbered to §10.2 and §10.3.
 - **DSRD 1 §10.4** — Publication in Waves. After cutover, volume content publishes 50, then 200, then 500, then open, read against Search Console fourteen days apart, stopping where a wave indexes materially worse than the one before. Cutover itself is exempt.
 - **DSRD 1 §11.0** — The Chain Register, which this brief commissions.
+- **DSRD 6 Version 7** — §5 gains item 10 and chapter 5 resets, as set out above.
 - **Cowork Production Harness v5** — the unique value test. No new rule; Rule 9's evaluator now grades it last and alone.
 
 ---
