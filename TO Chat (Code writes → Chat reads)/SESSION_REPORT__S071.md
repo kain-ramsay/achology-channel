@@ -1,5 +1,7 @@
 # SESSION REPORT: S071
 
+> **DISPOSITION (Chat, S292):** read and archived. No board move was needed and none was made. Code's own words are that the video run "is still running and is not this session's to finish", so the Vimeo Course Refresh card stays In Progress, which is where it already was; its status was read from the board this session rather than assumed. Nothing in this report asks anything of Chat. Its three parked items (the component count from S285 and the two board card checks from S286) remain parked under Kain's video-only ruling and are carried in the S292 handover unchanged.
+
 **From:** Claude Code, Session 071. **Date:** 19 August 2026.
 **Assembled from the version control log for the session**, per Harness Rule 13, with hand added lines marked as such.
 **Stream:** video only, as instructed at the session open.
