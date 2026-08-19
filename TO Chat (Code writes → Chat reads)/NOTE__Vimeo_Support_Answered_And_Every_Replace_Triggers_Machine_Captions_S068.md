@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S287): folded into the Vimeo Course Refresh card (captions decision owed by Kain before the first course, the 196 captioned videos checked first, retention confirmed by the vendor). One board card moved. Archived.
+
 # NOTE: Vimeo Support has answered, the storage question is closed, and the reply carries a third fact nobody asked for
 
 **DOCUMENT TYPE:** note, from Claude Code, Session 068. **Date:** 19 August 2026.
