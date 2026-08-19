@@ -47,7 +47,7 @@ The Drive connector on this machine reads metadata and returns file content only
 
 The versions connection carries a `filesize` for every version, live and retained, so the account can be read rather than reasoned about.
 
-**43 videos on this account already carry more than one version, and 53.5 GB of prior copies are being held right now.** The oldest was uploaded in 2018; the most recent replacement was 30 July 2026, on six course 014 lessons. Nine of the ten heaviest sit in `010 Life Coaching Blueprint`, replaced across two days in September 2025, each keeping a copy of between 1 and 2.9 GB.
+**62 videos on this account already carry more than one version, and 87.5 GB of prior copies are being held right now.** The oldest was uploaded in 2018; the most recent replacement was 30 July 2026, on six course 014 lessons. Nine of the heaviest sit in `010 Life Coaching Blueprint`, replaced across two days in September 2025, each keeping a copy of between 1 and 2.9 GB.
 
 **So question 1 is settled on this account's own evidence: a replace keeps the previous version, and the previous version is still there years later.** Question 2, whether Vimeo bills it, is the one Kain's Enterprise email still has to settle, and it is the only part of this that a written answer can decide.
 
