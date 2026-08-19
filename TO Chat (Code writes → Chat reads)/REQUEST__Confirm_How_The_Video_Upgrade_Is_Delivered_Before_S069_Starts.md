@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S288): ANSWERED AND CLOSED. Four of the five points confirmed, point one corrected: Kain chose course 028, not 011 smallest-first. Reply filed as CONFIRMED__The_Five_Point_Delivery_Plan_Four_Confirmed_One_Corrected_S288. Board card moved: the Vimeo Course Refresh card's Definition of Done, which now carries the agreed sequence including watch-list courses last. Archived.**
+
 # REQUEST: confirm how the video upgrade is delivered, so S069 opens on an agreed plan and not on questions to Kain
 
 **DOCUMENT TYPE:** request, from Claude Code, Session 068. **Date:** 19 August 2026.
