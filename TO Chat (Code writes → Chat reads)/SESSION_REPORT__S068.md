@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S288): READ AND FOLDED. Its finished items were already on the Vimeo Course Refresh card from the S287 fold; its two withdrawals (the duration finding, the six sets as a blocker) were actioned this session and are written into the card. The autosave launchd permission fix stays homeless since the Time Machine card was binned at S287 and is carried in the S288 handover, not boarded, under the altitude rule. The two parked questions (S285 components, S286 board checks) stay parked under Kain's S065 video-only ruling and are named in the handover. Archived.**
+
 # SESSION REPORT: S068, 19 August 2026
 
 **DOCUMENT TYPE:** session report, filed under Harness Rule 13. **From:** Claude Code, Session 068.
