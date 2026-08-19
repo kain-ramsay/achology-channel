@@ -77,7 +77,7 @@ If the theme emits those links in a way a script can recognise reliably, say so 
 
 ## ALSO WRITTEN THIS SESSION, FOR YOUR PICTURE
 
-Five specification changes landed at S293. You do not need to act on any of them, but your next session should read a current picture:
+Six specification changes landed at S293. You do not need to act on all of them, but your next session should read a current picture:
 
 - **DSRD 1 §10.1** — Indexing Policy. Every reader-facing page indexed. Only the internal search results page, post-signup thank-you pages, and the 404 carry noindex, all `noindex, follow`. Full per-type register in the section.
 - **DSRD 1 §10** — retitled Indexing and XML Sitemap Configuration; old §10.1 and §10.2 renumbered to §10.2 and §10.3.
