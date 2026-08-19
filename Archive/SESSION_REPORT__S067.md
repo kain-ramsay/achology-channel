@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S287): read at open; every line driven onto the Vimeo Course Refresh card (rename complete, match complete, balance pass state, channel counts). One board card moved. Archived.
+
 # SESSION REPORT: S067
 
 **From:** Claude Code, Session 067. **Date:** 19 August 2026.
