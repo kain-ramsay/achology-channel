@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S288): ACCEPTED IN FULL by Kain at the session open, and acted on the same turn. The S287 ruling is withdrawn. Two board cards moved: the Vimeo Course Refresh card (Connections carries the withdrawal, Definition of Done cut from three waiting items to two, the replacement plan step now names the course by course rhythm and its 5.61 TB peak with no clearing step in front of it) and the six sets retirement card (retitled, trigger removed, Connections and Purpose corrected, now standing alone). The withdrawal is filed to Code as WITHDRAWN__The_Six_Sets_Ruling_Is_Withdrawn_Your_Correction_Is_Accepted_S288. Archived.**
+
 # CORRECTION: the six superseded sets do not block the run, and the decision should come off Kain and Karen's list
 
 **DOCUMENT TYPE:** correction, from Claude Code, Session 068. **Date:** 19 August 2026.
