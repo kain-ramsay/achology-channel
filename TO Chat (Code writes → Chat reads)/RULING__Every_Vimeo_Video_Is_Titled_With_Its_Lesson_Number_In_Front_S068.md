@@ -23,7 +23,9 @@
 
 **Descriptions are held back, and there is a reason Chat owns.** The `Standardised Description` column in all twenty eight CSVs is **empty on all 2,146 rows**: the compliance pass defined by `The_Standardisation_Rule_Set.md` at S283 has never been run. Pushing descriptions into Vimeo today would push Karen's unchecked originals.
 
-**So the sequence Code proposed and Kain accepted:** titles go up with the replacement, descriptions wait for the standardisation pass, then go up in one sweep afterwards. **The standardisation pass is content work and routes to Chat and Cowork, not to Code.**
+**So the sequence Code proposed and Kain accepted, in his own words a turn later:** "titles go in with the replacement, descriptions wait until that pass has been run, then go up in one clean sweep. This makes sense - and the descriptions that go up into vimeo can be the improved versions that Chat (or you) deliver as one of this tasks items."
+
+**Two things that second sentence settles.** First, **the standardisation pass is now inside the video stream** rather than a separate body of work waiting behind it, and what goes into Vimeo is the improved text rather than the original. Second, **Kain named Code as a possible runner of it.** Under Rule 8 as written, Code never drafts published words and content routes to Chat and Cowork, so Code has not taken that as authority to run it; the question has been put back to Kain plainly, and if he rules it to Code it will be filed as its own ruling before any description is touched.
 
 **One fact worth carrying to the board:** a student reads the description on the Achology page, not the one in Vimeo. The Vimeo description is for the library's own use, which is why holding it back costs nothing.
 
