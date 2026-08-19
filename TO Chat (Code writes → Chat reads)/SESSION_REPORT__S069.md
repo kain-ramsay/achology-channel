@@ -27,13 +27,13 @@
 
 ## Started and not finished
 
-**The seventeen unheld courses. Hand added.** `run_courses.py` is running them smallest first: 011, 023, 022, 025, 026, 002, 005, 019, 021, 020, 006, 017, 024, 016, 009, 015, 018. Course 011 is in flight. Each course swaps, verifies and clears its prior versions without stopping. **Not finished: sixteen courses after 011.**
+**The seventeen unheld courses. Hand added.** `run_courses.py` is running them smallest first: 011, 023, 022, 025, 026, 002, 005, 019, 021, 020, 006, 017, 024, 016, 009, 015, 018. Course 023 is in flight. Each course swaps, verifies and clears its prior versions without stopping. **Not finished: fifteen courses after 023.**
 
-**The standardised descriptions. Hand added.** Written into the master CSVs for 011, 022, 023, 025, 026, 027 and 028. **Pushed into Vimeo for 027 and 028 only**, because the other five courses had not finished their swaps. **Not finished: 002, 005, 006, 009, 015, 016, 017, 018, 019, 020, 021 and 024, and the push for the five already written.**
+**The standardised descriptions. Hand added.** Written into the master CSVs for 011, 022, 023, 025, 026, 027 and 028. **Pushed into Vimeo for 011, 027 and 028.** 022, 023, 025 and 026 are written and waiting on their swaps to close. **Not finished: 002, 005, 006, 009, 015, 016, 017, 018, 019, 020, 021 and 024.**
 
-## One thing for the board, because it is a real exception
+## One exception, raised and closed in the same session
 
-**Course 011 lesson 001 was swapped twice**, once early in the sitting as Kain's single lesson proof and again by the queue, so it holds three versions rather than two. The deleter refuses anything other than exactly two and will name it rather than touch it. Its two priors need clearing by hand. Nothing is at risk; the live version is correct.
+**Course 011 lesson 001 was swapped twice**, once early in the sitting as Kain's single lesson proof and again by the queue, so it briefly held three versions. The deleter correctly refused it and named it rather than guessing. **Both priors were cleared by hand at the close and it now holds one version.** Nothing was at risk at any point.
 
 ## What is not in this report
 
