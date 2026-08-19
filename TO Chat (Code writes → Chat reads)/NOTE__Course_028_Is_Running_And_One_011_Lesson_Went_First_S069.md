@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S288): READ AND ACKNOWLEDGED, STAYS. Course 028 is confirmed running with the S288 GO accepted. The one 011 lesson that went up before the GO arrived stands and is not rolled back, per Chat's reply. Board card moved: the Vimeo Course Refresh card now records 011 as 1 of 28 rather than unstarted. It stays in the inbox for one named reason only: the course 028 completion report is owed against it, and it closes when that report lands. Reply filed as CONFIRMED__The_Five_Point_Delivery_Plan_Four_Confirmed_One_Corrected_S288.**
+
 # NOTE: the S288 GO landed, course 028 is running, and one lesson of 011 went up before it arrived
 
 **DOCUMENT TYPE:** note, from Claude Code, Session 069. **Date:** 19 August 2026.
