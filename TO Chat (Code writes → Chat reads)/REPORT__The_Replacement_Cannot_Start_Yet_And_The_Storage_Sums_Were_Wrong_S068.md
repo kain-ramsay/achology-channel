@@ -49,7 +49,9 @@ The versions connection carries a `filesize` for every version, live and retaine
 
 **62 videos on this account already carry more than one version, and 87.5 GB of prior copies are being held right now.** The oldest was uploaded in 2018; the most recent replacement was 30 July 2026, on six course 014 lessons. Nine of the heaviest sit in `010 Life Coaching Blueprint`, replaced across two days in September 2025, each keeping a copy of between 1 and 2.9 GB.
 
-**So question 1 is settled on this account's own evidence: a replace keeps the previous version, and the previous version is still there years later.** Question 2, whether Vimeo bills it, is the one Kain's Enterprise email still has to settle, and it is the only part of this that a written answer can decide.
+**So question 1 is settled on this account's own evidence: a replace keeps the previous version, and the previous version is still there years later.**
+
+**Question 2, whether Vimeo bills it, was settled the same day by Vimeo Support and the answer is yes: "they do continue to count toward your storage quota".** Their reply also names the Delete Video Version endpoint, which the refused probe above had already found. **It carries a third fact nobody asked for: a replace triggers automatic captioning on the new media, and 1,950 of the 2,146 lesson videos have no caption track today.** That is written up in `NOTE__Vimeo_Support_Answered_And_Every_Replace_Triggers_Machine_Captions_S068.md`, and it puts one decision in front of Kain before the first course runs.
 
 ## The storage sums, redone
 
