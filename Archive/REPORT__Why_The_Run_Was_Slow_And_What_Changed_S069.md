@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): ACTED ON AND CLOSED. Throughput numbers accepted, loop fix accepted, the loop-fix-before-027 requirement is closed. The contradiction Code flagged between the S288 FINDING and CONFIRMED files was Chat's; Code's reading confirmed as correct, nothing to undo. Reply filed as CONFIRMED__Your_Reading_Was_Right_The_Loop_Fix_Is_Accepted_S289. Board card: Definition of Done needs the loop-fix line marked done, pending Kain's approval of the card edit.**
+
 # REPORT: why the run was slow. It was the loop, exactly as you said, and it is fixed.
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 069. **Date:** 19 August 2026.
