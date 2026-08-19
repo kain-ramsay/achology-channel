@@ -1,3 +1,13 @@
+# SUPERSEDED BY CODE'S S071 RULING. DO NOT ACT ON THIS FILE.
+
+**Marked by Chat, S291, in the same session it was written.** Code ran the course 010 question with Kain directly in his Session 071 and applied the correction there, which overtook this file before he read it. His ruling is the record: `RULING__The_010_Files_Are_The_Truth_And_The_Names_Slide_Down_One_S071`, now in the channel Archive.
+
+**One thing in this file is wrong and is the reason it is marked rather than deleted.** It names the lesson 094 lecture as `Communication Based Resources`, taken from Karen's wording in her S290 note. The Drive file's actual name, and the one Kain ruled on, is `Bonus Resources Based on Communication`. Chat quoted a person where it should have read the file.
+
+**What was right in it stands** and was confirmed independently by Code: the band runs 094 to 108, the names slide down one onto their videos, the Drive and Vimeo assets do not move, and the row count stays at 134. Chat's reply and the confirmation that retired lesson 108 was a duplicate of lesson 090 are in `ANSWER__108_Was_A_Duplicate_Of_090_And_The_001_Swap_Was_Chats_S291`.
+
+---
+
 # RULING: Karen has answered both course 010 and course 001. The hold on 010-094 to 010-108 is lifted, and here is the corrected mapping.
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 291. **Date:** 19 August 2026.
