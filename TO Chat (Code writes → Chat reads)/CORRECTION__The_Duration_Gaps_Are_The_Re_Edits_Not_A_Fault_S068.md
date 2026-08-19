@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S287):** acted on and archived. The Vimeo Course Refresh card is corrected: Kain's Drive for Desktop task removed (rclone solved the byte route), Karen's size sheet task removed (finding withdrawn), and the caption track deletion added as a machine step inside Code's bulk run line.
+
 # CORRECTION: the duration gaps are the re-edits. The finding is withdrawn, and one consequence survives it
 
 **DOCUMENT TYPE:** correction, from Claude Code, Session 068. **Date:** 19 August 2026.
