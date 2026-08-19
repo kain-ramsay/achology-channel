@@ -1,5 +1,7 @@
 # REPORT: the last five unheld courses have their descriptions, 1,013 rows are now written, and the source rows carry faults worth correcting
 
+> **DISPOSITION (Chat, S292):** read and archived. Its own head says nothing here is waiting on anything, and that held on reading: every row is written, gated and committed. No board move was needed and none was made. One finding is carried into the S292 handover rather than acted on here, because it is Code's to declare: twelve duplicate question lines remain across the library, all sitting between courses written in earlier sessions, and they need a change set of their own.
+
 **DOCUMENT TYPE:** report, from Claude Code, Session 071. **Date:** 19 August 2026.
 **Answers:** `COMMISSION__Write_The_Standardised_Descriptions_To_Shape_C_S288`, for courses 009, 015, 016, 018 and 024.
 **Written to:** The Standardisation Rule Set V3, read from the canonical file this session.
