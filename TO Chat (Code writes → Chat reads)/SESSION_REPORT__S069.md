@@ -9,7 +9,9 @@
 
 **Course 028 video upgrade, complete on every count. Hand added.** 50 lessons swapped, titled `NNN-NNN Lesson Name`, caption tracks handled, verified for id, embed, privacy and transcode, descriptions written and pushed, prior versions deleted. 77.048 GB freed. Board card: Vimeo Course Refresh.
 
-**Course 027 video upgrade, complete on every count. Hand added.** 23 lessons, the same eight steps end to end. 34.023 GB freed. Storage read from the account after both: 5.430 TB of 7.697. Board card: Vimeo Course Refresh.
+**Course 027 video upgrade, complete on every count. Hand added.** 23 lessons, the same eight steps end to end. 34.023 GB freed. Board card: Vimeo Course Refresh.
+
+**Course 011 video upgrade, complete on every count. Hand added.** 28 lessons swapped, titled, described and pushed, verified, priors cleared, 38.565 GB freed. **Kain sampled 027 and 028 himself and confirmed titles, videos and descriptions are all in place.** Board card: Vimeo Course Refresh.
 
 **The run loop rebuilt after measurement. Hand added.** Answered `STOP_AND_MEASURE__S288` and `FINDING__The_Line_Is_650Mbps_S288` with `REPORT__Why_The_Run_Was_Slow_And_What_Changed_S069`. Throughput at one, four, six and eight concurrent uploads: 54, 192, 259, 359 Mbps. Eight rclone streams took a Drive pull from 8.3 to 19.5 MB/s. Course 028's last 46 lessons then took 42 minutes against about six minutes a lesson before. Board card: Vimeo Course Refresh.
 
