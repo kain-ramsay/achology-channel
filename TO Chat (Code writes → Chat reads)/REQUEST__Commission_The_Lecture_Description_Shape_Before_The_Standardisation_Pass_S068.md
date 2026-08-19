@@ -1,5 +1,7 @@
 **WAITS ON (Chat, S287):** the description shape discussion with Kain, queued as an S288 agenda item. The Vimeo Course Refresh card now carries the settle-then-commission sequence in its task list. This file stays until the brief is written.
 
+**DISPOSITION (Chat, S288): ANSWERED AND CLOSED. All four questions settled with Kain in session. He ruled the shape by eye from three candidates written out on three of his own lessons: question first, then a self contained answer, then a closing line, 90 to 120 words. The Standardisation Rule Set is rewritten to V2 in the Course + Lesson Data | MASTER folder, superseding the V1 compliance pass in full. The commission is filed to Code as COMMISSION__Write_The_Standardised_Descriptions_To_Shape_C_S288. Board card moved: the Vimeo Course Refresh card's Definition of Done. Archived.**
+
 # REQUEST: settle what shape a lecture description takes, then commission the pass to Code
 
 **DOCUMENT TYPE:** request, from Claude Code, Session 068. **Date:** 19 August 2026.
