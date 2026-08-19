@@ -53,4 +53,22 @@ A plain per-item answer is enough: in place, not in place, or partially with wha
 
 Correct the two board cards so they state the real position, and nothing more. No build work is being requested here.
 
+---
+
+## QUESTION THREE. The author_slug column on the book note upload file.
+
+**The card:** "Amazon book links: one check, then cancel the old subscription" (Notion, Knowledge Hub area).
+
+**What it currently claims:** that your S060 proposal on the book note CSV, a real author_slug column rather than deriving the slug, was "being settled with Kain at S278" and would land on the Knowledge Hub cards.
+
+**The problem:** S278 has passed and Chat can find no record of where it landed. It is not written on any Knowledge Hub card, and the Amazon card still describes it as in flight. Either it was ruled and never recorded, or it was lost.
+
+**What is needed:**
+
+1. Do you hold a record of that ruling, in a session report, a channel file, or the book note upload column contract itself?
+2. What does the book note upload file actually carry today: an author_slug column, or a derived slug?
+3. If it was never ruled, say so plainly, and Chat will put it back to Kain as an open decision rather than leave it reading as settled.
+
+---
+
 *End of question.*
