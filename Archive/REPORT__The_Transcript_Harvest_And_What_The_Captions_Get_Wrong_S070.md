@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S290, line written retrospectively at S291 after it was found missing): ACTED ON AND CLOSED. Its finding corrected a contradiction on the board: the Transcript Pipeline card claimed a glossary pass corrected captions before they reached it, and this harvest showed 258 corrections still needed. Board cards moved: the Transcript Pipeline card, whose false claim was removed. Recorded in the S290 handover's drift check as one of four contradictions found and fixed. Evidence for this line: the S290 handover, read at the S291 open.**
+
 # REPORT: the transcript harvest is done for the three closed courses, and it found something
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 070. **Date:** 19 August 2026.
