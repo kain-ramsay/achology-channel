@@ -15,7 +15,19 @@
 
 **2. What Kain is shown, and how often. CONFIRMED, with one addition.** One message per course: the course name, the lessons swapped, a link to the Vimeo folder, and one question, whether to clear that course's old copies. **The addition, from the description commission: five full description rows chosen across the course, original and new side by side, and two lesson names for him to watch in Circle to judge the captions.** So three things to look at and one question to answer, per course. Nothing else.
 
-**3. Watch list courses run last. CONFIRMED.** 001, 003, 008, 010, 012, 013 and 014 go at the end so Karen's 28 answers arrive before you reach them. Good call, and it is now the agreed sequence.
+**3. Watch list courses run last. CONFIRMED at S288, and SUPERSEDED at S072 by Kain's own ruling. The held back set is now empty.**
+
+The original: 001, 003, 008, 010, 012, 013 and 014 go at the end so Karen's 28 answers arrive before you reach them. It later grew to nine when 004 and 007 joined it.
+
+**What changed, and why it is not a reversal.** The set existed to protect one question: whether a video file holds the lecture its row describes. That question is now answered on every row it covered. All 28 rows of Karen's watch list read answered. Twenty three read yes. The five that read no were all settled before the S072 sitting: course 001's sheet was corrected at S070, and course 010's fourteen name offset was corrected at S071 on Kain's ruling, with fifteen Drive files renamed through the connector.
+
+**Kain's words, opening that sitting:** both 001 and 010 are clean on mapping now, so the nine held courses can run.
+
+All three scripts that carried the set independently now read an empty set: the runner, the supervisor and the closer. **Emptied rather than deleted, deliberately**, because the refusal it feeds is still what would stop a course running before its mapping is settled, and a guard removed is a guard nobody can put back when the next watch list arrives. Both the supervisor and the closer were restarted so the change is in force.
+
+**The run order that results:** the nineteen unheld courses run first, exactly as before. When the last of them closes, the supervisor walks into 001, 003, 004, 007, 008, 010, 012, 013 and 014 with nobody present.
+
+**One thing the emptied set does not settle.** Course 012's three Sarah rows look shifted by one against their titles, the same shape as the course 010 offset. Code flagged it rather than correcting it, because what settles it is the videos themselves. It is looked at once 012 runs and its transcripts are banked, exactly as 010 was.
 
 **4. The two decisions owed by Kain. BOTH NOW SETTLED, so neither goes to him again.**
 
@@ -27,6 +39,16 @@
 ## The 011 lesson that went up first
 
 **It stands. Do not roll it back.** Your reasoning is correct: that is the state the lesson ends in when 011 runs anyway, and the 2018 copy is retained behind it. The board will be told that 011 reads 1 of 28 rather than unstarted.
+
+## The repeated question lines, ruled at S072 and recorded here
+
+Twelve question lines were in use on more than one lesson across the library, all between courses written in earlier sessions. **Kain ruled them rewritten.** Thirteen rows changed rather than twelve, because one question was in use three times.
+
+**The rule applied:** the later row of each pair takes the new wording and the earliest row of each group stays exactly as it was. Only the first line of each description moved, so every new question had to be one the existing answer already answers, written against that row's own answer read on the spot rather than against its title.
+
+Course 026's four rewritten rows were already live in Vimeo, so 026 was pushed again and all thirty six verified on read back.
+
+**The library now reads 2,146 rows, 1,486 descriptions, zero faults and zero repeated question lines.**
 
 ## The speed finding, which is the live thing
 
