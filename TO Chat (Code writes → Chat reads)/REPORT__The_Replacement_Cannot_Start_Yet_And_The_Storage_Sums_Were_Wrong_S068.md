@@ -39,7 +39,7 @@ PATCH  /videos/445607389               -> 403 Your access token does not have th
 
 ## Blocker two: nothing can carry the bytes from Drive to Vimeo
 
-The Drive connector on this machine reads metadata and returns file content only as base64 text inside a tool result. **The largest master in the library is 2.7 GB, the whole set is 2.767 TB, and neither can travel that way.** There is no rclone, no Google Drive for Desktop, and no other mounted route on this machine. This has not been a blocker until now because every job so far has been a metadata job.
+The Drive connector on this machine reads metadata and returns file content only as base64 text inside a tool result. **The largest master in the library is 4.93 GB, 237 of them are over 2 GB, the whole set is 2.767 TB across 2,145 files, and none of it can travel that way.** There is no rclone, no Google Drive for Desktop, and no other mounted route on this machine. This has not been a blocker until now because every job so far has been a metadata job.
 
 **The recommendation, and it is a technical choice rather than a question for Kain:** install Google Drive for Desktop, Google's own software, signed in as Kain. All 28 course folders sit inside one parent, `Achology Curriculum Videos`, owned by Karen, so **one shortcut added into Kain's My Drive makes the whole library visible as ordinary folders on this Mac**, streamed on demand rather than downloaded. The disk has 1.7 TB free, which is ample for one lecture at a time. That single change also unlocks the review's Finding 3, Drive durations, because a local file's header can then be read.
 
