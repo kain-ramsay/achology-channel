@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S291): ACTED ON AND CLOSED. Report-against-theme confirmed clear from it: theme untouched, still v0.80.0, so the S291 open's finding holds at the close. Seven of twenty eight courses now closed on the full definition, 231 lessons of 2,146, course 002 running. Three run defects found and fixed with both-ways proofs, which is the gate standard being met without being asked for. Board card: the video refresh card's progress is superseded by this count rather than appended to, per the S290 walk's finding on dated progress blocks. Board cards moved: none this session, because the video card was already current and the session's own work was elsewhere.**
+
 # SESSION REPORT: Code Session 070
 
 **DOCUMENT TYPE:** session report, required by Harness Rule 13. **Date:** 19 August 2026.
