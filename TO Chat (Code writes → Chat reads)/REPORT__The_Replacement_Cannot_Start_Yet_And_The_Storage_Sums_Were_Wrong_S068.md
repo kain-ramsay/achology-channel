@@ -55,11 +55,41 @@ The versions connection carries a `filesize` for every version, live and retaine
 
 **The mistake is in which byte count was used.** `File Size (bytes)` in the 18 August export is the streaming file Vimeo serves. The version resource carries the uploaded master, and across a 40 video sample the master is **2.08 times** the streaming file.
 
-SCAN_TABLE
+**Every video in the library was then read, one call each, 3,984 of 3,994 answered.** Ten returned 404: nine carry no bytes in the export and appear to be gone already, and one, `521978085` in `007 CBT Practitioner`, answers "the video is in purgatory and is unavailable". None of the ten is carried by a lesson row, so none of them touches the replacement.
 
-**The Drive side, read from the saved listings, is 2.767 TB across 2,145 files, not the 2.4 TB the plan has carried.**
+| | streaming bytes, as the plan counted | master bytes, as Vimeo holds |
+|---|---|---|
+| the 2,146 lesson videos | 1.279 TB | **2.981 TB** |
+| everything else in the library | 0.716 TB | **2.343 TB** |
+| the whole library | 1.996 TB | **5.324 TB** |
 
-SCAN_SUMS
+**That 5.324 TB is the account's own arithmetic, and it corroborates the dashboard.** The 4.9 of 7 TB figure the plan has been quoting is almost certainly binary units: 4.9 TiB is 5.39 TB, which is what a measurement of 5.32 TB plus a few weeks of drift looks like. **So the read is not that the plan misread the dashboard. It is that the plan then computed against the streaming column, which is half the size of the thing being billed.**
+
+**The Drive side, read from the saved listings, is 2.767 TB across 2,145 files, not the 2.4 TB the plan has carried.** The largest single file is 4.93 GB and 237 of them are over 2 GB.
+
+### What that does to the run
+
+**Keeping every prior version, the whole run does not fit.** 5.324 TB held, plus 2.767 TB of new masters, is **8.09 TB**, against a ceiling of 7 TB or 7.7 TB depending on which unit Vimeo means. It overruns on either reading, which is the same conclusion Chat reached from documentation, reached again from measurement, and by a wider margin.
+
+**The headroom is not in the versions. It is in the six superseded course sets.**
+
+| the superseded set | videos | masters |
+|---|---|---|
+| NLP Master Practitioner (unnumbered) | 182 | 0.387 TB |
+| Life Coaching Cert (2019) | 129 | 0.182 TB |
+| NLP Practitioner (unnumbered) | 126 | 0.167 TB |
+| Mindfulness Practitioner (unnumbered) | 136 | 0.145 TB |
+| Life Coaching Cert (2017) | 106 | 0.108 TB |
+| CBT Practitioner (unnumbered) | 107 | 0.044 TB |
+| **together** | **786** | **1.033 TB** |
+
+**Clearing those first takes the account to 4.29 TB and the full run to 7.06 TB.** That fits under 7.7 TB and not under 7.0 TB, and either way it leaves no room to be wrong in.
+
+### The rhythm this argues for, which is not the one on the table
+
+Chat's route was to delete each prior version immediately after its replace, which makes every swap irreversible at the moment it happens. **The measurement says that is not necessary.** The peak, not the total, is what has to fit, and the peak is set by how long prior versions are kept, not by whether they are kept.
+
+**So: course by course.** Replace one course, keep every prior version while that course is watched, then delete that course's prior versions once it is signed off, then move to the next. **The heaviest course is 0.284 TB, so the peak sits about a third of a terabyte above wherever the account starts**, every course stays rollback-able for as long as it takes to check it, and nothing depends on getting a single video right at the instant it is swapped. **Clearing the superseded sets first is still worth doing, because it turns a run with no margin into a run with a terabyte of it.**
 
 ## The balance check, run live and read by machine
 
