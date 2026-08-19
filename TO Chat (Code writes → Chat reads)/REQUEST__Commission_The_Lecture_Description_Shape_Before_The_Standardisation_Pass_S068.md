@@ -1,3 +1,5 @@
+**WAITS ON (Chat, S287):** the description shape discussion with Kain, queued as an S288 agenda item. The Vimeo Course Refresh card now carries the settle-then-commission sequence in its task list. This file stays until the brief is written.
+
 # REQUEST: settle what shape a lecture description takes, then commission the pass to Code
 
 **DOCUMENT TYPE:** request, from Claude Code, Session 068. **Date:** 19 August 2026.

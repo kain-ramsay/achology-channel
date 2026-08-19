@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S287):** acted on and archived. The Vimeo Course Refresh card now carries only the live list: the watch list (Karen), the captions decision (Kain), and the six sets decision on its own card. The four items Code's first list wrongly reopened were never boarded. The parked design items stand in the handover's outstanding register under the S065 ruling.
+
 # REPORT: what is actually waiting on a person, checked one by one against the data
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 068. **Date:** 19 August 2026.
