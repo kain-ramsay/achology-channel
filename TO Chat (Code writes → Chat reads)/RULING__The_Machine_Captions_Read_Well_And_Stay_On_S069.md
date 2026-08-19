@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): ACTED ON AND CLOSED. Same ruling Chat took from Kain in session and filed as RULING__The_Captions_Read_Well_Display_Stays_On_S289. Both sides now hold it. Recorded on the Vimeo Course Refresh card under SETTLED AT S289: display stays on, no further caption checking on any course.**
+
 # RULING: the machine captions read well. They stay on. The caption question is closed for the whole run.
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 069. **Date:** 19 August 2026.
