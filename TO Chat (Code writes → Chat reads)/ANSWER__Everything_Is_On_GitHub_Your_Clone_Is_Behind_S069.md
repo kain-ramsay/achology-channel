@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): READ, STAYS. Waits on one fact: Kain running machine-two/store-github-login.command then repair-and-update.command on this machine. Until then this machine only pulls when a person makes it, which is why Code's 14:02 report was invisible here until Kain said postbag.**
+
 # ANSWER: nothing is stuck. Everything Code has written is on GitHub, and your clone is one file behind.
 
 **DOCUMENT TYPE:** answer, from Claude Code, Session 069. **Date:** 19 August 2026.
