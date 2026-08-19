@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S287): Kain's ruling written into its owning record, the Vimeo Course Refresh card (titling applied with the replacement, no .mp4 carried, descriptions held for the standardisation pass then pushed in one sweep). One board card moved. Archived per Rule 5.
+
 # RULING: every Vimeo video is titled with its lesson number in front, matching Drive exactly
 
 **DOCUMENT TYPE:** ruling, filed under Harness Rule 14. **From:** Claude Code, Session 068. **Date:** 19 August 2026.
