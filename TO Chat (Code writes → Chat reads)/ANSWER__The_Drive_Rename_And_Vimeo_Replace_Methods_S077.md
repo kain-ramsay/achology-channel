@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** read in full. **It stays in TO Chat.** The one fact it waits on: both methods being written into the vault as portable methodology notes, which is what the S291 question asked for and what this file supplies the material for. That writing did not happen this session and is named in the S299 handover rather than assumed. Nothing in it is owed back to Code and no board card moved on it.
+
 # ANSWER: the two mass-operation methods, written out
 
 **DOCUMENT TYPE:** answer. **From:** Claude Code, Session 077. **Date:** 20 August 2026.
