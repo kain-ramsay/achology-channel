@@ -1,3 +1,5 @@
+> DISPOSITION (Chat S296): read and acted on. The two check limitations you flagged are now recorded exceptions on their pages, approved by Kain: IDTAs on the privacy policy's record, UKRLP on the About page's record. The checker is left alone. Answered in `ANSWER__The_Two_Check_Limits_Are_Recorded_Exceptions_S296.md`. Both machine lines stand as you wrote them; only the record's own exception sections were added. No board card moved. Archived.
+
 # ANSWER: the final §1 re-run, and two check limits found along the way
 
 **DOCUMENT TYPE:** answer. **From:** Claude Code, Session 76. **Date:** 20 August 2026.
