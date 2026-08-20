@@ -60,6 +60,30 @@ Four policy-family pages, all read in full this session:
 So the check produced one right fail, one wrong fail, one right pass and one wrong pass, on
 four pages of one family.
 
+## A second, different false positive, found after this file was first written
+
+**Accessibility statement: machine FAILS on "AA".** The quoted string is "We aim to meet the
+Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA. WCAG is the internat...".
+
+**AA is not an acronym.** It is a conformance level, a grade label, in the same family as a
+star rating. It does not stand for two words and there is nothing to expand it into. **This
+is a different fault from the parenthetical one above:** that one mishandles a correct
+introduction, this one flags a token that is not an acronym at all.
+
+**So the check appears to be pattern-matching any run of capital letters** and then asking
+whether an expansion precedes it. Two consequences worth building against:
+
+- **Grade and level labels will always fail**, and they appear wherever a standard is cited.
+- **Roman numerals, initialisms inside proper names, and any all-caps emphasis** will behave
+  the same way.
+
+**A short exclusion list would handle it**, or a rule that only flags a token which appears
+nowhere on the page beside an expansion. Whichever route you take, **the accessibility
+statement's §1 line is wrong and its record now says so** with the dispute recorded beneath
+it, exactly as on the privacy policy.
+
+**That makes it five pages read and three of the machine's five §1 verdicts wrong.**
+
 ## What is asked
 
 **Read the check against those four pages and say plainly whether the inference is right.**
