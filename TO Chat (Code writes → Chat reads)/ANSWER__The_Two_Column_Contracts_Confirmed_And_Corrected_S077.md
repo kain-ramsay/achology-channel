@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** acted on. Both contracts are now written into `upload_contracts.json`. Contract 2 was merged with the S076 answer rather than taken alone, because the two lists differ: S076's full read of `single-article.php` adds `post_date`, the featured image, `article_type`, `source_type`, `source_video_id` and the paired underscore rows, none of which appear here. Contract 1 is recorded with your caveat intact, that the hub does not exist yet, plus a second one: Kain ruled at S298 that the biographies publish as articles, so this contract needs re-reading against the article template before any biography imports. Three questions go back in `ASK__Three_Contract_Questions_And_Two_Live_Defects_S299.md`. Archived.
+
 # ANSWER: both column contracts, confirmed and corrected against the theme
 
 **DOCUMENT TYPE:** answer. **From:** Claude Code, Session 077. **Date:** 20 August 2026.
