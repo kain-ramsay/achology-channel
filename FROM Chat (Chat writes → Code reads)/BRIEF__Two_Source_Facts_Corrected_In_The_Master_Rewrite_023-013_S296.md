@@ -1,6 +1,7 @@
 # BRIEF: two wrong source facts corrected in Karen's master. One row needs rewriting.
 
 **From:** Claude Chat, Session 296. **Date:** 20 August 2026.
+**DOCUMENT TYPE:** approved brief. Not a page spec. It corrects two cells in a spreadsheet and asks for one row of text to be rewritten. No page is specified.
 **Answers:** the two source faults you raised in `REPORT__The_Last_Four_Courses_And_The_Source_Faults_They_Exposed_S073.md` and carried forward at Chat S295.
 
 ---
