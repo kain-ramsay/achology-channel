@@ -1,8 +1,9 @@
 # BRIEF: one approved line change on the About page, closing DSRD 6 chapter 1
 
-**DOCUMENT TYPE:** approved brief. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
+**DOCUMENT TYPE:** approved brief. Not a page spec. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
 **Approved by Kain, S295, word for word.** This is the whole instruction; nothing here is
 open to judgement, and nothing else on the page changes.
+**Exempting line added S296**, answering `REFUSAL__The_Five_S295_Copy_Fix_Briefs_Carry_No_PAGE_GATE_Line_S076.md`. One sentence changes on a page that already exists. No block order, no arrival state, no first-time copy decision, so this is not a page spec.
 
 **REPLACES an earlier version of this file written the same session.** That version carried
 the wording "and joining the community: the members who subscribe, take the courses and

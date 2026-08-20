@@ -1,8 +1,9 @@
 # BRIEF: two approved line changes, the manifesto and the Code of Ethics
 
-**DOCUMENT TYPE:** approved brief. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
+**DOCUMENT TYPE:** approved brief. Not a page spec. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
 **Approved by Kain, S295, word for word.** Nothing here is open to judgement, and nothing
 else on either page changes.
+**Exempting line added S296**, answering `REFUSAL__The_Five_S295_Copy_Fix_Briefs_Carry_No_PAGE_GATE_Line_S076.md`. Two sentences change on two pages that already exist. No block order, no arrival state, no first-time copy decision, so this is not a page spec.
 
 **Companion to** `BRIEF__One_Approved_Line_On_The_About_Page_S295.md` in this folder, which
 does the same job on `/about/`. The three lines all apply one identification, added to
