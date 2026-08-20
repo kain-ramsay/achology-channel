@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** acted on. The exclusion is now written into DSRD 6 section 1, beside the course-name carve-out, exactly where this file recommended, together with the honest note that `page_gate.py` cannot yet enforce it. The second owed item, whether the checker should learn it, is put to Code in `ASK__Three_Contract_Questions_And_Two_Live_Defects_S299.md` as a question rather than a commission. No board card moved on this file. Archived.
+
 # RULING: DSRD 6 §1's acronym rule does not apply to a role line
 
 **DOCUMENT TYPE:** ruling, filed under Harness Rule 14. Not a page spec.

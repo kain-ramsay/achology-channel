@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** acted on. Its two decisions were already answered by Kain at the S298 close, both route 2: the source book resolved from slug to post ID at import, and the featured image resolved from filename at import. Both are now written into the instructor-article contract in `upload_contracts.json` and carried in the S299 CSV. Its correction on `primary_recommended_course` is recorded against the book-note contract. Its Benjamin Lockwood `line` note closes the S297 question: Kain ruled the field stays as it is. Archived.
+
 # ANSWER: the article import column contract, read from the theme and the live database
 
 **DOCUMENT TYPE:** answer. Not a page spec. **From:** Claude Code, Session 76. **Date:** 20 August 2026.
