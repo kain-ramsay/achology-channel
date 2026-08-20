@@ -70,32 +70,20 @@ Chapter 1 still fails on two bare acronyms in role lines: CTO in Kain Ramsay's, 
 
 ---
 
-# PART TWO: the registry needs a links field, and it does not have one
+# PART TWO: WITHDRAWN S296. DO NOT BUILD THE LINKS FIELD.
 
-**Ruled by Kain, S296.** Karen is collecting **two links for each of the six elders**, sent to her the same session: a personal website and a LinkedIn profile where they have both, any two public pages they are happy to be linked to where they do not.
+**Kain ruled S296, minutes after this part was written: none of the six elders has a link to give, so the field is not built and the collection is dropped.**
 
-**The registry has no field for links, for any of the seventeen people.** That is the finding: `achology_people()` holds group, name, first, role, line, bio, intro, disclosure and has_page, and nothing else. There is nowhere for a link to go.
+Everything below this line is the withdrawn instruction, kept so nobody reinstates it from memory as a good idea that was never tried. **It was tried, briefly, and stopped for a reason: there is nothing to put in the field.**
 
-## Build the field now, empty
+**Build nothing from Part Two. Part One, the six biographies, stands and is the whole of this brief.**
 
-Add a `links` field to the registry's shape so the values can be dropped in the moment Karen returns them, rather than the schema being designed on the day the data lands.
+## The withdrawn instruction, for the record only
 
-**The shape, and why.** An ordered list of entries, each carrying the label a reader sees and the address it goes to. A flat list rather than named slots, because "website" and "LinkedIn" is only today's pair: any two public pages are allowed, and a fixed pair of keys would force the third case into the wrong box. Two is the number Kain has asked for; do not build a cap that makes a third impossible later.
+Karen was asked to collect two links for each of the six elders, a personal website and a LinkedIn profile where they had both. The registry has no field for links, for any of the seventeen people, so one was to be added empty and filled when the values arrived.
 
-**Add it to all seventeen people, empty.** The six elders will have values first, but the same field serves the eleven others and building it for six invites a second shape for the rest.
+The values are not coming. An empty field on seventeen people, serving nobody, is worse than no field: it reads as an unfinished job every time somebody opens the registry.
 
-## What renders, and what does not, until Kain has seen it
-
-**Build the field. Do not build the display.**
-
-Where these links appear on the card, what they look like, and whether they show at all on a card that links nowhere are visual decisions and they are Kain's, by his eye, on the rendered page. Standing rule 16. A links row invented into the card design and shipped is the same failure as the biographies this brief is closing.
-
-**So: field only, no markup, no styles.** When the values arrive, say so through the channel and the display becomes its own sitting with Kain.
-
-## One thing to carry into that sitting
-
-Every outward link on a person's card or profile takes `target="_blank"` and `rel="noopener"`, per DSRD 3's external-link standard and the pattern the existing biography links already follow.
-
-And when the display is built, the profile page's Person schema should carry these addresses in its `sameAs` property. **That is the reason the links are being collected at all:** `sameAs` is how a search engine confirms a named person on a page is a real one elsewhere. The field without the schema entry does half the job.
+**If links are ever collected, this is the shape that was reasoned through**, and it can be picked up rather than re-derived: an ordered list per person, each entry carrying the label a reader sees and the address it goes to, flat rather than named slots so a third kind of page is not forced into the wrong box; and when the display is built, the addresses belong in the profile page's Person schema as `sameAs`, which is the whole reason they would be worth collecting.
 
 *No em or en dashes in this file; checked before writing.*
