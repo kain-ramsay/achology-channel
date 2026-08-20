@@ -1,7 +1,8 @@
 # BRIEF: every approved copy fix on the eight policy-family pages
 
-**DOCUMENT TYPE:** approved brief. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
+**DOCUMENT TYPE:** approved brief. Not a page spec. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
 **Approved by Kain, S295.** Nothing here is open to judgement.
+**Exempting line added S296**, answering `REFUSAL__The_Five_S295_Copy_Fix_Briefs_Carry_No_PAGE_GATE_Line_S076.md`. This file names word-level before-and-after corrections on pages that already exist. It sets no block order, no arrival state, and no copy anybody is deciding for the first time, so it is not a page spec and the intake tripwire may pass it.
 
 **One file for the whole family**, because the faults recur across pages and dribbling them
 out one at a time is how a set drifts. Chat read all eight remaining policy pages in a single
