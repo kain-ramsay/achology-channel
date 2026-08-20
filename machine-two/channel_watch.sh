@@ -254,17 +254,44 @@ if ! git pull -q --rebase --autostash origin main; then
 fi
 
 # ── 4. PUSH ──────────────────────────────────────────────────────────────────
-# One retry, because the commonest push failure is the other machine having
-# pushed in the seconds since our pull, which a second pull fixes. A second
-# failure is real and is reported.
-if ! git push -q origin main 2>/dev/null; then
-  if git pull -q --rebase --autostash origin main 2>/dev/null && git push -q origin main 2>/dev/null; then
-    : # the far side had moved between our pull and our push; settled now
-  else
-    git rebase --abort 2>/dev/null
-    write_status FAIL "Push failed twice. Local commits exist that the other side cannot see.$recovered"
-    exit 1
+# FOUR ATTEMPTS WITH BACKOFF, version 3, written at S076 against Chat's
+# ASK__The_Push_Race_Came_Back_Within_Hours_S295.md.
+#
+# Version 2 retried once, immediately. That is enough to survive one lost race
+# and not enough to survive the race this actually hits: both machines run on
+# the same two minute timer, so when they drift into step they collide, and
+# they collide again on the retry a fraction of a second later, because in that
+# fraction of a second neither side has moved. The result was a FAIL a person
+# had to clear by hand, three times across three sessions, on one cause.
+#
+# The backoff is what breaks the step. Waiting 3, then 8, then 20 seconds puts
+# this machine's push somewhere the other machine's cycle is not, and any one
+# of the four attempts succeeding ends the matter with no alarm and nobody
+# called. Each later attempt pulls first, because the far side having moved is
+# the whole reason the previous attempt failed.
+#
+# A failure after all four is real and is still reported loudly. The count of
+# stranded commits goes into the sentence, so a reader can tell one heartbeat
+# left behind from a session's work sitting on one disk.
+push_ok=0
+for delay in 0 3 8 20; do
+  if [ "$delay" -gt 0 ]; then
+    sleep "$delay"
+    if ! git pull -q --rebase --autostash origin main 2>/dev/null; then
+      git rebase --abort 2>/dev/null
+      continue
+    fi
   fi
+  if git push -q origin main 2>/dev/null; then
+    push_ok=1
+    break
+  fi
+done
+if [ "$push_ok" -ne 1 ]; then
+  git rebase --abort 2>/dev/null
+  stranded=$(git rev-list --count origin/main..HEAD 2>/dev/null || echo "Some")
+  write_status FAIL "Push failed four times over half a minute. $stranded local commit(s) exist that the other side cannot see.$recovered"
+  exit 1
 fi
 
 # ── 5. UPDATE OURSELVES ──────────────────────────────────────────────────────
