@@ -1,2 +1,2 @@
-FAIL  2026-08-20T15:43:24Z
-Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears.
+FAIL  2026-08-20T15:43:39Z
+Push failed twice. Local commits exist that the other side cannot see.

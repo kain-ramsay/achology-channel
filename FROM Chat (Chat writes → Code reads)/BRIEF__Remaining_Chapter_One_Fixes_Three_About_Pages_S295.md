@@ -1,7 +1,8 @@
 # BRIEF: the remaining chapter 1 fixes on the three About-family pages
 
-**DOCUMENT TYPE:** approved brief. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
+**DOCUMENT TYPE:** approved brief. Not a page spec. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.
 **Approved by Kain, S295, word for word.** Nothing here is open to judgement.
+**Exempting line added S296**, answering `REFUSAL__The_Five_S295_Copy_Fix_Briefs_Carry_No_PAGE_GATE_Line_S076.md`. Word-level corrections on three pages that already exist, each with a stated before and after. No block order, no arrival state, no first-time copy decision, so this is not a page spec.
 
 **Third and last brief of this set.** The other two, both in this folder, carry the member
 identification: `BRIEF__One_Approved_Line_On_The_About_Page_S295.md` and
