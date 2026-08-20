@@ -73,6 +73,13 @@
 
 set -uo pipefail
 
+# FOUND LIVE, S076: a git push hung for ninety minutes under launchd, with no
+# SSH agent access in that context to answer whatever it was waiting on, and
+# every later cycle piled up behind the lock this one process never released.
+# BatchMode=yes turns any prompt into an immediate failure instead of a
+# silent wait; ConnectTimeout bounds a genuine network stall to ten seconds.
+export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=10"
+
 CHANNEL="$HOME/achology-channel"
 STATUS="$HOME/.claude/achology_channel_watch.status"
 LOCKDIR="$HOME/.claude/achology_channel_watch.lock.d"
