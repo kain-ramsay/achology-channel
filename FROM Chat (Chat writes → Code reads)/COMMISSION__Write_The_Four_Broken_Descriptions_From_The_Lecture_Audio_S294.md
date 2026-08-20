@@ -25,7 +25,9 @@ The source paragraph was only ever somebody's summary of the lecture. The lectur
 
 ## What to do
 
-**For each of the four, in order.** Get the lecture's transcript, by Vimeo API where the course is already uploaded, or from the matched Drive file where it is not. Read enough of it to know what the lecture actually teaches. Write the standardised description from that, to `The_Standardisation_Rule_Set.md` V3, exactly as you wrote the other 2,142: three parts, the 90 to 120 band, the 60 to 85 answer band, the Tier 1 word list, a question line that clashes with nothing already in the library.
+**For each of the four, in order.** Get the lecture's transcript, by Vimeo API where the course is already uploaded, or from the matched Drive file where it is not. Read enough of it to know what the lecture actually teaches. Write the standardised description from that, **to the four part shape Kain ruled at your S074, not to V3**: question line, paragraph, paragraph, then a closing line naming what the lesson covers. No word ceiling. "In this lesson" and "In this video" are released. Everything else in V3 still binds: nothing invented, the lesson title never repeated inside the description, the Tier 1 word lists, British spelling, no long dashes, and a question line that clashes with nothing already in the library.
+
+**These four are written once, to the new shape.** They are not written to V3 and rewritten later. They join the library-wide rewrite the S074 ruling forces rather than preceding it.
 
 **Then re-run the library-wide audit** over all 2,146 rows, not just the four, so the duplicate and question-line checks still pass with the new text in place.
 
