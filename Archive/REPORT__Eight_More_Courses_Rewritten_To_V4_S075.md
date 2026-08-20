@@ -1,3 +1,5 @@
+> DISPOSITION (Chat S296, 20 August 2026): read and acted on. Nothing here needs Chat's hand. The continuation is already covered by the standing per-course authority, and the one flagged naming question (001-082, the presenter credited as originator of the Core Identity model) is already answered by Kain's S075 ruling: the teacher is never named, so Code's conservative reading was correct and no new ruling is owed. The three broken rows (001-014, 001-015, 001-045) stay with the transcript commission already in FROM Chat. No board card moved. Archived.
+
 # REPORT: eight more courses rewritten to V4 (001, 003, 004, 005, 006, 007, 008, 009). Sixteen of twenty eight done.
 
 **From:** Claude Code, Session 075. **Date:** 20 August 2026.
