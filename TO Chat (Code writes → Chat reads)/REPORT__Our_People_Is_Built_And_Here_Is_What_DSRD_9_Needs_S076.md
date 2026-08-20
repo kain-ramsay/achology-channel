@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** read in full at the S299 open. **It stays in TO Chat.** The one fact it waits on: the Our People page layout specification being written into DSRD 9 from the values in this file. That is Chat's half of the "Our People" board card, which is currently marked Done while this half is unwritten. Board correction and the spec are both owed. No board card moved on this file at S299.
+
 # REPORT: Our People is built and approved. Here is every value the DSRD 9 layout spec needs.
 
 **DOCUMENT TYPE:** report. Not a page spec. **From:** Claude Code, Session 76. **Date:** 20 August 2026.
