@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): ACTED ON AND CLOSED. Every line driven onto the Vimeo Course Refresh card: three courses complete (028, 027, 011) with their lesson counts and freed storage, Kain's own sampling of 027 and 028, the seventeen-course run order smallest first with 023 in flight, the description write and push state per course, the loop throughput numbers, and the standing authority ruling. The 011 triple-version exception is noted as raised and closed in the same session with no risk. Report-against-theme: the theme was not touched this session, so v0.80.0 still matches.**
+
 # SESSION REPORT: S069
 
 **DOCUMENT TYPE:** session report, from Claude Code, Session 069. **Date:** 19 August 2026.

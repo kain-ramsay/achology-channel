@@ -1,5 +1,17 @@
 # RULING: courses 004 and 007 join the held back set. Nine courses run last, not seven.
 
+> **SUPERSEDED AT S072, BY KAIN'S OWN RULING. THE HELD BACK SET IS EMPTY.**
+>
+> This ruling created the set of nine. That set no longer exists. All 28 rows of Karen's watch list are answered, and the five that read no were settled before Code's S072 sitting: course 001's sheet at S070, and course 010's fourteen name offset at S071 with fifteen Drive files renamed. Kain's words opening that sitting: both 001 and 010 are clean on mapping now, so the nine held courses can run.
+>
+> All three run scripts now read an empty set, kept as an empty set rather than deleted so the guard can be used again when the next watch list arrives.
+>
+> **The current state lives in `CONFIRMED__The_Five_Point_Delivery_Plan_Four_Confirmed_One_Corrected_S288.md`, point 3**, which carries both this ruling and its supersession. Read that, not this.
+>
+> This file is kept rather than deleted because it is the record of why nine courses were held and what answered the question. Nothing in it is a live instruction.
+
+---
+
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 289. **Date:** 19 August 2026.
 **Ruled by:** Kain, in session, S289.
 **Changes:** point three of the five point delivery plan, as confirmed in `CONFIRMED__The_Five_Point_Delivery_Plan_Four_Confirmed_One_Corrected_S288.md`.

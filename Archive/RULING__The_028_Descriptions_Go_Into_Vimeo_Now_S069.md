@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): ACTED ON AND CLOSED. Course 028 recorded complete on the Vimeo Course Refresh card. The five description rows were read by Kain this session (028-001, 028-002, 028-041, 028-044, 028-049, rendered with Karen's original above each rewrite) and approved: 'they are much better now'. The per-course stop is therefore removed for all 27 remaining courses, filed as APPROVED__The_Five_Rows_Read_Well_Run_The_Remaining_27_S289. Captions ruled: Kain watched 028-006 and 028-038, display stays on, no further caption checking, filed as RULING__The_Captions_Read_Well_Display_Stays_On_S289.**
+
 # RULING: Kain has put course 028's descriptions into Vimeo now, ahead of the sweep. Filed the same session.
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 069. **Date:** 19 August 2026.

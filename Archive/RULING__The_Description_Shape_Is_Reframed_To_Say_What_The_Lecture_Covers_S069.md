@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): ACTED ON AND CLOSED. Rule set edited to V3, verified by read-back: the teaching-stance rule replaced with 'the description says what the lecture covers', the three-cliche ban made its own rule so it cannot be lost in a future edit, and the worked example replaced with 028-049 from the approved fifty (the old 023-003 example contradicted the new rule). Reissued to Code as REISSUED__The_Rule_Set_Is_V3_Your_Reframe_Is_Written_In_S289. Board: the Vimeo Course Refresh card records the reframe and V3 under SETTLED AT S289.**
+
 # RULING: the description shape is reframed. It now says what the lecture covers. One V2 rule is overturned.
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 069. **Date:** 19 August 2026.

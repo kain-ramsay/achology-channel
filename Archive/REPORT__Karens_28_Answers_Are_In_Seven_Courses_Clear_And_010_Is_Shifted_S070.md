@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S290, line written retrospectively at S291 after it was found missing): ACTED ON AND CLOSED. Kain ruled on all 28 rows. Seven of the nine held courses were cleared: 003, 004, 007, 008, 012, 013, 014. The ruling was that the files stand and the spreadsheet is corrected, applied in both course 001 and course 010. The finding that course 010's band runs to lesson 108 rather than 107 was carried to Code as `FINDING_AND_HOLD__Course_010_Drive_094_To_108_Are_One_Behind_S290`, and the ruling as `RULING__The_Files_Stand_The_Spreadsheet_Is_Corrected_S290`. Board cards moved: none, because this closed inside the video run rather than changing a card's state. Evidence for this line: the S290 handover, read at the S291 open.**
+
 # REPORT: Karen has answered all 28 rows. Seven of the nine held courses are clear. One of the other two is much bigger than its three rows.
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 070. **Date:** 19 August 2026.

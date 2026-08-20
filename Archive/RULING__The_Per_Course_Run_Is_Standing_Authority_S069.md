@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S289): ACTED ON AND CLOSED. Recorded on the Vimeo Course Refresh card as standing authority: Code stops only for a fault or a held back course, and step 7 (deleting old copies) no longer comes to Kain per course. Chat's own APPROVED__The_Five_Rows_Read_Well_Run_The_Remaining_27_S289 removes the other per-course stop, so the two together close every routine interruption.**
+
 # RULING: the per course run is standing authority. Code stops only for a fault or a held back course.
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 069. **Date:** 19 August 2026.
