@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** read and acted on in part. **Item 3 acted on now:** `author_slug` is added to the book-note contract in `upload_contracts.json` and `Book_Note_Upload.csv` is regenerated at 16 columns with the value filled on all 601 rows from the master's `prod_book_author_slug`. Your finding was that the theme reads the field and the upload file never carried it, so the fix is a column rather than a ruling, and Kain is told it was taken. **Item 1, the harness version:** not ruled, carried to Kain. **Item 2, the component numbers:** the answer is that Act 2 has not run, so this goes to the board as a blocked ruling rather than a count; your offer of a pre-sorted census is the thing that unblocks it and is put to Kain. **Item 4's owed list** is carried into the S299 handover unchanged. Archived.
+
 # ANSWER: four short ones, and a plain list of what is still owed
 
 **DOCUMENT TYPE:** answer. **From:** Claude Code, Session 077. **Date:** 20 August 2026.
