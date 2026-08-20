@@ -1,8 +1,10 @@
 # THE HARNESS
 
-**Version 3.3, S267. Authority: Kain Ramsay.**
+**Version 3.4, S294. Authority: Kain Ramsay.**
 **Read by Claude Code at the open of every Code session, before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
+
+Version 3.4 scopes Rule 1's opening read to the live stream, ruled by Kain in the Code S074 sitting and measured rather than argued: at that open, FROM Chat held 27 files and 137KB, of which 123KB was work parked under Kain's own video-only ruling and unactionable, and it had been read in full at every open since that ruling was given. **Rule 1 is tightened rather than joined:** while a stream ruling stands, the harness is read whole, the live stream's files are read whole, and every other file is named without being opened, with the count stated in the opening line. Nothing is skipped silently, and the moment the stream ruling lifts the whole backlog is read. No rule is added and none leaves, so the growth governor is satisfied. Kain's word, asked whether the scoped read was permitted: "yes".
 
 Version 3.3 tightens Rule 8's page-creation boundary rather than granting an exception to it. The old sentence said Code never creates a WordPress page, only Kain creates pages. It was written after Code created pages nobody needed, and it worked, but it works by forbidding a whole capability, which puts thirty-five pages of clicking onto Kain and enforces nothing that anyone can check: "never" is a judgement about intent and a count is a fact. **The boundary is now the enumeration, not the act.** Code may create pages only where a signed specification names each one by title, address, parent and template, and he creates exactly those, as drafts, and reports the count and the list. A page created that is not on the list is a harness break, and so is a page on the list that is missing. That is a stronger guard than the one it replaces, because either side can verify it in ten seconds by comparing two counts, where the old rule could only be broken invisibly and argued about afterwards. No rule is added and none leaves. Kain's words, S267, asked directly whether the rule should bend for the 35 course and school pages: "a BIG YES from me, please go ahead and tighten the rule."
 
@@ -50,6 +52,14 @@ Nothing in this document is open to interpretation. Where a rule seems to have a
 
 ### Rule 1. Open every session the same way
 First acts, before any work: read every file in FROM Chat, and read this document, all fourteen rules. The first message of the session states both in its first line. A session that opens without this line is a broken session.
+
+**While a stream ruling is in force, the read is scoped to that stream (ruled by Kain in the S074 sitting).** A stream ruling is Kain naming one body of work as the only work until it is delivered. While one stands: read this document in full, read the FROM Chat files that sit inside the live stream in full, and list every other file by name without opening it. The opening line still states that both the channel and the harness have been read, and it also names the stream and the count of files left unopened.
+
+**Three things this does not weaken.** Nothing is skipped silently, because every unopened file is named, so an omission is visible rather than invisible. A file arriving inside the live stream is read in full, always: the scoping is by stream, never by size or convenience. And the moment a stream ruling lifts, the whole backlog is read at the next open. Parked work is deferred, never dropped, and Rule 13's archiving obligation is untouched.
+
+**Where no stream ruling is in force, this paragraph does not apply** and the rule runs exactly as written above.
+
+**Why it was ruled.** Measured at the S074 open: FROM Chat held 27 files totalling 137KB, of which three files and 14KB were inside the live video stream. The other 123KB was component and chrome work parked under Kain's own video-only ruling, and it had been read in full at every session open since that ruling was given. The read bought nothing while the parked work could not be acted on, and it consumed the context the actual work needed.
 
 ### Rule 2. Declare scope before touching anything
 Before any change, write the declaration into the session, as its own message sent before any edit begins, in this exact shape:
