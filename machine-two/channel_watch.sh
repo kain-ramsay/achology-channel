@@ -73,12 +73,32 @@
 
 set -uo pipefail
 
-# FOUND LIVE, S076: a git push hung for ninety minutes under launchd, with no
-# SSH agent access in that context to answer whatever it was waiting on, and
-# every later cycle piled up behind the lock this one process never released.
-# BatchMode=yes turns any prompt into an immediate failure instead of a
-# silent wait; ConnectTimeout bounds a genuine network stall to ten seconds.
-export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=10"
+# FOUND LIVE, S076, TWICE, and the second time proved the first fix bounded
+# the wrong stage.
+#
+# First: a git push hung for ninety minutes under launchd, holding the lock,
+# so every later cycle exited immediately and the heartbeat went stale while
+# the watcher still looked registered and healthy. BatchMode=yes and
+# ConnectTimeout=10 were added, which turns any credential prompt into an
+# instant failure and bounds the initial handshake.
+#
+# Then it hung again, for over two hours, WITH that fix live. The stuck
+# process was `git fetch`, and GitHub was reachable throughout: a manual
+# ls-remote answered instantly while the watcher sat there. So it was never
+# a credential or a connect problem. The connection was established and then
+# died mid-transfer, most likely starved by the video run saturating the
+# line with twenty concurrent transfers, and SSH waited on a peer that was
+# never going to speak again.
+#
+# ConnectTimeout does not cover that. It bounds the handshake and nothing
+# after it. ServerAliveInterval is what bounds the rest: SSH sends a probe
+# every 20 seconds and gives up after three unanswered, so a dead connection
+# fails in about a minute instead of never.
+#
+# THE LESSON WORTH KEEPING: a hang is not one failure mode. Bounding the
+# phase you happened to catch it in leaves the others open, and the second
+# hang looked identical to the first from the outside.
+export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=10 -o ServerAliveInterval=20 -o ServerAliveCountMax=3"
 
 CHANNEL="$HOME/achology-channel"
 STATUS="$HOME/.claude/achology_channel_watch.status"
