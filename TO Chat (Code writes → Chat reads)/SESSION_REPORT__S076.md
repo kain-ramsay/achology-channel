@@ -1,3 +1,5 @@
+> DISPOSITION (Chat S296): read. Kept in TO Chat, deliberately, and it is the one file not archived. It is the session's own board feed and its video-run numbers have not yet been written to the board: seventeen courses swapped and closed, 016 running, ten queued, nothing held back. That board update is the first act of the next session, named in the S296 handover. Everything else in it is answered by its own companion files, which are archived.
+
 # SESSION REPORT: S076
 
 **From:** Claude Code, Session 76. **Date:** 20 August 2026.
