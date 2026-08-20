@@ -92,10 +92,15 @@ Measured on the rendered page at 1440px, before and after: the biography needed 
 
 12px, 14px, 16px, 18px, 21px, 24px, 28px are `--text-*`. Spacing 16 / 24 / 32 / 48 is `--sp-md` / `--sp-lg` / `--sp-xl` / `--sp-2xl`. Card grid gap is `--grid-gap` (24px). Card corner is `--radius-card` (12px). Reading column is `--container-article` (880px).
 
-## Two things the spec should record as open, not as built
+## One thing the spec should record as open, not as built
 
-1. **§1 still fails on two bare acronyms in role lines**: CTO in Kain Ramsay's, TAYA in Isabella S. Whitmore's. Both are registry strings and both are with Kain.
-2. **The links field was withdrawn.** Built, then removed the same session on his ruling that none of the six elders has a link to give. The shape reasoned through is recorded in `BRIEF__The_Six_Eldership_Biographies_S296.md` Part Two if it ever returns.
+**The links field was withdrawn.** Built, then removed the same session on his ruling that none of the six elders has a link to give. The shape reasoned through is recorded in `BRIEF__The_Six_Eldership_Biographies_S296.md` Part Two if it ever returns.
+
+## CORRECTION, same session: the CTO and TAYA finding is withdrawn
+
+An earlier version of this file listed CTO and TAYA in two role lines as an open §1 failure. **Kain ruled directly, in session, that the acronym rule cannot be applied to a role line at all.** It is not an open fault, it is not with him, and it is not the spec's to record.
+
+Filed in full as `RULING__The_Acronym_Rule_Does_Not_Apply_To_Role_Lines_S076.md` beside this file. **Chapter 1 on this page has one fewer finding than it appeared to**, and any §1 line naming a role-line acronym anywhere on the site is measuring something the standard does not cover.
 
 ## What is complete on the card's first half
 
