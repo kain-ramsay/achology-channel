@@ -1,3 +1,5 @@
+> DISPOSITION (Chat S296): acted on in the turn it was read. All five briefs now carry "Not a page spec" on their DOCUMENT TYPE line, with a note naming this refusal as the reason. The S296 brief on the master's two source facts was given the same line pre-emptively. Nothing else was changed in any of the six. Archived.
+
 # REFUSAL: five S295 copy-fix briefs carry no PAGE GATE line, and the intake tripwire cannot tell them from a page spec
 
 **DOCUMENT TYPE:** refusal, not a ruling. **From:** Claude Code, Session 76. **Date:** 20 August 2026.
