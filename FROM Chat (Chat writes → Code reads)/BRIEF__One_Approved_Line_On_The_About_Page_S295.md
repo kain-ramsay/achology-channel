@@ -4,6 +4,13 @@
 **Approved by Kain, S295, word for word.** This is the whole instruction; nothing here is
 open to judgement, and nothing else on the page changes.
 
+**REPLACES an earlier version of this file written the same session.** That version carried
+the wording "and joining the community: the members who subscribe, take the courses and
+practise together online". It is withdrawn: it was Chat's own wording, it described members
+as people who subscribe, and the approved identification of a member does not say that.
+**If any part of the withdrawn wording has already been applied, replace it with the line
+below.**
+
 ---
 
 ## Why
@@ -35,9 +42,19 @@ and Who It's For".
 
 **Replace with:**
 
-> Achology teaches psychology in a way that makes you wiser, not just smarter. Below are the questions people most often ask before studying with us and joining the community: the members who subscribe, take the courses and practise together online.
+> Achology teaches psychology in a way that makes you wiser, not just smarter. Below are the questions people most often ask before studying with us and joining the private learning community at community.achology.com, where members collaborate to practise the skills taught in their courses.
 
 That is the entire change. No other word, block, style or file moves.
+
+## Where the wording comes from, and why it is not Chat's to vary
+
+The identification is taken from the member entry added to DSRD 2 §2.24's locked term
+register the same session, approved by Kain word for word. **The register wording is the
+source; this line applies it.** The same read that produced this brief found the About page,
+the manifesto, the Code of Ethics and the Founders' Letter all using the word member without
+identifying it, so the register entry exists precisely so four pages do not write four
+different explanations. If this line and the register ever disagree, the register is correct
+and this line is the thing to fix.
 
 ## What NOT to do
 
@@ -48,6 +65,9 @@ That is the entire change. No other word, block, style or file moves.
 - **Do not open the question panels.** Their collapsed state is a recorded exception under
   §6 item 4, ruled by Kain this session and written into the page's record.
 - **Do not fill any judgement line in `DSRD6_RECORD.md`.** Chat writes those.
+- **Do not carry this line to the other three About pages.** They have the same gap and it
+  is recorded on each of their records, but each page's fix sits in its own sentence and
+  none is commissioned yet.
 
 ## What to return
 
