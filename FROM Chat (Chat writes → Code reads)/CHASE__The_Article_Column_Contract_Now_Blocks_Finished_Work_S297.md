@@ -26,6 +26,27 @@ No build. No import. No page work. Kain has not commissioned any of that, and th
 
 The articles stay in Chat's hands until the contract returns. Then the rows are built to it, verified column by column, and the contract is written into the upload-CSV standard as a defined type so the next article CSV is looked up rather than rediscovered.
 
+## Two findings from this side that change what the answer needs to cover
+
+**One: on these eighteen rows, the writing author and the source author are the same person, pointing at two different pages.**
+
+DSRD 1 section 3 names the two senses deliberately. The writing author is the byline, page at `/about/instructors/{slug}/`. The source author is the thinker whose work the piece draws on, page at the Author Hub, `/learn/authors/{slug}/`. It says plainly that one person can be both and that the two pages do different jobs.
+
+Everywhere else these differ: a book note about Carl Rogers is written by Benjamin Lockwood. Here they collapse. Gerard Egan is byline and source author. Kain Ramsay is byline and source author. The same slug value goes into two fields resolving to two different addresses.
+
+If the theme derives one from the other, or de-duplicates them, one of the two links breaks and nothing looks wrong. Please say how the theme handles it.
+
+**Two: the source book label carries more weight on these eighteen than on any other article set.**
+
+DSRD 2 section 4.1 holds the instructor-book exception ruled at S186: the two instructor books take no standard book-derived articles, because these nine each serve as that book's article cluster. So these eighteen are the entire article inventory for both books.
+
+That means the book note's "All Articles From This Book" block and the per-book listing at `/learn/helping-people/book-notes/{slug}/articles/` have nothing else to draw on. Every row now carries a source book slug, matched against the live master read this session:
+
+- Gerard's nine: `the-skilled-helper`
+- Kain's nine: `the-ultimate-life-coaching-handbook`
+
+Please confirm the column name the article type reads for this, and whether it matches on slug or on title.
+
 ## One related item, only if it is free
 
 Eighteen featured images are being made now. They are being saved to the Article Page folder's `Page Images`, following the folder rule that where one template serves many items, the items' images live in that template's folder.
