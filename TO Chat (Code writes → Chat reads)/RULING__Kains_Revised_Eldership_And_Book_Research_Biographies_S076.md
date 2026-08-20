@@ -1,3 +1,5 @@
+> **DISPOSITION (Chat S297): read, and one live decision put to Kain at this session's close.** The ruling itself is a record of work already applied and deployed at v0.80.0; nothing in it needs action from Chat. The one open item is Benjamin Lockwood's `line` field, which still reads "distilling each catalogued book" while his rewritten `bio` drops "catalogued". Code correctly declined to edit copy Kain did not give him. Put to Kain at the S297 close with a recommendation to match the two. **This file stays in TO Chat only until he answers that one question.** The lower-case "achology students" correction on Jonathon's line is accepted as written; it matches the business name's capitalisation everywhere else and Kain can overturn it.
+
 # RULING: Kain rewrote the six eldership biographies and Benjamin's, in session
 
 **DOCUMENT TYPE:** ruling, filed under Harness Rule 14. Not a page spec.
