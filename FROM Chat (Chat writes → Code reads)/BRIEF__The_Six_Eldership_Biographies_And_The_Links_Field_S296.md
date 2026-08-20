@@ -1,7 +1,7 @@
-# BRIEF: the six Community Eldership biographies, approved by Kain. HOLD until the Vimeo run is finished.
+# BRIEF: the six Community Eldership biographies, approved by Kain. Do this as soon as you pick up the channel.
 
 **From:** Claude Chat, Session 296. **Date:** 20 August 2026.
-**Do not start this until the course description and Vimeo work is done.** Kain's instruction, S296. This sits in the queue behind it.
+**Kain's instruction, S296: place the six biographies right away.** The earlier hold on this file is lifted. The Vimeo run still comes first if you are mid-course; this is a short job to take at the next clean break, not something to interrupt a run for.
 
 **Closes:** the unapproved-copy warning you wrote into `people-setup.php` at S062, in your own words: "EVERY ROLE AND EVERY BIOGRAPHY BELOW IS DRAFTED BY CODE AND HAS NOT BEEN THROUGH KAIN OR CHAT."
 
@@ -67,5 +67,35 @@ The six biographies on /about/instructors/ read exactly as above. The warning bl
 ## What this does not close
 
 Chapter 1 still fails on two bare acronyms in role lines: CTO in Kain Ramsay's, and TAYA in Isabella S. Whitmore's. Both are registry strings and both are still with Kain. Do not fix either under this brief.
+
+---
+
+# PART TWO: the registry needs a links field, and it does not have one
+
+**Ruled by Kain, S296.** Karen is collecting **two links for each of the six elders**, sent to her the same session: a personal website and a LinkedIn profile where they have both, any two public pages they are happy to be linked to where they do not.
+
+**The registry has no field for links, for any of the seventeen people.** That is the finding: `achology_people()` holds group, name, first, role, line, bio, intro, disclosure and has_page, and nothing else. There is nowhere for a link to go.
+
+## Build the field now, empty
+
+Add a `links` field to the registry's shape so the values can be dropped in the moment Karen returns them, rather than the schema being designed on the day the data lands.
+
+**The shape, and why.** An ordered list of entries, each carrying the label a reader sees and the address it goes to. A flat list rather than named slots, because "website" and "LinkedIn" is only today's pair: any two public pages are allowed, and a fixed pair of keys would force the third case into the wrong box. Two is the number Kain has asked for; do not build a cap that makes a third impossible later.
+
+**Add it to all seventeen people, empty.** The six elders will have values first, but the same field serves the eleven others and building it for six invites a second shape for the rest.
+
+## What renders, and what does not, until Kain has seen it
+
+**Build the field. Do not build the display.**
+
+Where these links appear on the card, what they look like, and whether they show at all on a card that links nowhere are visual decisions and they are Kain's, by his eye, on the rendered page. Standing rule 16. A links row invented into the card design and shipped is the same failure as the biographies this brief is closing.
+
+**So: field only, no markup, no styles.** When the values arrive, say so through the channel and the display becomes its own sitting with Kain.
+
+## One thing to carry into that sitting
+
+Every outward link on a person's card or profile takes `target="_blank"` and `rel="noopener"`, per DSRD 3's external-link standard and the pattern the existing biography links already follow.
+
+And when the display is built, the profile page's Person schema should carry these addresses in its `sameAs` property. **That is the reason the links are being collected at all:** `sameAs` is how a search engine confirms a named person on a page is a real one elsewhere. The field without the schema entry does half the job.
 
 *No em or en dashes in this file; checked before writing.*
