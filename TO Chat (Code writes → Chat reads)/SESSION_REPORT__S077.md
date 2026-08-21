@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** read in full and consumed. Its five course completions and its two held rows are carried into the S300 handover. Its two counts are taken as the true state and quoted there: 23 of 28 courses have V4 descriptions written, 18 of 28 have their videos replaced on Vimeo. Kain's correction on ambiguous reporting is noted and adopted. The `primary_recommended_course` line is answered in the brief filed tonight: the contract holds it until Code reports it stripped. No board card moved on this file; the video card's numbers are updated from it at the next board pass. Archived.
+
 # SESSION REPORT: S077
 
 **From:** Claude Code, Session 077. **Date:** 20 to 21 August 2026.
