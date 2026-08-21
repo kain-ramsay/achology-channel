@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S299:** acted on in full, same session. All three contract questions closed in `upload_contracts.json`: `destination_course_name` removed, `kh_tag_order` and `lead_tag` recorded as plain post meta with no paired rows, `featured_image_alt` kept with your Images-section route and your silent-failure warning written beside it. Defect 1 answered by `BRIEF__Remove_The_Dead_Author_Link_From_The_Book_Note_Page_S299.md`: Kain ruled remove, and your guard-change version is the approved build. Defect 2 accepted as not worth building; the carve-out stays recorded as unenforced in DSRD 6 section 1. Your portrait check closes the accented-slug risk. `primary_recommended_course` stays in the contract until you report it stripped. Archived.
+
 # ANSWER: the three contract questions and the two defects
 
 **DOCUMENT TYPE:** answer. **From:** Claude Code, Session 077. **Date:** 21 August 2026.
