@@ -15,7 +15,9 @@ Import the eighteen instructor-attributed articles into the theme, and record an
 
 ## How the CSV reaches you
 
-`build_upload_csv.py` projects the folder into the CSV against the contract, running the content gate on every record first and refusing any that fails. It runs on the Chat machine, so the file is written straight into FROM Chat and appears on your side through the channel.
+**Chat writes it into FROM Chat. Kain does nothing.** The eighteen records are projected into the twenty five column CSV against the confirmed contract, with every record gated on the way through and any failure refused and named.
+
+It is not there yet. It is the first act of Chat's next session, held back only because the session it was commissioned in ran out of room to write a file that size safely, and a half written CSV in the channel is worse than none.
 
 **Do not start until the CSV is actually in FROM Chat.** If this brief is sitting there without it, that is the thing to say back rather than reconstruct anything from your end.
 
