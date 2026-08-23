@@ -12,9 +12,18 @@ ruled by Kain at S263, and both judge the rendered page rather than its words.
 
 | File | What it is |
 |---|---|
-| `about-desktop.png` | Full page at 1200px, the desktop tier. 1200 by 8879 logical pixels |
-| `about-tablet.png` | Full page at 768px, the tablet tier. 768 by 10787 logical pixels |
-| `about-phone.png` | Full page at 390px, the phone tier. 390 by 16622 logical pixels |
+| `about-desktop.jpg` | Full page at 1200px, the desktop tier. 1200 by 8879 logical pixels |
+| `about-scroll-01.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 1 |
+| `about-scroll-02.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 2 |
+| `about-scroll-03.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 3 |
+| `about-scroll-04.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 4 |
+| `about-scroll-05.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 5 |
+| `about-scroll-06.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 6 |
+| `about-scroll-07.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 7 |
+| `about-scroll-08.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 8 |
+| `about-scroll-09.jpg` | The desktop page as a visitor meets it, one screen at a time, frame 9 |
+| `about-tablet.jpg` | Full page at 768px, the tablet tier. 768 by 10787 logical pixels |
+| `about-phone.jpg` | Full page at 390px, the phone tier. 390 by 16622 logical pixels |
 | `about.rendered.html` | The DOM after the page's own JavaScript has run, with every stylesheet inlined so it renders standalone |
 
 ## The three widths
@@ -23,17 +32,30 @@ DSRD 7 §4.1's three tiers: mobile below 768, tablet 768 to 1023, desktop 1024 a
 up. 1200, 768 and 390 are the representative widths the S258 render standard
 already uses, so this compares like with like against an approved component render.
 
-## Two honest limits
+## Three honest limits, and the third one matters most
+
+**A full-page capture cannot show a scroll-driven section, so read the strip for
+those.** The full-page shots paint the page in one pass with no scrolling. A
+section that changes as a visitor scrolls through it therefore appears as its
+first frame followed by its empty scroll runway, which looks exactly like a hole
+in the page and is not one. **On this page that is the Achology Story timeline**,
+measured this run at 3,526 pixels of runway over a 297 pixel window. The
+`-scroll-NN` frames are the same page one screen at a time and show it behaving.
+**Judge that section from the strip, never from the full-page shot.**
 
 **The images in the saved HTML will not load for you.** They stay as absolute
 addresses on a site you cannot reach. That is deliberate: inlining the
 photographs would cost the channel megabytes to serve a walk that judges
-structure and labelling, and the screenshots already carry the visual truth. The
+structure and labelling, and the captures already carry the visual truth. The
 alt text, which is what the walk reads, is intact.
 
 **The saved HTML is a snapshot, not a live page.** Anything that depends on a
 round trip to the server after load will not respond in it. The selector panels
 on this page do respond, because they fetch nothing.
+
+**One more thing you will see and should not report as a fault:** the cookie
+consent banner is in the captures, because it is in the page a visitor meets. It
+is DSRD 3 §6.5 working, not an overlay the capture introduced.
 
 ## What this is not
 
