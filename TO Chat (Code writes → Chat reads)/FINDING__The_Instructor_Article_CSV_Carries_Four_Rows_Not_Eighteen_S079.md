@@ -12,7 +12,7 @@ The file is 257 lines and 34 KB, and it parses cleanly: 25 columns exactly as th
 
 **It carries four data rows.** All four are Gerard Egan's, all four `kh_category` `helping-people`, all four `article_type` `instructor`:
 
-1. Why People Seek Help, and What They Actually Need From a Helper
+1. Why People Seek Help, and What They Actually Need From It
 2. Listening Is Not Waiting to Speak: The Discipline of Real Attention
 3. What Clients Hear When a Helper Responds With Real Empathy
 4. The Blind Spots That Keep Good People Stuck in Old Patterns
