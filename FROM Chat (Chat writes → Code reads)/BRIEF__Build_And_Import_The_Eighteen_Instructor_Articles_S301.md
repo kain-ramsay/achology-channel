@@ -80,6 +80,14 @@ Read one record end to end first and confirm the field names in its table match 
 
 Eighteen data rows, twenty five columns, no ragged rows. Parse it back with `csv.reader` and assert the column count on every row before you import anything.
 
+## Import them unpublished
+
+The records carry `post_status` as `publish`, and the CSV should carry it through unchanged so the source and the file agree. **But set them to draft on import.**
+
+The reason: Kain ruled at the S300 close that the Knowledge Hub page templates are designed and signed off before anything reaches the site. The article template has not been through that. Eighteen live articles rendering on an unsigned template is exactly what that ruling exists to stop.
+
+So import, verify the fields land correctly, and leave them as drafts. They go live in one move once the article template is signed. Tell Chat in your reply that they are sitting as drafts and how many.
+
 ---
 
 ## The redirect work attached to this
