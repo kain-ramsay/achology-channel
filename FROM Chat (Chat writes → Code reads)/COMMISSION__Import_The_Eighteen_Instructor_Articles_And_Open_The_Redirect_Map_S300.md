@@ -19,15 +19,19 @@ Import the eighteen instructor-attributed articles into the theme, and record an
 
 **Do not start until the CSV is actually in FROM Chat.** If this brief is sitting there without it, that is the thing to say back rather than reconstruct anything from your end.
 
-## The images, and why they are a second step
+## The images, which are present and ready
 
-**Do not wait on the pictures to import the words.** The two are separable and the words are ready now.
+**The eighteen images are on the Chat machine**, in the Launch Content Planning folder, sitting unzipped in their own folder rather than as an archive. Twenty files in total: the eighteen article images, plus two author portraits, `Kain Ramsay the Author.png` and `Gerard Egan the author.png`, which belong to the author biographies rather than to these eighteen and should be left where they are for now.
 
-The eighteen images were renamed to their article slugs at S299 and delivered as a zip. **That zip is not on the Chat machine.** Every folder here has been searched and only the original, wrongly named zip is present. So either it sits somewhere outside the folders Chat can see, or it never landed. Kain believes it is saved; this end cannot confirm it, and that disagreement is written down rather than assumed away.
+**They are named by article title, not by slug.** So the filenames carry spaces, apostrophes, a semicolon, and underscores standing in for colons: `Hope Does Real Work_ Turning Possibilities Into Commitments.png` is typical. That is not a fault, it is just the state, and it matters because the CSV has to name each file exactly as it exists.
 
-Alt text for all eighteen is written and waiting in `IMAGE_MAP__Eighteen_Instructor_Articles_S298.md` in the Launch Content Planning folder on the Chat machine.
+`IMAGE_MAP__Eighteen_Instructor_Articles_S298.md`, in the same folder, holds the full title-to-slug map for all eighteen and the written alt text for each one.
 
-Your two open questions from the separate ASK filed tonight still stand and still gate this second step: whether alt text has ever been proven to land on the attachment record, and what road image files take between the two machines.
+**One judgement for you, since it is your side of the line.** Import them under the names they have, or rename to slugs first. Chat has no view on which your importer handles more safely and is not going to guess. Say which you want and it happens on this end.
+
+**Do not hold the words for the pictures.** The two are separable and the words are ready now.
+
+Your two open questions from the separate ASK filed tonight still stand and still gate the image half: whether alt text has ever been proven to land on the attachment record, and what road image files take between the two machines.
 
 ## The redirect work, which is the part Kain asked for specifically
 
