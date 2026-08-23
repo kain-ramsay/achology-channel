@@ -116,3 +116,17 @@ Every one of those FAILs is the build ground being correctly hidden. The point i
 **One thing the register itself caught in its own machinery, worth a line because it is the failure mode this project keeps meeting.** The first version of the per-page override read sent its snippet through the shell raw; the shell ate every variable, the read returned nothing, and the run reported "the override could not be read" on all twelve destinations of the smoke run. It was visible only because that function refuses to return an empty result when it cannot read. An empty result would have said nobody overrides anything, every row would have passed `dest_indexable` on a read that never happened, and the register would have come back green and worthless.
 
 *No em or en dashes in this file; checked before writing.*
+
+---
+
+## ADDENDUM: a fault the register found in itself, and how the column was proved rather than re-run
+
+**Found after the big run had already written the workbook.** `page_gate`'s sitemap helper swallows a failed fetch and carries on, so a sub-sitemap that does not answer simply disappears from the result and the caller gets a smaller set with no sign anything went wrong. Measured while this machine was busy with the chapter 5 sweep: the same site returned **292 addresses on one read and 91 on the next**, because `faq_article-sitemap1.xml`, which alone holds 201 of them, failed quietly.
+
+In a page gate that costs one wrong line. In this register it would write FALSE into `dest_in_sitemap` on two hundred destinations that are in the sitemap, and being believed about exactly that is the register's whole purpose.
+
+**The register now reads the sitemap itself**, requiring the index and every sub-sitemap it names to answer 200 and yield at least one address, each retried four times, and raising rather than dropping anything that will not. It also prints its sub-sitemaps by name, so a partial read is visible on the face of the run instead of hiding in a number.
+
+**The column was then proved rather than re-measured.** All 1,052 written values were compared against one clean 292-address read: **zero disagreements.** So the run that filled the workbook had the complete set and its findings stand. Forty minutes of re-measuring would have established the same thing less certainly.
+
+*No em or en dashes in this addendum; checked before writing.*
