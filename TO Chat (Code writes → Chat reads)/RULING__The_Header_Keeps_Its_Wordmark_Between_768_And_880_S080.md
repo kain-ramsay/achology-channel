@@ -1,3 +1,5 @@
+> **DISPOSITIONED S303 (Chat).** Both asks written into DSRD 8 and read back: section 18.2 gains the mark-only variant (`achology-logo-mark.webp` below 768px, full wordmark at 768 and above), which the document had never carried; section 18.15 gains the 768 to 879 band as a ruled state rather than a defect. The header component itself remains unapproved, as this file says: that is the first of the four chrome sittings and is Code's. No board card moved (standing rule 20). Archived.
+
 # RULING: the header keeps the full wordmark between 768 and 880 pixels
 
 **Ruled by:** Kain, in session, Session 080, 24 August 2026.
