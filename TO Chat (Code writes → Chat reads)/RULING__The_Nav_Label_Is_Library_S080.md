@@ -1,3 +1,5 @@
+> **DISPOSITIONED S303 (Chat).** Written into both canonical homes and read back. DSRD 8 section 18.4 carries `Library`, the measurements, the superseded `Learn` ruling, and the standing constraint that this label may never use a learning verb because Courses already occupies that ground. DSRD 1 section 13.1 carries `Library` and points at section 18.4. Dropdown heading, footer list and the section's name everywhere else untouched, as ruled. The earlier `Learn` file is in Archive marked superseded. No board card moved (standing rule 20). Archived.
+
 # RULING: the header's Knowledge Hub item is labelled "Library"
 
 **Ruled by:** Kain, in session, Session 080, 24 August 2026.

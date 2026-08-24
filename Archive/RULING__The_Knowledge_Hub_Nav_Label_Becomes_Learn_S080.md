@@ -1,4 +1,4 @@
-> **DISPOSITIONED S303 (Chat).** Answer written into both canonical homes and read back: DSRD 8 section 18.4 carries the label change with the measurements and the reasoning and is the authoritative copy; DSRD 1 section 13.1 carries the label and points at section 18.4. Dropdown heading and footer link untouched, as ruled. No board card moved: this is a document edit at molecular altitude (standing rule 20). Archived.
+> **DISPOSITIONED S303 (Chat), then SUPERSEDED in the same session.** `Learn` was written into DSRD 8 section 18.4 and DSRD 1 section 13.1, and within the hour `RULING__The_Nav_Label_Is_Library_S080` arrived in TO Chat reversing it: Kain saw `Learn` in the bar rather than against itself, asked whether it competed with Courses, and ruled `Library`. Both documents were corrected to `Library` in the same session and now carry the standing constraint that this label may never use a learning verb. **Read this file as history only.** No board card moved (standing rule 20).
 
 # RULING: the header's Knowledge Hub item is now labelled "Learn"
 
