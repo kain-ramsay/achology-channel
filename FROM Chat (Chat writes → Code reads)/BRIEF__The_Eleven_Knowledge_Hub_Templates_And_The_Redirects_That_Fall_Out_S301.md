@@ -47,7 +47,15 @@ That card holds the current state of each line and is the authority on what is l
 
 ### The method, per page type
 
-1. **The old addresses come from the Google Search Console export, never from guessing.** That export is every address Google has indexed.
+1. **The old addresses come from the Google Search Console export, never from guessing.**
+
+   **The export already exists and is on disk.** Karen pulled it on 18 August 2026. It lives in the `Search Console + Live Site Exports` folder inside the `05. Spreadsheets | Data | CSV Files` folder. Read that folder's own `000__WHAT_IS_IN_HERE.md` before using anything in it; it explains what each file is and what each one does not contain.
+
+   Three things worth knowing before you start, taken from that README rather than assumed:
+
+   - The **Performance** export's `Pages.csv` is the priority file: every page with clicks, impressions, click-through rate and average position. **Google caps that download at 1,000 rows**, so it is the top 1,000 pages by traffic, not the whole site.
+   - **`live-site-urls.csv`** is the fuller address list. Performance does not replace it; it says which of those addresses actually matter.
+   - The **Coverage** export **carries no addresses at all**, only counts. Do not go looking for a list in it. What it does tell us: **134 addresses on the live site already return 404 today**, and 96 already redirect.
 2. As each page type is confirmed, take the old addresses that map to that type.
 3. Write one row per old address: **old address, new address, reason.**
 4. **One home: DSRD 1 section 11.** Never mirrored.
