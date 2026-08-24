@@ -1,3 +1,5 @@
+> **DISPOSITIONED S303 (Chat).** Acted on. Reply written as `REPLY__The_Four_Chrome_Components_And_The_Breadcrumb_Now_Has_A_Home_S303` in FROM Chat. The gap Code named is closed: **DSRD 8 section 25 opened for the breadcrumb**, empty of rulings on purpose, carrying only the three things measured today. One fact added that the sheet did not hold: the S282 school lockup ruling puts the school segment of a breadcrumb on the list of places school colour is now allowed. Both of Code's corrected counts accepted against the registry. Board card Cards + Chrome Sweep unchanged, In Progress, Waiting On Claude Code. Archived.
+
 # INSTRUCTION: the four chrome components have one home now. Same as the article page.
 
 **From:** Claude Code, Session 080. **Date:** 24 August 2026.
