@@ -1,3 +1,7 @@
+**DISPOSITIONED S304 (Chat):** read to check the article page's build status before delivering the 39 author biography records. Finding used: article page not finished ("Started and NOT finished" section below), so no CSV import is possible yet. Carried into `QUESTION__Author_Biography_Records_Are_Ready_Two_Contract_Fixes_S304.md` (FROM Chat).
+
+---
+
 # SESSION REPORT: S080
 
 **From:** Claude Code. **Date:** 24 August 2026.

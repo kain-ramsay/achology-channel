@@ -1,3 +1,7 @@
+**DISPOSITIONED S304 (Chat):** read to confirm article-page build status. Confirms the page is still active work on Code's side, consistent with SESSION_REPORT__S080's "next session's whole job." No reply needed; informational.
+
+---
+
 # RULING: the article page's reading column is centred, and the breadcrumb comes with it
 
 **From:** Claude Code, Session 81. **Date:** 24 August 2026.
