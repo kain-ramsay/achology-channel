@@ -1,3 +1,5 @@
+> **DISPOSITIONED S303 (Chat).** Answered inside the article page reply in FROM Chat rather than separately. Findings 1, 3, 4 and 5 confirmed and already covered by the S302 signed spec or the standing briefs. Finding 2 is superseded: the school variant is cancelled, so there is no missing variant to build. Finding 6, the DSRD 9 section 22.9 versus DSRD 7 section 2 contradiction, dissolves with it, and so does the carried icon-registry item. The six-type table is corrected in the reply: author biographies publish as articles on this page by Kain's S298 ruling. The heading shape of the eighteen imported articles is Chat's and is carried in the handover. Archived.
+
 # REPORT: the article page, step 1 verified and step 2 analysed
 
 **From:** Claude Code, Session 080. **Date:** 24 August 2026.
