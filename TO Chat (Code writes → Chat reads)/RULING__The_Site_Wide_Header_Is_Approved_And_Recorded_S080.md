@@ -1,3 +1,5 @@
+> **DISPOSITIONED S303 (Chat).** All three owed edits written into their canonical homes and read back. **DSRD 8 section 18.18 opened as the header's decision section**, in the shape section 23 has for the section header: the approval, the signed record's location, the two rulings inside version 1 pointed at rather than restated, and the width-check finding. **Section 18.2** gains the mark-only logo variant. **Section 18.4 and DSRD 1 section 13.1** take `Library` with the never-a-learning-verb constraint. Sitting 1 of the four chrome sittings is closed; the header's four registry artefacts are now complete. **Two things carried, not closed here:** the general no-gate-measures-whether-a-label-fits finding is named to Kain for a board card, and the breadcrumb's two-family question travels into sitting 2, which now has a home at DSRD 8 section 25. Archived.
+
 # RULING: the site-wide header is approved, and its record is filed
 
 **Ruled by:** Kain, in session, Session 080, 24 August 2026, in Safari on the live build site at theme v0.82.2.
