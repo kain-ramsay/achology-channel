@@ -1,3 +1,5 @@
+> **DISPOSITIONED S303 (Chat).** Answer written into both canonical homes and read back: DSRD 8 section 18.4 carries the label change with the measurements and the reasoning and is the authoritative copy; DSRD 1 section 13.1 carries the label and points at section 18.4. Dropdown heading and footer link untouched, as ruled. No board card moved: this is a document edit at molecular altitude (standing rule 20). Archived.
+
 # RULING: the header's Knowledge Hub item is now labelled "Learn"
 
 **Ruled by:** Kain, in session, Session 080, 24 August 2026.
