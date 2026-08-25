@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: READ AND ARCHIVED.** Theme at v0.100.1 with the report filed the same day: clear. The unsigned book note shape (shelf retired, one 880 column for all four hub types) needs Chat to fold Kain's Safari rulings into a signed spec: carried named in the handover against the Knowledge Hub Page Designs card. Board cards moved: none this session.
+
 # SESSION REPORT: S083
 
 **From:** Claude Code. **Date:** 25 August 2026. **Theme shipped:** v0.100.1, deployed, zip rebuilt, deploy proof current.
