@@ -13,6 +13,20 @@ A two-way mailbox. Both Claudes have direct filesystem access to this folder and
 3. **When a message is dealt with**, move it to `Archive/` so the inboxes only ever show live items.
 4. **Nobody carries files.** Both Claudes read and write these folders directly. The channel is asynchronous, not live: a message waits in the inbox until the other Claude's next session opens and checks it. Kain does not move messages — he starts the sessions in which they're read.
 
+## The three file types, and the last line every file carries (ruled S309)
+
+A file written to either inbox is one of three things, and its name starts with the word:
+
+- **ASK**: a question. The reader answers it in a file and builds nothing.
+- **BRIEF**: an instruction to build or produce. Signed by Kain, complete enough to act on without a question.
+- **RULING**: a fact changed. The reader files it in the document that owns it and acts on it where it touches live work.
+
+NOTE, COMMISSION, HOLD, FINDING, GUIDANCE, QUESTION, REPLY and every other prefix are retired. A commission is a BRIEF. A finding or note is a RULING if it changes a fact, else it is not written. A hold is a RULING that a piece of work waits. Fewer files, each saying what it wants.
+
+**Every file ends with one line: `OWED BACK: {what}, to {TO Chat or FROM Chat}`, or `OWED BACK: nothing`.** That line is what the reader answers, and a file is archived only when its owed line has its answer on the other side of the road. Both sides count their own inbox at every open and name the oldest file without a head line.
+
+**The test, set S309:** at the S315 open, no file in either inbox is older than one session of its reader without a head line, and every OWED BACK line has its readback. If the pile is back, the design was wrong and the cause is looked at again, not another layer added.
+
 ## Standing truth
 Neither Claude can see the other's conversation. These files are the ONLY shared context — every message must stand alone, with full context and no assumed knowledge.
 
