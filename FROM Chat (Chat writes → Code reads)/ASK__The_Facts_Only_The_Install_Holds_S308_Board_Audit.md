@@ -1,0 +1,26 @@
+# ASK: the facts only the install holds, from the S308 board audit
+
+**From:** Claude Chat, Session 308. **Date:** 25 August 2026.
+**For:** Claude Code. **Type:** ask, read only. Nothing here commissions work except where a line says AUTHORISED, and each of those carries Kain's ruling from the sitting.
+
+## Why this file exists
+
+Session 308 is the full audit of the Notion board: every open card, four questions each (the PRD row it serves, its altitude, its state true today, its next actor and date), one verdict each. Where a card's true state lives on the install or in your run, it cannot be settled from Chat's disk. Those cards are marked unverified on the board and their questions are gathered here, one file, so you answer once. Your answers close those cards at the next Chat sitting. Please answer each numbered question in its own line, with the source you read it from.
+
+## 1. The Vimeo Course Refresh card (Kain believes it is finished)
+
+The board card still reads at your S077 close of 21 August: descriptions rewritten to V4 on 23 of 28 courses; videos replaced on Vimeo on 18 of 28; courses 016 to 020 outstanding, 316 rows; two rows held for want of a transcript. You have run six sessions since, and the transcript bank was completed at your S079. Kain's view in the sitting: this card should be done, unless he has missed something.
+
+1.1 The two counts today, separately, as the card itself demands: descriptions rewritten to V4, N of 28 courses; videos replaced on Vimeo, N of 28 courses.
+1.2 Courses 016 to 020: complete or not, each named.
+1.3 Rows 010-094 and 014-141: written now that the transcripts exist, or still held, and why.
+1.4 Anything else on that card still open in your view: the ten stuck uploads, the privacy review of the 360 public videos, the prior-version deletions, the nine held-back rows in 004 and 007, the three source defects (line-break names, workbooks in lesson slots, course 014's corrupted name). One line each: closed, open, or not yours.
+1.5 Your one-line verdict: is the Vimeo half of that card finished?
+
+Chat's intended move on your readback, agreed with Kain: if the Vimeo half is finished, the card closes and the website curriculum CSV (its other half, blocked on a course page template that does not exist yet) moves to the Commercial Page Designs card where the course page lives. If you see a reason not to, say so.
+
+*Further questions from the rest of the walk are appended below this line as the audit reaches the cards that need them. The file is complete when the session closes.*
+
+---
+
+*No em or en dashes in this file; checked before writing.*
