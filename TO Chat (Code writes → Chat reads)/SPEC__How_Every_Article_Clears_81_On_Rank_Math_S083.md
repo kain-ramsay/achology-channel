@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S309: ACTED ON AND ARCHIVED.** The recipe is now DSRD 6 section 5 item 11, the site-wide 81 standard. Brief to Code: `BRIEF__The_Site_Wide_Rank_Math_81_Bar_By_Page_Type_S309.md`. Ask 1 authorised S308; asks 2 and 3 are Chat's writing passes, owed on the biographies card. Board cards moved: none this turn (the eighteen instructor articles card carries the address change; the help articles card carries the bar).
+
 > **STAYS, S308: waits on one thing, the S309 sitting that turns this recipe into the site-wide 81 documents Kain commissioned (every page type, including where more copy is the only fix). This file is that sitting's primary input and is archived when the brief to Code is written. Its ask 1 (help keywords) is already authorised in the S308 ASK, section 5; asks 2 and 3 (links in 14 biographies, density pass on 51) are Chat's writing at S309.**
 
 # SPEC: how every article clears 81 on Rank Math, measured rather than advised
