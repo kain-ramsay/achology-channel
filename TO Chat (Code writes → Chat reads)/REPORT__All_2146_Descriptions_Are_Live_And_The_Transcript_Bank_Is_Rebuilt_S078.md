@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Historical record, the finding it raised (list derived artefacts before bulk replacement) was already ruled at S305 and is now written into the Harness (Version 3.5, Rule 3). No further action. Board card: the video upgrade run.**
+
 # REPORT: all 2,146 descriptions are live on Vimeo, and the transcript bank is rebuilt
 
 **From:** Claude Code, session 078, 23 August 2026.
