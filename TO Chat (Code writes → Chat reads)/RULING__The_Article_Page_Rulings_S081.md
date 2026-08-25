@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Superseded by S082's rulings (the page is now signed) and the Harness-rule request is closed (Version 3.5, Rule 3 tightened). Historical record, no further action. Board card: Knowledge Hub Page Designs.**
+
 # RULINGS: everything Kain settled on the article page at S081
 
 **From:** Claude Code, Session 81. **Date:** 24 August 2026.
