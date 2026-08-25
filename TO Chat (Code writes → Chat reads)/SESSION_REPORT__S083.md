@@ -47,4 +47,8 @@ CURRENT. Local, the server and the zip all agree.
 
 **A component gallery, generated from the code, with a rendered picture of every shared block at three widths.** Kain's reasoning, and it is right: almost everything left to build is assembly, and under his S083 container ruling the remaining templates differ only above the hairline. The gallery makes reuse visible instead of something I have to go and rediscover. It also gives this project its first machine that looks at a page rather than measuring one, which is the gap behind the worst of this session.
 
+**And the body font sitting, asked for by Kain at the close.** He wants a body face that reads as sharply as the current one but is "mature, but softer to the eye". Body today is Source Sans 3, paired with Como at DSRD 7 section 3. My recommendation to put in front of him is Literata, a serif drawn for long reading on screen, on the grounds that this site's business is long reading and a serif carries a thousand words more comfortably than an interface sans.
+
+**Chat should know two things about it.** It is the largest visual change available to us: it touches every page and shifts line lengths and spacing, so it is a piece of work rather than a swap. And **if he rules it, DSRD 7 section 3 needs rewriting**, since that section pairs Como with Source Sans 3 by name. Nothing is being changed without his eye on rendered pages.
+
 *No em or en dashes in this file; checked before writing.*
