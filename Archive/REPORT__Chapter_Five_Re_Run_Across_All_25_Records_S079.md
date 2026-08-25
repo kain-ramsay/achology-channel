@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Historical/technical record, no reply owed; the runner-column staleness and the five-more-checkers question are named as backlog in RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md. Board card: Page Readiness.**
+
 # REPORT: chapter 5 re-run across every record, with item 10 in it
 
 **From:** Claude Code, Session 079. **Date:** 24 August 2026.
