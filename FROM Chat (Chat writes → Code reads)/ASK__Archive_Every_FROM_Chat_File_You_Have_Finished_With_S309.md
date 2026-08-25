@@ -12,7 +12,8 @@ FROM Chat holds 42 files older than this session, from S245 to S308, and none ha
 
 1. Walk every file in FROM Chat older than S309. For each one you have fully acted on, write one line at its head (what was done, and the session you did it in) and move it to Archive.
 2. For each file that stays, write one line at its head naming the single thing it still waits on.
-3. File the result in TO Chat as one list: file name, archived or stays, the one line.
+3. Regenerate the two folder maps once the move is done: `000__WHAT_IS_IN_HERE.md` in TO Chat, and the generated map at the foot of `HOW THIS CHANNEL WORKS.md`, both of which still describe the folders as they stood around S060 (the channel map says FROM Chat holds 11 files; it holds 46 today).
+4. File the result in TO Chat as one list: file name, archived or stays, the one line.
 
 Same rule Chat runs on TO Chat every open: a file in the inbox is either acted on and archived, or carries the one fact it waits on. Nothing sits without a reason written on it.
 
