@@ -21,9 +21,9 @@
 
 **The testimonials count is settled: 45 answers from nine members.** Read off the theme; the old card's 46 from ten is stale and was corrected by Kain at S045. In the same file. **Hand added.**
 
-## Started, not finished
+**The body face is Literata, ruled by Kain in session and shipped at v0.102.0.** Board card: the type work. He ruled it on four whole pages of his own copy rendered both ways in Safari. One token and one font request; every other mention of the old face in the stylesheets turned out to be a comment. Filed as `RULING__The_Body_Face_Is_Literata_S084.md`, which carries what Chat owes: DSRD 7 section 3's pairing sentence, and section 4's 620px reading column, which was tuned for the old face.
 
-**The body font sitting is built and is in front of Kain now, unruled.** Board card: the type work. Four whole pages of his own copy, each one twice, Como headings unchanged, Source Sans 3 against Literata, open in Safari. **What remains: his ruling.** If he takes it, DSRD 7 section 3 needs rewriting and the reading column's character counts move by roughly a tenth. Commit `d57c272`.
+## Started, not finished
 
 **The component gallery is unruled.** It is open in Safari. **What remains: Kain's eye on whether it is the instrument he asked for.**
 
