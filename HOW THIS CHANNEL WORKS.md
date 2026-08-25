@@ -1,60 +1,54 @@
-# Claude Code ↔ Claude Chat — message channel
+# How this channel works
 
-A two-way mailbox. Both Claudes have direct filesystem access to this folder and read/write it themselves.
+Rewritten whole at S309, ruled by Kain, because the previous edition still described the channel as an iCloud folder and carried the old dash characters. The channel is a git repository at `~/achology-channel`; why it left iCloud is in `000__WHAT_THIS_REPOSITORY_IS.md` beside this file, and is not repeated here.
 
-## The two directions
-- **TO Chat (Code writes → Chat reads)** — Claude Code writes notes here. Claude Chat reads them directly.
-- **FROM Chat (Chat writes → Code reads)** — Claude Chat writes replies here. Claude Code reads them directly.
-- **Archive/** — handled messages, moved out of the way.
+## The road
 
-## The rules
-1. **Each Claude, at session start:** check its inbox (`TO Chat` for Code, `FROM Chat` for… no — Code reads `FROM Chat`, Chat reads `TO Chat`). Read anything new, act on it or reply.
-2. **Replies** are written to the other side, one file per topic, self-contained.
-3. **When a message is dealt with**, move it to `Archive/` so the inboxes only ever show live items.
-4. **Nobody carries files.** Both Claudes read and write these folders directly. The channel is asynchronous, not live: a message waits in the inbox until the other Claude's next session opens and checks it. Kain does not move messages — he starts the sessions in which they're read.
+A two-way mailbox between Claude Chat and Claude Code. Both read and write it directly through their own filesystem access. Kain never carries a message.
 
-## The three file types, and the last line every file carries (ruled S309)
+- **TO Chat (Code writes, Chat reads).** Code's questions, rulings, reports and readbacks.
+- **FROM Chat (Chat writes, Code reads).** Chat's asks, briefs and rulings.
+- **Archive.** Consumed files, each carrying its head line saying what was done with it.
+- **heartbeat.** One pulse file and one health file per machine; its own README explains them.
 
-A file written to either inbox is one of three things, and its name starts with the word:
+The channel is asynchronous. A file waits in an inbox until the other Claude's next session opens. Write for a reader who arrives cold, days later, with no memory of anything: every file stands alone, with its full context.
+
+## The four rules
+
+1. **Read your inbox first, at every open.** Chat reads TO Chat and Code reads FROM Chat, before any other work, and each names in its opening line every file and what happens to it this session. Each side also counts the other side's folder and names the oldest file in it with no head line (S309).
+2. **Empty the inbox in the session that reads it.** A file is acted on and archived, or its answer is written into the document that owns it and then archived, or it stays with one line at its head naming the single fact it waits on. Read and parked is not a state.
+3. **Ask for answers, never for work.** An ASK is read only. Anything that would have the other side build, change or produce is a BRIEF, signed by Kain.
+4. **Transport, not storage.** The thing a file is about lives in the folder that owns it. The file carries the ruling or the pointer, never a second copy.
+
+## The three file types (ruled S309)
+
+Every file starts with one of three words, and there are no others.
 
 - **ASK**: a question. The reader answers it in a file and builds nothing.
 - **BRIEF**: an instruction to build or produce. Signed by Kain, complete enough to act on without a question.
 - **RULING**: a fact changed. The reader files it in the document that owns it and acts on it where it touches live work.
 
-NOTE, COMMISSION, HOLD, FINDING, GUIDANCE, QUESTION, REPLY and every other prefix are retired. A commission is a BRIEF. A finding or note is a RULING if it changes a fact, else it is not written. A hold is a RULING that a piece of work waits. Fewer files, each saying what it wants.
+NOTE, COMMISSION, HOLD, FINDING, GUIDANCE, QUESTION, REPLY and every other prefix are retired. A commission is a BRIEF. A finding is a RULING if it changes a fact, else it is not written. A hold is a RULING that a piece of work waits. Code's SESSION_REPORT and RULING files under his Harness Rules 13 and 14 keep their names; they are readbacks, which is what TO Chat is for.
 
-**Every file ends with one line: `OWED BACK: {what}, to {TO Chat or FROM Chat}`, or `OWED BACK: nothing`.** That line is what the reader answers, and a file is archived only when its owed line has its answer on the other side of the road. Both sides count their own inbox at every open and name the oldest file without a head line.
+## The two lines every file carries
 
-**The test, set S309:** at the S315 open, no file in either inbox is older than one session of its reader without a head line, and every OWED BACK line has its readback. If the pile is back, the design was wrong and the cause is looked at again, not another layer added.
+**At the foot, when written:** `OWED BACK: {what}, to {TO Chat or FROM Chat}` or `OWED BACK: nothing`. That is what the reader answers, and a file is archived only when its owed line has its answer on the other side of the road.
 
-## Standing truth
-Neither Claude can see the other's conversation. These files are the ONLY shared context — every message must stand alone, with full context and no assumed knowledge.
+**At the head, when read:** one line saying what was done with it and the session it was done in, or the one fact it waits on. Chat's line reads `CHAT DISPOSITION, S{nnn}: ...`; Code's reads `CODE DISPOSITION, S{nnn}: ...`. The folder is the record; the message that read it disappears.
 
-## The two machines, and what iCloud does to this channel (recorded S271)
+## What enforces this
 
-**Claude Chat and Claude Code do not run on the same computer.** This folder reaches both of them through iCloud Drive. Verified at S271: work Code committed on his machine at 23:33 was readable from the other one the following morning.
+Chat's side: the Chat Harness, Open Step 1 and Close Step 5, printed in the OPEN and CLOSE lines Kain reads. Code's side: Harness Rule 13 and, once built, hook H7, which refuses to close a session while any FROM Chat file older than that session has no head line.
 
-Four things follow, and each one has a shape worth recognising rather than debugging from cold.
+**The test, set S309:** at the S315 open, no file in either inbox is older than one session of its reader without a head line, and every OWED BACK line has its readback. If the pile is back, the design was wrong and the cause is reopened, never another layer added.
 
-**One. The channel is not instant.** A file written at the end of a session has to upload from one machine and download to the other. If an inbox looks emptier than the other side says it should be, wait and look again before concluding the file was never written.
+## What belongs here, and what does not
 
-**Two. A file can be present and still unreadable.** With Optimise Mac Storage switched on, iCloud may keep a file's name and remove its contents from the machine, leaving a placeholder. Finder shows the file; a script that opens it finds a stub whose name ends `.icloud`, or nothing at all. That is not a missing file and it is not a fault in either Claude.
+Belongs: messages between the two Claudes, and the harness documents that govern each side. Does not belong: the things the messages are about. A specification, a design, a data file or an asset lives in the folder that owns it. A message that carries the artefact instead of pointing at it makes two copies of one truth, which is the failure the whole delivery system is built against.
 
-**Three. Two machines editing one file makes two files.** iCloud keeps both and puts a number on the end of one name. A file appearing with a 2 in its name is that, not a duplicate anybody wrote. What keeps it rare is the existing division of ownership: Chat writes the specification documents, Code writes the theme.
+The Archive keeps its map, deliberately. Every other archive in the estate goes unmapped because nobody searches it. This one is the exception: live rulings and load-bearing facts land in it and are unfindable without one.
 
-**Four. Desktops are not in here.** Nothing the two Claudes pass between them ever lives outside this project folder. The one deliberate exception is a credential, which stays on the Desktop of the machine that runs Claude Code precisely because this folder is shared and a password should not be copied between machines.
-
-**One consequence outside the channel.** The theme's working copy sits inside this synced folder, so its version control internals sync too. GitHub holds the true copy, so the recovery from any damage there is a fresh clone rather than a rebuild.
-
----
-
-## What belongs in this folder, and what does not (added S276, per the folder navigation specification)
-
-**Belongs:** messages between the two Claudes, and the three harness documents that govern how each side works. Nothing else.
-
-**Does not belong:** the things the messages are about. A specification, a design, a data file or an asset lives in the folder that owns it, and a channel message names that folder rather than carrying a second copy of the thing. A message that carries the artefact instead of pointing at it creates two copies of one truth, which is the failure the whole delivery system is built against.
-
-**The Archive keeps its map, deliberately.** Every other archive in the estate goes unmapped because nobody searches it. This one is the exception: live rulings and load-bearing facts land in it and are then unfindable without one.
+*No em or en dashes in this file; checked before writing.*
 
 <!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
 
