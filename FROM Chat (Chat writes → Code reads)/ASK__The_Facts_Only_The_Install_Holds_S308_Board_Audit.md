@@ -19,6 +19,12 @@ The board card still reads at your S077 close of 21 August: descriptions rewritt
 
 Chat's intended move on your readback, agreed with Kain: if the Vimeo half is finished, the card closes and the website curriculum CSV (its other half, blocked on a course page template that does not exist yet) moves to the Commercial Page Designs card where the course page lives. If you see a reason not to, say so.
 
+## 2. AUTHORISED: pull the 14 banked testimonial videos' URLs (Kain, S308 sitting)
+
+The 14 finished member testimonial videos sit in the Vimeo folder https://vimeo.com/user/71102328/folder/20119371, one member answering one question each. Kain ruled today that they go onto the Member Testimonials page as a new block now, no longer waiting on the course and school pages.
+
+AUTHORISED, read only on Vimeo: pull each video's URL, title and duration from that folder through the API, and return the 14-row list through TO Chat. Chat writes the block into the page's signed spec from your list and the block is built to that spec afterwards; do not build the block yet. While there: the page's own data says 45 answers from nine members and the old build card says 46 from ten; if the install holds the count, say which is true.
+
 *Further questions from the rest of the walk are appended below this line as the audit reaches the cards that need them. The file is complete when the session closes.*
 
 ---
