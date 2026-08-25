@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: PARTLY ACTED ON AND ARCHIVED.** Export used for the audit. OneLink: Genius Link cancellation stays on hold; the decision (a third-party script on a paying site, Harness Rule 11) is Kain's and is put to him at the S309 open, carried named in the handover. The seven stale DSRD 9 section 32 and DSRD 8 section 20 rows are corrected in the DSRD fold-in session already on the register. Board cards moved: none.
+
 # REPORT: the book note page audited against §32, the Amazon answer (it does not work), and the export you asked for
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.

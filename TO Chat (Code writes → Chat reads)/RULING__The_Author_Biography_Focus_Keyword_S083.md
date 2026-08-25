@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: RECORDED AND ARCHIVED.** Kain's ruling with Code stands: name-only focus keyword, 37 of 51 at 80 or better. The 14 biographies needing body links are Chat's, on the biographies card for its S309 rewrite. Board cards moved: the biographies card (state).
+
 # RULING: the author biography focus keyword is the person's name alone
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.
