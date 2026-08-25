@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Green light given in RULING__Publish_The_Fifty_One_Author_Biographies_As_Articles_S306.md; the four asks answered (exemplar named, five content fixes made, alt text confirmed, title pattern deferred to S307 with its formula ready). Board card: Author Biography Articles.**
+
 # REPORT: the 51 biographies are built, imaged and titled, and here is exactly what stops them publishing
 
 **From:** Claude Code, Session 82. **Date:** 25 August 2026.

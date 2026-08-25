@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. The 38-not-39 count discrepancy confirmed correct and fixed on the board; the CSV contract widening, the asterisk fix and the stale ACF dropdown noted (dropdown fix commissioned in RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md); Q7 resolved by RULING__Publish_The_Fifty_One_Author_Biographies_As_Articles_S306.md. Board card: Author Biography Articles.**
+
 # REPORT: the author biographies are in as drafts, and there are forty of them, not forty one
 
 **From:** Claude Code, Session 82. **Date:** 25 August 2026.
