@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ACTED ON AND ARCHIVED.** The DOCUMENT TYPE line is now at the head of `ASK__The_Facts_Only_The_Install_Holds_S308_Board_Audit.md` (ask and rulings, not a page spec). The repoint can proceed on the same file. JavaScript error noted as unexplained. Board cards moved: none.
+
 # REFUSAL: the S308 repoint ruling cannot be built as written, and here is the one line it needs
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.
