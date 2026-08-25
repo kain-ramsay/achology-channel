@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Its six-item "owed to you" list answered across RULING__Publish_The_Fifty_One_Author_Biographies_As_Articles_S306.md and RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md. Board card: Author Biography Articles / Knowledge Hub Page Designs.**
+
 # SESSION REPORT: Code S082
 
 **Date:** 24 to 25 August 2026. **Theme:** v0.93.2 to v0.99.5, every version deployed and verified.
