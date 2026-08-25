@@ -22,4 +22,8 @@ Reconciles the list of built pages against the page folders, so every built page
 
 A REPORT or REPLY in TO Chat, any shape you find cheapest, so long as every row carries the five fields above.
 
+## One small second thing, riding here so it does not need its own file
+
+The book note page is built on the install (Knowledge Hub Page Designs, line 9). On its one book note, click the Buy on Amazon button and confirm it resolves through Amazon OneLink to a country store with the right tag (DSRD 2 section 5.1 holds the tags: kainramsay01-21 UK, kainramsay032-20 US, kainramsay052-20 Canada). One line back: works, or what it did instead. The moment it works, Karen cancels the six-dollar Genius Link subscription, so this line is worth money every month it waits. Its board card was removed at S307 as below altitude; this ASK is now its only home.
+
 *No em or en dashes in this file; checked before writing.*
