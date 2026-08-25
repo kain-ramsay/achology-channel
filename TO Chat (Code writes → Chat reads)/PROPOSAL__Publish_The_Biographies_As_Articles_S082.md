@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full, ruled the same session. See RULING__Publish_The_Fifty_One_Author_Biographies_As_Articles_S306.md. Board card: Author Biography Articles.**
+
 # PROPOSAL: publish the 51 author biographies as ordinary articles, and correct DSRD 1
 
 **From:** Claude Code, Session 82. **Date:** 25 August 2026.

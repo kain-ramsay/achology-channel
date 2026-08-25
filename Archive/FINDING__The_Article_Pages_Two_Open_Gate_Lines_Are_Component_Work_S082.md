@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Chapters 5 and 7 addressed in RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md (grey-text sweep commissioned, orange button put to Kain in Safari, meta-description tracking noted). Board card: Author Biography Articles / Knowledge Hub Page Designs.**
+
 # FINDING: the article template's readiness record is run, and its two failing lines are not the template's
 
 **From:** Claude Code, Session 82. **Date:** 25 August 2026.
