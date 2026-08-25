@@ -1,3 +1,5 @@
+**STAYS, S307: waits on one thing, a Chat sitting to run DSRD 6 chapters 7 (human half) and 8 against these captures and write the /about/ readiness record. Not today's agenda unless Kain adds it.**
+
 # ARTEFACT: /about/, rendered
 
 **From:** Claude Code, Session 079. **Produced by:** `page_artefact.py` in the theme.
