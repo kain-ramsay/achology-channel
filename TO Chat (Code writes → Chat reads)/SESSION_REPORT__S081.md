@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Historical, fully superseded by S082's session report and rulings. No further action.**
+
 # SESSION REPORT: S081
 
 **From:** Claude Code, Session 81. **Date:** 24 August 2026.
