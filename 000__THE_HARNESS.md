@@ -1,6 +1,10 @@
 # THE HARNESS
 
-**Version 3.4, S294. Authority: Kain Ramsay.**
+**Version 3.5, S306. Authority: Kain Ramsay.**
+
+Version 3.5 tightens Rule 3 with the derived-artefact check, ruled by Kain at S305 after the video-replacement run silently orphaned 923 transcript files (the second time this exact failure has cost a rebuild; the first was the stale audio at S049). **A sweep brief for a bulk replacement now names, before the replacement runs, everything derived from what is being replaced**, checked or at minimum listed, never discovered afterwards. Applies to any bulk replacement Code runs: videos, images, a content type's records, a taxonomy. This closes `RULING__List_Derived_Artefacts_Before_Any_Bulk_Replacement_S305`, filed by Code against this document and correctly not self-edited (Rule 8 bars it), written in by Chat instead. No rule is added; Rule 3 is tightened, which the growth governor permits.
+
+**Version 3.4, S294.**
 **Read by Claude Code at the open of every Code session, before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
 
@@ -70,6 +74,8 @@ No declaration, no edit. A file not named in the declaration is out of scope, an
 
 ### Rule 3. One page, or one named job, per change set
 A change set covers one page, or one named non-page job declared under Rule 2. Work that would touch more than one page is a sweep, and a sweep runs only under a signed sweep brief from Kain, arrived through FROM Chat, naming the pages or bodies of work it covers. There is no other route to a sweep. "While I am in here anyway" is the exact failure this rule exists to stop.
+
+**Before a sweep that bulk-replaces files or content runs, added S306:** the brief names everything derived from what is being replaced, checked against it or at minimum listed, before the replacement runs rather than discovered after. A video replacement's derived artefacts include its transcripts and captions; a content-record replacement's include anything that cross-links to it; the brief names the actual derived set for the case at hand. Ruled after the S305 finding that replacing 2,146 course videos silently orphaned 923 transcript files with nothing reporting it, the second time this exact failure has cost a rebuild.
 
 ### Rule 4. Quote the spec, never cite it
 Any claim about a standard carries the governing sentence copied word for word from the DSRD, read from the canonical file that turn, with its section number. These are not sources and count as nothing: memory, a code comment, a value already in the code, something said earlier in the conversation. A claim without its quoted sentence is a guess and is treated as one.
@@ -204,4 +210,4 @@ A hook bypassed, a rule broken, an unproved claim of "done", or a change set ret
 
 **This document lives in exactly one place: `000__THE_HARNESS.md` at the channel folder root. It is never mirrored. Changes to it are made by Chat, with Kain's approval, versioned inside the document itself, and delivered whole.**
 
-*End of The Harness, Version 3.3.*
+*End of The Harness, Version 3.5.*
