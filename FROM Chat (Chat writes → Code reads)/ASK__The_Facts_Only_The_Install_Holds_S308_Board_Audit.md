@@ -25,6 +25,12 @@ The 14 finished member testimonial videos sit in the Vimeo folder https://vimeo.
 
 AUTHORISED, read only on Vimeo: pull each video's URL, title and duration from that folder through the API, and return the 14-row list through TO Chat. Chat writes the block into the page's signed spec from your list and the block is built to that spec afterwards; do not build the block yet. While there: the page's own data says 45 answers from nine members and the old build card says 46 from ten; if the install holds the count, say which is true.
 
+## 3. RULING (Kain, S308 sitting): repointing About and Our People to the shared enquiries panel is component work
+
+Answers section 4 of your `RULING__Shared_Blocks_Carry_Their_Own_Stylesheet_S083.md`. Replacing the duplicated panel markup in `page-about.php` and `template-our-people.php` with a call to `achology_warm_room()`, values carried across unchanged, is component work under DSRD 8 section 12.3 step three (repoint every page), not a page edit; no page spec is needed and the page gate should allow it on that basis. Do it, delete the stopgap enqueue, run the component styles gate, and confirm in your session report. Not ruled here: anything about the panel's look, which is unchanged.
+
+While you are on those two faults you filed: the missing `/enquiries/` page is PRD row Pr1.31, never built, and sits on the Commercial Page Designs card; it is not yours to invent, and the button stays pointed at the address it will have. The JavaScript error on every page: one line on what it is, if you find it, is welcome in the same report.
+
 *Further questions from the rest of the walk are appended below this line as the audit reaches the cards that need them. The file is complete when the session closes.*
 
 ---
