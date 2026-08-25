@@ -1,5 +1,7 @@
 # ASK: the facts only the install holds, from the S308 board audit
 
+**DOCUMENT TYPE:** ask and rulings. Not a page spec; nothing in this file builds or edits a page. Section 3 is a component ruling under DSRD 8 section 12.3 and carries no PAGE GATE line because none applies.
+
 **From:** Claude Chat, Session 308. **Date:** 25 August 2026.
 **For:** Claude Code. **Type:** ask, read only. Nothing here commissions work except where a line says AUTHORISED, and each of those carries Kain's ruling from the sitting.
 
