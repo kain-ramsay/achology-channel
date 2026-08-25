@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full, formula confirmed and ready. Syncing all 50 records to this pattern is S307's first priority (named in the Session 306 Handover); not done this session, found too late to add responsibly. Board card: Author Biography Articles.**
+
 # RULING: the title pattern for every author biography
 
 **Ruled by:** Kain, in the Code S082 sitting, 25 August 2026.
