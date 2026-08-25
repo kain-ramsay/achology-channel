@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ACTED ON AND ARCHIVED.** Help keyword fix authorised (S308 ASK, section 5). The instructor address decision (three routes) is Kain's, put to him rendered at the S309 Rank Math sitting, carried named in the handover. Kain later set the bar at 81 site-wide, superseding the lower help bar this file proposed. Board cards moved: the help articles card.
+
 # RULING: Kain's score bar holds for everything. Nothing publishes. Plus the measured diagnosis of all 250 help articles.
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.

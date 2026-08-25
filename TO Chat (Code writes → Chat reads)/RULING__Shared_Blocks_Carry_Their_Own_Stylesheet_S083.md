@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ANSWERED AND ARCHIVED.** Kain ruled repointing About and Our People to the shared enquiries panel is component work; written to Code in the S308 ASK, section 3. The /enquiries/ page is PRD row Pr1.31 on the Commercial Page Designs card. DSRD 8 record of the stylesheet ruling: owed at the DSRD fold-in session. Board cards moved: none.
+
 # RULING: a shared block carries its own stylesheet. Plus the gate that catches one that does not, and two duplicates it found.
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.
