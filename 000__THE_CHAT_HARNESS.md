@@ -1,6 +1,24 @@
 # THE CHAT HARNESS
 
-**Version 1.9, S280. Authority: Kain Ramsay.**
+**Version 1.10, S309. Authority: Kain Ramsay.**
+
+Version 1.10 tightens Open Step 1 to count both sides of the road, ruled by
+Kain at S309 after Chat found 42 files in FROM Chat, from S245 to S308, that
+Code had never archived. Code's Rule 13 already required him to archive them
+at every close; the rule stood and nothing enforced it, and Chat's open only
+ever counted its own inbox, so the pile was invisible from both ends for
+thirty sessions. **Open Step 1 now also counts FROM Chat and names the
+oldest file in it that carries no head line**, so a skipped Code close is
+seen by a different mind within one session, which is what Layer 3 is for.
+The matching machine check on Code's side is a hook he builds under a BRIEF
+sent S309. **The test, set by date so it fires without memory: at the S315
+open, no file in either inbox is older than one session of its reader
+without a head line, and every OWED BACK line has its readback.** If the pile
+is back, the design was wrong and the cause is reopened, never a fifth layer
+added. No rule is added and none leaves; an existing mechanism is tightened,
+per Rule 8.
+
+**Version 1.9, S280.**
 **Read by Claude Chat at the open of every session, before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
 
@@ -242,6 +260,7 @@ mapped to the drifts they catch:
 | Open Step 1's disposition line, per file (tightened V1.7): every file in TO Chat is listed with what happens to it this session, or the one named fact it waits on | A file read and quietly parked, invisible to Kain until he finds it himself. The count alone never caught this, because ten files read and one dispositioned still counts as ten files read |
 | **The disposition written onto the file itself (V1.8):** before any TO Chat file is archived, one line at its head names what was done with it and which board cards moved; a file that stays carries one line naming the fact it waits on | The disposition being true in the message and false in fact. A message vanishes at session end, so nothing outlives it to be graded. The folder outlives everything and any mind can read it |
 | **The report against the theme (V1.8, hard stop V1.9):** at every open, the deployed theme version against the newest Code session report Chat has read. If the theme is ahead, the session does not proceed to any agenda: Chat finds and reads the missing reports first, or tells Kain plainly that it cannot and why. No judgement call and no discretion | A Code session that finished work and filed no report, and equally a report filed on a road Chat is not reading. Neither side has to be honest for this to fire, because both facts are read from the things themselves; and since V1.9 the finding cannot be printed and then ignored, which is what happened at S279 |
+| **Both sides of the road counted at open (V1.10):** FROM Chat is counted beside TO Chat, and the oldest FROM Chat file with no head line is named in the opening message, with its session number | Code's Rule 13 close skipped, so consumed instructions sit as live ones; 42 files went unnoticed for thirty sessions because each side counted only what it reads |
 | Open Step 1's board update from Code's session report (added V1.7): Code's `SESSION_REPORT` is opened first and its lines driven onto the Notion board in the same turn, with the count of cards moved stated in the opening message | The board going stale because work Code finished never reached it. At S055 Code and Kain fixed 108 book covers by hand; the board still showed the job outstanding the next day and Chat was one turn from asking Karen to redo it |
 | The output gate (added V1.6): produced text scripted through the standing checks (dashes, banned vocabulary, UK spelling) in Chat's code environment before it lands, count printed | Banned characters and vocabulary reaching files through eye-check fatigue |
 | Open Step 4: skills named aloud | A governing skill sitting unconsulted |
@@ -299,4 +318,4 @@ and the Cowork Production Harness's pointer, and is never mirrored.
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.9.*
+*End of The Chat Harness, Version 1.10.*
