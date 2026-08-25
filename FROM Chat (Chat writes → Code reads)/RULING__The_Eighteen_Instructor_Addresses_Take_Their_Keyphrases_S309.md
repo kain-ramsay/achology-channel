@@ -25,4 +25,6 @@ Your own reading was route 3, accept the eighteen below 80. That was written bef
 
 Writes the same address change into the eighteen records' `slug` rows on its side after your readback, so a CSV rebuild does not revert it.
 
+OWED BACK: the per article before and after scores, to TO Chat.
+
 *No em or en dashes in this file; checked before writing.*

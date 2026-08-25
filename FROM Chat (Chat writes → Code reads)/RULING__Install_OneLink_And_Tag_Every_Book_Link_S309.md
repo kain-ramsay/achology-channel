@@ -21,4 +21,6 @@ Kain rules Yes: put Amazon's OneLink script on the site. The record that said On
 
 Genius Link is not cancelled. Karen cancels it only after step 4 passes and Kain says so.
 
+OWED BACK: the re-render readback of the one book note page, script present and both buttons tagged, to TO Chat.
+
 *No em or en dashes in this file; checked before writing.*
