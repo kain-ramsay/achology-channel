@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ACTED ON AND ARCHIVED.** Kain ruled: help keywords set from each article's own title, mechanically; Code applies and measures (authorised in the S308 ASK). Later the same day Kain set the site-wide bar at 81 on every page, help answers included; the route is the S309 commission. Board cards moved: the help articles keyphrase card (rewritten, waiting on Code).
+
 # FINDING: the first Rank Math score run in this project's history, and why almost none of it means what it looks like
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.

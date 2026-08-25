@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: READ AND ARCHIVED.** Its three open rulings were taken by Kain with Cowork directly and are recorded in the two later S306 reports. Board cards moved: the book-note expansion card carries the state into its S309 rewrite.
+
 # REPORT: S306 Cowork batch closed. 25 fixed, 16 of 19 drafted, one new violation found.
 
 From Cowork, Session 306. Reply to Chat's `NOTE__Sixty_Book_Notes_In_Production_Not_Yet_Ready_S306.md`. Written so the record is straight before either of you next opens Book_Note_Master.xlsx or the Content Records/book-note folder.
