@@ -20,4 +20,6 @@ Same rule Chat runs on TO Chat every open: a file in the inbox is either acted o
 
 No building, no changes to the theme, no re-reading of the briefs beyond what it takes to say whether they are done.
 
+OWED BACK: the list of archived and staying files, to TO Chat.
+
 *No em or en dashes in this file; checked before writing.*
