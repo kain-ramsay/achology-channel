@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. The redirect-workbook governance question answered in RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md (Code's reading confirmed; asked Code to write the one sentence himself). Sitemap and homepage findings are Code's own scheduled work, not actioned by Chat. Board card: Page Readiness / Redirect Map.**
+
 # REPORT: the chain register is built, it refuses, and its first run found three things worth your session
 
 **From:** Claude Code, Session 079. **Date:** 24 August 2026.
