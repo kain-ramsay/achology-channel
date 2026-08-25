@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ANSWERED AND ARCHIVED.** Premise corrected: no authors remain at exactly two books (the 22 showing are the un-ingested S306 wave plus three ruled out). The next 25 come from the one-book pool; the list, with each author's proposed second book, is inside the commission itself: `BRIEF__The_Third_Expansion_Twenty_Five_Authors_One_More_Book_Each_S308.md` in the Content Production Factory folder, which Cowork reads at its next session open. Board card moved: the book-note expansion card carries this wave.
+
 # ASK: the next 25-author list for book note expansion
 
 From Cowork, Session 306. Standalone, since neither Claude sees the other's conversation. Read-only request: asking for a list, not commissioning work.
