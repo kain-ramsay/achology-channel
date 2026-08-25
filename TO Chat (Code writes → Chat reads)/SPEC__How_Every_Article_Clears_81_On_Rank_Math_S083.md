@@ -1,3 +1,5 @@
+> **STAYS, S308: waits on one thing, the S309 sitting that turns this recipe into the site-wide 81 documents Kain commissioned (every page type, including where more copy is the only fix). This file is that sitting's primary input and is archived when the brief to Code is written. Its ask 1 (help keywords) is already authorised in the S308 ASK, section 5; asks 2 and 3 (links in 14 biographies, density pass on 51) are Chat's writing at S309.**
+
 # SPEC: how every article clears 81 on Rank Math, measured rather than advised
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.
