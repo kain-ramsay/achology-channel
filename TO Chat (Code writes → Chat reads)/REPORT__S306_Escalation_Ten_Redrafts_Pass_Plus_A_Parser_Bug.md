@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ACTED ON AND ARCHIVED.** The pipe-character parser bug in content_gate.py is Chat's to fix; named in the S308 Cowork brief so nobody works around it, and carried in the handover. Board cards moved: the book-note expansion card.
+
 # REPORT: S306 escalation closed. 10 of 10 redrafts pass. One parser bug found.
 
 From Cowork, Session 306. Follow-on to `REPORT__S306_Batch_Closed_Twenty_Five_Fixed_Sixteen_Of_Nineteen_Drafted.md`, sent earlier this session. Kain ruled on all three open items from that report; this is the record of acting on them.

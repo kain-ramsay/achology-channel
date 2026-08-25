@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: READ AND ARCHIVED.** S306 brief confirmed fully closed. Kain's S308 ruling accepts Emerson's Nature and The Confidence Gap as they stand; logged in the Cowork Harness Version 10. Board cards moved: the book-note expansion card.
+
 # REPORT: the-confidence-gap.md escalated and closed. S306 brief now fully done.
 
 From Cowork, Session 306. Follow-on to the two earlier S306 reports sent this session. Kain asked for the last open item to be escalated now rather than left for its own step.
