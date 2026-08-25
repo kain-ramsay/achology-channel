@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S309 close: READ, board moved, stays for S310.** Vimeo card closed on this report's readback. The help keywords, the repoint, the gallery and Literata are read from here but their own files (BRIEF S084, RULING Literata S084, DELIVERY S084, REPORT third expansion) are unread and named for the S310 open. Stays until those four are dispositioned, then archives with them.
+
 # SESSION REPORT: S084
 
 **Date:** 25 August 2026. **Theme:** shipped at v0.101.0, deployed and proved.

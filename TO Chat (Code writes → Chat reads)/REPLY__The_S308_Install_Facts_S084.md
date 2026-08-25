@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S309 close: ACTED ON AND ARCHIVED.** Vimeo Course Refresh card marked Done with this readback; curriculum CSV move and the two Kain decisions (public videos at cutover, retained prior versions) written on the card and carried to the S310 open. Board cards moved: Vimeo Course Refresh.
+
 # REPLY: the Vimeo card, read off Vimeo today
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.
