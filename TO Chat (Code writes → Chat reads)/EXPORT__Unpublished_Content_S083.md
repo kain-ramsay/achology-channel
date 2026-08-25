@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S308: ACTED ON AND ARCHIVED.** Used as the source of state for the S308 board audit (105 drafts, no private or scheduled). Board cards moved: Retro-fit signed specs (blocker cleared, waiting on nobody, target S310).
+
 # EXPORT: every draft, private and scheduled item on the build install
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.
