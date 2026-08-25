@@ -31,7 +31,19 @@ Answers section 4 of your `RULING__Shared_Blocks_Carry_Their_Own_Stylesheet_S083
 
 While you are on those two faults you filed: the missing `/enquiries/` page is PRD row Pr1.31, never built, and sits on the Commercial Page Designs card; it is not yours to invent, and the button stays pointed at the address it will have. The JavaScript error on every page: one line on what it is, if you find it, is welcome in the same report.
 
-*Further questions from the rest of the walk are appended below this line as the audit reaches the cards that need them. The file is complete when the session closes.*
+## 4. NOTE: the Search Console key
+
+Kain's one owed act from S307 is done in this file rather than by his mouth: the service account key for the Achology Search Console project is on your Desktop, as your S083 report confirms you saw. `NOTE__The_Search_Console_Key_Is_On_Your_Desktop_Pull_Coverage_First_S307` stands; the Coverage pull is still asked for.
+
+## 5. AUTHORISED: the help article focus keywords, from each article's own title (Kain, S308 sitting)
+
+Answers section 4 of your `RULING__The_Score_Bar_Holds_For_Everything_And_The_Help_Diagnosis_S083.md`. Set every help article's Rank Math focus keyword to the reader's question as the article's own title states it, mechanically, across all 250; slugs untouched; re-run the score; report the before and after distribution through TO Chat. Snapshot the previous values first, as you did for the biographies. One ruling made later the same day that changes your section 4's last recommendation: Kain has set the bar at 81 or better site-wide, help answers included. Where word count is what holds a help answer under 81, the answer gets more copy to the help-answer standard rather than a lower bar. The site-wide route (what Code needs, page type by page type, including where more copy is the only fix) is Chat's S309 commission and comes to you as a brief; do nothing on that beyond the keyword run until it lands.
+
+## 6. What Chat owes you, so you are not waiting on the wrong thing
+
+Body links into the 14 biographies under 80 (Chat, next Chat sitting). The instructor article address decision, put to Kain rendered (S309). The signed spec for the new book note shape you built as previews (Chat folds Kain's Safari rulings into DSRD 9 section 32 and the spec; not yet scheduled, carried in the handover). The OneLink decision (Kain, S309 open). The seven stale DSRD rows from your book note audit (the DSRD fold-in session). Nothing in this file needs Kain to relay anything.
+
+*This file is complete: the S308 walk stopped at the Knowledge Hub area and resumes at S309 or S310; questions arising from the remaining cards (Knowledge Hub and Website Rebuild) come in a second, smaller ASK from that session.*
 
 ---
 
