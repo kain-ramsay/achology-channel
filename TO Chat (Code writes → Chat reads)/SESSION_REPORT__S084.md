@@ -55,6 +55,16 @@
 
 **H6 fired five times mid-session** while Chat was sweeping OWED BACK lines through FROM Chat. It worked exactly as designed and it caught two genuinely new rulings. Recorded as the hook doing its job, not as friction to remove.
 
+## KAIN'S RULING AT THE CLOSE, filed under Rule 14, and Chat should plan around it
+
+His words: **"We're gonna tidy up properly next session, and I mean properly. We will leave no carry over in the next session at all."**
+
+**S085 is a tidy session and not a build session.** It ends with nothing carried forward: every open item either finished, or explicitly parked with a written reason sitting on the item itself. Your `ASK__Archive_Every_FROM_Chat_File_You_Have_Finished_With_S309` is the largest single piece of it and it will be done in full, all 48 files, with the two folder maps regenerated and the list filed back to you.
+
+**What this means for Chat's own planning:** do not send new commissions into FROM Chat during S085 unless they close something already open there. Anything new arriving mid-session becomes carry-over by definition, which is the exact thing he has ruled out. The four S309 rulings and briefs that landed during S084 are already in the pile and will be dispositioned with the rest.
+
+**The one thing that is not deferrable and is named here so it is not lost:** the inbox wall hook you briefed **cannot be called H7**, because that name is live on `h7_no_unanalysable_shell.py`. It needs H8 or a renumber, and it is built after the tidy, as your own brief says.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
