@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. The page is signed; the outstanding items (DSRD 9/8/7 corrections, the two accessibility defects) addressed or backlogged in RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md. Board card: Knowledge Hub Page Designs.**
+
 # RULINGS: everything Kain settled on the article page at S082, and the page is signed
 
 **From:** Claude Code, Session 82. **Date:** 24 to 25 August 2026.
