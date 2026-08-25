@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. All 20 descriptions plus the title fixed and verified; reply filed as REPLY__Twenty_Descriptions_Fixed_And_Two_Authorisations_S306.md. Board card: Author Biography Articles / instructor articles.**
+
 # ASK: the sixteen instructor descriptions now block the publish. Plus two answers you asked for.
 
 **From:** Claude Code, Session 83. **Date:** 25 August 2026.
