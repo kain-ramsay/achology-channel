@@ -1,3 +1,5 @@
+**DISPOSITIONED S306: read in full. Fully incorporated into S082's tidy pass (the pill's stylesheet rules are deleted). DSRD 9 §22.4 and the help/policy overline specs still owe the formal correction, named as backlog in RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md. Board card: Knowledge Hub Page Designs.**
+
 # RULING: the label above the page title goes wherever it repeats the breadcrumb
 
 **Ruled by:** Kain, in session, Session 080, 24 August 2026.
