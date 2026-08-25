@@ -23,11 +23,19 @@
 
 **The testimonials count is settled: 45 answers from nine members.** Read off the theme; the old card's 46 from ten is stale and was corrected by Kain at S045. In the same file. **Hand added.**
 
-**The body face is Literata, ruled by Kain in session and shipped at v0.102.0.** Board card: the type work. He ruled it on four whole pages of his own copy rendered both ways in Safari. One token and one font request; every other mention of the old face in the stylesheets turned out to be a comment. Filed as `RULING__The_Body_Face_Is_Literata_S084.md`, which carries what Chat owes: DSRD 7 section 3's pairing sentence, and section 4's 620px reading column, which was tuned for the old face.
+**The component gate was skipping the site header, and it no longer is.** Board card: Cards + Chrome Sweep. Found because Kain asked why the book note page did not reflect the components we had confirmed. The header's record names a specimen page but writes it one level too high in the file, so the gate printed NOT MEASURED, and the component on every page of the site had never once been compared against its record. Fixed, and the gate's not-measured line is now a banner rather than a footnote. `FINDING__The_Header_Was_Never_Checked_And_The_Section_Header_Was_Never_Built_S084.md`.
+
+**Everywhere the body face is named is measured, all 105 files.** `REPORT__Everywhere_The_Body_Face_Is_Named_S084.md`. Two lines render it; roughly ninety rows across DSRD 7, 8 and 9 describe it; 23 signed prototypes embed it. **Hand added**, no commit.
 
 ## Started, not finished
 
+**THE BODY FACE IS NOT SETTLED, and the line in this report that said it was has been replaced by this one.** Kain ruled Literata in the sitting and it shipped at v0.102.0. He then said, correctly, that one candidate beside the current face is a recommendation rather than a choice, and asked to take the decision next session with a fresh head. **Read `HOLD__The_Body_Face_Is_Reopened_S084.md` before `RULING__The_Body_Face_Is_Literata_S084.md`.** A seven-way sitting is built and verified, on this machine and at `https://achologytest.com/font-sitting/` so he can judge it on his iPad and phone. **What remains: his ruling.** Literata stays live meanwhile as the working candidate, not as a decision.
+
+**Nothing in DSRD 7, 8 or 9 should be rewritten until he rules.** Starting it now means doing it twice.
+
 **The component gallery is unruled.** It is open in Safari. **What remains: Kain's eye on whether it is the instrument he asked for.**
+
+**The site header's record is not executable.** All 41 of its recorded values come back unchecked, because it carries values and no selector bindings. **What remains: the site-wide header chrome sitting**, which is where its data file gets written under the S273 ruling, and which is first in the S302 running order.
 
 **The Rank Math score re-run on the 250 help articles.** **What remains: the run itself.** Rank Math scores inside a browser, so `score_run.py` drives Kain's own Safari, and he is looking at two rendered pages in it tonight. First job next session.
 
