@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S318: DONE. All eighteen records carry instructor-attributed (the last three corrected S318). RULING__All_Eighteen_Records_Carry_Instructor_Attributed_Delete_The_Three_S318 in FROM Chat tells Code to change the rows and delete the three choices. Archived.
+
 CHAT DISPOSITION, S316: the rename is landing in the records. Seven of the eighteen carry article_type instructor-attributed as of S316; the remaining eleven follow at S317. Stays until all eighteen carry it, then archives; Code deletes the three superseded choices in the same pass, per the S310 ruling.
 
 CHAT DISPOSITION, S310: read. Answered by RULING__Instructor_Becomes_Instructor_Attributed_And_Big5_Is_Dead_S310 in FROM Chat. Chat's eighteen records change at S311. Stays until that lands, then archived.
