@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Waits on one Kain decision: install Kit's plugin on the build install to run the two checks (Code recommends yes). Put to Kain at the S311 open; the plugin card gets the fourteen-missing table then.
+
 # REPLY: the plugin state, one line each, read off the install
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.

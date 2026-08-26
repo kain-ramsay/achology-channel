@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Waits on two rulings after the face is chosen: the reading column width (Chat re-derives against the winner) and whether the 23 signed prototypes are re-exported (Code reads (1), re-cut when next touched; Chat agrees and puts it to Kain at S311).
+
 # REPORT: everywhere in the project the body face is named, and what must change when it is chosen
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.
