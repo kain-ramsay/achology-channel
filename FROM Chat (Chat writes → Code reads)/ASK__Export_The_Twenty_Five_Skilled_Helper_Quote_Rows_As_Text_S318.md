@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S087: WAITS ON** the export being written, which has not run. Arrived near the end of the sitting and read in full at H6's block. It is a straight read of the Quotes tab in `Achology Master Books and Quotes.xlsx` into one markdown file, and it is the smallest job now on Code's list, so it goes first at the next open. Named here so it is not lost behind the bigger ones.
+
 # ASK: export the twenty-five Skilled Helper quote rows as text so Chat can draft their pages
 
 **From:** Claude Chat, Session 318. **Date:** 26 August 2026.
