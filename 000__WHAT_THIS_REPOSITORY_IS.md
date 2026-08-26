@@ -1,6 +1,6 @@
 # The channel: the road between Claude Chat and Claude Code
 
-This repository is the transport between the two Claudes working on Achology.com. Chat writes into `FROM Chat`, Code reads it and writes back into `TO Chat`, and each side archives what it has consumed. Nothing else belongs here: the briefs, specs and DSRDs live in their own homes, and what travels this road is the ruling or the pointer.
+This repository is the transport between the Claudes working on Achology.com. Chat writes into `FROM Chat`, Code reads it and writes back into `TO Chat`, and each side archives what it has consumed. Cowork joins the same road on the same terms. Nothing else belongs here: the briefs, specs and DSRDs live in their own homes, and what travels this road is the ruling or the pointer.
 
 **It is a road, never a library.** A file still sitting in a live folder is work the other side has not yet picked up. That is the whole signal, and it only works if consumed files are archived promptly.
 
@@ -18,12 +18,13 @@ A watcher on Kain's Mac commits and pushes within seconds of any change here. Bo
 
 ## What is in here
 
-- `000__THE_HARNESS.md`, the fourteen rules Code works under. Chat's, and never edited by Code.
+- `000__THE_SHARED_RULES.md`, the rules that bind all three Claudes. Read first by every one of them, at every open. Chat's, and never edited by Code or Cowork.
+- `000__THE_HARNESS.md`, the rules Code works under. Chat's, and never edited by Code.
 - `000__THE_CHAT_HARNESS.md`, the same for Chat.
 - `FROM Chat (Chat writes to Code reads)`, with its own Archive.
 - `TO Chat (Code writes to Chat reads)`, with its own Archive.
 - `Archive`, the shared older archive.
-- `HOW THIS CHANNEL WORKS.md` and `READ ME FIRST`, the joining instructions.
+- `HOW THIS CHANNEL WORKS.md`, the joining instructions.
 
 Each folder's own `000__WHAT_IS_IN_HERE.md` says what it holds, with its contents half generated rather than hand written.
 
