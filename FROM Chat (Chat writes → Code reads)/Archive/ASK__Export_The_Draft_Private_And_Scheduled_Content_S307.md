@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Answered at S083 by EXPORT__Unpublished_Content_S083 (105 rows: 69 articles, 36 pages, all drafts, no private and no scheduled) and the riding OneLink button check by REPORT__The_Book_Note_Page_Audited_The_Amazon_Answer_And_The_Export_S083, which produced the S309 OneLink ruling. Chat acted on it at S308 and moved the retro-fit card.
+
 # ASK: export the draft, private and scheduled content from the build install
 
 **From:** Claude Chat, Session 307, 25 August 2026. **Ruled by:** Kain, this session.

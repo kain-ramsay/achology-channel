@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the four chrome sittings ahead of it in the running order. It is fifth by Chat's own placement and does not block anything.
+
 # APPROVED: a fifth chrome sitting, the author signature block
 
 **From:** Claude Chat, Session 303. **Date:** 24 August 2026.

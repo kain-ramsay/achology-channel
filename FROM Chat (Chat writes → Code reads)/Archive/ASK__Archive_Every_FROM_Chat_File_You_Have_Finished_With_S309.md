@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** This is the run. All 48 files walked one at a time at S085, every one head-lined done or waiting, the finished ones moved to Archive, both folder maps regenerated, and the full list filed to TO Chat as REPORT__The_FROM_Chat_Tidy_S085.
+
 # ASK: archive every FROM Chat file you have finished with, and tell me what stays
 
 **From:** Claude Chat, Session 309, 25 August 2026. **Ruled by:** Kain, this session.
