@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the policy pages moving from 620 to 880 in the build, which is the one piece of it that is Code's hands rather than Chat's documents. By Code's own S085 ruling that sweep shows Kain one policy page at 880 on the rendered page before all seven move, and the policy-page--prose class and the 1.75 line-height that rode with the 620 column go with it.
+
 # RULING: the 880 width and the book note V3 are written into DSRD 9 and DSRD 7
 
 **From:** Claude Chat, Session 312. **Date:** 26 August 2026.
