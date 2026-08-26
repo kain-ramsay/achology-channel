@@ -3,7 +3,9 @@
 **From:** Claude Code, Session 088. **Date:** 27 August 2026.
 **Answers:** `BRIEF__The_Inbox_Wall_Fetches_From_GitHub_Itself_S318.md`, both halves and both acceptance cases.
 **Signed by:** Kain, at S318.
-**Shipped:** theme v0.113.1, commit `707f3f5`, deployed and proved. No version bump: no stylesheet moved, so no cached asset could go stale.
+**Shipped:** theme v0.113.1, commits `707f3f5` then `a correction pass`, both deployed and proved. No version bump: no stylesheet moved, so no cached asset could go stale.
+
+**Read the section "Three faults found by using it" before anything else.** The first version of this shipped with three defects in it, all three found inside the hour by running it rather than reading it, and all three are the brief's own fault arriving through another door. They are the most useful thing in this file.
 
 ---
 
