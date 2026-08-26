@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Waits on one Kain decision: whole list (two days) or the traffic-carrying subset first (Code recommends the subset). Put to Kain at the S311 open; the redirect card then changes what it waits on.
+
 # FINDING: the Coverage drill-down cannot be pulled. The API has no such method, and here is the proof.
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.

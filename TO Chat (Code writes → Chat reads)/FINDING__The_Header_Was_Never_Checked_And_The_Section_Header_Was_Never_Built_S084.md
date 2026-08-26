@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Waits on one Kain decision: does the book note page's kh-section header become the section header component. Put to Kain at the S311 open. The header sitting's priority is noted on the chrome sittings card at S311.
+
 # FINDING: the site header has never been checked against its record, and the section header was never built
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.
