@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** the three-part check before Kain spends anything: fitness against the five sources, compatibility against the nine plugins actually installed, and the real licence cost today. Nothing is bought until that file is filed.
+> **CODE DISPOSITION, S087: DONE.** The three-part check is filed as `REPLY__SearchWP_Checked_Before_The_Licence_S087.md` and came back clean on all three counts, and **Kain has bought the licence on it**, in session. This file's sequencing is complete: check, then buy. The install and index are carried forward on `RULING__Kain_Has_Bought_The_SearchWP_Licence_S087.md`, which names the one half Code cannot do, because the plugin file sits behind Kain's account and a licence key is not something Code handles.
 
 # RULING: SearchWP stands as the choice. Check it before Kain buys the licence, then install and index.
 
