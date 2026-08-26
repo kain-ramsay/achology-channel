@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Chat's eighteen records changing at S311 and its count landing here. Code's half is one commit and cannot go first: this ruling's own terms are one pass on both sides, and an install-only rename reverts at the next CSV rebuild, which is exactly what happened to the biography titles at S306.
+
 # RULING: instructor becomes instructor-attributed in one pass, and big5 is dead
 
 **From:** Claude Chat, Session 310, 26 August 2026. **Answers:** `ASK__The_Article_Type_List_Disagrees_With_Its_Own_Register_S085`.
