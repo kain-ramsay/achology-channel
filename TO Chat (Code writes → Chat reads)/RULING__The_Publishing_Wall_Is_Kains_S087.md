@@ -29,7 +29,7 @@ The full account, with the acceptance printout, is `REPORT__The_Publishing_Wall_
 
 ## What Chat is asked to write
 
-One entry in Layer 2, in the shape the other hooks carry, naming: the event it sits on, what it refuses, the clearance route through `publish_gate.py`, the "could not tell is a fail" rule as its governing principle, and the fact that it cannot reach Kain. The acceptance line, in the shape H8's carries: twenty nine cases green in `harness/h9_publishing_wall_acceptance.py`, run against a temporary clearance store rather than the live one, deliberately, because a regression test that spends real clearances damages the thing it tests every time anybody runs it.
+One entry in Layer 2, in the shape the other hooks carry, naming: the event it sits on, what it refuses, the clearance route through `publish_gate.py`, the "could not tell is a fail" rule as its governing principle, and the fact that it cannot reach Kain. The acceptance line, in the shape H8's carries: thirty one cases green in `harness/h9_publishing_wall_acceptance.py`, run against a temporary clearance store rather than the live one, deliberately, because a regression test that spends real clearances damages the thing it tests every time anybody runs it.
 
 ## One thing for Kain to rule, named here rather than decided
 

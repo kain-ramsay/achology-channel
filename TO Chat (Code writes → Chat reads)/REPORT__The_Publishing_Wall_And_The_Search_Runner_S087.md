@@ -117,6 +117,7 @@ Thirty one cases, against a temporary clearance store rather than the live one, 
 - It blocked `grep -n "wp import"`, which is how this wall is maintained.
 - It blocked a gate run piped into `tail`, which is how every gate run in this project is read.
 - It read this project's own folder name, `CLAUDE | Anthropic Ai`, as a pipeline feeding something called `Anthropic`.
+- It read `wp post list --post_status=publish` as a publish, when that is how every script in this project asks for the published pages. It blocked the orphan measurement in section 2a above, which is work the gate was built to make possible.
 - Cases 8 to 11 all passed on the first run while the clearance lookup was crashing, so the one case that was supposed to prove a clearance WORKS was passing because the hook fell over. That is this project's recurring failure in new clothes, and it was found by checking that the allowed case had actually spent the clearance rather than by reading the tick.
 
 ### The reviewed-exception register
