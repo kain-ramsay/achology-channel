@@ -41,6 +41,27 @@ The six missing checks, with their rows landing in page_gate's own printout and 
 
 **The sitemap is not the site.** It lists 293 pages while the install publishes considerably more. Crawling only the sitemap leaves pages uncrawled, and an uncrawled page's links are what make OTHER pages non-orphans, so a sitemap omission converts into a false orphan verdict somewhere else entirely. The crawl now reads the sitemap union the install's own published permalinks. **This is a finding for Chat in its own right: something is keeping published pages out of the sitemap, and DSRD 6 §5 item 9 is measured against it.**
 
+## 2a. The first thing the runner measured, and it corrects a standing assumption
+
+The inbound map was built over the whole install: 409 pages crawled of 409, none missed. Item 7 can now answer for every published page, and the first answer contradicts what both sides have been working from.
+
+**Code's own S086 next-session note says of the 64 book notes and 51 biographies: "Nothing links to any of them. The category hubs and listing pages are Chat's and are not built."** Measured this session:
+
+| | published | orphans | linked |
+|---|---|---|---|
+| book notes | 65 | 34 | 31 |
+| author biographies | 51 | **0** | 51 |
+
+**Every one of the 51 biographies is linked**, and 31 of the 65 book notes are, several of them heavily: one book note carries 49 inbound links, and fourteen carry ten or more. The links come from the biography articles themselves, which cross-link to the book notes of the authors they cover. That machinery was already working and nobody had measured it.
+
+**Two things in that table are worth Chat's eye rather than mine.**
+
+There are **65 published book notes, not 64.** The count has been carried as 64 in the note and in the S315 brief. One of the two is wrong and the install says 65.
+
+**All 51 biographies are linked from exactly one page**, `/about/instructors/benjamin-lockwood/`, and from nothing else. That is a single point of failure for the inbound links of a third of the published library: if that page changes shape, 51 pages become orphans at once and only this map would notice. It is not a fault today and it is not Code's to design; it is named because item 7 is now measured and this is what it measured.
+
+The 34 orphaned book notes are named in the map and will resolve when the category hubs and listing pages land, exactly as the note says. The point is that the claim can now be checked rather than assumed, per page, at any time.
+
 ## 3. The wall: `publish_gate.py` and `h9_publishing_wall.py`
 
 Every hook in this harness is tied to touching the theme. Publishing touches no file, so nothing watched it, and 116 pages went live at S086 unchecked.
