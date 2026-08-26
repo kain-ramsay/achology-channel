@@ -1,6 +1,6 @@
 # THE HARNESS
 
-**Version 3.6, S311. Authority: Kain Ramsay.**
+**Version 3.7, S317. Authority: Kain Ramsay.**
 
 **Read by Claude Code at the open of every Code session, after The Shared Rules and before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
@@ -17,6 +17,7 @@ Nothing in this document is open to interpretation. Where a rule seems to have a
 
 One line per version. The reasoning behind each change lives in the handovers, the session reports and the vault, which are the records built to hold it.
 
+- **3.7, S317.** H9, the publishing wall, added to Layer 2, built and accepted at Code's S087 on Kain's ruling given in session. Nothing else changed; the growth governor is met because H9 is a hook, not a rule, and it mechanises Rule 6 and Rule 8 where they already reached publishing in words only.
 - **3.6, S311.** H8, the inbox wall, added to Layer 2, built and accepted at Code's S085. Rule 4's component precedence and Rule 5's check-first paragraph moved to The Shared Rules (sections 4 and 3) and kept as pointers. Version history cut to one line per version. Every count of rules removed from prose, since Rule 10 is retired and a number in prose goes stale the moment the thing it counts moves. H6's tidy tax recorded as a named open finding.
 - **3.5, S306.** Rule 3 tightened with the derived-artefact check, after a video replacement silently orphaned 923 transcript files.
 - **3.4, S294.** Rule 1's opening read scoped to the live stream while a stream ruling stands, with every unopened file named.
@@ -158,6 +159,19 @@ Code builds these hooks himself, in the theme repository, to this specification.
 **It was commissioned as H7 and built as H8** because `h7_no_unanalysable_shell.py` already holds that name and fired eleven times during the same session. Renumbering a live hook to free a name has no upside and a real chance of breaking the launcher.
 *Acceptance: ten cases green in `harness/h8_inbox_wall_acceptance.py`, run against a temporary tree rather than the live channel, deliberately, because a regression test that moves real files archives live instructions whenever anyone runs it. Live-fired once on the real channel as well, blocking on a real file with its head line removed (exit code 2), archiving it once head-lined DONE, and reading clear on the restored channel.*
 
+**H9. The publishing wall (PreToolUse hook on the shell, beside H7). Built and accepted at Code's S087; ruled by Kain in the S086 sitting and restated at the S087 open, filed under Rule 14.** Publishing touches no file, so until this hook nothing watched it, and 116 pages went live at S086 unchecked. H9 refuses any command from Code that could put content in front of the public unless the command names a live clearance minted by `publish_gate.py`, and a clearance is minted only where every named page passed the machine third of DSRD 6 and its record carried no failing line. A clearance expires after forty five minutes and is spent by the first command that uses it, so one can never quietly cover a second batch.
+
+**Its governing principle, in Kain's words: "I could not tell" is a fail, never a pass.** The wall refuses on three grounds: an explicit publishing verb; a project script capable of publishing, worked out by reading the scripts rather than from a list somebody keeps; and a command that reaches the install and cannot be statically read. The third is the widest and the one that matters, because a shell command can hide its verb behind a substitution, a pipe or a script.
+
+**It cannot reach Kain, by construction rather than by rule.** It is a hook on Claude Code's own shell. Kain publishes in the WordPress admin in his own browser, and nothing in that path passes through any hook.
+
+**DSRD 6 section 0's volume rule is read, not invented.** A batch clears under `--exemplar`, naming the page type's signed exemplar whose own record carries its human chapters closed; without that flag every page's own record must be closed in full. The five page spot check is drawn and printed with a seed written into the clearance, not enforced, because a human read is a human read.
+
+**The reviewed exception register.** Three measurement scripts reach the install through `wp eval` and are permitted as reads, each recorded in `harness/h9_reviewed_scripts.json` with its reason bound to the sha256 of the exact bytes that were read. Edit one character and the exception dies, and that expiry is itself an acceptance case.
+
+**What it does not cover, named rather than assumed:** unpublishing or deleting a live page. Left out on purpose because Kain commissioned a publishing wall and widening it unasked is the Rule 3 failure. Whether it widens is Kain's word.
+*Acceptance: thirty one cases green in `harness/h9_publishing_wall_acceptance.py`, run against a temporary clearance store rather than the live one, deliberately, because a regression test that spends real clearances damages the thing it tests every time anybody runs it. Seven of the cases exist because the first version of the wall got them wrong, every one by being too wide, and all seven were found within ten minutes of going live.*
+
 The gate scripts (css_gate, page_gate, article_gate) run themselves through these hooks. What a gate script checks changes only under a commissioned brief from Chat through FROM Chat, never as Code's own idea.
 
 ---
@@ -204,4 +218,4 @@ A hook bypassed, a rule broken, an unproved claim of "done", or a change set ret
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Harness, Version 3.6.*
+*End of The Harness, Version 3.7.*
