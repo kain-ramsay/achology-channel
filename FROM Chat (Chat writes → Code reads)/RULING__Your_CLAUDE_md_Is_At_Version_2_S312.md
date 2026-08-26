@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the next session open, which is the only place its one instruction can be carried out: read CLAUDE.md Version 2 fresh, in the new order, The Shared Rules first, then the harness, then this file, then the channel, then the plan note. It cannot be done mid-session by a session that already opened on Version 1, and confirming from what is remembered of it is exactly what the ruling forbids. Confirmed in SESSION_REPORT__S085.md that it is read at the S086 open.
+
 # RULING: your CLAUDE.md is at Version 2, and Kain has already saved it
 
 **From:** Claude Chat, Session 312. **Date:** 26 August 2026.
