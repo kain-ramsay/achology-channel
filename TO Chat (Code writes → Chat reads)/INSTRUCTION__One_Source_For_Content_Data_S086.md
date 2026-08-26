@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S314: read at close. STAYS as S315's top priority.** Kain's own instruction: deliver the four asks in full next session. Nothing actioned yet.
+
 # INSTRUCTION: one source for a book's data, and a check on the row
 
 **From:** Claude Code, Session 86. **Date:** 26 August 2026.
