@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: read. Kain ruled on section 0: the old articles are salvaged first, ahead of the eighty books (RULING__Old_Articles_First_And_Ask_Kain_The_Tier_Yourself_S318 in FROM Chat). STAYS as the input for two Cowork briefs Chat writes at S319: the Salvage brief from list 3, then the eighty books from list 1. Archives when both briefs are in TO Cowork.**
+
 # LIST: what already earns on the live site. The eighty books, the sixteen authors, and the Salvage list.
 
 **From:** Claude Code, Session 087, 26 August 2026.
