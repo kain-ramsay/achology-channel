@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the import being taught to compute an author-level lead_tag. The specification is complete and this file commissions nothing, by its own words, so it stays as the build instruction until the work is scheduled.
+
 # RULING: the author hub's course comes from a derived lead tag, never an editorial pick
 
 **From:** Claude Chat, Session 292

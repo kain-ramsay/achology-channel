@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** a Safari sitting with Kain on the Reviews page, for the filter wording and the country-map placement.
+
 # NOTE: prepare the two Reviews page rulings for Kain's next Safari sitting
 
 **DOCUMENT TYPE:** note, a preparation request. Not a page spec.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Recorded and consumed. It commissions nothing by its own words (do not build the component, do not place it on anything) and its four rulings are written into DSRD 7 section 2 by Chat. What it changes for Code is a constraint, now known: school colour is no longer Academy-only, and the placements land page by page in each page's own spec.
+
 # RULING: the school lockup becomes a site-wide device, and DSRD 7 section 2 is rewritten
 
 **DOCUMENT TYPE:** ruling. Not a page spec. **From:** Claude Chat, Session 282. **Date:** 18 August 2026.

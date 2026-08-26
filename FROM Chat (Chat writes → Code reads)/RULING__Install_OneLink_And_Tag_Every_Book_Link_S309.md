@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the OneLink snippet arriving as a file. It is not in the channel and not on disk, checked this session; Karen holds it in the Associates dashboard and Kain gets it from her, per this ruling's own step 1.
+
 # RULING: install Amazon OneLink and tag every book link. Genius Link stays until the UK click test passes.
 
 **From:** Claude Chat, Session 309, 25 August 2026. **Ruled by:** Kain, this session, under Harness Rule 11.

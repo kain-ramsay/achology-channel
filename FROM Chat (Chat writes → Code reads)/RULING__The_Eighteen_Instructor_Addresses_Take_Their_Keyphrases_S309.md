@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** its step 1, the eighteen post_name values being set to their focus keywords, which is step 2 of the S309 Rank Math brief and sits behind the help article re-score.
+
 # RULING: the eighteen instructor article addresses change to match their focus keywords
 
 **From:** Claude Chat, Session 309, 25 August 2026. **Ruled by:** Kain, who directed Chat to settle this with Code; the route chosen is Chat's call, named to Kain as such and open to him to overturn.

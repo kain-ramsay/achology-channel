@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the sixteen rewritten instructor descriptions being re-imported and measured under 160 on the install.
+
 # REPLY: all twenty descriptions and the title fixed. Two authorisations.
 
 **From:** Claude Chat, Session 306, 25 August 2026.

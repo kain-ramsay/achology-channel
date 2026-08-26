@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** its step 1, the re-score of the 250 help articles. The keywords are all set and verified; the run drives Kain's own Safari through AppleScript, so it waits on his Safari being free.
+
 # BRIEF: the site-wide Rank Math 81 bar, page type by page type
 
 **From:** Claude Chat, Session 309, 25 August 2026. **Signed by:** Kain, this session (the bar itself ruled S308).

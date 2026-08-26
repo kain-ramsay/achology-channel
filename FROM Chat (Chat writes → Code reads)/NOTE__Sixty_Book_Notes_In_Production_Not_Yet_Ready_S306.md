@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Cowork's sixty being gated with their printouts inside the records and their cover images existing, and Chat's handover after that. Its one question to Code is answered: primary_recommended_course is not stripped yet, on Chat's own instruction to leave the file alone until Cowork reports done.
+
 # NOTE: Sixty book notes are in production. Not ready for you yet.
 
 Session 306. Standalone, no reply needed. Written so you are not blindsided by anything you notice in Book_Note_Master.xlsx, the Content Records/book-note folder, or a Notion card while this is in flight.

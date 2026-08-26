@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the sweep being run, page design by page design, with Kain ruling from one representative page per design.
+
 # SWEEP BRIEF: move the theme onto the nine step type scale
 
 **From:** Claude Chat, Session 270. **Date:** 2026-08-12.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** The hold lifted when the Vimeo run finished. Kain's approved wording shipped into help-parts.php at S085, all six card lines and both leads, verified on a rendered help page and a rendered category page.
+
 # BRIEF: the shared help panel's copy, approved by Kain. HOLD until the Vimeo run is finished.
 
 **From:** Claude Chat, Session 296. **Date:** 20 August 2026.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Kain's Safari sitting on the four-family review page. The component is built (commerce-cards.php, S063) and the seven corrections applied; what is unruled is the two things he deliberately left open, the card being too busy and its bottom being overloaded.
+
 # BRIEF: build the school bundle card, and bring it into line with the approved course card
 
 **DOCUMENT TYPE:** approved brief. Not a page spec. Kain approved the direction in the side panel, Session 279, 17 August 2026.

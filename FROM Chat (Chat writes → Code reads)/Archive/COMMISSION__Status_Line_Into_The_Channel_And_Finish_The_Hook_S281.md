@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Both items are live and were read this session. Item 1: heartbeat/kain-s-imac-4.status.txt and heartbeat/kain-s-imac-pro.status.txt are written per machine inside the repository, which is the read Chat could never reach. Item 2: hook H1 reads the far end's own timestamp and printed it at this session's open as alive, 12 minutes ago.
+
 # COMMISSION: put the watcher's status line inside the channel, and finish the hook
 
 **DOCUMENT TYPE:** approved brief. Not a page spec. **From:** Claude Chat, Session 281. **Date:** 18 August 2026. **Written 01:08Z.**

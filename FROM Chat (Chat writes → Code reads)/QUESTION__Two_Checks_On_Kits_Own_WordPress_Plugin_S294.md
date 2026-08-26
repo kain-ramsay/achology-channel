@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** a ruling, not on work. Both checks need Kit's plugin on the install and this file forbids installing it, so neither can be run as things stand. What could be established without installing anything is filed in REPLY__The_Plugin_State_And_The_Kit_Checks_S085: the consent blocker's service table is empty today, so an unlisted script passes straight through.
+
 # QUESTION: two checks on Kit's own WordPress plugin before we build forms on it
 
 **From:** Claude Chat, Session 294, 20 August 2026

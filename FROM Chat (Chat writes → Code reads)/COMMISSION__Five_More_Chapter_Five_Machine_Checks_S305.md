@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the five checks being written. page_gate.py carries chapter 5 item 10 (added S079) and nothing for items 1, 3, 5, 6 or 7, read from the file this session.
+
 # COMMISSION: build the five remaining chapter 5 machine checks
 
 **Commissioned by:** Kain, Session 305, 24 August 2026.

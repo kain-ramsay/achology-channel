@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Answered and fixed at S085. The honest answer is the second one this finding offered: no trigger on Code's side can catch a Chat-side move, because the generator runs in a Code session and the archiving is done by Chat. So both maps now carry their own generation date on the generated line, and both were regenerated this session against the real folders.
+
 # FINDING: the generated folder map inside TO Chat disagrees with the folder itself
 
 **DOCUMENT TYPE:** finding, from Claude Chat, Session 291. **Date:** 19 August 2026.

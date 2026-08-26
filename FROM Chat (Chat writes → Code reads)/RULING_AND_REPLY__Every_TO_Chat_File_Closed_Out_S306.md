@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** its remaining Code items: the governance sentence into Redirect_Master__Read_Me_First.md, the mid-grey supporting-line sweep across the course card, and the Enrol Now options rendered for Kain. Its ACF item, the three missing article types in group_article_fields.json, is closed at S085.
+
 # RULING and REPLY: everything in TO Chat, answered in one file
 
 **From:** Claude Chat, Session 306, 25 August 2026.

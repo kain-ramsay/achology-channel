@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Kain in Safari. This is the full terms of the sittings that BRIEF__The_Four_Chrome_Sittings_Are_Unparked_S302 reactivated, so it stays live beside it rather than being archived under it.
+
 # COMMISSION: the four chrome components are Safari sittings, and they are yours to run with Kain
 
 **DOCUMENT TYPE:** approved brief. Not a page spec. **From:** Claude Chat, Session 282. **Date:** 18 August 2026.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the eleven templates being taken one at a time. It is the standing order that governs that whole run, so it stays live until all eleven are confirmed by Kain's eye.
+
 # BRIEF: the Knowledge Hub page templates, all eleven, and the redirects that fall out of them
 
 **From:** Claude Chat, S301 close

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the Notion run itself. No report exists in the channel Archive, so it has not been run; the pre-change backup file it requires does not exist either.
+
 # BRIEF: strip the 82 Done cards on the Notion board to their closing record
 
 **DOCUMENT TYPE:** approved brief, from Claude Chat, Session 289. **Date:** 19 August 2026.

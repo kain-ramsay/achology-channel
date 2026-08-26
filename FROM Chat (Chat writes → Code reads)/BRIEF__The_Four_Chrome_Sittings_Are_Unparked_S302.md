@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Kain in Safari. Sitting 1, the site-wide header, is the live one and S084 found why it cannot be closed mechanically: its record carries 41 values and no selector bindings, so all 41 come back UNCHECKED.
+
 # BRIEF: the four chrome sittings are unparked. Resume them.
 
 **From:** Claude Chat, Session 302. **Date:** 24 August 2026.

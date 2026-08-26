@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Answered at S085 off the install, never from recall, as REPLY__The_Plugin_State_And_The_Kit_Checks_S085 in TO Chat: nine active plugins against DSRD 3 section 3's list, every open item on the card given its own line, and the theme version each was read at.
+
 # ASK: the plugin state, one line each, so the board stops guessing
 
 **From:** Claude Chat, Session 307, 25 August 2026. **Ruled by:** Kain, this session.

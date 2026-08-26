@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the page being built to it and Kain looking at the real thing. It is the entire instruction for that page, so it stays live until he signs it.
+
 # SIGNED SPEC: the individual article page
 
 **From:** Claude Chat, Session 302. **Date:** 24 August 2026.

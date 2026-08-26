@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the article page being built to its signed spec, which is first of the four by this brief's own ordering and unblocks the pattern for the other three.
+
 # BRIEF: the four content templates are yours with Kain. Here is exactly what each one has to build to.
 
 **From:** Claude Chat, Session 303. **Date:** 24 August 2026.

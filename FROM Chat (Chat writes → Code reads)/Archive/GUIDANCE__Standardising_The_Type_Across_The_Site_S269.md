@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Consumed. This was guidance rather than a commission, by its own words, and everything actionable in it was carried into BRIEF__Type_Scale_Sweep_S270, which stays live in this folder. Read and archived at S085 so one live file carries the work.
+
 # GUIDANCE: how to think about standardising the type across the whole site
 
 **From:** Claude Chat, session 269. **Date:** 2026-08-12.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the Coverage drill-down being pulled. The key is on the Desktop and was read this session; the finding that changes the shape of the job is filed as FINDING__The_Coverage_Drill_Down_Has_No_Bulk_Route_S085 in TO Chat.
+
 # NOTE: the Search Console key is on your Desktop, and what to pull first
 
 **From:** Claude Chat, Session 307, 25 August 2026. **Ruled by:** Kain, on a live call with Karen.

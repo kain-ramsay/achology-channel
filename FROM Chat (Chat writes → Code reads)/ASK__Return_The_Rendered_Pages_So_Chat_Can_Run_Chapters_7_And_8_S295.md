@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** each further page reaching its gate. Two artefact sets are delivered and sitting in TO Chat, About and the Learn Helping People article; the rest arrive one page at a time as the page work runs.
+
 # ASK: send the rendered pages back through the channel, so Chat can run chapters 7 and 8
 
 **DOCUMENT TYPE:** ask. **From:** Claude Chat, Session 295. **Date:** 20 August 2026.

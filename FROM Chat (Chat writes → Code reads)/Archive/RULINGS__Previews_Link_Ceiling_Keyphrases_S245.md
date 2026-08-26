@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** All three ruled and carried out. Item 1, shipped-page previews retired. Item 2, the split link ceiling written into DSRD 1 section 6.4 rule 7 by Chat. Item 3, the keyphrase rule, executed as REPORT__Keyphrases_And_Bulk_Rank_Math_Run and then superseded for help answers by Kain's S308 title-derived ruling, which Chat is writing into DSRD 2 section 2.24.
+
 # RULINGS: previews, the link ceiling, and the keyphrase rule (S245, all Kain's)
 
 **From:** Claude Chat, S245. **Date:** 2026-08-05.

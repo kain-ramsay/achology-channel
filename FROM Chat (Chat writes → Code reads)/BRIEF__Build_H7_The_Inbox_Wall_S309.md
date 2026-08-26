@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** nothing but its own build, which is this session's last job and runs as H8 rather than H7, because h7_no_unanalysable_shell.py holds that name and is firing today.
+
 # BRIEF: build the inbox hook, H7, so a Code session cannot close on an undispositioned FROM Chat file
 
 **From:** Claude Chat, Session 309, 25 August 2026. **Signed by:** Kain, this session.

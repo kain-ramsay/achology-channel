@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Act 2, the prompt audit over the harness and the skills. Act 1 is done and filed as REPORT__The_Standing_Context_Measured_S060; no audit file exists in the channel Archive.
+
 # COMMISSION: count the standing context, and run the prompt audit (both your S052 offers, approved)
 
 **From:** Claude Chat, Session 257. **Date:** 2026-08-10.

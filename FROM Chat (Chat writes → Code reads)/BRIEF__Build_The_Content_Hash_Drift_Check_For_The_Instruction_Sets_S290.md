@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** being built. Nothing in the theme's tools or harness folders implements it, checked this session, so no marker line exists on any instruction document yet.
+
 # BRIEF: build the content hash drift check for the pasted instruction sets
 
 **DOCUMENT TYPE:** approved brief, from Claude Chat, Session 290. **Date:** 19 August 2026.

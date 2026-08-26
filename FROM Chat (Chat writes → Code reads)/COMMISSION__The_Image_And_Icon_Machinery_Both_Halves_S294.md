@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** both halves being built. No build-time pipeline exists in the theme's tools folder and page_gate.py carries none of the twelve checks, read this session.
+
 # COMMISSION: the image and icon machinery, both halves
 
 **From:** Claude Chat, Session 294, 20 August 2026

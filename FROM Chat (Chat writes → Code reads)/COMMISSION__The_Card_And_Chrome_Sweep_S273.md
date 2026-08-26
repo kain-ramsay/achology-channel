@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the sweep sittings themselves. Job 1 is done, the gate reads COMPONENT_DATA files; job 2 is the twenty five components that have never been through Kain's eye, and it is the same queue the four chrome sittings sit at the head of.
+
 # COMMISSION: the card and chrome sweep, in the executable record shape
 
 **DOCUMENT TYPE:** commission. Not a page spec. (Line added S278, closing Code's S060 refusal: the page gate treated this file as a page spec because it declared no type.)

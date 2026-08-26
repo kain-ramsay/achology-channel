@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** The CSV was built from the records and the eighteen imported as drafts at S080, reported in REPORT__The_Eighteen_Are_In_As_Drafts_And_Four_Things_They_Exposed_S080. Confirmed on the install this session: 69 article rows, all draft, which is the 51 biographies plus these 18. Their address change and publish run are governed by the two S309 files, not by this brief.
+
 # BRIEF: Build the instructor-article upload CSV yourself, then import it
 
 **From:** Claude Chat, S301

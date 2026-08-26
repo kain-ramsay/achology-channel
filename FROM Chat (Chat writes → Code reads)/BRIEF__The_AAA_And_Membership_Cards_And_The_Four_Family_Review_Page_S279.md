@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Kain's Safari sitting on the four-family review page. Job one is built (commerce-cards.php) and job two exists as card-review.php; the two open items, the busy blocks and the copy, are his to rule on the real page.
+
 # BRIEF: bring the Access All Areas and membership cards into line, and build the four-family review page
 
 **DOCUMENT TYPE:** approved brief. Not a page spec. Kain approved the corrections in the side panel, Session 279, 17 August 2026. Type line completed by Chat at S282 on Code's S063 refusal: both halves of this brief are component work, and the four-family review surface is an internal workbench view rather than a site page. Reasoning in `ANSWER__Both_S279_Briefs_Are_Component_Work_S282.md`.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** every component being carried across. It is the standing transition rule under Harness Rule 4 and stays live until no component is left in the not-yet-carried-across state.
+
 # NOTE: what governs a component that has no build sheet yet (read with the S257 rulings)
 
 **From:** Claude Chat, Session 257. **Date:** 2026-08-10.

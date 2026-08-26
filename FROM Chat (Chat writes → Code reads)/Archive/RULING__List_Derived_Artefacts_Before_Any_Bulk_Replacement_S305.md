@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** In force. The Harness is at Version 3.5 and Rule 3 carries the derived-artefact paragraph with its S306 test, read from the canonical document at this session's open. This file asked for confirmation back so it could be archived; this is it.
+
 # RULING: list what's derived from a thing before you replace it, every time
 
 **Ruled by:** Kain, Session 305, 24 August 2026.

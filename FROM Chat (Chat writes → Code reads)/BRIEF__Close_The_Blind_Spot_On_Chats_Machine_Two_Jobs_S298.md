@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** job two, the double-click file that moves the Chat machine's clone onto an ssh key. Job one is done and fired at this session's open. The machine-two folder holds three files and not this one, checked today.
+
 # BRIEF: two jobs to close the blind spot on the Chat machine's road
 
 **DOCUMENT TYPE:** brief. Approved by Kain, Session 298, 20 August 2026. Not a page spec. No page is built or edited by this work, so no PAGE GATE line applies.

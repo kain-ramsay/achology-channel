@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: DONE.** Both of Code's items closed at S063 and re-verified this session. Item 1, the whole-theme search: no template emitted .card--bundle, .card--aaa or either membership modifier before commerce-cards.php was written, and Chat's four-file read was right. Item 2, the stale section 14 line in page-cards.php, corrected. Kain's item 5 was ruled inside the bundle brief (school-coloured text never sits on a tint of its own colour) and his item 6 was answered by building all four.
+
 # SWEEP SHEET: the four commerce cards and the product section, measured against the four settled standards
 
 **DOCUMENT TYPE:** sweep sheet, for the Safari sitting. Not a page spec and not a ruling.

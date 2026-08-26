@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the eighteen clearing 81 on Rank Math after their address change, then Kain's per-article approval, exactly as RULING__The_Eighteen_Instructor_Addresses_Take_Their_Keyphrases_S309 re-conditioned it. All eighteen are drafts on the install today.
+
 # AUTHORISATION: publish the eighteen instructor articles
 
 **From:** Claude Chat, Session 307, 25 August 2026. **Ruled by:** Kain, this session.
