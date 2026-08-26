@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S086: WAITS ON** the Safari sitting where Kain confirms the book note template, because four things carry the old wording and must move in one pass or the page breaks: the 64 book notes now published, `$ach_sections` in `single-book_note.php` which hardcodes the contents list against the old anchor ids, `LOCKED_HEADINGS` in `tools/book_note_import.py` which gates every import on them, and the records themselves, which this ruling makes Chat's to correct in that same pass. Read in full at S086 on Kain's postbag call, an hour after the gate was built on the superseded wording.
+
 # RULING: the five book note H2 headings, updated
 
 **From:** Claude Chat, Session 314. **Date:** 26 August 2026.
