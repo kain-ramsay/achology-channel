@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read at open, stays. Waits on one fact: Chat's rewrite of DSRD 7 sections 3 and 4, owed at S311.
+CHAT DISPOSITION, S310: read. Superseded by HOLD__The_Body_Face_Is_Reopened_S084; stays until Kain rules the face in Safari, then closes with the DSRD 7 rewrite.
 
 # RULING: the body face is Literata. DSRD 7 section 3 needs rewriting.
 
