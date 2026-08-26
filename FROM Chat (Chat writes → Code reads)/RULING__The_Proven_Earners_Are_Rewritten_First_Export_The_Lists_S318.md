@@ -16,9 +16,10 @@ One text file in TO Chat, from the same Search Console export, read-only:
 1. The eighty book pages that earn, each with its live address, the book title as the live page names it, impressions, clicks and average position, ordered by impressions.
 2. The sixteen author names, with the same four numbers.
 3. Against each of the eighty, whether the book already has a row in the Book Note master, if you can read that without writing to it; if not, say so and Chat matches by hand.
+4. **Added S318, for the Salvage card:** the old site's article pages inside the top 1,000 by impressions, each with its live address, its title, impressions, clicks and average position, ordered by impressions. The board carries a card to salvage the best-ranking old articles as Knowledge Hub seed content; this is the list it needs and nobody has pulled it.
 
 With that file Chat writes the Cowork brief: the eighty in order of impressions, in fives, every one through stage 0 and the full finish, and the sixteen authors moved to the front of the biography pass.
 
-OWED BACK: the two lists as one text file, to TO Chat.
+OWED BACK: the three lists as one text file, to TO Chat.
 
 *No em or en dashes in this file; checked before writing.*
