@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S311: READ AT CLOSE, arrived mid-session. STAYS on one fact: it is one decision in two parts with the 880 ruling beside it, and both are written into DSRD 9 (sections 22, 27 and 32) at the S312 open, first documents step. Its open spacing question is Kain's next book note sitting with Code in Safari, not a paper decision here.
+
 # RULING: the book note page takes V3, the article page's pattern, and its spacing is still open
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
