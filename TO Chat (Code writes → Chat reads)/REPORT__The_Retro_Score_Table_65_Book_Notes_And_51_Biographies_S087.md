@@ -65,3 +65,133 @@ The work was done. The importer dropped it on the floor, silently, sixty five ti
 
 Sorted by score, worst first. Every row read from the install this session.
 
+### BOOK NOTES
+
+| Score | Keyword recorded | Address |
+|---|---|---|
+| 0 | **none** | /learn/mental-wellness/book-notes/why-zebras-dont-get-ulcers/ |
+| 6 | **none** | /learn/personal-growth/book-notes/the-power-of-truth/ |
+| 6 | **none** | /learn/personal-growth/book-notes/the-bridge-across-forever/ |
+| 6 | **none** | /learn/personal-growth/book-notes/peace-power-and-plenty/ |
+| 6 | **none** | /learn/personal-growth/book-notes/mental-efficiency/ |
+| 6 | **none** | /learn/mental-wellness/book-notes/journey-to-the-heart/ |
+| 6 | **none** | /learn/wisdom-for-life/book-notes/homage-to-catalonia/ |
+| 9 | **none** | /learn/psychology/book-notes/what-do-you-say-after-you-say-hello/ |
+| 9 | **none** | /learn/psychology/book-notes/the-psychology-of-self-esteem/ |
+| 9 | **none** | /learn/psychology/book-notes/the-brains-way-of-healing/ |
+| 9 | **none** | /learn/personal-growth/book-notes/fierce-self-compassion/ |
+| 9 | **none** | /learn/mental-wellness/book-notes/a-guide-to-rational-living/ |
+| 10 | **none** | /learn/personal-growth/book-notes/thrift/ |
+| 10 | **none** | /learn/psychology/book-notes/mans-search-for-meaning/ |
+| 12 | **none** | /learn/psychology/book-notes/what-life-could-mean-to-you/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/tusculan-disputations/ |
+| 12 | **none** | /learn/psychology/book-notes/toward-a-psychology-of-being/ |
+| 12 | **none** | /learn/wisdom-for-life/book-notes/time-and-free-will/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/the-upside-of-stress/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/the-science-of-being-well/ |
+| 12 | **none** | /learn/personal-growth/book-notes/the-relationship-cure/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/the-places-that-scare-you/ |
+| 12 | **none** | /learn/psychology/book-notes/the-life-cycle-completed/ |
+| 12 | **none** | /learn/psychology/book-notes/the-honest-truth-about-dishonesty/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/the-feeling-good-handbook/ |
+| 12 | **none** | /learn/psychology/book-notes/the-farther-reaches-of-human-nature/ |
+| 12 | **none** | /learn/psychology/book-notes/the-doors-of-perception/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/the-diet-trap-solution/ |
+| 12 | **none** | /learn/motivation/book-notes/the-dichotomy-of-leadership/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/the-confidence-gap/ |
+| 12 | **none** | /learn/personal-growth/book-notes/speak-peace-in-a-world-of-conflict/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/recovering-from-emotionally-immature-parents/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/radical-compassion/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/overcoming-depression/ |
+| 12 | **none** | /learn/psychology/book-notes/on-the-origin-of-species/ |
+| 12 | **none** | /learn/personal-growth/book-notes/money-master-the-game/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/internal-family-systems-therapy/ |
+| 12 | **none** | /learn/helping-people/book-notes/how-to-know-a-person/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/how-to-fix-a-broken-heart/ |
+| 12 | **none** | /learn/psychology/book-notes/emotional-leonard-mlodinow/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/coming-to-our-senses/ |
+| 12 | **none** | /learn/helping-people/book-notes/coaching-with-the-brain-in-mind/ |
+| 12 | **none** | /learn/mental-wellness/book-notes/chasing-the-scream/ |
+| 12 | **none** | /learn/psychology/book-notes/brainstorm-the-power-and-purpose-of-the-teenage-brain/ |
+| 13 | **none** | /learn/helping-people/book-notes/the-advice-trap/ |
+| 13 | **none** | /learn/psychology/book-notes/noise/ |
+| 13 | **none** | /learn/personal-growth/book-notes/finding-flow/ |
+| 13 | **none** | /learn/psychology/book-notes/awakenings/ |
+| 16 | **none** | /learn/mental-wellness/book-notes/truth-and-repair/ |
+| 16 | **none** | /learn/wisdom-for-life/book-notes/the-maine-woods/ |
+| 16 | **none** | /learn/motivation/book-notes/the-gap-and-the-gain/ |
+| 16 | **none** | /learn/personal-growth/book-notes/the-8th-habit/ |
+| 16 | **none** | /learn/motivation/book-notes/the-4-hour-body/ |
+| 16 | **none** | /learn/mental-wellness/book-notes/stillness-speaks/ |
+| 16 | **none** | /learn/wisdom-for-life/book-notes/nature-emerson/ |
+| 16 | **none** | /learn/psychology/book-notes/maps-of-meaning/ |
+| 16 | **none** | /learn/motivation/book-notes/linchpin/ |
+| 16 | **none** | /learn/helping-people/book-notes/humble-inquiry/ |
+| 16 | **none** | /learn/motivation/book-notes/how-the-mighty-fall/ |
+| 16 | **none** | /learn/helping-people/book-notes/getting-past-no/ |
+| 16 | **none** | /learn/psychology/book-notes/free-will-sam-harris/ |
+| 16 | **none** | /learn/psychology/book-notes/decisive/ |
+| 16 | **none** | /learn/psychology/book-notes/creating-minds/ |
+| 16 | **none** | /learn/psychology/book-notes/a-way-of-being/ |
+| 16 | **none** | /learn/mental-wellness/book-notes/a-liberated-mind/ |
+
+### AUTHOR BIOGRAPHIES
+
+| Score | Keyword recorded | Address |
+|---|---|---|
+| 0 | Robert Cialdini | /learn/psychology/articles/robert-cialdini/ |
+| 0 | Rick Hanson | /learn/mental-wellness/articles/rick-hanson/ |
+| 69 | Kain Ramsay | /learn/helping-people/articles/kain-ramsay/ |
+| 69 | Gerard Egan | /learn/helping-people/articles/gerard-egan/ |
+| 71 | Judith S. Beck | /learn/mental-wellness/articles/judith-s-beck/ |
+| 74 | Jordan B. Peterson | /learn/psychology/articles/jordan-b-peterson/ |
+| 74 | Jean Piaget | /learn/psychology/articles/jean-piaget/ |
+| 74 | Erik Erikson | /learn/psychology/articles/erik-erikson/ |
+| 74 | Alfred Adler | /learn/psychology/articles/alfred-adler/ |
+| 75 | Gabor Maté | /learn/helping-people/articles/gabor-mate/ |
+| 75 | Cal Newport | /learn/motivation/articles/cal-newport/ |
+| 76 | Nassim Nicholas Taleb | /learn/general-interest/articles/nassim-nicholas-taleb/ |
+| 76 | Friedrich Nietzsche | /learn/wisdom-for-life/articles/friedrich-nietzsche/ |
+| 76 | Arthur Schopenhauer | /learn/wisdom-for-life/articles/arthur-schopenhauer/ |
+| 77 | James Allen | /learn/personal-growth/articles/james-allen/ |
+| 80 | Philip Zimbardo | /learn/psychology/articles/philip-zimbardo/ |
+| 80 | Howard Gardner | /learn/psychology/articles/howard-gardner/ |
+| 80 | Dan Ariely | /learn/psychology/articles/dan-ariely/ |
+| 80 | Abraham Maslow | /learn/psychology/articles/abraham-maslow/ |
+| 80 | William James | /learn/psychology/articles/william-james/ |
+| 80 | Viktor Frankl | /learn/general-interest/articles/viktor-frankl/ |
+| 80 | Steven Pressfield | /learn/motivation/articles/steven-pressfield/ |
+| 80 | Steven Pinker | /learn/psychology/articles/steven-pinker/ |
+| 80 | Simon Sinek | /learn/motivation/articles/simon-sinek/ |
+| 80 | Sigmund Freud | /learn/psychology/articles/sigmund-freud/ |
+| 80 | Ryan Holiday | /learn/motivation/articles/ryan-holiday/ |
+| 80 | Robert Greene | /learn/motivation/articles/robert-greene/ |
+| 80 | Martin Seligman | /learn/psychology/articles/martin-seligman/ |
+| 80 | Mark Manson | /learn/mental-wellness/articles/mark-manson/ |
+| 80 | Malcolm Gladwell | /learn/psychology/articles/malcolm-gladwell/ |
+| 80 | Leo Tolstoy | /learn/wisdom-for-life/articles/leo-tolstoy/ |
+| 80 | Joseph Campbell | /learn/general-interest/articles/joseph-campbell/ |
+| 80 | Jonathan Haidt | /learn/psychology/articles/jonathan-haidt/ |
+| 80 | John Stuart Mill | /learn/wisdom-for-life/articles/john-stuart-mill/ |
+| 80 | John Dewey | /learn/psychology/articles/john-dewey/ |
+| 80 | John C. Maxwell | /learn/personal-growth/articles/john-c-maxwell/ |
+| 80 | Irvin Yalom | /learn/psychology/articles/irvin-yalom/ |
+| 80 | Erich Fromm | /learn/wisdom-for-life/articles/erich-fromm/ |
+| 80 | Don Miguel Ruiz | /learn/personal-growth/articles/don-miguel-ruiz/ |
+| 80 | Daniel Goleman | /learn/psychology/articles/daniel-goleman/ |
+| 80 | Charles Duhigg | /learn/personal-growth/articles/charles-duhigg/ |
+| 80 | Carl Jung | /learn/psychology/articles/carl-jung/ |
+| 80 | Brené Brown | /learn/helping-people/articles/brene-brown/ |
+| 80 | Brendon Burchard | /learn/motivation/articles/brendon-burchard/ |
+| 80 | Bertrand Russell | /learn/wisdom-for-life/articles/bertrand-russell/ |
+| 80 | Alan Watts | /learn/wisdom-for-life/articles/alan-watts/ |
+| 80 | Alain de Botton | /learn/wisdom-for-life/articles/alain-de-botton/ |
+| 80 | A. C. Grayling | /learn/general-interest/articles/a-c-grayling/ |
+| 82 | Thich Nhat Hanh | /learn/general-interest/articles/thich-nhat-hanh/ |
+| 86 | Plato | /learn/wisdom-for-life/articles/plato/ |
+| 86 | Aristotle | /learn/wisdom-for-life/articles/aristotle/ |
+
+OWED BACK: nothing further from Code on the retro pass; it is complete for all three published types. The book note importer fix rides with Kain's Safari sitting on the book note template, and Chat is told when it runs.
+
+*No em or en dashes in this file; checked before writing.*
+
