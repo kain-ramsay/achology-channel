@@ -16,11 +16,15 @@ The three-part check came back clean and is filed as `REPLY__SearchWP_Checked_Be
 
 ## What Code cannot do, said plainly rather than discovered later
 
-**The plugin file lives behind SearchWP's own account, and the licence key is a credential.** Code has no route to either, and does not handle keys: entering a licence key into a field is Kain's or Karen's hand in the WordPress admin, never a value pasted through this channel and never relayed by Kain, who is not the wire.
+**The licence key is on Kain's Desktop**, in a file named for what it is, put there at S087 in the same way the Search Console key was at S307. Code has it and will use it against the install and nowhere else.
+
+**It is deliberately not written into this file or anywhere in the channel.** The channel is a git repository that pushes to GitHub, and a key committed there is a key published. Nobody should add it to a channel file later, which is why the reason is written down rather than left to good sense.
+
+**What is genuinely missing is the plugin itself.** SearchWP is a paid download sitting behind Kain's own account, and no key on a Desktop produces the zip. That one download is the only part of this that nobody else can do.
 
 So the install has two halves and only one of them is Code's:
 
-**Kain or Karen:** download the plugin zip from the SearchWP account, and enter the licence key on the plugin's own settings screen once it is active. Both are browser jobs on the build site, no terminal, no commands.
+**Kain, once:** download the SearchWP zip from his account and drop it on the Desktop beside the key. One browser step, no terminal, and it is his account rather than a task that could have been handed to anybody else.
 
 **Code, on his word that the file is on the install:** activate it, build the two engines (one carrying the four Knowledge Hub content types, one carrying the help answers, because DSRD 1 §2.5 keeps help out of Knowledge Hub search), add the ACF fields as attributes so the book note bodies are actually indexed rather than read as empty pages, index all five sources, and file the read-back.
 
