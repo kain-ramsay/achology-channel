@@ -1,6 +1,6 @@
 > **CODE DISPOSITION, S086: WAITS ON** all four content templates reaching Kain's eye in Safari, one at a time in the order this brief sets. It arrived mid-session and was read in full at H6's block. Page 2, the book note page, is the one in hand: V3 built, the S085 hero standard built, the Discover Related Learning Paths block built and matched to the article page's, and 64 book notes imported so the page is designed on real content rather than a mock-up. It stays live until all four are confirmed.
 
-# BRIEF: All Eleven Knowledge Hub Templates — Full Commission
+# BRIEF: All Eleven Knowledge Hub Templates: Full Commission
 
 **From:** Claude Chat, Session 314. **Date:** 26 August 2026.
 **Supersedes:** `BRIEF__The_Four_Content_Templates_Are_Yours_With_Kain_S303.md` and `BRIEF__The_Eleven_Knowledge_Hub_Templates_And_The_Redirects_That_Fall_Out_S301.md`. Those two remain in FROM Chat as standing orders you may reference, but this file is the governing commission from this session forward.
@@ -34,10 +34,10 @@ A page is confirmed only when Kain has looked at the real thing and approved it.
 
 ## The order, and why it is this order
 
-1. **Article page** — signed and fully specified. Builds first. Unblocks everything.
-2. **Book note page** — approved and fully specified. Second.
-3. **Quote page** — two blocks ruled by Kain at S303. Most open of the four; see the quote section below.
-4. **Workbook page** — thinnest specification. Last.
+1. **Article page**: signed and fully specified. Builds first. Unblocks everything.
+2. **Book note page**: approved and fully specified. Second.
+3. **Quote page**: two blocks ruled by Kain at S303. Most open of the four; see the quote section below.
+4. **Workbook page**: thinnest specification. Last.
 
 Take one page at a time. Do not start the next until Kain has looked at and approved the current one in Safari.
 
@@ -53,10 +53,10 @@ Build only to these two documents. Where something is not in them, stop and ask 
 
 ### The governing documents, read before you start
 
-- `SIGNED_SPEC__The_Individual_Article_Page_S302.md` — the entire instruction for the page
-- `BUILD_SHEET__The_Article_Page.md` — every design value, top to bottom
-- DSRD 9 §22 — the layout specification (read for anything the brief and sheet do not cover)
-- DSRD 1 §5.7 — how lead tags fill the course cards
+- `SIGNED_SPEC__The_Individual_Article_Page_S302.md`: the entire instruction for the page
+- `BUILD_SHEET__The_Article_Page.md`: every design value, top to bottom
+- DSRD 9 §22: the layout specification (read for anything the brief and sheet do not cover)
+- DSRD 1 §5.7: how lead tags fill the course cards
 
 ### The one thing NOT written into any DSRD yet
 
@@ -87,12 +87,12 @@ Approved and fully specified. Kain approved the final page by eye across S249 an
 
 ### The governing documents, read before you start
 
-- `BRIEF__Book_Note_Page_Template_S251.md` — the instruction, read with the S085 retirement of the shelf in mind
-- `Book_Note_Page_S250_FINAL.html` — the approved prototype, the visual authority
-- DSRD 9 §32 — the layout spec including the V3 ruling at S085
-- DSRD 8 §20 — the travelling shelf component (retired for this page at S085; the horizontal variant of it is now used on the quote page instead)
-- DSRD 8 §13 — the closing panel component
-- DSRD 1 §5.7 — how lead tags fill the course cards
+- `BRIEF__Book_Note_Page_Template_S251.md`: the instruction, read with the S085 retirement of the shelf in mind
+- `Book_Note_Page_S250_FINAL.html`: the approved prototype, the visual authority
+- DSRD 9 §32: the layout spec including the V3 ruling at S085
+- DSRD 8 §20: the travelling shelf component (retired for this page at S085; the horizontal variant of it is now used on the quote page instead)
+- DSRD 8 §13: the closing panel component
+- DSRD 1 §5.7: how lead tags fill the course cards
 
 ### The quote page now adopts the shelf panel in horizontal form
 
@@ -114,15 +114,15 @@ Partly specified. Two blocks were ruled by Kain at S303 on tabbed renders in the
 
 ### The governing documents, read before you start
 
-- `RULINGS__The_Quote_Page_S303.md` — the two ruled blocks, read first
-- DSRD 2 §1.1 — what the page holds (the full component list)
-- DSRD 7 §15.2 — the quote card specification (the featured image block)
-- DSRD 7 §1.0 — external link treatment (Amazon button)
-- DSRD 8 §13 — the closing "Where next?" panel, copy approved S282
-- DSRD 8 §20 — the shelf panel component (horizontal variant needed for the source book block; the promotion procedure at §12.3 runs before you build)
-- DSRD 9 §22.3, §22.4, §22.7 — breadcrumb, hero, author signature block (same as article page)
-- DSRD 9 §22.8, §22.10 — Related Further Reading and Explore Related Learning Paths (same counts as article page)
-- DSRD 1 §5.7 — how lead tags fill the course cards
+- `RULINGS__The_Quote_Page_S303.md`: the two ruled blocks, read first
+- DSRD 2 §1.1: what the page holds (the full component list)
+- DSRD 7 §15.2: the quote card specification (the featured image block)
+- DSRD 7 §1.0: external link treatment (Amazon button)
+- DSRD 8 §13: the closing "Where next?" panel, copy approved S282
+- DSRD 8 §20: the shelf panel component (horizontal variant needed for the source book block; the promotion procedure at §12.3 runs before you build)
+- DSRD 9 §22.3, §22.4, §22.7: breadcrumb, hero, author signature block (same as article page)
+- DSRD 9 §22.8, §22.10: Related Further Reading and Explore Related Learning Paths (same counts as article page)
+- DSRD 1 §5.7: how lead tags fill the course cards
 
 ### What is settled
 
@@ -132,7 +132,7 @@ Partly specified. Two blocks were ruled by Kain at S303 on tabbed renders in the
 2. Breadcrumb (DSRD 9 §22.3)
 3. Hero: H1, meta line (DSRD 9 §22.4 pattern)
 4. Featured image: the quote card (DSRD 7 §15.2, see values below)
-5. Listen player — single clip, one control, no timings file. Same player already live on the help articles. Kain's voice. DSRD 7 §5.1 and §5.2. DSRD 2 §1.1 assigns a single clip per quote page
+5. Listen player: single clip, one control, no timings file. Same player already live on the help articles. Kain's voice. DSRD 7 §5.1 and §5.2. DSRD 2 §1.1 assigns a single clip per quote page
 6. The quote written out in full (styled, see open items below)
 7. Two interpretations (the Look): Interpretation 1 surface-level, Interpretation 2 deeper, 100-150 words each. DSRD 2 §1.1
 8. Self-reflection question: the cream card block (ruled S303, spec in `RULINGS__The_Quote_Page_S303.md`)
@@ -155,7 +155,7 @@ Partly specified. Two blocks were ruled by Kain at S303 on tabbed renders in the
 - Three pixel brand orange bar along the base edge (not a spine on the left, which was the breach named in the S303 brief)
 - Quote mark sits at eight per cent opacity (not thirty five per cent, which was the second breach named in the S303 brief)
 
-**The type step sizes for the quote and author on the card are open and yours to rule with Kain on the real page in Safari.** DSRD 7 §15.2 says so explicitly: "Kain settles them with Claude Code on the real page with real quotes in Safari". Use six of the first twenty five drafted quotes for the sitting — bring long ones, because six of those twenty five run 121 to 150 characters.
+**The type step sizes for the quote and author on the card are open and yours to rule with Kain on the real page in Safari.** DSRD 7 §15.2 says so explicitly: "Kain settles them with Claude Code on the real page with real quotes in Safari". Use six of the first twenty five drafted quotes for the sitting: bring long ones, because six of those twenty five run 121 to 150 characters.
 
 **The self-reflection question block, from `RULINGS__The_Quote_Page_S303.md`:** read the rulings file for the exact values. Warm cream #FDFAF8 ground, 1px hairline border, 12px card corner, mini card shadow, 4px brand orange left edge, house quote glyph bottom right at seven per cent, overline `One question` in AA-safe orange, question in Como 24/600, padding 32px with 34px left.
 
@@ -189,11 +189,11 @@ The thinnest of the four. DSRD 2 §1.7 specifies what the page holds. DSRD 9 has
 
 ### The governing documents, read before you start
 
-- DSRD 2 §1.7 — the component list, the one specification that exists
-- DSRD 4 — for the Kit email capture mechanic (the free download via email)
-- DSRD 8 §6.4 — the workbook card (for related workbooks in the foot)
-- DSRD 9 §22.3, §22.4, §22.10 — breadcrumb, hero, and the course cards block (same pattern as article page for those components)
-- DSRD 1 §5.7 — how lead tags fill the course cards
+- DSRD 2 §1.7: the component list, the one specification that exists
+- DSRD 4: for the Kit email capture mechanic (the free download via email)
+- DSRD 8 §6.4: the workbook card (for related workbooks in the foot)
+- DSRD 9 §22.3, §22.4, §22.10: breadcrumb, hero, and the course cards block (same pattern as article page for those components)
+- DSRD 1 §5.7: how lead tags fill the course cards
 
 ### What §1.7 specifies
 
