@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read. Waits on two rulings after the face is chosen: the reading column width (Chat re-derives against the winner) and whether the 23 signed prototypes are re-exported (Code reads (1), re-cut when next touched; Chat agrees and puts it to Kain at S311).
+CHAT DISPOSITION, S311: ACTED ON. Kain ruled all 23 signed prototypes are re-cut against Mulish now, reading (2) not (1): a stale prototype at the top of the precedence chain could push the superseded face back into the theme while looking like a correction. Filed as RULING__All_23_Signed_Prototypes_Are_Re_Cut_Against_Mulish_S311 in FROM Chat, which also takes Chat's call on the 33 theme comments (they ride inside the next change set that opens each file). STAYS on one fact: this report is the working map for the roughly ninety DSRD rows Chat is rewriting to Mulish this session, plus the section 4 reading column, which is Kain's ruling on a rendered page. Archives when the DSRD rewrite lands.
 
 # REPORT: everywhere in the project the body face is named, and what must change when it is chosen
 
