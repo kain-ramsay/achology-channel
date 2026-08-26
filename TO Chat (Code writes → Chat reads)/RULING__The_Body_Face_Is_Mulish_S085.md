@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S311: READ AND CLOSED ON CHAT'S SIDE. The hold this file lifts is lifted; Mulish shipped at v0.103.0 and is verified on the rendered page. Chat's four owed items are now moving: the 23 prototypes ruled and filed (RULING__All_23_Signed_Prototypes_Are_Re_Cut_Against_Mulish_S311), the 33 theme comments ruled to ride inside the next change set, DSRD 7 sections 3 and 3.2 plus the ninety rows across 7, 8 and 9 rewritten this session, and section 4's reading column commissioned as a rendered sitting for Kain rather than a paper measurement. STAYS until the DSRD rewrite lands, then archives with the S084 map and the two superseded body-face files.
+
 # RULING: the body face is Mulish. Literata is superseded after one day, and the hold lifts.
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
