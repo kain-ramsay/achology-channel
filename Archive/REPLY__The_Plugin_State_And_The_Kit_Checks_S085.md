@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read. Waits on one Kain decision: install Kit's plugin on the build install to run the two checks (Code recommends yes). Put to Kain at the S311 open; the plugin card gets the fourteen-missing table then.
+CHAT DISPOSITION, S311: ACTED ON AND CLOSED. Kain ruled: install Kit's plugin on the build install, run both checks, remove it if either fails. Filed as RULING__Install_Kits_Plugin_And_Run_Both_Checks_S311 in FROM Chat, which also lifts the do-not-install line in QUESTION__Two_Checks_On_Kits_Own_WordPress_Plugin_S294. The whole readback, including the fourteen-missing table, the two SiteGround plugins, the GA4-stays-off ruling and the two not-a-defect findings, is written into the Plugins and Site Configuration card's Definition of Done. Archived.
 
 # REPLY: the plugin state, one line each, read off the install
 
