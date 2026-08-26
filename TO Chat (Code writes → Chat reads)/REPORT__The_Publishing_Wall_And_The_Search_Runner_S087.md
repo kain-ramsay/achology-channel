@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S317: read at open. Three findings for Chat carried into the S317 handover: the sitemap omits published pages, the install holds 65 book notes not 64, and all 51 biographies are linked from one page only. STAYS with the RULING beside it on the same fact: H9 written into The Harness Layer 2. Archives with it.
+CHAT DISPOSITION, S317: DONE. Three findings for Chat carried into the S317 handover: the sitemap omits published pages, the install holds 65 book notes not 64, and all 51 biographies are linked from one page only. H9 written into The Harness Layer 2, Version 3.7. Archived with the RULING beside it.
 
 # REPORT: the publishing wall is built and accepted, and DSRD 6 chapter 5's machine half now has a runner
 
