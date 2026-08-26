@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S088: DONE.** Written as `EXPORT__The_Twenty_Five_Skilled_Helper_Quote_Rows_S088.md` in TO Chat: all twenty five rows with quote, topic, verified flag and provisional slug, read from the Quotes tab this session, master unwritten. One correction travels with it: the twenty five Skilled Helper rows are Q06984 to Q07008, not the Q07009 to Q07032 this file names, which is the Ultimate Life Coaching Handbook's block.
+
 > **CODE DISPOSITION, S087: WAITS ON** the export being written, which has not run. Arrived near the end of the sitting and read in full at H6's block. It is a straight read of the Quotes tab in `Achology Master Books and Quotes.xlsx` into one markdown file, and it is the smallest job now on Code's list, so it goes first at the next open. Named here so it is not lost behind the bigger ones.
 
 # ASK: export the twenty-five Skilled Helper quote rows as text so Chat can draft their pages
