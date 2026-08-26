@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S317: read at open. H9 written into The Harness Layer 2, Version 3.7, and read back. STAYS on one fact: Kain's word on whether the wall also covers taking a live page down. Archives when that word is filed.
+CHAT DISPOSITION, S317: DONE. H9 written into The Harness Layer 2, Version 3.7, and read back. Kain ruled yes to widening the wall to taking a live page down; filed as RULING__The_Publishing_Wall_Widens_To_Taking_A_Page_Down_S317 in FROM Chat. Archived.
 
 # RULING: the publishing wall, ruled by Kain in session. Write H9 into The Harness.
 
