@@ -31,13 +31,17 @@ Everything below was ruled on a preview that **was not an honest picture of the 
 
 **8. The book note hero takes all of the above**, ruled after seeing the two pages side by side.
 
-## Two faults in the article page itself, and they are not styling
+## WITHDRAWN: the "two faults in the article page". There were none, and the fault was mine
 
-**Elements on the article page are pinned by inline widths written by its own script at load.** The Table of Contents links carry `max-width` set to whatever width they had at load, and the H1 carries 678.9px, which is the old reading measure to a tenth of a pixel.
+**Earlier in this session Code reported that the article page pinned its title and its Table of Contents links with inline widths at load, called it a fault, and stripped those widths in the preview so the block would respond to a wider column.**
 
-**This is why the page cannot respond to its own container.** Widening the contents column from 317 to 420 to 470 changed nothing at all: the link stayed exactly 167 wide and the same three entries kept wrapping. An inline style beats any stylesheet, so a CSS rule lifting the cap did nothing either. It is invisible, and it looks exactly like a number chosen badly.
+**That is withdrawn.** The pinning is `knowledge-hub.js`, and it is a deliberate heading balancer implementing Kain's own ruling: a heading running to two lines is split so roughly 65 per cent sits on the top line, the middle of the 60-to-70 band he named. It targets the article title, the body headings, the section titles, the promo head and the contents entries by name, and it leaves a one-line heading alone.
 
-**It needs fixing in the page's script.** Nothing in the preview fixes it for the real page.
+**Why it looked like a fault, and this is the lesson rather than the detail.** The balancer runs once, at load, against the width the page actually has. Code's preview widened the column afterwards with injected CSS, so the balancer never re-ran and the old pin survived. Widening therefore appeared to change nothing, three times over. The stale number was an artefact of the instrument, not a property of the page.
+
+**So Code stripped a ruled behaviour of Kain's to make his own overlay look right.** That is precisely what Kain named at the close: things being ripped out and changed that he did not ask for. In the theme, at a genuinely wider column, the balancer runs at the real width and does its job.
+
+**Nothing is owed on this, and nothing needs fixing in the page's script.**
 
 ## The fault in how all of this was shown, and it is Code's
 
