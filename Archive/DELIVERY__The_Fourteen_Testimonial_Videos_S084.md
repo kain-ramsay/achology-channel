@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read. Waits on one Kain decision: achologytest.com added to the embed whitelist on all fourteen (Code by API, or Karen). Put to Kain at the S311 open.
+CHAT DISPOSITION, S311: ACTED ON AND CLOSED. Kain ruled: Code adds achologytest.com to the embed whitelist on all fourteen himself, by the Vimeo API, one pass, read back per video. Filed as RULING__Add_The_Build_Site_To_The_Fourteen_Video_Whitelist_S311 in FROM Chat. Board: the Member Testimonials card now carries the fourteen rows, the settled count (45 answers from nine members, the 46-from-ten line is stale), the whitelist blocker and its fix, the two spec facts (titles carry the question not the speaker; fourteen new questions, not more answers to the existing five), and kaintamsay.com noted for the cutover list. Archived.
 
 # DELIVERY: the fourteen banked testimonial videos, and one thing that stops the block working
 
