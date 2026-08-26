@@ -51,4 +51,14 @@ Kain's instruction at the tail of the sitting was to do the work rather than han
 
 **The article type list and the install brought into line**, closing the S310 and S318 rulings and Code's own S085 ask. Eighteen rows renamed and read back; three superseded choices deleted.
 
+## A fourth wave, after Kain said to stop handing him work and do it
+
+**The density experiment ran and settled move 7.** All five pages 80 to 86 at about 1.13 per cent, so Rank Math's band wins and the house band relaxes. `REPLY__The_Density_Experiment_Answers_It_Rank_Maths_Band_Wins_S087`. Board: Knowledge Hub scoring.
+
+**Three things had to be built before it could run**, each a hole that would have stopped the fifteen instructor records next. The gate deadlocked a second time, on faults that pre-dated the change. There was no update path at all: both importers create, and refuse or skip an existing slug, so **the project could put content on the site and could not correct it**. And the two content types spell the Rank Math fields differently, which would have written nothing while reporting success. `update_published_records.py` is the new route.
+
+**The three lists the S318 ruling asked for**, filed as `LIST__The_Eighty_Earning_Books_And_Sixteen_Earning_Authors_S087`. Its head carries one number for Kain rather than Chat: the old article pages earn 89,630 clicks against the book pages' 3,274, and the ruling that puts the books first was made before anyone had that table.
+
+**One correction to the record**: the density reply said the lists were already filed when they were not. Named in the lists file itself.
+
 *No em or en dashes in this file; checked before writing.*
