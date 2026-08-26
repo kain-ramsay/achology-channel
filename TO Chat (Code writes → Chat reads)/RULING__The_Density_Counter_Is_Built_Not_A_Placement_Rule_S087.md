@@ -45,12 +45,13 @@ The counter was run across all 51 published biographies against their measured s
 
 | Score | Density | Uses | Pages |
 |---|---|---|---|
-| 0 | 0.24 to 0.30 | 4 to 5 | 2, and their zero is a different fault |
-| 69 to 77 | 0.18 to 0.36 | 3 to 6 | 13 |
-| 80 | 0.18 to 0.49 | 3 to 8 | 33 |
+| 69 to 77 | 0.18 to 0.36 | 3 to 6 | 14 |
+| 80 | 0.18 to 0.49 | 3 to 8 | 34 |
 | 82 | 0.65 | 11 | 1, Thich Nhat Hanh |
 | 86 | 1.60 | 26 | 1, Plato |
 | 86 | 1.70 | 28 | 1, Aristotle |
+
+*The two rows that first appeared here as scoring zero were a fault in the reading instrument, not in those pages, and they are corrected above: Robert Cialdini scores 80 and Rick Hanson 74. The account is in the retro score report beside this file. Their densities were always normal, which is what made the zero look wrong in the first place.*
 
 **The three pages that clear the bar are the only three above 0.6 per cent, and the two inside the house band both land on 86.** Item 11's own prediction is "move 7 clears 81 and lands at 85 or better", and the two pages that have move 7 land on 86. The house band is confirmed by real content rather than by argument.
 

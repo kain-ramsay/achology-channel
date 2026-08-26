@@ -163,6 +163,7 @@ Sorted by score, worst first. Every row read from the install this session.
 | 76 | Friedrich Nietzsche | /learn/wisdom-for-life/articles/friedrich-nietzsche/ |
 | 76 | Arthur Schopenhauer | /learn/wisdom-for-life/articles/arthur-schopenhauer/ |
 | 77 | James Allen | /learn/personal-growth/articles/james-allen/ |
+| 80 | Robert Cialdini | /learn/psychology/articles/robert-cialdini/ |
 | 80 | Philip Zimbardo | /learn/psychology/articles/philip-zimbardo/ |
 | 80 | Howard Gardner | /learn/psychology/articles/howard-gardner/ |
 | 80 | Dan Ariely | /learn/psychology/articles/dan-ariely/ |
