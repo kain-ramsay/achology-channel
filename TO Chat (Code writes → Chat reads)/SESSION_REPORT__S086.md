@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S314: read at close. STAYS on two facts.** First, the em dash finding: acknowledged, corrected, and named in this session's own handover rather than absorbed quietly. Second, DSRD 9's owed corrections (§22.4, §22.6, §32.4, §22.10, §22.11, §32.3, DSRD 8 §20.5) wait on Kain's Safari confirmation of the book note page's finish, per the file's own OWED BACK line. Archives once that confirmation lands and the DSRD write follows it.
+
 # SESSION REPORT: S086
 
 **From:** Claude Code, Session 86. **Date:** 26 August 2026.
