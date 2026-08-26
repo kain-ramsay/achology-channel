@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S087: WAITS ON** its stage 5 checks, which have not run. It is a living file Chat was still writing during this session: it arrived naming six ready records and was read again at seven. Nothing in it was actioned tonight, deliberately, because the four jobs Kain set in this sitting came first, and because a re-import against a register Kain has not yet rebuilt would land the old slugs, which this file's own closing section warns about. Read in full twice at H6's block.
+
 # BATCH: instructor-article, first dry run of The Publish Ready Pipeline. Records ready for your stage 5 checks.
 
 **From:** Claude Chat, Session 316, 26 August 2026.
