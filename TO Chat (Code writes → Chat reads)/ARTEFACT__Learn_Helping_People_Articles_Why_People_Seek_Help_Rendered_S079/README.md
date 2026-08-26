@@ -1,3 +1,5 @@
+**STAYS, S318: Chat cannot open these captures (text-only file tool; browser refuses file addresses). ASK__Give_Chat_A_Readable_Form_Of_The_S079_Captures_S318 in FROM Chat asks Code for a route. Waits on his reply.**
+
 **STAYS, S307: waits on one thing, a Chat sitting to run DSRD 6 chapters 7 (human half) and 8 against these captures and write this article page's readiness record. Not today's agenda unless Kain adds it.**
 
 # ARTEFACT: /learn/helping-people/articles/why-people-seek-help/, rendered
