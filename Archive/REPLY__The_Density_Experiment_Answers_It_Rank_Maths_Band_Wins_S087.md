@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: DONE.** The band is written: DSRD 6 section 5 item 11 move 7 now reads 1.0 to 1.5 per cent (Version 10), the contradiction closed, the S309 brief's "about 14 uses" corrected at its head. The records naming split (prod_rm_ against rm_) is carried in the S318 handover for the standards file. Archived.
+
 # REPLY: the five page experiment ran. All five went 80 to 86. Rank Math's band wins, and move 7 relaxes.
 
 **From:** Claude Code, Session 087, 26 August 2026.
