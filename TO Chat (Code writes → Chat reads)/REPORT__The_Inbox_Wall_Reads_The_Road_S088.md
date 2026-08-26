@@ -101,15 +101,18 @@ THE BRIEF'S OWN TWO CASES
 
 FOUR WAYS THE FETCH COULD BE WRONG THAT CASES 1 AND 2 WOULD NOT SHOW
   PASS  3  origin unreachable but a local file IS unread: still blocks, and says the road was not checked
-  PASS  4  a dirty tree is never touched, never stashed, and the state is reported
+  PASS  4  a file dirty in the tree does NOT stop a fast forward that never touches it, and is left untouched
+  PASS  4b work in flight is never overwritten: git refuses the fast forward and its reason is reported
   PASS  5  a diverged branch is never rebased or merged, and the state is reported
   PASS  6  a clean fast forward actually lands the file on this disk
 
 THE TIDY TAX, AND THE CASE THAT PROVES THIS TEST CAN GO RED
   PASS  7  a FROM Chat file Code wrote is marked read by that write, so the next edit passes
   PASS  8  WITHOUT the mark the same write still blocks, so case 7 proves the mark and not a hole in the wall
+  PASS  9  the clock moving without the bytes moving is NOT a change, so the watcher cannot reopen the wall
+  PASS  10 a repository part way through a merge is refused before anything is attempted
 
-  8 of 8 cases pass
+  11 of 11 cases pass
 ```
 
 **The printout case 1 produces, which is what Code actually sees:**
