@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the three-part check before Kain spends anything: fitness against the five sources, compatibility against the nine plugins actually installed, and the real licence cost today. Nothing is bought until that file is filed.
+
 # RULING: SearchWP stands as the choice. Check it before Kain buys the licence, then install and index.
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.

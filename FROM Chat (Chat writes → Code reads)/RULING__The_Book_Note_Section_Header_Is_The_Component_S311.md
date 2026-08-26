@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the book note page next being touched, which is imminent: Kain is ruling its layout in Safari at S085. The kh-section family retires into the approved section header component in that same change set, and he sees it rendered before it stands.
+
 # RULING: the book note page's kh-section header IS the section header component. There is one, not two.
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.

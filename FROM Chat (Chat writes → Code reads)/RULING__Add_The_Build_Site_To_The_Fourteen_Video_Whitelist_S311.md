@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the Vimeo API pass. Fourteen videos in folder 20119371, privacy.embed whitelist gains achologytest.com, nothing else on the account touched, then a per-video read-back filed to TO Chat.
+
 # RULING: add achologytest.com to the embed whitelist on all fourteen testimonial videos
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.

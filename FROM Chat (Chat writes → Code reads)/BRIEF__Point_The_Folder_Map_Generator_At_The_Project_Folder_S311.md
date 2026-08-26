@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the generator being taught to write a map at the project root. tools/folder_map.py walks levels one and two only, so the root's own marker is outside what it maps; that is a small change to mapped_folders and one run. The count to report is the tool's own, with the delivery system's Archive named as the exclusion.
+
 # BRIEF: point the folder-map generator at the project folder's own root
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.

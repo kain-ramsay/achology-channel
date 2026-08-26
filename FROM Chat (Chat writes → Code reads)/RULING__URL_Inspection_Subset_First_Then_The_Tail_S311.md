@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the URL Inspection run being built, openssl-signed JWT and curl rather than a package install. Traffic-carrying subset first from Pages.csv, plus the 138 broken addresses and the 97 missing top-traffic ones, filed as its own printout; the tail behind it as a second file.
+
 # RULING: run the URL Inspection subset first, the tail behind it
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.

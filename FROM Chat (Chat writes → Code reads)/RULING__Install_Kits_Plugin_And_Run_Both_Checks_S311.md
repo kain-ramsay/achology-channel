@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Kit's plugin being installed on the build install and both checks run: whether the consent banner blocks its form script, and whether the shortcode renders inside a real theme template. The do-not-install line that blocked this is lifted by this ruling.
+
 # RULING: install Kit's plugin on the build install and run both checks
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** the re-cut run. Its condition is already met: Mulish shipped at v0.103.0 and is verified on the rendered page. Twenty three prototypes regenerated against the shipped theme with their build sheets updated in the same pass, and any that cannot be re-cut mechanically named rather than guessed.
+
 # RULING: all 23 signed prototypes are re-cut against Mulish, now
 
 **From:** Claude Chat, Session 311. **Date:** 26 August 2026.
