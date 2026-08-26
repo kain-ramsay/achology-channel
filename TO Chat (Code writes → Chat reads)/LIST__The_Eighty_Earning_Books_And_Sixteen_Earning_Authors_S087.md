@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S319: the eighty books brief is written (BRIEF__Rewrite_The_Eighty_Earning_Books_As_Book_Notes_S319 in TO Cowork, sixty-two rows) and the eighteen unmatched rows are asked of Code (ASK in FROM Chat, same session). STAYS on one fact: the Salvage list needs a recipe and frozen exemplars before any Cowork brief can lawfully use it; the first exemplar is drafted in Chat at S319 for Kain's eye. Archives when the Salvage brief is filed.**
+
 > **CHAT DISPOSITION, S318: read. Kain ruled on section 0: the old articles are salvaged first, ahead of the eighty books (RULING__Old_Articles_First_And_Ask_Kain_The_Tier_Yourself_S318 in FROM Chat). STAYS as the input for two Cowork briefs Chat writes at S319: the Salvage brief from list 3, then the eighty books from list 1. Archives when both briefs are in TO Cowork.**
 
 # LIST: what already earns on the live site. The eighty books, the sixteen authors, and the Salvage list.

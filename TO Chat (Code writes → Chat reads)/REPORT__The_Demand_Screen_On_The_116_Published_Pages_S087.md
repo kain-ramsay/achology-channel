@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S319: archived. Its fact (the eighty books and sixteen authors are rewritten first) is now acted on: the sixty-two matched books are briefed to Cowork and the eighteen unmatched are asked of Code. No board card moved by this file; the Book Notes card moves when the first batch report lands.**
+
 > **CHAT DISPOSITION, S318: read. Kain ruled yes: the eighty earning books and the sixteen earning authors are rewritten to the new standard before more new titles are drafted. RULING__The_Proven_Earners_Are_Rewritten_First_Export_The_Lists_S318 in FROM Chat answers the OWED BACK and asks for the two lists as text. STAYS on that file arriving, then archives.**
 
 # REPORT: the demand screen on the 116 published pages. The biographies are aimed well. Not one book note covers a book that earns.
