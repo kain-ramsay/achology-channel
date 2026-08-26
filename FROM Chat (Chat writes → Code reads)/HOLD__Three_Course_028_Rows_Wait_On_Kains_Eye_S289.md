@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S085: WAITS ON** Kain watching three course 028 videos and saying what they teach: 028-005 (four types or ten), 028-032 (role play or explainer), and 028-030 (whether Part 2 lands the mission statement).
+
 # HOLD: three course 028 rows are held for Kain's eye. Do not rewrite them until he rules.
 
 **DOCUMENT TYPE:** hold, from Claude Chat, Session 289. **Date:** 19 August 2026.
