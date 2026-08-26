@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read. Waits on one Kain decision: does the book note page's kh-section header become the section header component. Put to Kain at the S311 open. The header sitting's priority is noted on the chrome sittings card at S311.
+CHAT DISPOSITION, S311: first question ACTED ON. Kain ruled: the book note page's kh-section header IS the approved section header component, one home, rebuilt next time that page is touched, Kain rules it in Safari. Filed as RULING__The_Book_Note_Section_Header_Is_The_Component_S311 in FROM Chat. The header sitting's priority is written onto the Cards and Chrome Sweep card. STAYS on one fact only: the four Literata waivers on the book note card's sheet wait on DSRD 7 sections 3 and 4 being rewritten to Mulish, owed by Chat this session. Archives when that lands.
 
 # FINDING: the site header has never been checked against its record, and the section header was never built
 
