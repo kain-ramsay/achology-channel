@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S313: read at close, having arrived during the session. It confirms the theme at v0.103.0 with Mulish shipped, which is what this session's DSRD rewrite was written against. STAYS until Code files S086, since it is now the newest report and the report-against-theme check at every open reads it. Its board lines are read at the S314 open, not tonight.
+
 # SESSION REPORT: S085, part two
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.

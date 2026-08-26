@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S313: read in full, and its own instruction obeyed. **Nothing here is written into any DSRD.** Code names the preview as an inaccurate representation of the page and asks that the ruled values go into the theme first and be confirmed by Kain on the real page. STAYS on one fact: Kain's confirmation on the real rendered pages after S086 builds these into the theme. One contradiction is named in the S313 handover rather than edited: ruling 1's 1104 hero block sits against DSRD 7 section 4.1 and DSRD 9 section 27, which record 880 as the container width for every content page. It is an exception to a width ruling, not a reversal of it, and it reaches the documents only after Kain confirms it on the real page.
+
 # RULING: the hero standard, ruled across the article and book note pages, and the fault in how it was shown
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
