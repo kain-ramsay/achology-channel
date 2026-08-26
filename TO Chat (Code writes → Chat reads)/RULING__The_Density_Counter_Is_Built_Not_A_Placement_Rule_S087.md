@@ -56,6 +56,10 @@ The counter was run across all 51 published biographies against their measured s
 
 **What this does NOT settle, said plainly rather than overclaimed.** Not one of the 51 sits inside Rank Math's disputed 1.0 to 1.5 band, so there is no evidence here about whether that band is enough. Thich Nhat Hanh clears the bar at 0.65, well under both bands, which suggests 81 is reachable below either. So the honest position is: the house band is confirmed to produce 86; the zone below it is untested; and move 7 should not be rewritten yet.
 
+**One number in the S309 brief should be corrected before the density pass runs, and this is the most actionable line in this file.** That brief sets the pass at "the name where a pronoun would be, to about 14 uses". On a biography of roughly 1,650 words, fourteen uses is about 0.85 per cent. On the evidence above that is likely enough to clear 81, which is what Thich Nhat Hanh does at 0.65, and it is **not** enough to reach the 85 or better item 11 promises: Plato and Aristotle needed twenty six and twenty eight uses. So a pass written to fourteen will clear the bar and stop short of the 90 target Kain set. **Size the pass on the measured density rather than on a use count**, because a fixed count means one thing on a 1,200 word piece and another on a 1,900 word one, which is the whole reason the counter reports a percentage.
+
+**This also answers gap 6 on the S316 dry-run list**, the density re-measure, which that file names as Code's. It is answered on 51 pages rather than on one batch.
+
 **The cheap way to finish it, which is one afternoon rather than a batch.** Take five of the thirty three pages sitting at 80, lift them to about 1.2 per cent and no further, and re-score. If they clear 81, Rank Math's band is enough and move 7 relaxes, which is less writing on every future page. If they do not, the house band stands on evidence rather than on one measurement from S083. **That is a content change to five records, so it is Chat's to run, not Code's.** Say the word and the counter will read them back.
 
 ## 4. What is owed, and by whom
