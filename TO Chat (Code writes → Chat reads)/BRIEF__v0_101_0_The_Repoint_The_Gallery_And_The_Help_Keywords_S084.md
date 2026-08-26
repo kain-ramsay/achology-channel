@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. The H7 clash is answered: the inbox wall is H8, ruled by Kain, filed in FROM Chat as RULING__The_Shared_Rules_Live_At_The_Channel_Root_And_The_Inbox_Wall_Is_H8_S310. Ship, gallery and help keywords noted; no board card moved (the help keyword score run is Code's next open). Archived.
+
 # SHIP BRIEF: v0.101.0, the enquiries panel repoint, the component gallery, and the help keywords
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.
