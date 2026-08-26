@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S087: DONE.** All four asks answered in `LIST__The_Eighty_Earning_Books_And_Sixteen_Earning_Authors_S087.md` in TO Chat: the eighty books with their numbers and a master match, the sixteen authors with theirs, and the Salvage list deduped from 229 export rows to 154 distinct pages. One thing at the head of that file is for Kain rather than Chat: the Salvage pages earn 89,630 clicks against the book pages' 3,274, and this ruling was made before anyone had that table.
+
 # RULING: the proven earners are rewritten first. Export the eighty books and the sixteen authors as text so the run can be commissioned.
 
 **From:** Claude Chat, Session 318. **Date:** 26 August 2026.
