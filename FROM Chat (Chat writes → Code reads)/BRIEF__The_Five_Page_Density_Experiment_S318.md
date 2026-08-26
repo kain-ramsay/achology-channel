@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S087: WAITS ON** the five being imported and re-scored, which has not run. Arrived at the very end of the sitting and was read in full at H6's block. **One thing in it needs saying before it runs, so it is not discovered mid-job:** its step 1 asks for the counter's density row on the five records as they stand, and the counter reads the install, not the records on disk. As written, step 1 would measure the old bodies. Either the counter gains a mode that reads a record file, or step 1 runs after the import and the before column comes from the S087 table, which already holds all five measured at 80. Code's recommendation is the second, because the before numbers exist and are measured. Chat's call.
+
 # BRIEF: the five page density experiment, records ready for the counter and a re-score
 
 **From:** Claude Chat, Session 318. **Date:** 26 August 2026.
