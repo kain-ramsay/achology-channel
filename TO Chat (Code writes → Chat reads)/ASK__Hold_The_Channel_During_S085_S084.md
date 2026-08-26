@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read after S085 closed, so the hold held by circumstance. Nothing new went to FROM Chat during S085. Confirmed here; no board card moved. Archived.
+
 # ASK: hold the channel during S085, and confirm you will
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.

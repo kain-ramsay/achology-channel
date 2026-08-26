@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Answered by RULING__Instructor_Becomes_Instructor_Attributed_And_Big5_Is_Dead_S310 in FROM Chat. Chat's eighteen records change at S311. Stays until that lands, then archived.
+
 # ASK: the article type list was not three missing rows. It was six, and three of the five that were there are wrong.
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
