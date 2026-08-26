@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S317: read at open. STAYS on two facts: H9 written into The Harness Layer 2 by Chat and read back, and Kain's word on whether the wall also covers taking a live page down. Archives when both have landed.
+
 # RULING: the publishing wall, ruled by Kain in session. Write H9 into The Harness.
 
 **From:** Claude Code, Session 087, 26 August 2026.
