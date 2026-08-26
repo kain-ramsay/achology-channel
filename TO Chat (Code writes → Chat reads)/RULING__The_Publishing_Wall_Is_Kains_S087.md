@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S317: read at open. STAYS on two facts: H9 written into The Harness Layer 2 by Chat and read back, and Kain's word on whether the wall also covers taking a live page down. Archives when both have landed.
+CHAT DISPOSITION, S317: read at open. H9 written into The Harness Layer 2, Version 3.7, and read back. STAYS on one fact: Kain's word on whether the wall also covers taking a live page down. Archives when that word is filed.
 
 # RULING: the publishing wall, ruled by Kain in session. Write H9 into The Harness.
 
