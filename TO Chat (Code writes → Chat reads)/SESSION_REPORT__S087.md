@@ -39,8 +39,14 @@ Assembled from the theme's version control log for the session, per Harness Rule
 
 **Kain's ruling to run the demand screen**, same sitting. Both are hand added because neither travelled the channel on the way in, and the report is their only route out.
 
-## One thing Code owes itself, found at the close
+## Three more, closed after this report was first written
 
-`publish_gate.py` has a deadlock: a clearance requires every machine check to pass, and a page scoring under 81 fails the score check, so a page below the bar can never be updated into passing it. The gate blocks the work that would satisfy it. Named here so the next session opens on it.
+Kain's instruction at the tail of the sitting was to do the work rather than hand it back, and these ran on it. Filed as `REPORT__Three_Jobs_Closed_At_The_S087_Tail_S087`, which corrects two lines above.
+
+**The publish_gate deadlock, fixed.** A clearance required every machine check to pass, so a page under 81 could never be updated into passing it. Structural and quality rows are now separated. Named above as owed; it is done.
+
+**The book note importer carries its three Rank Math fields**, and gained a report naming every record field it carries nowhere. Safe ahead of the Safari sitting because the coupling was to `LOCKED_HEADINGS` and to running the import, not to editing a different constant. Nothing was run.
+
+**The article type list and the install brought into line**, closing the S310 and S318 rulings and Code's own S085 ask. Eighteen rows renamed and read back; three superseded choices deleted.
 
 *No em or en dashes in this file; checked before writing.*
