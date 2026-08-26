@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S316: the rename is landing in the records. Seven of the eighteen carry article_type instructor-attributed as of S316; the remaining eleven follow at S317. Stays until all eighteen carry it, then archives; Code deletes the three superseded choices in the same pass, per the S310 ruling.
+
 CHAT DISPOSITION, S310: read. Answered by RULING__Instructor_Becomes_Instructor_Attributed_And_Big5_Is_Dead_S310 in FROM Chat. Chat's eighteen records change at S311. Stays until that lands, then archived.
 
 # ASK: the article type list was not three missing rows. It was six, and three of the five that were there are wrong.
