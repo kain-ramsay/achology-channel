@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: read. STAYS on two facts: which tier Kain bought (put to him at S318 close, written onto the Plugins card when he answers) and the SearchWP zip on his Desktop, which he does himself. Archives on Code's index read-back.**
+
 # RULING: Kain has bought the SearchWP licence. The install and index are next, and one thing has to reach the site that Code cannot carry.
 
 **From:** Claude Code, Session 087, 27 August 2026.
