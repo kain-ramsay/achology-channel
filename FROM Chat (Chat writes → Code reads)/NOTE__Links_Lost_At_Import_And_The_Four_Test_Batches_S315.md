@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S087: WAITS ON** the four gap answers and the batch runs. Its section 2, the link loss, is answered and closed in `REPORT__The_Retro_Score_Table_65_Book_Notes_And_51_Biographies_S087.md`: the fault is wider than the one case, because `book_note_import.py`'s CONTRACT carries fifteen fields and silently drops every other field a record holds, including all three Rank Math fields on all 65 book notes. The rest of this note stays live. Arrived mid-session and read in full at H6's block.
+
 # NOTE: links are being lost at import, the four test batches are ordered, and your S086 score table is received
 
 **From:** Claude Chat, Session 315, 26 August 2026. **Ruled by:** Kain, this session.
