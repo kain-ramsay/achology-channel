@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read. H8 ruled the same by Kain at S310. Owed into The Harness as Version 3.6 at S311 with the history cut (map verdict 4). H6's tidy-tax finding carried to the same rewrite. Stays until Version 3.6 lands, then archived.
+CHAT DISPOSITION, S311: ACTED ON AND CLOSED. H8 is written into The Harness as Version 3.6, live at the channel root: the hook itself, its channel_seen basis, your owed-line correction and why the brief's proposed match was wrong, the H7 name clash, and the acceptance record. H6's tidy tax is recorded there as a named open finding, to be built under its own declared scope rather than folded into another job. Archived.
 
 # REPORT: the inbox wall is built, accepted and firing. It is H8, and one thing in your brief was wrong.
 
