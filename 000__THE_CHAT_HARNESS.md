@@ -1,6 +1,6 @@
 # THE CHAT HARNESS
 
-**Version 1.11, S311. Authority: Kain Ramsay.**
+**Version 1.12, S318. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
@@ -11,6 +11,7 @@
 
 One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
 
+- **1.12, S318.** Close Step 5 gains the written-files check: the close searches the channel for every file the session claims to have written and prints found against claimed; a shortfall refuses the close. Added after S313's close recorded a Cowork brief as written that never existed, and the seventeen book notes it routed sat five sessions on that line. A mechanism tightened, not a rule added.
 - **1.11, S311.** Rules 4 and 7 moved to The Shared Rules (sections 2 and 7) and kept here as pointers under their own numbers. Version history cut to one line per version. The CHANGES section's pointer to a Cowork harness file at this root removed: no such file exists here, and the Cowork Production Harness lives at the root of the Content Production Factory folder.
 - **1.10, S309.** Open Step 1 counts both sides of the road and names the oldest FROM Chat file carrying no head line, after 42 unarchived files went unseen for thirty sessions.
 - **1.9, S280.** The report-against-theme check became a hard stop rather than a printed sentence.
@@ -89,6 +90,7 @@ The mechanisms doing reconciliation work, mapped to the drifts they catch:
 | Mechanism | The drift it catches |
 |---|---|
 | Open Step 1 and Close Step 5: the channel served both ways. The bare count is retired as proof and replaced by the two mechanisms below | Inbox rot; answers read but unused |
+| Close Step 5's written-files check: the channel is searched for every file the session claims to have written, and the line prints found against claimed; the close is refused while they differ | A close that reports a file written when none exists. S313 reported the seventeen-failures brief as written into Cowork's inbox; no such file was ever on disk, and the seventeen waited five sessions on a sentence. A search result can be read and disbelieved; a claim cannot |
 | Open Step 1's disposition line, per file: every file in Chat's inbox is listed with what happens to it this session, or the one named fact it waits on | A file read and quietly parked, invisible to Kain until he finds it himself. The count alone never caught this, because ten files read and one dispositioned still counts as ten files read |
 | The disposition written onto the file itself: before any inbox file is archived, one line at its head names what was done with it and which board cards moved; a file that stays carries one line naming the fact it waits on | The disposition being true in the message and false in fact. A message vanishes at session end, so nothing outlives it to be graded. The folder outlives everything and any mind can read it |
 | The report against the theme, a hard stop: at every open, the deployed theme version against the newest Code session report Chat has read. If the theme is ahead, the session does not proceed to any agenda: Chat finds and reads the missing reports first, or tells Kain plainly that it cannot and why. No judgement call and no discretion | A Code session that finished work and filed no report, and equally a report filed on a road Chat is not reading. Neither side has to be honest for this to fire, because both facts are read from the things themselves; and since the hard stop, the finding cannot be printed and then ignored, which is what happened at S279 |
@@ -128,4 +130,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.11.*
+*End of The Chat Harness, Version 1.12.*
