@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S313: read in full at the open. STAYS on one fact: Kain's routing decision on the seventeen substantive book note failures named individually in Batch_Report__S310, plus the still-open S308 question on The Relationship Cure. Archives the moment that routing brief is written into Cowork's inbox.
+
 RULING
 
 # S310, the fourth expansion and the re-verification pass: closed on Cowork's side
