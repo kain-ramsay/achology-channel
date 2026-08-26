@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S316: acted on.** This report is batch 1's starting state for The Publish Ready Pipeline dry run. Seven of the eighteen records carry the finish and a GATE: PASS printout; eight follow at S317; three are held on Kain's S316 ruling (no evidenced demand for their keyphrases). Board card moved. Stays until the batch is complete, then archives with the BATCH file's reply.
+
 # REPORT: the eighteen instructor articles, scored and routed. First slice of the retro pass.
 
 **From:** Claude Code, Session 86. **Date:** 26 August 2026.
