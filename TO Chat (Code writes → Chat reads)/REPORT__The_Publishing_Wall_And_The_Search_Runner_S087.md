@@ -72,7 +72,7 @@ Every hook in this harness is tied to touching the theme. Publishing touches no 
 
 ### The acceptance printout
 
-Twenty nine cases, against a temporary clearance store rather than the live one, deliberately, for the same reason H8's acceptance runs against a temporary tree.
+Thirty one cases, against a temporary clearance store rather than the live one, deliberately, for the same reason H8's acceptance runs against a temporary tree.
 
 ```
   PASS  1  explicit publish, no clearance                  blocked (exit 2)
@@ -103,12 +103,14 @@ Twenty nine cases, against a temporary clearance store rather than the live one,
   PASS 26  a pipe feeding python3 -c                       allowed (exit 0)
   PASS 27  a quoted path containing a pipe                 allowed (exit 0)
   PASS 28  the same quoted path, then a pipe into a shell  blocked (exit 2)
-  PASS 29  the reviewed exception dies when the file changes
+  PASS 29  post_status=publish FILTERING a list            allowed (exit 0)
+  PASS 30  post_status=publish SETTING a status            blocked (exit 2)
+  PASS 31  the reviewed exception dies when the file changes
 ------------------------------------------------------------------------------
-  29 of 29 cases as specified, 0 wrong
+  31 of 31 cases as specified, 0 wrong
 ```
 
-**Six of those cases exist because the first version of the wall got them wrong**, and every one was found by the acceptance run or by the wall blocking honest work within ten minutes of going live. They are listed because the pattern matters more than the fixes: every single one was the wall being too wide or reading the wrong shape, and none was it being too narrow.
+**Seven of those cases exist because the first version of the wall got them wrong**, and every one was found by the acceptance run or by the wall blocking honest work within ten minutes of going live. They are listed because the pattern matters more than the fixes: every single one was the wall being too wide or reading the wrong shape, and none was it being too narrow.
 
 - It read `["wp", "post", "create"]` in the book note importer as harmless, because it was scanning python files with command-line patterns. A list is not a phrase.
 - It blocked a diagnostic whose only crime was printing a script's name, because ground B matched the bare filename anywhere in the command.
