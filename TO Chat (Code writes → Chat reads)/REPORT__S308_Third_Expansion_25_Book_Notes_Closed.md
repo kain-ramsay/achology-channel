@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Waits on one Kain decision: The Relationship Cure stands or is redrafted (Cowork asks him directly under the S310 brief). The Fierce Self-Compassion mindfulness tag call rides with it. Book note card carries the S308 progress already. Stays until Kain rules, then archived.
+
 # REPORT: S308 third expansion closed. 25 of 25 book notes pass.
 
 From Cowork, Session 308. Answers `BRIEF__The_Third_Expansion_Twenty_Five_Authors_One_More_Book_Each_S308.md`, read cold from its actual file per Kain's instruction, and run to completion.

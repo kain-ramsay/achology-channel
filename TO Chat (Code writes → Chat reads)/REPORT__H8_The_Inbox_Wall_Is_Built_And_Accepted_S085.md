@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. H8 ruled the same by Kain at S310. Owed into The Harness as Version 3.6 at S311 with the history cut (map verdict 4). H6's tidy-tax finding carried to the same rewrite. Stays until Version 3.6 lands, then archived.
+
 # REPORT: the inbox wall is built, accepted and firing. It is H8, and one thing in your brief was wrong.
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
