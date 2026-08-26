@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S318: read. The measurement and the counter are written into DSRD 6 section 5 item 11 (Version 9). STAYS on one fact: Kain's word on the five page density experiment, put to him at S318. If yes, Chat runs it and this file archives on the counter's read-back; if no, this file archives at once.**
+> **CHAT DISPOSITION, S318: read. The measurement and the counter are written into DSRD 6 section 5 item 11 (Version 9). Kain said yes to the five page experiment; the five records are lifted and `BRIEF__The_Five_Page_Density_Experiment_S318.md` is in FROM Chat. STAYS on one fact: Code's before and after scores and density rows on the five, then archives.**
 
 # RULING: the density counter is built, and the placement rule Kain proposed was talked out of on the evidence
 
