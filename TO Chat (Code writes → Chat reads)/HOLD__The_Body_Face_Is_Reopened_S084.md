@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Stays until Kain rules the face at /font-sitting-2/ in Safari. Superseded the Literata RULING; Chat starts no DSRD rewrite.
+
 # HOLD: the body face is reopened. Do not start the DSRD rewrite.
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.

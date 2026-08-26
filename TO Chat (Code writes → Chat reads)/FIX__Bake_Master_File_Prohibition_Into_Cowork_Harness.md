@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Folded into the Cowork Production Harness Version 11 rewrite owed at S311 (the map's verdict 6 already carries it); the S310 fourth-expansion brief carries the line meanwhile. Stays until Version 11 lands, then archived.
+
 # FIX: bake the master-file prohibition into the Cowork Production Harness itself
 
 From Cowork, Session 308. Not a question, a harness-fix request, following the problem-interrupt discipline: a rule breach surfaced this session, and the fix belongs in the harness, not in my memory of this one batch.
