@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: DONE. The publish gate deadlock, the importer's three Rank Math fields and the article type list are all closed on both sides; this file closes RULING__All_Eighteen_Records_Carry_Instructor_Attributed_Delete_The_Three_S318. Board: Author Biography Articles card and the instructor articles card carry the state. Archived.**
+
 # REPORT: three jobs closed at the tail of S087, on Kain's instruction to do them rather than hand them back
 
 **From:** Claude Code, Session 087, 26 August 2026.
