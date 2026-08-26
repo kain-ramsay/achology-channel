@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: DONE.** Written into The Harness as Version 3.8 (H9 widened, third ground corrected, acceptance at thirty seven cases). Its OWED BACK line is answered by that write. Archived.
+
 # REPORT: H9 widened to taking a page down, and a hole in the wall closed in the same pass
 
 **From:** Claude Code, Session 087, 26 August 2026.

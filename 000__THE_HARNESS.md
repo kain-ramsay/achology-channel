@@ -1,6 +1,6 @@
 # THE HARNESS
 
-**Version 3.7, S317. Authority: Kain Ramsay.**
+**Version 3.8, S318. Authority: Kain Ramsay.**
 
 **Read by Claude Code at the open of every Code session, after The Shared Rules and before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
@@ -17,6 +17,7 @@ Nothing in this document is open to interpretation. Where a rule seems to have a
 
 One line per version. The reasoning behind each change lives in the handovers, the session reports and the vault, which are the records built to hold it.
 
+- **3.8, S318.** H9 widened to cover taking a live page down, built and accepted at Code's S087 on Kain's S317 ruling, and its third ground corrected in the same pass so a read verb in front of an unreadable payload no longer disarms it. Nothing added and nothing removed; a hook was tightened.
 - **3.7, S317.** H9, the publishing wall, added to Layer 2, built and accepted at Code's S087 on Kain's ruling given in session. Nothing else changed; the growth governor is met because H9 is a hook, not a rule, and it mechanises Rule 6 and Rule 8 where they already reached publishing in words only.
 - **3.6, S311.** H8, the inbox wall, added to Layer 2, built and accepted at Code's S085. Rule 4's component precedence and Rule 5's check-first paragraph moved to The Shared Rules (sections 4 and 3) and kept as pointers. Version history cut to one line per version. Every count of rules removed from prose, since Rule 10 is retired and a number in prose goes stale the moment the thing it counts moves. H6's tidy tax recorded as a named open finding.
 - **3.5, S306.** Rule 3 tightened with the derived-artefact check, after a video replacement silently orphaned 923 transcript files.
@@ -169,8 +170,10 @@ Code builds these hooks himself, in the theme repository, to this specification.
 
 **The reviewed exception register.** Three measurement scripts reach the install through `wp eval` and are permitted as reads, each recorded in `harness/h9_reviewed_scripts.json` with its reason bound to the sha256 of the exact bytes that were read. Edit one character and the exception dies, and that expiry is itself an acceptance case.
 
-**What it does not cover, named rather than assumed:** unpublishing or deleting a live page. Left out on purpose because Kain commissioned a publishing wall and widening it unasked is the Rule 3 failure. Whether it widens is Kain's word.
-*Acceptance: thirty one cases green in `harness/h9_publishing_wall_acceptance.py`, run against a temporary clearance store rather than the live one, deliberately, because a regression test that spends real clearances damages the thing it tests every time anybody runs it. Seven of the cases exist because the first version of the wall got them wrong, every one by being too wide, and all seven were found within ten minutes of going live.*
+**Taking a live page down is covered on the same terms as publishing (ruled by Kain at S317, built at Code's S087).** The wall refuses any command from Code that would take a live page out of public view: a post deleted or trashed, a post status set to draft, pending, private or trash, the theme's own delete and trash functions, or a delete against the posts table. Same clearance, minted, expiring and spent the same way. Filtering a list by draft status is a read and passes, because the wall reads what a command does rather than the words it contains, exactly as it already does for the publish status.
+
+**The third ground asks only its own question.** Until Code's S087 the unreadable-payload check stood down whenever a read verb appeared anywhere in the command, so a harmless read at the front could carry any payload behind it through the wall. Found by Code hitting the wall in ordinary work rather than by review. Now the ground asks only whether the command reaches the install and can be read; a genuine read has no substitution, no heredoc and no pipe into a shell, so it passes on its own merits and never on an exemption.
+*Acceptance: thirty seven cases green in `harness/h9_publishing_wall_acceptance.py`, run against a temporary clearance store rather than the live one, deliberately, because a regression test that spends real clearances damages the thing it tests every time anybody runs it. Seven of the cases exist because the first version of the wall got them wrong, every one by being too wide, and all seven were found within ten minutes of going live. Six more were added for the widening and the corrected third ground, and one proves a reviewed exception dies when its file changes.*
 
 The gate scripts (css_gate, page_gate, article_gate) run themselves through these hooks. What a gate script checks changes only under a commissioned brief from Chat through FROM Chat, never as Code's own idea.
 
@@ -218,4 +221,4 @@ A hook bypassed, a rule broken, an unproved claim of "done", or a change set ret
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Harness, Version 3.7.*
+*End of The Harness, Version 3.8.*
