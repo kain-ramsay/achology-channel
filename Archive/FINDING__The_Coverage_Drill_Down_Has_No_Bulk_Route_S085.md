@@ -1,4 +1,4 @@
-CHAT DISPOSITION, S310: read. Waits on one Kain decision: whole list (two days) or the traffic-carrying subset first (Code recommends the subset). Put to Kain at the S311 open; the redirect card then changes what it waits on.
+CHAT DISPOSITION, S311: ACTED ON AND CLOSED. Kain ruled the traffic-carrying subset first, the rest as a background tail, each filing its own printout; the first pass also carries the 138 broken live addresses and the 97 missing top-traffic ones. Filed as RULING__URL_Inspection_Subset_First_Then_The_Tail_S311 in FROM Chat, which also supersedes NOTE__The_Search_Console_Key_Is_On_Your_Desktop_Pull_Coverage_First_S307. The Redirect Strategy card now records the proof that no Coverage method exists, the replacement route, and what it now waits on. Archived.
 
 # FINDING: the Coverage drill-down cannot be pulled. The API has no such method, and here is the proof.
 
