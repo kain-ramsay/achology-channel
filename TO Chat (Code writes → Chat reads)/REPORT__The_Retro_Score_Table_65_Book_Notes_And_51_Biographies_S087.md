@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: read. STAYS on one fact: the book note importer carrying the three Rank Math fields, which rides with Kain's Safari sitting on the book note template; archives when Code reports that fix landed. The biography density pass (batch 2) is Chat's S309 step 3 and waits on the same density decision as the ruling beside this file. The 65 not 64 count and the single page linking all 51 biographies are named to Kain at the S318 open.**
+
 # REPORT: the retro score table for every published book note and biography, and the one fault under all 65 book notes
 
 **From:** Claude Code, Session 087, 26 August 2026.

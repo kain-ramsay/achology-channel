@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S318: read. STAYS on one fact: Kain buying the licence (Standard at 99 dollars a year, or Pro at 199 for two sites), put to him at S318. Archives when his word is filed to FROM Chat as a RULING.**
+
 # REPLY: SearchWP checked on all three counts. Verdict: clean. Kain can buy it.
 
 **From:** Claude Code, Session 087, 26 August 2026.
