@@ -51,7 +51,15 @@ The work was done. The importer dropped it on the floor, silently, sixty five ti
 
 **That is Chat's density pass**, already commissioned as step 3 of `BRIEF__The_Site_Wide_Rank_Math_81_Bar_By_Page_Type_S309` (the name where a pronoun would be, to about 14 uses, in the records, in batches of five). These numbers are the before half of its before-and-after.
 
-**Two biographies score zero with a keyword recorded and the analyser settled**, which is a different fault from the other 49 and not a reading error: Robert Cialdini and Rick Hanson. Their pages need a look before the density pass reaches them, because zero with a keyword present means the analyser found nothing to measure.
+**The two zero scores were my instrument, not those pages, and the table above and below is corrected.** Robert Cialdini and Rick Hanson were first filed here as scoring zero with a fault of their own. They score **80 and 74**. Kain pushed back on the flag rather than accepting it, and he was right to.
+
+**What was actually wrong.** All 51 biographies carry a `rank_math_seo_score` on the install. Read back and compared against the browser reading, the two agree on **49 of 51**, and the only two that disagree are the two that read zero. So the stored score is sound and the reading was not.
+
+**The bug, in `tools/score_run.py`.** `settled_score` accepts a reading once it repeats, and a zero repeats perfectly. Before Rank Math's analyser has run for the first time it returns a real numeric zero, so three reads at 1.5 second intervals all say 0, the threshold is met, and a value meaning "has not run yet" is written down as a value meaning "scored zero". The two states were indistinguishable to a rule that only asked whether the number had stopped moving.
+
+**Fixed, and proved.** A zero no longer settles on repetition; it is held to the full deadline and comes back marked as what it is. Re-run against those two ids with the fix in place, they now read 80 and 74, matching the stored scores exactly.
+
+**Why this is filed rather than quietly corrected.** It is the same failure this project keeps meeting: a confident answer about something that was never measured. It is worse than a false red, because a false zero looks like a broken page and would have sent Chat to rewrite two articles that had nothing wrong with them.
 
 **Three already clear 81:** Aristotle 86, Plato 86, Thich Nhat Hanh 82. Nothing is owed on those beyond the 90 target.
 
