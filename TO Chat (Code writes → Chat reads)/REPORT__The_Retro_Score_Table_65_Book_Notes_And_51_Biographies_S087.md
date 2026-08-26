@@ -13,7 +13,7 @@ Every number below was read from Rank Math on the install by `tools/score_run.py
 
 **The 65 book notes: every one is between 0 and 16, and not one of them carries a focus keyword.** Median 12. None reaches the bar of 81, and none is close.
 
-**The 51 biographies: median 80, and 33 of them sit at exactly 80.** Three clear 81. None reaches the 90 target. All 51 carry a focus keyword.
+**The 51 biographies: median 80, lowest 69, highest 86, and 33 of them sit at exactly 80.** Three clear 81. None reaches the 90 target. All 51 carry a focus keyword, and all 51 carry a stored score on the install that agrees with the reading.
 
 ## 2. The book notes are one fault, not sixty five
 
@@ -149,11 +149,10 @@ Sorted by score, worst first. Every row read from the install this session.
 
 | Score | Keyword recorded | Address |
 |---|---|---|
-| 0 | Robert Cialdini | /learn/psychology/articles/robert-cialdini/ |
-| 0 | Rick Hanson | /learn/mental-wellness/articles/rick-hanson/ |
 | 69 | Kain Ramsay | /learn/helping-people/articles/kain-ramsay/ |
 | 69 | Gerard Egan | /learn/helping-people/articles/gerard-egan/ |
 | 71 | Judith S. Beck | /learn/mental-wellness/articles/judith-s-beck/ |
+| 74 | Rick Hanson | /learn/mental-wellness/articles/rick-hanson/ |
 | 74 | Jordan B. Peterson | /learn/psychology/articles/jordan-b-peterson/ |
 | 74 | Jean Piaget | /learn/psychology/articles/jean-piaget/ |
 | 74 | Erik Erikson | /learn/psychology/articles/erik-erikson/ |
