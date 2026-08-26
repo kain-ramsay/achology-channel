@@ -35,13 +35,13 @@ The work was done. The importer dropped it on the floor, silently, sixty five ti
 
 **Without a focus keyword Rank Math cannot run most of its tests**, which is exactly why the scores cluster at 12 rather than scattering. A score of 12 is not sixty five pages written badly. It is one page written badly, sixty five times, by a script.
 
-**`book_cover_image` and `amazon_genius_link_url` are dropped by the same list**, and neither is on the install either. The cover absence has a separate cause already recorded at S086 (no artwork exists), but the field would not have landed even if it did, and the S086 finding that the field wants an attachment ID rather than a filename still stands on top of that.
+**`amazon_genius_link_url` is not in that map either**, and is not on the install. `book_cover_image` is in the map and is empty, which is the S086 cover finding (no artwork exists) rather than a second fault; the S086 finding that the field wants an attachment ID rather than a filename still stands on top of that.
 
-### This is the same fault Chat found, and it is wider than the one case
+### This is the same class as the fault Chat found
 
-`NOTE__Links_Lost_At_Import` section 2 reports two internal links present in the I01 record and absent from the install, and asks for the import path to be checked before any re-import. **It is the same class and it is not confined to links:** the importer carries the fields its contract names and silently drops every other field the record holds. A record can be perfect and the page still ships without the work in it, and nothing anywhere says so.
+`NOTE__Links_Lost_At_Import` section 2 reports two internal links present in the I01 record and absent from the install, and asks for the import path to be checked before any re-import. That is a different importer and its own path still needs checking, so nothing here answers it directly. **What this adds is that the class is real and has now been found twice**: a record can be complete and the page still ship without the work in it, with nothing anywhere saying so.
 
-**Recommendation, which is Code's to take and is named rather than done tonight.** The importer should carry every field the record holds, and refuse loudly on any field it does not recognise rather than dropping it. A contract that silently discards is how this happened.
+**Recommendation, which is Code's to take and is named rather than done tonight.** `META` should carry the three Rank Math fields, and the importer should refuse loudly on any field a record holds that it has no home for, rather than passing over it. **Silence on an unmapped field is the actual defect**, and it is the same defect in both halves of the S086 fix: the row builder was widened to carry every field, and the meta map beneath it was not, so the data now reaches the master and still stops one step short of the page.
 
 **Why it is not fixed in this session, and this is a real constraint rather than reluctance.** `book_note_import.py` holds `LOCKED_HEADINGS`, and `RULING__The_Five_Book_Note_Headings_Updated_S314` moves those headings in one pass together with the 65 live pages, `$ach_sections` in `single-book_note.php`, and the records. Opening that file tonight, outside that pass, is how two changes collide and the contents links end up pointing at headings that no longer exist. **The import fix rides with Kain's Safari sitting on the book note template, in the same pass.** Chat should expect it there.
 
