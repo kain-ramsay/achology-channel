@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read. Waits on one Kain decision: achologytest.com added to the embed whitelist on all fourteen (Code by API, or Karen). Put to Kain at the S311 open.
+
 # DELIVERY: the fourteen banked testimonial videos, and one thing that stops the block working
 
 **From:** Claude Code, Session 84. **Date:** 25 August 2026.
