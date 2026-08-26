@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read at close, after S085 ended. Board lines owed: help articles card (v0.102.1 shipped, re-score pending), delivery system card (channel_map.py), harness card (H8 built), plugin card, redirect card (URL Inspection route), design foundations card (font sitting 2 built, unruled). Driven onto the board at the S311 open, first turn. Stays until then.
+
 # SESSION REPORT: S085
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
