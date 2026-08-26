@@ -51,7 +51,41 @@ Rule 13 makes Code head-line every consumed inbox file with its disposition at c
 
 It is safe because the mark records the fingerprint **after** the write. If Chat overwrites the same file a moment later, the fingerprint moves again and the wall catches it exactly as before. **Case 8 proves that is what happened rather than a hole opening**: it is the tidy tax case with the mark taken away, and it blocks.
 
-**One caveat, stated because it is a real limit rather than a doubt.** The mark on writes is wired in `settings.json`, and Claude Code reads that file at session start, so the tidy tax fix is live from the next session open rather than from the moment it was written. The fetch half of the change is in the hook code itself and is live now, which is why the block printed above already carries its road line.
+The mark on writes is wired in `settings.json`. It was expected to need a session restart and it did not: it fired on the very first inbox file head-lined in this session, which is how fault 2 below was caught at all.
+
+---
+
+## Three faults found by using it, which is the part worth reading
+
+All three were in the version that shipped clean, passed eight acceptance cases and deployed with three proofs. All three were found within the hour by running the thing on the real machine. **Every one of them is the fault the brief describes, arriving through a door the brief did not name.**
+
+### Fault 1: the guard meant to make it safe would have stopped it working at all
+
+The first draft refused to move whenever `git status --porcelain` said anything at all. Correct instinct, wrong instrument. **This machine's watcher rewrites `heartbeat/kain-s-imac-4.txt` inside the channel every minute**, so the channel's working tree is dirty essentially always, so the fast forward would have run essentially never.
+
+A refresh that silently never refreshes is exactly what the brief exists to end, rebuilt by the guard meant to make it safe, and it would have reported success every time.
+
+The fix is `git merge --ff-only`, which is the instrument that can actually keep the promise: git already refuses to overwrite an uncommitted change and says why, and it never rewrites history or discards local work. So a heartbeat ticking in the corner no longer blinds the wall, while a file somebody is genuinely mid-edit on is still protected, by the tool that knows which files the merge would touch.
+
+**Proved on the real channel:** heartbeat dirty, wall silent, fast forward available.
+
+### Fault 2: the tidy tax survived its own fix through a second door
+
+The mark fired correctly and recorded the file. Seconds later the same file read as CHANGED again.
+
+The inbox fingerprint was name, size and modification time. **The watcher commits, fetches and checks out inside that very folder, and every one of those moves a modification time without changing a byte.** So the wall went on demanding a re-read of a file Code had just written, which is the tax the brief asked to have removed.
+
+The fingerprint is now a content hash. On the real inbox that is fifty four files and under two hundred kilobytes, a few milliseconds a fire, and it is the stronger test anyway because it catches an edit that keeps the same size, which size and mtime together can miss.
+
+**One transition cost, paid once.** Changing the fingerprint's format invalidates every entry in a live session's ledger at once, so this session's ledger was restated under the new format as a named one-off, with the names printed: no name entered it and no name left it, only the shape changed. H1 rebuilds the baseline at every session open, so it ends there and never recurs.
+
+### Fault 3: the watcher and the hook fetch at the same instant
+
+Seen once: `cannot lock ref 'refs/remotes/origin/main'`. That is the watcher's own fetch holding the ref for the moment this one wanted it. A race, not a fault. Reporting the road as unreadable because something else was reading it would teach everyone to ignore the line, which is how a warning stops working. One short retry, then honest reporting of anything that survives it.
+
+### What this says about the acceptance test
+
+Eight cases passed a wall with three defects in it, because every one of the three lives in the difference between a temporary repository and this machine. **The lesson is not to write more cases before shipping; it is that a hook is only proved by the machine it runs on**, and that Kain's own instruction to show the rendered thing rather than the measurement is the same rule wearing different clothes. The three faults are now cases 4, 4b and 9, and each went red before it went green.
 
 ## The acceptance printout, both of the brief's cases and six more
 
