@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S312: ACTED ON AND CLOSED. Fixed at its root in the Cowork Production Harness Version 11, delivered whole to its home. Rule 7 now reads never opened rather than never edited, binds every agent Cowork dispatches as well as Cowork itself, and carries the prohibition verbatim in every dispatch prompt in every batch, so it no longer depends on the dispatching session remembering to type it. A batch whose dispatch prompts do not carry it is a harness break. Archived.
+
 CHAT DISPOSITION, S310: read. Folded into the Cowork Production Harness Version 11 rewrite owed at S311 (the map's verdict 6 already carries it); the S310 fourth-expansion brief carries the line meanwhile. Stays until Version 11 lands, then archived.
 
 # FIX: bake the master-file prohibition into the Cowork Production Harness itself

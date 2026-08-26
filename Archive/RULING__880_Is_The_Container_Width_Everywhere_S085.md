@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S312: ACTED ON AND CLOSED. Written into DSRD 9 (section 27 rebuilt to two page widths, the 620 prose column retired to a superseded record, section 25 resolved to 880 for all ten quiet text-led pages, section 22.2 given a pointer) and into DSRD 7 (section 4.1's container token table, the measure rule kept but no longer setting a width, the S279 four-widths contradiction closed). Both change register rows written. Answered back to Code as RULING__The_880_Width_Is_Written_Into_DSRD_9_And_DSRD_7_S312 in FROM Chat. Board card touched: Knowledge Hub Page Designs. Archived.
+
 CHAT DISPOSITION, S311: READ AT CLOSE, arrived mid-session. STAYS on one fact: DSRD 9 section 27's three-width table and section 22 are owed this ruling, which supersedes the 620 prose column and the 1200 book note exception it currently records. Kain's words are unambiguous and the width is never asked again. Written into DSRD 9 at the S312 open, first documents step, then archived.
 
 # RULING: 880 is the container width for every Knowledge Hub content page, and it is never asked again

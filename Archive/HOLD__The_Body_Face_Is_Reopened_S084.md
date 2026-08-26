@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S312: CLOSED. The hold is lifted. Kain ruled the body face at the nine-way sitting and RULING__The_Body_Face_Is_Mulish_S085 records it, which this file's own condition names as what closes it. The DSRD rewrite it told Chat not to start is now owed and is tracked on the body-face work, not here. Archived.
+
 CHAT DISPOSITION, S310: read. Stays until Kain rules the face at /font-sitting-2/ in Safari. Superseded the Literata RULING; Chat starts no DSRD rewrite.
 
 # HOLD: the body face is reopened. Do not start the DSRD rewrite.

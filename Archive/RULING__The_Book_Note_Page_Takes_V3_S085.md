@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S312: ACTED ON AND CLOSED. Written into DSRD 9 section 32: the 1200px container exception retired, the travelling shelf retired, the reading zone made one 880px column, and the Table of Contents and the course card moved inside the writing. The spacing values were deliberately not written, per this file's own instruction, and section 32 is marked as no longer a complete go-live spec with two of its nine open items reopened. Archived.
+
 CHAT DISPOSITION, S311: READ AT CLOSE, arrived mid-session. STAYS on one fact: it is one decision in two parts with the 880 ruling beside it, and both are written into DSRD 9 (sections 22, 27 and 32) at the S312 open, first documents step. Its open spacing question is Kain's next book note sitting with Code in Safari, not a paper decision here.
 
 # RULING: the book note page takes V3, the article page's pattern, and its spacing is still open
