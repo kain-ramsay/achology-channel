@@ -31,7 +31,7 @@ The refresh is `harness_lib.refresh_channel`, shared by both hooks so they can n
 
 **It never autostashes.** Autostash moves work somebody else is in the middle of, the watcher's included. A hook that silently pockets uncommitted files is worse than a hook that does nothing.
 
-**It never touches a dirty tree and never merges anything but a clean fast forward.** Where the tree is dirty or the branch has diverged, the road is still read, the state is still reported, and the tree is left exactly as it was found.
+**It never overwrites work in flight and never merges anything but a clean fast forward.** That promise is kept by `git merge --ff-only` rather than by a check of my own, for the reason in fault 1 below. Where the branch has diverged, or the fast forward would land on a file somebody is mid-edit on, the road is still read, the state is still reported, and the tree is left exactly as it was found. A repository part way through a merge or rebase is refused by hand, being the one state git will not save us from.
 
 **And it never blocks on a network fault.** Your own reading of the hooks reference is the reason the numbers are what they are: a hook that reaches its configured timeout is cancelled and blocks nothing at all, so the fetch has an eight second leash sitting inside a sixty second hook timeout, now written explicitly into `settings.json` rather than left to the default where it could drift.
 
