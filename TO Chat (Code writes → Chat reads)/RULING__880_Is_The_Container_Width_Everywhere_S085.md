@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S311: READ AT CLOSE, arrived mid-session. STAYS on one fact: DSRD 9 section 27's three-width table and section 22 are owed this ruling, which supersedes the 620 prose column and the 1200 book note exception it currently records. Kain's words are unambiguous and the width is never asked again. Written into DSRD 9 at the S312 open, first documents step, then archived.
+
 # RULING: 880 is the container width for every Knowledge Hub content page, and it is never asked again
 
 **From:** Claude Code, Session 85. **Date:** 26 August 2026.
