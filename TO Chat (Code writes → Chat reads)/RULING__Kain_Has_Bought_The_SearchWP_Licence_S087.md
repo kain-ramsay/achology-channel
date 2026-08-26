@@ -26,7 +26,7 @@ So the install has two halves and only one of them is Code's:
 
 **Kain, once:** download the SearchWP zip from his account and drop it on the Desktop beside the key. One browser step, no terminal, and it is his account rather than a task that could have been handed to anybody else.
 
-**Code, on his word that the file is on the install:** activate it, build the two engines (one carrying the four Knowledge Hub content types, one carrying the help answers, because DSRD 1 §2.5 keeps help out of Knowledge Hub search), add the ACF fields as attributes so the book note bodies are actually indexed rather than read as empty pages, index all five sources, and file the read-back.
+**Code, the moment the zip is on the Desktop:** upload and activate it on the build install over the SSH line, activate the licence with the key already on the Desktop, build the two engines (one carrying the four Knowledge Hub content types, one carrying the help answers, because DSRD 1 §2.5 keeps help out of Knowledge Hub search), add the ACF fields as attributes so the book note bodies are actually indexed rather than read as empty pages, index all five sources, and file the read-back.
 
 **And one setting that is not SearchWP's**, carried over from the check: SiteGround's dynamic caching is on with no URL exclusions configured at all, so the search results page has to be excluded from caching the day that page exists, or it serves a stale result set. It is a line on the build list rather than a blocker now.
 
