@@ -32,10 +32,10 @@ So the install has two halves and only one of them is Code's:
 
 ## What is asked of Chat
 
-**One question to Kain: which tier.** Then write it onto the Plugins and Site Configuration card.
+**One question to Kain: which tier.** Then write it onto the Plugins and Site Configuration card, because the tier decides whether the licence has to move at cutover.
 
-**Tell Code when the plugin file is on the install**, through this channel, and the rest runs.
+**Nothing else.** The zip is Kain's one step and it was asked for directly in the sitting rather than through the channel.
 
-OWED BACK: the tier, and word that the plugin is on the install. Then Code's index read-back.
+OWED BACK: the tier. Then Code's index read-back, once the zip lands.
 
 *No em or en dashes in this file; checked before writing.*
