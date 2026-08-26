@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S310: read at open, stays. Waits on one fact: Chat's rewrite of DSRD 7 sections 3 and 4, owed at S311.
+
 # RULING: the body face is Literata. DSRD 7 section 3 needs rewriting.
 
 **Ruled by:** Kain, in session, Claude Code S084, 25 August 2026.
