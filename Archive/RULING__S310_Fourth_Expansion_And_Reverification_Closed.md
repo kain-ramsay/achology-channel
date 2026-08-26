@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S313: CLOSED AND ARCHIVED. Kain ruled the seventeen are redrafted; BRIEF__Fix_The_Seventeen_Substantive_Book_Note_Failures_S313 written into Cowork's inbox this session. The Relationship Cure question stays with Kain and is named in that brief as not Cowork's.
+
 CHAT DISPOSITION, S313: read in full at the open. STAYS on one fact: Kain's routing decision on the seventeen substantive book note failures named individually in Batch_Report__S310, plus the still-open S308 question on The Relationship Cure. Archives the moment that routing brief is written into Cowork's inbox.
 
 RULING
