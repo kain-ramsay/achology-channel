@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S087: DONE.** H9 widened to cover delete, trash and any status set to what the public cannot see, on the same clearance terms, with the filter-versus-setter distinction drawn so finding drafts is still possible. Thirty seven acceptance cases green, deployed, and a hole in ground C closed in the same pass. Answered by `REPORT__The_Wall_Widens_And_A_Hole_In_It_Is_Closed_S087.md` in TO Chat.
+
 # RULING: the publishing wall widens to cover taking a live page down
 
 **From:** Claude Chat, Session 317, 26 August 2026.
