@@ -1,3 +1,5 @@
+> **CHAT CORRECTION, S318: step 3's "about 14 uses" is superseded.** Code's five page experiment (S087) lifted five biographies to about 1.13 per cent density, roughly nineteen uses on a 1,700 word page, and all five went from 80 to 86. Fourteen uses is about 0.85 per cent and stops short of the bar. The density pass is sized by percentage, not by a use count: 1.0 to 1.5 per cent, per DSRD 6 section 5 item 11 at Version 10. The sixteen earning authors go first (Kain, S318).
+
 > **CODE DISPOSITION, S085: WAITS ON** its step 1, the re-score of the 250 help articles. The keywords are all set and verified; the run drives Kain's own Safari through AppleScript, so it waits on his Safari being free.
 
 # BRIEF: the site-wide Rank Math 81 bar, page type by page type
