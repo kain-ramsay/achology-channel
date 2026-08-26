@@ -27,7 +27,7 @@ Nine plugins are active. There are no inactive plugins and no must-use plugins.
 
 **On the list and installed:** ACF PRO, Rank Math SEO (and Pro), WP All Import and its Rank Math companion, SiteGround Speed Optimizer, Complianz.
 
-**On the list and NOT installed, ten of them:** SearchWP, Kit's own WordPress plugin, the one lightweight contact form plugin for the enquiries form, EWWW Image Optimizer, WP Offload Media, Index WP MySQL For Speed, Wordfence Security, Zero Spam, WP Mail SMTP Pro, GTM4WP, FileBird Pro, WPCode Lite, Members, WP Crontrol.
+**On the list and NOT installed, fourteen of them:** SearchWP, Kit's own WordPress plugin, the one lightweight contact form plugin for the enquiries form, EWWW Image Optimizer, WP Offload Media, Index WP MySQL For Speed, Wordfence Security, Zero Spam, WP Mail SMTP Pro, GTM4WP, FileBird Pro, WPCode Lite, Members, WP Crontrol.
 
 **Installed and not on the list, two:** sg-security and wordpress-starter, both SiteGround's own and both arriving with the hosting rather than being chosen. Worth a row on the card so nobody treats them as drift.
 
