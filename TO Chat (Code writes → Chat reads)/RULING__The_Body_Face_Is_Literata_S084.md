@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S313: CLOSED AND ARCHIVED. Superseded by the Mulish ruling and now spent: DSRD 7 section 3 records Literata as having held the role for one day and been overturned by Kain himself, so the history this file carries is written into the document that owns it.
+
 CHAT DISPOSITION, S310: read. Superseded by HOLD__The_Body_Face_Is_Reopened_S084; stays until Kain rules the face in Safari, then closes with the DSRD 7 rewrite.
 
 # RULING: the body face is Literata. DSRD 7 section 3 needs rewriting.

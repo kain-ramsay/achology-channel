@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S313: CLOSED AND ARCHIVED. The one fact it waited on is cleared: DSRD 7 sections 3 and 3.2 are rewritten to Mulish, so the four waivers on the book note card's build sheet can now be corrected to match the theme rather than sitting against a superseded specification. The header sitting's priority stays on the Cards and Chrome Sweep card.
+
 CHAT DISPOSITION, S311: first question ACTED ON. Kain ruled: the book note page's kh-section header IS the approved section header component, one home, rebuilt next time that page is touched, Kain rules it in Safari. Filed as RULING__The_Book_Note_Section_Header_Is_The_Component_S311 in FROM Chat. The header sitting's priority is written onto the Cards and Chrome Sweep card. STAYS on one fact only: the four Literata waivers on the book note card's sheet wait on DSRD 7 sections 3 and 4 being rewritten to Mulish, owed by Chat this session. Archives when that lands.
 
 # FINDING: the site header has never been checked against its record, and the section header was never built
