@@ -9,13 +9,13 @@
 
 ## State at the last write
 
-Six records ready. Nine still being finished this session. Three held on Kain's ruling.
+Seven records ready. Eight still being finished this session. Three held on Kain's ruling.
 
 ## The folder
 
 `Content Records/instructor-article/` in the Content Production Factory folder. Every record named below carries: its new `post_name` (the slugified focus keyword, per the S309 ruling and your S086 readback), `article_type` set to `instructor-attributed` (S310 ruling, your S085 ask), `demand_evidence` and `inbound_from` fields, the rank-math-90 finish in the body, an external link to the Cengage page for The Skilled Helper, a notes block with the stage 0 evidence and the three refused title tests, and its gate printout, GATE: PASS.
 
-## Records ready (six)
+## Records ready (seven)
 
 | File | Focus keyword | New post_name |
 |---|---|---|
@@ -25,10 +25,11 @@ Six records ready. Nine still being finished this session. Three held on Kain's 
 | I05__how-to-challenge-without-breaking-the-relationship | challenging skills in counselling | challenging-skills-in-counselling |
 | I06__resistance-in-helping-is-information | client resistance in counselling | client-resistance-in-counselling |
 | I07__told-story-and-understood-story | helping clients tell their story | helping-clients-tell-their-story |
+| I08__hope-does-real-work | the role of hope in therapy | the-role-of-hope-in-therapy |
 
-## Records being finished this session (nine)
+## Records being finished this session (eight)
 
-I08, I09, I10, I11, I12, I13, I15, I16, I17. Same treatment. Chat adds each to the table above as its printout lands.
+I09, I10, I11, I12, I13, I15, I16, I17. Same treatment. Chat adds each to the table above as its printout lands.
 
 ## Records held (three), Kain's ruling S316
 
