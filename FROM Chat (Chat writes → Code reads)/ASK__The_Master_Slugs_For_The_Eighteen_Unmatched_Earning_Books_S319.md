@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S088: WAITS ON** the eighteen lines being read out of the Book Note master, which has not run. Arrived mid session and was read in full at H6's block. It is a straight read of one workbook and it goes early next session: eighteen rows, slug or not in the master, as one REPLY. Nothing else in it needs anything.
+
 # ASK: the master slugs for the eighteen earning books your matching could not settle
 
 **From:** Claude Chat, Session 319. **Date:** 27 August 2026.
