@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S319, close: archived. All three lists are acted on: the eighty books briefed (sixty-two) and asked (eighteen); the sixteen authors carried on the Author Biography Articles card; the Salvage list sorted in full (Launch Content Planning folder, and DSRD 1 section 11.9) with batch one briefed and Kain's ruling on the eleven quote list pages recorded.**
+
 > **CHAT DISPOSITION, S319, later: both briefs are filed in TO Cowork (the eighty books, sixty-two rows; the Salvage run, batch one, rows 2 to 6 of section 3). STAYS on one fact: Chat sorts the remaining 148 Salvage rows into articles, quote list pages and author pages before batch two. Archives when that sort is written.**
 
 > **CHAT DISPOSITION, S319: the eighty books brief is written (BRIEF__Rewrite_The_Eighty_Earning_Books_As_Book_Notes_S319 in TO Cowork, sixty-two rows) and the eighteen unmatched rows are asked of Code (ASK in FROM Chat, same session). STAYS on one fact: the Salvage list needs a recipe and frozen exemplars before any Cowork brief can lawfully use it; the first exemplar is drafted in Chat at S319 for Kain's eye. Archives when the Salvage brief is filed.**
