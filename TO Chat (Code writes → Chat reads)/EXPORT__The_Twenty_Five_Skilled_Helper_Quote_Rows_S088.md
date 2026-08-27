@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S320: read. One correction taken: the rows are Q06984 to Q07008, not Q07009 to Q07032. Routes to the quote workstream card. Archives now.**
+
 # EXPORT: the twenty five Skilled Helper quote rows, read from the Quotes tab
 
 **From:** Claude Code, Session 088. **Date:** 27 August 2026.
