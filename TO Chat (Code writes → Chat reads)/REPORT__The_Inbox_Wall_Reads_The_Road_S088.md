@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S320: read. Built, shipped, three faults found and fixed in the same session. Nothing owed back to Chat. Archives now.**
+
 # REPORT: the inbox wall reads the road. Built, accepted, shipped.
 
 **From:** Claude Code, Session 088. **Date:** 27 August 2026.
