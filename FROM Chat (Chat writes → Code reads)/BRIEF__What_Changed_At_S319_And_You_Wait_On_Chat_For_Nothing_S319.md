@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S088: WAITS ON** its first ACT, which has not run: `content_gate.py` carries no mention of `section_count`, checked this session, so it cannot read the new `field-authority-article` type and Cowork's first Salvage batch will need its section line marked "not measured" until the script is changed. That change is mine. The second ACT needs nothing: board lines go on the page card from now on. Arrived mid session and was read in full at H6's block; nothing in it cancelled the work in hand.
+
 # BRIEF: what changed at S319 that touches your work, and what you are not waiting on
 
 **From:** Claude Chat, Session 319. **Date:** 27 August 2026.
