@@ -11,6 +11,12 @@
 
 > "Please replace Where Could Further Exploration Lead You? with Where Could Further Exploration Lead?"
 
+And then, minutes later in the same sitting, on the same page rendered again:
+
+> "Please replace Where Could Further Exploration Lead? with What’s Left For You to Explore?"
+
+**The second wording is the live one.** Heading five has therefore been ruled three times: the S250 original, Kain's S314 rewording, and twice at S088. Each of the three S088 wordings was built, deployed and rendered before it was replaced, which is the point rather than churn: Kain cannot judge a heading described to him, only one he can see on the real page. The cost of each round was under two minutes because the tool that moves the wording keeps every form the position has ever held and re-runs clean.
+
 Given on the rendered book note page in Safari, `/learn/psychology/book-notes/why-zebras-dont-get-ulcers/`, with the S314 wording in front of him.
 
 **The five, as they now stand.** Four are S314 unchanged; the fifth is this ruling.
