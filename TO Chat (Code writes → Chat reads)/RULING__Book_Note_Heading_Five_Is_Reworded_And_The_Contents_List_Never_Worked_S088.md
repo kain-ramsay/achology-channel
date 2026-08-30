@@ -25,7 +25,7 @@ Given on the rendered book note page in Safari, `/learn/psychology/book-notes/wh
 2. Where the Author is Coming From
 3. What Could this Mean for Society?
 4. What You Can Take From the Book
-5. **Where Could Further Exploration Lead?**
+5. **What’s Left For You to Explore?**
 
 It keeps the open question form Kain ruled at S314 and drops the second person. Applied and read back on the rendered page in the same sitting.
 
