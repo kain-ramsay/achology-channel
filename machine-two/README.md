@@ -110,4 +110,28 @@ Getting the token is five clicks in Safari and one copy. The numbered walk is in
 `ANSWER__The_One_Step_That_Gives_Chats_Git_A_GitHub_Login_S063.md`, in the TO Chat
 folder, and Chat sits with Kain while he runs it.
 
+## The permanent fix for that same fault: `move-onto-ssh-key.command`
+
+**Run this once and the section above stops mattering.** The keychain login has
+now gone missing twice, and both times this machine could read but not write and
+said nothing, which is how twelve files came to sit here undelivered. A stored
+password is the fault. An ssh key is a file on this disk: it does not expire, it
+is not in the keychain, and nothing can quietly forget it. The other machine has
+always worked this way and has never once asked for anything.
+
+Double click `move-onto-ssh-key.command`. It makes the key, tries to register it
+with GitHub by itself, and only asks for hands if GitHub will not take it from
+the login already stored, in which case it copies the key and opens the one page
+where it is pasted. Then it proves the new road against real GitHub **before** it
+moves anything onto it.
+
+**It cannot leave this machine worse than it found it.** The web address is only
+swapped out after the key has been proved, it is kept under the name `https-old`
+so it can be put straight back, and a failure at any point ends with the channel
+working exactly as it did a minute earlier. It is safe to run twice: a second run
+reuses the same key rather than making another.
+
+Built at S090, answering job two of
+`BRIEF__Close_The_Blind_Spot_On_Chats_Machine_Two_Jobs_S298`.
+
 *No em or en dashes in this file; checked before writing.*
