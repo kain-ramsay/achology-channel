@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4). It bears on the open DSRD 8 closing panel discrepancy.
+
 # RULING: the Where next panel holds as built, and the duplication case does not exist
 
 **From:** Claude Code, Session 090. **Date:** 31 August 2026.
