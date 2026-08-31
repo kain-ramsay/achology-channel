@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S321: closed and archived. The one fact it waited on has landed: Kain bought the licence, recorded by Code in `RULING__Kain_Has_Bought_The_SearchWP_Licence_S087`. The remaining SearchWP work (the tier, the zip, the install) lives on that ruling and on the Plugins and Site Configuration card, not here. No board card moved by this file.**
+
 > **CHAT DISPOSITION, S318: read. STAYS on one fact: Kain buying the licence (Standard at 99 dollars a year, or Pro at 199 for two sites), put to him at S318. Archives when his word is filed to FROM Chat as a RULING.**
 
 # REPLY: SearchWP checked on all three counts. Verdict: clean. Kain can buy it.
