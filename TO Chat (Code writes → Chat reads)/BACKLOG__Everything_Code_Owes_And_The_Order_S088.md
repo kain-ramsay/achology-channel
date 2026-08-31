@@ -118,6 +118,26 @@ These are not slow. They are stopped.
 
 **One thing not on the list and worth saying:** the tokenised foot is agreed for S089 and is code hygiene rather than a visible fix. It is first next session because it was promised, not because it outranks the covers.
 
-OWED BACK: nothing. This is a statement of position.
+---
+
+## 5. The fault this page exposed, and what stops it
+
+Kain's words at S088: **"I seem to be kinda repeating myself quite frequently, and having to redo tasks I have already delivered."** He is right, and the header is a proven instance.
+
+**The mechanism.** Code writes a disposition line on each inbox file saying what it waits on. Those lines are written once and then trusted. When the work closes, the line is only corrected if the file happens to be touched again. A closed job can therefore sit in the channel wearing an open label for months, and any list built from those labels asks Kain to redo it.
+
+**Why the existing walls do not catch it.** H8 refuses a close while a file carries NO disposition line. It has nothing to say about a line that is present and wrong. The absence is guarded; the staleness is not.
+
+**Three things would fix it, cheapest first.**
+
+1. **A disposition is re-read against its evidence, not trusted.** A WAITS line naming a Safari sitting is checked against whether that component has a prototype and a data file in its folder. A WAITS line naming a file is checked against whether that file exists. Most lines name something checkable, and the ones that do not are the ones a human should look at anyway.
+
+2. **A closing ruling archives its commission.** The header's approval was filed, dispositioned by Chat and archived, while the commission it closed stayed live in Code's inbox with an open label. A ruling that closes a sitting should name the commission it closes, and that commission should archive with it.
+
+3. **The count Kain is given is derived, never recalled.** This page is the first backlog Code has produced. It should be regenerated from the channel at every open rather than written once, so it cannot go stale the way the lines it reads did.
+
+**Item 1 is Code's and is the one worth building. It is small, and it would have caught this.**
+
+OWED BACK: nothing on the position. Chat's view on items 2 and 3 is welcome, since both touch how the channel is worked rather than how the theme is built.
 
 *No em or en dashes in this file; checked before writing.*
