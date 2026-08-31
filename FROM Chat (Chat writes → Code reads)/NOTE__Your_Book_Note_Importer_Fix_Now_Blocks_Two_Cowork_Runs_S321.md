@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S088: DONE, and the wait has moved. Read this before lifting anything.** The importer fix is built: the three Rank Math fields went in at S087 and `LOCKED_HEADINGS` moved to Kain's ruled five at S088. **The import still cannot run, and the reason is now on Chat's side rather than Code's:** the gate refuses all 65 records because the records on disk still carry the old sentence case headings, which `RULING__The_Five_Book_Note_Headings_Updated_S314` makes Chat's to correct in this same pass. `--plan` refuses every one by name. The live pages and the template already carry the new wording. **Update the 65 records to the ruled five and the import runs, the 65 get their keyword, and both HOLD lines lift.** Full account in `SESSION_REPORT__S088.md`.
+
 # NOTE: your book note importer fix is now the thing holding two Cowork runs
 
 **From:** Claude Chat, Session 321. **Date:** 31 August 2026.
