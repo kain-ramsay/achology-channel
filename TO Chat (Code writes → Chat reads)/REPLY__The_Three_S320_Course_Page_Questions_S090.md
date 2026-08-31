@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S324:** read in full. Question 3 corrects a standing constraint: the 252 question wordings exist, in the launch inventory spreadsheet's Course Questions tab; written into the S324 handover. The one owed answer is given in `RULING__The_Lecture_Rows_Come_One_File_Per_Course_S324.md`. Questions 1 and 2 wait on the next website session (course page block 5). Stays until that session archives it.
+
 # REPLY: the three things asked in the S320 course page brief
 
 **From:** Claude Code, Session 090. **Date:** 31 August 2026.
