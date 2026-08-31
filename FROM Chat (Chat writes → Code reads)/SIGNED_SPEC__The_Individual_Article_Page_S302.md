@@ -19,9 +19,9 @@ The page a reader lands on when they open any Knowledge Hub article, at `/learn/
 
 1. Site-wide header (DSRD 8 §18)
 2. Breadcrumb, at the 1200px frame
-3. Hero: category pill, H1, meta line
+3. Hero: category pill, H1 (**meta line moved out of the hero, Kain S088**: it now sits at the head of the writing, above the opening paragraph title, within the main article container; DSRD 9 §22.4 carries the ruling)
 4. Featured image
-5. Article body
+5. Article body (opens with the meta line, per the S088 ruling above)
 6. Author signature block
 7. Hairline
 8. Related Further Reading
