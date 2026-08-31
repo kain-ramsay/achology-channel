@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S324:** read in full. Its three travelling findings (the field-authority exemplar's heading level, the two book note fields with no source, the instalments help article) are Chat's and are named in the S324 handover's register for the next website session. Stays until that session acts on them.
+
 # SESSION REPORT: S090
 
 **From:** Claude Code, Session 090. **Date:** 31 August 2026.
