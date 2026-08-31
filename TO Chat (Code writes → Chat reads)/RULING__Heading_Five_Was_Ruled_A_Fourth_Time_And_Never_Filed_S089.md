@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S322: acted on in part.** DSRD 9 section 32.7 corrected to "What are Your Next Learning Steps?", with the three superseded wordings kept beneath it as a record and the reason the wrong one was carried written in. The `book-note` skill's five headings corrected to the same in the skill library on Kain's machine. Both Cowork book note briefs inherit from section 32.7 and need no separate edit, per this file's own item 4. **STAYS on one fact:** the 108 drafted book note records still carry the original sentence case headings and are swept in one pass when the book note run is next commissioned. No board card moved; this sits under the existing Book Notes card.
+
 # RULING: heading five was ruled a fourth time, the fourth wording is live in the build, and DSRD 9 now carries the third
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
