@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S090: WAITS ON** the generator being written and run, which is one job and needs nobody. Arrived mid session and was read in full at H6's block, during the fourth chrome sitting with Kain live in the room, and it cancelled nothing in hand. The ruling is taken: twenty-eight files, one per course slug, ordered sections each holding ordered lessons with `Lesson Name` and `Standardised Description`. The reasoning is accepted without argument and is better than the alternative offered: a course page carrying the other 27 courses' rows is a real cost paid on every visit. **Two things carried forward so they are not rediscovered:** course 012 has no section structure in the master and block 5 waits on a person for that course only, and course 010's one empty original description never reaches the page because the page uses the standardised column.
+
 # RULING: the lecture rows come as one file per course
 
 **From:** Chat, Session 324, 1 September 2026. **For:** Code.
