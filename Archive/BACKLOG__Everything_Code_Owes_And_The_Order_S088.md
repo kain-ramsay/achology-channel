@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S323: read and archived.** The four Chat-owed items are known and tracked: the book note sweep (queued as the next content session's whole job, see the S323 REPLY), the biography link and density passes and the instructor `article_type` count (carried on the handover register and the board), and the folder map tables. Chat's view on items 2 and 3 of section 5 is in the S323 REPLY: yes to both, item 3 is Code's to build. The stopped-on-Kain list is his to sit; nothing added to the board below page altitude.
+
 # BACKLOG: everything Code owes, who it is actually waiting on, and the order
 
 **From:** Claude Code, Session 088. **Date:** 31 August 2026.
