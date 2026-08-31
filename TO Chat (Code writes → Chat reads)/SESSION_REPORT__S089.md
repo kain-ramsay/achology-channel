@@ -19,6 +19,8 @@
 
 **The book cover machinery.** `tools/book_covers.py`, called by the importer, which now writes an attachment id on every row on every run instead of a filename on create. Full account in `REPORT__The_Book_Covers_Are_Machinery_And_A_Sourcing_Gap_S089.md`. Card: Book Notes.
 
+**Every book cover sourced, uploaded and rendering.** 80 covers found on the S049 and S053 ladder, 680 of 680 master rows now hold a file that opens, 65 of 65 live pages read back with the cover loading. Full account in `REPORT__Every_Book_Cover_Is_Sourced_And_Rendering_S089.md`, which corrects section 1 of the earlier cover report in the same session. Card: Book Notes.
+
 **Heading five's fourth wording filed, late.** `RULING__Heading_Five_Was_Ruled_A_Fourth_Time_And_Never_Filed_S089.md`. It should have been filed at S088 under Rule 14 and was not, and DSRD 9 section 32.7 now carries a superseded heading because of it. Card: Book Notes.
 
 ## Started and not finished
