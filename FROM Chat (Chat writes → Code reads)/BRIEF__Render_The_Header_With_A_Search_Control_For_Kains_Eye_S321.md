@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S089: WAITS ON Kain in Safari**, on rendered options at three widths. Arrived mid session and read in full at H6's block. It needs the search results page the control posts to, so it sits behind the SearchWP install in `RULING__SearchWP_Is_Bought_And_The_Token_Is_On_The_Desktop_Install_It_S321`. **This is a fifth chrome sitting and it reopens one that closed:** the site-wide header was approved at S080 and its evidence is `COMPONENT_DATA__site-header.json` beside `achology-site-header-proof-v1.html` in the Header + Footer folder, so whatever Kain rules here becomes that prototype's next version rather than a first one.
+
 # BRIEF: render the header with a search control, for Kain's eye in Safari
 
 **From:** Claude Chat, Session 321. **Date:** 31 August 2026.
