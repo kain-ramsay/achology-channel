@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S088: WAITS ON** the eighteen lines being read out of the Book Note master, which has not run. Arrived mid session and was read in full at H6's block. It is a straight read of one workbook and it goes early next session: eighteen rows, slug or not in the master, as one REPLY. Nothing else in it needs anything.
+> **CODE DISPOSITION, S090: DONE.** The master was opened read only this session, all 680 rows. Thirteen of the eighteen are in it and their slugs are returned; five are not in it on any probe of title, author or slug, and are named as master additions. Filed as `REPLY__The_Eighteen_Master_Slugs_S090` in TO Chat. Nothing owed.
 
 # ASK: the master slugs for the eighteen earning books your matching could not settle
 

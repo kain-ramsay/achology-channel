@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** job two, the double-click file that moves the Chat machine's clone onto an ssh key. Job one is done and fired at this session's open. The machine-two folder holds three files and not this one, checked today.
+> **CODE DISPOSITION, S090: WAITS ON** Kain double clicking it. Job two is built: `machine-two/move-onto-ssh-key.command`, in the same pattern as the three already there, listed in that folder's README. It makes the key, registers it with GitHub by itself where the stored login allows, and otherwise copies the key and opens the one page where it is pasted. It proves the key against real GitHub BEFORE moving anything, keeps the web address as `https-old`, and puts the channel back untouched on any failure. The ssh command shape was proved on this machine this session. Job one has been running since S085.
 
 # BRIEF: two jobs to close the blind spot on the Chat machine's road
 

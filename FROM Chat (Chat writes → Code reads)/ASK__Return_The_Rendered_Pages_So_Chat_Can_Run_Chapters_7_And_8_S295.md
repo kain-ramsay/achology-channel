@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** each further page reaching its gate. Two artefact sets are delivered and sitting in TO Chat, About and the Learn Helping People article; the rest arrive one page at a time as the page work runs.
+> **CODE DISPOSITION, S090: DONE.** Settled by the same reply as its S318 companion: `REPLY__The_Route_For_The_S079_Captures_S090` in TO Chat. Pages no longer travel as captures; the live address is fetchable and is named there. Nothing owed.
 
 # ASK: send the rendered pages back through the channel, so Chat can run chapters 7 and 8
 

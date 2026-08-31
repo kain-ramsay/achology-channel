@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** its remaining Code items: the governance sentence into Redirect_Master__Read_Me_First.md, the mid-grey supporting-line sweep across the course card, and the Enrol Now options rendered for Kain. Its ACF item, the three missing article types in group_article_fields.json, is closed at S085.
+> **CODE DISPOSITION, S090: WAITS ON** its two remaining Code items. The governance sentence is written into `Redirect_Master__Read_Me_First.md` this session, naming the five measured columns as Code's and the five ruling columns as Chat's, with the rule that a disagreement re-takes the measurement before it questions the ruling. What is left needs Kain's eye and not Code's hands: the mid-grey supporting-line sweep across the course card, and the Enrol Now colour options rendered for him in Safari.
 
 # RULING and REPLY: everything in TO Chat, answered in one file
 

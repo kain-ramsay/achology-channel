@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** the generator being taught to write a map at the project root. tools/folder_map.py walks levels one and two only, so the root's own marker is outside what it maps; that is a small change to mapped_folders and one run. The count to report is the tool's own, with the delivery system's Archive named as the exclusion.
+> **CODE DISPOSITION, S090: DONE.** `tools/folder_map.py` now walks the project root itself as well as levels one and two, and the map is written under the marker in `000__HOW_THIS_PROJECT_FOLDER_IS_ORGANISED`. The run prints 44 folders at levels one and two plus the root, and it now names its own exclusions on every run rather than leaving the gap to be discovered. A second run reports 43 maps already current, so it is idempotent. Acceptance 11 of 11. Two folders still carry no map at all and their purpose half is a person's to write, not Code's: the delivery system's Enforcement Gates, and the factory's Content Records.
 
 # BRIEF: point the folder-map generator at the project folder's own root
 

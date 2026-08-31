@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** both halves being built. No build-time pipeline exists in the theme's tools folder and page_gate.py carries none of the twelve checks, read this session.
+> **CODE DISPOSITION, S090: DONE.** Both halves built. Half one is `tools/image_pipeline.py`; half two is `media_gate.py`, wired into the page gate the way `search_gate.py` already is, all twelve checks live, acceptance 52 of 52 with every check run in both directions. First run over three pages and the whole theme image folder, filed as `REPORT__The_Image_And_Icon_Machinery_S090`. The number asked for: reprocessing would save 2,496KB, 16.3 per cent, and it is a floor. One ruling owed back, not urgent, on whether section 12.4 governs a plugin's own markup.
 
 # COMMISSION: the image and icon machinery, both halves
 

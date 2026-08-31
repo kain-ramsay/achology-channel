@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** Kit's plugin being installed on the build install and both checks run: whether the consent banner blocks its form script, and whether the shortcode renders inside a real theme template. The do-not-install line that blocked this is lifted by this ruling.
+> **CODE DISPOSITION, S090: WAITS ON** Kain connecting the Kit account, one OAuth click in the WordPress admin. The plugin is installed and active, version 3.4.0, and kept. **Check one is fully answered** and in the stronger of the two forms this ruling asked for: not blocked ON ITS OWN TERMS, because Complianz ships no rule naming Kit anywhere in its 106 integrations. **Check two is source-proved and one step short:** the shortcode shares its render callback with the block and needs nothing from Gutenberg, but the form HTML comes from a resource cache the account fills. Filed as `REPORT__The_Two_Kit_Plugin_Checks_S090`.
 
 # RULING: install Kit's plugin on the build install and run both checks
 

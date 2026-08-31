@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** the Vimeo API pass. Fourteen videos in folder 20119371, privacy.embed whitelist gains achologytest.com, nothing else on the account touched, then a per-video read-back filed to TO Chat.
+> **CODE DISPOSITION, S090: DONE.** One pass over the Vimeo API, fourteen videos found in folder 20119371, fourteen written, none refused. Every row read back off the API after the write and filed as `REPORT__The_Fourteen_Testimonial_Videos_Whitelisted_S090`. Nothing else on the account touched; `kaintamsay.com` deliberately left. The tool is committed as `tools/vimeo_embed_whitelist.py` rather than left in a scratchpad.
 
 # RULING: add achologytest.com to the embed whitelist on all fourteen testimonial videos
 

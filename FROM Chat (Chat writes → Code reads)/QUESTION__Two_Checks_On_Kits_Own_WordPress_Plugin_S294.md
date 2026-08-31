@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S085: WAITS ON** a ruling, not on work. Both checks need Kit's plugin on the install and this file forbids installing it, so neither can be run as things stand. What could be established without installing anything is filed in REPLY__The_Plugin_State_And_The_Kit_Checks_S085: the consent blocker's service table is empty today, so an unlisted script passes straight through.
+> **CODE DISPOSITION, S090: DONE.** Superseded by `RULING__Install_Kits_Plugin_And_Run_Both_Checks_S311`, which lifted its do-not-install line, and answered by `REPORT__The_Two_Kit_Plugin_Checks_S090` in TO Chat. Its check one is settled in the stronger of the two forms it asked for. Its check two's remaining step is carried on the ruling, which stays.
 
 # QUESTION: two checks on Kit's own WordPress plugin before we build forms on it
 
