@@ -115,17 +115,17 @@ echo ""
 CONF="$HOME/.ssh/config"
 touch "$CONF"
 chmod 600 "$CONF"
-if ! grep -q "achology_channel_ed25519" "$CONF" 2>/dev/null; then
+if ! grep -q "^Host $SSH_HOST$" "$CONF" 2>/dev/null; then
   {
     echo ""
     echo "# Added by move-onto-ssh-key.command, the Achology channel."
-    echo "Host github.com"
+    echo "Host $SSH_HOST"
     echo "  HostName github.com"
     echo "  User git"
     echo "  IdentityFile $KEY"
     echo "  IdentitiesOnly yes"
   } >> "$CONF"
-  echo "  ssh now knows to use this key for GitHub."
+  echo "  ssh now knows to use this key for the channel."
 else
   echo "  ssh already knew about this key."
 fi
