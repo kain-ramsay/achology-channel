@@ -38,9 +38,46 @@ Assembled from the version control log of the three repositories, plus the hand-
 
 The policy page widths, 620 to 880, and the four content templates. Both need his eye on one rendered page first.
 
-## What did not ship
+## The session did not end where this report first said it did
 
-**No theme version bump and no deploy, and that is correct rather than an omission.** Everything built this session is tooling: two gate modules, three tools and their acceptance files. Not one line of rendered CSS or template markup changed, so there is nothing for a browser to cache and nothing for a visitor to see.
+**This section originally read "no theme version bump and no deploy", and it was true when it was written.** Kain then asked for the chrome sitting immediately rather than next session, and the session ran on for four sittings and eight ships. **A report that says nothing shipped when eight versions shipped is the exact drift Rule 13 exists to prevent**, so it is corrected here rather than left standing, and the correction is named rather than made quietly.
+
+### The four chrome sittings, all closed
+
+**All four chrome components are now signed**, which is what eleven Knowledge Hub page designs were waiting behind.
+
+| Sitting | Outcome | Board card |
+|---|---|---|
+| 2, the breadcrumb | Holds as built. **Two documents are wrong** and the correction is yours: DSRD 8 §25 and DSRD 9 §27 both say the 1200 page frame, and the trail has never done that on any page. `RULING__The_Breadcrumb_Holds_As_Built_And_Two_Documents_Are_Wrong_S090` | Cards and chrome sweep |
+| 3, the Where next panel | Holds as built. **The duplication case does not exist**: one component, two ruled variants, two lines of page spacing. `RULING__The_Where_Next_Panel_Holds_And_Is_Not_Duplicated_S090` | Cards and chrome sweep |
+| 4, the site-wide footer | Holds as built. **A sixth social button nobody ever ruled was found on all 27 templates and removed.** `RULING__The_Footer_Holds_And_An_Unruled_Sixth_Social_Button_Is_Removed_S090` | Cards and chrome sweep |
+
+Each left behind its prototype, its data file with a gate block, its folder README and its ruling, as the S282 commission requires.
+
+### The page work Kain asked for directly in the sitting
+
+Listed here because work he asks for in the room never travels the channel on the way in, so this report is its only route out.
+
+| Shipped | What |
+|---|---|
+| v0.120.0 | His rewritten Policies and Standards header copy, both paragraphs, given whole |
+| v0.120.1 | His tightened first paragraph on the same page |
+| v0.120.2 | Two verified outbound links in that page's second paragraph only |
+| v0.120.3 | The Policies header paragraph takes the locked body-link treatment |
+| v0.121.0 | **The Policies cards take the locked inset panel band**, DSRD 7 §4.4 applied to a page that did not follow it. His words on seeing it: "possibly the best looking policies page I've ever seen" |
+| v0.121.1 to v0.121.5 | His About lead paragraph, five wordings in the same sitting. The fifth is live |
+| v0.122.0 | His rewritten purpose panel on the About page, both paragraphs |
+| v0.123.0 | The unruled sixth social button removed |
+
+Every one was deployed, and every one was read back off the live page word for word rather than trusted to the upload.
+
+### Three findings from that half of the session
+
+**One. The Policies header paragraph sat outside every link rule on the page.** Kain's two outbound links shipped in browser-default blue with a heavy underline. It had never carried a link, so nothing had ever exposed it. Found by reading the page back, not by any gate. The locked sitewide body-link treatment was extended to it verbatim.
+
+**Two. A gate refused approved work and was right to.** The intake tripwire refuses a page edit with no signed spec. The S266 ruling types a copy substitution at an existing call site as exempt and names `page-about.php`, but that ruling is the document that CREATED the type-line practice, so it predates its own rule and carries no type line. **Nothing was switched off.** A waiver row was added to `spec_intake_waivers.md` naming what it waits on, beside the row its sibling document already has. It prints loudly on every run until Chat writes one line into that file.
+
+**Three. `page_artefact.py` can capture nothing and report success.** A capture of `/privacy-policy/` wrote a 39 byte empty page and printed a success line with file sizes beside it. The tool does not check that it captured anything. The prototypes filed this session are captures that were opened and read back.
 
 ---
 
