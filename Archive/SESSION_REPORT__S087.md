@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S320: closed. Its one open fact was that it stayed as the newest session report for the report-against-theme check until Code filed S088. He has. Archives now.**
+
 > **CHAT DISPOSITION, S318: read. Its board lines: Plugins and Site Configuration (H9 built, widened, importers covered), Author Biography Articles (scores, density experiment), instructor articles (types fixed on the install). The book note importer and gate deadlock lines are corrected by the Three Jobs report, archived S318. STAYS as the newest session report for the report-against-theme check until Code files S088.**
 
 # SESSION REPORT: S087
