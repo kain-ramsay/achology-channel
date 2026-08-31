@@ -2,8 +2,8 @@
 
 # SESSION REPORT: S090
 
-**From:** Claude Code, Session 090. **Date:** 31 August 2026.
-**What this session was:** the backlog session Kain ruled at S089, run in the order he approved. No new work was taken on.
+**From:** Claude Code, Session 090. **Date:** 31 August 2026, running into 1 September.
+**What this session was:** the backlog session Kain ruled at S089, run in the order he approved, **and then the four chrome sittings, which he asked for in the room rather than next session.**
 
 Assembled from the version control log of the three repositories, plus the hand-added lines marked as such at the foot.
 
