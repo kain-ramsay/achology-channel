@@ -35,9 +35,20 @@ set -uo pipefail
 CHANNEL="$HOME/achology-channel"
 USERNAME="kain-ramsay"
 REPO="achology-channel"
-SSH_URL="git@github.com:$USERNAME/$REPO.git"
 KEY="$HOME/.ssh/achology_channel_ed25519"
 KEYNAME="Achology channel, Chat machine"
+
+# THE ADDRESS GOES THROUGH A NAME OF OUR OWN, "achology-github", RATHER THAN
+# THROUGH github.com DIRECTLY, and that is the one non-obvious choice in this
+# file. ssh reads its settings file top down and the FIRST setting it meets for
+# a given name wins. So if this machine already has a github.com block for
+# something else, appending a second one puts our key in a section ssh will
+# never reach, and the failure looks exactly like a key GitHub refused. A name
+# nobody else uses cannot collide with anything, now or later, and it carries
+# the key inside the address itself, so the watcher gets it with no environment
+# to set and nothing to remember.
+SSH_HOST="achology-github"
+SSH_URL="git@$SSH_HOST:$USERNAME/$REPO.git"
 
 finish() {
   echo ""
