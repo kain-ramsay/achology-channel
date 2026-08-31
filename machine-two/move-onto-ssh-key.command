@@ -76,16 +76,21 @@ echo "  the channel is here, and today it talks to GitHub over:"
 echo "      ${CURRENT:-nothing set}"
 echo ""
 
-if [ "$CURRENT" = "$SSH_URL" ]; then
-  echo "This machine is already on the ssh key. Checking it still works ..."
+# The one question everything below turns on, asked in one place so it is asked
+# the same way every time. BatchMode stops ssh opening a prompt nobody is
+# sitting in front of, which is how the last silent failure stayed silent.
+SSH_CMD="ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new -i $KEY"
+
+works() {
+  [ -f "$KEY" ] || return 1
+  (cd "$CHANNEL" && GIT_SSH_COMMAND="$SSH_CMD" git ls-remote "$SSH_URL" >/dev/null 2>&1)
+}
+
+if [ "$CURRENT" = "$SSH_URL" ] && works; then
+  echo "This machine is already on the ssh key, and it still works."
   echo ""
-  if (cd "$CHANNEL" && GIT_SSH_COMMAND="ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new -i '$KEY'" \
-        git ls-remote "$SSH_URL" >/dev/null 2>&1); then
-    echo "IT WORKS. Nothing to do and nothing to remember."
-    finish 0
-  fi
-  echo "It is on the key but the key is not being accepted. Carrying on to fix it."
-  echo ""
+  echo "Nothing to do and nothing to remember."
+  finish 0
 fi
 
 # 2. The key itself. Made only if it is not already here, so a second run never
