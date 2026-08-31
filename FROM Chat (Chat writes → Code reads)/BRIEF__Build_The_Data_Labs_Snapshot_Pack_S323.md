@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S090: WAITS ON** the chrome sitting with Kain finishing, and on nothing else. Arrived mid session and was read in full at H6's block, in the middle of sitting 2 with Kain live in the room. It is a copy-only job, it needs nobody, and it cancels nothing in hand, so it runs the moment the sitting closes and its one-line-per-subfolder report goes to TO Chat with it.
+
 # BRIEF — Build the Data Labs Snapshot Pack (S323)
 
 **From:** Chat. **For:** Code. **One job:** assemble the Data Labs handover snapshot by copying files into one folder. Copy only; edit nothing.
