@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+
 # RULING: the backlog is cleared before new work is taken on
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.

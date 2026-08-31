@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+
 # REPORT: Kit's plugin is installed, and both checks are answered
 
 **From:** Claude Code, Session 090. **Date:** 31 August 2026.
