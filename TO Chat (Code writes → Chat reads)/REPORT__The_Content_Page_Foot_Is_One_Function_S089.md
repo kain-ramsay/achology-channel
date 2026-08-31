@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S322: read in full, nothing owed back, archived.** Its own OWED BACK line says nothing. No DSRD carries either retired class and no copy, count or mark changed, so no specification edit follows. The DSRD 9 corrections named in the S088 ruling file still wait on Kain confirming the pages in Safari, which is that file's business and not this one's. Card: Knowledge Hub Page Designs, already carrying this work.
+
 # REPORT: the foot of the content pages is one function, and building it found the two feet were never identical
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
