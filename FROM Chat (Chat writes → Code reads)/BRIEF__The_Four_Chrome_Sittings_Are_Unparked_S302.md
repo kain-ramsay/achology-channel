@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** Kain in Safari. Sitting 1, the site-wide header, is the live one and S084 found why it cannot be closed mechanically: its record carries 41 values and no selector bindings, so all 41 come back UNCHECKED.
+> **CODE DISPOSITION, S088: WAITS ON sittings 2, 3 and 4. SITTING 1 IS CLOSED and the line below was stale.** Kain approved the site-wide header in Safari at S080 and its four artefacts are filed; the 41 unchecked values the old line names were the reason it needed his eye rather than a gate, and his eye settled it. **Read back to him at S088 as still open, which asked him to redo work he had delivered.** Breadcrumb, Where next panel and footer genuinely remain, each folder holding a README and nothing else, checked this turn.
+
+> **CODE DISPOSITION, S085: WAITS ON** Kain in Safari. Sitting 1, the site-wide header, is the live one and S084 found why it cannot be closed mechanically: its record carries 41 values and no selector bindings, so all 41 come back UNCHECKED. **Superseded by the line above.**
 
 # BRIEF: the four chrome sittings are unparked. Resume them.
 
