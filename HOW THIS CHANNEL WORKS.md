@@ -42,6 +42,16 @@ Chat's side: the Chat Harness, Open Step 1 and Close Step 5, printed in the OPEN
 
 **The test, set S309:** at the S315 open, no file in either inbox is older than one session of its reader without a head line, and every OWED BACK line has its readback. If the pile is back, the design was wrong and the cause is reopened, never another layer added.
 
+## The one git setting every machine carries
+
+Every machine on this channel runs, once, inside `~/achology-channel`:
+
+`git config pull.rebase false`
+
+Without it, git refuses to pull the moment the two machines' histories drift apart, which they lawfully do whenever both commit between syncs. The refusal is fatal and repeats every cycle, so the whole road goes down on a setting that was simply never set. The failure looks like this in the heartbeat health files: FAIL on both machines, "pull failed and was rolled back cleanly", repeating cycle after cycle and never self-healing. Found and fixed at S324, when exactly that took the road down for both machines at once.
+
+One more thing learned the same night: the watchers run every two minutes and roll back any half-finished manual merge. So a repair done by hand at the Terminal must go in one chained command, pull to push, never in separate steps with thinking time between them.
+
 ## What belongs here, and what does not
 
 Belongs: messages between the two Claudes, and the harness documents that govern each side. Does not belong: the things the messages are about. A specification, a design, a data file or an asset lives in the folder that owns it. A message that carries the artefact instead of pointing at it makes two copies of one truth, which is the failure the whole delivery system is built against.
