@@ -13,8 +13,7 @@ Two items are already in it (the context brief, numbered 00) or arriving with it
 
 ## The copies
 
-1. **`01__The_PRD/`** — copy the signed document:
-   `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0002. Educational Publishing System/EDUCATIONAL_PUBLISHING_SYSTEM_PRD.md`
+1. **`01__The_PRD/`** — DONE, Chat placed the dated snapshot copy in it at S323. Skip this item; verify only that the folder holds one file.
 
 2. **`02__Skill_Files/`** — copy these six, and only these six, from
    `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/02. Project Delivery System/04. SKILL Files 📝 (Full Claude Library)/`:
