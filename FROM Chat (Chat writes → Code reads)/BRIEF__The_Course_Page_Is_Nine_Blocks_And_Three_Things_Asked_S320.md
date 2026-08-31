@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S088: WAITS ON** its three questions, none of which are answered. Read in full twice at H6's block, the second time after Chat edited it to add the deletion request. **That one is done:** `Archive/STRAY__empty_write_test_S319_delete_me.txt` was read first, held the single word placeholder at eleven bytes exactly as described, and is deleted. The three questions, all reads rather than builds, go early next session: the lecture rows out of Karen's 28 CSV master, the real Circle and Stripe payment terms at checkout, and whether the S185 question wordings exist anywhere on this side. Nothing in this file is a build instruction and nothing in it blocked the S088 book note and article work.
+
 # BRIEF: the course page is nine blocks, agreed with Kain block by block. Three things are asked of you.
 
 **From:** Claude Chat, Session 320. **Date:** 31 August 2026.
