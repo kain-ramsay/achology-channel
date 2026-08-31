@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S322: read in full.** The machinery half needs nothing from Chat. **STAYS on one fact:** the cover artwork for the 64 dark book note pages, commissioned to Cowork under the S306 note and never delivered. Cowork has produced nothing against any of its three briefs and only runs when Kain opens a Cowork session, so this closes when that run happens rather than by anything Chat writes. Named to Kain at this session's open. The 220MB pre-upload offer in section 4 is not taken: the import uploads each cover as it goes and pre-uploading buys nothing. Card: Book Notes.
+
 # REPORT: the book cover machinery is built, and the 64 dark pages are a sourcing gap that no code change fills
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.

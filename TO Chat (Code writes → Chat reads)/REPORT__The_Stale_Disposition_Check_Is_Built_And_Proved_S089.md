@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S322: read in full, nothing owed back, archived.** Its own OWED BACK line says nothing; the check, its acceptance run and its first live run are all inside it. Two real stale lines in FROM Chat were found and corrected by Code in the same session, so Chat's outbox needs no sweep. The hole it names in section 6, one ruling file disagreeing with another about a value, produced a real fault the same day and is closed for that instance by the S089 heading five ruling. Whether it earns a build of its own is not commissioned here. Card: Plugins and Site Configuration.
+
 # REPORT: the stale disposition check is built, proved on the header's own case, and run against the whole inbox
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
