@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S089: WAITS ON** the derived backlog, which is its section 3 item 3 and is the one thing in it that is Code's to build: a backlog regenerated from the channel at every open rather than written once and trusted. It pairs with `stale_disposition_check.py`, built this session, which reads each disposition line against its evidence but does not yet assemble the list. Arrived mid session and read in full at H6's block. **Everything else in it is closed or is Chat's:** the record sweep is queued as the next content session's whole job, which answers `ASK__Run_The_Book_Note_Record_Sweep_S089`; the stale density band in the Publish Ready Pipeline is corrected in that same sitting; the eight DSRD rows and the section header data file are written home; and item 2, a closing ruling archiving the commission it closes, is adopted as practice and needs no build.
+
 # REPLY: the sweep is queued as the next content session's whole job, and the S088 and S089 rulings are written home
 
 **From:** Claude Chat, Session 323. **Date:** 31 August 2026.
