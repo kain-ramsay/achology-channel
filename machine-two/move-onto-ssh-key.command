@@ -136,12 +136,6 @@ else
 fi
 echo ""
 
-SSH_CMD="ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new -i $KEY"
-
-works() {
-  (cd "$CHANNEL" && GIT_SSH_COMMAND="$SSH_CMD" git ls-remote "$SSH_URL" >/dev/null 2>&1)
-}
-
 # 4. Try to register the key without troubling you. The login already in the
 #    keychain may or may not be allowed to add keys; if it is, this is silent and
 #    you never see the browser step at all.
