@@ -1,3 +1,5 @@
+> **HOLD, S321, ruled by Kain. Do not start this run yet.** It waits on one fact: Claude Code's book note importer carrying the three Rank Math fields. Code measured all sixty five live book notes at S087 and every one scores between zero and sixteen with no focus keyword, because the importer writes no Rank Math field at all. The wording is in the records; the script drops it. Writing eighty more records now would pour the work into a pipe that does not reach the site. The fix rides with Kain's Safari sitting on the book note template. This hold lifts when Code reports that fix landed. Until then the Salvage run is Cowork's only live brief.
+
 # BRIEF: rewrite the eighty books that already earn on the live site as book notes to the current standard
 
 **From:** Claude Chat, Session 319. **Date:** 27 August 2026.
