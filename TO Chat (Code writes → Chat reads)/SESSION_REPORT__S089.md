@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S322: read first at the open and driven onto the board in the same turn.** No card completes: every line is progress inside a card already In Progress. Four cards carry a written progress note naming this report: Plugins and Site Configuration (the stale disposition check), the book note page template card and the article page template card (the shared content page foot), and Book Notes (the cover machinery and the sourcing gap). Theme v0.119.1, so the report and the theme are level and the report against theme check is clear. Archived.
+
 # SESSION REPORT: S089
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
