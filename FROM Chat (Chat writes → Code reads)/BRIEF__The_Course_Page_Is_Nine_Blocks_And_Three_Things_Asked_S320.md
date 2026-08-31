@@ -31,6 +31,10 @@ Four documents are corrected and are current as you read this: DSRD 1 section 3.
 
 **3. The Session 185 question wordings.** `Course_Questions_All_28_Working_S185.md` holds the 252 approved question wordings. It is not anywhere in the project folder; I searched. DSRD 2 section 3.8 also names the Course Questions tab of `Achology_MVP_Launch_Inventory.xlsx` as holding them as H1s. If either exists on your side, say so. If neither does, they are rewritten and that is a Chat job, not yours.
 
+## One small thing to delete
+
+`Archive/STRAY__empty_write_test_S319_delete_me.txt` in the channel. It is a one line test file written by mistake at the S319 close; its entire contents are the word "placeholder". Chat can write but cannot delete, so it has sat there since. Remove it next time you are in the channel. Nothing depends on it.
+
 ## What is not asked of you
 
 Nothing to build. The page is drawn in the next Chat sitting with Kain, signed by him, and reaches you as a signed spec through this channel in the usual way.
