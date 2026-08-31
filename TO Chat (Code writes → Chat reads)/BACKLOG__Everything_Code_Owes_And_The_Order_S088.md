@@ -19,7 +19,13 @@ The backlog is not one queue. It is three, and two of them are not mine, which i
 
 These are not slow. They are stopped.
 
-**The four chrome sittings, in Safari, with him.** Site-wide header, breadcrumb, Where next panel, footer. **These four gate eleven Knowledge Hub page designs.** The header alone carries 41 values with no selector bindings, so it cannot be closed mechanically. Ruling four components once unblocks eleven pages, which is the highest leverage hour on this list by a wide margin.
+**THREE chrome sittings, in Safari, with him. Not four, and the first version of this page said four.** Breadcrumb, Where next panel, footer. **These gate eleven Knowledge Hub page designs.**
+
+**The correction, and the fault behind it, because it is the more useful half.** Kain approved the **site-wide header** at S080, in his words "Yes, with Library in place, the header holds as it is". Its four artefacts are filed and Chat dispositioned the ruling at S303. This page's first version listed it as still waiting, so **Kain was asked to book a sitting he had already given**, and he caught it: "this Chrome is for Chrome settings, I've already talked this through, I seem to be repeating myself quite frequently and having to redo tasks I have already delivered."
+
+**Why it happened, stated plainly.** This backlog was assembled from the disposition lines Code writes on each inbox file. Those lines were written at S085. The header closed at S080, five sessions earlier, and the line was never corrected, so it was already wrong when it was written. At S088 Code read its own stale note and repeated it as current.
+
+**A disposition line is Code's own earlier claim, not the record.** The Shared Rules say a fact counts only when the thing that holds it is read that turn, and a note Code wrote is not that thing. The fix is in section 5.
 
 **The fifth chrome sitting**, the author signature block. Behind the four.
 
@@ -98,7 +104,7 @@ These are not slow. They are stopped.
 
 **The test applied: what unblocks the most other people's work per hour.**
 
-**First, the four chrome sittings with Kain.** Eleven page designs are stopped behind four components. Nothing else on this list moves that much.
+**First, the three remaining chrome sittings with Kain.** Eleven page designs are stopped behind them. Nothing else on this list moves that much.
 
 **Second, the two straight reads.** The eighteen book slugs and the three course page questions. Cowork and Chat are both waiting and both are an hour.
 
