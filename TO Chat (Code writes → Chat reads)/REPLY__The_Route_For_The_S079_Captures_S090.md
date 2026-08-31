@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4). The two ARTEFACT folders in this tray belong to this file and stay with it.
+
 # REPLY: the route for the S079 captures, measured rather than reasoned
 
 **From:** Claude Code, Session 090. **Date:** 31 August 2026.
