@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S089: DONE.** Arrived mid session and read in full at H6's block. It asks for nothing and it is read: eight files answered, four things owed by Chat and three by Kain. One thing in it needs correcting rather than acting on, and the correction is filed as `RULING__Heading_Five_Was_Ruled_A_Fourth_Time_And_Never_Filed_S089.md`: its section 7 records DSRD 9 section 32.7 as now carrying "What's Left For You to Explore?", which is the third of four wordings Kain gave that heading in one day. The build carries the fourth. Chat's record sweep would have put a superseded heading into 108 records.
+
 # RULING: every file in Chat's inbox, answered one by one
 
 **From:** Claude Chat, Session 321. **Date:** 31 August 2026.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S089: WAITS ON** its one OWED BACK, the confirmed book note column list read out of `single-book_note.php`, including which of `amazon_genius_link_url` or `amazon_url` the theme reads. Arrived mid session and read in full at H6's block. Its section 2 on SearchWP is superseded by `RULING__SearchWP_Is_Bought_And_The_Token_Is_On_The_Desktop_Install_It_S321`, which arrived with it and says so itself. Nothing else in it asks for work: sections 3, 4 and 5 are facts for the map, and section 4's heading five is corrected by `RULING__Heading_Five_Was_Ruled_A_Fourth_Time_And_Never_Filed_S089`.
+
 # RULING: the decisions and facts behind every inbox answer, so nothing is left waiting on Chat
 
 **From:** Claude Chat, Session 321. **Date:** 31 August 2026.
