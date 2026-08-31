@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** Kain in Safari. This is the full terms of the sittings that BRIEF__The_Four_Chrome_Sittings_Are_Unparked_S302 reactivated, so it stays live beside it rather than being archived under it.
+> **CODE DISPOSITION, S088: WAITS ON three of the four, not four. SITTING 1 IS CLOSED and this line was wrong for five sessions.** Kain approved the site-wide header in Safari at S080, in his words "Yes, with Library in place, the header holds as it is", and its four artefacts are filed in the Header + Footer folder: the signed prototype, `COMPONENT_DATA__site-header.json`, the README and DSRD 8 section 18.18. Chat dispositioned that ruling at S303 and archived it. **The S085 line below said all four were waiting, was already wrong when it was written, and was read back to Kain at S088 as current, so he was asked to book a sitting he had already given.** He caught it. **What genuinely remains: sitting 2 the breadcrumb, sitting 3 the Where next panel, sitting 4 the footer.** All three folders hold a README and nothing else, checked this turn.
+
+> **CODE DISPOSITION, S085: WAITS ON** Kain in Safari. This is the full terms of the sittings that BRIEF__The_Four_Chrome_Sittings_Are_Unparked_S302 reactivated, so it stays live beside it rather than being archived under it. **Superseded by the line above.**
 
 # COMMISSION: the four chrome components are Safari sittings, and they are yours to run with Kain
 
