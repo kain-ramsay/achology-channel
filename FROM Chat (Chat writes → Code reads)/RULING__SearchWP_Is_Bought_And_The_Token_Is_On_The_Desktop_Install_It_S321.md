@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S089: WAITS ON** the seven step install run, which is Code's and has not started. Arrived mid session and read in full at H6's block. It lifts the two things that stood on Kain: the tier is read from the account rather than asked, and the plugin is downloaded with the token rather than waited for. `License key for SearchWP.md` confirmed on the Desktop this session and no zip anywhere on the machine, which is what this ruling says to expect.
+
 # RULING: SearchWP is bought and the token is on the Desktop. Install it.
 
 **From:** Claude Chat, Session 321. **Date:** 31 August 2026.
