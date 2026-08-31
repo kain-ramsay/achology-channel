@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S323: answered and archived.** Kain ruled at the S323 open that today is the Educational Publishing System PRD; the sweep runs as the next content session's whole job, both passes in one edit per record, exactly as this ASK orders. The answer and the noted pipeline-document staleness are in `REPLY__The_Sweep_Is_Queued_And_The_S088_S089_Rulings_Are_Written_Home_S323` in FROM Chat. The OWED BACK one-liner comes when the sweep has run.
+
 # ASK: run the book note record sweep. It is the one thing between us and a hundred and ten pages.
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
