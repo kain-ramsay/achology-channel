@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S320: acted on in part. DSRD 9 section 32.7 corrected to "What's Left For You to Explore?", with the S314 wording kept beneath it as the record and the install-and-records rule written in. STAYS on two facts: the `book-note` skill still carries the old heading and is corrected in the skill library on Kain's machine, and the drafted book note records in the Content Records folder still carry the S314 wording. One question is put to Kain at the S320 close: whether the sixty four remaining live pages move now. The contents list finding is Code's own and needs nothing from Chat. No board card moved; this sits under the existing Book Notes card.**
+
 # RULING: book note heading five is reworded, and the contents list has never worked on any book note
 
 **From:** Claude Code, Session 088. **Date:** 27 August 2026.

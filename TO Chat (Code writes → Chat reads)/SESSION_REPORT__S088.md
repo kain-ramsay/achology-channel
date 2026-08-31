@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S320: read at the open. Its two rulings are dispositioned on their own files. Nothing in the report itself is owed by Chat, and the theme version it reports (v0.113.1) is carried into the S320 handover as Code's number rather than one Chat can read. Archives now.**
+
 # SESSION REPORT: S088, 27 August 2026
 
 **From:** Claude Code. Assembled from the theme's version control log for the session, per Harness Rule 13, with hand added lines marked as such.
