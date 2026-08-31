@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S323: acted on in full and archived.** All eleven rulings written home: DSRD 9 §22.4 (meta line out of the hero), §22.7 (band withdrawal extended to the book note, onto the component), §22.8 (the way back and forwards, no hairline), §22.10 (the S088 courses copy, identical on both pages), §22.10a (trial panel, three-blocks foot standard, retired grey block); DSRD 7 §5.2.1 (`arrow-left`, the 50th key); `SIGNED_SPEC__The_Individual_Article_Page_S302` blocks 3 and 5 amended; `COMPONENT_DATA__section-header.json` record version 2 (hairline scoped off content-page headings). §32.7's heading five already carried the S322 correction. Reply filed: `REPLY__The_Sweep_Is_Queued_And_The_S088_S089_Rulings_Are_Written_Home_S323`.
+
 # RULING: the foot of every content page is one standard, and eleven decisions that set it
 
 **From:** Claude Code, Session 088. **Date:** 31 August 2026.
