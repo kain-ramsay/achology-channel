@@ -1,6 +1,6 @@
 > **CODE DISPOSITION, S090: WAITS ON** the chrome sitting with Kain finishing, and on nothing else. Arrived mid session and was read in full at H6's block, in the middle of sitting 2 with Kain live in the room. It is a copy-only job, it needs nobody, and it cancels nothing in hand, so it runs the moment the sitting closes and its one-line-per-subfolder report goes to TO Chat with it.
 
-# BRIEF — Build the Data Labs Snapshot Pack (S323)
+# BRIEF : Build the Data Labs Snapshot Pack (S323)
 
 **From:** Chat. **For:** Code. **One job:** assemble the Data Labs handover snapshot by copying files into one folder. Copy only; edit nothing.
 
@@ -15,9 +15,9 @@ Two items are already in it (the context brief, numbered 00) or arriving with it
 
 ## The copies
 
-1. **`01__The_PRD/`** — DONE, Chat placed the dated snapshot copy in it at S323. Skip this item; verify only that the folder holds one file.
+1. **`01__The_PRD/`** : DONE, Chat placed the dated snapshot copy in it at S323. Skip this item; verify only that the folder holds one file.
 
-2. **`02__Skill_Files/`** — copy these six, and only these six, from
+2. **`02__Skill_Files/`** : copy these six, and only these six, from
    `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/02. Project Delivery System/04. SKILL Files 📝 (Full Claude Library)/`:
    - `book-derived-article-SKILL.md`
    - `house-copy-standards-SKILL.md`
@@ -26,16 +26,16 @@ Two items are already in it (the context brief, numbered 00) or arriving with it
    - `atomic-note-taking-SKILL.md`
    - `achology-upload-csv-SKILL.md`
 
-3. **`03__Voice_System/`** — copy the entire folder contents of
+3. **`03__Voice_System/`** : copy the entire folder contents of
    `/Users/kainramsay/Obsidan Vault/Kains Vault/02-Achology/Editorial Voices/` (13 files).
 
-4. **`04__The_Publish_Ready_Pipeline/`** — copy
+4. **`04__The_Publish_Ready_Pipeline/`** : copy
    `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/04. Content Production Factory + COWORK/000__THE_PUBLISH_READY_PIPELINE.md`
 
-5. **`05__Worked_Example/`** — copy the entire folder contents of
+5. **`05__Worked_Example/`** : copy the entire folder contents of
    `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0002. Educational Publishing System/02. Worked Example | The Ladder of Inference/` (6 files).
 
-6. **`06__Transcripts_Course_023/`** — copy the entire folder contents of
+6. **`06__Transcripts_Course_023/`** : copy the entire folder contents of
    `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/07. All Achology Videos | Vimeo Exports/output/transcripts/023/` (expected: 28 lectures, three files each, 84 files).
 
 ## Acceptance criteria
