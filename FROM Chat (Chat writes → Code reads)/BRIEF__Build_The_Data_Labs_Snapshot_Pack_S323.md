@@ -17,14 +17,14 @@ Two items are already in it (the context brief, numbered 00) or arriving with it
 
 1. **`01__The_PRD/`** — DONE, Chat placed the dated snapshot copy in it at S323. Skip this item; verify only that the folder holds one file.
 
-2. **`02__Skill_Files/`** — copy these six, and only these six, from
+2. **`02__Skill_Files/`** — the folder exists and already holds `achology-upload-csv-SKILL.md`, placed by Chat from the live skill library because the library folder's copy is stale. Do not copy that one. Copy these five, and only these five, from
    `/Users/kainramsay/Documents/CLAUDE | Anthropic Ai/Claude Code (Projects)/0001. Achology Website Upgrade 2026/02. Project Delivery System/04. SKILL Files 📝 (Full Claude Library)/`:
    - `book-derived-article-SKILL.md`
    - `house-copy-standards-SKILL.md`
    - `rank-math-90-SKILL.md`
    - `workbook-creation-SKILL.md`
    - `atomic-note-taking-SKILL.md`
-   - `achology-upload-csv-SKILL.md`
+   Verified current by Chat at S323: each of these five is byte-identical to the live skill.
 
 3. **`03__Voice_System/`** — copy the entire folder contents of
    `/Users/kainramsay/Obsidan Vault/Kains Vault/02-Achology/Editorial Voices/` (13 files).
