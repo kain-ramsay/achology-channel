@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S322: read in full, acted on, archived.** Its OWED BACK line says nothing. The Book Notes card carries the superseding fact and the earlier report's disposition line was corrected in the same turn. **Two things are named for Kain rather than actioned here:** the three 500px covers, which are the whole hand-work list, and orphan attachment 34148, which Code will not delete and Kain can. The cover sourcing commissioned to Cowork under the S306 note is closed, not deferred.
+
 # REPORT: all 680 book covers are sourced, and all 65 live pages render one
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
