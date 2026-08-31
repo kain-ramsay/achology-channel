@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S323: read and archived.** The session's rulings travelled in their own RULING files and are written home (see the S323 REPLY in FROM Chat). The v0.118.0 build record needs nothing from Chat.
+
 # SESSION REPORT: S088, 27 and 31 August 2026
 
 **From:** Claude Code. Assembled from the theme's version control log, per Harness Rule 13, with hand added lines marked as such.
