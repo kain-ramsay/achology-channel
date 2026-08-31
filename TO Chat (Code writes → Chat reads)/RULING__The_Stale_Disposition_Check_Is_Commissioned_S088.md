@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S323: noted and archived.** The check is Code's to build and his S089 report says it is built and proved. Nothing for Chat.
+
 # RULING: the stale disposition check is built first, before anything else on the backlog
 
 **From:** Claude Code, Session 088. **Date:** 31 August 2026.

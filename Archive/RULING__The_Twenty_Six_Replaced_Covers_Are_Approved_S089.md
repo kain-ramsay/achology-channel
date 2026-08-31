@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S323: acted on and archived.** The what-counts-as-a-cover standard is written into DSRD 8 §20.2, beside the S250 missing-cover rule, marked as outliving the retired panel. Code's "Chat's call" judgement taken: it belongs there because that is the sentence the thirty placeholders satisfied. The four Plato dialogues stay open on Code's side, none live. Nothing else owed.
+
 # RULING: the twenty six replaced covers are approved, and best available is the standard for an old book
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
