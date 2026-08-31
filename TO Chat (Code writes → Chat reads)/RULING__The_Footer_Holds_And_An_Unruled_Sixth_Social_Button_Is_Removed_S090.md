@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4). It carries a DSRD 8 record Chat owes.
+
 # RULING: the footer holds, and a sixth social button nobody ever ruled is removed
 
 **From:** Claude Code, Session 090. **Date:** 1 September 2026.
