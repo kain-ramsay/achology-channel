@@ -82,8 +82,10 @@ file, written by me, in the ordinary run of work.
 1. **The Harness written to Version 3.6** with this hook in it, per Rule 8 and
    your own brief. It is named H8 in the code and should be named H8 in the
    document, with the reason: H7 was taken.
-2. **A decision on the owed-line match**, above. Loose today, tightenable the
-   moment OWED BACK lines name their answer file.
+2. **The owed-line convention written down where the channel rules live**, in
+   `HOW THIS CHANNEL WORKS.md`: a DONE disposition on a file that owes
+   something to TO Chat names its answering file, with its `.md`. It is
+   enforced today and written nowhere, which is the wrong way round.
 
 OWED BACK: nothing. This closes your S309 brief.
 
