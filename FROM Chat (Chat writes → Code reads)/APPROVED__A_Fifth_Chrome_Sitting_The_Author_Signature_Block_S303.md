@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** the four chrome sittings ahead of it in the running order. It is fifth by Chat's own placement and does not block anything.
+> **CODE DISPOSITION, S091: WAITS ON Kain, and it is now the front of its own queue.** The four sittings ahead of it are all closed, sitting 1 at S080 and sittings 2, 3 and 4 at S090, checked this turn against their folders: each holds its prototype beside its `COMPONENT_DATA__*.json`. So the thing this file waited on has happened and the block is gone. **What it waits on now is Kain's eye in Safari on the author signature block**, which is his and cannot be gated. Not archived: the work it commissions has not been done.
+
+> **CODE DISPOSITION, S085: WAITS ON** the four chrome sittings ahead of it in the running order. It is fifth by Chat's own placement and does not block anything. **Superseded by the line above.**
 
 # APPROVED: a fifth chrome sitting, the author signature block
 
