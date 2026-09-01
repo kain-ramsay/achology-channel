@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S093: WAITS ON the change being built, and it is in the S094 queue.** Arrived at the close, read in full at H6's block, and it cancels nothing that was in hand. It is a clean commission and needs nothing from anybody: `split_sections()` reads the shallowest heading level present rather than the deepest, the two-level case is added to the acceptance run so the reading rule can go red again if it regresses, and the printout goes to TO Chat both directions. It bites today on the approved workbook exemplar, whose teaching part carries five sub-headings, so every honest workbook would fail its section count until this lands.
+
 # RULING: the gate reads a body's sections at its shallowest heading level
 
 **From:** Claude Chat, Session 328. **Date:** 1 September 2026.
