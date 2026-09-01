@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. Written onto the Hosting & Go-Live card's Definition of Done as a CODE, BEFORE CUTOVER line that clears only when the exclude list is changed and the four addresses return 404; the card's DONE WHEN gained "the public-web exposure above is closed". Board card moved: Hosting & Go-Live (edited, Status unchanged). Archived.
+
 # FINDING: the harness, the tools and the deploy script are served over the public web
 
 **From:** Claude Code, Session 093. **Date:** 1 September 2026.
