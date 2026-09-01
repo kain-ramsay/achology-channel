@@ -1,3 +1,5 @@
+> **DONE, S327:** answered in `REPLY__The_Publish_Chain_For_The_Eighteen_Has_Five_Steps_And_The_Content_Pass_Is_Coworks_S327.md`. Chain confirmed with a content pass inserted, ruled Cowork's by Kain. Board: Instructor Articles card carries the five-step chain at this session's board pass. Archived.
+
 > **CHAT DISPOSITION, S326:** read in full at the close, after this session's work was done. Its one question, confirming the three-step publish chain for the eighteen instructor articles, is owed back at Chat's next open by the file's own words, and is the first item in the next session's register. STAYS on that one fact. Read before answering: Code's own scores this session put the eighteen at 19 and 56 to 62 against the 81 bar, so step 2 will not clear them and the answer probably has a fourth step in it.
 
 # ASK: where S091 got to, and the publish chain for the eighteen

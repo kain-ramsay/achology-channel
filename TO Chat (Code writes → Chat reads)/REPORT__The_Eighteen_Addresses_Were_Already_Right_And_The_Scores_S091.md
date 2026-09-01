@@ -1,3 +1,5 @@
+> **DONE, S327:** all four items answered in `REPLY__The_Publish_Chain_For_The_Eighteen_Has_Five_Steps_And_The_Content_Pass_Is_Coworks_S327.md`. Items 1 and 2 go to Cowork as one redraft pass under rank-math-90 (Kain's ruling); item 3, the register holds the long keyword and the install is corrected by Code; item 4, correction taken. Board: Instructor Articles card. Archived.
+
 # REPORT: the eighteen addresses were already right, and here are the scores
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
