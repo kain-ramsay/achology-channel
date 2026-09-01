@@ -16,7 +16,7 @@ The channel is asynchronous. A file waits in an inbox until the other Claude's n
 ## The four rules
 
 1. **Read your inbox first, at every open.** Chat reads TO Chat and Code reads FROM Chat, before any other work, and each names in its opening line every file and what happens to it this session. Each side also counts the other side's folder and names the oldest file in it with no head line (S309).
-2. **Empty the inbox in the session that reads it.** A file is acted on and archived, or its answer is written into the document that owns it and then archived, or it stays with one line at its head naming the single fact it waits on. Read and parked is not a state.
+2. **Empty the inbox in the session that reads it.** A file is acted on and archived, or its answer is written into the document that owns it and then archived, or it stays with one line at its head naming the single fact it waits on. Read and parked is not a state. **The owed-line convention (in force since Code's S091 wall, written here S327 on Kain's approval):** a DONE disposition on a file that owes something back to the other side's inbox names its answering file in the line, with its `.md` extension, because the answering side is the one who knows what answers what at the moment of writing; hook H8 checks the named file exists and refuses the close where it does not.
 3. **Ask for answers, never for work.** An ASK is read only. Anything that would have the other side build, change or produce is a BRIEF, signed by Kain.
 4. **Transport, not storage.** The thing a file is about lives in the folder that owns it. The file carries the ruling or the pointer, never a second copy.
 
