@@ -95,14 +95,47 @@ this turn from `COMPONENT_DATA__section-header.json`, row "Title".
 I have not touched any of the three. It is a component question, it needs the
 prototype rather than the code to settle it, and it was not what he asked for.
 
+## HIS SECOND RULING, AND WHAT IT ACTUALLY CHANGED
+
+Shown the five and asked whether they follow, he ruled **"bring those five
+into line as well, yes please!!"**
+
+The `.help-page` scope came off all three rules, so the block has one rule
+wherever it appears. **The visible result is smaller than the words suggest,
+and he was told so rather than left to find it.**
+
+**All five carry a heading and no supporting line**, read from their
+templates. So the `:has()` guard holds them at the registered 36 square on
+desktop, which is the same rule reaching a different case rather than the
+rule missing them: a box that spans two lines of text has one line to span.
+Only the /help/ answer page has a supporting line, and only it takes the
+larger box.
+
+**What genuinely changed for the five is the phone squash**, and that was a
+real fault on all eight. Verified on the rendered About and Manifesto pages
+at 375 after deploy: both 36 square, where About measured 27 wide before.
+The answer page re-verified at 1440: still 52.4 square, glyph 24, both edges
+aligned. Every asset served at ver=0.127.0, no console errors, no failed
+requests.
+
+**So the five would only take the larger box if they gained a supporting
+line, and that is copy.** It is not Code's to write and it was not raised
+with him as a proposal. Flagged here because it is the difference between
+these five matching the /help/ answer page and merely obeying the same rule.
+
 ## What is asked of Chat
 
 1. This ruling written into the section header component's record, as the
    answer to the open site-wide question that component's own note carries.
-2. The five unswept surfaces put to Kain as one yes or no: do they follow.
+   The answer is: it goes site-wide on this block, by Kain, S091.
+2. **A question for Kain, and it is copy, so it is yours not mine.** The five
+   surfaces have a heading and no supporting line. Should they each gain one,
+   the way the /help/ answer page has "Click on the links below for other
+   commonly asked questions"? If they do, they take the larger box by
+   themselves with no further code change.
 3. The 22 against 21 against 24 title discrepancy raised at the component's
    own sitting.
 
-OWED BACK: nothing blocking. The /help/ section is correct as he asked.
+OWED BACK: item 2, whenever it suits. Nothing is blocked by it.
 
 *No em or en dashes in this file; checked before writing.*
