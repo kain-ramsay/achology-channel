@@ -38,7 +38,7 @@ The brief says plainly: do not invent a closing reason, write `Closed. Reason no
 3. **Settle the four remaining schema-ownership decisions.** All four are still described as open, written out in DSRD 10 section 9 under headings that say so. Nothing was blocked by them, because the affected page types are not built.
 4. **Confirm reviews and testimonials content type.** Nothing says which storage model was chosen or that the single inventory was written.
 5. **Name DSRD 9's decision tables as logs.** A backlog item with a trigger, and nothing says whether the headers were written.
-6. **The board's own launch-path card** is not in this list: it closed on evidence, and is named here only so nobody looks for it.
+**The board's own launch-path card is NOT one of the five**, and is named here only so nobody goes looking for it in the list: it closed on evidence, with Kain confirming the Route to Launch view himself.
 
 **My reading, offered rather than assumed:** most of these are backlog items whose trigger fired quietly in a session that did the work without coming back to the card. That is exactly the drift the tidy exists to surface, and surfacing it is worth more than the tidy itself.
 
