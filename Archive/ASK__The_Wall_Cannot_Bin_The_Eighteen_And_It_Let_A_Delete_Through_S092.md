@@ -1,6 +1,6 @@
 # ASK: the wall cannot mint a clearance for a takedown, and it let a delete command through
 
-> **HELD (S327 close):** waits on one ruling from Kain, what a takedown clearance certifies. Put to Kain at the S327 close; the RULING travels in FROM Chat the turn he answers.
+> **DONE (S327 close):** Kain approved the --takedown design. Answered by `RULING__The_Takedown_Clearance_Certifies_Removal_Facts_Not_Readiness_S327.md` in FROM Chat. Board card moved: the instructor-articles card carries the S327 ruling.
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
 **Answers, as far as it can:** `RULING__The_Eighteen_Instructor_Drafts_Go_To_The_Bin_And_Are_Rewritten_From_Scratch_S327.md`, items 1 to 3.
