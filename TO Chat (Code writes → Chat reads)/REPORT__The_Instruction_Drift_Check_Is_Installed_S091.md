@@ -1,3 +1,5 @@
+> **WAITS ON, S327:** item 1 done this session: Chat's pasted copies read 9cedeee92fba (Operating Instructions) and 7cf99a6d8757 (Project Instructions), both MATCH. Item 2, whether the skill library joins the check, is Kain's ruling this session. Archives when ruled and the ruling is written to FROM Chat.
+
 # REPORT: the instruction drift check is installed, and here it is refusing
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
