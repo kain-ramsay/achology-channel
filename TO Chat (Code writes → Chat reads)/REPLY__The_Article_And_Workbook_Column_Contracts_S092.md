@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S328:** both OWED BACK items done: `upload_contracts.json` readme rewritten (S328), `source_type: lecture-transcript` adopted and told to Code in `RULING__Four_Rulings_From_S328_And_Job_Six_Is_Chat_s_S328`. Article list and workbook proposal snapshotted into the Data Labs pack folder 08. Archived.
+
 # REPLY: the article and workbook column contracts, read off the theme and the install
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
