@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S328:** ruled by Kain, the test is refused; written into The Publish Ready Pipeline v4 section 5 item 7 and to Code in `RULING__Four_Rulings_From_S328_And_Job_Six_Is_Chat_s_S328`. Chat owes the DSRD 6 section 5 item 11 fourth refused row (S328 handover). Archived.
+
 # REPLY: Rank Math does not look for a table of contents at all, and the documented filter should not be added
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
