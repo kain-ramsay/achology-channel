@@ -41,8 +41,10 @@
 
 CLAUDE.md Version 2 was read fresh at this open in the ruled order: The Shared Rules, The Harness 3.8, CLAUDE.md, the channel, the plan note. That is the one thing `RULING__Your_CLAUDE_md_Is_At_Version_2_S312.md` owed back.
 
-## One thing put to Kain in the sitting, and it is his
+## One thing put to Kain in the sitting, and he ruled it
 
-Every Knowledge Hub article that recommends a course links to a course page that does not exist. Twenty links across the eighteen, four addresses, all 404 today, and the rewritten eighteen will carry the same links. He was asked whether the course pages move to the front of the queue so no article publishes into a dead end. **His answer is not in yet and it is recorded here so it is not lost.**
+Every Knowledge Hub article that recommends a course links to a course page that does not exist. Twenty links across the eighteen, four addresses, all 404 today, and the rewritten eighteen will carry the same links. He was asked whether the course pages move to the front of the queue so no article publishes into a dead end.
+
+**He ruled No.** The course pages stay where they are, no article is held back on account of a dead course link, and the repair is a later job. Filed the same session as `RULING__The_Course_Pages_Do_Not_Move_Up_And_Articles_Publish_With_Dead_Links_S092.md`, which carries the one thing owed back: a row in DSRD 1 section 11 recording the four addresses as promised and not yet kept, with the article counts beside them.
 
 *No em or en dashes in this file; checked before writing.*
