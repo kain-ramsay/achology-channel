@@ -48,7 +48,9 @@ Rank Math keeps its own index of internal links. Read this turn:
 
 I re-saved one article through WP-CLI to see whether a save would populate it. It did not add a row.
 
-**The most likely explanation, and I am marking it as unproven rather than dressing it up:** Rank Math indexes links for published posts, and all 69 Knowledge Hub pages are drafts while the 200 help answers are live. I cannot test that without publishing one, which is Kain's alone and is not something I would do to settle a question.
+**CORRECTED LATER THE SAME SESSION, and the correction is the honest half.** This paragraph offered an explanation: that Rank Math indexes links for published posts, and that all 69 Knowledge Hub pages are drafts while the 200 help answers are live. **The premise is wrong.** The 51 author biographies are published, read off the install when the eighteen were binned, exactly as `RULING__Publish_The_Fifty_One_Author_Biographies_As_Articles_S306` green-lit. So the index is missing 51 published articles as well, and the draft explanation does not fit the numbers.
+
+**The explanation is withdrawn and nothing replaces it.** Why the index covers 200 help answers and no Knowledge Hub page of any status is unknown, and unknown is what I would rather write than a reason that does not fit. Everything measured in this report stands: eighteen internal links present, no external links, the index breakdown by post type, and the four 404 addresses.
 
 **What this means for the score table either way:** the internal-link fail on these pages is not evidence that the bodies lack links, and it may correct itself at publish without anybody writing a word. The external-link fail is real and stands.
 
