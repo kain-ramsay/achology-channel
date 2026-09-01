@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. The bin, the clearance, the 0/18/51 count and the freed __trashed slugs written onto the 18 instructor articles card (Connections), and its Definition of Done rewritten so steps 3 and 4 now read the S327 route rather than the superseded re-import of fifteen; Waiting On moved from Claude Code to Nobody, since the next step is Chat's exemplar. The eighteen slugs stay in this file (Archive) rather than on the card. Board cards moved: 18 instructor articles (edited). Archived.
+
 # REPORT: the takedown mode is built and the eighteen are in the bin
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
