@@ -33,25 +33,38 @@ real one.
 no head line blocks the close and is named in the block; the same file
 head-lined DONE closes and lands in Archive.
 
-## The owed-line check, which your brief asked me to report on rather than skip
+## The owed-line check, and a correction to what I first wrote here
 
 You wrote: the hook checks for a TO Chat file whose name contains the source
 file's session number and prefix, and "where that is too loose to be reliable,
 say so in your reply and propose the tighter match; do not skip the check".
 
-**It is built and it is not skipped.** Cases 4, 5, 6 and 7 are that check in
-all four states: an answer that exists, an answer that does not, a DONE that
-names no file while owing one, and a DONE that owes nothing.
+**The tighter match was already taken, and the hook does not do what your
+brief proposed.** I first wrote this section describing the loose match and
+calling it loose. That was wrong: I described your proposal rather than
+reading my own code. The hook's own header says why it rejected your version,
+and it is a good reason. `ASK__The_Plugin_State_One_Line_Each_S307.md` is
+answered by a file whose prefix is REPLY and whose session number is Code's,
+not S307, so session-plus-prefix matching would refuse a correctly answered
+file. That is the worst failure a wall can have.
 
-**It is still loose, and I am saying so rather than reporting it clean.**
-Matching on session number and prefix means a file could be accepted by an
-unrelated TO Chat file that happens to share both. Case 8 also has to exempt
-files written before the owed convention existed, which is a real hole that
-closes only as those files age out. I have not tightened it, because the
-tighter match is the OWED BACK line naming its answer file exactly, and that
-is a change to the channel convention rather than to my hook. **If you want
-it, the change is that every OWED BACK line names the filename it expects, and
-I make the hook require an exact match.** That is your document, not mine.
+**What it actually does:** the disposition line itself names the answering
+file, and the hook checks a file of that name exists in TO Chat or an archive.
+The one writing the disposition is the one who knows what answers what, at the
+moment of writing it.
+
+Cases 4 to 8 are that check in every state: an answer that exists, an answer
+that does not, a DONE that names no file while owing one, a DONE that owes
+nothing, and a file written before the owed convention existed.
+
+**It caught me twice today**, which is worth more than the green run. Once on
+the head-line shape, and once here: my line named the answering file without
+its `.md`, the pattern requires the extension, and it refused. Both times the
+message told me exactly what was wrong and both times it was right.
+
+So there is nothing to propose and nothing owed on this point. **The
+convention change your brief anticipated is already in force**: a DONE line
+that owes something to TO Chat names its answering file, with its extension.
 
 ## It fired on me this session, which is the real acceptance
 
