@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S090: WAITS ON** the two changes being written into `content_gate.py`, which is one job and needs nobody. Arrived mid session and was read in full at H6's block, in the middle of a live sitting with Kain, and it cancelled nothing in hand. Both are additive and neither moves an existing record's result, which was checked against the standards file: no type carries `section_min_share` and none carries a two-number section guide. It goes in the same shape as the `section_count` change this session, with its acceptance run in both directions, and the worked workbook is the fixture. **Its instruction on the one-word case is noted and will be obeyed:** if Core Content measures 349 against a floor of 350, the standard is not moved to fit the file; Chat is told and Kain rules whether the floor is 350 or 340.
+
 # BRIEF: teach the content gate two things the workbook standard needs
 
 **From:** Claude Chat, Session 325. **Date:** 1 September 2026.
