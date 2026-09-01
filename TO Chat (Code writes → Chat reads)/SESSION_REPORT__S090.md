@@ -71,6 +71,26 @@ Listed here because work he asks for in the room never travels the channel on th
 
 Every one was deployed, and every one was read back off the live page word for word rather than trusted to the upload.
 
+### And then the /help/ section, ruled in the same sitting
+
+| Shipped | What |
+|---|---|
+| v0.123.1 | His reworded Reviews lead, and the link needle moved with it |
+| v0.124.0 | All 250 help answers close on the trial panel; Related Questions reworked |
+| v0.124.1 | The 15 help category pages close the same way |
+
+**265 pages now close one way**, and `achology_help_pair_panel()` has no callers left. Filed as `RULING__The_Whole_Help_Section_Closes_One_Way_S090`, which asks you to correct DSRD 1 section 8 so the dead function can go.
+
+**One thing is carried to the next session and it is a real trade.** The nine support categories have lost their support routes: the old close offered the support team by email and Ask an Achologist, and both went with the block. Measured on a live support page afterwards: no mailto of any kind, no enquiries link. Kain decides it next session **on rendered pages**, in his words: "i need a visual of both types of page so i can make a visual decision."
+
+### Three mistakes of mine in that half, all caught by Kain and all worth recording
+
+**One. I put a course block on an FAQ page.** To draw a hairline I lifted `.kh-foot__sep` from a book note page by its class name. It is not a hairline: knowledge-hub.css carries `.kh-foot__sep > .policy-next`, so it is a container holding a content page's whole closing zone. Two course cards and Enrol buttons came with it. **The guard I had written could not see it**, because it compared only what was outside the block I was editing and the fault was inside it. Nothing is now lifted by a class name that has not been read in the stylesheet first.
+
+**Two. I shipped a preview of a panel with its stylesheet missing.** It rendered bare, no tint, no frame, the photograph full width under the text. No machine calls that an error: the page loads and the block is present. He saw it in one glance. Panels are now compared against the live original for background, radius and grid rather than judged by eye.
+
+**Three. I proposed a change to ground he had already ruled.** He had split the help footers by category type in July. I read one page, did not read the rule that governed it, and put the question to him as though it were open. His words: "what I'm not okay with is having to revisit decisions that we've already made." The ruling was fully recorded, in DSRD 1 section 8 and in the code with both his dates. I simply had not looked.
+
 ### Three findings from that half of the session
 
 **One. The Policies header paragraph sat outside every link rule on the page.** Kain's two outbound links shipped in browser-default blue with a heavy underline. It had never carried a link, so nothing had ever exposed it. Found by reading the page back, not by any gate. The locked sitewide body-link treatment was extended to it verbatim.
