@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. Its OWED BACK line is met: DSRD 1 gained section 11.12, Addresses the site promises and does not yet keep, carrying the four addresses with their article counts and Kain's No. Board cards moved: none (the row is the home; the Redirect Strategy card already points at DSRD 1 section 11). Archived.
+
 # RULING: the course pages do not move up the queue, and articles publish with their course links going nowhere
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
