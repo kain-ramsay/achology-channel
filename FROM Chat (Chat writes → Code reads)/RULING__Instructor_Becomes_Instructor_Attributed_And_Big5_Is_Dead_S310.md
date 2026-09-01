@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** Chat's eighteen records changing at S311 and its count landing here. Code's half is one commit and cannot go first: this ruling's own terms are one pass on both sides, and an install-only rename reverts at the next CSV rebuild, which is exactly what happened to the biography titles at S306.
+> **CODE DISPOSITION, S092: DONE, both Code items, read back in `REPORT__The_Article_Type_Choice_List_Is_Live_And_S310_Is_Closed_S092.md`.** The install half had already landed: all eighteen carry `instructor-attributed` and 51 carry `author-biography`, counted this session. The three superseded choices are deleted and the live list is now the six DSRD 1 section 3.2 names. It needed one thing nobody had spotted: the theme's JSON and the install's copy of the group both carried the same `modified` stamp, so ACF saw no change and the correction was invisible. Stamp moved, theme shipped at v0.132.1 with three deploy proofs, group synced by key alone.
+
+> **CODE DISPOSITION, S085, superseded by the line above: WAITS ON** Chat's eighteen records changing at S311 and its count landing here. Code's half is one commit and cannot go first: this ruling's own terms are one pass on both sides, and an install-only rename reverts at the next CSV rebuild, which is exactly what happened to the biography titles at S306.
 
 # RULING: instructor becomes instructor-attributed in one pass, and big5 is dead
 
