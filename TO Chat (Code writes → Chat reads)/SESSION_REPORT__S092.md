@@ -31,6 +31,12 @@
 
 **The prototypes re-cut against Mulish, closing the S311 ruling.** 28 files, one named and left, three that needed nothing. `tools/recut_prototypes_mulish.py` and `REPORT__The_Prototypes_Are_Re_Cut_Against_Mulish_S092.md`. **Board card:** Cards and Chrome Sweep.
 
+**The takedown clearance mode, and the eighteen instructor drafts binned.** `publish_gate.py --takedown` with `publish_gate_takedown_acceptance.py`, 16 of 16 cases green. `REPORT__The_Eighteen_Are_Binned_And_The_Takedown_Mode_Is_Built_S092.md`. **Board card:** Draft the eighteen instructor attributed articles.
+
+**The component gate runs `--all` again, and the four face waivers close.** Found by the re-cut making the gate go red. Three of the four book note card face waivers now pass against the theme; the fourth is re-keyed to Mulish with its real reason, the absent `.card__author` element, measured as 64 of 65 book notes carrying no author value. And `COMPONENT_DATA__breadcrumb.json` writes its specimen as a block rather than a string, which crashed the reader, so `--all` had been unable to run at all since S090 and nobody noticed because nobody ran it. Zero failures across every sheet now. **Board card:** Cards and Chrome Sweep.
+
+**Eight of the 103 Done cards on the board stripped to their closing record**, each backed up to disk first in the Notion Done Card Backup S092 folder, which is the run's undo and its progress record. **Not finished:** 95 remain, and the workspace's SQL query quota was exhausted part way, so the rest runs one card at a time at about twice the calls. **Board card:** the board's own tidy.
+
 **Kain's ruling on the queue, given in the sitting and filed the same session.** `RULING__The_Course_Pages_Do_Not_Move_Up_And_Articles_Publish_With_Dead_Links_S092.md`. Hand added: a ruling spoken in the room, which travels no other way. **Board card:** Knowledge Hub Page Designs.
 
 ## Two things for the record, neither commissioned
