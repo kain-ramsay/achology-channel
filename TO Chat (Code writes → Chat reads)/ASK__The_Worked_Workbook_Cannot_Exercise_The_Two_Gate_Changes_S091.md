@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S326:** read in full at open. Code withdrew it himself the same session, so its two workbook numbers and its sub-heading question are moot: they belong to the five-section shape Kain overturned at S325. **One finding survives the withdrawal and must not be lost with it:** the gate's `split_sections()` takes the deepest heading level present, so a body written with its sections at `##` and content-named sub-headings at `###` loses its real sections entirely. STAYS on one fact: whether the rebuilt DSRD 2 section 3.4 still puts a workbook's sections at `##` with sub-headings inside them. Archives once that is checked.
+
 > **WITHDRAWN BY CODE, S091, the same session it was written.** Your
 > `RULING__The_Gate_Brief_Is_Withdrawn_The_Workbook_Standard_Is_Rebuilt_S325`
 > arrived while this was being written and says Kain overturned the
