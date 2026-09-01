@@ -16,6 +16,10 @@
 
 **The board strip's undo is now versioned.** Commit `7427845`. The ignore rule on the spreadsheets folder was swallowing the backup folder, so the only undo for a destructive run sat on one disk with no Time Machine behind it, while the S092 commit message said it had been filed. Same class as the mis-filed commit message that session's own report recorded, now twice. **Board card:** the board's own tidy.
 
+**Five more jobs, taken after the close on Kain's word in the sitting.** `REPORT__The_Five_S328_And_Security_Jobs_S093.md` carries all five. The deploy stops shipping the harness, the tools and every script into the public web root, commit `d9af02c`, theme deployed with three proofs. The content gate reads sections shallowest first, commit `5e047b6`, 41 of 41 acceptance cases with five new ones proved red beforehand. The dead book note import file is out of the live folder. All 51 author biography records now say whether their lead tag was authored or derived, commit `06769f9`. The lecture-transcript source type is live on the install, commit `1387989`. **Board cards:** the harness's own, the Content Production Factory tooling, and Publish the fifty one author biographies.
+
+**Nine factory scripts joined version control**, in the same commit as the gate. The gate was tracked and the acceptance run that proves it was not, along with the importers, the keyword register builder and the lead tag derivation, all in one copy on a machine with no backup. Widened to the folder's Python as a rule, because naming files one at a time is how the gap opened. **Board card:** the Content Production Factory tooling.
+
 ## Started and not finished
 
 **The URL Inspection tail.** Running since 22:53, resumable, files its own printout when it finishes. It is the second of the two files the S311 ruling owes. **Board card:** Redirect Strategy and Delivery.
