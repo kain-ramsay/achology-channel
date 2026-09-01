@@ -27,7 +27,9 @@
 
 **After: owed.** The same query that would measure it is the one the quota refused. It goes in the next session's first minute.
 
-## Six cards where the closing reason is not recorded, per the brief's own instruction
+## Five cards where the closing reason is not recorded, per the brief's own instruction
+
+> **CORRECTED at the S093 close, before this file was acted on. This heading said six and the list below carried five**, with a sixth number spent on a card that is not in the set. The five are the real answer, checked one at a time: the eight cards stripped at S092 were fetched and read back, and not one of them carries the line either. **A count I reached by numbering rather than by counting**, which is the same fault as a closing reason reached by reasoning rather than by reading, and it is corrected here rather than quietly.
 
 The brief says plainly: do not invent a closing reason, write `Closed. Reason not recorded on the card`, and list the card. Six earned that line, and each is worth a glance because in five of the six the card's own text still describes live work while its status reads Done.
 
