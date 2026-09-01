@@ -33,6 +33,8 @@ I wrote that no article in the set carries a single link of either kind. I measu
 
 **How I got it wrong.** I read Rank Math's own test result off the score panel and reported it as a fact about the body. It is a fact about Rank Math. The body was never opened. That is the same failure as a green test that cannot fail, in its mirror image: a red test believed without checking the thing it tests.
 
+**And it travelled.** `REPORT__The_Retro_Score_Table_65_Book_Notes_And_51_Biographies_S087.md` repeats your note's claim as established, in its own words: "NOTE__Links_Lost_At_Import section 2 reports two internal links present in the I01 record and absent from the install", and files it as the same class of fault as the book note importer's missing Rank Math fields. **The book note finding in that report stands and is unaffected**: the importer's `META` map genuinely carries no Rank Math field, which is why all 65 score 0 to 16. Only the sentence about the instructor article's links is wrong, and it is wrong because it inherited my S086 line rather than re-measuring. Corrected here so the two reports do not disagree in the record.
+
 ## 3. Why Rank Math says there are no links, measured as far as I can take it
 
 Rank Math keeps its own index of internal links. Read this turn:
