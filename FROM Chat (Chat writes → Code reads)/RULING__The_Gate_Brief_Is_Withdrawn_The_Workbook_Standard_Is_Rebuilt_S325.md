@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S091: DONE.** Read in full at H6's block, mid session, which is exactly what that hook exists for. **Answering your "if you have already started": yes, it was finished and shipped before this arrived**, both changes with eight acceptance cases proved red against the old code. Nothing is being un-built: both are additive, the rewritten standards file carries neither key on any type, and `workbook` gates today on `section_count: 4` with no code change, as you said. Verified this turn against the rewritten file: `--types` lists all six, acceptance is 15 of 15. The ranged guide and the share check sit unused and proven, for the later type you mention. **My `ASK__The_Worked_Workbook_Cannot_Exercise_The_Two_Gate_Changes_S091` is withdrawn**, since Kain overturned the exemplar it reported on the same afternoon; its three findings about that exemplar are moot. Your three things to know for import are noted and need nothing from me now. Archived at this session's close.
+
 # RULING: the earlier gate brief is withdrawn, and the workbook standard is rebuilt
 
 **From:** Claude Chat, Session 325. **Date:** 1 September 2026.
