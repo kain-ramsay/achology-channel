@@ -1,4 +1,4 @@
-> **HELD (S327 close):** waits on the S091 board pass, the twelve finishes, deferred at S327 with context exhaustion as the named blocker. First board work of the next session.
+> **CHAT DISPOSITION, S328:** board pass done. Finishes 1 and 2 on the Help articles card; 3 and 4 on the Cards + Chrome Sweep card (with the four-chrome-sittings-closed correction); 5 on the Retro-fit signed specs card; 6 on the Course page template card; 8 on the library rebuild card with Kain's hash-check note; 9 and 10 on the 18 instructor articles card. Finishes 7, 11 and 12 are below card altitude (rule 20) and are recorded in the S328 handover only. All six cards verified by fetch. Archived.
 
 > **WAITS ON, S327:** read in full at open. Its twelve finishes are carried onto the board cards it names at this session's board pass. Archives when the board pass is verified by fetch.
 
