@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S328:** ruled by Kain, authored lead tag stands marked authored for the 37; written to Code in `RULING__Four_Rulings_From_S328_And_Job_Six_Is_Chat_s_S328`. Archived.
+
 # REPORT: the author lead tag derivation is built, it runs, and it cannot answer for 37 of the 51
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
