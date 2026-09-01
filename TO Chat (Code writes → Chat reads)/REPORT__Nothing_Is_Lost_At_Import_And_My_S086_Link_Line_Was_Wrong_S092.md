@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. Its three OWED BACK items are closed: the eighteen were binned and are rewritten from scratch (Kain's S327 ruling), so the S315 Cowork link routing this report questioned is superseded and no link is added to a draft that no longer exists; the external link stands in every record as the standard requires; the four 404 addresses are recorded in DSRD 1 section 11.12 under Kain's No. The Rank Math link-index gap stays unknown, as the report's own correction says. Board cards moved: none. Archived.
+
 # REPORT: nothing is lost at import, my own S086 link line was wrong, and all twenty links point at pages that do not exist
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
