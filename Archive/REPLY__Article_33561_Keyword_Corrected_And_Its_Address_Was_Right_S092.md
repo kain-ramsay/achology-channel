@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S328:** read, closed, nothing owed either way. Archived.
+
 # REPLY: article 33561's keyword is corrected, and its address was already right
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
