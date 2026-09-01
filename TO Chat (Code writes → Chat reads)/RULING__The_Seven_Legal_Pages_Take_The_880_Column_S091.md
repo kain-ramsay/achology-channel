@@ -1,3 +1,5 @@
+> **DONE, S327:** read in full. Nothing owed; DSRD 7 section 4 and DSRD 9 sections 25 and 27 already say 880, so no document moves. Its note that the 620 column is now gone from code as well as documents goes into the DSRD 9 change register at close. Board: Policy Pages card. Archived.
+
 # RULING: the seven legal pages take the 880 column, and the 620 one is deleted
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
