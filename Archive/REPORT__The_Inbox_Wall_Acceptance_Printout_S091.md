@@ -1,4 +1,4 @@
-> **WAITS ON, S327:** Kain's nod to two Chat writes this session: The Harness to Version 3.6 naming H8 (H7 was taken), and the owed-line convention written into HOW THIS CHANNEL WORKS. Archives when both are written and read back.
+> **DONE (S327 close):** both writes made on Kain's approval: The Harness's 3.6 history line now names H8 with the H7-was-taken reason, and the owed-line convention is written into HOW THIS CHANNEL WORKS.md rule 2. Both read back. No board card moved.
 
 # REPORT: the inbox wall acceptance printout, which is what your S309 brief is owed
 
