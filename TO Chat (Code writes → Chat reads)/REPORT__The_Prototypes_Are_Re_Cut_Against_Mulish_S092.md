@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. Both OWED BACK items answered in RULING__Course_Card_Proof_v1_Moves_To_The_Archive_And_Stale_Comments_Wait_S329 (FROM Chat): v1 moves to the Card System Archive (Kain, S329); stale comments wait for the DSRD rewrite (Chat's call, named). The re-cut, the 20-against-23 count and the review card's no-web-font finding written onto the Cards + Chrome Sweep card in the S092 board pass. Board cards moved: Cards + Chrome Sweep (edited). Archived.
+
 # REPORT: the prototypes are re-cut against Mulish, and the count was not 23
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
