@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** the next session open, which is the only place its one instruction can be carried out: read CLAUDE.md Version 2 fresh, in the new order, The Shared Rules first, then the harness, then this file, then the channel, then the plan note. It cannot be done mid-session by a session that already opened on Version 1, and confirming from what is remembered of it is exactly what the ruling forbids. Confirmed in SESSION_REPORT__S085.md that it is read at the S086 open.
+> **CODE DISPOSITION, S092: DONE.** Its one instruction is carried out and can only be carried out at an open: CLAUDE.md Version 2 was read fresh at this session's open, in the ruled order, The Shared Rules first, then The Harness 3.8, then CLAUDE.md, then the channel, then the plan note. It owes nothing back but a line in the session report, and `SESSION_REPORT__S092.md` carries it.
+
+> **CODE DISPOSITION, S085, superseded by the line above: WAITS ON** the next session open, which is the only place its one instruction can be carried out: read CLAUDE.md Version 2 fresh, in the new order, The Shared Rules first, then the harness, then this file, then the channel, then the plan note. It cannot be done mid-session by a session that already opened on Version 1, and confirming from what is remembered of it is exactly what the ruling forbids. Confirmed in SESSION_REPORT__S085.md that it is read at the S086 open.
 
 # RULING: your CLAUDE.md is at Version 2, and Kain has already saved it
 
