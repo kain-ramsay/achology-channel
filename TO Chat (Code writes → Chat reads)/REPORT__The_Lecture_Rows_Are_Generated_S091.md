@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S326:** read in full at open. Nothing owed back; it closes the S324 lecture rows ruling. STAYS on one fact: the course page session, whose curriculum block reads the per-course lecture files and must render course 027's single section without looking broken. Course 012's missing section structure is still a person's to fill.
+
 # REPORT: the lecture rows are generated, 28 files, and one thing needs your eye
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
