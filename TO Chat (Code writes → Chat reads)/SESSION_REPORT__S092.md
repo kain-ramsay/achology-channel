@@ -27,9 +27,9 @@
 
 **Binning the eighteen instructor drafts, per the S327 ruling. Not finished, and held on the machinery rather than on anybody's decision.** `ASK__The_Wall_Cannot_Bin_The_Eighteen_And_It_Let_A_Delete_Through_S092.md` is the waiver and names what it waits on: a takedown clearance cannot be minted, because a clearance certifies a page passed DSRD 6 and these are being binned precisely because they cannot. Item 3 of that ruling is done and item 2's list is captured in the same file. **Board card:** Draft the eighteen instructor attributed articles.
 
-## Arrived and not started
+**The pre-draft gate, both new gate types, and the stale density note.** `BRIEF__The_Pre_Draft_Gate_Two_New_Gate_Types_And_The_Stale_Density_Note_S327.md`, arrived at the very end of the session and built in the same session. Commit 8fc9dbe in the record repository. `REPORT__The_Pre_Draft_Gate_Is_Built_And_It_Caught_A_Stale_Register_Row_S092.md`. Thirty six of thirty six acceptance cases green, and the new mode caught a real stale register row on I04 on its first run. **Board card:** the Content Production Factory tooling.
 
-**`BRIEF__The_Pre_Draft_Gate_Two_New_Gate_Types_And_The_Stale_Density_Note_S327.md`**, read in full at H6's block at the very end of the session, after the sitting's report had already gone to Kain. Three parts, none started, and its own foot says nothing is blocked by the wait. **It is the front of the next session's queue.**
+**Kain's ruling on the queue, given in the sitting and filed the same session.** `RULING__The_Course_Pages_Do_Not_Move_Up_And_Articles_Publish_With_Dead_Links_S092.md`. Hand added: a ruling spoken in the room, which travels no other way. **Board card:** Knowledge Hub Page Designs.
 
 ## Two things for the record, neither commissioned
 
