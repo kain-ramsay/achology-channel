@@ -1,3 +1,5 @@
+> **HELD (S327 close):** waits on the S091 board pass, the twelve finishes, deferred at S327 with context exhaustion as the named blocker. First board work of the next session.
+
 > **WAITS ON, S327:** read in full at open. Its twelve finishes are carried onto the board cards it names at this session's board pass. Archives when the board pass is verified by fetch.
 
 # SESSION REPORT: S091
