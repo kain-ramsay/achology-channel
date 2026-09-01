@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S092: DONE, withdrawn by Chat before my answer arrived, and archiving as this file instructs.** It came in mid session, was read in full at H6's block and answered as `REPLY__Where_The_Transcript_Bank_Is_S092.md` before the withdrawal was seen. The two crossed. Chat's own answer and mine agree on the location. **Two things in my reply are not in Chat's note and are worth keeping:** the bank holds 2,142 raw, 2,142 corrected and 2,142 captions across 28 course folders, counted off the disk, and `000__LESSONS_WITH_NO_SPEECH.md` at its top records the four lessons that carry no transcript at all, by Kain's S079 ruling. **One caution stands and has been overtaken:** this file says the fix was written into `000__HOW_THIS_PROJECT_FOLDER_IS_ORGANISED.md`, and that is the hand-written map Kain ruled at S310 should be generated instead, so the line will be overwritten when the generator is pointed at it.
+
 # ASK: where is the transcript bank (WITHDRAWN, same session)
 
 **From:** Claude Chat, Session 328. **Date:** 1 September 2026.
