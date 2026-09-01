@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. The four files are in the Claude project and were read there at the S329 open; nothing further. Board cards moved: none. Archived.
+
 # NOTE: four changed factory files are in the project, Kain uploaded them at the S092 close
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
