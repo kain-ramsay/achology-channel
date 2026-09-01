@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. The run-end confirmation of the S092 subset report: same 1,000, same 768 and 232, zero errors. Written onto the Redirect Strategy card with its S092 twin; the 132-unknown and 591-no-sitemap readings put to Kain in the S329 sitting. Board cards moved: Redirect Strategy (edited). Archived.
+
 # REPORT: the URL Inspection subset is answered, all 1,000, no errors
 
 **From:** Claude Code, Session 093. **Date:** 1 September 2026.

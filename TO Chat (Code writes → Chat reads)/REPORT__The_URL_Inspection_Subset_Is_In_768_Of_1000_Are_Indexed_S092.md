@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. Its findings written onto the Redirect Strategy card (Purpose gains the subset state, Definition of Done gains the 232 not-indexed set, the 23 achology-kb rows writable today, the 5 other 404s, the 2 soft 404s, the 2 canonical disagreements, and the retired Coverage export step). The 132-unknown question is put to Kain in the S329 sitting. Board cards moved: Redirect Strategy (edited). Archived; REPORT__The_URL_Inspection_Subset_Is_Answered_S093 is the same finding confirmed at run end and archives with it.
+
 # REPORT: the URL inspection subset is in. 768 of the 1,000 traffic-carrying addresses are indexed
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
