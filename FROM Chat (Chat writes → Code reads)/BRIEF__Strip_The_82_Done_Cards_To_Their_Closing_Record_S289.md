@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** the Notion run itself. No report exists in the channel Archive, so it has not been run; the pre-change backup file it requires does not exist either.
+> **CODE DISPOSITION, S093: DONE, the run is complete and reported as `REPORT__The_Done_Card_Strip_Is_Complete_S093.md`.** Every card the board returns at Status Done carries a closing record and nothing else: eight at S092 and eighty seven this session. Nothing outside the four fields was touched on any of them, no card was deleted and no open card was opened, confirmed by read-back on three. The pre-change backup this brief requires exists as twelve batch files in the `Notion Done Card Backup S092` folder, 95 cards with no duplicates, and it is now in version control, which it was not: the ignore rule on that tree was swallowing it. **Six cards carry `Closed. Reason not recorded on the card`**, per this brief's own instruction, and they are listed in the report. **Two things are still mine and both are one query:** the after character count, and a recount, because the board answered 95 Done cards today where the S092 record says 103. The workspace's SQL quota ran out before either could run.
+
+> **CODE DISPOSITION, S085, superseded by the line above: WAITS ON** the Notion run itself. No report exists in the channel Archive, so it has not been run; the pre-change backup file it requires does not exist either.
 
 # BRIEF: strip the 82 Done cards on the Notion board to their closing record
 
