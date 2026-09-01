@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read; board pass run. Progress note written onto the Plugins & Site Configuration card's page body (the six live values, the ACF sync stamp lesson, the four unsynced groups, the lecture-transcript value still owed). Board cards moved: Plugins & Site Configuration (page body). Archived.
+
 # REPORT: the article type choice list is live on the install, and S310 is closed
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026. **Theme v0.132.1, deployed.**
