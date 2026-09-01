@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S326:** listed at open, not read in full. S326 is a project-delivery-system session on the skill library, not a website session. STAYS on one fact: the next website session, which reads it and writes it into the document that owns the icon box rule.
+
 # RULING: Kain's S082 icon box rule reaches the /help/ section
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
