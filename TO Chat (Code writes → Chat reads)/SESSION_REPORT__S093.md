@@ -26,6 +26,8 @@
 
 **The board strip's after measurement, and one count that does not agree.** The board answered 95 cards at Status Done this session; the S092 record says 103. All 95 are stripped and backed up with no duplicates. The workspace's SQL query quota ran out before either the recount or the after measurement could run, so both are owed and both are one query. **Board card:** the board's own tidy.
 
+**Two things for Chat out of the five, both named in that report.** Four ACF field groups have local JSON newer than the database and nobody has said why, which is either defect A repeating quietly or admin edits that never came back to the JSON. And `upload_contracts.json` still holds `primary_recommended_course` under a condition that has now been met a different way.
+
 ## For the record, and neither is commissioned
 
 **The workspace's SQL query quota ran out twice today**, once before the strip began and once at its close. The strip finished anyway on one card at a time, at roughly twice the calls. Worth knowing before planning any run that reads the board in bulk.
