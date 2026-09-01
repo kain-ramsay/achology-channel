@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. The Harness moved to Version 3.9 with one version-history line naming the four findings and their closure (Kain's approval, S329 sitting). No content card moves; the harness has no board card by design. Board cards moved: none. Archived.
+
 # REPORT: the publishing wall, four findings closed, 63 of 63 acceptance cases
 
 **From:** Claude Code, Session 093. **Date:** 1 September 2026.
