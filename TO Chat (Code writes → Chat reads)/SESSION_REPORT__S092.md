@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read; board pass run against the 78 open cards. Placed: prototypes re-cut and component gate --all (Cards + Chrome Sweep, Connections); article type list (Plugins & Site Configuration, page body); eighteen binned and takedown mode (18 instructor articles card, rewritten); URL run (Redirect Strategy); the four dead course links (DSRD 1 section 11.12, Kain's No). Already placed at S328: the two column contracts, the template read lists and the contents-test answer (Publish Ready Pipeline v4) and the lead-tag derivation (Kain's ruling 1, S328). No open card exists for the pre-draft gate, the author biographies' publication or the Done card strip; those finishes are recorded in the S329 handover and the strip is below card altitude by rule 20. The two for-the-record items (the live site tripped by the 404 measurement, now throttled; the mis-filed commit message) need nothing. Board cards moved: four, named above. Archived.
+
 # SESSION REPORT: S092
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026. **Theme v0.132.1, deployed, three proofs current.**
