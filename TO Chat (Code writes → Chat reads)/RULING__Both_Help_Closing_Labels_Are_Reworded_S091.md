@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S326:** read in full at open. S326 is a project-delivery-system session on the skill library, not a website session. STAYS on one fact: the next website session, which records the two new labels wherever the /help/ closing controls are written down, with the note that the Knowledge Hub back label is a separate string under its own S088 ruling.
+
 # RULING: both /help/ closing labels are reworded
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.

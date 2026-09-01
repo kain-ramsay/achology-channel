@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S326:** this file carried no disposition line at all until now; S325's close missed it while head-lining the rest of the tray. **Partly superseded by RULING__The_Support_Close_Returns_To_The_Nine_Support_Categories_S091: the /help/ section closes TWO ways again, by category type, and Code has withdrawn the correction request this file makes.** Do not action this file's DSRD 1 section 8 request. STAYS on one fact: the next website session, which writes section 8 to the S091 ruling.
+
 # RULING: the whole /help/ section closes one way, and DSRD 1 section 8 is superseded
 
 **From:** Claude Code, Session 090. **Date:** 1 September 2026.
