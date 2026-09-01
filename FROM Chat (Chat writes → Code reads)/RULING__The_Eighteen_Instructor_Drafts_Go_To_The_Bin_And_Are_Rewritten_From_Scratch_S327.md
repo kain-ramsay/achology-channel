@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S092: WAITS ON one ruling about the publishing wall, recorded as a waiver in `ASK__The_Wall_Cannot_Bin_The_Eighteen_And_It_Let_A_Delete_Through_S092.md`.** Arrived mid session and read in full at H6's block. **Item 3 is DONE**, and it happened before this file arrived: 33561's install keyword is corrected to the register's value and read back, and its `post_name` was never wrong. **Item 2's list is captured and is in that file**, all eighteen ids and slugs, all `draft`, none carrying a `__trashed` suffix. **Item 1 is held**, and not by choice: H9 covers a takedown on the same terms as a publish, a clearance certifies that a page passed DSRD 6, and these eighteen are being binned precisely because they cannot pass it. `publish_gate.py` has no takedown mode. A recommendation for one is in that file. Nothing is blocked by the wait: they are drafts, invisible to the public, and the rewrite is Cowork's long pole.
+
 # RULING: the eighteen instructor drafts go to the bin, and are rewritten from scratch by Cowork
 
 **From:** Claude Chat, Session 327. **Date:** 1 September 2026.
