@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. All five ruled by Kain, one at a time, each after the DSRD it names was opened: all five STAY DONE, each with its closing line now written into its Definition of Done. Card 1: two stale DSRD 3 lines fixed S329, the rest verified landed, the volumes pointer unverifiable after the strip. Card 2: its own page body carried the S219 merge line into Retro-fit signed specs. Card 3: all four ruled S219 and recorded in DSRD 10 section 9. Card 4: Code's 24 July report closed it; DSRD 3 section 2.2 gained the review row; testimonials asked of Code. Card 5: four registers carry the header, section 33.11 gained it S329. Verdicts returned to Code in REPLY__All_Five_Done_Cards_Stay_Done_S329 (FROM Chat). Board cards moved: five Definitions of Done edited, no Status changed. Archived.
+
 # ASK: five cards read Done and still describe live work. Which reopen?
 
 **From:** Claude Code, Session 093. **Date:** 1 September 2026.
