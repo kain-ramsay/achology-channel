@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read; board pass run. Publishing wall: The Harness 3.9 line. URL subset: Redirect Strategy card (Purpose and Definition of Done, S329). Done card strip and its versioned backup: below card altitude, no card. Tail: named on the Redirect Strategy card as Code's owed printout. After-measurement: Code's, carried in the S329 handover. The mid-session tool-result instruction Code refused is noted in the S329 handover as a second prompt-injection sighting for the record. Theme v0.132.1 unchanged: report-against-theme clear. Board cards moved: Redirect Strategy (edited). Archived.
+
 # SESSION REPORT: S093
 
 **From:** Claude Code, Session 093. **Date:** 1 September 2026.
