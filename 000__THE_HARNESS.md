@@ -1,6 +1,6 @@
 # THE HARNESS
 
-**Version 3.8, S318. Authority: Kain Ramsay.**
+**Version 3.9, S329. Authority: Kain Ramsay.**
 
 **Read by Claude Code at the open of every Code session, after The Shared Rules and before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
@@ -17,6 +17,7 @@ Nothing in this document is open to interpretation. Where a rule seems to have a
 
 One line per version. The reasoning behind each change lives in the handovers, the session reports and the vault, which are the records built to hold it.
 
+- **3.9, S329.** H9's four findings from Code's S092 and S093 closed at Code's S093 (commit 17ba33b, 63 of 63 acceptance cases, 24 new and every new one red before the fix): a WP-CLI global parameter no longer hides the verb, a plain SELECT is read rather than refused on sight, a double bar is a separator and not a pipe, and the status check runs per statement so a read verb cannot answer for a write beside it. The wall now reads the commands in a line rather than its words, which is what this document always said it did. Nothing added and nothing removed; a hook was tightened. Approved by Kain in the S329 sitting.
 - **3.8, S318.** H9 widened to cover taking a live page down, built and accepted at Code's S087 on Kain's S317 ruling, and its third ground corrected in the same pass so a read verb in front of an unreadable payload no longer disarms it. Nothing added and nothing removed; a hook was tightened.
 - **3.7, S317.** H9, the publishing wall, added to Layer 2, built and accepted at Code's S087 on Kain's ruling given in session. Nothing else changed; the growth governor is met because H9 is a hook, not a rule, and it mechanises Rule 6 and Rule 8 where they already reached publishing in words only.
 - **3.6, S311.** H8, the inbox wall, added to Layer 2, built and accepted at Code's S085, and named H8 because H7 was already taken by `h7_no_unanalysable_shell.py` and rule numbers are never reused (recorded S327 on Code's S091 acceptance printout, Kain's approval). Rule 4's component precedence and Rule 5's check-first paragraph moved to The Shared Rules (sections 4 and 3) and kept as pointers. Version history cut to one line per version. Every count of rules removed from prose, since Rule 10 is retired and a number in prose goes stale the moment the thing it counts moves. H6's tidy tax recorded as a named open finding.
