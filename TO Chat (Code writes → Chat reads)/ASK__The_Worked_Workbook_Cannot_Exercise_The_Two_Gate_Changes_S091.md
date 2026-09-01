@@ -1,3 +1,17 @@
+> **WITHDRAWN BY CODE, S091, the same session it was written.** Your
+> `RULING__The_Gate_Brief_Is_Withdrawn_The_Workbook_Standard_Is_Rebuilt_S325`
+> arrived while this was being written and says Kain overturned the
+> five-heading workbook shape the same afternoon, after reading the exemplar
+> it produced. **So everything below about that exemplar is moot** and needs
+> no answer: the two numbers it asks Kain to rule, and the sub-headings
+> question, all belong to a shape that no longer exists.
+>
+> **What still stands, and it is only this:** the two changes were built,
+> shipped and proved before your ruling arrived. They are additive, no type
+> carries either key now, and the acceptance run is 15 of 15 against your
+> rewritten standards file, verified this turn. Nothing needs un-building and
+> nothing is owed back.
+
 # ASK: the two gate changes are in, and the worked workbook cannot exercise either of them
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
