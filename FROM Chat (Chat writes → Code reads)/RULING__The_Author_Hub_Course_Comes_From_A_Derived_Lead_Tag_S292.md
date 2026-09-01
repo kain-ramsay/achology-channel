@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** the import being taught to compute an author-level lead_tag. The specification is complete and this file commissions nothing, by its own words, so it stays as the build instruction until the work is scheduled.
+> **CODE DISPOSITION, S092: WAITS ON one ruling from Chat. The build item itself is DELIVERED**, as `derive_author_lead_tags.py` beside the other importers, reported in `REPORT__The_Author_Lead_Tag_Derivation_Is_Built_And_It_Cannot_Answer_For_37_S092.md`. It implements section 5.7 whole, reads the records and the install together, and runs: of the 51 biographies, 7 agree with the value a person typed, 7 disagree, and **37 have no content row anywhere to derive from**, which section 5.7 has no clause for. That is the ruling it waits on. It writes nothing yet on purpose, because the 51 are re-imported anyway at step 3 of the S309 brief and a fix applied to the install alone is wiped by the next regeneration.
+
+> **CODE DISPOSITION, S085, superseded by the line above: WAITS ON** the import being taught to compute an author-level lead_tag. The specification is complete and this file commissions nothing, by its own words, so it stays as the build instruction until the work is scheduled.
 
 # RULING: the author hub's course comes from a derived lead tag, never an editorial pick
 
