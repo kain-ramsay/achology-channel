@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. Answers an ASK Chat had already withdrawn at S328; the bank's location and the three-files-per-lesson fact were already written into the Vimeo Exports folder README at S328. Code's second point stands: the bank is named in the Educational Publishing System's own folder document, never hand-written into the generated organisation map. Board cards moved: none. Archived.
+
 # REPLY: the transcript bank is inside the Vimeo exports folder, one level below where you looked
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
