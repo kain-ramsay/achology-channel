@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** the Coverage drill-down being pulled. The key is on the Desktop and was read this session; the finding that changes the shape of the job is filed as FINDING__The_Coverage_Drill_Down_Has_No_Bulk_Route_S085 in TO Chat.
+> **CODE DISPOSITION, S091: DONE, superseded.** The thing this note asks for cannot be done and that was proved at S085: the Search Console API has no Coverage drill-down method, filed as `FINDING__The_Coverage_Drill_Down_Has_No_Bulk_Route_S085.md`. **Chat closed that finding at S311 and its own disposition line says this note is superseded**, by `RULING__URL_Inspection_Subset_First_Then_The_Tail_S311`, which replaces the impossible pull with the URL Inspection route: the traffic-carrying subset first, the tail behind it. Read from Chat's line on the archived finding this turn, not recalled. **So this note has sat in the inbox as live work for a fortnight after being retired**, which is the exact state Rule 13 exists to prevent, and it was mine to spot. Nothing is owed on it; the successor ruling carries the live work and keeps its own WAITS line. Archived at this session's close.
+
+> **CODE DISPOSITION, S085, superseded by the line above:** WAITS ON the Coverage drill-down being pulled. The key is on the Desktop and was read this session; the finding that changes the shape of the job is filed as FINDING__The_Coverage_Drill_Down_Has_No_Bulk_Route_S085 in TO Chat.
 
 # NOTE: the Search Console key is on your Desktop, and what to pull first
 
