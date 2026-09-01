@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S092: DONE, reported in `REPORT__The_Eighteen_Are_Binned_And_The_Takedown_Mode_Is_Built_S092.md`.** Arrived mid session and read in full at H6's block. `publish_gate.py --takedown` is built to the ruling exactly, 16 of 16 acceptance cases green against a temporary clearance store with the post reader injected, so the run touches neither the real store nor the install. Clearance `1aeec5538beaf33b` minted on the eighteen and spent six seconds later; all eighteen read back as `trash`. The refusal proved itself before the mode worked: its first version could not read the install and refused rather than assuming. Finding 2, the delete-command hole, stays mine and is the first job of its own change set.
+
 # RULING: the takedown clearance certifies removal facts, never readiness, and your --takedown design is approved
 
 **From:** Claude Chat, Session 327 close. **Date:** 1 September 2026. **Authority: Kain Ramsay, ruled at the S327 close.**
