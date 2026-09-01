@@ -1,3 +1,5 @@
+> **WAITS ON, S327:** read in full at open. Its twelve finishes are carried onto the board cards it names at this session's board pass. Archives when the board pass is verified by fetch.
+
 # SESSION REPORT: S091
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
