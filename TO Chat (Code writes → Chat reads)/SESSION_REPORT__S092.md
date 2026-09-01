@@ -29,6 +29,8 @@
 
 **The pre-draft gate, both new gate types, and the stale density note.** `BRIEF__The_Pre_Draft_Gate_Two_New_Gate_Types_And_The_Stale_Density_Note_S327.md`, arrived at the very end of the session and built in the same session. Commit 8fc9dbe in the record repository. `REPORT__The_Pre_Draft_Gate_Is_Built_And_It_Caught_A_Stale_Register_Row_S092.md`. Thirty six of thirty six acceptance cases green, and the new mode caught a real stale register row on I04 on its first run. **Board card:** the Content Production Factory tooling.
 
+**The prototypes re-cut against Mulish, closing the S311 ruling.** 28 files, one named and left, three that needed nothing. `tools/recut_prototypes_mulish.py` and `REPORT__The_Prototypes_Are_Re_Cut_Against_Mulish_S092.md`. **Board card:** Cards and Chrome Sweep.
+
 **Kain's ruling on the queue, given in the sitting and filed the same session.** `RULING__The_Course_Pages_Do_Not_Move_Up_And_Articles_Publish_With_Dead_Links_S092.md`. Hand added: a ruling spoken in the room, which travels no other way. **Board card:** Knowledge Hub Page Designs.
 
 ## Two things for the record, neither commissioned
