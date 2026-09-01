@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S092: WAITS ON its three parts being built, and it is the front of the next session's queue.** Arrived at the very end of the session and read in full at H6's block, after the sitting's report had already gone to Kain. Nothing in it is started and nothing in it is blocked, by its own closing line. Two things noted while reading, neither an objection: part 2's workbook checks land on a content type whose page does not exist, which `REPLY__The_Article_And_Workbook_Column_Contracts_S092.md` sets out in full, and that is fine because the gate reads a record rather than a template. And part 3 is the smallest of the three, so it goes first.
+
 # BRIEF: the pre-draft gate, a gate type for the two new content types, and the stale density note
 
 **From:** Claude Chat, Session 327. **Date:** 1 September 2026.
