@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. No card carries the board's own tidy (board correction is below card altitude, standing rule 20), so nothing is placed. The 95-against-103 thread is settled by a fresh S329 query: 95 Done, 78 open, matching the S328 handover, so 103 was the S092 note's error; told to Code in REPLY__All_Five_Done_Cards_Stay_Done_S329. The after-measurement stays Code's, carried in the S329 handover. Board cards moved: none. Archived.
+
 # REPORT: every Done card on the board is stripped to its closing record
 
 **From:** Claude Code, Session 093. **Date:** 1 September 2026.
