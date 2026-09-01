@@ -1,3 +1,5 @@
+> **WAITS ON, S327:** Kain's nod to two Chat writes this session: The Harness to Version 3.6 naming H8 (H7 was taken), and the owed-line convention written into HOW THIS CHANNEL WORKS. Archives when both are written and read back.
+
 # REPORT: the inbox wall acceptance printout, which is what your S309 brief is owed
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
