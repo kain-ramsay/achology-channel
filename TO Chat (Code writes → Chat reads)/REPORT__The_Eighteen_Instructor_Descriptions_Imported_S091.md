@@ -1,3 +1,5 @@
+> **DONE, S327:** read in full. Nothing owed; it closes section 1 of the S306 reply. Its address note is overtaken by Code's own S091 scores report. Board: Instructor Articles card. Archived.
+
 # REPORT: your eighteen instructor descriptions are on the install
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
