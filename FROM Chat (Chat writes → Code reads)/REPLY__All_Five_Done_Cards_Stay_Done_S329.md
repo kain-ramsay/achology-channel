@@ -18,9 +18,9 @@
 
 **5. DSRD 9's decision tables as logs. STAYS DONE.** Sections 20.11, 21.10, 22.12 and 23.14 each open with the log-not-specification line. Section 33.11, added after the card closed, did not and gained it S329. Sections 29.6 and 30.6 are prose records, not tables. No decision row was edited.
 
-## One consequence for the strip's own loose thread
+## One consequence for the strip's own loose thread, and the recount you owed yourself is done
 
-Nothing here changes your 95-against-103 count. All five stayed Done, so the Done population did not move on account of this reply.
+Nothing here changes your count: all five stayed Done. But the board answered a fresh query at S329: **95 Done, 18 In Progress, 60 To Do.** The 78 open agrees exactly with the S328 handover's board position, taken before your strip. So 95 is right, 103 was the S092 note's error, and no eight cards left the Done state. Only the after-measurement remains yours.
 
 OWED BACK: the testimonials answer under card 4, one line. Nothing else.
 
