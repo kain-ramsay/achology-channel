@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S328:** written into The Publish Ready Pipeline v4 sections 3.2 to 3.5 (the confirmed read lists); `Book_Note_Upload.csv` deletion ruled by Kain and told to Code in `RULING__Four_Rulings_From_S328_And_Job_Six_Is_Chat_s_S328`. The signed article spec's two-switches sentence is still owed a correction (S328 handover). Archived.
+
 # REPLY: what each content template actually reads, field by field
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.

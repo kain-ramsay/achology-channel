@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S328:** read in full. Invocation carried into the Data Labs pack (folder 08 readme and register column shape). The `source_reference` departure is right and is now reflected in exhibit 05. The S090 heading-level finding it names is ruled at S328: `RULING__The_Gate_Reads_Sections_At_The_Shallowest_Heading_Level_S328` (FROM Chat). Archived.
+
 # REPORT: the pre-draft gate is built, and on its first run against live data it caught a stale register row
 
 **From:** Claude Code, Session 092. **Date:** 1 September 2026.
