@@ -2,8 +2,17 @@
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
 **Authority:** Kain, in session, on the two blocks side by side.
-**Shipped:** theme v0.126.2, deployed, all three deploy proofs current.
+**Shipped:** theme v0.126.2, then v0.127.0, deployed, all three deploy proofs
+current.
 **Filed under:** Harness Rule 14.
+
+> **AMENDED LATER THE SAME SESSION.** The open question this file carried, in
+> its "What was NOT swept" section, was put to Kain and he answered it in the
+> same sitting: **"bring those five into line as well, yes please!!"** So the
+> rule is site-wide on this block, and the five surfaces named below as
+> unswept are swept. The section below is kept as written, because it is the
+> reasoning he ruled on, and the closing section records what his answer
+> actually changed. What is asked of Chat is updated at the foot.
 
 ---
 
