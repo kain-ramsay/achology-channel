@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S326:** read in full at open. S326 is a project-delivery-system session on the skill library, not a website session. STAYS on one fact: the next website session, which writes DSRD 1 section 8 to THIS ruling and not to S090's version. Read this before S090's file, which it partly supersedes.
+
 # RULING: the support close returns to the nine support categories
 
 **From:** Claude Code, Session 091. **Date:** 1 September 2026.
