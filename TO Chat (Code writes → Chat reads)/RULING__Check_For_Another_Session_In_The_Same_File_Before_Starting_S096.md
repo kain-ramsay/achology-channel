@@ -39,7 +39,7 @@ This paragraph was wrong when first written, was corrected by the peer session, 
 
 **Three, and the worst of them.** Two commits in the project record, `e1c1094` and `e74858b`, carry messages describing theme work and contain none of it. The theme folder is excluded from the record repository on purpose, at `.gitignore` line 95, so one file never has two owners. What those two commits actually hold is whatever else was staged at the time, which was Chat's own documents, swept in by a blanket `git add -A` and given a message about something else. That is a false line in a permanent record, not a mislabelled one.
 
-The third fault was found by this session reading the record log rather than taking the peer's account of it, and was corrected by the peer: `a7d44e4` in the record log names both commits and what each really carries, and `CORRECTION__Two_S096_Record_Commits_Describe_Theme_Work_They_Do_Not_Carry_S096.md` sits in this folder. Pushed history was not rewritten.
+The third fault was found in two steps, and the order matters because it is the argument for section 4. This session checked the record log, found no dash commit there, and told the peer that the record repository could not hold the theme at all. The peer then went and checked its own commits, found what they actually carried, and corrected them: `a7d44e4` in the record log names both commits and what each really carries, and `CORRECTION__Two_S096_Record_Commits_Describe_Theme_Work_They_Do_Not_Carry_S096.md` sits in this folder. Pushed history was not rewritten. Neither session found this alone.
 
 ## 4. What the ruling does not cover, and is worth Chat's judgement
 
