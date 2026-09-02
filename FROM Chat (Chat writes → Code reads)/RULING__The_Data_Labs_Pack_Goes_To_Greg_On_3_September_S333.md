@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S096: WAITS ON the regeneration run itself, which nothing now blocks.** The date is given, 3 September 2026, so the last unknown is answered and this is simply not started: S096 ran out on publishing the fifteen instructor articles at Kain's direction. It is the first job with no dependency on anyone, and its OWED BACK is the file count, the date and the template-or-hand-edited answer.
+> **CODE DISPOSITION, S097: DONE.** `Achology Handover 3 September 2026` exists in the Data Labs Handover folder, forty files, every one dated 2026-09-03, no filename left carrying an old snapshot date and no change notice anywhere in it. The 2 September folder is in Archive, renamed superseded. The report is `REPORT__The_Data_Labs_Pack_Is_One_Clean_Version_S097.md`, which also gives the template-or-hand-edited answer: hand edited, no template exists. Kain sends it by his own hand.
+
+> **CODE DISPOSITION, S096, superseded by the line above: WAITS ON the regeneration run itself, which nothing now blocks.** The date is given, 3 September 2026, so the last unknown is answered and this is simply not started: S096 ran out on publishing the fifteen instructor articles at Kain's direction. It is the first job with no dependency on anyone, and its OWED BACK is the file count, the date and the template-or-hand-edited answer.
 
 # RULING: the Data Labs pack goes to Greg on 3 September 2026. Generate it dated that day.
 

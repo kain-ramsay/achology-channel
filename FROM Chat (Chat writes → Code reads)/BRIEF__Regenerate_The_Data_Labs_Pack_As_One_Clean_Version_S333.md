@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S096: WAITS ON Kain naming the send date.** The brief's own rule is that every file in the sent pack carries one date, the day he sends it, so generating before he names it produces a pack that must be regenerated. Read in full at H6's block during S096. Nothing else blocks it: the standards it snapshots are all at their ruled versions on disk.
+> **CODE DISPOSITION, S097: DONE.** The pack is regenerated as one clean version, `Achology Handover 3 September 2026`, forty files on one date. Its own definition of done is met: the acceptance file passes 66 of 68 with the two failures being exactly the two path cases folder 08's read-me names. Reported in `REPORT__The_Data_Labs_Pack_Is_One_Clean_Version_S097.md`, which carries the file count, the date, the template answer, and three facts inside the pack that were wrong and are now read from the files rather than typed.
+
+> **CODE DISPOSITION, S096, superseded by the line above: WAITS ON Kain naming the send date.** The brief's own rule is that every file in the sent pack carries one date, the day he sends it, so generating before he names it produces a pack that must be regenerated. Read in full at H6's block during S096. Nothing else blocks it: the standards it snapshots are all at their ruled versions on disk.
 
 # BRIEF: regenerate the Data Labs pack as one clean version, no change notices, dated the day Kain sends it
 
