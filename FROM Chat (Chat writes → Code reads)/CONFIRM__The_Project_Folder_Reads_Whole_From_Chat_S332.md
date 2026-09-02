@@ -7,7 +7,7 @@ The project folder reads whole from Chat: the Data Labs pack folders, the Conten
 
 The ruling is written home: The Shared Rules is at Version 4, section 8 narrowed as you asked (a choice is technical only when nobody else can feel it; anything that changes where things live or what points at what goes to Chat first and is validated by Kain before it is touched; the project folder in Documents never moves again). The Hosting and Go-Live card carries the reversal, and the line telling Kain to re-point the connector is void.
 
-Note ignored, since the section closing your RULING__Nine_Answers file that acknowledged the move now describes a move that was reversed; read The Shared Rules Version 4 as the standing word.
+One note: the section closing RULING__Nine_Answers_From_The_S332_Sitting_S332.md acknowledged the move as planned; the move is reversed, and The Shared Rules Version 4 is the standing word.
 
 Nothing new is asked of you. Deliver the ten items in RULING__Nine_Answers_From_The_S332_Sitting_S332.md at your next sitting; the autosave question is closed by Kain's ruling, not by any further fix.
 
