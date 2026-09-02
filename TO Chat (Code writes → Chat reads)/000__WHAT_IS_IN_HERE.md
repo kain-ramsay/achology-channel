@@ -11,7 +11,7 @@ This is Claude Code's outbound tray: his session reports, answers, and rendered 
 **Does not belong:** anything Chat writes (FROM Chat is Chat's side), handled files (the Archive holds those), or any document's permanent home. This folder is transport, never storage.
 
 <!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
-_Generated 26 August 2026 by tools/channel_map.py. Regenerate it rather than editing it._
+_Generated 02 September 2026 by tools/channel_map.py. Regenerate it rather than editing it._
 
 ### Subfolders
 
@@ -21,16 +21,36 @@ _Generated 26 August 2026 by tools/channel_map.py. Regenerate it rather than edi
 ### Loose files at this level
 
 - 000__WHAT_IS_IN_HERE.md
-- ASK__Hold_The_Channel_During_S085_S084.md
-- BRIEF__v0_101_0_The_Repoint_The_Gallery_And_The_Help_Keywords_S084.md
-- DELIVERY__The_Fourteen_Testimonial_Videos_S084.md
-- FINDING__The_Coverage_Drill_Down_Has_No_Bulk_Route_S085.md
-- FINDING__The_Header_Was_Never_Checked_And_The_Section_Header_Was_Never_Built_S084.md
-- FIX__Bake_Master_File_Prohibition_Into_Cowork_Harness.md
-- HOLD__The_Body_Face_Is_Reopened_S084.md
-- REPLY__The_Plugin_State_And_The_Kit_Checks_S085.md
-- REPORT__Everywhere_The_Body_Face_Is_Named_S084.md
-- REPORT__S308_Third_Expansion_25_Book_Notes_Closed.md
-- REPORT__The_FROM_Chat_Tidy_S085.md
-- RULING__The_Body_Face_Is_Literata_S084.md
-- SESSION_REPORT__S084.md
+- REPLY__The_Confirmed_Book_Note_Column_List_S090.md
+- REPLY__The_Eighteen_Master_Slugs_S090.md
+- REPLY__The_Route_For_The_S079_Captures_S090.md
+- REPLY__The_S091_Report_Is_Filed_And_The_Two_Contracts_Are_Next_S091.md
+- REPLY__The_Three_S320_Course_Page_Questions_S090.md
+- REPORT__SearchWP_Is_Installed_S089.md
+- REPORT__Stage_5_Passes_All_Fifteen_And_Two_Findings_S095.md
+- REPORT__The_Eighteen_Instructor_Articles_Scored_S086.md
+- REPORT__The_First_Demand_Candidates_Run_S095.md
+- REPORT__The_Fourteen_Testimonial_Videos_Whitelisted_S090.md
+- REPORT__The_Image_And_Icon_Machinery_S090.md
+- REPORT__The_Instruction_Drift_Check_Is_Installed_S091.md
+- REPORT__The_Lecture_Rows_Are_Generated_S091.md
+- REPORT__The_Pre_Draft_Gates_Fifth_Check_Is_Built_S095.md
+- REPORT__The_Retro_Score_Table_65_Book_Notes_And_51_Biographies_S087.md
+- REPORT__The_Two_Kit_Plugin_Checks_S090.md
+- RULING__Book_Note_Heading_Five_Is_Reworded_And_The_Contents_List_Never_Worked_S088.md
+- RULING__Both_Help_Closing_Labels_Are_Reworded_S091.md
+- RULING__Clear_The_Backlog_Before_New_Work_S089.md
+- RULING__Kain_Has_Bought_The_SearchWP_Licence_S087.md
+- RULING__The_Article_And_Book_Note_Hero_Standard_S085.md
+- RULING__The_Breadcrumb_Holds_As_Built_And_Two_Documents_Are_Wrong_S090.md
+- RULING__The_Footer_Holds_And_An_Unruled_Sixth_Social_Button_Is_Removed_S090.md
+- RULING__The_Policies_Page_Card_Band_And_Its_New_Header_Copy_S090.md
+- RULING__The_S082_Icon_Box_Rule_Reaches_The_Help_Section_S091.md
+- RULING__The_Support_Close_Returns_To_The_Nine_Support_Categories_S091.md
+- RULING__The_Where_Next_Panel_Holds_And_Is_Not_Duplicated_S090.md
+- RULING__The_Whole_Help_Section_Closes_One_Way_S090.md
+- SESSION_REPORT__S086.md
+- SESSION_REPORT__S089.md
+- SESSION_REPORT__S090.md
+- SESSION_REPORT__S094_ADDENDUM.md
+- SESSION_REPORT__S095.md
