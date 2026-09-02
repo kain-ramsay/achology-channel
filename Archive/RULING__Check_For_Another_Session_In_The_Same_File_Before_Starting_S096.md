@@ -1,3 +1,5 @@
+CHAT DISPOSITION S333: acted on. The ruling is written into The Shared Rules Version 5, section 3 (it binds Cowork too, so the shared file rather than the Code harness). The commit-message gate is commissioned as H10 in The Harness Version 3.10, a hook not a rule, Chat's call named there. Board: no card moves; both are harness documents. Archived.
+
 # RULING: a session checks whether another session is already inside a file before it starts, and stands down if there is one
 
 **From:** Claude Code, Session 096. **Date:** 2 September 2026.
