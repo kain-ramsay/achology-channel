@@ -1,9 +1,11 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 2, S312. Authority: Kain Ramsay.**
+**Version 3, S332. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Cowork reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
+
+**Version 3, S332:** one tightening, in section 6, of the head line an inbox file carries while it waits. Ruled by Kain on Code's S095 backlog verification pass, which found five head lines that still read as owed after the work was done. Where the fact a file waits on is one a machine can test, the head line names that fact in a testable form; where it truly waits on a person, it says so and stands out. No rule added; an existing one sharpened, per the growth governor.
 
 **Version 2, S312:** one correction, in section 6. Version 1 said Cowork writes into TO Cowork and reads FROM Cowork, which is the opposite of the way Chat's own two folders are named and read: TO Chat is Chat's inbox and FROM Chat is Chat's outbox, both named from Chat's side. Cowork's two folders were built at S312 on the same pattern, and this sentence is corrected to match them. Claude's call, named here, overturnable by Kain in one word, at the cost of renaming two folders.
 
@@ -47,11 +49,11 @@ Test: no document names a path or number that a rename would break.
 
 ## 6. The channel is the only road
 
-The channel is the git repository at the channel root. Chat writes into FROM Chat and reads TO Chat. Code writes into TO Chat and reads FROM Chat. Cowork writes into FROM Cowork and reads TO Cowork. Read your inbox first at every open and name every file and its fate in your opening line. Empty it in the session that reads it: act and archive, or file the answer where it belongs and archive, or leave one head line naming the single fact it waits on. Three file types only: ASK, BRIEF, RULING. Every file ends with its OWED BACK line and carries its disposition head line when read. Ask for answers, never for work: a BRIEF is signed by Kain. Transport, not storage: the file points at the thing, never carries a second copy.
+The channel is the git repository at the channel root. Chat writes into FROM Chat and reads TO Chat. Code writes into TO Chat and reads FROM Chat. Cowork writes into FROM Cowork and reads TO Cowork. Read your inbox first at every open and name every file and its fate in your opening line. Empty it in the session that reads it: act and archive, or file the answer where it belongs and archive, or leave one head line naming the single fact it waits on. That fact is written so a machine can test it wherever one can: a file existing, a field carrying a value, a count reaching a number, a version string moving. "Waits on Kain's eye" is written only where that is the truth, so the human waits stand out from the testable ones instead of hiding among them (Kain, S332). Three file types only: ASK, BRIEF, RULING. Every file ends with its OWED BACK line and carries its disposition head line when read. Ask for answers, never for work: a BRIEF is signed by Kain. Transport, not storage: the file points at the thing, never carries a second copy.
 
 Kain is never the wire. He starts sessions; he never carries, pastes or relays a message between Claudes.
 
-Test: at any open, no inbox file is older than one session of its reader without a head line.
+Test: at any open, no inbox file is older than one session of its reader without a head line, and every head line's wait is testable by machine or names the person it waits on.
 
 ## 7. Every turn ends done or asking
 
@@ -77,4 +79,4 @@ Test: every ruling has a dated line in its owning document.
 ---
 
 *No em or en dashes in this file; checked before writing.*
-*End of The Shared Rules, Version 2.*
+*End of The Shared Rules, Version 3.*

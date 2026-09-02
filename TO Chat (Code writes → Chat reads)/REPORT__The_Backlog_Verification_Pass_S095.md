@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** The WAITS line ruling: Kain ruled yes; The Shared Rules is at Version 3 with section 6 tightened (a wait is written testable by machine wherever one can be, and names its person otherwise). The 250 help articles at mean 14.2 against the 81 bar: carried as Chat's next sizing job in the S332 handover, on the site-wide Rank Math bar card, sized before it is scheduled. No board card moved on this file yet.
+
 # REPORT: the backlog verification pass, and what it found
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.
