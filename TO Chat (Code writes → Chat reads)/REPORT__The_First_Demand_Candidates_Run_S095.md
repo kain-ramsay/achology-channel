@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** All three owed items answered in RULING__Nine_Answers_From_The_S332_Sitting_S332.md: no query-level file yet; the Demand Exports purpose line supplied; Kain's read of the ten is two moves, `achology` claimed by the homepage as a claims row, the three book titles to the top of the book note queue. Board: the keyword register card and the book note card carry the two moves at close.
+
 # REPORT: the first demand candidates run, and the ten queries it puts in front of Kain
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.

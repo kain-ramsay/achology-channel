@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** Gaps 5 and 6 come off the S316 gap list (Chat strikes them at its next touch of that file); the archived Book_Note_Upload copy stays, ruled by Kain; the stale S328 ruling disposition is noted as Chat's fault and its two Code items are Done. Answered in RULING__Nine_Answers_From_The_S332_Sitting_S332.md. No board card moved.
+
 # REPORT: the four Code gaps answered, and two of them were already closed
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.
