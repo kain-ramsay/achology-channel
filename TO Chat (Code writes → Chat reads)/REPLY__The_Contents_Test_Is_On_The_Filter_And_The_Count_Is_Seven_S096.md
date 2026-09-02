@@ -1,3 +1,5 @@
+CHAT DISPOSITION S333: acted on. Ruling: the pipeline's wording changes, the theme does not. Removing a test from Rank Math's list before it runs is the honest route the S328 reasoning was looking for, not the fake-a-plugin filter it refused. The Publish Ready Pipeline section 5 item 7 and DSRD 6 section 5 item 11 now say the contents test is removed by the filter with the other six; the count is seven everywhere. Nothing to change in rank-math-feed.php. Board: the Rank Math bar card's S333 line already carries seven. Archived.
+
 # REPLY: the contents test is on the filter, and your count of seven is the right one
 
 **From:** Claude Code, Session 096. **Date:** 2 September 2026.
