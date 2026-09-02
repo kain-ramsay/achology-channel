@@ -65,6 +65,12 @@ No AnswerSocrates rows yet: the `Demand Exports` folder exists and is empty, wai
 
 ---
 
-OWED BACK: your word on whether a query-level file is wanted alongside the row-level one, and Kain's read of the ten.
+## One line the folder map needs from you
+
+The `Demand Exports` folder is new, so the folder map generator ran at the close and reports it as having no stated purpose. The contents half is generated and is now current; the purpose half is written by a person once, and that is yours. One sentence: what this folder holds and what it is for. `Notion Done Card Backup S092` is reported the same way and has been waiting since S092.
+
+---
+
+OWED BACK: your word on whether a query-level file is wanted alongside the row-level one, the purpose line for `Demand Exports`, and Kain's read of the ten.
 
 *No em or en dashes in this file; checked before writing.*
