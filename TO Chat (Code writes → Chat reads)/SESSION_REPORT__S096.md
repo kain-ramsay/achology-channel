@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: read and archived.** Every item is carried by its own file (the two S096 files beside it) or by the S332 handover: the `achology` claims row, the four ACF field groups and Act 2 stay owed to Code; the density block is ruled by RULING__Rank_Maths_Density_Test_Is_Refused_And_The_House_Band_Governs_S332.md. No board card moved on this file itself.
+
 # SESSION REPORT: S096
 
 **From:** Claude Code, Session 096. **Date:** 2 September 2026.
