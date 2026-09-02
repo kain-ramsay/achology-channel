@@ -1,9 +1,11 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 3, S332. Authority: Kain Ramsay.**
+**Version 4, S332. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Cowork reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
+
+**Version 4, S332, later the same evening:** one narrowing, in section 8. Code moved the whole project folder out of Documents on its own recommendation, approved as a technical call; iCloud fought the move, Chat went blind, and Kain lost his evening before Code moved it back. Kain ruled that the folder never moves again, and that a change of this kind is never Code's alone: it travels to Chat, is agreed by Chat, and is validated by Kain before anything is touched. Section 8's technical-choice sentence now says what "technical" means. A rule narrowed, not added.
 
 **Version 3, S332:** one tightening, in section 6, of the head line an inbox file carries while it waits. Ruled by Kain on Code's S095 backlog verification pass, which found five head lines that still read as owed after the work was done. Where the fact a file waits on is one a machine can test, the head line names that fact in a testable form; where it truly waits on a person, it says so and stands out. No rule added; an existing one sharpened, per the growth governor.
 
@@ -65,7 +67,7 @@ Test: no message contains a sentence that becomes true only after it is sent.
 
 Kain owns every design, content, scope and money decision. A design question is a request for assessment, never authorisation to build. A ruling he gives in any session is authority at once, and is written into the document that owns it, in that session, by whoever was in the room: Chat writes it home; Code and Cowork file a RULING into the channel so Chat writes it home. A ruling live in the work and absent from its owning document is a break.
 
-Technical choices (plumbing, tooling, git, config, installs) are never his; take them, name them, and move on.
+Technical choices (plumbing, tooling, git, config, installs) are never his; take them, name them, and move on. **A choice is technical only when nobody else can feel it.** Anything that changes where things live or what points at what, and reaches outside the thing being worked on (moving, renaming or relinking a folder; changing a path another Claude, a connector, a sync service or a background job depends on; anything that makes a familiar address stop working, however briefly) is not technical. It goes to Chat first, is agreed by Chat, and is validated by Kain before anything is touched. The project folder in Documents never moves again (Kain, S332, after Code's S096 move and move-back).
 
 Test: every ruling has a dated line in its owning document.
 
@@ -79,4 +81,4 @@ Test: every ruling has a dated line in its owning document.
 ---
 
 *No em or en dashes in this file; checked before writing.*
-*End of The Shared Rules, Version 3.*
+*End of The Shared Rules, Version 4.*
