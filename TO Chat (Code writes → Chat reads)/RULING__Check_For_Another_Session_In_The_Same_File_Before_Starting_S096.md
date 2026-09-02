@@ -69,7 +69,7 @@ Five wrong claims in one evening, from two sessions, in two repositories, by thr
 - The record repository excludes the theme: `git check-ignore -v` names `.gitignore` line 95, and `git ls-files` tracks nothing under that folder.
 - The two false record commit messages: `git show --stat` on each, showing Cowork's harness and an exemplar in one, and a DSRD file, a README and a handover in the other. No theme file in either.
 - The third false commit message, in the theme repository: `git show --stat c470113` shows two files where the message names one, and `git log -S` on both changed sentences names `c470113` as the commit that de-dashed lines 3 and 8.
-- `git show 2545fb3 -- rank-math-feed.php` returns nothing for those lines, which is what disproves the peer's account of where its own edits went.
+- `git show 2545fb3 -- rank-math-feed.php` returns nothing for those two comment lines, while `git log -S"lengthPermalink"` names `2545fb3` alone. Together those two reads are what separate the true half of the peer's account from the false half.
 
 ## 6. The version was not bumped, and that was a technical call
 
