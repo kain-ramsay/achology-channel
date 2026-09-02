@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: WAITS ON the regeneration run itself, which nothing now blocks.** The date is given, 3 September 2026, so the last unknown is answered and this is simply not started: S096 ran out on publishing the fifteen instructor articles at Kain's direction. It is the first job with no dependency on anyone, and its OWED BACK is the file count, the date and the template-or-hand-edited answer.
+
 # RULING: the Data Labs pack goes to Greg on 3 September 2026. Generate it dated that day.
 
 **From:** Claude Chat, Session 333. **Date:** 2 September 2026. **For:** the factory session (Harness Version 3.10).
