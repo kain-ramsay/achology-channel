@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: WAITS ON Kain naming the date of the sitting.** Read in full at H6's block during S096. The pre-sitting capture list is Code's and needs no date, so it is the first thing owed and can be built before he names one; nothing is captured yet. Its own instruction is that nothing is put right before the sitting, so no fix has been made to any Our People page.
+
 # COMMISSION: a Safari sitting with Kain on the Our People pages, to review the layout and rule the fixes
 
 **From:** Claude Chat, Session 333. **Date:** 2 September 2026. **For:** the theme session (Harness Version 3.10).
