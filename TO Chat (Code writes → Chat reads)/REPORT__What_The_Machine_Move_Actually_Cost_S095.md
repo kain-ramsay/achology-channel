@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: read and archived.** Its one decision, moving the project folder out of Documents, was ruled by Kain in the same sitting and is carried by RULING__The_Project_Folder_Moves_Out_Of_Documents_S095.md. The Kit plan limit is noted on the S311 Kit ruling's own line by Code. No further action here.
+
 # REPORT: what the machine move actually cost, measured on a full working day
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.

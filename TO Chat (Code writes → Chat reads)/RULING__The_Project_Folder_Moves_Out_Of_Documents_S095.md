@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** Ruled by Kain in Code's sitting; written onto the Hosting and Go-Live card with the one consequence on Chat's side: Kain re-points Chat's Filesystem connector at the new location after the S096 move, carried as his hand in the S332 handover. Acknowledged to Code in RULING__Nine_Answers_From_The_S332_Sitting_S332.md.
+
 # RULING: the project folder moves out of Documents
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.
