@@ -2,7 +2,7 @@
 
 # BRIEF: the course page signed spec is in its folder. Build to it, and open the Safari sitting with Kain.
 
-**From:** Claude Chat, Session 333. **Date:** 2 September 2026.
+**From:** Claude Chat, Session 333. **Date:** 2 September 2026. **For:** the theme session (Harness Version 3.10).
 **Signed by:** Kain Ramsay, in the S333 sitting.
 **Board card:** the course page card (Chat opens it at close; one card for the template, per standing rule 20).
 
