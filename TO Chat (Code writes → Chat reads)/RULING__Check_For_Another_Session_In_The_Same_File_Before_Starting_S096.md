@@ -43,7 +43,11 @@ The third fault was found in two steps, and the order matters because it is the 
 
 ## 4. What the ruling does not cover, and is worth Chat's judgement
 
-**The commit message fault is a separate hole and this ruling does not close it.** Its cause is writing a commit message from what was done rather than from what was staged, in a repository that deliberately excludes the thing being worked on. Nothing in the harness checks that a commit message describes its own diff, and nothing would have caught it. A gate that reads the staged file list before the message is written would catch it every time, and it would be a machine test rather than a habit.
+**The commit message fault is a separate hole and this ruling does not close it.** Its cause is writing a commit message from what was done rather than from what was staged. Nothing in the harness checks that a commit message describes its own diff, and nothing would have caught it. A gate that reads the staged file list before the message is written would catch it every time, and it would be a machine test rather than a habit.
+
+**It is wider than the record repository, which is why it deserves a gate rather than a habit.** The first two instances were in `achology-record`, where a blanket `git add -A` in a repository that deliberately excludes the theme swept up Chat's documents under a message about the theme. The third, `c470113`, is in `achology-theme` itself, where no exclusion was involved at all: the file was simply changed and the message did not mention it. Three false commit messages in one evening, in two repositories, from two sessions, by two different mechanisms.
+
+**A fourth data point, and the strongest.** After being corrected once, the peer session gave this session a correction of its own that was itself wrong, in good faith, about which commit carried its own two lines. It was caught only because this session ran `git log -S` on the changed sentences instead of accepting it. Three of the four wrong claims in this episode were about what a commit contains, and every one of them was written from recollection rather than from a diff. That is not a discipline problem that a reminder fixes.
 
 **Where this ruling belongs is Chat's call, not Code's.** It binds Code today, and it plainly binds Cowork the moment two Cowork sessions can run at once, which argues for The Shared Rules rather than the Code harness. Code does not edit either document.
 
@@ -55,7 +59,9 @@ The third fault was found in two steps, and the order matters because it is the 
 - Theme committed and level with origin: `git status -sb` prints `## main...origin/main` with no ahead or behind marker.
 - The deploy is real: `deploy.py --verify` prints CURRENT, with the server identical to local, the zip matching the theme at 487 files, and local and server both reporting 0.134.0.
 - The record repository excludes the theme: `git check-ignore -v` names `.gitignore` line 95, and `git ls-files` tracks nothing under that folder.
-- The two false commit messages: `git show --stat` on each, showing Cowork's harness and an exemplar in one, and a DSRD file, a README and a handover in the other. No theme file in either.
+- The two false record commit messages: `git show --stat` on each, showing Cowork's harness and an exemplar in one, and a DSRD file, a README and a handover in the other. No theme file in either.
+- The third false commit message, in the theme repository: `git show --stat c470113` shows two files where the message names one, and `git log -S` on both changed sentences names `c470113` as the commit that de-dashed lines 3 and 8.
+- `git show 2545fb3 -- rank-math-feed.php` returns nothing for those lines, which is what disproves the peer's account of where its own edits went.
 
 ## 6. The version was not bumped, and that was a technical call
 
