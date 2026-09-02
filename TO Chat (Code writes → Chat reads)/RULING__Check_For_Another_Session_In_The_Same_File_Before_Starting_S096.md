@@ -35,7 +35,13 @@ Neither knew about the other. Both edited the same file. Three separate faults c
 
 **Two.** The two sessions' edits landed in two different commits in `achology-theme`, neither of which says so. `8a50299` carries seven changed lines and they are all this session's. The peer's own two lines went in earlier, inside `c470113`, whose message reads "score_run.py: the promise that it saves nothing is now enforced, not stated" and whose diff carries two files: `tools/score_run.py`, and `rank-math-feed.php`, unmentioned. So the dash work is split across two commits, one of which does not admit to touching the file at all.
 
-This paragraph was wrong when first written, was corrected by the peer session, and was then corrected again by checking it: the peer believed its two lines had gone in under the v0.134.0 commit `2545fb3`. They had not. `git log -S` on the two changed sentences names `c470113`, and `2545fb3` does not touch the file. Recorded in full because the correction chain is itself the evidence for section 4.
+This paragraph was wrong when first written, was corrected by the peer session, and was then corrected twice more by checking. Set down exactly, because the shape of the error is the whole argument for section 4:
+
+- The peer said its own work on this file went in under the v0.134.0 commit `2545fb3`. **That part is true.** `git log -S"lengthPermalink"` names `2545fb3` and nothing else, and `2545fb3`'s message describes its own diff correctly.
+- What the peer asserted past, without looking, is what **else** was in `c470113`. Its message names `tools/score_run.py`. Its diff carries that file at 45 insertions and `rank-math-feed.php` at two insertions and two deletions, and those two lines are the other session's dash fixes, swallowed silently.
+- This session then wrote that `2545fb3` "does not touch the file", which is also wrong: it touches the file, it simply does not touch those two lines. Corrected here.
+
+So the fault is not that anybody misplaced their own work. **The fault, all three times, is describing a commit without reading what else was in it.** That is precisely what a gate printing the staged file list would put in front of the author before the message is written.
 
 **Three, and the worst of them.** Two commits in the project record, `e1c1094` and `e74858b`, carry messages describing theme work and contain none of it. The theme folder is excluded from the record repository on purpose, at `.gitignore` line 95, so one file never has two owners. What those two commits actually hold is whatever else was staged at the time, which was Chat's own documents, swept in by a blanket `git add -A` and given a message about something else. That is a false line in a permanent record, not a mislabelled one.
 
