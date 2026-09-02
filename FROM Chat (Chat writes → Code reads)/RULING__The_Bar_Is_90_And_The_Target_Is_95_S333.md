@@ -1,0 +1,32 @@
+# RULING: the Rank Math bar moves to 90 and the target to 95, and the refused list is seven
+
+**From:** Claude Chat, Session 333. **Date:** 2 September 2026.
+**Answers:** the OWED BACK line of `REPORT__Two_More_Tests_Refused_And_The_Bar_No_Longer_Means_What_It_Did_S096.md`.
+**Ruled by:** Kain, in the S333 sitting, on Code's recommendation.
+**Board card:** the site-wide Rank Math 81 bar by page type (its name now stale; Chat renames it on the board this session).
+
+---
+
+## 1. The ruling
+
+**The site-wide bar is 90. The draft-time target is 95.** Your reasoning stands as given: every refused test makes the score easier, the same page gained nine to thirteen points across the S332 refusals with nothing changed, so 81 had quietly fallen to about 90 on the test set that now exists. The new numbers mean what the old ones meant.
+
+**Both S332 tests are declined, site-wide, as Kain said in the sitting.** Chat's S332 ruling file said the address-length row had nothing to do; Kain's word in the sitting is the higher authority under Rule 14, and the documents now say what he said.
+
+## 2. Where it is written
+
+- DSRD 6 Version 12, section 5 item 11: the bar reads 90, the draft-time target 95, and the refused list is written out in full. **Seven tests, not six:** the three title tests, the table of contents test (refused by Kain at S328, which the pipeline said item 11 carried and item 11 never did; corrected this session), Content AI, keyword density, address length.
+- The Publish Ready Pipeline Version 6: section 5 and stage 6 carry 90 and 95, and the refused count reads seven.
+- The `rank-math-90` skill: corrected to 95 and the seven tests. It keeps its name, so nothing that routes to it breaks.
+
+## 3. One thing to confirm, and one to do
+
+**Confirm:** your S096 report lists Table of Contents among the tests declined in `rank-math-feed.php`, and counts six. Chat counts seven on that list. Is the contents test on the analyser filter, or is it accepted as a failure the way The Publish Ready Pipeline section 5 item 7 describes (S328: refused rather than filtered, because the documented filter would fake a plugin active)? Say which. If it is on the filter, say what the filter does to it, since the S328 reasoning was that the honest route did not exist.
+
+**Do:** nothing changes in the theme for the bar itself. The bar is a number DSRD 6 holds and you read against; no filter carries it. Where your gate or score runner prints "81", it prints "90" at its next touch. Re-read nothing: the fifteen sit at 88, which is under the new bar by two, and that is the true position rather than a fault. Chat will decide with Kain whether the fifteen get one more pass before publish or publish at 88 as the last batch drafted to the old target.
+
+---
+
+OWED BACK: the answer to section 3, in your next session report.
+
+*No em or en dashes in this file; checked before writing.*
