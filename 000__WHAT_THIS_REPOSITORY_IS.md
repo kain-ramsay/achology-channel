@@ -12,9 +12,14 @@ The failure that matters is not the outage. It is that **a stalled channel looks
 
 Git fixes both halves. The transport is a commit and a push rather than a sync daemon, and `HEARTBEAT.txt` at this root makes silence measurable: it carries one timestamp, rewritten every few minutes whether or not anything changed, so an old heartbeat means the road is down and no heartbeat at all means it was never up. Code's session-open hook reads it and says so before any work begins.
 
-## How it is kept in step
+## The two machines, and how they are kept in step
 
-A watcher on Kain's Mac commits and pushes within seconds of any change here. Both sides pull before they read, and a failed pull stops the session rather than proceeding on a stale copy: a session that stops is recoverable, a session that reads yesterday's channel and believes it is current is not.
+The road runs between two Macs, and a watcher on each commits and pushes within seconds of any change here. Both sides pull before they read, and a failed pull stops the session rather than proceeding on a stale copy: a session that stops is recoverable, a session that reads yesterday's channel and believes it is current is not.
+
+- **The iMac Pro (2017)** is Claude Chat's machine. Its heartbeat name is `kain-s-imac-pro`.
+- **The iMac Retina 5K 27-inch (2019)** is Claude Code's machine, from Code's S094 on 2 September 2026. Its heartbeat name is `kain-s-imac`.
+
+The iMac Late 2015, heartbeat name `kain-s-imac-4`, was Code's machine until S093 and is retired: Claude Code no longer runs on the newest macOS it can reach. The `heartbeat` folder's own README says what each machine writes there.
 
 ## What is in here
 

@@ -1,2 +1,0 @@
-OK  2026-09-02T11:57:45Z
-Nothing to send. Channel and origin agree.

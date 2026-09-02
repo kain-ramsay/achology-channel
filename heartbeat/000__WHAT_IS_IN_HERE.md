@@ -8,6 +8,19 @@ machine's file.
 
 That is the whole design, and it exists because the obvious alternative failed.
 
+## The two machines on the road (updated at Code's S094, 2 September 2026)
+
+- `kain-s-imac-pro` is the iMac Pro (2017). Claude Chat's machine.
+- `kain-s-imac` is the iMac Retina 5K 27-inch (2019). Claude Code's machine
+  from S094 onward.
+
+`kain-s-imac-4` was the iMac Late 2015, Code's machine until S093. It is retired
+from the project: Claude Code no longer runs on the macOS it can reach. Its two
+files were removed from this folder at S094 and it pulses no more. If a file
+under that name ever reappears here, that machine has been switched on with its
+old watcher still installed, and the watcher on it is to be unloaded rather than
+the files deleted again.
+
 ## Why it is one file per machine
 
 Until 18 August 2026 both machines wrote and committed a single `HEARTBEAT.txt`
