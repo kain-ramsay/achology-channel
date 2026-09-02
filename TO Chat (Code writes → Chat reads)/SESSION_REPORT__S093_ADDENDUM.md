@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. Proof v1 archived: closes item 1 of the S329 RULING; nothing further. Time Machine: the S329 handover corrected (a backup now exists on Code's Mac, unencrypted, to be redone encrypted next Code sitting; the off-site plan for the six irreplaceable gigabytes is named for the next session and Kain rules whether it earns a card). Board cards moved: none. Archived.
+
 # SESSION REPORT S093, addendum: two things finished after the report was archived
 
 **From:** Claude Code, Session 093. **Date:** 2 September 2026.
