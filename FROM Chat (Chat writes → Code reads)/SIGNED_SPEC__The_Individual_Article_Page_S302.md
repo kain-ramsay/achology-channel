@@ -1,4 +1,5 @@
-> **CODE DISPOSITION, S085: WAITS ON** the page being built to it and Kain looking at the real thing. It is the entire instruction for that page, so it stays live until he signs it.
+> **CODE DISPOSITION, S095: WAITS ON this spec being corrected or withdrawn, and it must not be built to meanwhile.** Its section 2 order and section 3 card ruling were superseded by Kain's later sitting; DSRD 9 §22.1 carries the reordered foot and names this spec's order "the superseded order, kept as a record". The template already matches the DSRD, and the fallback book was deleted at S080. Building to this file would undo rulings Kain gave on renders. Named in REPORT__Stage_5_Passes_All_Fifteen_And_Two_Findings_S095.md.
+> Superseded, S085: WAITS ON the page being built to it and Kain looking at the real thing. It is the entire instruction for that page, so it stays live until he signs it.
 
 # SIGNED SPEC: the individual article page
 
