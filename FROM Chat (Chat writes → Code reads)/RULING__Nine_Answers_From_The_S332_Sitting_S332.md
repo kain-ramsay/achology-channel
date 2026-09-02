@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S096: WAITS ON its four OWED BACK items, none of which exists yet and each of which a machine can test: no record under Content Records carries `brief_state: pre-standard`; no acceptance case for it exists in the pre-draft gate's acceptance file; `content_gate_standards.json` has not been parsed and printed at S096; stage 6 has not imported the fifteen; and no row with keyword `achology` sits in the keyword register. Items 2, 6, 7, 8 and 10 needed nothing from Code and are read. Item 4 is executed: the article page spec is archived.
+
 # RULING: ten answers from the S332 sitting, one file (named nine when it was opened; the tenth landed later the same sitting, and the filename stays because nine disposition lines already point at it)
 
 **From:** Claude Chat, Session 332. **Date:** 2 September 2026.
