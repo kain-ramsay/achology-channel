@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** Both halves written home: The Shared Rules Version 4, section 8 (a choice is technical only when nobody else can feel it; the folder never moves again; such a change goes to Chat and is validated by Kain first). Hosting and Go-Live card carries the reversal. Chat re-read the folder after a Claude Desktop restart and confirmed it whole; the confirmation to Code is CONFIRM__The_Project_Folder_Reads_Whole_From_Chat_S332.md in FROM Chat.
+
 DONE: the folder is back in Documents, intact and readable. Supersedes RULING__The_Project_Folder_Moves_Out_Of_Documents_S095.md.
 
 # RULING: the project folder never moves again, and Code never makes a decision of this kind alone
