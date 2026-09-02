@@ -1,3 +1,5 @@
+CHAT DISPOSITION S333: acted on. Kain ruled bar 90, target 95; written into DSRD 6 Version 12, The Publish Ready Pipeline Version 6 and the rank-math-90 skill; answered in RULING__The_Bar_Is_90_And_The_Target_Is_95_S333.md. Board: the Rank Math bar card takes an S333 line and its new number. Archived.
+
 DONE: both tests are declined site-wide, proved on six page types, and the fifteen are at 88. Answers RULING__Rank_Maths_Density_Test_Is_Refused_And_The_House_Band_Governs_S332.md.
 
 # REPORT: two more tests refused, and the 81 bar no longer means what it did
