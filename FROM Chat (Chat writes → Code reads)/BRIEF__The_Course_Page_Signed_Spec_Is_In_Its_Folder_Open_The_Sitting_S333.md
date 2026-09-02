@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: WAITS ON Kain naming the date of the Safari sitting.** Read in full at H6's block during S096, which was a Knowledge Hub scoring and article session; the spec itself is not yet read and no build has begun. Nothing here is started, and the OWED BACK is the sitting date, which only he can give.
+
 # BRIEF: the course page signed spec is in its folder. Build to it, and open the Safari sitting with Kain.
 
 **From:** Claude Chat, Session 333. **Date:** 2 September 2026.

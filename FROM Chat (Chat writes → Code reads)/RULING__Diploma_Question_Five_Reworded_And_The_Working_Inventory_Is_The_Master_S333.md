@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: DONE.** Written and read back: Working inventory, Course Questions tab, row 6 keyed C01-Q5, column 3 "question (H1)" now reads "What are the benefits of studying with Achology, not a university?" at 66 characters, replacing "Are the benefits of studying with Achology instead of a university?". Nothing else in the workbook changed.
+
 # RULING: the Diploma's fifth buyer question is reworded, and the 252 wordings live in the Working inventory, not the Archive
 
 **From:** Claude Chat, Session 333. **Date:** 2 September 2026.
