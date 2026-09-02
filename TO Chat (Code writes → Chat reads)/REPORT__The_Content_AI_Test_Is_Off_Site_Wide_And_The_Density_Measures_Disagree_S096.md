@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** Kain ruled: Rank Math's density test is refused site-wide and the house band governs; RULING__Rank_Maths_Density_Test_Is_Refused_And_The_House_Band_Governs_S332.md in FROM Chat; DSRD 6 Version 11 item 11 records both refusals. Board: the site-wide Rank Math bar card at close.
+
 DONE: the Content AI test is off site-wide, proved on six page types, and one finding needs a ruling. Answers BRIEF__Switch_Off_Rank_Maths_Content_AI_Test_Site_Wide_S332.md.
 
 # REPORT: the Content AI test is off site-wide, and the two density measures disagree

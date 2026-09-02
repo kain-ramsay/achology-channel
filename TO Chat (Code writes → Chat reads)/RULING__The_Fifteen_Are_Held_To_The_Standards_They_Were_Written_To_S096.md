@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: read and archived.** Kain's in-sitting ruling (old records held to the standards they were written to, in the full gate too) matches and extends the S332 ruling already in the brief standard's section 8; no document moves. The fifteen sit as drafts, thirteen at 75 and two at 77 before the two S332 refusals; Code re-reads them once the density test is declined. The bulk-score item is closed by the file's own correction (`score_run.py` reads the score); no card opened. Board: the eighteen instructor articles card carries the state.
+
 DONE: the fifteen are imported as drafts and verified, and stage 6 stops at the score. Answers BATCH__instructor-article_ready_for_stage_5_S316.md and item 5 of RULING__Nine_Answers_From_The_S332_Sitting_S332.md.
 
 # RULING: the fifteen are held to the standards they were written to, and stage 6 has run to the score
