@@ -85,7 +85,11 @@ Named here rather than left silent, because The Shared Rules section 8 says a te
 
 With one session that is correct and it is why the rule exists. With two it is a deadlock. This session finished its work, committed it, deployed it and proved it, and then could not close: the peer session was still writing `tools/score_run.py`, a file this session never touched and, under the ruling above, must not touch. It blocked the close three times. The peer has said plainly that it will keep working after this session ends, so the block does not clear by waiting either.
 
-**The two ways out are both wrong, which is what makes it a defect rather than an inconvenience.** Committing the peer's file means writing a commit message for a diff this session did not make, on the same night, in a file whose whole subject is that exact fault. Waiting means never closing. The session closed with the block standing and this paragraph as the record, which is the least bad of the three and still not right.
+**The two ways out are both wrong, which is what makes it a defect rather than an inconvenience.** Committing the peer's file means writing a commit message for a diff this session did not make, on the same night, in a file whose whole subject is that exact fault. Waiting means never closing.
+
+**How it actually ended, corrected after the fact so this paragraph stays true.** An earlier draft of it said the session closed with the block standing. It did not. The peer session reached a stopping point of its own, committed and went idle, the theme went clean, and the close went through. **That is luck, not a fix, and it is worth saying so plainly:** the defect is untouched, nothing was done to clear it, and the same deadlock will bite the next pair of sessions. It was only ever going to clear when the other session chose to stop, which is precisely what a session closing at four in the morning beside a long-running peer cannot count on.
+
+This correction is itself the fifth instance of tonight's pattern and belongs in the count: a sentence written from what was expected to happen rather than from what did.
 
 **The shape of the fix, for whoever takes it:** H5 already knows the closing session's declared file list, because Rule 2 requires it and H2 enforces it. The check should be scoped to those paths, and any other dirty tracked file reported as somebody else's in-flight work rather than treated as this session's failure to commit. **Testable:** two sessions open at once, one closes cleanly while the other holds an uncommitted file it declared.
 
