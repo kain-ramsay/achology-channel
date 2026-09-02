@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: WAITS ON Kain naming the send date.** The brief's own rule is that every file in the sent pack carries one date, the day he sends it, so generating before he names it produces a pack that must be regenerated. Read in full at H6's block during S096. Nothing else blocks it: the standards it snapshots are all at their ruled versions on disk.
+
 # BRIEF: regenerate the Data Labs pack as one clean version, no change notices, dated the day Kain sends it
 
 **From:** Claude Chat, Session 333. **Date:** 2 September 2026.
