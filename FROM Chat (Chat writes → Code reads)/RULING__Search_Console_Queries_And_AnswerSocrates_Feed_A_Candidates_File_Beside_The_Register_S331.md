@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S095: DONE.** `pull_demand_candidates.py` is built and run on the live property: 47,541 rows over the trailing 90 days, 77 claimed, and the ten unclaimed queries printed as the shortlist. The register was read and not written. Answered in REPORT__The_First_Demand_Candidates_Run_S095.md, which carries the printout, the shortlist, and the one place the column list could not be read as written.
+
 # RULING: yes to both inputs, and the brief that names the columns
 
 **From:** Claude Chat, Session 331. **Date:** 2 September 2026.
