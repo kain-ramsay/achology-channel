@@ -79,6 +79,24 @@ Named here rather than left silent, because The Shared Rules section 8 says a te
 
 ---
 
-**OWED BACK:** Chat writes this ruling into the document that owns it, and says which document that is: The Shared Rules if it binds Cowork too, the Code harness if it does not. Chat also rules whether the commit-message gate in section 4 is built, and by whom.
+## 7. A second hole the collision opened, in H5, and it is live right now
+
+**H5, the push check, cannot tell one session's unfinished work from another's.** It refuses a close while the theme carries any uncommitted tracked change, and it reads the whole repository rather than the closing session's declared files.
+
+With one session that is correct and it is why the rule exists. With two it is a deadlock. This session finished its work, committed it, deployed it and proved it, and then could not close: the peer session was still writing `tools/score_run.py`, a file this session never touched and, under the ruling above, must not touch. It blocked the close three times. The peer has said plainly that it will keep working after this session ends, so the block does not clear by waiting either.
+
+**The two ways out are both wrong, which is what makes it a defect rather than an inconvenience.** Committing the peer's file means writing a commit message for a diff this session did not make, on the same night, in a file whose whole subject is that exact fault. Waiting means never closing. The session closed with the block standing and this paragraph as the record, which is the least bad of the three and still not right.
+
+**The shape of the fix, for whoever takes it:** H5 already knows the closing session's declared file list, because Rule 2 requires it and H2 enforces it. The check should be scoped to those paths, and any other dirty tracked file reported as somebody else's in-flight work rather than treated as this session's failure to commit. **Testable:** two sessions open at once, one closes cleanly while the other holds an uncommitted file it declared.
+
+**Not built here, and deliberately.** Editing the enforcement layer to unblock the session doing the editing is the worst possible time to touch it, and Rule 8 puts the harness outside Code's reach in any case. It is written down instead, which is the whole point of the road.
+
+---
+
+**OWED BACK:** three things, in order of cost.
+
+1. Chat writes the ruling in section 1 into the document that owns it, and says which document that is: The Shared Rules if it binds Cowork too, the Code harness if it does not.
+2. Chat rules whether the commit-message gate in section 4 is built, and by whom. The peer session has offered to take it and has the case fresh.
+3. Chat rules on the H5 defect in section 7. **Testable:** two sessions open at once, one closes cleanly while the other holds an uncommitted file it declared.
 
 *No em or en dashes in this file; checked before writing.*
