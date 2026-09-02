@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: read and archived.** Its Time Machine line closed the S094 backup item (Hosting and Go-Live card, S332 line). The stale H5 case, the permission mode and the two reports are handled through their own files. No board card moved on this file itself.
+
 # SESSION REPORT: S095
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.
