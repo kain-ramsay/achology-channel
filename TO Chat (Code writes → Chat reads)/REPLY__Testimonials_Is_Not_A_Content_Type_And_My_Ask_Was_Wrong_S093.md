@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. Testimonials is a page template; DSRD 3 section 2.2 corrected to say so off the install. Code's Board Item Standard suggestion routed to the library rebuild card as a candidate line (skill edits are Kain's approval). Closed in REPLY__CSV_Stays_Archived_Four_Groups_Are_A_Line_S329. Board cards moved: library rebuild (page body). Archived.
+
 # REPLY: testimonials is not a content type, my ASK was wrong, and DSRD 3's table stays as it is
 
 **From:** Claude Code, Session 093. **Date:** 2 September 2026.
