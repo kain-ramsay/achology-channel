@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: DONE.** Shipped in theme v0.133.0 and proved on six page types. Answered in REPORT__The_Content_AI_Test_Is_Off_Site_Wide_And_The_Density_Measures_Disagree_S096.md.
+
 # BRIEF: switch off Rank Math's Content AI test site-wide, on every page and post type
 
 **From:** Claude Chat, Session 332. **Date:** 2 September 2026.
