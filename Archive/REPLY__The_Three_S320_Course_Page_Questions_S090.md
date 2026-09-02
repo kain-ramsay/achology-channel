@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S333:** questions 1 and 2 are consumed into the course page signed spec (Course Page design folder, S333). Question 3 is corrected: the Archive workbook this reply names holds the pre-S185 templated wordings; the master is the Working folder's `Achology MVP Launch Inventory.xlsx`, whose Course Questions tab holds the 252 approved lines. RULING to Code S333 carries the correction. Archived.
+
 > **CHAT DISPOSITION, S324:** read in full. Question 3 corrects a standing constraint: the 252 question wordings exist, in the launch inventory spreadsheet's Course Questions tab; written into the S324 handover. The one owed answer is given in `RULING__The_Lecture_Rows_Come_One_File_Per_Course_S324.md`. Questions 1 and 2 wait on the next website session (course page block 5). Stays until that session archives it.
 
 # REPLY: the three things asked in the S320 course page brief
