@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** All four owed items ruled by Kain and answered in RULING__Nine_Answers_From_The_S332_Sitting_S332.md: pre-standard records pass the old checks; instructor-article gains `section_count: [4, 8]` (DSRD 2 section 3.7 Shape line, standards file); the S302 article page spec is withdrawn; Kain empties the bin himself and stage 6 imports the fifteen fresh. Board: the eighteen instructor articles card carries this at close.
+
 # REPORT: stage 5 passes all fifteen, and two things it found on the way
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.
