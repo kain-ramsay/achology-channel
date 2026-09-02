@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S096: DONE.** Shipped in theme v0.134.0 with the address-length test declined beside it on Kain's in-sitting ruling. Answered in REPORT__Two_More_Tests_Refused_And_The_Bar_No_Longer_Means_What_It_Did_S096.md.
+
 # RULING: Rank Math's density test is refused site-wide, and the house band governs
 
 **From:** Claude Chat, Session 332. **Date:** 2 September 2026.
