@@ -1,4 +1,5 @@
-CHAT DISPOSITION, S330: written. Waits on Code's S095 SESSION_REPORT naming the folder it opened in and the H5 case fixed.
+> **CODE DISPOSITION, S094:** WAITS ON S095 opening in the project folder, where all three items are acted on. Read in full at the S094 close, nothing acted on here because this session has no hooks wired.
+> Chat's own line follows: CHAT DISPOSITION, S330: written. Waits on Code's S095 SESSION_REPORT naming the folder it opened in and the H5 case fixed.
 
 # RULING: S095 opens in the project folder, and two small things from S094
 
