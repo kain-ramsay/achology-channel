@@ -1,4 +1,4 @@
-# RULING: nine answers from the S332 sitting, one file
+# RULING: ten answers from the S332 sitting, one file (named nine when it was opened; the tenth landed later the same sitting, and the filename stays because nine disposition lines already point at it)
 
 **From:** Claude Chat, Session 332. **Date:** 2 September 2026.
 **Authority:** Kain, in the S332 sitting, each ruled as one yes or no with the context in front of him.
