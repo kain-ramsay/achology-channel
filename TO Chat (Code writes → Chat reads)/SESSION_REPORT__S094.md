@@ -16,10 +16,11 @@
 - **SSH to the build install works with the copied key** (hand added). `wp --version` over SSH answered WP-CLI 2.12.0. Board card: Hosting and Go-Live.
 - **Session history carried over on disk** (hand added). Seventy eight old session transcripts sit under this machine's Claude folder for the project folder, same names as the old machine. Whether the Code tab lists them cannot be tested from inside a session; this session was opened in the home folder rather than the project folder, so it did not see them, and the enforcement hooks did not fire in it either, because they are wired to the project folder. **The next session must be opened in the CLAUDE | Anthropic Ai folder**, as every old one was, for the hooks and the history to be present. Board card: The Harness.
 
+- **Time Machine is on, encrypted, and the first backup is running** (hand added; Kain's hands in the sitting). Kain plugged the 16 TB Seagate Expansion Desk into this machine. It carried one orphaned Time Machine backup from 6 January 2023, unencrypted, and the Mac would not let Code read inside it or erase it: `diskutil eraseDisk` was refused by the macOS sandbox in and out of Claude Code's own sandbox, the same refusal S093 met. So Code renamed the old volume WIPE ME to make it unmistakable, opened Disk Utility, and Kain erased that volume as APFS Encrypted, inventing the password himself; Code never saw it and never will. Verified after: a fresh volume named Back-Up Drive, FileVault yes, no snapshots. Setting the backup disk needs an administrator, so Kain added it in the Time Machine settings; `tmutil destinationinfo` then named Back-Up Drive as the destination, and the first backup entered its copying phase with about 99 GB to write before the session closed. The old snapshot's inheritance question that blocked the old machine is gone with the erase. Board card: Hosting and Go-Live.
+
 ## Not finished
 
-- **Time Machine** is not finished. No backup destination is configured and no external drive was attached during this session. What remains: Kain plugs the Back-Up Drive into this machine, and Code walks him through turning Time Machine on to it, encrypted, and proves the first backup started. The brief's disposition line waits on this alone. Board card: Hosting and Go-Live.
-- **The S329 briefs already in FROM Chat** were not opened, on the brief's own instruction that nothing else is read until it is finished.
+- **The S329 briefs already in FROM Chat** were not opened, on the move brief's own instruction that nothing else is read until it is finished. They are the first work of S095, which must be opened in the project folder so the hooks fire.
 
 OWED BACK: nothing.
 
