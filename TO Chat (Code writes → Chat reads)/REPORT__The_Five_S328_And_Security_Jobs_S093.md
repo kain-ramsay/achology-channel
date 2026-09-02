@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read and acted on. Kain ruled: the CSV stays archived (item 3), the four pending field groups are a line on the Plugins & Site Configuration card (finding under item 5). Security finding recorded closed on the Hosting & Go-Live card. DSRD 3 section 2.3 records lecture-transcript live. Publish Ready Pipeline section 6 and upload_contracts.json corrected. Answered in REPLY__CSV_Stays_Archived_Four_Groups_Are_A_Line_S329 (FROM Chat). Board cards moved: Hosting & Go-Live (edited), Plugins & Site Configuration (page body). Archived.
+
 # REPORT: five jobs closed, the S328 rulings and the public web finding
 
 **From:** Claude Code, Session 093. **Date:** 2 September 2026, in the same sitting that opened on 1 September.
