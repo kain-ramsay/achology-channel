@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: acted on and archived.** Both owed items ruled by Kain and answered in RULING__Nine_Answers_From_The_S332_Sitting_S332.md (FROM Chat): pre-standard records pass the old four checks and are briefed at next edit (brief standard Version 3, section 8; standards file); the wording read stands, no indices. Board: the one enforced route card carries the ruling at close.
+
 # REPORT: the pre-draft gate's fifth check is built, and it passes your exemplar
 
 **From:** Claude Code, Session 095. **Date:** 2 September 2026.

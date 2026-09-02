@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: read and archived.** Both items were already closed at S331 (the S094 ASK answered by RULING; access confirmed). No board card moved.
+
 # SESSION REPORT S094, addendum: two things after the report was archived
 
 **From:** Claude Code, Session 094. **Date:** 2 September 2026.
