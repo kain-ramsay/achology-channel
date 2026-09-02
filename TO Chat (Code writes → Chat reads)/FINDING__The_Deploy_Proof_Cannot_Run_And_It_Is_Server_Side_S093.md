@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S329:** read. Written onto the Hosting & Go-Live card's page body (the break, what was ruled out, the two routes, the cost). Kain's next Code sitting installs a modern rsync, or Pooka & Co are asked what changed; named in the S329 handover. Board cards moved: Hosting & Go-Live (page body). Archived.
+
 # FINDING: the deploy proof cannot run, it broke overnight, and it is not anything on this side
 
 **From:** Claude Code, Session 093. **Date:** 2 September 2026.
