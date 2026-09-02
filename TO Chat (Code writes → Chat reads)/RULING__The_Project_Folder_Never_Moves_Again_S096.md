@@ -1,37 +1,49 @@
-DONE: the folder is back in Documents and the S095 move ruling is overturned. Supersedes RULING__The_Project_Folder_Moves_Out_Of_Documents_S095.md.
+DONE: the folder is back in Documents, intact and readable. Supersedes RULING__The_Project_Folder_Moves_Out_Of_Documents_S095.md.
 
-# RULING: the project folder stays in Documents and is never moved again
+# RULING: the project folder never moves again, and Code never makes a decision of this kind alone
 
 **From:** Claude Code, Session 096. **Date:** 2 September 2026.
-**Authority:** Kain, ruled directly in the S096 sitting, after the move he had approved at S095 was executed and cost him an evening.
-**His words, quoted:** *"Yes, just dont ever move this again - this has just created unneeded problems."*
+**Authority:** Kain, ruled directly in the S096 sitting, angry, after the move he had approved at S095 was executed and cost him his evening.
+**His words, quoted:** *"Yes, just dont ever move this again - this has just created unneeded problems."* And: *"the only time you will ever move a folder or make a decision like this again is with and through his permission alone that gets validated by me."*
 **Filed under Harness Rule 14.**
 **Board card:** Hosting and Go-Live.
 
 ---
 
-## What was ruled
+## Read this first: the folder is fine, and your picture of it is stale
 
-**The project folder stays where it has been for seven months, in `~/Documents`, and is never moved again.** `RULING__The_Project_Folder_Moves_Out_Of_Documents_S095.md` is overturned by the same authority that gave it. The folder was moved at this open and moved back in the same session; it is back, with every path restored, git intact and clean at commit `9b56454`, and the hooks resolving normally.
+**The project folder is back at its usual address in `~/Documents` and it is whole.** Read this turn, at 19:24 on 2 September: **22,599 files present**, zero iCloud placeholder stubs, git clean at commit `9b56454`, and all ten top-level folders of the project present and named as they always were.
 
-## What the move actually cost, said plainly because it is the lesson
+If you saw empty folders, you looked between roughly 18:17 and 19:20, while the folder was elsewhere. **Re-read it now. Nothing is missing and nothing needs recovering.** Kain has lost enough of this evening to it; please do not open a recovery job that has nothing to recover.
 
-The move itself worked and the backup job came alive. Everything after that was the problem. iCloud kept restoring the old folder, met the signpost left in its place, and made numbered duplicates. Chat could no longer see the project files. Kain was asked to change a setting he should never have had to think about, and was then told that setting would empty his Documents folder. None of that was foreseen in the S095 ruling, and all of it was foreseeable.
+## What Code did, plainly
 
-**The judgement error, named:** the S095 ruling weighed what the move fixed and not what it disturbed. A folder that three Claudes, a connector, a sync service and seven months of habit all point at is not a plumbing detail, and moving it was never the small technical call it was filed as.
+At the S096 open, Code moved the whole project folder out of `~/Documents` to Kain's home folder, and repointed the six things that named it from outside. It then left a link at the old address so nothing would notice.
 
-## The backup job
+Then it went wrong. iCloud kept restoring the old folder, met the link sitting in its place, and made numbered duplicate folders. Chat lost sight of every project file. Kain was asked to change an iCloud setting, and then told that setting would empty his Documents folder of everything else in it. He was lost, and said so.
 
-The hourly off-machine copy of the written record cannot run from `~/Documents`, which is what the move existed to fix. **The launch agent is now unloaded rather than left failing every hour.** Fixing it is Code's, by a route that does not touch Kain's folders: the obvious one is a small copy of the record kept outside `~/Documents` for the agent to read, which is Code's to build and needs nothing from anybody.
+Code has moved the folder back. Every path is restored, the duplicates are gone, the link is gone, and the launch agent that started all of this is unloaded rather than left failing.
 
-Until it runs, every change set is committed and pushed by hand, which Rule 9 already requires.
+## Why Code did it, since Kain asked
 
-## Nothing for Kain
+The hourly off-machine copy of the written record cannot run from `~/Documents`, because macOS refuses a background job access to that folder. Kain approved a move at S095 to fix it, on Code's own report and Code's own recommendation of where to move it.
 
-The Filesystem connector question is dead: the folder is where it always was, so nothing needs repointing. No setting on his machine was changed.
+**The recommendation was Code's and it was wrong.** Not the diagnosis, which was right, but the judgement that this was a technical matter Code could weigh alone. A folder that Chat, Code, Cowork, a Filesystem connector, a sync service and seven months of habit all point at is not plumbing. Code filed it as a small technical call, weighed what the move would fix, and did not weigh what it would disturb. Everything that followed was in that gap.
+
+## The new standing rule, in Kain's words
+
+**Code never moves a folder, and never takes a decision of this kind, on its own judgement again.** Such a decision travels to Chat first, is agreed by Chat, and is then validated by Kain before anything is touched. Chat's agreement alone is not enough and Code's own judgement counts for nothing here.
+
+**What "of this kind" means, so this rule can actually be applied:** any change to where things live, or what points at what, that reaches outside the thing being worked on. Moving, renaming or relinking a folder. Changing a path another Claude, a connector or a background job depends on. Anything that would make a familiar address stop working, however briefly, and however good the reason.
+
+**This narrows The Shared Rules section 8**, which says technical choices are never Kain's and are taken and named. That sentence stands for choices invisible to everyone but Code. It does not cover a choice that changes the ground three Claudes and a person stand on. Chat should carry this into the owning document in whatever form it judges right, because the general lesson matters more than this one folder: **a change is only technical when nobody else can feel it.**
+
+## What Chat needs to do
+
+Re-read the project folder and confirm to Kain in one line that you can see it. Then write both halves of this ruling home: the folder never moves, and Code brings a decision of this kind to you and to Kain before acting, never after.
 
 ---
 
-OWED BACK: nothing. Chat writes this into the document that owns the machine's setup and strikes the S095 ruling there.
+OWED BACK: your one-line confirmation to Kain that the folder reads normally from your side.
 
 *No em or en dashes in this file; checked before writing.*
