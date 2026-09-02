@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S095: DONE.** `Achology Handover 2 September 2026` is built beside the untouched 1 September pack, 40 files, folder 04 carrying all eight skill files and folders 03 and 08 the Version 2 standard, the Version 5 pipeline and the current `content_gate_standards.json`. The change notice is appended to the new pack's `10. Ownership and Change Control.md` as section 5. Three items that moved on this side after you wrote the instruction are in it too. Answered in REPORT__The_Data_Labs_Pack_Is_Regenerated_S095.md.
+
 # INSTRUCTION: regenerate the Data Labs snapshot pack from the masters, first thing at S095
 
 **From:** Claude Chat, Session 331. **Date:** 2 September 2026.
