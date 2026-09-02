@@ -1,6 +1,6 @@
 # THE HARNESS
 
-**Version 3.9, S329. Authority: Kain Ramsay.**
+**Version 3.10, S333. Authority: Kain Ramsay.**
 
 **Read by Claude Code at the open of every Code session, after The Shared Rules and before any work.**
 **Checked by Kain by viewing the rendered pages Code returns.**
@@ -17,6 +17,7 @@ Nothing in this document is open to interpretation. Where a rule seems to have a
 
 One line per version. The reasoning behind each change lives in the handovers, the session reports and the vault, which are the records built to hold it.
 
+- **3.10, S333.** Code runs as two named session types, ruled by Kain at S332 and written here at S333: a **theme session**, which builds the theme to signed specs and is the only session that deploys, and a **factory session**, which clears the content factory, the channel and the backlog and never deploys. Rule 1's opening line names the type; Rule 12 narrows deployment to the theme session; Rule 2's declaration carries the type so H2 can refuse a theme file in a factory session. Nothing added: two rules tightened, and the test is the opening line and the declaration. Also recorded: H10, the commit-message gate, commissioned on Code's own S096 finding (five false commit messages in one evening, all written from recollection rather than the diff); a hook, not a rule.
 - **3.9, S329.** H9's four findings from Code's S092 and S093 closed at Code's S093 (commit 17ba33b, 63 of 63 acceptance cases, 24 new and every new one red before the fix): a WP-CLI global parameter no longer hides the verb, a plain SELECT is read rather than refused on sight, a double bar is a separator and not a pipe, and the status check runs per statement so a read verb cannot answer for a write beside it. The wall now reads the commands in a line rather than its words, which is what this document always said it did. Nothing added and nothing removed; a hook was tightened. Approved by Kain in the S329 sitting.
 - **3.8, S318.** H9 widened to cover taking a live page down, built and accepted at Code's S087 on Kain's S317 ruling, and its third ground corrected in the same pass so a read verb in front of an unreadable payload no longer disarms it. Nothing added and nothing removed; a hook was tightened.
 - **3.7, S317.** H9, the publishing wall, added to Layer 2, built and accepted at Code's S087 on Kain's ruling given in session. Nothing else changed; the growth governor is met because H9 is a hook, not a rule, and it mechanises Rule 6 and Rule 8 where they already reached publishing in words only.
@@ -43,7 +44,9 @@ One line per version. The reasoning behind each change lives in the handovers, t
 Rule numbers are never reused. A retired rule keeps its number with its retirement recorded, so every reference to a rule number anywhere in the project keeps pointing where it did.
 
 ### Rule 1. Open every session the same way
-First acts, before any work: read The Shared Rules, read every file in FROM Chat, and read this document whole. The first message of the session states all three in its first line. A session that opens without this line is a broken session.
+First acts, before any work: read The Shared Rules, read every file in FROM Chat, and read this document whole. The first message of the session states all three in its first line, **and names which of the two session types this session is (ruled by Kain, S332; written S333).** A session that opens without this line is a broken session.
+
+**The two session types.** Code runs as two kinds of session, never mixed, so that the theme is built by a sitting that does nothing else and the backlog is cleared by a sitting that touches no theme file. A **theme session** builds the theme to a signed spec, runs the design sitting with Kain in Safari, and deploys; its FROM Chat files are the BRIEF and RULING files that name a page or a component. A **factory session** clears the content factory and the channel: imports, scores, the register, the gate scripts, the Data Labs pack, the backlog, every REPORT and ASK, and it never deploys and never edits a theme file. Where a backlog item turns out to need a theme edit, it is not done in the factory session: it moves to the theme queue as a named item and waits for a theme session. Kain opens whichever session he needs; two can be open on the same day. The session type is named in the opening line and in every Rule 2 declaration, and the harness reads it there. **Test:** an opening line without a type is a broken session; a Rule 2 declaration in a factory session naming a theme file is refused by H2.
 
 **While a stream ruling is in force, the read is scoped to that stream (ruled by Kain in the S074 sitting).** A stream ruling is Kain naming one body of work as the only work until it is delivered. While one stands: read this document in full, read the FROM Chat files that sit inside the live stream in full, and list every other file by name without opening it. The opening line still states that both the channel and the harness have been read, and it also names the stream and the count of files left unopened.
 
@@ -56,9 +59,9 @@ First acts, before any work: read The Shared Rules, read every file in FROM Chat
 ### Rule 2. Declare scope before touching anything
 Before any change, write the declaration into the session, as its own message sent before any edit begins, in this exact shape:
 
-> SCOPE: {one page or one named job} | FILES: {every file this change may touch, listed as bare paths} | SPEC: {the DSRD sections and the signed spec that govern it}
+> SCOPE: {one page or one named job} | SESSION: {theme or factory} | FILES: {every file this change may touch, listed as bare paths} | SPEC: {the DSRD sections and the signed spec that govern it}
 
-No declaration, no edit. A file not named in the declaration is out of scope, and touching it is a violation regardless of how useful the touch would be. The declaration must be its own message because the scope wall reads the transcript, and a declaration written in the same message as the edit is invisible to it.
+No declaration, no edit. A file not named in the declaration is out of scope, and touching it is a violation regardless of how useful the touch would be. **A declaration in a factory session that names a theme file is refused (S333): the item goes to the theme queue.** The declaration must be its own message because the scope wall reads the transcript, and a declaration written in the same message as the edit is invisible to it.
 
 ### Rule 3. One page, or one named job, per change set
 A change set covers one page, or one named non-page job declared under Rule 2. Work that would touch more than one page is a sweep, and a sweep runs only under a signed sweep brief from Kain, arrived through FROM Chat, naming the pages or bodies of work it covers. There is no other route to a sweep. "While I am in here anyway" is the exact failure this rule exists to stop.
@@ -98,7 +101,7 @@ What Kain actually reads is the rendered page (Rule 7) and, where the work is no
 Before building anything from scratch that is not specific to Achology, search for a maintained public project that already does it, and report in one line what was found and whether it is being used. Reading an outside project for its approach is always allowed and is encouraged. Putting outside code into the theme is never Code's decision: it travels to Kain as a question through TO Chat first, every time, with no exception for small, obvious or trivially small pieces. The reason is not effort, it is that Achology.com takes card payments, so admitting outside code is a security decision and security decisions are Kain's.
 
 ### Rule 12. Code deploys; Kain never uploads
-When a change set has passed its gates and its closing commit (Rule 9), Code deploys the theme to the server himself over SSH, purges the cache, and returns the rendered live page link (Rules 6 and 7). Kain never uploads a theme zip, and a message asking him to upload anything is a harness break. Deployment is part of the change set, never a separate step waiting on a human courier. If SSH access to where the theme lives is ever missing or refused, that is a stop-and-ask through TO Chat (Rule 5), never a fallback to a Kain upload.
+When a change set has passed its gates and its closing commit (Rule 9), Code deploys the theme to the server himself over SSH, purges the cache, and returns the rendered live page link (Rules 6 and 7). Kain never uploads a theme zip, and a message asking him to upload anything is a harness break. Deployment is part of the change set, never a separate step waiting on a human courier. If SSH access to where the theme lives is ever missing or refused, that is a stop-and-ask through TO Chat (Rule 5), never a fallback to a Kain upload. **Only a theme session deploys (Kain, S332; written S333).** A factory session never runs a deploy, whatever it finds; a deploy from a factory session is a harness break on the same terms as a Kain upload.
 
 ### Rule 13. Close the channel at session end, and report what the session finished
 Before the session's last message, archive every FROM Chat file whose work is fully executed and verified this session or earlier. Only live instructions stay. The last message states how many files remain in FROM Chat and why each one stays. FROM Chat is Code's side of the road to empty, exactly as TO Chat is Chat's: a consumed instruction left sitting live is how a shipped page's spec stayed on the road as a live instruction for weeks, indistinguishable from work still owed. **Since Version 3.6 this is enforced mechanically by H8**, which refuses the close while any file that was in FROM Chat at the open carries no disposition line, and archives by machine every file head-lined DONE.
@@ -176,6 +179,8 @@ Code builds these hooks himself, in the theme repository, to this specification.
 **The third ground asks only its own question.** Until Code's S087 the unreadable-payload check stood down whenever a read verb appeared anywhere in the command, so a harmless read at the front could carry any payload behind it through the wall. Found by Code hitting the wall in ordinary work rather than by review. Now the ground asks only whether the command reaches the install and can be read; a genuine read has no substitution, no heredoc and no pipe into a shell, so it passes on its own merits and never on an exemption.
 *Acceptance: thirty seven cases green in `harness/h9_publishing_wall_acceptance.py`, run against a temporary clearance store rather than the live one, deliberately, because a regression test that spends real clearances damages the thing it tests every time anybody runs it. Seven of the cases exist because the first version of the wall got them wrong, every one by being too wide, and all seven were found within ten minutes of going live. Six more were added for the widening and the corrected third ground, and one proves a reviewed exception dies when its file changes.*
 
+**H10. The commit-message gate (commissioned S333, not yet built).** Before a commit message is written, the hook prints the staged file list into Code's context, and refuses a commit whose message names a file or a piece of work that is not in the staged diff, or whose staged diff carries a file the message does not name. Commissioned on Code's own S096 finding: five commit messages in one evening, in two repositories, from two sessions, every one written from recollection of what was done rather than from what was staged, two of them after the author had already been corrected for exactly this. Attention was proved not to be the missing ingredient, so it is a hook rather than a rule. Chat's call to commission it, named here and overturnable by Kain; Code builds it under its own declared scope in a factory session, with acceptance cases that go red as well as green, and files the printout.
+
 The gate scripts (css_gate, page_gate, article_gate) run themselves through these hooks. What a gate script checks changes only under a commissioned brief from Chat through FROM Chat, never as Code's own idea.
 
 ---
@@ -222,4 +227,4 @@ A hook bypassed, a rule broken, an unproved claim of "done", or a change set ret
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Harness, Version 3.8.*
+*End of The Harness, Version 3.10.*
