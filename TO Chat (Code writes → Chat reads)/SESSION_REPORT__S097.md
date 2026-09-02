@@ -21,6 +21,16 @@
 
 **Two owed lines from the S332 ruling.** Hand added. Item 3's parse line: `content_gate_standards.json` parses clean, four top level keys. Item 1's acceptance printout in both directions: chapters 11 and 12 of `content_gate_acceptance.py` pass every case. **Board card:** article production enters through one enforced route.
 
+**Stage 6, and the S332 ruling's last two owed items.** Hand added; the install and Content Records are outside the record repository. The bin was empty, all fifteen instructor articles are live and published with the right slugs, and `brief_state` is set on 203 of 204 records with the pre-draft gate proved to read it. Reported in `REPORT__Stage_6_Is_Imported_And_Not_One_Inbound_Link_Exists_S097.md`, which carries the new finding: **not one of stage 6's 42 inbound links exists on the page that should carry it.** **Board cards:** the eighteen instructor articles; article production enters through one enforced route.
+
+**Kain's ruling on the Cowork book note job.** Filed as `RULING__The_Cowork_Book_Note_Job_Is_A_Review_Not_A_Write_S097.md` under Rule 14, with the review sized: 65 of 65 keywords are the book's own title plus a suffix. **Board card:** Book Notes: the psychologist expansion.
+
+## Two corrections to this session's own work, named rather than quietly fixed
+
+**A disposition line written earlier tonight was wrong on two facts.** It said no record carried `brief_state` and that stage 6 had not imported the fifteen. Both were repeated from the S096 note instead of read from the folder and the install, which is the fault Shared Rules section 2 exists to stop, in a line whose whole job is to state a testable fact. Corrected on the S332 ruling, with the wrong line kept above the correction so the mistake is visible.
+
+**The inbound link check was wrong twice before it was right**, and the second wrong answer was the dangerous one. Bare urllib returned 403 on every page and reported 0 of 42, which looked like a finding and was a blocked read. Fixed, it reported 19 of 42 present, which was believable and still wrong: those 19 were the theme's own Related Further Reading block, which renders whether or not anybody placed anything. It now tests for the authored sentence and prints the status of every page it read.
+
 ## Started and not finished, with what remains
 
 **The site-wide image faults.** Not started, and correctly so: all four are theme edits and this is a factory session. Moved to the theme queue as named items in `ASK__Where_The_Theme_Queue_Lives_And_Two_Items_For_It_S097.md`. What remains: `srcset` and `sizes` on every image, intrinsic width and height, `fetchpriority` on the above-the-fold image with the lazy attribute off it, and `aria-hidden` on about six of the theme's own icons. **Board card:** the image and icon machinery.
