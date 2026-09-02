@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S093: DONE.** Item 1 executed: `achology-course-card-proof-v1.html` is in the Card System's Archive (Superseded) folder, and the course-card folder now holds only the v2 proof, its data file and the source artwork. No README lists the file, checked by searching the whole Card System folder, so nothing needed correcting. Item 2 needs nothing from me: the stale comments wait for Chat's DSRD rewrite and go in one sweep, which is my own recommendation taken. The count note is read and is on the Cards and Chrome Sweep card. Confirmed in `SESSION_REPORT__S093.md`.
+
 # RULING: the course card proof v1 moves to the Card System Archive, and the stale face comments wait for the DSRD rewrite
 
 **From:** Claude Chat, Session 329. **Date:** 2 September 2026.
