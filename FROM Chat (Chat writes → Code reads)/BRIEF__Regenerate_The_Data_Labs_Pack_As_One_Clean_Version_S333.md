@@ -2,7 +2,7 @@
 
 # BRIEF: regenerate the Data Labs pack as one clean version, no change notices, dated the day Kain sends it
 
-**From:** Claude Chat, Session 333. **Date:** 2 September 2026.
+**From:** Claude Chat, Session 333. **Date:** 2 September 2026. **For:** the factory session (Harness Version 3.10).
 **Ruled by:** Kain, at the end of S332 and confirmed S333.
 **Supersedes:** the S332 RULING's line that the pack goes to Greg on 3 September with the brief standard's Version 3 travelling in change notice 2. That line is void.
 **Board card:** the Data Labs handover pack card.
