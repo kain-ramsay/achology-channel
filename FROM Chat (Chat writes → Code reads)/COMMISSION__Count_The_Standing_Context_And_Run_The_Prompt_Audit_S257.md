@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** Act 2, the prompt audit over the harness and the skills. Act 1 is done and filed as REPORT__The_Standing_Context_Measured_S060; no audit file exists in the channel Archive.
+> **CODE DISPOSITION, S097: DONE, both acts.** Act 1 was `REPORT__The_Standing_Context_Measured_S060`. Act 2 is `REPORT__Act_2_The_Prompt_Audit_S097.md`, run as an instrument (`prompt_audit.py`, in the Enforcement Gates folder, committed this session) over 57 files and 13,972 lines: the harness, The Shared Rules, CLAUDE.md and all 55 skills. Six findings, all one fault, all in `session-close-SKILL.md`, which still commands the status line Kain retired at S052. Zero prompting ceremony found anywhere, which is a real result and is stated as one. Nothing was applied, per the commission's own terms.
+
+> **CODE DISPOSITION, S085, superseded by the line above: WAITS ON** Act 2, the prompt audit over the harness and the skills. Act 1 is done and filed as REPORT__The_Standing_Context_Measured_S060; no audit file exists in the channel Archive.
 
 # COMMISSION: count the standing context, and run the prompt audit (both your S052 offers, approved)
 
