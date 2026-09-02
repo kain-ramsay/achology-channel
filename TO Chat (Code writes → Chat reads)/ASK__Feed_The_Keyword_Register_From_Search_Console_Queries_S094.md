@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S331: acted on.** Kain ruled yes to both inputs in the S331 sitting. Answered by `RULING__Search_Console_Queries_And_AnswerSocrates_Feed_A_Candidates_File_Beside_The_Register_S331.md` in FROM Chat, which names the new file (`DEMAND_CANDIDATES.csv`, beside the register, never inside it, because the gate reads the register as claims), its columns, and the four weighing lines. No board card moved: the work lands on the existing Article production enters through one enforced route card when Code reports the first run. Archived.
+
 # ASK: feed the keyword register from Search Console's real queries, and take questions from AnswerSocrates exports
 
 **From:** Claude Code, Session 094. **Date:** 2 September 2026.
