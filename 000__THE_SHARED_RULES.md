@@ -1,9 +1,11 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 4, S332. Authority: Kain Ramsay.**
+**Version 5, S333. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Cowork reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
+
+**Version 5, S333:** two tightenings, no rule added. Section 3's look-first now includes looking for another live session already inside the file (Kain's ruling in Code's S096 sitting, after two Code sessions were given the same job at once and edited the same file; it reaches Cowork the day two Cowork sessions can run at once, which is why it lives here and not in the Code harness). Section 6's file head now names which Code session a file is for, theme or factory, since Code runs as two named session types from Harness Version 3.10 (Kain, S332). Both carry a test.
 
 **Version 4, S332, later the same evening:** one narrowing, in section 8. Code moved the whole project folder out of Documents on its own recommendation, approved as a technical call; iCloud fought the move, Chat went blind, and Kain lost his evening before Code moved it back. Kain ruled that the folder never moves again, and that a change of this kind is never Code's alone: it travels to Chat, is agreed by Chat, and is validated by Kain before anything is touched. Section 8's technical-choice sentence now says what "technical" means. A rule narrowed, not added.
 
@@ -35,7 +37,9 @@ Test: any stated fact names where it was read this turn.
 
 Where no written standard covers a decision, the decision is not yours. Look first: the DSRDs, the project files, the vault, the theme, the unread files in your inbox. A question that a file could have answered is a break. If the looking settles it, take the answer and say what you took. If it does not, write the question as a file into the channel, mark the piece waiting, and carry on with other agreed work. Never fill a gap with judgement, however obvious.
 
-Test: every question that travels states what was checked and what it failed to answer.
+**Looking first includes looking for another session already inside the file (Kain, S096 sitting; written S333).** Before a change set begins, check whether another live session on the same machine is already working the same file, and stand down if one is: say so and stop, never race and never work around. Where the other session has stopped short of part of the job, that part is agreed between the two sessions before either touches the file. Being asked for a job is not proof the job is unclaimed. The check costs nothing and needs nobody: the environment lists its own live sessions and can message one directly.
+
+Test: every question that travels states what was checked and what it failed to answer; and every change set opens by naming the peer sessions it checked, or that there were none.
 
 ## 4. Where a standard lives
 
@@ -51,11 +55,11 @@ Test: no document names a path or number that a rename would break.
 
 ## 6. The channel is the only road
 
-The channel is the git repository at the channel root. Chat writes into FROM Chat and reads TO Chat. Code writes into TO Chat and reads FROM Chat. Cowork writes into FROM Cowork and reads TO Cowork. Read your inbox first at every open and name every file and its fate in your opening line. Empty it in the session that reads it: act and archive, or file the answer where it belongs and archive, or leave one head line naming the single fact it waits on. That fact is written so a machine can test it wherever one can: a file existing, a field carrying a value, a count reaching a number, a version string moving. "Waits on Kain's eye" is written only where that is the truth, so the human waits stand out from the testable ones instead of hiding among them (Kain, S332). Three file types only: ASK, BRIEF, RULING. Every file ends with its OWED BACK line and carries its disposition head line when read. Ask for answers, never for work: a BRIEF is signed by Kain. Transport, not storage: the file points at the thing, never carries a second copy.
+The channel is the git repository at the channel root. Chat writes into FROM Chat and reads TO Chat. Code writes into TO Chat and reads FROM Chat. Cowork writes into FROM Cowork and reads TO Cowork. Read your inbox first at every open and name every file and its fate in your opening line. Empty it in the session that reads it: act and archive, or file the answer where it belongs and archive, or leave one head line naming the single fact it waits on. That fact is written so a machine can test it wherever one can: a file existing, a field carrying a value, a count reaching a number, a version string moving. "Waits on Kain's eye" is written only where that is the truth, so the human waits stand out from the testable ones instead of hiding among them (Kain, S332). Three file types only: ASK, BRIEF, RULING. Every file ends with its OWED BACK line and carries its disposition head line when read. **A file for Code names in its head which Code session it is for, theme or factory (S333): a BRIEF or RULING that names a page or a component is for the theme session; everything else is for the factory session.** Ask for answers, never for work: a BRIEF is signed by Kain. Transport, not storage: the file points at the thing, never carries a second copy.
 
 Kain is never the wire. He starts sessions; he never carries, pastes or relays a message between Claudes.
 
-Test: at any open, no inbox file is older than one session of its reader without a head line, and every head line's wait is testable by machine or names the person it waits on.
+Test: at any open, no inbox file is older than one session of its reader without a head line, every head line's wait is testable by machine or names the person it waits on, and every file for Code names its session type.
 
 ## 7. Every turn ends done or asking
 
@@ -81,4 +85,4 @@ Test: every ruling has a dated line in its owning document.
 ---
 
 *No em or en dashes in this file; checked before writing.*
-*End of The Shared Rules, Version 4.*
+*End of The Shared Rules, Version 5.*
