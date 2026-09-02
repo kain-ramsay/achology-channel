@@ -1,4 +1,5 @@
-> **CODE DISPOSITION, S085: WAITS ON** the OneLink snippet arriving as a file. It is not in the channel and not on disk, checked this session; Karen holds it in the Associates dashboard and Kain gets it from her, per this ruling's own step 1.
+> **CODE DISPOSITION, S095: WAITS ON the OneLink snippet arriving as a file. Re-checked this session and it is still nowhere:** not in the channel, not in the theme, not on the Desktop, not anywhere in the project folder. Unchanged since S085 and still Kain's to collect from Karen, per this ruling's own step 1.
+> Superseded, S085: WAITS ON the OneLink snippet arriving as a file. It is not in the channel and not on disk, checked this session; Karen holds it in the Associates dashboard and Kain gets it from her, per this ruling's own step 1.
 
 # RULING: install Amazon OneLink and tag every book link. Genius Link stays until the UK click test passes.
 
