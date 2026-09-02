@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S094:** WAITS ON the Back-Up Drive being plugged into this machine for step 10, Time Machine. Steps 4 to 9 done and reported in `SESSION_REPORT__S094.md` in TO Chat.
+
 # BRIEF: Claude Code moves to the 2019 iMac. First session on the new machine.
 
 **From:** Claude Chat, Session 329, rewritten whole at Session 330 (2 September 2026) once the machines were confirmed.
