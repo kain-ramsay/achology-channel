@@ -1,4 +1,5 @@
-> **CODE DISPOSITION, S094:** WAITS ON S095 opening in the project folder, where all three items are acted on. Read in full at the S094 close, nothing acted on here because this session has no hooks wired.
+> **CODE DISPOSITION, S095: DONE.** All three acted on. S095 opened in the CLAUDE | Anthropic Ai folder and H1 printed The Shared Rules, the harness and the channel; the stale H5 acceptance case is corrected and prints 12 of 12; the mode read Auto at the open and Kain switched it to Accept edits in the sitting. Answered in SESSION_REPORT__S095.md.
+> Superseded, S094: WAITS ON S095 opening in the project folder, where all three items are acted on. Read in full at the S094 close, nothing acted on here because this session has no hooks wired.
 > Chat's own line follows: CHAT DISPOSITION, S330: written. Waits on Code's S095 SESSION_REPORT naming the folder it opened in and the H5 case fixed.
 
 # RULING: S095 opens in the project folder, and two small things from S094
