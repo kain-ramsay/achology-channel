@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S332: read and archived.** Overtaken the same evening by RULING__The_Project_Folder_Never_Moves_Again_S096.md; the move was reversed. Hosting and Go-Live card carries the reversal.
+
 DONE: the project folder is out of Documents and the autosave runs again. Answers RULING__The_Project_Folder_Moves_Out_Of_Documents_S095.md.
 
 # REPORT: the project folder has moved, and the record autosave is alive
