@@ -33,7 +33,9 @@ Neither knew about the other. Both edited the same file. Three separate faults c
 
 **One.** The peer session's first deploy failed its own server-versus-local proof, because the file changed underneath it mid run. It had to deploy three times to get one clean result.
 
-**Two.** Both sessions' edits landed inside one commit, `8a50299` in `achology-theme`. Neither commit message describes what actually happened, because neither author knew.
+**Two.** The two sessions' edits landed in two different commits in `achology-theme`, neither of which says so. `8a50299` carries seven changed lines and they are all this session's. The peer's own two lines went in earlier, inside `c470113`, whose message reads "score_run.py: the promise that it saves nothing is now enforced, not stated" and whose diff carries two files: `tools/score_run.py`, and `rank-math-feed.php`, unmentioned. So the dash work is split across two commits, one of which does not admit to touching the file at all.
+
+This paragraph was wrong when first written, was corrected by the peer session, and was then corrected again by checking it: the peer believed its two lines had gone in under the v0.134.0 commit `2545fb3`. They had not. `git log -S` on the two changed sentences names `c470113`, and `2545fb3` does not touch the file. Recorded in full because the correction chain is itself the evidence for section 4.
 
 **Three, and the worst of them.** Two commits in the project record, `e1c1094` and `e74858b`, carry messages describing theme work and contain none of it. The theme folder is excluded from the record repository on purpose, at `.gitignore` line 95, so one file never has two owners. What those two commits actually hold is whatever else was staged at the time, which was Chat's own documents, swept in by a blanket `git add -A` and given a message about something else. That is a false line in a permanent record, not a mislabelled one.
 
