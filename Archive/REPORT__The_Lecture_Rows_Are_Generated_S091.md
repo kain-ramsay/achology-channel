@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S333:** consumed into the course page signed spec (Course Page design folder, S333), which reads the per-course lecture file for block 5 and names the 012 and 027 gaps on the template. Archived.
+
 > **CHAT DISPOSITION, S326:** read in full at open. Nothing owed back; it closes the S324 lecture rows ruling. STAYS on one fact: the course page session, whose curriculum block reads the per-course lecture files and must render course 027's single section without looking broken. Course 012's missing section structure is still a person's to fill.
 
 # REPORT: the lecture rows are generated, 28 files, and one thing needs your eye
