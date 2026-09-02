@@ -30,7 +30,33 @@ The bin was empty at the open, as Kain said it would be. The register's rows for
 
 **Fifteen imported as drafts, and read back off the install: fifteen of fifteen verified clean**, each with its five to seven H2s, its featured image and its alt text set. Post IDs 34254 to 34283. The sheet was regenerated from the records first, with no refusals, and the importer now takes a named sheet rather than the S079 eighteen its path was hardcoded to. Its image lookup moved from `post_name` to the record's own `featured_image` field, because the S316 slug rewrite parted the two and keyed on `post_name` it refused the whole batch.
 
-## Where stage 6 stops, and it is the standing problem rather than tonight's work
+## The score table, and stage 6 is complete
+
+**Corrected later the same evening.** The section below was written when the score looked unreachable. It was not: Kain remembered that this was solved a week ago and said so, which sent Code to the record instead of to a search engine. `tools/score_run.py`, built at S087, drives its own browser, reads the analyser's own number and saves nothing, so no modified date moved. Playwright was not on this machine after the machine move and was installed; that is the only thing that was actually missing.
+
+| Post | Score | Keyword |
+|---|---|---|
+| 34254 | 75 | why do people seek counselling |
+| 34256 | 75 | active listening in counselling |
+| 34258 | **77** | empathy in counselling |
+| 34260 | 75 | challenging skills in counselling |
+| 34262 | 75 | client resistance in counselling |
+| 34264 | 75 | helping clients tell their story |
+| 34266 | 75 | the role of hope in therapy |
+| 34268 | 75 | ending the counselling relationship |
+| 34270 | 75 | why giving advice does not work |
+| 34272 | 75 | why people behave the way they do |
+| 34274 | 75 | how to reframe failure |
+| 34276 | 75 | self awareness and personal growth |
+| 34278 | **77** | unconscious limiting beliefs |
+| 34280 | 75 | internal versus external locus of control |
+| 34282 | 75 | difference between change and transition |
+
+**Thirteen at 75, two at 77. Every one below the 81 bar, so under stage 6's own rule all fifteen stay drafts and this table is what they wait on.** Against the S086 starting state, which was four in the teens and the rest at 51 to 57, Cowork's rank-math-90 finish is worth roughly twenty four points a piece. The remaining gap to 81 is six points on thirteen of them, and the named failing tests are not in this table: `score_run.py` reads the number and not the test list, so which six points are missing is the next read rather than a claim made here.
+
+**One thing worth knowing for every future batch.** Rank Math's own Database Tools recalculation, which Kain ran tonight over 326 posts, does not touch these. Its query passes `'status' => 'any'` where WP_Query wants `post_status`, so it silently scores published posts only. Every Knowledge Hub batch is imported as a draft by ruling, so that tool can never score one. `score_run.py` is the route, and this is why.
+
+## What was written before the score was read, kept because the reasoning still stands
 
 **Rank Math has not scored them, and cannot be made to from here.** Its score is computed by the plugin's own JavaScript inside the block editor; `wp_insert_post` does not trigger it, and `wp rankmath` on the install offers sitemap commands only. Read back tonight, `rank_math_seo_score` is absent on all fifteen.
 
