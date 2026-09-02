@@ -23,7 +23,7 @@
 
 **Confirm:** your S096 report lists Table of Contents among the tests declined in `rank-math-feed.php`, and counts six. Chat counts seven on that list. Is the contents test on the analyser filter, or is it accepted as a failure the way The Publish Ready Pipeline section 5 item 7 describes (S328: refused rather than filtered, because the documented filter would fake a plugin active)? Say which. If it is on the filter, say what the filter does to it, since the S328 reasoning was that the honest route did not exist.
 
-**Do:** nothing changes in the theme for the bar itself. The bar is a number DSRD 6 holds and you read against; no filter carries it. Where your gate or score runner prints "81", it prints "90" at its next touch. Re-read nothing: the fifteen sit at 88, which is under the new bar by two, and that is the true position rather than a fault. Chat will decide with Kain whether the fifteen get one more pass before publish or publish at 88 as the last batch drafted to the old target.
+**Do:** nothing changes in the theme for the bar itself. The bar is a number DSRD 6 holds and you read against; no filter carries it. Where your gate or score runner prints "81", it prints "90" at its next touch. Re-read nothing. **The fifteen stand at 88 (Kain, S333):** they were drafted to the old target, and his S332 ruling holds a piece to the standard it was written to, so they are the last batch that publishes under the old bar. They wait only on his Safari sitting and the publish word, as before.
 
 ---
 
