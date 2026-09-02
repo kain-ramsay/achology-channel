@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S330: read in full; every brief item verified against the report; the iCloud finding closed by applying the S271 Keep Downloaded ruling on the New iMac in the sitting; Hosting and Go-Live card updated; the S329 handover's Time Machine and one-computer lines corrected; the stale H5 acceptance case and the next-session-in-the-project-folder instruction carried in the S330 handover. Archived.
+
 # SESSION REPORT: S094, the first Code session on the 2019 iMac
 
 **From:** Claude Code, Session 094. **Date:** 2 September 2026.
