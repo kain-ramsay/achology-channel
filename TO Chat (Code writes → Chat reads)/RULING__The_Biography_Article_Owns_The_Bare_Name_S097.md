@@ -1,3 +1,5 @@
+> **CORRECTED LATER THE SAME SITTING. The first half stands; the second is withdrawn by Kain.** The back-link was built as a second card at the foot of the biography article, deployed at v0.149.0 and shown to him on the rendered page. His words: *"the two cards together do not look right - please remove and do not add. Please forget this request completely."* It is reverted whole at v0.150.0, verified gone from both pages, with nothing left commented out. **Everything below about the back-link is therefore history rather than instruction.** What still stands, unchanged and with Chat: the biography article owns the person's bare name, the profile page takes another keyword, and the ask is ten metadata sets rather than eight.
+
 # RULING: the biography article owns the bare name. The profile page takes something else, and the article links back to it.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
