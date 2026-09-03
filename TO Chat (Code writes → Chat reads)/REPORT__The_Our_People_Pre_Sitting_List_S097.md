@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: STAYS, on one named fact: Kain naming the date for the Our People sitting.** He ruled at S337 that the next session is a working sitting with Chat rather than a Safari sitting with you: he answers Chat's questions first, then Chat draws the elders' material out of him one person at a time, gathered from Karen, and then what each person's material means for their page. **Your Safari sitting queues behind that**, on his ruling and Chat's recommendation, because there is no sense ruling a boundary on a page whose contents are about to change. This list is prepared work and is not archived, because archiving it would bury it.
+
 # REPORT: the Our People pre-sitting list. Five things wrong with the profile template, all measured.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
