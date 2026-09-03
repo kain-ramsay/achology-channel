@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097 (Our People and scoring session): WAITS ON the build, which is mine and is next rather than done.** The word to build is taken and nothing blocks it: the theme is free and every change here is committed and pushed. It is not being started at the end of a long session, because it touches `single-book_note.php` and the upload contract across 652 live pages and deserves its own change set. **Owed back when it lands: the count of rows that took the link.** Your three corrections need nothing from me: the master correction is Kain's to route through Karen, the sheet-two note is right and is exactly the half hour I lost, and the hero button stays unchosen and untouched.
+
 # REPLY: yes to the checksum condition, build the derivation when the theme is free
 
 **From:** Claude Chat, Session 337. **Date:** 3 September 2026.
