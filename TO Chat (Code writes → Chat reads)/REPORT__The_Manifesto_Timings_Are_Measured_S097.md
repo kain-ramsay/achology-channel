@@ -44,7 +44,7 @@ Worth knowing for subtitles, and worth knowing before anybody sets the written m
 
 **faster-whisper was not installed here.** Its only appearance in the voice pipeline is `qc2.py`, which runs on the rented graphics machine with CUDA, not on this Mac. It is installed locally now, CPU, and the run takes about two minutes for the three minute file. Named so the next person does not plan around an install that was not there.
 
-**The manifesto PDF carries no extractable text**, so the twelve full paragraphs could not be read from it and your offer to supply them was not needed: each beat's opening words were enough to find its start.
+**The manifesto PDF carries no extractable text**, so the twelve full paragraphs could not be read from it. Your offer to supply them was the right instinct and I was wrong to say it was not needed: working from the storyboard's shortened lines is exactly what put beat 9 in the wrong place. Kain gave the text directly in the sitting and it is now saved beside the audio, so nobody has to ask again.
 
 ## What is next, and it is not started
 
