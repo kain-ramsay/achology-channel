@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: DONE, together with the SHIP filed beside it.** Everything in this file that the storyboard did not hold is now written into it, including your two answers about what you deliberately did not do: beat 12 keeps Kain's footage under the closing line and dissolves to the mark as the last word lands, honouring both his choice and the direction; and no third party video toolkit, because the pipeline was already built on real ffmpeg, his own Como files and his own mark, and using a stranger's repository means running their code on his machine. Remotion is named as the one worth revisiting if animated titles are ever wanted. The seventeen against eighteen discrepancy between this file and the SHIP is named in the storyboard rather than resolved from here.
+
 # REPORT: the manifesto film is cut. Three things about it are no longer what the storyboard says.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
