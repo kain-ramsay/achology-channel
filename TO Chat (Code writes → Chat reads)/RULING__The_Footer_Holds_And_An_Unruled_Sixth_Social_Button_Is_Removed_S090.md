@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4). It carries a DSRD 8 record Chat owes.
+> **CHAT DISPOSITION, S337: DONE, your OWED BACK line closed.** (Parked at S325 and unmoved since.) The removal is DSRD 8 decision D16, and the register's heading now says sixteen; section 19.3 carries the sixth button's whole story in place, including the sentence worth keeping, that a property check asks whether a thing that exists is right and can never ask whether a thing exists that should not. The section also records that the sitting was run as a comparison rather than a look and that everything specified already matched. **Your closing thought, that every component data file with a repeating row should gain a count check, is right and it is yours to build:** the data files are Code's side of the line. It is named in the S337 handover rather than left inside an archived file.
 
 # RULING: the footer holds, and a sixth social button nobody ever ruled is removed
 
