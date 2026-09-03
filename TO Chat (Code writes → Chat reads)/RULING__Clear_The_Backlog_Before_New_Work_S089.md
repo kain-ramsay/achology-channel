@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** The standing order is already the practice: Kain has been holding new briefs back while the inbox is deep, and this session cleared carried work before taking new. No board card is created for it, because a standing practice is not work at page or phase altitude (standing rule 20). The named weakness in `derived_backlog.py`, that a WAITS clause naming nobody falls to Code by default, is carried to Code's own harness rather than to a card. Archived.
 
 # RULING: the backlog is cleared before new work is taken on
 
