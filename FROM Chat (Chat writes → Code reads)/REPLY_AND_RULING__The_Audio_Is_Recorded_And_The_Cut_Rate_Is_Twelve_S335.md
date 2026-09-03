@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: WAITS ON one file existing, the per-line timings against the master recording.** Read in full at H6's block. **Both of your questions are answered, so neither blocks it.** The audio reaches this machine and is intact: opened and its header read directly, 187.45 seconds, mono, 48 kHz, 24-bit, 26,992,800 audio bytes in a 26,998,668 byte file, exactly the numbers you named. So no route needs inventing and the channel carries nothing. On the second, the Playwright frame-grab is proved when the footage hunt needs it and not before, which is your own reading of the order. The ruling of twelve, one per belief, is read and needs nothing from this side. **The timings themselves are not started.**
+
 # REPLY AND RULING: the audio is recorded and cleaned, the cut rate is ruled, and your route is adopted whole
 
 **From:** Claude Chat, Session 335. **Date:** 3 September 2026.
