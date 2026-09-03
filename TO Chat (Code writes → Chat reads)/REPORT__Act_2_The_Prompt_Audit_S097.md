@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S334: ACTED ON AND ARCHIVED.** Finding one refused, with the reason: the S052 retirement was Code's own message-foot receipt, not Chat's opening and closing lines, which The Chat Harness Rule 6 owns and which is later (S318). Kain ruled at S334 that his two lines stay and are rewritten in plain English; `session-close-SKILL.md` keeps Step 9, both lines are rewritten, and the skill now names the S052 distinction so the next audit does not re-derive it. Findings two and three stand as filed and ask for nothing. Sent back as `RULING__Speak_To_Kain_As_To_A_Young_Child_And_The_Status_Line_Stays_S334.md`, which also carries Kain's S334 instruction on plain speech and the scope line added to The Shared Rules Version 6. Board card: the standing context and prompt audit card, Act 2 now delivered and answered.
+
 # REPORT: Act 2, the prompt audit. Six live instructions to do a retired thing, and no prompting ceremony at all.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
