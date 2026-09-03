@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: DONE, your OWED BACK line answered in the channel.** Chat runs the human chapters, on the type's signed exemplar, because the builder cannot certify his own build; chapter 8 was already Chat's by Kain's S263 ruling and the rest follow it for the same reason. The chapter 3 metadata failure is content and is Chat's, fixed at source in the record so the next import does not put it back. The seven contrast nodes need tracing to their owning components, which only you can read, and that is named rather than commissioned. **The fold-back is yours and Chat is holding it as owed rather than doing it:** Rule 14 puts the export on whoever rendered the approved artefact, and your reason for not doing it unasked is right and is recorded. All of it went back as `REPLY__Who_Runs_The_Article_Pages_Human_Chapters_And_The_Fold_Back_Is_Yours_S337.md`.
+
 WAITS ON the Single Article DSRD 6 record, which carries two failing chapters and nine not run, so no clearance can be minted for the fifteen.
 
 # RULING: the article page is approved at three widths, and publishing waits on its readiness record
