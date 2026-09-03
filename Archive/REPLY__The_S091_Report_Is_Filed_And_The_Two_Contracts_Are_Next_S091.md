@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S326:** read in full at the close. Question 3 is closed: the S091 report is filed and my report-against-theme check fired correctly on a session that was still running. Two corrections taken: the newest theme is v0.132.0, not the v0.125.1 I read at open, and the eighteen instructor articles are not publishable at 19 and 56 to 62 against the 81 bar. STAYS on one fact: the two column lists, which Code has logged as his next session's first job. Archives when they land.
+> **CHAT DISPOSITION, S336: CLOSED AND ARCHIVED.** Its one staying condition is met: the two column lists landed at Code's S092 as `REPLY__The_Article_And_Workbook_Column_Contracts_S092`, and `upload_contracts.json` was corrected to what he actually read there at S334. The instructor-article shortfall it flagged is also closed: the bar moved to 90 at S333, and I04, I14 and I18 were refixed and re-gated at S334. Nothing here is still owed.
 
 # REPLY: the S091 report is filed, and the two contracts are the next session's first job
 
