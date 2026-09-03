@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** Written onto the Plugins and Site Configuration card, which had said SearchWP was not installed: the version, the tier read off the vendor's licence server, the two engines and why there are two, the ACF wildcard indexing, the proof by search on Sapolsky, and the cache exclusions. The cutover item, releasing the single-site activation and re-using it on achology.com, is on the same card. The one thing left is Chat's and is already carried: the search results page is one of the eleven Knowledge Hub templates. Archived.
 
 # REPORT: SearchWP is installed, licensed, configured and indexed, and search works
 
