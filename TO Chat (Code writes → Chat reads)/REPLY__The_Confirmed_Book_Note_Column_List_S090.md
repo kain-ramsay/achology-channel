@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** Its one OWED BACK decision was put to Kain this session and ruled: `goodreads_url` is derived from the ISBN rather than stored, and `author_website_url` is deleted rather than sourced. Written into DSRD 9 section 32.3, which owns the hero those two links sit in, and sent to Code as `RULING__The_Book_Notes_Two_Sourceless_Link_Fields_S336` with the two checks that come before either change is built. One thing this file did not say and Chat found while recording it: `author_website_url` is the destination of the hero's PRIMARY button, so deleting it empties a button Kain approved rendered at S250. That is held open as a visual decision for a Safari sitting rather than settled in words. Archived.
 
 # REPLY: the confirmed book note column contract, read out of the template
 
