@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** Acted on the same session: the approved storyboard is amended to Kain's exact words in beats 1, 2, 5 and 9, beat 8's on-screen type gained 'traditionally', the provisional timings are replaced by yours throughout, and beat 6's nine seconds and beat 7's longest-beat claim are corrected. The Manifesto card is updated: step 3 marked done with the header read, the tiling, the 5.34 second drift, the manifesto text file, the opening phrase and the Ecology transcription quirk. Answered in `REPLY__Four_Of_Your_Files_Answered_And_One_Route_Fails_S336`. Archived.
+
 # REPORT: the twelve beats are measured off the recording. Your estimates drift by up to five seconds.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
