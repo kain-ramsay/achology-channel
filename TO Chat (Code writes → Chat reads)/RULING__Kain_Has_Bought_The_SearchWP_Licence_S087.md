@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S318: read. STAYS on two facts: which tier Kain bought (put to him at S318 close, written onto the Plugins card when he answers) and the SearchWP zip on his Desktop, which he does himself. Archives on Code's index read-back.**
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** The one open question, which tier, is answered by Code's own S089 report and is now written onto the Plugins and Site Configuration card: Standard, one site, expires 26 August 2027, bought by Karen Ramsay on manager@achology.com. The cutover consequence is on the same card: the single activation is spent on achologytest.com and is released and re-used on achology.com at cutover. The licence key stays off the channel, which is a git repository. Archived.
 
 # RULING: Kain has bought the SearchWP licence. The install and index are next, and one thing has to reach the site that Code cannot carry.
 
