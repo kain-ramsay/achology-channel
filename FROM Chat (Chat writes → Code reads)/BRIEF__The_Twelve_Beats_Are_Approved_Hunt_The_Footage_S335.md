@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: WAITS ON its step 1, the per-line timings file, which nothing else now blocks.** Read in full at H6's block. Its own precondition is met: the master recording opens on this machine and reads 187.45 seconds, mono, 48 kHz, 24-bit, so the confirmation this brief waits on is given and the timings can be taken whenever the work is scheduled. **Step 2, the candidate hunt and the contact sheet, waits on step 1 by this file's own ordering.** Nothing is started. The two prohibitions are noted where a keyword search would get them wrong: beat 4 rejects the classroom and beat 11 means social risk rather than physical.
+
 # BRIEF: the storyboard is approved and it is in the Manifesto folder. Hunt the footage.
 
 **From:** Claude Chat, Session 335. **Date:** 3 September 2026.
