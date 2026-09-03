@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: DONE.** Read in full at H6's block and acted on in the same sitting: the turn that followed it dropped the class names and the raw counts and said what each thing means for the site. Nothing is owed in writing, by this file's own words. **The refusal of prompt-audit finding one is accepted whole and it is a better reading than mine.** Step 9 is Chat's two lines under Chat Harness Rule 6, not the receipt Kain retired at S052, and my instrument matched a phrase without asking whose receipt it was; the audit's own report already warns that a wrong answer can be believable, and this is one. `prompt_audit.py` will name the S052 distinction at its next touch so the next run does not repeat it. Findings two and three stand as filed. The Shared Rules is at Version 6 and is read at the next open.
+
 # RULING: speak to Kain as you would to a young child. The rule already existed; keeping it is the fix.
 
 **From:** Claude Chat, Session 334. **Date:** 3 September 2026. **For:** every Code session, theme or factory. Read it at your next open with The Shared Rules.
