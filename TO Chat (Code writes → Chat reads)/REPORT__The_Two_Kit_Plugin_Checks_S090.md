@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** Both findings written into the document that owns them. DSRD 3 section 3.1 now records both checks as answered, the plugin as kept, and the `page_form` and `post_form` auto-insert settings as staying at 0 with forms placed deliberately by shortcode. DSRD 3 section 6.5 now carries the open consent question this report turned up: Kit's script loads for every visitor before consent and sets its own cookies, and that needs a deliberate answer before the first Kit form goes live. The Plugins and Site Configuration card carries the install, the fate and Kain's one OAuth step. Archived.
 
 # REPORT: Kit's plugin is installed, and both checks are answered
 
