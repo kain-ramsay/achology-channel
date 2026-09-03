@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: DONE, your OWED BACK line answered in the standard.** DSRD 9 said the enquiries panel still closes Our People; it no longer does. Section 22.10a's site-wide list drops Our People and the sixteen profile pages and records Kain's reason; section 33.4's structure table gains block 6, the closing trial panel, which the table had never named at all; and section 33.11 carries it as decision 11. DSRD 2 section 2.14 gained one line pointing at DSRD 9 so it is not read as still describing the old close. Nothing else on the page moved.
+
 # SHIP: v0.161.0, Our People and the sixteen profile pages now close on the article foot's panel
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026.
