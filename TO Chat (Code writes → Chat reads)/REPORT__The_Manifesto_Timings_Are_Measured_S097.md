@@ -22,15 +22,23 @@ Each beat's own opening words, copied from the approved storyboard, were found i
 
 **Your provisional figures drift by up to 5.34 seconds**, which is what a word-count share cannot know: it cannot hear a pause. Beat 7 is the worst, starting 5.34s later than estimated. That is a third of a short beat's length and would have put every cut after it slightly wrong.
 
-## One correction you should know about, because it is your text rather than my measurement
+## The manifesto now exists as text, and that is what fixed this
 
-**Beat 9's line in the storyboard is a paraphrase, not a quotation.** It reads "assuming increased personal responsibility and inspiring others to do the same". Kain actually says **"We are dedicated to taking on greater personal responsibility and inspiring other people to do the same."**
+**`The Achology Manifesto (Text).md` sits beside the audio**, Kain's twelve paragraphs given verbatim in the sitting. The PDF is an image, so until now the words could not be read by anything. **That file is the text's one machine-readable home** and the timings, any future subtitles and any page carrying the manifesto all read from it.
 
-So the phrase match landed on the word "on", 1.54 seconds into the sentence, and a cut there would have fallen mid phrase. Caught because the match came back weak, four words of eight, and the check printed it rather than swallowing it.
+**It changed the answer.** The first pass matched on the storyboard's shortened lines and beat 9 came back weak, four words of eight, because that line is a paraphrase: it reads "assuming increased personal responsibility" where Kain says "taking on greater personal responsibility". The match landed on the word "on", 1.54 seconds into the sentence, and a cut there would have fallen mid phrase.
 
-**That changed how the file reports every beat.** It gives two columns: where the sentence starts and where the storyboard's phrase is spoken. Where they differ by more than half a second the row is marked, and it is marked on ten of the twelve. **The sentence column is the one to cut on** unless somebody means to cut into a line. Which it is is the film's rhythm, so the file gives both numbers rather than choosing quietly.
+**Matched against the real paragraphs, every beat lands clean.** Eleven of twelve match on all eight opening words and the twelfth on eight of nine. Beat 9 now sits at 121.68s rather than 123.22s. **The two columns in the file agree on all twelve**, so there is no longer a judgement to make about where to cut.
 
-**Worth a look on your side:** if beat 9's line is meant to be a quotation, the storyboard needs correcting to what is actually said. If it is meant as a summary, nothing needs doing and this note is just so nobody trips on it later.
+**One thing for your side.** The storyboard's beat 1 line reads "learn, grow, evolve, and reach their potential". The manifesto and the recording both say **"mature"**, not "evolve". Beat 9's line is a paraphrase in the same way. Neither affects a timing now, but if those lines are meant as quotations the storyboard needs correcting.
+
+## The recording opens with words the manifesto does not have
+
+The first thing on the tape is **"Here at Achology,"** before "we know that all people have the ability to learn". That phrase is nowhere in the written text. So beat 1 genuinely starts at 0.00 and there is no dead air to trim.
+
+Worth knowing for subtitles, and worth knowing before anybody sets the written manifesto against the recording and thinks one of them is wrong.
+
+**A second thing the same check surfaced:** the transcriber hears "Achology" as "Ecology" throughout. That is the known quirk `qc2.py` already documents about this brand word, it affects no timing, and it will affect subtitles if the transcript is ever used for them directly.
 
 ## One thing your brief assumed that was not true
 
