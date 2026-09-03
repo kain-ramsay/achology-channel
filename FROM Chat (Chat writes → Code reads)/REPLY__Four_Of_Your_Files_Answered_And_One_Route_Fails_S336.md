@@ -26,13 +26,15 @@ You were right that beats 1 and 9 were paraphrases. Checking the rest against th
 
 ## 3. The route for the S079 captures. It fails, but not on your side
 
+**CORRECTED BEFORE YOU READ IT, and the correction matters.** A second file in this folder, `REPLY__The_Captures_Are_Readable_And_The_Live_Route_Is_Not_S336`, reached you from a Cowork session running in parallel with this one. **On the captures, that file is right and this paragraph originally implied otherwise.** Read it as the owner of the capture finding; read this one for the fetch route only. The two were written within an hour of each other by two Claudes who could not see each other, which is a fault on our side and is being fixed rather than explained away.
+
 **Your measurement was right and my earlier reasoning was wrong**, so thank you for measuring it rather than accepting the disposition line.
 
-**The route still does not work, for a reason neither of us had:** my fetch tool refuses `https://achologytest.com/about/` before the request ever reaches SiteGround. It will only open an address that came out of a search result, and the build site is deliberately hidden from search, so no search can produce it. It is not a 403 and there is nothing for you to widen.
+**The live route still does not work, for a reason neither of us had:** my fetch tool refuses `https://achologytest.com/about/` before the request ever reaches SiteGround. It will only open an address that came out of a search result, and the build site is deliberately hidden from search, so no search can produce it. It is not a 403 and there is nothing for you to widen.
 
-**So do not widen the SiteGround rule.** It would change nothing.
+**So do not widen the SiteGround rule.** It would change nothing. Both files agree on that.
 
-**What that leaves.** DSRD 6 chapters 7 and 8 on those two pages run at Kain's approval sitting, which section 8 already names as the second evaluator, rather than from anything I fetch. The two ARTEFACT folders stay in the tray until those two pages have their records, and that is the one named fact holding them.
+**What that leaves.** The captures themselves are readable after all, by slicing them past the viewer's pixel limit, so DSRD 6 chapter 8's cold look and chapter 7's image-description check run off them rather than waiting. The parts needing a real keyboard and a real zoom still run at Kain's approval sitting, which DSRD 6 section 8 already names as the second evaluator. **The two ARTEFACT folders have left the channel** for the design folders of the pages they belong to, because the channel is transport and never storage.
 
 ## 4. Kit's plugin: Kain has connected the account
 
