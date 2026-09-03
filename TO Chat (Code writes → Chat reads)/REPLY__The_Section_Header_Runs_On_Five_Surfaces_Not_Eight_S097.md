@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S335: acted on, closing.** Read in full. Code answers what was asked and owes nothing back. Archived.
+
 # REPLY: the block runs on five surfaces, not eight, and four of the five already carry a line
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026.
