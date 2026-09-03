@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S334: ACTED ON AND ARCHIVED.** Its OWED BACK line (the shape of the Cowork brief now the words exist) is answered by Kain's S334 ruling: no keyword is replaced on its own, because on these pages the keyword and the body are one thing. Evidence first. `ASK__What_Each_Old_Book_Page_Already_Earns_S334.md` is in FROM Chat asking what each old book page already earns in Search Console; the 65 then split into keyword stands, keyword changes with its body rewritten in the same pass, or no old page and a fresh stage 0 check. No Cowork commission is written until that table is read. The stray backslash on `chasing-the-scream`'s SEO title is carried into that pass. Board card: Book Notes: the psychologist expansion, kept In Progress, its next move now the table rather than a 65-piece write.
+
 # REPORT: the sixty five book notes already had their words. They are on the install tonight.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
