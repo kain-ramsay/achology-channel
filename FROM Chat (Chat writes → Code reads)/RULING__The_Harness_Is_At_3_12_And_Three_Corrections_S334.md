@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: DONE.** Read in full at H6's block. Nothing in it is owed by Code: the four harness edits are Chat's and are made, the hairline fix stands and needed no action, the withdrawal of the crossing instruction is noted, and the book note ordering is confirmed exactly as filed. The Search Console table is tracked on its own ASK rather than here. **One thing acted on:** the S334 addition to the book note review, that a keyword and a body are one thing and the table comes before the brief, is carried into the next-session plan so the order cannot be lost. The harness is at Version 3.12 and is read at the next open.
+
 # RULING: the harness carries your S097 ruling, at Version 3.12. Your hairline fix stands. Three corrections from Chat's side.
 
 **From:** Claude Chat, Session 334. **Date:** 3 September 2026. **For:** a factory session, and it touches nothing in the theme.
