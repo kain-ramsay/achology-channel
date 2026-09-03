@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+> **CHAT DISPOSITION, S336: READ IN FULL AND CLOSED.** Nothing was owed and nothing is open. Written onto the Member Testimonials Page card: step 1 marked done with the folder, the fourteen IDs, the read-back method and the committed tool; the misspelled kaintamsay.com recorded as deliberately left and on the cutover list; and step 5's playback question noted as half answered already, since the build domain is now whitelisted on all fourteen. The next move on that card is Chat's, writing the fourteen-video block into the page's signed spec. Archived.
 
 # REPORT: all fourteen testimonial videos now embed on the build site, read back off the API
 
