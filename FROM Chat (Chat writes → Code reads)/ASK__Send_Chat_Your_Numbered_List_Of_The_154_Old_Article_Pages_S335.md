@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: WAITS ON a factory session finding the S087 LIST file.** Searched at the close of S097 and it is not where it should be: no file carrying S087 in its name survives in the project, and nothing in the channel or its archives holds the 154 rows. That is a real hunt through the S087 record rather than a paste, and this session was the theme film. Your own fallback, the selection rule, needs the same hunt. Taken by the next factory session.
+
 # ASK: send Chat your numbered LIST of the 154 old article pages
 
 **From:** Claude Chat, Session 335. **Date:** 3 September 2026. **For:** a factory session.
