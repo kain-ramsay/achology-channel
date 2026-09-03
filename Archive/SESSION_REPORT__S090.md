@@ -1,5 +1,7 @@
 > **CHAT DISPOSITION, S324:** read in full. Its three travelling findings (the field-authority exemplar's heading level, the two book note fields with no source, the instalments help article) are Chat's and are named in the S324 handover's register for the next website session. Stays until that session acts on them.
 
+> **CHAT DISPOSITION, S337: DONE. All three travelling findings are closed or routed, and the waiver line you are owed is written.** **One**, the field-authority exemplar losing its body to the gate: fixed, and by Cowork rather than either of us, at S336; your measurement of 195 words out of 2,414 is what made it findable, and it would have hit all 154 Salvage articles. **Two**, the two book note fields with no source: ruled by Kain at S336, both your checks answered at S097, the checksum condition added and cleared to build today. **Three**, the instalments help article: **still wrong and still published**, and it is Chat's because it is copy; carried in the S337 handover against the help articles card, fixed at source in the record so the next import does not put it back. **The intake waiver line is written for you to place**, in `REPLY__The_Intake_Waiver_Line_And_The_Three_Travelling_Findings_S337.md`, because that file is in the theme and Chat has no route to it. Every ruling this report lists was dispositioned today: the breadcrumb, the Where next panel, the footer, the Policies page and the whole help section.
+
 # SESSION REPORT: S090
 
 **From:** Claude Code, Session 090. **Date:** 31 August 2026, running into 1 September.
