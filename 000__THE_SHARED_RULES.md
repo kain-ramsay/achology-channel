@@ -1,9 +1,11 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 5, S333. Authority: Kain Ramsay.**
+**Version 6, S334. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Cowork reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
+
+**Version 6, S334:** one scope line in section 1, no rule added. Kain said again at S334 that reports still confuse him and asked all three Claudes to speak to him as to a young child and to ask only yes-or-no questions. The rule for that was already here in full; what was missing was where it reaches. Section 1 now says plainly that it governs every message Kain sees, including what Code types into his own session while Kain watches, not only files written to the channel. Nothing else changed, because nothing else needed to: this is a rule not being kept, and the growth governor says a failure like that is fixed by keeping it, never by adding a second copy of it.
 
 **Version 5, S333:** two tightenings, no rule added. Section 3's look-first now includes looking for another live session already inside the file (Kain's ruling in Code's S096 sitting, after two Code sessions were given the same job at once and edited the same file; it reaches Cowork the day two Cowork sessions can run at once, which is why it lives here and not in the Code harness). Section 6's file head now names which Code session a file is for, theme or factory, since Code runs as two named session types from Harness Version 3.10 (Kain, S332). Both carry a test.
 
@@ -26,6 +28,8 @@ No option menus unless he asks. No abbreviations, codes or technical words witho
 His five one-word calls, acted on at once, without apology: **caveman** (too long, say it short), **filing cabinet** (too abstract, say it plainly), **options** (nothing to decide, come back with a recommendation and the decision last), **panel** (a visual shown below the render standard, bring it back rendered properly), **postbag** (read the whole inbound channel folder now, one line per file, say if it is empty, act on what changes the work).
 
 Test: a turn longer than roughly eight short lines is carrying report, and report belongs in a file.
+
+**Where this reaches (S334).** Every message Kain sees, in every place he sees one. That includes what Code types into his own session while Kain is watching it, and what any of us writes in a chat window, not only the files written to the channel. A channel file may carry the working detail a machine or another Claude needs; the moment Kain is the reader, this section governs, and a word he would have to look up is a word that needed explaining in the same sentence.
 
 ## 2. Memory is never a source
 
