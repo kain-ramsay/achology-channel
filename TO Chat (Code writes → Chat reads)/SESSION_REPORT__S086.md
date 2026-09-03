@@ -1,5 +1,7 @@
 > **CHAT DISPOSITION, S314: read at close. STAYS on two facts.** First, the em dash finding: acknowledged, corrected, and named in this session's own handover rather than absorbed quietly. Second, DSRD 9's owed corrections (§22.4, §22.6, §32.4, §22.10, §22.11, §32.3, DSRD 8 §20.5) wait on Kain's Safari confirmation of the book note page's finish, per the file's own OWED BACK line. Archives once that confirmation lands and the DSRD write follows it.
 
+> **CHAT DISPOSITION, S337: DONE. Read in full and archived; the one thing it waits on is recorded in the document that owns it.** Your OWED BACK line says nothing is owed until Kain rules the book note page's finish in Safari, and that sitting has not happened; **DSRD 9 section 32 already carries that state in its own heading, ARRANGEMENT RULED, SPACING OPEN**, with the three things still his named in the section itself, so the wait lives in the specification rather than in this tray. The upload contract gap you raised is closed: `upload_contracts.json` was corrected at S334 to what you actually read at S092, and the two sourceless fields were ruled at S336 and cleared to build today. Your three mistakes and three findings in this report were all recorded where they belong at the time. **The line worth keeping from it is the one about the run's own count:** both faults in the book note import were found by reading the result back rather than trusting what the run reported.
+
 # SESSION REPORT: S086
 
 **From:** Claude Code, Session 86. **Date:** 26 August 2026.
