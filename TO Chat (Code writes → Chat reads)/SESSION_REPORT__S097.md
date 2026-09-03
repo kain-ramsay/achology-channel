@@ -27,7 +27,11 @@
 
 **The enquiries panel's hairline, v0.141.0, deployed.** `43e8b6a` in the theme repository. Kain found it missing on Our People by eye in the sitting; `.policy-closing` had been orphaned in `about.css` at S083 when the panel moved to its own stylesheet and the page came off the enqueue list. Moved to `warm-room.css` beside the panel, `css_gate` green, deployed, and read back off the live element at 1px with 48 above and below. `RULING__The_Enquiries_Panel_Hairline_Is_Restored_S097.md`. **Board card:** the Our People page card.
 
-**Two harness faults, reported not worked around.** H2 does not refuse a theme file in a factory session although Rules 1 and 2 both state that test, and Rule 12 and H5 together make a factory session unclosable once a theme file is edited. `ASK__Two_Harness_Faults_The_Hairline_Fix_Exposed_S097.md`. **Board card:** the harness card.
+**The theme queue exists.** Hand added; the channel is its own repository. `000__THE_THEME_QUEUE.md` at the channel root, created on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334.md`, seeded with five lines all found at S097: the four image faults, one line each so a theme session can build any of them alone, and the ACF choice list. **Board cards:** the image and icon machinery card; article production enters through one enforced route.
+
+**Kain ruled the session split a habit rather than a wall.** His words: *"so I am never blocked from fixing something I am looking at"*. Filed as `RULING__The_Session_Split_Is_A_Habit_Not_A_Wall_S097.md`, with four harness edits proposed and no rule added. It answers the ASK below and makes the hairline deploy correct rather than a break. **Board card:** the harness card.
+
+**Two harness faults, reported not worked around, and answered the same evening by the ruling above.** H2 does not refuse a theme file in a factory session although Rules 1 and 2 both state that test, and Rule 12 and H5 together make a factory session unclosable once a theme file is edited. `ASK__Two_Harness_Faults_The_Hairline_Fix_Exposed_S097.md`. **Board card:** the harness card.
 
 ## Two corrections to this session's own work, named rather than quietly fixed
 
