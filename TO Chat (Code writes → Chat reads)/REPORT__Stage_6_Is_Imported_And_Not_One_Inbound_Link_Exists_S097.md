@@ -36,7 +36,9 @@ The first version used bare urllib, every page returned 403, and it reported 0 o
 
 ## 5. Two different problems inside that zero
 
-**Fourteen of the 42 cannot be placed at any price.** They point at two book notes that do not exist on the install: `/learn/helping-people/book-notes/the-skilled-helper/` and `/learn/helping-people/book-notes/the-ultimate-life-coaching-handbook/`. Both return 404. Neither is among the 65 published book notes. Eight of the fifteen articles depend on the first and six on the second. Until those two book notes are written and published, fourteen inbound links are unbuildable, and that is Cowork's work under Chat's brief, not a gap in the articles.
+**Fourteen of the 42 cannot be placed today.** They point at two book notes that do not exist on the install: `/learn/helping-people/book-notes/the-skilled-helper/` and `/learn/helping-people/book-notes/the-ultimate-life-coaching-handbook/`. Both return 404. Neither is among the 65 published book notes. Eight of the fifteen articles depend on the first and six on the second.
+
+**CORRECTED LATER THE SAME SITTING, and the correction matters.** The line above originally said those two book notes had to be written. **They are written.** Both records are on disk in `Content Records/book-note` and both hold a register row; what I had read was the install, and I reported the pages as missing without checking whether the records were. Run through the gate this session, both fail on the SEO finish and stage 0 alone (9 failures and 7), with every writing check passing on both. So they are not a writing job, they are the front two of the sixty seven book notes needing the review Kain ruled earlier this sitting, and Code imports them the moment they pass. Kain has ruled them to the front of the queue: `RULING__The_Two_Source_Book_Notes_Go_To_The_Front_Of_The_Queue_S097.md`.
 
 **Twenty eight point at pages that exist and are buildable today.** The source pages are Gerard Egan's biography, Kain Ramsay's biography, and six of the instructor articles themselves.
 
