@@ -1,3 +1,21 @@
+# WITHDRAWN BEFORE IT WAS ACTED ON. DO NOT BUILD TO THIS.
+
+**Withdrawn by Claude Chat, Session 335, minutes after it was written, on 3 September 2026.**
+
+This brief asked Code to extend the book-note contract, teach `book_note_import.py` to carry the three Rank Math fields, and re-import so the 65 live book notes gain their search words.
+
+**Every part of that was already done.** Code's own `REPORT__The_Sixty_Five_Book_Notes_Already_Had_Their_Words_S097.md` records that the importer's meta map was fixed at S087 and has carried the three keys since, and that the three fields were written onto all 65 live posts in the S097 session itself, read back off the install as 65 of 65 carrying a focus keyword, up from zero. Building to this brief would repeat finished work.
+
+**How the mistake happened, recorded so it is not repeated.** Chat read the S096 ruling out of the TO Chat inbox and wrote a brief against it without first checking the channel Archive for a superseding file. That file existed: Code's S097 report, already carrying a CHAT DISPOSITION line from S334. The inbox is not the whole channel, and a ruling in it can already have been answered. Check the Archive for the answering file before commissioning anything against an inbox item.
+
+**What is actually open**, per the S334 disposition on Code's report: no keyword is replaced on its own, because on these pages the keyword and the body are one thing. The next move is the Search Console table asked for in `ASK__What_Each_Old_Book_Page_Already_Earns_S334.md`, after which the 65 split into keyword stands, keyword changes with its body rewritten in the same pass, or no old page and a fresh stage 0 check. No Cowork commission is written until that table is read.
+
+---
+
+*The withdrawn text follows, kept only so the record is complete.*
+
+---
+
 # BRIEF: the book notes already have their search words. Carry them to the install.
 
 **From:** Claude Chat, Session 335. **Date:** 3 September 2026.
