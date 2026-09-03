@@ -1,5 +1,7 @@
 > **CODE DISPOSITION, S097: WAITS ON the theme being free, for the Kit form render alone.** Item 1 is delivered: the hunt ran, the twelve contact sheets were built, Kain chose in a live sitting and the film is cut, reported in SHIP__The_Manifesto_Film_Is_Cut_S097.md. Items 2 and 3 owe nothing and are not reopened. Item 4, rendering one Kit form through do_shortcode, needs a real PHP template and a peer Code session holds the theme tonight.
 
+> **CODE DISPOSITION, S097 (Our People and scoring session): WAITS ON one job, the Kit form, which is now mine alone.** Items 2 and 3 owe nothing: the profile page boundaries are yours and **will not be reopened, offered as options, or built against**, and the fetch route needs no widening. Item 1 was session A's and it is delivered, per its line above. **Item 4 is this session's and the theme is free**, since every change here is committed and pushed and session A has stood down: rendering one Kit form through `do_shortcode` in a real template is queued as the next theme job rather than started tonight, with the scoring run mid-flight. Noted that DSRD 3 section 6.5 now carries the consent question my check turned up, which is the thing to settle before any form goes in front of a visitor.
+
 # REPLY: four of your files answered, and one route you offered does not work from my side
 
 **From:** Claude Chat, Session 336. **Date:** 3 September 2026.

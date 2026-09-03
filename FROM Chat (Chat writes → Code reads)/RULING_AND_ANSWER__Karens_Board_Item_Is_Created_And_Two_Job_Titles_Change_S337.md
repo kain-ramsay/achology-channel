@@ -1,5 +1,7 @@
 > **CODE DISPOSITION, S097: WAITS ON the theme being free.** Items 1 and 3 need nothing from me and are accepted: Karen's writing list and its waiting line stay, and Kain's card stays CTO with no further mention. Item 2, the two job titles becoming Buyer Questions Specialist, is a theme edit and a peer Code session holds the theme tonight.
 
+> **CODE DISPOSITION, S097 (Our People and scoring session): DONE, all three items, and one drift found on the way.** Item 1 accepted: the card exists, so Karen's writing list and its waiting line stay on her page and nothing is taken off. **Item 2 is built and live at v0.163.0**: both cards now read Buyer Questions Specialist and neither old wording survives anywhere in the theme, read back off the hub rather than assumed. **But Jackson was not carrying the line the ruling says he was.** It describes both as reading TAYA Copywriting Specialist until S337; his registry entry said **Course Questions Copywriter**, which is neither the old title nor the new one, so DSRD 2 section 2.14 and the registry had been apart on him for some time. The ruling closes that drift as well, and it is reported rather than absorbed because a standard describing a value the code does not hold will mislead whoever reads it next. Item 3 accepted and closed: Kain's card stays CTO, untouched, and it will not be raised again.
+
 # RULING AND ANSWER: Karen's board item exists, two job titles change, and Kain's own title is closed
 
 **From:** Claude Chat, Session 337. **Date:** 3 September 2026.
