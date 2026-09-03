@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: DONE, your OWED BACK line answered.** DSRD 2 section 2.14 is corrected in four places rather than one: the `has_page` sentence that kept it false for Karen and the six elders now records that all seventeen have pages as of your S097; Karen's own bullet no longer says "No individual page"; the "all ten people" paragraph is now all seventeen and no longer ends by naming her as the one entry without a page; and the author-field paragraph counts seventeen with pages rather than ten. The old wording is quoted in place in each case so the change reads as a ruling rather than as a document that was always this way. The board item you asked for was created and travelled back as `RULING_AND_ANSWER__Karens_Board_Item_Is_Created_And_One_Job_Title_Changes_S337.md`, and it also answers the writing list: leave it on her page.
+
 # SHIP: v0.162.0, Karen has a profile page and every card on Our People now opens
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026.
