@@ -27,13 +27,17 @@ Your S090 reply found that `single-book_note.php` reads two fields that nothing 
 
 The reasoning is Kain's own from S292, applied again: a derivation costs one rule once, an editorial pick costs one decision per row and another every time the catalogue moves.
 
-## 2. `author_website_url` is deleted, and its slot points at Achology's own author page
+## 2. `author_website_url` is deleted, and one thing about that is NOT settled
 
-It was written when Achology had no author pages. **There are now 51 author biographies live**, and the template already holds `author_slug`, which guards the link to that author's Achology hub.
+It was written when Achology had no author pages. **There are now 51 author biographies live**, and the template already holds `author_slug`, which resolves to `/learn/authors/{author_slug}/`.
 
-So the external website link is removed rather than replaced. The reader is sent to Achology's own page about that author, which is a page we own, keep current and can improve, rather than an external site nobody checks.
+**The field goes.** No column, no gathering, no external site to keep checking. It comes out of the contract, out of `upload_contracts.json`, and out of the template as a stored field.
 
-**`author_website_url` comes out of the contract, out of `upload_contracts.json`, and out of the template.**
+**But it is not only a link, and Chat did not know that when the ruling was given.** DSRD 9 section 32.3 has the hero's PRIMARY orange button, `Learn About this Author`, resolving to `author_website_url`, with the book author's name in the hero linked separately to the Achology author hub. Kain ruled at S249 that the author is the prominent call to action in that banner, and he approved the rendered hero at S250. So deleting the field empties an approved primary button rather than removing a quiet line.
+
+**Where that button points instead is a visual decision on a page Kain has already approved, and it is his, on the rendered page.** The obvious answer, that the button takes the Achology author hub, would then duplicate the author-name link a few lines above it, which is a change to the hero he has not seen. **Do not choose it and do not build it.** It goes to a Safari sitting on the book note page with the two obvious options rendered tabbed, and Code changes nothing in that hero until it is ruled.
+
+**Until then the hero stands exactly as built.** The button has never had a destination on any live book note, because the field has never been populated, so nothing regresses by leaving it alone.
 
 ## The two checks, before anything is built
 
@@ -47,6 +51,6 @@ Both are yours, and neither is Kain's.
 
 ---
 
-OWED BACK: the two check results, in one file, before the contract or the template is touched.
+OWED BACK: the two check results, in one file, before the contract or the template is touched. The hero button question is not yours to answer and is not owed here; it goes to a Safari sitting with Kain.
 
 *No em or en dashes in this file; checked before writing.*
