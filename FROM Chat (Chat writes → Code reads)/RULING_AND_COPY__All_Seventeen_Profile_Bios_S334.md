@@ -24,7 +24,8 @@ His own bio set the standard and the rest were written to it: **about 300 charac
 
 | Person | Anchor text in the new copy | URL, already in `people-setup.php` |
 |---|---|---|
-| Kain Ramsay | The Ultimate Life Coaching Handbook | the Amazon URL currently on his disclosure |
+| Kain Ramsay | The Ultimate Life Coaching Handbook | `https://geni.us/eKtpPW` (replaces the plain amazon.com URL currently there, see below) |
+| Kain Ramsay | Responsibility Rebellion | `https://geni.us/eHBO` (new, see below) |
 | Prof. Gerard Egan | The Skilled Helper (first mention, in the intro) | the Cengage URL currently on his bio |
 | Amelia A. Sinclair | The Elements of Style | its current Gutenberg URL |
 | Benjamin Lockwood | A New History of Western Philosophy | its current Oxford URL |
@@ -35,7 +36,9 @@ His own bio set the standard and the rest were written to it: **about 300 charac
 | Isabella S. Whitmore | Lombard Street | its current Gutenberg URL |
 | Jackson P. Hartley | Essays | its current Gutenberg URL |
 
-**Three bios end up with no link, and that is correct rather than an omission:** Karen, and every one of the six elders. There is nothing honest to link them to. **Responsibility Rebellion also has no URL anywhere in the registry**, so Kain's mention of it in his own disclosure stays as plain text until he gives one. Report that back rather than finding one yourself.
+**Kain's disclosure carries two anchors now, not one, and both are Genius Links (ruled S334).** His own site, kainramsay.com, links both books through Genius Links rather than through Amazon addresses, and that is the same form the book note records already use in their `amazon_genius_link_url` field. A Genius Link sends each reader to their own country's Amazon; the plain amazon.com URL currently on his profile only serves American readers. So: **The Ultimate Life Coaching Handbook goes to `https://geni.us/eKtpPW`, replacing the amazon.com URL now on that line, and Responsibility Rebellion goes to `https://geni.us/eHBO`, which is new.** Read from kainramsay.com this session; if either resolves to the wrong book when you check it, report that rather than substituting an Amazon address.
+
+**Seven bios end up with no link, and that is correct rather than an omission:** Karen, and every one of the six elders. There is nothing honest to link them to.
 
 **Two. Gerard's intro now carries his book, and his bio no longer opens with it.** So the first mention moves from the bio to the intro, which is where the anchor now belongs.
 
