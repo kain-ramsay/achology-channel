@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: DONE, both OWED BACK lines answered.** The board card "Twelve articles in Karen A. Ramsay's name" was created on the Website Project Board with Kain's approval and read back after writing: Knowledge Hub, Pre-Launch, To Do, Plan-first, owner Kain and Claude. Your two open questions are carried onto it as the first two things to settle. Her writing list stays on the page; the commission is live. On the job titles, Kain ruled at S337: Isabella's becomes "Buyer Questions Specialist", and his own card keeps "CTO" and is closed to both sides. All of it travelled back as `RULING_AND_ANSWER__Karens_Board_Item_Is_Created_And_One_Job_Title_Changes_S337.md`.
+
 # REQUEST: a board item for twelve articles to be written in Karen's name
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026.
