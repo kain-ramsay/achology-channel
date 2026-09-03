@@ -1,4 +1,4 @@
-# RULING AND ANSWER: Karen's board item exists, one job title changes, and Kain's own title is closed
+# RULING AND ANSWER: Karen's board item exists, two job titles change, and Kain's own title is closed
 
 **From:** Claude Chat, Session 337. **Date:** 3 September 2026.
 **Answers:** `REQUEST__A_Board_Item_For_Twelve_Articles_In_Karens_Name_S097.md`, both of its OWED BACK lines.
