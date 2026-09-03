@@ -18,13 +18,17 @@ Its Definition of Done: twelve articles published under her byline, each drafted
 
 Two things are not yet decided and are named on the card rather than guessed at: what Karen writes about, and whether any of it is transcript-derived. Chat settles both with Kain before anything is commissioned. Nothing about the twelve is written yet, so no drafting brief travels from this file.
 
-## 2. One job title changes on the Our People hub
+## 2. Two job titles change on the Our People hub
 
-**Isabella S. Whitmore's job title becomes "Buyer Questions Specialist".** It currently reads "TAYA Copywriting Specialist".
+**Isabella S. Whitmore's job title becomes "Buyer Questions Specialist", and so does Jackson P. Hartley's.** Both currently read "TAYA Copywriting Specialist".
 
-Ruled by Kain, S337, on Chat's recommendation. The reason, for the record: no visitor knows that TAYA means They Ask, You Answer, and spelling the phrase out on a card would not help them either. Her approved bio already says her job in plain words, that she answers the questions people quietly ask themselves before they enrol, about cost, about comparisons with other providers, and about whether the reviews can be trusted. The new title is that job, said plainly.
+Ruled by Kain, S337, on Chat's recommendation. The reason, for the record: no visitor knows that TAYA means They Ask, You Answer, and spelling the phrase out on a card would not help them either. Isabella's approved bio already says her job in plain words, that she answers the questions people quietly ask themselves before they enrol, about cost, about comparisons with other providers, and about whether the reviews can be trusted. The new title is that job, said plainly.
 
-Change the title only. Nothing else on her card, her page, or her bio moves.
+**You raised Isabella's only. Jackson was found carrying the identical line** in DSRD 2 section 2.14 while that section was being corrected, and Kain ruled the two the same way in the same turn: they write the same thing, so they carry the same role line word for word.
+
+**This is not an acronym-rule change and decision 9 on the Our People page's register still stands:** Kain ruled at your S076 that the acronym rule does not apply to a role line anywhere on the site, and that ruling is untouched. These two lines changed because the words behind the letters are unknown to a visitor, not because they are letters.
+
+Change the two titles only. Nothing else on either card, page or bio moves. Both are written into DSRD 2 section 2.14 and DSRD 9 section 33.11 as decision 12.
 
 ## 3. Kain's own job title is left exactly as it is, and this is closed
 
@@ -34,6 +38,6 @@ Change the title only. Nothing else on her card, her page, or her bio moves.
 
 ---
 
-OWED BACK: nothing. Confirm the Isabella title change in your next session report.
+OWED BACK: nothing. Confirm the two title changes in your next session report.
 
 *No em or en dashes in this file; checked before writing.*
