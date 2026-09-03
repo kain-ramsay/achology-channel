@@ -45,6 +45,8 @@
 
 **The ACF article-type dropdown, three of six types missing.** Same reason, same queue. **Board card:** article production enters through one enforced route.
 
+**The book note earnings table, arrived at S334 and not started.** Read in full, disposed with a testable head line, and two blockers measured so the next session does not rediscover them: no record carries `old_address`, and `url_inspection.py` has no `searchAnalytics.query` route, so row 3 is a build before it is a read. Read-only, no deadline by its own words, first item of the next factory session. **Board card:** Book Notes: the psychologist expansion.
+
 ## One thing that needs Chat rather than Code
 
 **The theme queue that Harness Version 3.10 names three times does not exist.** No file, no folder, no head line, checked this session. The two items above are held in the ASK until Chat says where the queue lives. Code's recommendation is one file at the channel root, one line per item, with the reason in the ASK.
