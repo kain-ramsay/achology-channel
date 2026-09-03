@@ -15,7 +15,21 @@ All three turn on how something looks, so none can be settled in words under sta
 
 ---
 
-## Decision 1: the footer's column labels. Start here, because it is the launch item
+## Decision 1: CANCELLED at S337, on Code's own correction. Do not render it.
+
+**The failure is not real and never was.** Code re-measured and the footer's column labels sit at **5.02 to 1 on the footer's own ground. They pass.** The 2.08 reading came from axe resolving the background as white, which it does for an element it cannot see painted: **the footer on that page sits 49,526 pixels below the fold.** With the footer scrolled into view, axe reports zero colour-contrast violations; off-screen, three violations at 2.08 every time. Same page, same colours, same axe.
+
+**The board card is cancelled with it.**
+
+**The one instruction in this commission that earned its place is the one that would have prevented the damage.** It said to measure `#B8460F` on the footer's dark ground before offering it, because it was derived against light backgrounds. **It measures 1.96 to 1.** Offering it would have taken a passing element and broken it, inside a sitting called to fix a failure that did not exist.
+
+**One thing follows for the readiness record and it is Code's.** The article page's chapter 7 "seven contrast nodes" is now unproven rather than traced: if that run was made over a whole page without scrolling, it carries the same artefact, and this file's earlier confirmation of the owner made it look corroborated when both readings shared one fault. Chapter 7 is re-run with every checked element in view before anything is concluded from it.
+
+**A general fact worth more than this one page: every off-screen light-on-dark element on this site will fail an axe run this way.** Any contrast number taken without the element in view is unproven.
+
+---
+
+## Decision 1, as written before it was cancelled. Kept as the record, not as an instruction.
 
 **The failure, in your own measurement:** `.footer-col__label` renders `#f5a05c` on the footer's `#354149` ground at **2.08 to 1**, against an AA minimum of 4.5 for text that size. The three labels and the orange accent span inside one of them.
 
