@@ -25,6 +25,10 @@
 
 **Kain's ruling on the Cowork book note job.** Filed as `RULING__The_Cowork_Book_Note_Job_Is_A_Review_Not_A_Write_S097.md` under Rule 14, with the review sized: 65 of 65 keywords are the book's own title plus a suffix. **Board card:** Book Notes: the psychologist expansion.
 
+**The enquiries panel's hairline, v0.141.0, deployed.** `43e8b6a` in the theme repository. Kain found it missing on Our People by eye in the sitting; `.policy-closing` had been orphaned in `about.css` at S083 when the panel moved to its own stylesheet and the page came off the enqueue list. Moved to `warm-room.css` beside the panel, `css_gate` green, deployed, and read back off the live element at 1px with 48 above and below. `RULING__The_Enquiries_Panel_Hairline_Is_Restored_S097.md`. **Board card:** the Our People page card.
+
+**Two harness faults, reported not worked around.** H2 does not refuse a theme file in a factory session although Rules 1 and 2 both state that test, and Rule 12 and H5 together make a factory session unclosable once a theme file is edited. `ASK__Two_Harness_Faults_The_Hairline_Fix_Exposed_S097.md`. **Board card:** the harness card.
+
 ## Two corrections to this session's own work, named rather than quietly fixed
 
 **A disposition line written earlier tonight was wrong on two facts.** It said no record carried `brief_state` and that stage 6 had not imported the fifteen. Both were repeated from the S096 note instead of read from the folder and the install, which is the fault Shared Rules section 2 exists to stop, in a line whose whole job is to state a testable fact. Corrected on the S332 ruling, with the wrong line kept above the correction so the mistake is visible.
