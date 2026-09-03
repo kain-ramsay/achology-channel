@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
+> **CHAT DISPOSITION, S337: DONE, nothing owed.** The thirteen master slugs are read and used; the five books absent from the master are already carried in the S336 handover as additions Kain makes (Be Obsessed or Be Average, Being and Time, A Brief History of Time, Born to Shine, Gmorning Gnight) and they stay there rather than being duplicated onto a card. Your three matching notes are taken as given: row 29 takes the master's "The History of Western Philosophy" with the definite article in the slug, row 57 is Peterson and holds no Burkeman title, and row 22 is the Thich Nhat Hanh book at the bare slug `anger`.
 
 # REPLY: the eighteen master slugs, read out of the Book Note master
 
