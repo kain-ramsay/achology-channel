@@ -1,4 +1,4 @@
-# ASK: the theme queue has no home. Two items are waiting to go into it.
+# ASK: the theme queue has no home. Three items are waiting to go into it.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
 **Under:** Harness Rule 5 and Shared Rules section 3. Looked first; the looking did not settle it.
@@ -26,6 +26,22 @@
 - **About six of the theme's own icons carry neither `aria-hidden` nor an accessible name:** the breadcrumb separator, the footer chevrons, the stats and story-proof glyphs, the help popular badge. The same handful on every page, so it is one attribute in about six places.
 
 **Two. The ACF article-type dropdown is missing three of its six types.** `group_article_fields.json`'s choice list carries five and needs `author-biography`, `field-authority` and `buyer-intent` added, per DSRD 1 section 3.2's six-type register. Named as a real bug in `RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md` and still open. It is a theme file, so it waits.
+
+**Three. The Our People page has lost the hairline above its closing enquiries panel, and the cause is exactly traceable.** Kain saw it on the rendered page in the S097 sitting and asked. Diagnosed, not guessed, and read off the live page and the theme this turn:
+
+- `template-our-people.php` line 261 wraps the panel in `<div class="policy-closing">`, and its own comment at line 251 says that class "carries the boundary above it".
+- **`.policy-closing` is defined in one place only, `about.css` line 813**, where it carries `border-top: 1px solid var(--color-hairline)` with the 48 above and below.
+- **The Our People page does not load `about.css`.** Read off the rendered page: it loads eleven theme stylesheets and that is not one of them. The whole page carries a single hairline class and it belongs to the footer.
+- **Why it stopped loading is recorded in `functions.php` at section 6f.** At S083 `'instructors'` was removed from the about.css page list, on the reasoning that it was there "for one reason only, the closing enquiries panel, and that block now carries its own stylesheet and enqueues it itself".
+- **That reasoning was right about the panel and wrong by one class.** `.warm-room*` did move into `warm-room.css` and does self-enqueue, which is why the panel itself renders perfectly. The wrapper that draws the boundary above it, `.policy-closing`, stayed behind in `about.css` and was not carried across. Checked: `warm-room.css` defines no `.policy-closing` rule at all.
+
+**This is the S096 class of fault exactly: a change that looks like it worked.** The panel is styled, the class is in the markup, the template comment asserts the boundary is carried, nothing errors, and no gate measures a 1px line. It survived from S083 until Kain noticed it by eye.
+
+**It reaches a second page.** The article page took the same panel at S082 and was removed from the same list at S083. Read off a live instructor article this turn: it carries the panel, carries no `policy-closing` wrapper at all, and its only hairline is the footer's. So the article page has never had a boundary above the panel rather than having lost one, and the sitting should rule both together rather than fixing one page.
+
+**Nothing was put right.** Two of Kain's own rulings say so independently: a factory session never edits a theme file (Harness Version 3.10), and this commission's own instruction is "Put nothing right before the sitting. A fix Kain has not seen is a redesign he did not ask for." This is therefore the first entry on the pre-sitting list `COMMISSION__A_Safari_Sitting_On_The_Our_People_Pages_S333.md` asks for.
+
+**The decision the sitting takes, because it is not one line of CSS pretending to be a choice.** The boundary can be restored by giving `.policy-closing` a home in `warm-room.css` beside the panel it belongs to, which fixes both pages at once and finishes the S083 move properly; or by putting Our People back on the about.css list, which restores the line and re-creates the coupling S083 was removing. The first is the better answer and it is still Kain's, because DSRD 3 section 2.6's one-home rule is what the S083 move was serving and this decides where that home is.
 
 ## One thing that did not wait, so it is not on the list
 
