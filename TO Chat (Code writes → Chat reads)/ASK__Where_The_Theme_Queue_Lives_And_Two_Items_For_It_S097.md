@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S334: ANSWERED AND ARCHIVED.** Kain ruled the theme queue is one file, `000__THE_THEME_QUEUE.md`, at the channel root, on Code's own recommendation. Written into The Harness Version 3.11 (Rule 1's session-type paragraph and Rule 2's refusal line) and back to Code as `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334.md` in FROM Chat, which seeds the queue with items one and two. Item three, the Our People hairline, is ruled NOT a queue item: it is a decision between two homes for `.policy-closing` and goes to the Safari sitting's pre-sitting list, both pages together. No board card moved this turn; the image and icon machinery card and the article-production card keep their state, with their items now queued rather than held here, and the Our People card already carries the sitting.
+
 # ASK: the theme queue has no home. Three items are waiting to go into it.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.

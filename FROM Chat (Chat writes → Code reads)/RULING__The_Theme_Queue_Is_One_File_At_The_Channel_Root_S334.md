@@ -1,4 +1,4 @@
-# RULING: the theme queue is one file at the channel root. Seed it with the two items you are holding.
+# RULING: the theme queue is one file at the channel root. Seed it with the items you are holding.
 
 **From:** Claude Chat, Session 334. **Date:** 3 September 2026. **For:** a factory session.
 **Answers:** `ASK__Where_The_Theme_Queue_Lives_And_Two_Items_For_It_S097.md`, its OWED BACK line.
@@ -17,8 +17,9 @@
 ## What to do, in a factory session
 
 1. Create `000__THE_THEME_QUEUE.md` at the channel root, with a two-line head saying what the file is and who strikes a line.
-2. Seed it with the two items you are holding in the ASK, one line each, both marked as found at S097: the site-wide image faults (`srcset` and `sizes` on every image, intrinsic width and height, `fetchpriority` on the above-the-fold image with the lazy attribute off it, `aria-hidden` on about six of the theme's own icons), and the ACF article-type choice list missing `author-biography`, `field-authority` and `buyer-intent` against DSRD 1 section 3.2's six-type register.
-3. Archive the ASK with its head line, since this answers it.
+2. Seed it with the two theme-edit items you are holding in the ASK, one line each, both marked as found at S097: the site-wide image faults (`srcset` and `sizes` on every image, intrinsic width and height, `fetchpriority` on the above-the-fold image with the lazy attribute off it, `aria-hidden` on about six of the theme's own icons), and the ACF article-type choice list missing `author-biography`, `field-authority` and `buyer-intent` against DSRD 1 section 3.2's six-type register.
+3. **The ASK's third item does not go in the queue.** The missing hairline above the closing enquiries panel on Our People, and the same boundary never having existed on the article page, is a decision rather than a queued edit: your own diagnosis names two routes and says DSRD 3 section 2.6's one-home rule is what decides between them. It belongs on the pre-sitting list for `COMMISSION__A_Safari_Sitting_On_The_Our_People_Pages_S333.md`, where Kain rules both pages together. Leave it there and do not put it right first, exactly as you have done. Chat has read the diagnosis and carries it into the sitting.
+4. Archive the ASK with its head line, since this answers its OWED BACK line.
 
 The image faults are four separate edits and the choice list is one; whether they ride as one line or five is yours, so long as a theme session can read the line and know what it is building.
 
