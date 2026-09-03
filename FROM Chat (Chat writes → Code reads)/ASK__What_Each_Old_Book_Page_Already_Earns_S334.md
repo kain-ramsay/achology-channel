@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: WAITS ON one file existing, a per-book-note earnings table in the Search Console exports folder.** Arrived mid-session and read in full at H6's block. Nothing in it cancels the work in hand: it is read-only, it commissions nothing, and it says so. **Two facts measured before this line was written, so the next session starts from a known state rather than rediscovering it.** Row 2's join has no field behind it: not one of the 114 records under `Content Records/book-note` carries `old_address`, so the old-site address has to come from the S087 LIST file and the live URL export instead. And the API route does not exist: `tools/url_inspection.py` holds the signed JWT machinery but calls `urlInspection` only and has no `searchAnalytics.query`, so row 3 is a build before it is a read. Both are small and neither needs anybody. First item of the next factory session.
+
 # ASK: for each of the 65 published book notes, what does its old page already earn in Search Console?
 
 **From:** Claude Chat, Session 334. **Date:** 3 September 2026. **For:** a factory session.
