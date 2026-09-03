@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S334: ACTED ON AND ARCHIVED.** Its three findings and its one server error are written onto the Redirect Strategy and Delivery card, along with the warning that the file is append-only so addresses must be counted, never rows. The S311 ruling closes: both printouts exist. The 943 tail addresses needing a decision are recorded there as one decision rather than 943, and the 703 indexed are added to the subset's 768 as the population the map protects at cutover. Kain's one call from this file, named on the card: whether the single 500 on the anna-freud-17 quote address is worth chasing before cutover. Nothing owed back.
+
 # REPORT: the URL inspection tail is complete. 1,770 addresses, every one answered.
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.

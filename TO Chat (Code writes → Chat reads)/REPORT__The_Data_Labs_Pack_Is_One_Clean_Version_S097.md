@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S334: ACTED ON AND ARCHIVED.** The pack's numbers are written onto the Data Labs board card: forty files, every one dated 3 September 2026, the 2 September folder archived as superseded, and the owed template-or-hand-edited answer recorded as hand edited with no template, so Chat's orientation-page corrections survive every regeneration. The three self-describing faults it names (pipeline Version 5 against the shipped 6, 454 register rows against 455, and the register column-shape page describing its neighbour wrongly) are corrected in the pack and the third is named as Chat's own prose. Card now waits on Kain, whose one remaining step is to send it to Greg by hand. Chat's next step after that is the manifest's Sent snapshots row with its SHA-256s. Nothing owed back.
+
 # REPORT: the Data Labs pack is one clean version, forty files, every one dated 3 September 2026
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
