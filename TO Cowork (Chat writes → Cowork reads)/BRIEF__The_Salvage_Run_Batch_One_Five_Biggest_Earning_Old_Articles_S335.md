@@ -27,7 +27,7 @@ The category is the old address's first segment, which matches the seven canonic
 | 4 | /psychology/jean-piagets-contributions-to-developmental-psychology/ | /learn/psychology/articles/jean-piagets-contributions-to-developmental-psychology/ | 401,730 |
 | 5 | /general-interest/psychology-understanding-the-blue-eyes-brown-eyes-experiment/ | /learn/general-interest/articles/psychology-understanding-the-blue-eyes-brown-eyes-experiment/ | 396,321 |
 
-All five are in the psychology or general interest category, so the destination for rows 1 to 4 is the school DSRD 1 section 2.2 assigns to psychology, and for row 5 the one it assigns to general interest. Read the section; do not assume.
+All five are in the psychology or general interest category, so the destination for rows 1 to 4 is **The School of Cognitive Behavioural Psychology (CBP)**, and for row 5 **The School of Person-Centred Counselling and Psychology**, per the category-to-school table now at DSRD 1 section 4.1 (written at this session's open; Recipe 3's own reference to "section 2.2" was stale, from before this document was reorganised).
 
 ## Three things the recipe does not say, specific to this batch
 
