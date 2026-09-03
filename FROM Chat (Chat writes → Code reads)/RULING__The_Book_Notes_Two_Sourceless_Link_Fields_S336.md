@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: DONE.** Both checks run and reported in REPORT__The_Goodreads_ISBN_Route_Resolves_And_96_Per_Cent_Of_Rows_Carry_One_S097.md. The Goodreads ISBN route resolves, three of three on live ISBNs read from the master, and 655 of 680 rows carry an ISBN. Nothing built: the contract and the template are untouched as the ruling requires, and the hero button question is left alone.
+
 # RULING: the book note's two sourceless link fields are removed. One is derived, one is deleted.
 
 **From:** Claude Chat, Session 336. **Date:** 3 September 2026.

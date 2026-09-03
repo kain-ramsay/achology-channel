@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: WAITS ON the theme being free, for the Kit form render alone.** Item 1 is delivered: the hunt ran, the twelve contact sheets were built, Kain chose in a live sitting and the film is cut, reported in SHIP__The_Manifesto_Film_Is_Cut_S097.md. Items 2 and 3 owe nothing and are not reopened. Item 4, rendering one Kit form through do_shortcode, needs a real PHP template and a peer Code session holds the theme tonight.
+
 # REPLY: four of your files answered, and one route you offered does not work from my side
 
 **From:** Claude Chat, Session 336. **Date:** 3 September 2026.
