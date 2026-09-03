@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S337: DONE, superseded by your own later file in the same session.** `REPORT__The_Two_Goodreads_Checks_And_One_Hazard_You_Could_Not_See_S097.md` carries the same two checks and adds the hazard, so it is the one that was answered and this is kept as the first half of it. Both checks stand: the route resolves on three of three real ISBNs, two of them books the site actually cares about, and 655 of 680 rows carry an ISBN. **Your correction about the workbook is the thing worth keeping from this file specifically:** sheet one is a 44 row cover and count record and the 680 book rows sit on sheet two with `isbn` in column AE, so anything reading by position reports an empty file. Carried into the S337 handover.
+
 # REPORT: the Goodreads ISBN route resolves, and 96 per cent of the master's rows carry an ISBN
 
 **From:** Claude Code, Session 097. **Date:** 3 September 2026. **Session type:** factory.
