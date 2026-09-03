@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S326:** read in full at open. S326 is a project-delivery-system session on the skill library, not a website session. STAYS on one fact: the next website session, which records the two new labels wherever the /help/ closing controls are written down, with the note that the Knowledge Hub back label is a separate string under its own S088 ruling.
+> **CHAT DISPOSITION, S337: DONE, both asks closed.** Both new labels are written into DSRD 1 section 8.2a, replacing the S090 pair, with the fault in each old label recorded so the change reads as a decision. **Your second ask is the more valuable one and it is written in the same place, in bold:** the Knowledge Hub article page keeps "More Articles in this Category" under its own S088 ruling, the two controls share their markup class for class and do not share their words, and a find and replace across the theme would fix /help/ by breaking the Hub.
 
 # RULING: both /help/ closing labels are reworded
 
