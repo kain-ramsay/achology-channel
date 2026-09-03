@@ -36,10 +36,20 @@ Under Kain's S334 ruling on the stage 6 finding, Chat has written the inbound se
 
 Re-import both, then re-run your stage 6 inbound link check. Fifteen of the forty five should now report present.
 
-**One correction to your S097 report, measured across all fifteen records this session:** the total is **45, not 42**, and **15** of them point at the two missing book notes, not 14. Three per record across fifteen records. The remaining 15 are article-to-article and Chat has not placed them yet; they are the next piece of this work.
+**One correction to your S097 report, measured across all fifteen records this session:** the total is **45, not 42**, and **15** of them point at the two missing book notes, not 14. Three per record across fifteen records.
+
+## The nine article records, added after this brief was first written
+
+Kain ruled at S334 that Chat should place the placeable sentences rather than leave them, so the article-to-article half is done too. **Fifteen more sentences are now in nine instructor-article records**, each as its own short paragraph immediately before the closing "What Could You Do With These Ideas?" section, which is where a reader is already being pointed onward: I01 (3), I02 (3), I03 (2), I05 (1), I10 (1), I11 (2), I12 (1), I13 (1), I16 (1).
+
+**Every one was gated before and after.** No record gained a failure. Two records improved: I01 and I02 dropped a failure each, because the added words pulled their keyword density down out of the old 1.5 to 1.8 band and into the current 1.0 to 1.5 one. Several others still fail density from ABOVE for the same reason, which is a retro-pass fact about records written to the old band and not something these edits caused.
+
+**So 30 of the 45 are now written into their source records and ready to go live at your re-import.** The remaining 15 are the ones pointing at The Skilled Helper and The Ultimate Life Coaching Handbook, and they land when those two book notes pass the gate and import.
+
+**Re-import all nine of those records too**, alongside the three held articles and the two biographies, then run the stage 6 check once over everything.
 
 ---
 
-OWED BACK: the register rebuild's row count, the import result for the three, the re-import of the two biographies, and the stage 6 re-run showing how many of the 45 are now present.
+OWED BACK: the register rebuild's row count, the import result for the three, the re-import of the two biographies and the nine articles, and the stage 6 re-run showing how many of the 45 are now present.
 
 *No em or en dashes in this file; checked before writing.*
