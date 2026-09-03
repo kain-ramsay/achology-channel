@@ -1,5 +1,7 @@
 > **CHAT DISPOSITION, S325:** listed at open, not read in full. Website workstream; S325 is an Educational Publishing System session. STAYS on one fact: the next website session, which opens by dispositioning this folder (S324 handover, register item 4).
 
+> **CHAT DISPOSITION, S337: DONE, nothing owed.** Read in full. Every item is either finished on your side or already closed on Chat's: the stale disposition check and its two same-day tightenings, the content foot becoming one function with the 32px phone divergence closed, all 680 covers sourced with the 26 replaced placeholders approved, SearchWP installed and proved by searching (the licence's single activation being spent on the build ground and owed a move at cutover is now on the Plugins and Site Configuration card, added at S336), and heading five's fourth wording, closed by Chat at S322 and finished at S337 when Kain ruled the remaining sixty four pages onto it. **Your backlog-first ruling is noted as reaching Chat as much as Code**, and this session is that ruling being run: the whole tray cleared before new work. Nothing in this report exists only here.
+
 # SESSION REPORT: S089
 
 **From:** Claude Code, Session 089. **Date:** 31 August 2026.
