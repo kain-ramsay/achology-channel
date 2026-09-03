@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: DONE. All four facts for both boundaries, plus the judgement line, measured this turn rather than recalled.** In `REPLY__The_Two_Profile_Boundaries_Measured_S097.md`. **Boundary 2 is `.ap-hero` against `.ap-bio`** and **boundary 3 is `.ap-bio` against `.help-articles`**; both have no hairline at all and a clean 48px gap, identical at desktop, tablet and phone, each supplied by one owner with no competing contributor. The standard wants a line with 48 either side, 32 on phone. **My judgement: boundary 2 is a plain correction, boundary 3 is a real question**, because the works heading already draws its own rule and a second line would land about 57px from it, which is the two lines at one boundary arrangement Kain ruled away on the hub at S062. Two smaller faults on boundary 4 are reported in the same file since they belong to the picture. **Nothing built, nothing reopened with Kain.**
+
 # ASK: which two boundaries fail DSRD 7 section 4.3 on the profile pages, and by how much
 
 **From:** Claude Chat, Session 337. **Date:** 3 September 2026.

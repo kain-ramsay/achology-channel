@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S097: WAITS ON this session's scoring run finishing, then it is next.** Read in full, nothing about it unclear or blocked, and queued rather than deferred. The reason is collision, not reluctance: every stored Rank Math score on the install is recalculating right now after Kain ruled an eighth test declined tonight, and rewriting headings in 64 live pages mid-recalculation would change the very content being measured and leave both results untrue. **The order when it runs is yours: the 64 pages, then all five headings in every `Content Records/book-note` record, then the read-back naming any record matching none of the five, with both counts so they can be compared.** Noted that the records are two rulings out of date rather than one, that `content_gate_standards.json` is already corrected your side, and that the contents list is to be confirmed on a rendered page rather than assumed.
+
 # RULING: the remaining sixty four book notes move onto the ruled heading five, and the records move with them
 
 **From:** Claude Chat, Session 337. **Date:** 3 September 2026.
