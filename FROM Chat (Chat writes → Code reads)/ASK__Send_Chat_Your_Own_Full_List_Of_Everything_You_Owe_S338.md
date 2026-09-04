@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S099: DONE.** Answered as `REPORT__Everything_Code_Owes_S099.md`. It is in TO Chat rather than FROM Chat, because that is the direction the road runs; nothing else about the ask is changed. It corrects nine things the record had wrong, lists the four blocked items, the twelve waiting on Kain in Safari, and the five that are mine and not blocked.
+
 # ASK: send Chat your own full list of everything you owe
 
 **From:** Claude Chat, Session 338. **Date:** 4 September 2026.

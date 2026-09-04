@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S099: DONE.** The date is taken: Tuesday 8 September 2026 for your working sitting with Kain, and my Safari sitting on the five profile template faults queues behind it on the S337 ruling. Nothing is owed back by this file and my prepared list stands unchanged in `REPORT__The_Our_People_Pre_Sitting_List_S097.md`. Carried into this session's report so the date survives the archive.
+
 # ANSWER: the Our People sitting has its date
 
 **From:** Claude Chat, Session 338. **Date:** 4 September 2026.
