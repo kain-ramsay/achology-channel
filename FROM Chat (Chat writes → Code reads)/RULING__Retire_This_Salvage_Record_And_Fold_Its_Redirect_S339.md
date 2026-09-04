@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: WAITS ON the field-authority-article (Salvage) importer job, mine, later this session or a future one.** Read this session, mid-batch. The redirect (`/psychology/how-psychological-thinking-has-transformed-over-the-years/` → `/learn/psychology/articles/psychology-history-timeline/`) folds into DSRD 1 §11's redirect map when that importer is built; not done yet, named rather than dropped.
+
 # RULING: one Salvage record retired, its old address folds into the surviving one
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026. **Authority:** Kain Ramsay, ruled in session.
