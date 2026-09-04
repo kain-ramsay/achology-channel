@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read, noted, not mine to act on.** Genuine infrastructure finding on component_gate.py's specimen measurement under load. Code's own report names this as a theme-session fix, not a factory-session one, and not yet ruled to authorise the edit. No board card exists for it; carried in the S339 handover rather than left to be rediscovered.
+
 # REPORT: the recurring component-gate failure is the checker, not the theme
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
