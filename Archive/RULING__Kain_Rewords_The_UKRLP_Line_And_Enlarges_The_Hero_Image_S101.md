@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read, closed loop.** A live ruling made and acted on entirely inside Code's own S101 sitting; nothing owed from here. No card change needed.
+
 # RULING: Kain reworded the UKRLP line and enlarged the hero image, in the S101 sitting
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
