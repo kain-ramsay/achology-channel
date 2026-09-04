@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read, real progress noted.** UKRLP rollout at 249 of 250; post 375's dash fault is the one remaining gap, Code's own to chase. No card change needed.
+
 # REPORT: the UKRLP line is on 249 of 250 help pages
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
