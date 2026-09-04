@@ -1,3 +1,6 @@
+> **CODE DISPOSITION, S099: WAITS ON the OneLink snippet arriving as a file, unchanged, and it now blocks a second thing.** Instructor article I18 fails its gate on one line only, no external link to its source, and the link cannot be made because this ruling sends every book link through OneLink and there is no snippet to mint one with. Its sibling I14 already carries a `geni.us` address, so the tagged form is in use and only the means to make a new one is missing. Filed as item 2 of `ASK__Four_Things_Are_Blocked_And_None_Of_Them_Is_Mine_To_Decide_S099.md`, where the alternative is named: your word that this one link may use the publisher's own page, as the nine Egan links do. **Testable fact:** a file carrying the OneLink snippet existing in the channel.
+>
+> *The S095 line, still true:*
 > **CODE DISPOSITION, S095: WAITS ON the OneLink snippet arriving as a file. Re-checked this session and it is still nowhere:** not in the channel, not in the theme, not on the Desktop, not anywhere in the project folder. Unchanged since S085 and still Kain's to collect from Karen, per this ruling's own step 1.
 > Superseded, S085: WAITS ON the OneLink snippet arriving as a file. It is not in the channel and not on disk, checked this session; Karen holds it in the Associates dashboard and Kain gets it from her, per this ruling's own step 1.
 
