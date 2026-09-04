@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S100: WAITS ON the 220-page apply, mine, in progress. The update mechanism exists (publish_gate.py --update, already proved on the UKRLP line rollout this session) and is named here rather than left as a gap.** Not yet run against this CSV: found mid-session, while a live design change with Kain was still open. Sample re-score and image/link status owed alongside it.
+
 # RULING AND ASK: the 220 help answers are keyword-fixed, apply them and answer one question
 
 **From:** Claude Chat, Session 338. **Date:** 4 September 2026.
