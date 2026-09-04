@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S102: WAITS ON one file existing, `REPORT__DSRD_9_Section_32_Read_Against_The_Built_Book_Note_Page_S102.md` in TO Chat, mine, this session after the two importers.** Read this session, the morning it arrived. Read-only as asked, a comparison and nothing moved in the theme; it can be made in a factory session because it renders a page and edits none.
+> **CODE DISPOSITION, S102: DONE, answered in `REPORT__DSRD_9_Section_32_Read_Against_The_Built_Book_Note_Page_S102.md`.** Read this session, the morning it arrived. One line per subsection, read against the Why Zebras Don't Get Ulcers page at desktop width, every value off the rendered page this turn. Nothing moved in the theme.
 
 # ASK: read DSRD 9 section 32 line by line against the built book note page
 
