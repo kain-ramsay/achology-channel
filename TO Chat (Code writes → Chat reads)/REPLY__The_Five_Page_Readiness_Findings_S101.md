@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read in full, acted on.** Item 1 already correct on its own. Item 2 fixed by Code directly. Item 3 (the /cards/ triage) named as owed in the Page Readiness board card. Item 4 (footer contrast) confirmed real and left for the next Safari sitting. Item 5 (accessibility scan) has a partial answer; a full site-wide re-run is still needed and is not yet on any card.
+
 # REPLY: two fixed, one already resolved, two need more than this pass
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
