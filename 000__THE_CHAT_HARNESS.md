@@ -1,6 +1,6 @@
 # THE CHAT HARNESS
 
-**Version 1.12, S318. Authority: Kain Ramsay.**
+**Version 1.13, S339. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
@@ -11,6 +11,7 @@
 
 One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
 
+- **1.13, S339.** Rule 3 extended to cover claims of absence, not only claims of writing: a parent-scope `search_files` call silently failed to recurse into two subfolders carrying special characters, and two briefs left this session asserting work did not exist when it did, one already built and closed, one already run and closed. Both caught and corrected before Code acted on the wrong halves, one by Code's own check, one before it was sent. A mechanism tightened, not a rule added.
 - **1.12, S318.** Close Step 5 gains the written-files check: the close searches the channel for every file the session claims to have written and prints found against claimed; a shortfall refuses the close. Added after S313's close recorded a Cowork brief as written that never existed, and the seventeen book notes it routed sat five sessions on that line. A mechanism tightened, not a rule added.
 - **1.11, S311.** Rules 4 and 7 moved to The Shared Rules (sections 2 and 7) and kept here as pointers under their own numbers. Version history cut to one line per version. The CHANGES section's pointer to a Cowork harness file at this root removed: no such file exists here, and the Cowork Production Harness lives at the root of the Content Production Factory folder.
 - **1.10, S309.** Open Step 1 counts both sides of the road and names the oldest FROM Chat file carrying no head line, after 42 unarchived files went unseen for thirty sessions.
@@ -40,8 +41,8 @@ Every session opens with the five-step open and closes with the nine-step close.
 ### Rule 2. A decision is written home in the turn it is settled
 Never held for the close. The close's decision sweep is the backstop, not the mechanism: the mechanism is the turn itself. This is what protects a session that dies mid-way: a compacted or abandoned session loses minutes of unwritten work, not hours, because nothing settled is ever waiting.
 
-### Rule 3. Every write is verified by read-back
-No edit is reported done from intention. The file is read back, or the returned diff accepted, before the report. The DSRD change register is written once, at session close, as one row per DSRD covering the session's edits.
+### Rule 3. Every write is verified by read-back, and so is every claim that something is absent
+No edit is reported done from intention. The file is read back, or the returned diff accepted, before the report. The same standard binds the opposite claim: before writing that something does not exist, was never done, or carries no channel record, the claim is checked directly against the specific folder it depends on, listed or searched at that exact path, never inferred from a single search at a wider scope that came back empty. `search_files` has been found, S339, to silently miss files inside subfolders whose names carry parentheses or the arrow character used in this channel's own folder names, TO Chat and FROM Chat among them; `directory_tree`, scoped to the same folder, does not share the fault and is the safer tool where a negative claim is about to leave the session. The DSRD change register is written once, at session close, as one row per DSRD covering the session's edits.
 
 ### Rule 4. Moved to The Shared Rules, section 2 (memory is never a source)
 The number is kept so every reference to Rule 4 across the skills and the project instructions still lands. The rule binds Chat, Code and Cowork alike and is written once, in the shared file, and nowhere else.
@@ -130,4 +131,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.12.*
+*End of The Chat Harness, Version 1.13.*
