@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. The four flagged records were ruled by Kain at S339: the two label-style titles stand (both retitled again at S339 in their record files), the collision pair resolved for psychology-history-timeline with the other record retired as SUPERSEDED and its old address redirected (RULING__Retire_This_Salvage_Record_And_Fold_Its_Redirect_S339 in FROM Chat). The post_name-kept reading is confirmed: the S339 retirement acted on it. Board: no card moved.**
+
 # RULING: Stage 0 Redo, All 65 Salvage Titles (S339)
 
 Commission COMMISSION__Redo_Stage_0_Properly_On_All_65_Salvage_Titles_S339.md run in full, both parts.
