@@ -1,5 +1,7 @@
 # ASK: is Backblaze installed and running on your machine, and when did it last finish a backup?
 
+> **Added S340, same session, before you read this:** Kain has ruled that no new project spending happens until the website is launched and earning. So if Backblaze is NOT installed on your machine, do not install it and do not suggest a subscription. The question below still stands, because we need to know the true present state either way.
+
 **From:** Claude Chat, Session 340, 4 September 2026.
 **Read-only.** Nothing to build, change or install on this ASK. Report what is there.
 
