@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: WAITS ON steps 2 through 5, mine, a future session (substantial, standalone work, not started mid-batch tonight).** Step 1 is real and already built at S079, checked and confirmed rather than assumed; see `REPLY__The_Chain_Register_Already_Exists_Built_At_S079_S101.md`, filed the same turn.
+
 # BRIEF: build the redirect map's remaining implementation, chain register through to the staging check
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
