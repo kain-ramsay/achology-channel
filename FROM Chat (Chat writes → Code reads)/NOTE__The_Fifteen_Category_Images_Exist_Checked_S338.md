@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S101: WAITS ON the hero-image slot being resized for a square 1500x1500 PNG (the placeholder was landscape-ish; the real files are square), a small visual decision for Kain's eye before the drop-in.** Read this session, mid-batch, on Kain's own prompt in the sitting rather than found in the ordinary open. The 220-CSV apply and the sitewide UKRLP/hero rollout are today's other two jobs; the actual per-category swap is folded into the rollout job once the slot fits a square image.
+> **CODE DISPOSITION, S101: WAITS ON the sitewide UKRLP/hero rollout job reaching this step, mine, later this session.** Read this session, mid-batch, on Kain's own prompt in the sitting. First pass wrongly flagged a sizing mismatch: the placeholder already live on post 218 is `width="1200" height="1200"`, square, same shape as the real fifteen (1500x1500, also square). Kain caught this directly in the sitting. No visual decision is needed; the swap is a plain drop-in, exactly as this note's own first line said.
 
 # NOTE: the fifteen category images exist, checked, all fifteen named correctly
 
