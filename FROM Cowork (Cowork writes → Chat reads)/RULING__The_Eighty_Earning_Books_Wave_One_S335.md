@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Consumed at S335 (the headings_locked ruling and the addendum's three corrections are in that handover). The known gap it names, the 108 pre-S315 book note records failing today's gate, is already carried in the outstanding register and still needs its own decision; named again in the S340 handover. Board: no card moved.**
+
 # RULING — The Eighty Earning Books, Wave One (rows 1 to 10)
 
 Ten book notes drafted, gated, and filed in their production home (folder name: `Content Records/book-note`, inside the Content Production Factory folder). The full batch report sits beside them there.
