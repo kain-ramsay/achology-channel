@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Consumed at S338; the keyword-from-slug lesson was carried into wave three's brief and held there (wave three's own ruling confirms it). The 96-record keyword gap is the same open decision named on wave one. Board: no card moved.**
+
 # RULING — The Eighty Earning Books, Wave Two (rows 11 to 20)
 
 Ten book notes drafted, gated, and filed in their production home (folder name: `Content Records/book-note`, inside the Content Production Factory folder). The full batch report sits beside them there.
