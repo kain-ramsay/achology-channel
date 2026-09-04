@@ -36,17 +36,19 @@ I18 is the only instructor article record that fails its gate, and it fails on o
 
 **Unblocked by:** the OneLink snippet arriving as a file, or your word that this one link may use the publisher's own page like the nine Egan links do. **Testable fact:** a file carrying the OneLink snippet existing in the channel.
 
-## 3. The Kit connection cannot read the account at all, and the reason is a paid plan
+## 3. The Kit form. Nothing has changed, and this section is a correction of my own first draft
 
-The disposition on `RULING__Install_Kits_Plugin_And_Run_Both_Checks_S311` has said for several sessions that it waits on a form existing in the Kit account. **That is no longer the accurate statement.** I called the Kit connector this turn and it answered:
+**This section originally said the Kit account needed a paid plan and put that to Kain as a money question. That was wrong, he caught it in the sitting, and it is corrected here rather than edited away.**
 
-> Kit MCP requires a paid Kit plan.
+**What is actually true, read off the install this session.** The Kit plugin is active. `_wp_convertkit_settings` carries a live access token. The account is connected and paid; Kain connected it at S091 and confirmed it again today. `convertkit_forms` is `[]`.
 
-So I cannot read the account, cannot see whether a form exists, and cannot make one. **This is a money decision and money is Kain's.** It is not something Chat or Code settles.
+**So the block is exactly what the S091 disposition always said it was: no form exists in the Kit account yet.** Not the plan, not the connection, not the plugin.
 
-Kain does not need a report about this. It is one yes or no question at whatever moment suits him: does he want to pay for the Kit plan that opens this, or should the form be built by hand in his own browser instead. Either answer unblocks it.
+**How I got it wrong, because the shape of it matters more than the fact.** I called the Kit MCP connector, which is a different route with no bearing on this ruling, got an "upgrade your plan" refusal, and reported a tool's error message to Kain as a fact about his money. The correct line was already sitting directly beneath the one I wrote. Two commands against the install would have settled it, and I ran them only after he pushed back. That is my own recorded failure mode, a partial signal treated as a finding, and it is the second time in three sessions.
 
-**Unblocked by:** Kain's word. **Testable fact:** `list_forms` returning a form rather than an upgrade notice.
+**What is genuinely owed, and it is yours or Kain's, not mine.** One form has to exist in Kit before the shortcode has anything to render. Which form, and what it says, is a marketing decision. **Kain has asked not to be brought decisions in this stretch, so it comes to you first:** if you can specify the form, he approves it in one look and makes it in Kit's own web interface, and check two is then one render away.
+
+**Unblocked by:** one form existing. **Testable fact:** `convertkit_forms` on the install returning a non-empty list.
 
 ## 4. The 250 help answers wait on where the UKRLP line sits, and that is Kain's eye
 
