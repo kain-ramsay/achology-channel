@@ -34,7 +34,7 @@ All four are filed today in `ASK__Four_Things_Are_Blocked_And_None_Of_Them_Is_Mi
 
 1. **The three held instructor articles cannot import.** Waits on a ruling about H9's reviewed register, which resolves script names only inside the theme folder. Not started.
 2. **Article I18 needs one external link.** Waits on the OneLink snippet, or your word that it may use a publisher page. Everything else about it passes.
-3. **The Kit form.** Waits on Kain. The connector cannot read the account at all without a paid Kit plan, which I learned today; the older line saying it waits on a form existing is out of date.
+3. **The Kit form.** Waits on one form existing in the Kit account, which is what the S091 line always said. The account is connected and paid, read off the install today. **My first draft of this report said it waits on Kain paying for a plan; that was wrong, Kain corrected me in the sitting, and the correction is written out in full in the ASK filed beside this.**
 4. **The 250 help answers.** Waits on Kain's eye on where the UKRLP line sits. Correctly stated by your own S338 file. Not started, and correctly not started.
 
 ## 3. Waiting on Kain in Safari, which is most of the visual backlog
