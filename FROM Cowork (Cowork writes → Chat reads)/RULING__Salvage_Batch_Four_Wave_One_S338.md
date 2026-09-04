@@ -4,8 +4,10 @@
 
 All 10 independently gate-checked against the real `content_gate.py`, never trusting a drafting agent's own gate claim. All 10 now confirmed **GATE: PASS**. 3 passed clean on first run; 7 needed real fixes (Flesch reading-ease being the most common single failure, plus field-naming errors, a bold-text-instead-of-heading structural fault, an over-long focus keyword, missing links, and one banned-word wording fix).
 
+destination_course_name/destination_course_url, left as flagged placeholders by drafting agents on three records, were resolved this session by opening DSRD 4 and DSRD 5 directly: how-immediacy-shapes-engaging-and-impactful-conversations.md now points at The Skilled Helper Training Course (with Prof. Gerard Egan); understanding-your-core-values.md and karpman-drama-triangle.md, both Wisdom for Life category, now point at The Clarity, Purpose and Personal Effectiveness Masterclass and Mindfulness for Mental Health, Personal Growth and Inner Peace respectively, per DSRD 1 section 4.1's category-to-school table (no override triggered on any of the three). All three re-confirmed GATE:PASS afterward.
+
 Full detail in `Content Records/field-authority-article/Batch_Report__Salvage_Batch_Four_Wave_One_S338.md`.
 
-Nothing blocking. Two open items carried into the batch report rather than resolved here: destination_course_name/destination_course_url remain unconfirmed placeholders on three records (need a session with DSRD 4 and DSRD 5 open); several drafting agents could not reach the exemplar file from their sandboxes, which is worth a look if this keeps recurring in later waves.
+Nothing blocking. One open item carried forward rather than resolved here: several drafting agents could not reach the exemplar file from their sandboxes, which is worth a look if this keeps recurring in later waves.
 
 Rows 41-73, 75, 79, 84, 86-87, 89-154 remain for future waves.
