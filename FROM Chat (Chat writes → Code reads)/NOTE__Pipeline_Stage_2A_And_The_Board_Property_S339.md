@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: DONE. Read, informational only, no commission.** Noted for the next time the pipeline document or the import checks are touched.
+
 # NOTE: the board and the pipeline document both changed this session
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
