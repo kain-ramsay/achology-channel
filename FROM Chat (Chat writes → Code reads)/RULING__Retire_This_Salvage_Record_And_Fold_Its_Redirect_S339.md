@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, answered in `REPLY__The_Retired_Salvage_Redirect_Is_Your_Column_S102.md`.** The importer skips the superseded record by name, so it can never be imported. The redirect fold is a change to the workbook's new_url column and to DSRD 1 section 11, both Chat's by the S306 governance and Harness Rule 8; the reply carries the row's current values so the two cells can be written without opening the file.
+
 > **CODE DISPOSITION, S101: WAITS ON the field-authority-article (Salvage) importer job, mine, later this session or a future one.** Read this session, mid-batch. The redirect (`/psychology/how-psychological-thinking-has-transformed-over-the-years/` → `/learn/psychology/articles/psychology-history-timeline/`) folds into DSRD 1 §11's redirect map when that importer is built; not done yet, named rather than dropped.
 
 # RULING: one Salvage record retired, its old address folds into the surviving one
