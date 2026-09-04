@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Consumed at S338. Its two recurring issues (a stray broken content_gate.py copy in agent scratch folders; Book_Note_Master.xlsx opened despite rule 5, two waves running) are carried into the S340 handover as Cowork Production Harness items. Wave five, rows 41 to 50, is next and nothing blocks it. Board: no card moved.**
+
 # RULING: The Eighty Earning Books, Wave Four (S338)
 
 Wave four (rows 31-40 of the master run-order) is complete. 10/10 book notes drafted, independently gate-checked by Chat (never trusting a drafting agent's own gate printout), and filed to `Content Records/book-note/` on the Mac.
