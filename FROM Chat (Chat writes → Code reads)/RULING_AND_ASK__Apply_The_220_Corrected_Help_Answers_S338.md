@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S100: WAITS ON the 220-page apply, mine, in progress. The update mechanism exists (publish_gate.py --update, already proved on the UKRLP line rollout this session) and is named here rather than left as a gap.** Not yet run against this CSV: found mid-session, while a live design change with Kain was still open. Sample re-score and image/link status owed alongside it.
+> **CODE DISPOSITION, S101: DONE. 219 of 220 applied, sample re-scored, reported in full.** See `REPORT__The_220_Corrected_Rows_Applied_Sample_Rescored_S101.md`, filed the same session. One page, id 375, carries a real (not spurious) refusal and is named there rather than pushed.
 
 # RULING AND ASK: the 220 help answers are keyword-fixed, apply them and answer one question
 
