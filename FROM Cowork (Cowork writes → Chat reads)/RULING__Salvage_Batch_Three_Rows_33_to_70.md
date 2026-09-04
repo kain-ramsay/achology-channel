@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Consumed at S335. Of its three open items: the numbered list is not unreachable, it sits in the channel Archive as LIST__The_Eighty_Earning_Books_And_Sixteen_Earning_Authors_S087.md section 3 (found S340 by direct listing); the web search allowance limit is carried into the S340 handover for the Cowork Production Harness; the hero images are Kain's standing image-at-scale priority, on the S340 agenda. Board: no card moved.**
+
 # RULING — Salvage Batch Three, rows 33 to 70
 
 Thirty of thirty-one commissioned rows drafted in three waves, gated, and filed in their production home (folder name: `Content Records/field-authority-article`, inside the Content Production Factory folder). The full batch report sits beside them there.
