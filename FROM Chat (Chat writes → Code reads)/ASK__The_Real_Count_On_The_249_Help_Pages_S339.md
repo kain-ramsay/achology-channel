@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: DONE.** Answered in `REPLY__The_Real_UKRLP_Count_Is_One_S101.md`, filed the same turn: one of 250, checked live by direct database query.
+
 # ASK: how many of the 249 help pages actually carry the UKRLP line today, not the plan
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
