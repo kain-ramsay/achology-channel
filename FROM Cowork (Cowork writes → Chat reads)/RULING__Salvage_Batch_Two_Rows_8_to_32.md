@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Consumed at S335: the Version 15 harness change, the DSRD 1 section 4.1 override ruling and the run-order reconstruction are all recorded in the S335 handover. Board: no card moved.**
+
 # RULING — Salvage Batch Two, rows 8 to 32
 
 Twenty field-authority-article Salvage pieces drafted in two waves of ten, gated, and filed in their production home (folder name: `Content Records/field-authority-article`, inside the Content Production Factory folder). The full batch report sits beside them there.
