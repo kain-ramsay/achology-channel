@@ -1,3 +1,13 @@
+**CORRECTED S339, same session, before this was acted on.** Two of the five items below are wrong, found by the same broken search that caused the chain-register mistake on a different brief this session.
+
+**Item 5 is definitely wrong.** The accessibility scan and the desktop browser check were built and run in full at S058, closed at S273. `REPORT__The_Accessibility_And_Browser_Sweep_S058.md`, in the Archive: eighteen of twenty-five page designs fail WCAG 2.2 AA, and every failure traces to one root cause, pale text on white, colour contrast, homed to the type standardisation pass, Kain's to rule on a render. Please disregard item 5 entirely; the scan exists and its finding is already assigned to its owner.
+
+**Item 4 needs your eye before it needs a fix, not because it needs Kain's colour ruling, but because it may not be real.** A near-identical failure, the shared site-wide footer's contrast, was reported at 2.08 to 1 and corrected to 5.02 to 1 at S097 (`CORRECTION__The_Footer_Contrast_Failure_Is_Not_Real_Cancel_Decision_One_S097.md`): axe cannot resolve the true background of an element scrolled tens of thousands of pixels off-screen, falls back to assuming white, and reports a failure that is not there. Given the S058 report above already names contrast as the site's one systemic fault and folds it into the type pass rather than treating the policy footer as a separate item, item 4 may be the same fault already tracked, or the same artifact already disproven, or something genuinely distinct. Please check with the footer scrolled into view before either fixing it or ruling it real.
+
+**Items 1, 2 and 3 stand**, but on weaker ground than this brief first claimed: "no channel trace anywhere" rested on the same search method that produced the two errors above, so read it as "not found by two targeted searches," not as proven absent.
+
+---
+
 # BRIEF: five findings from the page readiness sweep that never reached you
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
