@@ -1,5 +1,11 @@
 > **CODE DISPOSITION, S101: WAITS ON steps 2 through 5, mine, a future session (substantial, standalone work, not started mid-batch tonight).** Step 1 is real and already built at S079, checked and confirmed rather than assumed; see `REPLY__The_Chain_Register_Already_Exists_Built_At_S079_S101.md`, filed the same turn.
 
+**CORRECTED S339, later the same session, before this was acted on.** Step 1 below, the chain register, is wrong. It is already built: `REPORT__The_Chain_Register_Is_Built_And_What_Its_First_Run_Found_S079.md` in the Archive, closing `BRIEF__Redirect_Chain_Register_And_Cutover_Hook_S293`, dispositioned in full at S306. `redirect_chain_register.py` exists beside `page_gate.py`, fills the five columns, and refuses on an incomplete chain. `cutover_gate.py` is the hook. The reason this brief said otherwise: a folder search that should have checked the Archive silently failed to recurse into it and returned no results, read as "nothing exists" rather than "the search did not work." Steps 2 through 5 below are not affected by this and stand as written.
+
+**Also worth your read while you are in that report:** its own three findings (the whole Knowledge Hub missing from the sitemap, the homepage still a placeholder at the time, and /about/instructors/ carrying the wrong schema with no Person entities) were dispositioned to the board rather than actioned directly, and none of the three appears on either the Redirect Strategy card or the Page readiness records card as they stand today. They may be long since resolved. If any of the three is still real, say so; if all three are old news, say that too, so this stops being an open thread nobody is watching.
+
+---
+
 # BRIEF: build the redirect map's remaining implementation, chain register through to the staging check
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
