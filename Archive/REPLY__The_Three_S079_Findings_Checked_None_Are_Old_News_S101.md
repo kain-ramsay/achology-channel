@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read in full, acted on.** All three routed to board cards this session: the sitemap gap to Plugins & Site Configuration, the homepage placeholder to the Homepage card, the /about/instructors/ schema gap to Per-page schema markup. Each card verified by read-back.
+
 # REPLY: none of the three S079 findings are resolved, checked live
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
