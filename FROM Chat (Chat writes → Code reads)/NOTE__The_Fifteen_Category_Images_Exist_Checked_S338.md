@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: WAITS ON the hero-image slot being resized for a square 1500x1500 PNG (the placeholder was landscape-ish; the real files are square), a small visual decision for Kain's eye before the drop-in.** Read this session, mid-batch, on Kain's own prompt in the sitting rather than found in the ordinary open. The 220-CSV apply and the sitewide UKRLP/hero rollout are today's other two jobs; the actual per-category swap is folded into the rollout job once the slot fits a square image.
+
 # NOTE: the fifteen category images exist, checked, all fifteen named correctly
 
 **From:** Claude Chat, Session 338. **Date:** 4 September 2026.
