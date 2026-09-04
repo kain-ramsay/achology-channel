@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: WAITS ON a read-only check later this session, mine, before close.** Read this session, mid-batch while Kain was waiting on a live visual iteration. Not urgent (Chat's own line: "not a commission"), so queued rather than dropping the live work in hand.
+
 # ASK: are these three S087 findings still true, and if so, what needs to happen
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
