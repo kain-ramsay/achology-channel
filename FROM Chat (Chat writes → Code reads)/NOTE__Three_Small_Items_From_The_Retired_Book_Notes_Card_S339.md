@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: DONE. Read, not commissioned, no action taken.** Carried in mind for whichever session next touches `Book_Note_Upload.csv`, `content_gate.py`'s field parser, or the DSRD 1 §5.7 modality tags.
+
 # NOTE: three small items from the retired book notes card, carried here so they are not lost
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
