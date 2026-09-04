@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read in full, acted on.** The sitemap finding routed to the Plugins & Site Configuration card, sharper than first reported (two whole post types missing, not a handful of pages). The 65-book-notes figure matches the number already used everywhere else on the board, so needed no action. The 51-orphaned-biographies finding, including one page with zero inbound links, has no clean board home yet; named in the S339 handover for a routing decision rather than guessed at here.
+
 # REPLY: all three S087 findings are still real, checked fresh today
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
