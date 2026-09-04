@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Consumed at S338. The rule 5 slip (two agents opened Book_Note_Master.xlsx) recurred in wave four and is carried into the S340 handover as a Cowork Production Harness item, since a rule broken across two consecutive waves needs a mechanism rather than a repeated sentence. Board: no card moved.**
+
 # RULING — The Eighty Earning Books, Wave Three (rows 21 to 30)
 
 Ten book notes drafted, gated, and filed in their production home (folder name: `Content Records/book-note`, inside the Content Production Factory folder). The full batch report sits beside them there.
