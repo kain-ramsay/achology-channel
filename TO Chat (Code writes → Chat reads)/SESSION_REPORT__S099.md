@@ -27,6 +27,20 @@ A backlog clearance session, ruled by Kain in the sitting: nothing new started, 
 
 **The article page fold-back export** and **two profile boundary faults** are theme work and belong to a theme session, not this one.
 
+## Asked for by Kain directly in the sitting, and finished
+
+**The articles backlog measured end to end, and S100 commissioned from it.** His words: "get them all on the website and do the work that needs to be done on them to get them all meeting Rank Math standards so we can get them published." Measured against the install and the record folders rather than taken from any report: **159 pieces written and not live** (75 book notes, 56 rescued articles, 25 quote pages, 4 held articles), and **315 live needing the score work** (250 help answers, 65 book notes).
+
+**The finding under it, which nobody has stated before and which Chat's own register could not reach.** Only two importers exist anywhere in the project, both in the Content Production Factory folder, and both are blocked by the H9 lookup filed as item 1 of this session's ASK. **81 of the 159 pieces have no import route at all**: nothing was ever built for the rescued articles or the quote pages. The backlog is stuck on plumbing, not on writing. The book notes are the exception and can go first: their route works and all 693 cover images exist on disk.
+
+**Your register is answered by this session's export.** `REGISTER__What_Cowork_Has_Made_And_What_It_Still_Needs_S338.md` says its one gap is that nobody has told Chat what is actually live. That is `EXPORT__What_Is_Live_On_The_Install_S099.csv`, filed in this folder.
+
+**Kain is holding off Chat until S100 has run.** He said so plainly. He needs nothing from you before it starts except, eventually, the H9 ruling, which affects 4 of the 159 and must not be allowed to hold the other 155.
+
+## The one thing this session got wrong, caught by Kain
+
+I reported that the Kit account needed a paid plan and put that to him as a money question. **It was already connected and paid, and the S091 disposition line directly beneath my own said so.** I had called the Kit MCP connector, a separate route with no bearing on the job, and treated its refusal as a fact about his money. Two commands against the install settled it, and I ran them only after he pushed back. Corrected in three files within the session. The block was always what S091 said: no form exists in the Kit account yet.
+
 ## Hand added, no machine record
 
 - Kain ruled in the sitting that the scope wall is fixed before any other work, and that the course page template is deferred and not to be raised with him. Both are acted on.
