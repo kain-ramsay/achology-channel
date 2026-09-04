@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, reported in `REPORT__The_Two_Missing_Importers_Are_Built_And_Registered_S102.md`.** Both halves of the ruling are on disk and were read there this session, not taken from the S338 claim: reviewed_scripts() walks the Content Production Factory folder, the register's own standard reads "cannot publish a post", and the two scripts it names are registered with hashes matching their bytes. The acceptance suite's real result is in the report: sixty three of sixty three, run three times. The two new importers are registered under the same corrected standard.
+
 > **CODE DISPOSITION, S101: WAITS ON the two-importer job later this session (field-authority-article and quote-page), mine.** Read this session, mid-batch. Both scripts will be built, read in full, and registered against this corrected standard rather than the S338 claim, and the acceptance run's real result stated plainly per this file's own OWED BACK line.
 
 # RULING: the H9 widening stands. Named again because it did not land the first time.

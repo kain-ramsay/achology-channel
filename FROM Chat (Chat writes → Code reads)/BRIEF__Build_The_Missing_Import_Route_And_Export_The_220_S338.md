@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, reported in `REPORT__The_Two_Missing_Importers_Are_Built_And_Registered_S102.md`.** Part one: both importers built, read line by line, registered, and run in plan mode against the install this session. The report names what each does and what the plan runs found: no record of either type can import yet, for reasons that sit in the records and in the theme rather than in the scripts. Part two was done at S100.
+
 > **CODE DISPOSITION, S100: WAITS ON the two importers, field-authority-article and quote-page, being built, read in full, and named for registration. Not started this session.** Part two, the 220-row export, is DONE: `EXPORT__220_Help_Answers_For_Cowork_Keyword_Pass_S100.csv`, filed same session.
 
 # BRIEF: build the missing import route, and export the 220 help answers for Cowork
