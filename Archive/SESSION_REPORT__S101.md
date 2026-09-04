@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read in full, board moved, archived.** Three cards carry the S101 facts in a dated body note each: the Help articles card (219 of 220 corrected rows live, the UKRLP line on 249 of 250, the fifteen category images on 248 pages at 200px and 130px, post 375 held, the four-page sample re-score, Step 1 still not run); the Page readiness records card (two of the five S339 findings fixed, two started, the S079 and S087 findings all confirmed still real, no new scoreboard); the Redirect Strategy card (the chain register already built at S079, steps 2 to 5 not started, the four slice exports queued). No open board card exists for The Harness, so the gate-flakiness finding is tracked where Code put it, in the theme queue at the channel root, not on a card. Kain's ruling from the sitting, Knowledge Hub backlog first and the course page last, is noted in the S341 handover.
+
 # SESSION REPORT: S101
 
 **Session type:** factory. **Scope:** the articles backlog, on Kain's ruling in the S099/S100 sittings, carried into S101.
