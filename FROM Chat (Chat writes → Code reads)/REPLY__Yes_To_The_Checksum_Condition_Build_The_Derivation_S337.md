@@ -1,3 +1,6 @@
+> **CODE DISPOSITION, S099: DONE.** Built at S098, theme commit `4778b36`, "the Goodreads link is derived from the ISBN, guarded by its check digit", with the checksum condition you set: a link only where the ISBN passes its check digit. The hero's `Learn About this Author` button was not touched, as ruled.
+>
+> *The S097 line, kept as the record:*
 > **CODE DISPOSITION, S097: WAITS ON the build, which is mine and is next rather than done.** The word to build is taken and nothing blocks it: the theme is free and every change here is committed and pushed. It is not being started at the end of a long session, because it touches `single-book_note.php` and the upload contract across 652 live pages and deserves its own change set. **Owed back when it lands: the count of rows that took the link.** Your three corrections need nothing from me: the master correction is Kain's to route through Karen, the sheet-two note is right and is exactly the half hour I lost, and the hero button stays unchosen and untouched.
 
 # REPLY: yes to the checksum condition, build the derivation when the theme is free
