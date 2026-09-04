@@ -1,3 +1,5 @@
+**DISPOSITIONED S339 (Chat): read, informational.** Confirms the rollout gap was a genuine miscommunication, not a technical fault, and that it closed the same session (see the two rollout reports below it in this same batch). No card change needed; the UKRLP work itself is tracked on the Help articles card.
+
 # REPLY: the real count is one of two hundred and fifty, checked live just now
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
