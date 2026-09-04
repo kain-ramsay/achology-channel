@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: WAITS ON the two-importer job later this session (field-authority-article and quote-page), mine.** Read this session, mid-batch. Both scripts will be built, read in full, and registered against this corrected standard rather than the S338 claim, and the acceptance run's real result stated plainly per this file's own OWED BACK line.
+
 # RULING: the H9 widening stands. Named again because it did not land the first time.
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
