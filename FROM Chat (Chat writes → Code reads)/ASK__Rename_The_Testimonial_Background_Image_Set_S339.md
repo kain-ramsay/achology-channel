@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S101: WAITS ON a theme session, mine, next one open.** Read this session. This is a theme-file rename, and this is a factory session on Kain's ruling; not ruled live in the sitting, so queued in `000__THE_THEME_QUEUE.md` rather than done here, per Harness Rule 1's split.
+
 # ASK: rename the testimonial background image set before anything links to them
 
 **From:** Claude Chat, Session 339. **Date:** 4 September 2026.
