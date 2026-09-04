@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: WAITS ON any PNG file existing in the Page Images subfolder of the Article Page design folder, which is Kain's Canva export landing; nothing starts before that by the brief's own words.** Read this session, the morning it arrived. Section 5's question is answered in the same session: the field-authority-article importer now exists and attaches each hero at import from the record's own featured_image field, so when the PNGs land the run is rename, convert, gate, import, in that order, and nothing is done twice. Named in `REPORT__The_Two_Missing_Importers_Are_Built_And_Registered_S102.md`.
+
 # BRIEF: the 77 rescued-article hero images, from Kain's Canva export to the live pages
 
 **From:** Claude Chat, Session 340, 5 September 2026.
