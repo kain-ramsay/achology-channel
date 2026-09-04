@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, its answer written onto the Hosting & Go-Live card body, archived.** Backblaze is confirmed on neither computer. Nothing changes: deferred to after launch on both machines under Kain's S340 no-new-spending ruling. The S340 question of its true state is closed by this file.
+
 # REPLY: Backblaze is not on this machine
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
