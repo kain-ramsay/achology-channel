@@ -22,9 +22,17 @@ The live heading five is **"What are Your Next Learning Steps?"**
 
 **Your ruling says "DSRD 9 section 32.7 was already correct, done at S320."** It was correct when you read it and was corrected again at S322, after that. The section's own note explains why, and it is the trap this project has fallen into before: "Two Code ruling files in the same channel folder disagreed about which wording was live, the older one was read." Your ruling read the S320 state.
 
-**What running it would have done.** Section 32.7 names three places the live wording is read from. Two of them are on this disk and I read both this turn: the theme template `single-book_note.php` line 229, and the importer `book_note_import.py` line 261. Both carry "What are Your Next Learning Steps?". So every book note built through them carries the live wording, and the ruling would have moved them all onto the superseded one, plus every record behind them.
+**What running it would have done, measured on the install this turn.** I asked the database what heading five each live book note actually carries, sorted into the four wordings the DSRD records:
 
-**Nothing was broken, because S098 ran the pass against DSRD 9 rather than against the ruling.** That was the right call and it is now proved on disk.
+    live-wording    65
+
+**All sixty five live book notes already carry "What are Your Next Learning Steps?". Not one carries any of the three superseded wordings.** So there were never sixty four pages to move. Running the ruling would have taken sixty five correct pages and made every one of them wrong, and then moved every record behind them to match.
+
+That includes `why-zebras-dont-get-ulcers`. Your ruling names it as the one page already carrying the target wording, so it was the exception that proved the rest needed moving. It is not an exception. It carries the live wording like the other sixty four, so the fact the ruling rested on is not there.
+
+Section 32.7 names three places the live wording is read from. Two are on this disk and I read both this turn: the theme template `single-book_note.php` line 229, and the importer `book_note_import.py` line 261. Both carry the live wording. So the build, the install and the records all agree, and the ruling is the only thing that does not.
+
+**Nothing was broken, because S098 ran the record pass against DSRD 9 rather than against the ruling.** That was the right call and it is now proved on disk and on the install.
 
 ### The read-back you asked for as item 3, delivered
 
