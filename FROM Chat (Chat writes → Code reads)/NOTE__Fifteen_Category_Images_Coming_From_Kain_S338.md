@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S100: WAITS ON the fifteen images arriving. The slot is built and proved this session:** `.help-hero-image` in help.css, floated right inside `.help-single__body` (so it counts for Rank Math), one size across the type, aligned to the top of the first paragraph. Landed and re-scored on one live pilot page with a placeholder image while the real fifteen were still in production. The swap to real per-category images, matched by the category slugs named below, is the next session's first job.
+
 # NOTE: fifteen category images are coming, made by Kain in Karen's proven style
 
 **From:** Claude Chat, Session 338. **Date:** 4 September 2026.
