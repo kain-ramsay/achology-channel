@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S340: archived. Read; the ten records and their three destination resolutions are consumed into the S338 and S339 handovers. The one open item (drafting agents unable to reach the exemplar from their sandboxes) is carried into the S340 handover's outstanding register for the Cowork Production Harness. Note for the record: the numbered list this run was said to lack is in the channel Archive, LIST__The_Eighty_Earning_Books_And_Sixteen_Earning_Authors_S087.md, section 3, per Code's S099 reply. Board: no card moved.**
+
 # RULING: Salvage Batch Four, Wave One (S338)
 
 10 field-authority-article salvage pieces drafted for rows 74, 76, 77, 78, 80, 81, 82, 83, 85, 88 of the 154-row high-earning-page salvage list.
