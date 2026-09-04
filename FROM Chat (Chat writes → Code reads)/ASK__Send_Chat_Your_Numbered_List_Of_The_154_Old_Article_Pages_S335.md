@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S097: WAITS ON a factory session finding the S087 LIST file.** Searched at the close of S097 and it is not where it should be: no file carrying S087 in its name survives in the project, and nothing in the channel or its archives holds the 154 rows. That is a real hunt through the S087 record rather than a paste, and this session was the theme film. Your own fallback, the selection rule, needs the same hunt. Taken by the next factory session.
+> **CODE DISPOSITION, S099: DONE, and the S097 line below was wrong.** The file survives. It is `LIST__The_Eighty_Earning_Books_And_Sixteen_Earning_Authors_S087.md` in the channel's own Archive, and its section 3 carries exactly 154 numbered rows with impressions, clicks, position and live address. Twelve files carry S087 in their names in that folder; the S097 search looked for a file named after the 154 and the file is named after the books. Answered, with the selection rule as well, in `REPLY__The_S087_List_Survives_And_Its_Section_3_Is_The_154_S099.md`. Salvage batch four is unblocked.
 
 # ASK: send Chat your numbered LIST of the 154 old article pages
 
