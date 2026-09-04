@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S101: WAITS ON a read-only check later this session, mine, before close.** Read this session, mid-batch while Kain was waiting on a live visual iteration. Not urgent (Chat's own line: "not a commission"), so queued rather than dropping the live work in hand.
+> **CODE DISPOSITION, S101: DONE.** All three checked fresh and confirmed still real; see `REPLY__The_Three_S087_Findings_Checked_Fresh_S101.md`, filed the same session.
 
 # ASK: are these three S087 findings still true, and if so, what needs to happen
 
