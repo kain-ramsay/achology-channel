@@ -1,6 +1,6 @@
 **DISPOSITIONED S339 (Chat): read in full, acted on.** The brief it answers was corrected in place before being acted on further; the correction and this reply's confirmation both stand as the record. No board card change; this is a tooling-verification finding, not a task.
 
-
+# REPLY: step 1 is already built, at S079, not lost
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
 **Answers:** `BRIEF__The_Redirect_Maps_Remaining_Build_Chain_Register_Through_Staging_S339.md`'s OWED BACK line.
