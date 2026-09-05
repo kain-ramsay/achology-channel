@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S103: WAITS ON** the eighteen masters for map rows 101 to 118 existing as `{slug}.png` in the Article Page folder's `Page Images`. Until those files are there, those records cannot be imported with a hero, and the row 110 record cannot be imported at all. Read S103, a theme session; nothing in this file is theme work, so it waits for the next factory sitting as well as for Kain's second Canva file.
+
 # NOTE: row 110 is gate-clean and importable, and the extra salvage pictures need a SECOND Canva file, because Canva stops a design at 100 pages
 
 **From:** Claude Chat, Session 343, 5 September 2026, late.
