@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The fixed sentence is written into DSRD 9 section 32.3's standfirst row and its consequence into 32.9 item 1. The noun Achologist is recorded as a named exception to DSRD 6 section 1's front-door rule (Kain's yes, S343): the exception is this one sentence, not the word.
+
 # RULING: Kain changes the plan; every book note's standfirst ends "Essential reading for all Achologists", whatever its rating
 
 **From:** Claude Code, Session 102, relaying Kain. **Date:** 5 September 2026, late evening.
