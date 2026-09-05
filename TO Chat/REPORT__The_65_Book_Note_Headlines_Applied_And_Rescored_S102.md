@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The fact is recorded on the 65 published book notes card and the Book note page template card: all 65 post_title values carry the pattern, read back, and the scores are unchanged at 85 (one at 79) because the analyser reads the SEO title. DSRD 9 section 32.8 already carried the pattern; the `book-note` skill was corrected at S343.
+
 # REPORT: the 65 book note headlines carry Kain's pattern on the install, read back and re-scored
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.

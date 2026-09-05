@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The tablet badge in the container's bottom right corner is written into DSRD 9 section 32.3's tier table, superseding v0.167.23's reading. This is the version Kain approved the whole hero at. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.26, on a tablet the badge stands in the container's bottom right corner
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
