@@ -15,7 +15,7 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 
 ### Subfolders
 
-- **Archive** (422 loose files)
+- **Archive** (423 loose files)
 
 ### Loose files at this level
 
@@ -25,7 +25,6 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - ASK__Rename_The_Testimonial_Background_Image_Set_S339.md
 - AUTHORISATION__Publish_The_Eighteen_Instructor_Articles_S307.md
 - BRIEF__All_Eleven_Knowledge_Hub_Templates_Full_Commission_S314.md
-- BRIEF__Build_The_Data_Labs_Snapshot_Pack_S323.md
 - BRIEF__Build_The_School_Bundle_Card_And_Bring_It_Into_Line_S279.md
 - BRIEF__Five_Page_Readiness_Findings_That_Never_Reached_You_S339.md
 - BRIEF__Render_The_Header_With_A_Search_Control_For_Kains_Eye_S321.md
@@ -47,6 +46,7 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - NOTE__Fifteen_Category_Images_Coming_From_Kain_S338.md
 - NOTE__Links_Lost_At_Import_And_The_Four_Test_Batches_S315.md
 - NOTE__Prepare_Reviews_Page_Two_Rulings_For_Safari_Sitting_S278.md
+- NOTE__Records_Ready_Run_Steps_Four_And_Five_Of_The_Image_Brief_The_Count_Is_83_And_Piaget_Is_Right_S342.md
 - NOTE__Sixty_Book_Notes_In_Production_Not_Yet_Ready_S306.md
 - NOTE__The_Fifteen_Category_Images_Exist_Checked_S338.md
 - NOTE__What_Governs_A_Component_With_No_Build_Sheet_S257.md

@@ -20,8 +20,9 @@ _None._
 ### Loose files at this level
 
 - 000__WHAT_IS_IN_HERE.md
-- REPLY__Steps_One_To_Three_Of_The_Hero_Image_Brief_Are_Done_83_Of_83_S102.md
-- REPORT__The_Article_Page_Fold_Back_Is_Done_Prototype_And_Sheet_S102.md
+- PROPOSAL__How_The_Skill_Library_Joins_The_Instruction_Drift_Check_S102.md
+- REPORT__Seventy_Four_Rescued_Articles_Are_Drafts_With_Their_Heroes_Eighteen_Wait_S102.md
 - REPORT__The_Our_People_Pre_Sitting_List_S097.md
 - REPORT__The_Our_People_Pre_Sitting_List_Second_Instalment_The_Hub_S102.md
 - REPORT__The_Seventeen_Profile_Pages_Carry_Their_Metadata_And_Their_Scores_Read_Back_S102.md
+- RULING__Kain_Orders_The_Book_Note_Rank_Math_Repair_Now_S102.md
