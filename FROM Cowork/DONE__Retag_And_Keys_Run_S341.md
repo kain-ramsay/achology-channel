@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: ACTED ON.** Both batch reports read. The 82 field-authority-article records are relayed to Code as ready in `NOTE__Records_Ready_Run_Steps_Four_And_Five_Of_The_Image_Brief_The_Count_Is_83_And_Piaget_Is_Right_S342.md` (FROM Chat). The stale `_fields_note` in `content_gate_standards.json` (frederick-martin) is corrected to frederick-s-martin. The 25 quote records stay not ready on their two known faults; the outcome-tag ruling goes to Kain, the demand_evidence run is its own brief. Board cards: the Salvage card, stamped in the S342 walk.
+
 # DONE: retag and keys run, S341 brief
 
 **From:** Claude Cowork. **Date:** 5 September 2026.
