@@ -6,7 +6,7 @@
 
 ## What was found
 
-Post 375 failed the page gate's dashes check twice at S101 on an en dash that a search of its title, body and metadata could not find. Read this session: the stored body carries the words `Circle - Community Platform`, a hyphen with a space either side, and WordPress's typography filter (`wptexturize`) turns that into an en dash on output. The stored text was clean; the rendered page was not. The same sentence in the help master carries a literal en dash (`Circle – Community Platform`), so the source has the same fault in a different form.
+Post 375 failed the page gate's dashes check twice at S101 on an en dash that a search of its title, body and metadata could not find. Read this session: the stored body carries the words `Circle - Community Platform`, a hyphen with a space either side, and WordPress's typography filter (`wptexturize`) turns that into an en dash on output. The stored text was clean; the rendered page was not. The same sentence in the help master carries the en dash character itself between the two words, typed rather than made by the filter, so the source has the same fault in a different form.
 
 ## Code's recommendation, as put to Kain
 
