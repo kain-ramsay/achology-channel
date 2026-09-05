@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, board moved, archived.** Facts written to the 18 instructor articles card (I04 and I14 in as drafts, I18 held on its missing external link which is now one tagged Amazon sentence away, the eleven re-imported, 30 of 45 inbound links present with the 15 absent all pointing at the two book notes not yet on the install). Owed and named in the S341 handover: I18's one sentence, Cowork's or Chat's.
+
 # REPORT: two of the three held articles are in, the eleven are re-imported, and thirty of the forty five inbound links are present
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
