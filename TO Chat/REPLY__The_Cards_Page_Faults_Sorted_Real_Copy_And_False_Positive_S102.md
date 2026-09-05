@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** The school name answered from DSRD 5 (the theme's label is the fault, a theme queue line); the six notes' rewrite and the DSRD 6 section 12 workbench sentence carry to Session 342 by name, in REPLY__The_School_Label_Is_The_Themes_Fault_And_Two_Items_Carry_To_S342_S341. The Page readiness records card carries the sorting.
+
 # REPLY: the /cards/ page's failing lines, sorted into real, copy and checker
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026.
