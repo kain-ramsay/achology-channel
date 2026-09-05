@@ -1,6 +1,6 @@
 # THE CHAT HARNESS
 
-**Version 1.13, S339. Authority: Kain Ramsay.**
+**Version 1.14, S342. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
@@ -11,6 +11,7 @@
 
 One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
 
+- **1.14, S342.** Layer 2 gains the board-currency mechanism, designed with Kain and built the same session. Every card read against its source and found true is stamped, Checked with the time and Checked Session with the session number, as the last write on the card. A Needs Attention formula and view hold every open card that is unstamped, edited more than five minutes after its stamp, or stamped more than seven days ago (seven days ruled by Kain). The open prints the view's count inside the one Notion call that already proved the connector; the close prints cards stamped and cards still needing attention into the handover's fixed numbers block, and the next open verifies both fresh. No rule added and no call added. The S341 branch problem, two copies of one chat writing the same files, is closed by Kain's habit (once files are being written, new messages only, never an edit or a resend) and not by a lock: a lock written at the open cannot tell two copies of one session apart, the only lock that could costs a check on every board write, and the stamp's session label already makes a repeat visible on the board itself.
 - **1.13, S339.** Rule 3 extended to cover claims of absence, not only claims of writing. A parent-scope `search_files` call silently failed to recurse into folders carrying special punctuation, found twice this session: first on two subfolders with parentheses and an arrow character, causing two briefs to assert work did not exist when it did, one already built and closed, one already run and closed; second on a folder with an apostrophe and a pipe character, causing a false report that the DSRD specification folder was structurally unreachable, when a plain directory listing found it at once. All three caught and corrected before lasting damage: two before Code acted on the wrong halves, one within the same sitting it was said. A mechanism tightened, not a rule added.
 - **1.12, S318.** Close Step 5 gains the written-files check: the close searches the channel for every file the session claims to have written and prints found against claimed; a shortfall refuses the close. Added after S313's close recorded a Cowork brief as written that never existed, and the seventeen book notes it routed sat five sessions on that line. A mechanism tightened, not a rule added.
 - **1.11, S311.** Rules 4 and 7 moved to The Shared Rules (sections 2 and 7) and kept here as pointers under their own numbers. Version history cut to one line per version. The CHANGES section's pointer to a Cowork harness file at this root removed: no such file exists here, and the Cowork Production Harness lives at the root of the Content Production Factory folder.
@@ -98,6 +99,7 @@ The mechanisms doing reconciliation work, mapped to the drifts they catch:
 | Both sides of the road counted at open: Chat's outbox is counted beside its inbox, and the oldest outbox file with no head line is named in the opening message, with its session number | Code's close skipped, so consumed instructions sit as live ones; 42 files went unnoticed for thirty sessions because each side counted only what it reads |
 | Open Step 1's board update from Code's session report: Code's session report is opened first and its lines driven onto the Notion board in the same turn, with the count of cards moved stated in the opening message | The board going stale because work Code finished never reached it. At S055 Code and Kain fixed 108 book covers by hand; the board still showed the job outstanding the next day and Chat was one turn from asking Karen to redo it |
 | The output gate: produced text scripted through the standing checks (dashes, banned vocabulary, UK spelling) in Chat's code environment before it lands, count printed | Banned characters and vocabulary reaching files through eye-check fatigue |
+| Open Step 3's attention count and Close Step 3's stamp (S342): every card read and found true is stamped with its session as the last write on it; the Needs Attention view holds every open card that is unstamped, edited after its stamp, or stamped over seven days ago; the open prints the view's count, the close prints cards stamped and cards still waiting, and the next open verifies both | The board going stale one card at a time with nothing assigned to notice: a card nobody has read for a fortnight looks identical to one read yesterday. At S341 the 24 open Knowledge Hub cards had never been checked as a set, about eight content batches carried no stage, and the board read as current because no card could say otherwise |
 | Open Step 4: skills named aloud | A governing skill sitting unconsulted |
 | Rule 8's growth governor, on every rule added anywhere | The operating system accumulating one-way until compliance replaces the work |
 | Close Step 1: the decision sweep | Questions leaving a session unsettled |
@@ -131,4 +133,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.13.*
+*End of The Chat Harness, Version 1.14.*
