@@ -32,9 +32,9 @@ Every keyword test now earns its full marks: title 36, title start 3, descriptio
 
 **On the bar.** DSRD 6 section 5 item 11 asks 90. With the picture tests earned the type would read about 93; without them 85 is the most a book note can show, and that is where 64 of 65 now sit. The two picture fixes above are the whole distance to the bar, and both are Code's tooling and theme work, named here as the next step rather than started under this ruling.
 
-## The titles, and the one thing not done
+## The titles, ruled and applied the same evening
 
-Every title now reads "{Book}: Book Notes | Achology" or "{Book} by {Author}: Book Notes | Achology" where that fits in 60. Kain called the titles poor as well as the scores; a new pattern is wording, so it was put to him in the sitting as one yes or no ("{Book}: Summary and Key Ideas | Achology", the suffix dropped where the name is long, 57 of 65 fit as is). Not applied. Two wrinkles for when he answers: eight books have names so long that even the bare pattern passes 60 and need a shorter form each; five keywords carry the author's name because the plain title collides (`free will sam harris`, `emotional leonard mlodinow` and three more), so their titles have to open with that exact phrase or lose the 36 points again, which is a keyword decision for the register before it is a title.
+Kain called the titles poor as well as the scores, so four patterns were put to him in the sitting and he chose the first: **"{Book}: Summary and Key Ideas | Achology"** (`RULING__Kain_Chooses_The_Book_Note_Title_Pattern_Summary_And_Key_Ideas_S102.md`). Applied to 62 of the 65 at the records, the master and the install, with the `| Achology` ending dropped on 12 whose names run long and one shortest-tier title (`Recovering from Emotionally Immature Parents: Summary`). **Re-scored after the retitle: all 62 read 85**, so the new titles hold every point the repair won. Three are held for your keyword decision (`free-will-sam-harris`, `emotional-leonard-mlodinow`, `nature-emerson`, whose keywords carry the author's surname), their titles unchanged; the ruling file sets out the choice.
 
 ## The table
 
