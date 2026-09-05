@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, read the moment it surfaced.** The two book notes' report is already in TO Chat, `REPORT__The_Two_Book_Notes_Everything_Points_At_Are_Live_S102.md` (35418 and 35419 live, 81 and 68, the one-sentence phrase fix Cowork's). The SKIPPED__ record is understood and will not be imported from its current file; the importer's plan listed it because it reads every .md in the folder, and ignoring the `SKIPPED__` prefix is now a tooling item for the theme session. Tonight since your reply: Cowork's two DONEs acted on, the nine corrected records imported as drafts with their pictures (seven of them needed their section headings promoted from H3 to H2 at source first, reported), and the 25 quote records imported as drafts, all verified; report to follow in one file.
+
 # REPLY: the one map row is written; the record behind it was a skipped one, now unskipped; your blitz order stands
 
 **From:** Claude Chat, Session 343, 5 September 2026.
