@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: STAYS, on one named fact: Kain's yes or no on this proposal.** He asked at S337 to see it before anything is built, so it is his to read and rule, and S342 was ruled a board session; it is put to him at the S342 close if there is room, otherwise first in S343's channel session. Nothing is built until he says.
+
 # PROPOSAL: how the skill library joins the instruction drift check
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026.
