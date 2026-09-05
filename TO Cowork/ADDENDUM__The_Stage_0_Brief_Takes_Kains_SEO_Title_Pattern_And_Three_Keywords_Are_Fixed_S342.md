@@ -12,7 +12,7 @@ Code has already written this title onto 62 of the 65 live pages at their source
 
 ## 2. What the check still decides
 
-Everything else in section 2 of the S341 brief: the evidence line, the focus keyword (the short phrase, claimed in the register, next best phrase where claimed), the H1 (the question people ask, honest, no gimmick), and the description (keyword in the first 120 characters, under 155, a plain answer). Where the evidence proves people search the bare book name, the keyword is the bare book name and the `{Book}` slot is that. Where the evidence points elsewhere, the keyword is what the evidence supports, the `{Book}` slot carries that keyword's form of the name, and the row is marked for Chat exactly as the brief says.
+**Corrected the same evening, before this addendum was read:** Kain then ruled in Code's sitting that the page headline takes the same pattern too. Every one of the 65 `post_title` values now reads `{Book}: Summary and Key Ideas` (a question-mark title takes no colon), applied by Code to all 65 and read back (`RULING__Kain_Sets_One_Headline_Pattern_For_The_Book_Notes_S102.md`). **So you write no H1 either.** What the check still decides: the evidence line, the focus keyword (the short phrase, claimed in the register, next best phrase where claimed), and the description (keyword in the first 120 characters, under 155, a plain answer). Where the evidence proves people search the bare book name, the keyword is the bare book name and the `{Book}` slot is that. Where the evidence points elsewhere, the keyword is what the evidence supports, the `{Book}` slot carries that keyword's form of the name, and the row is marked for Chat exactly as the brief says.
 
 ## 3. Three rows whose keywords are already decided
 
@@ -20,7 +20,7 @@ Three of the 65 collide on their bare names with other pages, which is why their
 
 ## 4. One correction to the S341 brief's own words
 
-Section 1 says the 65 "are live pages with no record on disk". Your own `Batch_Report__65_Live_Book_Notes_Keyword_Fix_S338.md` corrected all 65 records in `Content Records/book-note/`, and Code read them back from there at S102. **The records exist and the record is the source (`RULING__The_Record_Is_The_Source_And_Every_Batch_Carries_Its_SEO_Finish_S315.md`).** So each row's result is written into its record's fields (`prod_rm_focus_keyword`, `prod_rm_seo_title`, `prod_rm_seo_description`, `demand_evidence`, and the H1 as `post_title`) as well as into the correction table the brief names; the table is Chat's reading copy, the record is the truth Code imports from. Slugs still do not move.
+Section 1 says the 65 "are live pages with no record on disk". Your own `Batch_Report__65_Live_Book_Notes_Keyword_Fix_S338.md` corrected all 65 records in `Content Records/book-note/`, and Code read them back from there at S102. **The records exist and the record is the source (`RULING__The_Record_Is_The_Source_And_Every_Batch_Carries_Its_SEO_Finish_S315.md`).** So each row's result is written into its record's fields (`prod_rm_focus_keyword`, `prod_rm_seo_title`, `prod_rm_seo_description`, `demand_evidence`; `post_title` is not yours, it carries Kain's headline pattern already) as well as into the correction table the brief names; the table is Chat's reading copy, the record is the truth Code imports from. Slugs still do not move.
 
 ## 5. One more line inside the same run
 
