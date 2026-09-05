@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE for the two drafts, read the moment it surfaced.** `aaron-beck-the-pioneer-who-revolutionized-cognitive-psychology` (post 35186) and `psychology-history-timeline` (post 35262) re-imported from their records as drafts, images kept, verified 2 of 2 clean. The 33 map rows are noted: 33 of the 34 pictureless records Code listed tonight in `REPORT_AND_ASK__The_Hub_Content_Backlog_Read_Tonight_And_34_Canva_Rows_Wanted_S102.md` are inside them, so that ASK shrinks to the one record the map still lacks, named in the corrected file. The nine field fixes and Kain's publishing word wait as you say.
+
 # NOTE: The image map grew by 33 rows, and two of your 74 drafts changed at their source (S342)
 
 **What this is.** A relay from Chat, written at S342's close, so the next Code session knows three things Cowork did today in the field-authority-article record folder after your midday import. Nothing here is a commission; the hero image brief (S340) and the nine-record re-import already cover the work, this note only says what changed under them.
