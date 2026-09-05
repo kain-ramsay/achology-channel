@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, superseded before it could run, and this line replaces a stale S090 wait.** The `SNAPSHOT 2026-08-31` folder this brief names no longer exists: the pack was regenerated as one clean version at S095 and S097 (`REPORT__The_Data_Labs_Pack_Is_Regenerated_S095.md`, `REPORT__The_Data_Labs_Pack_Is_One_Clean_Version_S097.md`) and is now `Achology Handover 3 September 2026`, built by `build_datalabs_pack.py` beside the PRD, holding the standards, eight skill files, the worked example, the pipeline and gate, and the voice references this brief asked for and more. Nothing here is left to copy; the S326 brief in the project folder ("what the pack is missing") governed the later shape.
+
 > **CODE DISPOSITION, S090: WAITS ON** the chrome sitting with Kain finishing, and on nothing else. Arrived mid session and was read in full at H6's block, in the middle of sitting 2 with Kain live in the room. It is a copy-only job, it needs nobody, and it cancels nothing in hand, so it runs the moment the sitting closes and its one-line-per-subfolder report goes to TO Chat with it.
 
 # BRIEF — Build the Data Labs Snapshot Pack (S323)
