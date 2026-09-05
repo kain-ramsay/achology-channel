@@ -16,6 +16,10 @@ The cover's phone cap opens from 256 to 320. The 256 cap was the S086 guard agai
 
 Theme v0.167.25, `deploy.py` three proofs passed: server identical to local, zip 700 files matching the theme, server reporting 0.167.25. Commit pushed. Opened in Safari for Kain as a new tab. **His eye on the larger cover is not yet given.**
 
+## One thing named, not acted on
+
+The hero serves each cover at its uploaded size, and the uploaded covers are small: this page's file is 316 pixels wide, so at 320 on a phone it shows at its natural size and on a retina screen it is soft, as it already was at 256 on desktop (512 device pixels from 316). The covers never went through the pipeline's book-cover slot (DSRD 7 section 12.3; the media gate reads `the-power-of-truth-1.jpg` at 685KB against the slot's 60KB, so the set runs from too small to too large). That is a cover-run pass for the factory, the same shape as tonight's instructor pictures, and not a theme edit; named here so the larger phone cover is not read as the cause of the softness.
+
 ## Owed to the documents
 
 DSRD 9 section 32.3's phone row for the cover: 320, centred, 2:3, the S086 256 guard superseded on this word. Yours.
