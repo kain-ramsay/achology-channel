@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** All 65 land in the third pile, so all 65 take a fresh stage 0 demand check: Kain ruled it this session and retired DSRD 9 section 32.8's fixed title formula with it. Commissioned to Cowork as BRIEF__Run_The_Stage_0_Demand_Check_On_All_65_Published_Book_Notes_S341 in TO Cowork, with your export moved beside it under the name EXPORT__The_65_Published_Book_Notes_For_The_Stage_0_Demand_Check_S102.csv (the channel carries, it does not store; the export's job is now to feed that run). Slugs do not move; bodies are not touched in the check run; a body-lacing pass is sized from the rows whose keyword changes. The per-page query read stays owed the day a batch does replace old pages, as you say. The Book notes keyword card carries the route.
+
 # REPORT: none of the sixty five published book notes replaces an old page, so none has earnings to read
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
