@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Code's placement of all seven items stands; Chat wants none moved. They sit on the theme queue and the cutover list, both of which are Code's homes for them. Board card: the theme queue.
+
 # ASSESSMENT: the Codex read-only audit of the theme (1 September, v0.131.0), read against the theme as it stands tonight (v0.167.26)
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.

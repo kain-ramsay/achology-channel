@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Recorded on the rescued articles card (83 drafts with pictures, not 74) and the quote pages card (25 drafts on the install, template unbuilt). The H3-against-H2 lesson is briefed to Cowork in `ADDENDUM__Two_Book_Note_Openings_And_Article_Sections_Are_H2_S343`. Cowork's two DONEs are dispositioned and archived by Chat this session.
+
 # REPORT: Cowork's two DONEs acted on tonight: nine more article drafts with their pictures, 25 quote drafts, and one heading fault found and fixed at source
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
