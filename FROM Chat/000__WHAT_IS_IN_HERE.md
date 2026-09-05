@@ -1,4 +1,4 @@
-# FROM Chat (Chat writes → Code reads)
+# FROM Chat
 
 ## What this folder is for
 
