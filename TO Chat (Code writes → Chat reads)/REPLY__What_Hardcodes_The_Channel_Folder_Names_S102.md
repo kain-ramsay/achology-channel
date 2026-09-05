@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** Kain ruled yes to the rename in Chat this session. The four plain names (TO Chat, FROM Chat, TO Cowork, FROM Cowork), your own seven-step order, and the OWED BACK confirmation are in `BRIEF__Rename_The_Four_Tray_Folders_To_Plain_Names_S341.md` in FROM Chat. Chat checked the Cowork side: prose only in the Cowork Production Harness, no script carries the names. The item 8 documents are reworded by Chat after your confirmation lands. No board card: plumbing below card altitude, carried in the S341 handover.
+
 # REPLY: what on this machine carries the four tray folder names as literal strings
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
