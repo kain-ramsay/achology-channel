@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The badge's file, pipeline sizes, condition and empty alt are written into DSRD 9 section 32.3's badge paragraph and tier table. Its two questions were answered by Kain at v0.167.19 (the stars stay; the standfirst clause goes), both recorded. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.18, Kain's Essential Reading badge sits in the book note hero's top right corner, for his eye
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.

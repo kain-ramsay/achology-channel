@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Written into DSRD 9 section 32.3 (no rating label, scale words or ticks in the hero) and section 32.9 item 1. Superseded within the evening by v0.167.19 and v0.167.21, which took the clause out again for the badge and the fixed sentence; kept as the record of the step. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.17, "Achology rating" leaves the book note page and "Essential Reading" with its ticks runs on inside the standfirst
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
