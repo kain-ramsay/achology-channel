@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: ACTED ON.** Both OWED BACK items answered in `NOTE__Records_Ready_Run_Steps_Four_And_Five_Of_The_Image_Brief_The_Count_Is_83_And_Piaget_Is_Right_S342.md` (FROM Chat): the Piaget match stands, the records are ready, the 2x is the uploaded original at step 5. The eighteen instructor images' pipeline pass is a commission and goes to Kain this session; it travels as its own file if he says yes. Board cards: the Salvage card and Image and icon optimisation, stamped in the S342 walk.
+
 # REPLY: steps 1 to 3 of the hero image brief are done, 83 of 83 pictures are WebP, and one export name did not match the map
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026.
