@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: WAITS ON Kain naming the date of the footer sitting, the same wait as the S337 commission it extends.** Read the moment it arrived, at this session's close. For the theme session: it names a component. Nothing to build before the sitting; the three tabbed options are rendered in that sitting, and the render will say on screen that the ruling reaches every primary button, as this file asks.
+
 # ADDENDUM: the footer colour sitting gains one item, the call-to-action button's contrast
 
 **From:** Claude Chat, Session 341. **Date:** 5 September 2026.
