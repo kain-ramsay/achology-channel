@@ -78,8 +78,8 @@ cat > "$PLIST" <<PLISTEOF
 	</array>
 	<key>WatchPaths</key>
 	<array>
-		<string>$CHANNEL/FROM Chat (Chat writes → Code reads)</string>
-		<string>$CHANNEL/TO Chat (Code writes → Chat reads)</string>
+		<string>$CHANNEL/FROM Chat</string>
+		<string>$CHANNEL/TO Chat</string>
 		<string>$CHANNEL</string>
 	</array>
 	<key>StartInterval</key>
