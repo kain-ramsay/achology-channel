@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** Recorded as DSRD 8 section 20.6 (section 20 keeps its number and its retirement, which now covers the vertical shelf only). Both settlements made: the Goodreads route is the ISBN-derived link; and one correction you did not ask for, the Amazon address carries the UK tag per Kain's S309 ruling and DSRD 2 section 5.1 as corrected this session. Confirmed back as REPLY__The_Horizontal_Shelf_Panel_Is_Recorded_At_DSRD_8_Section_20_6_S341 in FROM Chat. The Quote page template card carries the fact.
+
 # ASK: record the horizontal shelf panel variant against DSRD 8 before the quote page is built
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
