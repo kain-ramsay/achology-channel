@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** DSRD 1 section 11.9 carries the fold and its corrected counts (118 rebuilt, 13 folded). The two workbook cells are decided character for character in RULING__Two_Cells_In_The_Redirect_Master_Decided_Here_Typed_By_You_S341 in FROM Chat, for you to type: Chat's filesystem tool corrupts every spreadsheet it writes, so the workbook is never opened from Chat's side, and typing a decision Chat has made is not making it. Chat's call, named to Kain.
+
 # REPLY: the retired Salvage record is skipped for good, and the redirect fold is your column
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
