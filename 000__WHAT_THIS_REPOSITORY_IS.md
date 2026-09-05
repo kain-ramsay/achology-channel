@@ -26,8 +26,10 @@ The iMac Late 2015, heartbeat name `kain-s-imac-4`, was Code's machine until S09
 - `000__THE_SHARED_RULES.md`, the rules that bind all three Claudes. Read first by every one of them, at every open. Chat's, and never edited by Code or Cowork.
 - `000__THE_HARNESS.md`, the rules Code works under. Chat's, and never edited by Code.
 - `000__THE_CHAT_HARNESS.md`, the same for Chat.
-- `FROM Chat (Chat writes to Code reads)`, with its own Archive.
-- `TO Chat (Code writes to Chat reads)`, with its own Archive.
+- `FROM Chat`, Chat writes and Code reads, with its own Archive.
+- `TO Chat`, Code writes and Chat reads, with its own Archive.
+- `TO Cowork`, Chat writes and Cowork reads, with its own Archive.
+- `FROM Cowork`, Cowork writes and Chat reads, with its own Archive.
 - `Archive`, the shared older archive.
 - `HOW THIS CHANNEL WORKS.md`, the joining instructions.
 
