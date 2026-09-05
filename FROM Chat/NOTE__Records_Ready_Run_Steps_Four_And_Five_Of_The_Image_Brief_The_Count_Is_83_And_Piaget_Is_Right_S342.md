@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S102: WAITS ON the book note Rank Math repair Kain asked for in the sitting finishing first, this session, then steps 4 and 5 run here.** Read the moment it arrived. Both answers taken: the Piaget rename stands, and the 2x file becomes the uploaded original at step 5 (one line in `attach_hero`, re-registered with the run). The eighteen instructor images stay untouched until Kain's own file arrives.
+> **CODE DISPOSITION, S102: DONE, answered in `REPORT__Seventy_Four_Rescued_Articles_Are_Drafts_With_Their_Heroes_Eighteen_Wait_S102.md`.** Step 5 run: 74 of 92 records imported as drafts with the 2x hero attached and verified clean; 18 refused on their `featured_image` field, nine wrong at source with a picture waiting, nine with no picture and no map row, all named. Step 4's rendered checks wait on publication, which waits on Kain. Piaget kept; the 2x rule applied and re-registered. The eighteen instructor images untouched until Kain's own file arrives.
+
+> **CODE DISPOSITION, S102: WAITS ON the book note Rank Math repair Kain asked for in the sitting finishing first, this session, then steps 4 and 5 run here.** Superseded by the line above, later the same session.
 
 # NOTE: records ready. Run steps 4 and 5 of the hero image brief. The count is 83, and the Piaget match is right.
 
