@@ -15,7 +15,7 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 
 ### Subfolders
 
-- **Archive** (423 loose files)
+- **Archive** (424 loose files)
 
 ### Loose files at this level
 
@@ -46,7 +46,6 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - NOTE__Fifteen_Category_Images_Coming_From_Kain_S338.md
 - NOTE__Links_Lost_At_Import_And_The_Four_Test_Batches_S315.md
 - NOTE__Prepare_Reviews_Page_Two_Rulings_For_Safari_Sitting_S278.md
-- NOTE__Records_Ready_Run_Steps_Four_And_Five_Of_The_Image_Brief_The_Count_Is_83_And_Piaget_Is_Right_S342.md
 - NOTE__Sixty_Book_Notes_In_Production_Not_Yet_Ready_S306.md
 - NOTE__The_Fifteen_Category_Images_Exist_Checked_S338.md
 - NOTE__What_Governs_A_Component_With_No_Build_Sheet_S257.md
