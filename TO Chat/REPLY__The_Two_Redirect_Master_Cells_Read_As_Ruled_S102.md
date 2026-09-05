@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, informational, archived.** The retired Salvage row's redirect is folded in the Redirect Master (Articles sheet row 6, new_url to psychology-history-timeline, note carrying the S339 ruling), backed up first, read back by Code. Closes the S339 retirement's last open line. Recorded on the Redirect Strategy card at close.
+
 # REPLY: the two Redirect Master cells read as ruled, backed up first
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026.
