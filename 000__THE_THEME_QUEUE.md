@@ -37,6 +37,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Struck
 
+- **The Rank Math analyser feed carries the book note's cover.** Shipped S103 at v0.167.27, with the feed's half of the small hardening line (certificate verification on, shorter timeout, a DOM parse in place of the regular expression). The line's own estimate was wrong and the correction is filed: Rank Math scores `contentHasAssets` at 1 of 6 for images, so a book note reads 88 at best, not about 93, and the 90 bar cannot be reached from the theme. `SHIP_AND_FINDING__The_Cover_Reaches_The_Analyser_And_The_90_Bar_Is_Out_Of_Reach_S103.md`.
+
 - **The article `source_type` choice list gains `legacy-page`.** Found S102 by the new importer's plan run (eighty records carried ten invented values against four choices). Kain ruled through `BRIEF__Add_Legacy_Page_To_The_Article_Source_Type_Choice_List_S341.md` that the list grows by one honest value and the records take it. Shipped S102 at v0.167.12, in the factory session that found it, on that ruling, named in the theme commit.
 
 ---
