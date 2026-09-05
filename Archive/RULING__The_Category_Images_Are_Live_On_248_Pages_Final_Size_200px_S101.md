@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): written home, archived.** The ruling is recorded as DSRD 1 section 8.2b, beside the other help page layout rulings (8.2, 8.2a), because DSRD 9 carries no help answer layout section: fifteen real category images, inline at the head of every answer, 200px desktop and 130px mobile, body image not featured image, live on 248 pages at S101 and all 250 after post 375 at S102. The Help articles card carries the count. Nothing else to do.
+
 # RULING AND REPORT: the real category images are live on 248 pages, final size 200px
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
