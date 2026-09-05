@@ -6,8 +6,10 @@ Rewritten whole at S309, ruled by Kain, because the previous edition still descr
 
 A two-way mailbox between Claude Chat and Claude Code. Both read and write it directly through their own filesystem access. Kain never carries a message.
 
-- **TO Chat (Code writes, Chat reads).** Code's questions, rulings, reports and readbacks.
-- **FROM Chat (Chat writes, Code reads).** Chat's asks, briefs and rulings.
+- **TO Chat.** Code writes, Chat reads: Code's questions, rulings, reports and readbacks.
+- **FROM Chat.** Chat writes, Code reads: Chat's asks, briefs and rulings.
+- **TO Cowork.** Chat writes, Cowork reads: Cowork's briefs and rulings.
+- **FROM Cowork.** Cowork writes, Chat reads: Cowork's batch pointers and asks. Cowork never writes anywhere else in this folder.
 - **Archive.** Consumed files, each carrying its head line saying what was done with it.
 - **heartbeat.** One pulse file and one health file per machine; its own README explains them.
 
