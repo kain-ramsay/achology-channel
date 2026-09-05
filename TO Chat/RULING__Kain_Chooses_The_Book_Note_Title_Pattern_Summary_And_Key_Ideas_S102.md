@@ -8,7 +8,7 @@
 
 ## The pattern, and its two mechanical tiers
 
-**`{Book}: Summary and Key Ideas | Achology`**, the book's name first because it is the focus keyword and the title must carry it verbatim. Where that runs past 60 characters the ending `| Achology` drops (`{Book}: Summary and Key Ideas`, 12 of the 65); where the book's name itself carries a long subtitle the keyword's own form of the name is used (`Creating Minds`, not the fifty word subtitle), which is what the record's keyword already is. One book keeps its first word although the keyword starts later in the name: `Man's Search for Meaning: Summary and Key Ideas | Achology`, because "search for meaning" sits inside it and the whole name fits.
+**`{Book}: Summary and Key Ideas | Achology`**, the book's name first because it is the focus keyword and the title must carry it verbatim. Where that runs past 60 characters the ending `| Achology` drops (`{Book}: Summary and Key Ideas`, 12 of the 65); where the book's name itself carries a long subtitle the keyword's own form of the name is used (`Creating Minds`, not the fifty word subtitle), which is what the record's keyword already is. One book keeps its first word although the keyword starts later in the name: `Man's Search for Meaning: Summary and Key Ideas | Achology`, because "search for meaning" sits inside it and the whole name fits. One book's name is so long that even the bare pattern passes 60, so it takes the shortest tier, `Recovering from Emotionally Immature Parents: Summary` (53); every other title carries the full phrase.
 
 ## Applied to 62 of the 65, held on 3
 
