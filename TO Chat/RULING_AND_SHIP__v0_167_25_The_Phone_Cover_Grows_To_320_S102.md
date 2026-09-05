@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The 320 phone cover cap is written into DSRD 9 section 32.3's phone cover row, superseding the S086 256 guard, with Code's named finding about the small uploaded covers carried beside it as a factory cover run rather than a theme edit. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.25, the book note cover grows to 320 wide on a phone
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The centred phone cover and the badge at the right end of the button row are written into DSRD 9 section 32.3 (the phone cover row and the tier table). The 256 cap it kept was opened to 320 one ship later. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.24, on a phone the book note hero centres the cover and the badge stands in the bottom right corner
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.

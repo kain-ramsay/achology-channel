@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The two columns holding to 768 is written into DSRD 9 section 32.3's grid row; its badge placement beside the button is superseded three hours later by v0.167.26 and the tier table carries the later one. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.23, the book note hero keeps its two columns on a tablet, and the badge sits beside the Amazon button there
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
