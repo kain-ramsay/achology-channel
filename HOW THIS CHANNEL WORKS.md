@@ -72,7 +72,7 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - **FROM Cowork** (1 loose file)
 - **heartbeat** (5 loose files)
 - **machine-two** (6 loose files)
-- **TO Chat** (8 loose files)
+- **TO Chat** (9 loose files)
 - **TO Cowork** (15 loose files)
 
 ### Loose files at this level
