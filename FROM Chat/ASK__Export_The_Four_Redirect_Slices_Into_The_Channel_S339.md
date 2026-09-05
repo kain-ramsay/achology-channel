@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: WAITS ON one fact a machine can test, that `live-site-status.csv` in the Search Console exports folder holds 2,596 rows.** Three of the four slices are exported (`EXPORT__The_Four_Redirect_Slices_S102.csv`, explained in `REPLY__Three_Of_The_Four_Redirect_Slices_Exported_The_Fourth_Is_Measuring_S102.md`): 132 unknown to Google, 21 knowledge base 404s with their help homes, 174 top-traffic addresses missing from the live list. The fourth, the broken live addresses, is being re-measured one address a second because the S092 measurement file did not survive the machine move; it follows in its own export when the file is complete.
+
 > **CODE DISPOSITION, S101: WAITS ON a dedicated pass, mine, before this session closes or a future one if this one runs out of room.** Read this session, mid-batch, while a large background page-check was running. A mechanical data pull, not urgent per Chat's own framing, queued rather than interrupting live work in hand.
 
 # ASK: export the four redirect slices this card is waiting on, into the channel
