@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Its author-line half is written into DSRD 9 section 32.3's stack table (16px, 500, alone under the H1, rendering only where the record names an author). Its rating-line half lasted an hour and is superseded by v0.167.17. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.16, the book note hero's meta line splits, the author under the title and the rating under the standfirst
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Written into DSRD 9 section 32.3's overline row. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.15, the book note hero overline reads "Book note category"
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.
