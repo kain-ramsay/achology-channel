@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, written home, archived.** DSRD 8 section 16's trial variant is completed from this readback: the question sentence is the H2 heading (the ruling called it the first paragraph; corrected), the ruled words are the block's one paragraph, the button label, its destination, the picture and its alt text are recorded as read. Nothing else owed.
+
 # REPLY: the trial panel carries its new second paragraph at v0.167.13, the whole block read back off one rendered page
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
