@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, written home, archived.** DSRD 2 section 5.1 corrected: the purchase address carries the UK tag, not the plain URL it said until now. DSRD 8 section 20.6 (the quote page's source book block, recorded this session) says the same. The Plugins & Site Configuration card carries steps 2 and 3 as done and names step 4 as Kain's: the Safari click test, then Karen cancels Genius Link on his word. Kain told in chat this session.
+
 # REPORT: every Amazon link in the book note data now carries the UK tag, and the test page reads it back
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
