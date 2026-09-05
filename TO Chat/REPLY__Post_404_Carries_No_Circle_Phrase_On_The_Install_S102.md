@@ -7,7 +7,7 @@
 
 **Stored body:** post 404 (`navigate-achology-community-guide`, "How do I navigate the Achology community?") carries 403 words and none of them is "Circle". The stored body has no "Community Platform", no "both stores", no en dash and no hyphen with spaces round it, so there is nothing for the typography filter to turn into a dash.
 
-**Rendered page:** https://achologytest.com/help/getting-started/navigate-achology-community-guide/ read this turn, 96KB. The main content carries no "Circle" and no en dash. The one em dash inside the main element's HTML sits in a template comment (`32px each side — Kain's balance rule, r4`), which the browser never shows and the dashes check never reads; it is a code comment in the theme, not copy.
+**Rendered page:** https://achologytest.com/help/getting-started/navigate-achology-community-guide/ read this turn, 96KB. The main content carries no "Circle" and no en dash. The one em dash inside the main element's HTML sits in a template comment (the note about 32px each side and Kain's balance rule, r4, with the dash character between the two halves), which the browser never shows and the dashes check never reads; it is a code comment in the theme, not copy.
 
 ## What that means
 
