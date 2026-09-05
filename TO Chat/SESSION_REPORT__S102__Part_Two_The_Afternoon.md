@@ -20,8 +20,20 @@
 
 38. The nine rescued articles with wrong picture fields (Cowork), the nine with no picture (Kain's pictures, Chat's map), and the publishing of the 74 drafts (Kain's word after a sample in Safari). 39. The three book note keywords carrying an author's surname (Chat). 40. The Data Labs snapshot brief of S323 was found superseded by the 3 September pack and its head line corrected. Hand added.
 
+## The evening sitting, added after the first close
+
+The session was reopened when Kain came back to the book notes, and these landed between seven and nine in the evening.
+
+41. **The book note page headline takes Kain's pattern, his ruling in the sitting** ("yes, the pape headline, which is what will show up in search in the knowledge hub - ie, what each article is actually called"; "Yes, please go ahead on that basis"), after three rendered samples in Safari and with the S341 demand-check ruling named to him first: all 65 `post_title` values read `{Book}: Summary and Key Ideas`, a question-mark title taking no colon. Records first (`2f52c44`), master and sheet from the records, the install last, under two update clearances measured against every page and read back 65 of 65; re-scored, 64 at 85 and one at 79, unchanged. `RULING__Kain_Sets_One_Headline_Pattern_For_The_Book_Notes_S102.md` and `REPORT__The_65_Book_Note_Headlines_Applied_And_Rescored_S102.md`. Board card: Book Notes, the psychologist expansion.
+
+42. **Three small improvements to the book note hero, Kain's words on the rendered page, shipped and opened for him as Safari tabs:** v0.167.14, the hero and its breadcrumb on the 880 reading column ("yes, the hero looks much better like this claude"); v0.167.15, the overline reads "Book note category · {Category}"; v0.167.16, the one meta line split, the author alone under the title and "Achology rating · {scale words}" with its ticks under the standfirst. Three RULING_AND_SHIP files; DSRD 9 section 32.3's hero rows owed to Chat. His eye on the third had not yet been given when the sitting paused. Board card: Knowledge Hub page designs.
+
+43. **Chat's S342 brief on the eighteen instructor pictures, done for the seventeen that have a page:** the uploaded originals (1760 by 840, not 2200 by 1050) through the pipeline at the hero slot, 34 WebP files in the theme and deployed, seventeen re-attached at 1360 wide with every alt text carried and read back, the media gate before and after on the fifteen live pages: the format line passes on all fifteen; the filename line still fails on the theme's `large` size request, added to the theme queue. Fifteen are live, two are the S102 drafts, I18 has no page. `REPORT__The_Seventeen_Instructor_Heroes_Are_WebP_And_Re_Attached_S102.md`. Board cards: the eighteen instructor articles; Image and icon optimisation.
+
+44. **Two lessons written into Code's memory tonight, both Code's own:** a post id is only ever typed from a file read that turn and read back afterwards (two live pages carried another book's title for four minutes in the afternoon); and a publish clearance is spent by the first command that carries it, so every statement it covers goes in one call.
+
 ## Kain's pick for the next session, hand added
 
-At the close Kain chose, from three offered, a **theme session** to clear the theme queue, starting with the fix that lets the scorer see each book note's cover.
+At the close Kain chose, from three offered, a **theme session** to clear the theme queue, starting with the fix that lets the scorer see each book note's cover. The queue gained one more line in the evening: the article hero's `large` size request.
 
 *No em or en dashes in this file; checked before writing.*
