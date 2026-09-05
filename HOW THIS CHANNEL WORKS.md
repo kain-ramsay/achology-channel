@@ -68,11 +68,11 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 ### Subfolders
 
 - **Archive** (862 loose files)
-- **FROM Chat** (48 loose files)
+- **FROM Chat** (44 loose files)
 - **FROM Cowork** (2 loose files)
 - **heartbeat** (5 loose files)
 - **machine-two** (6 loose files)
-- **TO Chat** (5 loose files)
+- **TO Chat** (6 loose files)
 - **TO Cowork** (15 loose files)
 
 ### Loose files at this level

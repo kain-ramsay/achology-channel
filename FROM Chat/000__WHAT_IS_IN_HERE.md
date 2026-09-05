@@ -15,13 +15,12 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 
 ### Subfolders
 
-- **Archive** (418 loose files)
+- **Archive** (422 loose files)
 
 ### Loose files at this level
 
 - 000__WHAT_IS_IN_HERE.md
 - ADDENDUM__The_Footer_Sitting_Gains_The_CTA_Button_Contrast_S341.md
-- ANSWER_AND_RULING__The_Ten_Profile_Metadata_Sets_S335.md
 - APPROVED__A_Fifth_Chrome_Sitting_The_Author_Signature_Block_S303.md
 - ASK__Rename_The_Testimonial_Background_Image_Set_S339.md
 - AUTHORISATION__Publish_The_Eighteen_Instructor_Articles_S307.md
@@ -50,11 +49,8 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - NOTE__Prepare_Reviews_Page_Two_Rulings_For_Safari_Sitting_S278.md
 - NOTE__Sixty_Book_Notes_In_Production_Not_Yet_Ready_S306.md
 - NOTE__The_Fifteen_Category_Images_Exist_Checked_S338.md
-- NOTE__The_Pictures_Are_In_Start_The_Image_Brief_The_Count_Is_83_S341.md
 - NOTE__What_Governs_A_Component_With_No_Build_Sheet_S257.md
 - REPLY__Four_Of_Your_Files_Answered_And_One_Route_Fails_S336.md
-- REPLY__The_School_Label_Is_The_Themes_Fault_And_Two_Items_Carry_To_S342_S341.md
-- REPLY__Who_Runs_The_Article_Pages_Human_Chapters_And_The_Fold_Back_Is_Yours_S337.md
 - REPLY_AND_RULING__Yes_To_The_External_Link_Add_The_UKRLP_Line_Everywhere_S338.md
 - RULING__Install_Kits_Plugin_And_Run_Both_Checks_S311.md
 - RULING__Old_Articles_First_And_Ask_Kain_The_Tier_Yourself_S318.md
