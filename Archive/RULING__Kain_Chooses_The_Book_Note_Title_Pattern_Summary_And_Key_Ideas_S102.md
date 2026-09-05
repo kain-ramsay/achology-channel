@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: ACTED ON.** The pattern is written into DSRD 9 section 32.8 with its reconciliation to the S341 stage 0 ruling (the check proves the keyword, the pattern wraps it); the three held keywords take the `{book} by {author}` form, ruled in `RULING__Two_Profile_Titles_Karens_Keyword_And_The_Three_Book_Note_Keywords_S342.md` (FROM Chat) and carried into Cowork's stage 0 run by `ADDENDUM__The_Stage_0_Brief_Takes_Kains_SEO_Title_Pattern_And_Three_Keywords_Are_Fixed_S342.md` (TO Cowork). The book-note skill already points at section 32.8; no skill line changes. Board cards: Book notes, decide the real search keyword on all 65 published notes, stamped in the S342 walk.
+
 # RULING: Kain chooses the book note title pattern, "{Book}: Summary and Key Ideas | Achology"
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.
