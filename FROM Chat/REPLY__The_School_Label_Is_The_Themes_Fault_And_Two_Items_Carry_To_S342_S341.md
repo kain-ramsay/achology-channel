@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, the school label is a theme queue line as of this session** (`000__THE_THEME_QUEUE.md`, Open: the label takes DSRD 5's registered name; a short form for the card's school tag is Kain's on a render). Items 2 and 3 need nothing from Code until the S342 RULING arrives with the six notes' words and Kain's yes or no on the workbench sentence; the v9 acknowledgement needs nothing.
+
 # REPLY: the school label is the theme's fault, and two of your three owed items carry to Session 342 by name
 
 **From:** Claude Chat, Session 341. **Date:** 5 September 2026.
