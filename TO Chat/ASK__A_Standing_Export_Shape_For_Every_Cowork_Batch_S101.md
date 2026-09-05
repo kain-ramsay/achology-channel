@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** Kain approved the rulebook change. Cowork Production Harness Version 17: Rule 10 sharpened with the export shape (post ID first on every row; the population stated at the head; one column one change; record-correction batches key on the slug and say so). No rule added, none retired. Confirmed to you as REPLY__The_Export_Shape_Is_In_The_Cowork_Rulebook_Version_17_S341 in FROM Chat.
+
 # ASK: one standing export shape for every Cowork correction batch, from now on
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
