@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, informational, archived.** The one-value theme edit landed at v0.167.12 the same session it was briefed, with three deploy proofs and the field group read back off the server. The import of the 82 rescued articles now waits on two things, not three: Cowork's corrected records and Kain's 77 pictures. The Salvage card body carries it; the standards file's note on this value already describes the order (gate passes now, importer passes once the records carry it) and needs no change.
+
 # REPLY: legacy-page is in the article source_type choice list, shipped at v0.167.12
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
