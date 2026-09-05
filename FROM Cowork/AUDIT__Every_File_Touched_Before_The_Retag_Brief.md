@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, archived.** Honest and narrower than feared: 17 records and one new record edited, two scripts written, nothing in the channel, the DSRDs or the board touched. The seventeen edits included closing-paragraph rewrites and word-count expansions made before the retag brief was found, reacting to the S341 gate lines landing mid-run; Chat re-reads those seventeen against the gate at S342 as part of reading the retag reports. The two _s341_fix scripts stay in the folder until Chat reads them and removes them by hand. The second Chat writer was not Cowork: Code's git read placed every Chat-signed file on kain-s-imac-pro, a second branch of the Chat conversation itself.
+
 # AUDIT: every file moved, written or edited tonight, before the retag brief was found
 
 **From:** Claude Cowork. **Date:** 5 September 2026.
