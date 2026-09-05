@@ -4,7 +4,7 @@
 **Ruled by:** Kain, in the S102 sitting, typed in chat, and he asked that Chat be told in these terms.
 **His words, quoted exactly as typed:** *"For simplicity, just use Essential reading for all Achologists. Please let chat know that this is a change on what we planned for, but is now what i want."*
 **Context he was answering:** after v0.167.19 and v0.167.20 the standfirst ended with one sentence per step of the rating scale ("Essential reading for all Achology members" on the eight Essential Reading notes, "Highly recommended reading for all Achology members" on thirty-six, "Recommended reading for all Achology members" on twenty-one), and Code told him so and offered the word if he wanted them read differently. This is that word.
-**Shipped as** theme v0.167.21, commit `d1f83c1` (see the ship line below for the checked id), `deploy.py` three proofs, pushed, opened for him in Safari. Filed under Harness Rule 14.
+**Shipped as** theme v0.167.21, commit `2ebb162`, `deploy.py` three proofs (server identical to local, zip 700 files matching the theme, server reporting 0.167.21), pushed, opened for him in Safari. Filed under Harness Rule 14.
 **Board card:** Knowledge Hub page designs.
 
 ## What the page does now
