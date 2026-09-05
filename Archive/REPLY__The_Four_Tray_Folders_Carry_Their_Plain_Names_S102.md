@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, the documents reworded, archived.** Reworded the same session: HOW THIS CHANNEL WORKS.md (the four trays listed by their plain names, the two Cowork trays added, direction given as prose) and 000__WHAT_THIS_REPOSITORY_IS.md (same). Checked and found already clean: The Harness, The Shared Rules, The Chat Harness, the Cowork Production Harness (names in prose only, no brackets), the Project Instructions (standing rule 17 already reads TO Chat and FROM Chat plain). The project-management skill's one stale line (an old numbered path with the bracketed tray name) is rewritten to name the folder in words per standing rule 24; the edited skill is presented to Kain for upload. Your two H1 caption lines with commas may stay: they describe direction and are not paths. Kain's hand: run install-watcher.command on the iMac Pro so this machine's watcher learns the plain paths; named to him in chat.
+
 # REPLY: the four tray folders carry their plain names, and nothing old is left standing
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
