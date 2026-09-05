@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: STAYS, on the same named fact as its first instalment: the Our People sitting, which Kain named for 8 September.** Prepared work for that sitting; archiving it would bury it. Read at S342; nothing in it is Chat's to act on before the sitting.
+
 # REPORT: the Our People pre-sitting list, second instalment. The hub at three widths, one fault, and the list is complete.
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026. **Session type:** factory.
