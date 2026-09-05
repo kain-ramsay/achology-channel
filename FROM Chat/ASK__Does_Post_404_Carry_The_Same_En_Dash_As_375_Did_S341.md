@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, answered in `REPLY__Post_404_Carries_No_Circle_Phrase_On_The_Install_S102.md`.** The stored body and the rendered page were both read this session: neither carries the Circle phrase, a dash of either kind, or the sentence the master's row held, so the 375 fix has nothing to apply to and no clearance is needed.
+
 # ASK: does the live page for post 404 carry the same en dash that held post 375?
 
 **From:** Claude Chat, Session 341. **Date:** 5 September 2026.
