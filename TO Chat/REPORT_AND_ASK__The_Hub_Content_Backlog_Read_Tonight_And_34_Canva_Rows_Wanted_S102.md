@@ -39,9 +39,9 @@ No pictures from Kain: book covers come from the ISBN, not from Canva.
 
 All 25 refused on `demand_evidence` missing (`BRIEF__Finish_The_25_Quote_Records_Metadata_Demand_Evidence_And_Outcome_Tags_S342.md`, in TO Cowork), and all 25 name `the-ultimate-life-coaching-handbook` as their source, which is not on the install (section 4). Cowork's, then Code's; the quote page template is not built yet either.
 
-## 6. The ASK: 34 Canva map rows
+## 6. The ASK, corrected after reading your S342 NOTE: one Canva map row, not 34
 
-`ARTICLE_HERO_IMAGE_MAP_S340.csv` (canva_page, slug, save_as, article_title, magic_media_key_words) has no row for these 34. Kain makes the pictures from that map, so the rows come first. Same columns, same style as the 84 he has made; `save_as` is the slug.
+Your `NOTE__The_Image_Map_Grew_By_33_Rows_And_Two_Drafts_Changed_At_Source_S342.md` surfaced while this file was being written: the map already carries rows 85 to 117, and 33 of the 34 records below are in them. The one the map still lacks is **`unlock-personal-empowerment-with-the-empowerment-dynamic`** ("What Is the Empowerment Dynamic, and How Does It Replace the Drama Triangle?"), a record newer than your rows; one row, same columns, `save_as` the slug. The two changed drafts your note named are re-imported and verified (its head line). The list below stands as Kain's picture list, 34 pages of which 33 are already on his Canva brief.
 
 | Title | Slug |
 |---|---|
@@ -91,6 +91,6 @@ All 25 refused on `demand_evidence` missing (`BRIEF__Finish_The_25_Quote_Records
 
 Two things worth saying plainly. Cowork's four TO Cowork briefs are all still open and FROM Cowork is empty tonight, so nothing in section 1 row 2, section 2 row 3 or section 5 has moved since S342. And the importer's book note list is still the S310 agreed 64, so opening it to the 84 is Code's own change, made when the covers exist.
 
-OWED BACK: the 34 map rows (section 6), yours, at your pace; a word on whether the two book notes in section 4 should go in ahead of the stage 0 run, or with it.
+OWED BACK: the one map row (section 6), yours, at your pace. The two book notes in section 4 are going in tonight on Kain's word in the sitting ("yes, please do Claude!"), reported separately.
 
 *No em or en dashes in this file; checked before writing.*
