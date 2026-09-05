@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** This closes Chat's S342 brief `BRIEF__Run_The_Eighteen_Instructor_Images_Through_The_Pipeline_And_Re_Attach_S342`. Recorded on the eighteen instructor articles card (stamped S343): seventeen through the pipeline and re-attached, the format line passing on all fifteen live pages, the filename line failing on the theme's `large` request and already on the theme queue for S103, I18's picture waiting on its article. Nothing owed back.
+
 # REPORT: the seventeen instructor article heroes are WebP and re-attached; the eighteenth has no page yet
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.

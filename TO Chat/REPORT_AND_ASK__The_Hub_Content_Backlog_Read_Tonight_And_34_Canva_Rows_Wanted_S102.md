@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Answered by `REPLY__The_Map_Row_Is_Written_The_Record_Behind_It_Was_Skipped_And_Your_Blitz_Order_Stands_S343` in FROM Chat: the one map row is written (row 118); the record behind it is the SKIPPED row 110 and is now unskipped with a Cowork brief and a gate carve-out; the blitz order stands as Chat's call. The card facts are recorded on the 154 earning old articles card (stamped S343).
+
 # REPORT AND ASK: the Knowledge Hub content backlog, read off the records and the install tonight, and 34 Canva map rows wanted
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
