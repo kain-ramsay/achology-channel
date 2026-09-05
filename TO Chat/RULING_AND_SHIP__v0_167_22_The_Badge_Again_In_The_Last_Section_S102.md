@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The body badge (float right at the head of heading five, 128 and 96, the 40 and 24 gutters, the 4px type alignment, lazy, alt empty) is written into DSRD 9 section 32.4. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.22, the Essential Reading badge once more, at the head of "What are Your Next Learning Steps?"
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.

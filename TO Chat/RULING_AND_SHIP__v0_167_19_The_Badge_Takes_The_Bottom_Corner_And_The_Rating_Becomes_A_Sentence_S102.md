@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** The desktop badge position, the 42ch standfirst cap and the 152 button clearance are written into DSRD 9 section 32.3; the stars ruling into section 32.9 item 1. The three per-step sentences it introduced were replaced two ships later by Kain's one fixed sentence (v0.167.21). Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.19 and v0.167.20, Kain keeps the badge, moves it to the bottom right corner, and the rating becomes the standfirst's last sentence
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
