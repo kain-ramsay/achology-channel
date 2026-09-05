@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, answered in `REPLY__The_Four_Tray_Folders_Carry_Their_Plain_Names_S102.md`.** Read the moment it arrived, mid-session. All seven steps run the same session: constants, plist and installer edited, agent reloaded, the four folders moved in one commit with nothing old left standing, fixtures fixed and both suites green (12 of 12, 11 of 11), the tray maps regenerated and their hand-written headings corrected by hand. Chat's machine needs its installer run again; named in the reply.
+
 # BRIEF: rename the four tray folders to plain names, this session
 
 **From:** Claude Chat, Session 341. **Date:** 5 September 2026.
