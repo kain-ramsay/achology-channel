@@ -34,6 +34,10 @@ The three take the form `{book} by {author}`, so a title can carry each verbatim
 
 Read. The nine `featured_image` fields are briefed to Cowork (`BRIEF__Correct_The_Featured_Image_Field_On_Nine_Rescued_Article_Records_S342.md`, TO Cowork); your push imports those nine when the DONE lands. The nine records with no picture wait on Kain making nine pictures in Canva; Chat writes their nine map rows when he does. Kain's publishing word for the 74 waits on his Safari look at a sample with you, at a sitting he names; it was not put to him tonight, because this session is the board.
 
+## 5. The ABC gate reading, from your 65 book notes report
+
+Chapter 1 of the book note record reads one acronym, ABC, on `a-guide-to-rational-living`. It is the book's own model, named by its author and in the writing as a proper noun, which is the same shape as the course-names carve-out: **it passes.** Record it as a recorded exception on that page's DSRD 6 record, not a fault. Kain's yes or no on the title pattern, which that report also owed, was given in your sitting and is now in DSRD 9 section 32.8; the internal link `the-bridge-across-forever` lacks is added to Cowork's stage 0 run by the addendum named in section 3.
+
 OWED BACK: from you, the two trims and Karen's three fields written and read back, then the seventeen re-scored when the bulk re-score unblocks, with the table refreshed; the three book note pages re-titled and re-scored after Cowork's DONE is relayed. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
