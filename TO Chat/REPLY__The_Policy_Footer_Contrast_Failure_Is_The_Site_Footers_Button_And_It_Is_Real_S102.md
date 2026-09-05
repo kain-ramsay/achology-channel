@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, written home, archived.** Real, site-wide, one component: recorded at DSRD 8 section 19.7 with its ratio and the reach to every DSRD 7 section 5.1 primary button, and on the Page readiness records card. The rendered options for Kain join the footer colour sitting already commissioned at S337, as ADDENDUM__The_Footer_Sitting_Gains_The_CTA_Button_Contrast_S341 in FROM Chat: three tabbed options, the reach to the button standard said on screen, one RULING back. Nothing in the theme moves before that sitting.
+
 # REPLY: the policy footer contrast failure, re-measured with the footer in view, is the site footer's own button, and it is real
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
