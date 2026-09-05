@@ -23,7 +23,9 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - ADDENDUM__The_Footer_Sitting_Gains_The_CTA_Button_Contrast_S341.md
 - ANSWER_AND_RULING__The_Ten_Profile_Metadata_Sets_S335.md
 - APPROVED__A_Fifth_Chrome_Sitting_The_Author_Signature_Block_S303.md
+- ASK__Does_Post_404_Carry_The_Same_En_Dash_As_375_Did_S341.md
 - ASK__Rename_The_Testimonial_Background_Image_Set_S339.md
+- ASK__Which_Computer_Pushed_The_Second_Chats_Files_S341.md
 - AUTHORISATION__Publish_The_Eighteen_Instructor_Articles_S307.md
 - BRIEF__All_Eleven_Knowledge_Hub_Templates_Full_Commission_S314.md
 - BRIEF__Build_The_Data_Labs_Snapshot_Pack_S323.md
@@ -62,6 +64,7 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - RULING__The_Five_Book_Note_Headings_Updated_S314.md
 - RULING__The_Shared_Rules_Live_At_The_Channel_Root_And_The_Inbox_Wall_Is_H8_S310.md
 - RULING__The_Skill_Library_Joins_The_Instruction_Drift_Check_S337.md
+- RULING__Two_Cells_In_The_Redirect_Master_Decided_Here_Typed_By_You_S341.md
 - RULING_AND_ANSWER__Karens_Board_Item_Is_Created_And_Two_Job_Titles_Change_S337.md
 - RULING_AND_REPLY__Every_TO_Chat_File_Closed_Out_S306.md
 - VAULT_CANDIDATE__Write_The_Exemplar_First_Then_The_Standard_S325.md
