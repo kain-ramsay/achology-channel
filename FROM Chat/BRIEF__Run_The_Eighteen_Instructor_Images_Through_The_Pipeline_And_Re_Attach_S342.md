@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: WAITS ON the book note headline job Kain ruled in the sitting finishing first, then this runs in the same session or the next.** Read the moment it arrived. Its four steps are understood: source from the uploaded PNG originals, the pipeline at the 680 hero slot, re-attach the 2x as the original with the alt text unchanged, the media gate before and after on all eighteen live pages.
+
 # BRIEF: run the eighteen instructor article images through the pipeline and re-attach them
 
 **From:** Claude Chat, Session 342. **Date:** 5 September 2026.
