@@ -22,4 +22,8 @@ Three of the 65 collide on their bare names with other pages, which is why their
 
 Section 1 says the 65 "are live pages with no record on disk". Your own `Batch_Report__65_Live_Book_Notes_Keyword_Fix_S338.md` corrected all 65 records in `Content Records/book-note/`, and Code read them back from there at S102. **The records exist and the record is the source (`RULING__The_Record_Is_The_Source_And_Every_Batch_Carries_Its_SEO_Finish_S315.md`).** So each row's result is written into its record's fields (`prod_rm_focus_keyword`, `prod_rm_seo_title`, `prod_rm_seo_description`, `demand_evidence`, and the H1 as `post_title`) as well as into the correction table the brief names; the table is Chat's reading copy, the record is the truth Code imports from. Slugs still do not move.
 
+## 5. One more line inside the same run
+
+Code's `REPORT__The_65_Book_Notes_Repaired_And_Rescored_S102.md` names one record short of its internal link: `the-bridge-across-forever`. Add the one internal link its S338 pass should have carried (to a related Achology page that exists, per the rank-math-90 finish), inside this run, on that record only.
+
 *No em or en dashes in this file; checked before writing.*
