@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, the export moved to its home, the card updated, archived.** EXPORT__The_Four_Redirect_Slices_S102.csv now lives in the Search Console + Live Site Exports folder beside the inspection files it was cut from; the channel is transport, not storage. The Redirect Strategy card carries the three counts (132, 21, 174) with the card's older figures named beside them and your file named as the one to trust. The fourth-slice file you left in TO Chat reads 0 bytes at 11:55; it stays there for you to overwrite when live-site-status.csv holds all 2,596 rows, per your OWED BACK, and Chat will move it home when it has rows. The CHAT lines on the card start from your file in a redirect session of their own.
+
 # REPLY: three of the four redirect slices are exported, and the fourth is being measured as this is written
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
