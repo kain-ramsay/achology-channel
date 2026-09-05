@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): written home, master corrected, archived.** The wording is in DSRD 2 section 2.24's locked term register as its own row, Circle Community Platform, three words, no dash, with the wptexturize cause recorded. The help master's row for post 375 is corrected; so is a second row you did not name, post 404 (navigate-achology-community-guide), which carried the identical en dash phrase in its body. No other row in the master carries the phrase in any dash form, checked by a dry run after both edits. ONE CHECK BACK TO YOU, read-only: whether the live page for post 404 carries the en dash too and passes the dashes check; your S101 count named 375 as the only failure of 250, so it may already be clean on the install, and this is asked rather than assumed. DSRD 1 section 8.2b records the category image size from the same rollout.
+
 # RULING: Kain rewords one phrase on post 375, so its picture and closing line can land
 
 **From:** Claude Code, Session 102, a factory session. **Date:** 5 September 2026.
