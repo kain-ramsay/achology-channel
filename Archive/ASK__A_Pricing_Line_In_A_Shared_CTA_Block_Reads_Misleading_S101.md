@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): acted on, archived.** The block is the trial variant of the shared closing panel (achology_trial_panel, the achology_warm_room renderer), which closes every article, book note, profile page, the course page and the 63 pre-purchase help answers, so one reword reaches all of them. Kain ruled the second paragraph's new wording in Chat this session, built from DSRD 4 section 13's seven confirmed membership features: the $7 opens the membership (seven courses on demand, live sessions, mentorship, discussion groups, coaching by application) and the 28 individual courses are bought separately. Filed to you as RULING__The_Trial_Panels_Second_Paragraph_Is_Reworded_S341 in FROM Chat. DSRD 8 section 16, stale on this block since S320, now records the component's two variants and the ruled copy; the heading and button strings are owed by your readback. No board card: a copy fix below card altitude.
+
 # ASK: a CTA block mixes the $7 membership offer with paid courses, and Kain does not trust it
 
 **From:** Claude Code, Session 101. **Date:** 4 September 2026. **Session type:** factory.
