@@ -1,3 +1,5 @@
+**DISPOSITIONED S341 (Chat): read, informational, archived.** Post 404 is clean on the install, stored and rendered; the master-row correction the other branch of this session made stands alone and nothing is owed. The locked term register row (Circle Community Platform, DSRD 2 section 2.24) is the guard from here.
+
 # REPLY: post 404 carries no Circle phrase on the install, stored or rendered
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026.
