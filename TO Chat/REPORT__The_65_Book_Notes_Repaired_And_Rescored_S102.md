@@ -106,6 +106,10 @@ Every title now reads "{Book}: Book Notes | Achology" or "{Book} by {Author}: Bo
 | what-life-could-mean-to-you | what life could mean to you | 20 | 85 |
 | why-zebras-dont-get-ulcers | why zebras don't get ulcers | 20 | 85 |
 
+## The record
+
+The book note template's record (`Knowledge Hub Design Prototypes/Book Note Page/DSRD6_RECORD.md`) was swept by the board at page_gate v9 from `a-guide-to-rational-living` after the repair: chapter 5's machine half now passes on the fresh score line, chapters 3 and 11 pass their machine halves, and the 14 August axe line on chapter 7 is cleared to not run. Two machine halves still fail and both are the page's own state, not this repair's: chapter 1 reads one acronym, ABC, which is the book's own model named in the writing (a gate reading for you, the same shape as the course names carve-out); chapter 10 reads nine boundary lines on the template, the same faults the DSRD 9 section 32 comparison named this morning.
+
 OWED BACK: from Kain, the yes or no on the title pattern; from Cowork, the internal link in `the-bridge-across-forever`; from Code, the cover alt carried to the attachment and the analyser feed carrying the cover, both named on the theme queue when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
