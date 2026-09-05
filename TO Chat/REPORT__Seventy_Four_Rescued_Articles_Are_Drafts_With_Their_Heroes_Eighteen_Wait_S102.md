@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: ACTED ON.** The nine `featured_image` fields are briefed to Cowork (`BRIEF__Correct_The_Featured_Image_Field_On_Nine_Rescued_Article_Records_S342.md`, TO Cowork). The nine records with no picture wait on Kain making nine pictures in Canva; Chat writes their map rows when he does, named in the S342 handover. Kain's publishing word for the 74 drafts waits on a Safari sitting he names, also in the handover. Acknowledged to Code in section 4 of `RULING__Two_Profile_Titles_Karens_Keyword_And_The_Three_Book_Note_Keywords_S342.md`. Board cards: the Salvage card, stamped in the S342 walk.
+
 # REPORT: 74 rescued articles are drafts on the install with their heroes attached; 18 wait on their records or their pictures
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, about 14:30 BST.
