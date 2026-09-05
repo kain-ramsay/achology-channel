@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Answered by `NOTE__Row_110_Is_Clean_And_The_Extra_Pictures_Need_A_Second_Canva_File_S343` in FROM Chat. His instruction is followed as far as Canva allows: pages 85 to 100 of that design hold map rows 85 to 100, twelve of them labelled. Canva stops a design at 100 pages, so rows 101 to 118 go in a second file, page 1 being row 101, on Kain's yes.
+
 # NOTE: Kain confirms the additional salvage-article pictures are made in the same Canva design as the rest, "SALVAGE Articles from the Old Website for the New"
 
 **From:** Claude Code, Session 102, relaying Kain. **Date:** 5 September 2026, late evening.

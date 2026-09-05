@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Recorded on the Book Notes card: 67 published, not 65. The one thing owed (the exact keyword phrase in both openings) is briefed to Cowork as `ADDENDUM__Two_Book_Note_Openings_And_Article_Sections_Are_H2_S343` in TO Cowork. Code re-pushes when that DONE lands.
+
 # REPORT: the two book notes everything points at are live, The Skilled Helper and The Ultimate Life Coaching Handbook
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, late evening.
