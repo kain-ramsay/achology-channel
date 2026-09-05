@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S342: ACTED ON.** The two title trims (Chat's copy) and Karen's keyword (Kain's yes: `Karen Ramsay`, metadata only) are ruled in `RULING__Two_Profile_Titles_Karens_Keyword_And_The_Three_Book_Note_Keywords_S342.md` (FROM Chat). Board cards: the Our People page card, stamped when its area is walked; the ruling file is the record until then.
+
 # REPORT: the seventeen profile pages carry their metadata, and their stored scores are read back
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026.
