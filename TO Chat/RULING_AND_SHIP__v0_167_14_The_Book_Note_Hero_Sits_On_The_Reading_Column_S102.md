@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Written into DSRD 9 section 32.2 (the breadcrumb and hero on the 880 column, superseding the 1104 sentence) with a register row. Card: Book note page template second look.
+
 # RULING AND SHIP: v0.167.14, the book note hero and its breadcrumb sit on the 880 reading column
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.

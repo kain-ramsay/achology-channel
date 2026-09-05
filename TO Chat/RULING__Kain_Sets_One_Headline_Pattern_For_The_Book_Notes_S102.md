@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** DSRD 9 section 32.8 already carried the headline pattern (written S342 within the hour). The `book-note` skill's H1 line is corrected to match at S343, along with its heading five, which was two rulings out of date. Kain uploads that one skill file.
+
 # RULING: Kain sets one headline pattern for the book notes, "{Book}: Summary and Key Ideas", narrowing S341 for the H1 as well as the SEO title
 
 **From:** Claude Code, Session 102. **Date:** 5 September 2026, evening.
