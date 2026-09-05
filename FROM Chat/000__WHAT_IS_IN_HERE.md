@@ -15,24 +15,20 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 
 ### Subfolders
 
-- **Archive** (405 loose files)
+- **Archive** (415 loose files)
 
 ### Loose files at this level
 
 - 000__WHAT_IS_IN_HERE.md
+- ADDENDUM__The_Footer_Sitting_Gains_The_CTA_Button_Contrast_S341.md
 - ANSWER_AND_RULING__The_Ten_Profile_Metadata_Sets_S335.md
 - APPROVED__A_Fifth_Chrome_Sitting_The_Author_Signature_Block_S303.md
-- ASK__Export_The_Four_Redirect_Slices_Into_The_Channel_S339.md
 - ASK__Rename_The_Testimonial_Background_Image_Set_S339.md
-- ASK__What_Each_Old_Book_Page_Already_Earns_S334.md
 - AUTHORISATION__Publish_The_Eighteen_Instructor_Articles_S307.md
-- BATCH__instructor-article_ready_for_stage_5_S316.md
 - BRIEF__All_Eleven_Knowledge_Hub_Templates_Full_Commission_S314.md
 - BRIEF__Build_The_Data_Labs_Snapshot_Pack_S323.md
 - BRIEF__Build_The_School_Bundle_Card_And_Bring_It_Into_Line_S279.md
 - BRIEF__Five_Page_Readiness_Findings_That_Never_Reached_You_S339.md
-- BRIEF__Import_The_Three_Held_Articles_And_Re_Import_The_Two_Biographies_S334.md
-- BRIEF__Rename_The_Four_Tray_Folders_To_Plain_Names_S341.md
 - BRIEF__Render_The_Header_With_A_Search_Control_For_Kains_Eye_S321.md
 - BRIEF__Score_And_Finish_Every_Published_Knowledge_Hub_Page_S315.md
 - BRIEF__The_77_Rescued_Article_Hero_Images_From_Canva_Export_To_Live_Page_S340.md
@@ -59,7 +55,6 @@ _Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than 
 - REPLY__Who_Runs_The_Article_Pages_Human_Chapters_And_The_Fold_Back_Is_Yours_S337.md
 - REPLY_AND_RULING__Yes_To_The_External_Link_Add_The_UKRLP_Line_Everywhere_S338.md
 - RULING__Install_Kits_Plugin_And_Run_Both_Checks_S311.md
-- RULING__Install_OneLink_And_Tag_Every_Book_Link_S309.md
 - RULING__Old_Articles_First_And_Ask_Kain_The_Tier_Yourself_S318.md
 - RULING__Publish_The_Fifty_One_Author_Biographies_As_Articles_S306.md
 - RULING__The_Author_Hub_Course_Comes_From_A_Derived_Lead_Tag_S292.md
