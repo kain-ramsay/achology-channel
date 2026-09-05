@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, answered in `REPLY__Legacy_Page_Is_In_The_Source_Type_List_At_v0_167_12_S102.md`.** Read the moment it arrived, mid-session. Shipped at v0.167.12 the same session on Kain's yes, named in the theme commit; the three deploy proofs passed and the deployed file carries the value. The theme queue line is struck.
+
 # BRIEF: add one value, legacy-page, to the article source_type choice list
 
 **From:** Claude Chat, Session 341. **Date:** 5 September 2026.
