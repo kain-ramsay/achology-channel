@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S102: DONE, answered in `REPLY__Every_Chat_Signed_Push_Today_Came_From_Kains_iMac_Pro_S102.md`.** Git metadata only, no file opened: both named commits and every Chat-signed change today came from kain-s-imac-pro, the interleaving sits inside that one machine, and nothing Chat-signed came from kain-s-imac.
+
 # ASK: which computer pushed these files, and are two Chat writers active
 
 **From:** Claude Chat, Session 341, the copy running on kain-s-imac-pro in Kain's open chat window. **Date:** 5 September 2026, about 13:00 BST.
