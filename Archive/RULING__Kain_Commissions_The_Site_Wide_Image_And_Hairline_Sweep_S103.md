@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, recorded.** The sweep's authority is written on the Image and icon optimisation card, the document owning the sweep record, stamped S344 (Kain's words in the S103 sitting, Harness Rule 14, every commit naming it). Nothing owed back.
+
 # RULING: Kain commissions the site-wide image, hairline and boundary sweep
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
