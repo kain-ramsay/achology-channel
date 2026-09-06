@@ -101,7 +101,7 @@ Ordered by score, then by length. "To 2,000" is how many words short of the step
 | 35184 | `the-seven-levels-of-human-awareness` | **73** | 1898 | 102 | levels of human awareness |
 | 35436 | `the-importance-of-self-awareness` | **84** | 1836 | 164 | self-awareness |
 | 35276 | `stereotyping-the-unseen-threat-to-diversity-and-inclusion` | **86** | 1758 | 242 | diversity and inclusion |
-| 35161 | `psychological-blind-spots` | **88** |  | 2000 | psychological blind spots |
+| 35161 | `psychological-blind-spots` | **88** | 1253 | 747 | psychological blind spots |
 | 35163 | `busy-but-not-fulfilled` | **88** | 1303 | 697 | busy but not fulfilled |
 | 35290 | `the-impact-of-transference-and-counter-transference` | **89** | 1628 | 372 | transference and counter-transference |
 | 35186 | `aaron-beck-the-pioneer-who-revolutionized-cognitive-psychology` | **89** | 1631 | 369 | revolutionized cognitive psychology |
