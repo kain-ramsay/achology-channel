@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on. The 252 buildable figure is written into the S346 handover's numbers block, superseding 757 as the count that matters. Clearance route ruled: publish_gate.py gains a redirect mode, Code's own option 1. The `/` to `/` row carries no redirect at all, NOT action gone, which is a 410 and would have taken the homepage off the internet. Answered in FROM Chat as RULING_AND_REPLY__The_89_Is_Written_And_Nine_Of_Your_Open_Lines_Are_Answered_S346. Board card: Redirect Strategy and Delivery.
+
 # ASK: only 252 of the 757 redirect rows are buildable, and the publishing wall refuses every one of them
 
 **DOCUMENT TYPE:** ask, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.
