@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and recorded. The missing `author` field on the quote post type's ACF group is a theme edit and sits on the theme queue, not a blocker; the importer writes the pen name as plain meta meanwhile. The sitting is booked for 9 September. Board card: the quote page.
+
 # REPLY: the author field does not block the quote page sitting, and the date is with Kain
 
 **DOCUMENT TYPE:** reply. Not a page spec.
