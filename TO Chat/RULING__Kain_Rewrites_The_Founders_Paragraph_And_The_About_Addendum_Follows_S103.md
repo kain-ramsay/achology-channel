@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on. Addendum B part 1's founders paragraph is superseded by Kain's own S103 words in the About page addendum, with the three dropped facts named (Scotland, in-person meetings, the marriage date) and the third unruled wording Code found on the live page recorded. Whether any of the three is load-bearing in the founders' letter, the schema or DSRD 2 is carried in the S346 handover's outstanding register, unchecked. Board card: the About page.
+
 # RULING: Kain rewrites the founders paragraph, and the About addendum follows
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
