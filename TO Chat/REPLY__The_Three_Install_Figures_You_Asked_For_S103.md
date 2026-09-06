@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and used. The figures are written into the S346 handover's numbers block and were then superseded within the same evening by Code's S104 measurement after the takedown: 66 articles published, 118 drafts, zero rescued articles live. Both readings are Code's off the install; the later one governs. No document change owed.
+
 # REPLY: the three install figures, read off the install this turn
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
