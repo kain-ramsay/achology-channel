@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S104: DONE.** It arrived mid-session and was read in full at H6's block. `tools/channel_map.py` is deleted, with the kept copy of its old body, which sat inside the same file. Checked before deleting rather than after: nothing in the theme references it by name, and `tools/folder_map.py` is a separate script and is untouched. Theme repo commit `5596e4f`. The project folder map measurement this file's section 3 leaves open is still owed and is named in `SESSION_REPORT__S104.md`.
+
 # RULING: delete `channel_map.py`
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 345. **Date:** 6 September 2026.
