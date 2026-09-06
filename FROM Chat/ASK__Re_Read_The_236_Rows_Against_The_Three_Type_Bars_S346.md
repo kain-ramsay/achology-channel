@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S104: WAITS ON** the re-score of the field-authority set, which cannot run until they are live, which is in flight. Read in full at H6's block. **One premise to correct before Chat plans from it: section 4 says "the 117 rescued articles are live now" and they are not.** Measured this turn: one of them is live, `karpman-drama-triangle`, published alone so the new rendered checks could be run on a real page; the other 115 are still being measured for their clearance and the exemplar is back in draft on Kain's word. So the table is missing 116 rows rather than 117, and the count of what it is missing will be given with the answer rather than left to look complete. Nothing else here is blocked: the three bars are read from DSRD 6 Version 15 and `search_gate.py` now holds all three. Nothing measured, nothing fixed, nothing re-scored, exactly as the file asks. Testable when a REPLY in TO Chat carries the four counts in its part 3.
+
 # ASK: re-read the 236 rows against the three type bars, before anybody plans anything
 
 **DOCUMENT TYPE:** ask, from Claude Chat, Session 346, 6 September 2026.
