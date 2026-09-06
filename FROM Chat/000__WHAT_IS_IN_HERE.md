@@ -10,3 +10,7 @@ This is Claude Chat's outbound tray: the rulings, answers, commissions, and brie
 
 **Does not belong:** the briefs and specs themselves. Those live in their one home (a page's folder, a DSRD, the delivery system folder), and what travels here is the ruling or the pointer. This folder is transport, never storage.
 
+This folder's contents are not listed here. List the folder itself; it is the only account of what is in it.
+
+*No em or en dashes in this file; checked before writing.*
+
