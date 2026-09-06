@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, met.** The order it ruled was taken (the Salvage run, S335 onward); SearchWP was bought by Kain and installed at Code's S089. Nothing left in it. FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S088: WAITS ON** Kain's answer to the tier, which was put to him in the S088 sitting and is owed onto the Plugins and Site Configuration card. The ruling's first half needs nothing from Code: the order is Kain's and it is already his. The SearchWP install it feeds is blocked on the plugin zip, which is not on the Desktop, checked this session.
 
 # RULING: the old articles are salvaged first, before the eighty books. And ask Kain the tier yourself.
