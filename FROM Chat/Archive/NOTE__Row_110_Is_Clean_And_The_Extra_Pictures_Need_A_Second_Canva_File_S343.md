@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, superseded.** Kain made all 118 pictures himself the same evening and the second Canva file was never needed; the masters are on disk and the rename and pipeline pass is BRIEF__Rename_Kains_117_Salvage_Masters_And_Run_The_Whole_Set_Through_The_Pipeline_S343, which stays. FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S103: WAITS ON** the eighteen masters for map rows 101 to 118 existing as `{slug}.png` in the Article Page folder's `Page Images`. Until those files are there, those records cannot be imported with a hero, and the row 110 record cannot be imported at all. Read S103, a theme session; nothing in this file is theme work, so it waits for the next factory sitting as well as for Kain's second Canva file.
 
 # NOTE: row 110 is gate-clean and importable, and the extra salvage pictures need a SECOND Canva file, because Canva stops a design at 100 pages
