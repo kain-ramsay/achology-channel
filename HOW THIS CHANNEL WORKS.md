@@ -60,6 +60,6 @@ Belongs: messages between the two Claudes, and the harness documents that govern
 
 The Archive keeps its map, deliberately. Every other archive in the estate goes unmapped because nobody searches it. This one is the exception: live rulings and load-bearing facts land in it and are unfindable without one.
 
-*No em or en dashes in this file; checked before writing.*
+This repository's contents are not listed here, and neither are the trays'. List the folder itself; it is the only account of what is in it. The generated lists were removed at S345 on Kain's ruling, because a tray changes several times a day and a list regenerated only when a Code session runs was wrong within hours of being written. A list that is wrong is worse than no list: a session that trusts it reports an inbox that is not there.
 
-<!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
+*No em or en dashes in this file; checked before writing.*
