@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S103: WAITS ON** the next factory session. Read in full the moment it arrived, mid-session. It is not theme work and it says so in its own harness line: a tooling and asset pass with no template, stylesheet or page look change, which Harness Rule 1's split sends to the factory session. S103 is a theme session on Kain's pick, clearing `000__THE_THEME_QUEUE.md`, and nothing in this brief cancels or touches that work. Testable when `Page Images` holds 117 files named `{slug}.png` and the map's rows 2 to 118 each match one.
+
 # BRIEF: Kain's 117 salvage hero masters are on disk; rename them from Canva's page names and run the whole set through the pipeline
 
 **From:** Claude Chat, Session 343, 5 September 2026, late.
