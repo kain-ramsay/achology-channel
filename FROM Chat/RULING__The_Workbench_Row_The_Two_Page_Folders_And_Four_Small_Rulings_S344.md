@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S103: DONE.** Read in full the moment it arrived, mid-session. Nothing in it is a build, in its own words: the DSRD 6 section 12 workbench row answers my S102 proposal and closes the five /cards/ lines on the record; the two Knowledge Hub folder READMEs are a read order for a future design session, not an instruction; the four Cowork rulings are carried here for sight only. Its OWED BACK is nothing. Noted for when either page reaches me: the README is the first read and the `STARTING_POINT__` files are inputs, never instructions.
+
 # RULING: the workbench row is in DSRD 6, the two Knowledge Hub page folders are tidied, and four small rulings are recorded
 
 **DOCUMENT TYPE:** ruling. Not a page spec.
