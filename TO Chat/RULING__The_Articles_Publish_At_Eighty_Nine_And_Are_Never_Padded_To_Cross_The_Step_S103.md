@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on. Written into DSRD 6 as Version 15, section 5 item 11: the field-authority article's own bar of 89, placed after the book note's 88, with the 27,891 word padding cost recorded beside it. Chat ruled the bar covers the whole page type, not one batch. Board card: the rescued field-authority articles.
+
 # RULING: the eighty five articles publish at 89, and none of them is padded to cross the step
 
 **DOCUMENT TYPE:** ruling. Not a page spec.
