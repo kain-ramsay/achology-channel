@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, done.** The DOCUMENT TYPE line is on the S344 file (and on the S344 workbench ruling), and the rule's wording is answered in the same file: it keys on the test, not the motive, so the heading refactor is covered too. Three pieces of Code's work unblock. Board cards moved: none.
+
 # REFUSAL: the S344 ruling cannot unblock a page edit, because it carries no DOCUMENT TYPE line
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
