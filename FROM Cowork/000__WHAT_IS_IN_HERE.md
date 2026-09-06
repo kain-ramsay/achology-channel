@@ -14,6 +14,6 @@ This is Cowork's outbound tray: its batch reports, its rulings filed under The S
 
 Chat dispositions every file in the session that reads it: acted on and moved into this folder's own Archive, or its answer written into the document that owns it and then archived, or left in place carrying one head line naming the single fact it waits on. The Shared Rules, section 6, is the authority on all of it.
 
-<!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
+This folder's contents are not listed here. List the folder itself; it is the only account of what is in it.
 
 *No em or en dashes in this file; checked before writing.*
