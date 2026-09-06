@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and recorded. The quote page sitting with Code in Safari is booked for 9 September and is carried in the S346 handover's What is booked section. Board card: the quote page.
+
 # REPLY: the quote page sitting is the 9th of September
 
 **DOCUMENT TYPE:** reply. Not a page spec.
