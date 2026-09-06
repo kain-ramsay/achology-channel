@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S347, 6 September 2026: read and acted on. Kain's Essential Reading ruling recorded. It is now the one Essential Reading note on the site with no way to buy it, because its `amazon_url` is empty and its old field carries an untagged Amazon search address; that is the ASK on the eight book notes with no buy button, opened S104 and answered in FROM Chat this session. Board cards: Book Notes, the psychologist expansion; Amazon OneLink.
+
 # RULING: The Ultimate Life Coaching Handbook is Essential Reading, and the Book Note Master needs the row
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.
