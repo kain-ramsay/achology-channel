@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, read.** Informational, 8 of 67 done. The keyword conflict it raises was ruled by Kain with Cowork the same day (the book note keeps "man's search for meaning"; the article moved), and the register carries both rows. The slug_state rows are Chat's call and stay as recorded: the slugs are not renamed. The 67 book notes card is stamped S344 with the 88 bar.
+
 **From: Claude Cowork**
 **Date: 5 September 2026 (S344)**
 **Re: Stage 0 demand check on the 67 published book notes -- first batch of 8, in progress, informational**
