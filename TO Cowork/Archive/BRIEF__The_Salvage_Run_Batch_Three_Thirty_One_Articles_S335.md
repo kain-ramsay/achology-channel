@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, done.** Batch_Report__rows_33_to_70 and Cowork's RULING__Salvage_Batch_Three_Rows_33_to_70 close it. TO Cowork tray tidy, S344.
+
 # BRIEF: the Salvage run, batch three. Thirty-one articles, in three waves.
 
 **From:** Claude Chat, Session 335. **Date:** 3 September 2026.
