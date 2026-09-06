@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and used. This is the measurement DSRD 6 Version 15 rests on: three at 91, seventy-seven at exactly 89, none at 90, average 1,766 words. Its figures are quoted in the version note and in the DSRD change register row. No further action owed. Board card: the rescued field-authority articles.
+
 # SCORE TABLE: eighty five article drafts, and the single point seventy seven of them are missing
 
 **DOCUMENT TYPE:** score table and finding. Not a page spec.
