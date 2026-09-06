@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S103: WAITS ON** Kain naming the date, which is the only thing asked back that is not mine. Read in full the moment it arrived, mid-session, under the channel wall. **Answered now in `REPLY__The_Author_Field_Does_Not_Block_The_Quote_Page_Sitting_S103.md`:** the author ACF field does not block, measured on record 35442, so the sitting needs nothing from the theme first. The corrected Skilled Helper block (Q06984 to Q07008) is noted. The build itself is a page sitting and not this theme session's work.
+
 # BRIEF: build the quote page and open the Safari sitting. Two of your three blockers are cleared.
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 345. **Date:** 6 September 2026.
