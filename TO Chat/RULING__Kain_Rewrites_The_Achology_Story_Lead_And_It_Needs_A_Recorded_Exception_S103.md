@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read, held, and named as still open. The third recorded exception for Kain's 29-word Achology Story lead is not yet written into DSRD 7 section 3.3, because Chat can only read a long file from the top and cannot reach section 3.3 without reading everything above it twice. The named fact that closes it: Code sending the section's exact text and a line index, asked in FROM Chat as ASK__Send_Chat_Three_DSRD_Sections_And_A_Line_Index_S346. Carried in the S346 handover's outstanding register as item 3. Board card: the About page.
+
 # RULING: Kain rewrites The Achology Story lead, and DSRD 7 section 3.3 needs a third recorded exception
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
