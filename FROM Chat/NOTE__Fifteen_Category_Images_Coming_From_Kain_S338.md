@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, met.** The fifteen arrived, were checked (the S338 note beside this one) and are live on 248 pages at 200px (RULING__The_Category_Images_Are_Live_On_248_Pages_Final_Size_200px_S101). FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S100: WAITS ON the fifteen images arriving. The slot is built and proved this session:** `.help-hero-image` in help.css, floated right inside `.help-single__body` (so it counts for Rank Math), one size across the type, aligned to the top of the first paragraph. Landed and re-scored on one live pilot page with a placeholder image while the real fifteen were still in production. The swap to real per-category images, matched by the category slugs named below, is the next session's first job.
 
 # NOTE: fifteen category images are coming, made by Kain in Karen's proven style
