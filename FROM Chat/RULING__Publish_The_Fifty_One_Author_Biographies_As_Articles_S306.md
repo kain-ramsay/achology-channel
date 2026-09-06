@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, overtaken.** All 51 biographies are published (Code's S087 retro score table measured them as published pages; DSRD 6 item 11 records the same). FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S085: WAITS ON** Chat's two writing passes into the records (links into 14, density into 51) and then the re-import and re-score, which is step 3 of the S309 Rank Math brief. All 51 are drafts on the install today. One thing this file asked for is answered: RULING__The_Author_Biography_Title_Pattern_S082 does exist, in the channel Archive, and is named in the S085 tidy report.
 
 # RULING: publish all 51 author biographies as articles. DSRD 1 and DSRD 2 corrected.
