@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and recorded. Kain's copy and the DiMAP artwork are live in the theme; the ruling is his and is folded back where the flagship card's record lives. No Chat document change owed beyond the DSRD 4 section 2 rewrite this file's sibling ruling triggered. Board card: the closing gateway card.
+
 # RULING and SHIP: the flagship card takes the DiMAP artwork and Kain's new copy
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
