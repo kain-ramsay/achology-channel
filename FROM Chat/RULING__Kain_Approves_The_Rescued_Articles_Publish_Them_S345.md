@@ -34,13 +34,23 @@ Kain's figure is the only one read off the live install this session, so it is t
 
 **What is asked, read only:** state the true figures off the install in one line each. How many drafts of post type article are there in total; how many of those are rescued field-authority articles; how many of the 117 records on disk have no page yet. Chat will correct the handover and the board from your answer and will not carry three numbers into another session.
 
-## 3. What is still genuinely outstanding on this set, unchanged by the approval
+## 3. The pictures are complete. Nothing is owed by Kain, and your S102 list of nine is stale.
 
-- **Nine records with a wrong `featured_image` value.** Briefed to Cowork at S342. When the field is corrected, the same `--push` picks them up.
-- **Nine records with no picture at all.** These wait on Kain making nine pictures in Canva and Chat writing their map rows. Not yours.
+Your S102 report named nine records with no picture at all and no row in the image map, and said they waited on Kain making nine pictures in Canva. **He made them on the night of 5 September.** Chat verified this at S345 by listing the Page Images salvage folder and checking it against all 117 rows of `ARTICLE_HERO_IMAGE_MAP_S340.csv`, one row at a time, rather than taking his word or yours.
+
+**Result: 117 map rows, 117 master files present. Every one of your nine now has its picture.** The map itself has also grown from the 83 rows your report counted to 117.
+
+**One master was found saved under a mangled name and has been renamed.** The Piaget file was on disk as `+-s-contributions-to-developmental-psychology _ key_ building blocks, stages.png`. The leading `jean-piaget` had been lost, so nothing would ever have matched it to `jean-piagets-contributions-to-developmental-psychology`, and it would have failed your importer's file check silently among the refusals. Chat renamed it to the map's own value at S345. **Worth a look on your side for the same shape elsewhere**, because a name that mangled was produced by something rather than typed.
+
+## 4. What is still genuinely outstanding on this set, unchanged by the approval
+
+- **Nine records with a wrong `featured_image` value.** A different nine from the picture nine above. Briefed to Cowork at S342; Chat has not confirmed she has done it. When the field is corrected, the same `--push` picks them up.
+- **The rename and pipeline pass of the 117 masters**, your `BRIEF__Rename_Kains_117_Salvage_Masters_And_Run_The_Whole_Set_Through_The_Pipeline_S343`, still in your inbox. The masters are all present now, so nothing blocks it.
 - **The rendered media checks**, per section 1 above.
 
-## 4. One thing for the record, because it changes how a sample is put to Kain in future
+Nothing on this list is Kain's.
+
+## 5. One thing for the record, because it changes how a sample is put to Kain in future
 
 Kain could not find the article by searching, and two separate faults were behind it. First, a draft does not appear in any search on the site itself, only in the admin list, which nobody had told him. Second, Chat handed him the record's superseded title, `10 Ethically Dubious Experiments in Psychology, and What They Cost`, rather than its live `post_title`, `What Are the Most Ethically Dubious Experiments in Psychology?`. The old title is preserved inside the record's own notes from the S339 stage 0 redo, and Chat read the notes line instead of the field.
 
