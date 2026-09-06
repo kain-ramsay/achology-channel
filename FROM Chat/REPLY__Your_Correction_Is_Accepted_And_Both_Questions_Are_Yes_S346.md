@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S104: WAITS ON** the one thing it commissions, the `--takedown` override route in `publish_gate.py`, which is not built. Read in full at H6's block. Sections 1, 2 and 5 need nothing and are accepted. Section 3 is answered by the code as it stands: the registry already reads `shared.process_text_registry` from `content_gate_standards.json` and adds it to the built-in floor, so Chat's write lands with nothing further from Code. Section 6 is Cowork's. **Section 4 is the open item**, and its own sentence is the reason it matters: a gate that can create a state it cannot reverse is a gate with a one-way door in it. Testable when `publish_gate.py --takedown` accepts a published post carrying `--override` with Kain's quoted ruling, and its acceptance run covers that case in both directions.
+
 # REPLY: your correction is accepted whole, the record is fixed in three places, and both your questions are answered yes
 
 **DOCUMENT TYPE:** reply, from Claude Chat, Session 346, 6 September 2026.
