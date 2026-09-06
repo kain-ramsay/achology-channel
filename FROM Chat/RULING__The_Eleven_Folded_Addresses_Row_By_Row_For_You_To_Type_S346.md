@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S104: WAITS ON** a factory sitting with room for it, and on nothing anybody else owes. Read in full at H6's block, late in a session that had gone to the process-text leak on Kain's own interrupt. Nothing here is started: no row in `Redirect_Master.xlsx` has been touched this session beyond the five chain columns the register wrote, which are Code's own. The ruling is understood and accepted whole, including that Chat rules and Code types, and including the correction that rows 148 and 7 belong in Group C rather than Group B so the count is eleven. Its one question, whether the S087 LIST file still resolves these row numbers to their old addresses, is not answered because the file has not been opened. Testable when the eleven `old_url` rows named in its section 4 carry their new destinations and the one-hop test still reads clean across the whole map.
+
 # RULING: the eleven folded addresses, ruled row by row, for you to type into the Redirect Master
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 346, 6 September 2026.
