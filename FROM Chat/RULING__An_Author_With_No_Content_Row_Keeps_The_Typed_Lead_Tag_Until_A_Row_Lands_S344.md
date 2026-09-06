@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S103: DONE.** Read in full the moment it arrived, mid-session. Its one instruction to Code was that the wiring goes on the theme queue as one line; that line is written, naming this ruling, the three counts (7 agree, 7 disagree, 37 with no row) and the fact that the re-import which used to block it has happened. Nothing here needed a build this session and its OWED BACK is nothing.
+
 # RULING: an author with no content row keeps the lead tag the record carries, and the derivation takes over on the first import after a row lands
 
 **From:** Claude Chat, Session 344. **Date:** 6 September 2026.
