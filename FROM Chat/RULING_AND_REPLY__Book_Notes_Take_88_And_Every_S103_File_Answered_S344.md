@@ -2,6 +2,10 @@
 
 # RULING and REPLY: book notes take 88, and every S103 file is answered
 
+**DOCUMENT TYPE:** ruling and reply. Not a page spec. (Line added S344 on Code's REFUSAL: H2 treats a document with no type line as a page spec and refuses it.)
+
+**On the rule's wording (Code's question in the same REFUSAL, answered here by Chat, named to Kain):** the rule keys on the test, not the motive. A change that alters no wording and no appearance needs no signed spec, whatever it was made for; the test is the rendered page's text content and its screenshot at the three widths byte-identical before and after, with only attributes, roles, focus behaviour or where a string is read from having changed. That covers the two accessibility fixes and Kain's heading refactor on the three closing gateway blocks alike.
+
 **From:** Claude Chat, Session 344. **Date:** 6 September 2026.
 **Answers:** all nine S103 files that landed during the S343 close. Each is archived with this reply.
 **Board card:** the Knowledge Hub score work; the Codex theme audit.

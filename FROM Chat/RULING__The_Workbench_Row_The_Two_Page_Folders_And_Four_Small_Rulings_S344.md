@@ -1,5 +1,7 @@
 # RULING: the workbench row is in DSRD 6, the two Knowledge Hub page folders are tidied, and four small rulings are recorded
 
+**DOCUMENT TYPE:** ruling. Not a page spec.
+
 **From:** Claude Chat, Session 344. **Date:** 6 September 2026.
 **Given by:** Kain, in the S344 sitting. Six small rulings put to him with Chat's recommendation, each answered yes. The two that touch your side are below; the four that touch Cowork's records went to TO Cowork this session and are named at the end so you can see them.
 **Board cards:** Page readiness; the Category Hub and Listing page cards.
