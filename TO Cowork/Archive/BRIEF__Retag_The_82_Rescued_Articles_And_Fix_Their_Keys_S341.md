@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, done.** Cowork's DONE__Retag_And_Keys_Run_S341 and Batch_Report__Retag_And_Keys_S341 close it. TO Cowork tray tidy, S344.
+
 # BRIEF: retag the 82 rescued articles against the 36 locked tags, and fix their keys, in one correction run
 
 **From:** Claude Chat, Session 341. **Date:** 5 September 2026.

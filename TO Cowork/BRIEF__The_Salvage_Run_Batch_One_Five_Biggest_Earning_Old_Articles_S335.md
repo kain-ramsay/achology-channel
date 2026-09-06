@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, done.** Batch_Report__rows_1_to_5 and Cowork's RULING__Salvage_Batch_One_Rows_1_to_5 close it; all five are gate-clean records in Content Records. TO Cowork tray tidy, S344.
+
 # BRIEF: the Salvage run, batch one. Rewrite the five biggest earning old articles after the exemplar.
 
 **From:** Claude Chat, Session 335. **Date:** 3 September 2026.
