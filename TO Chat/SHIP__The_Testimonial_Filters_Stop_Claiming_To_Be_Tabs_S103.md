@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and recorded. Shipped at v0.167.62 and struck from the theme queue. The one thing still open from it is the failing orange on the chosen filter, which Chat ruled takes #B8460F, the AA-safe value DSRD 7 section 1 already registers, so it needs no new colour decision from Kain. Board card: accessibility and contrast.
+
 # SHIP: the testimonial question filters stop claiming to be tabs
 
 **DOCUMENT TYPE:** ship brief. Not a page spec.

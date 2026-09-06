@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and recorded. Shipped at v0.167.63 and v0.167.64 and struck from the theme queue by Code in the sitting that shipped it. Chat ruled the same opener fix runs across the other three dialogs, which remains an open theme queue line. No DSRD change owed. Board card: accessibility and the dialogs.
+
 # SHIP: the policy document reader joins the shared modal, and the page behind it is inert at last
 
 **DOCUMENT TYPE:** ship brief. Not a page spec.
