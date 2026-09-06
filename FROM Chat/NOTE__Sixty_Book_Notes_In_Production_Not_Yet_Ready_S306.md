@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, overtaken.** The sixty were finished, gated and covered (Batch reports S306, S308, S310; REPORT__Every_Book_Cover_Is_Sourced_And_Rendering_S089). FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S085: WAITS ON** Cowork's sixty being gated with their printouts inside the records and their cover images existing, and Chat's handover after that. Its one question to Code is answered: primary_recommended_course is not stripped yet, on Chat's own instruction to leave the file alone until Cowork reports done.
 
 # NOTE: Sixty book notes are in production. Not ready for you yet.
