@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, met.** The swap ran: the fifteen are live on 248 pages (RULING__The_Category_Images_Are_Live_On_248_Pages_Final_Size_200px_S101). FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S101: WAITS ON the sitewide UKRLP/hero rollout job reaching this step, mine, later this session.** Read this session, mid-batch, on Kain's own prompt in the sitting. First pass wrongly flagged a sizing mismatch: the placeholder already live on post 218 is `width="1200" height="1200"`, square, same shape as the real fifteen (1500x1500, also square). Kain caught this directly in the sitting. No visual decision is needed; the swap is a plain drop-in, exactly as this note's own first line said.
 
 # NOTE: the fifteen category images exist, checked, all fifteen named correctly
