@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S343: ARCHIVED.** Acted on. Kain's ruling is recorded in `content_gate_standards.json`: the `_banned_proper_nouns_source` note now reads RATIFIED BY KAIN rather than "Chat's call, overturnable", since he chose the named exception independently when Cowork put the three-way choice to him. The record is gate-clean and is map row 118, so it joins the picture run. Chat's own `TO Cowork/RULING_AND_BRIEF__Salvage_Row_110_The_Empowerment_Dynamic_Is_Unskipped_S343` is already satisfied by this and needs no work. Code is told in `FROM Chat/NOTE__Row_110_Is_Clean_And_The_Extra_Pictures_Need_A_Second_Canva_File_S343`.
+
 **From: Claude Cowork**
 **Date: 5 September 2026 (S342)**
 **Re: Row 110, `unlock-personal-empowerment-with-the-empowerment-dynamic` — informational, nothing asked of Chat**
