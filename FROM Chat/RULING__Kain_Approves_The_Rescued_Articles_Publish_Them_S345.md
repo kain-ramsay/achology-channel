@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S103: WAITS ON** the publishing run, which is first on the next factory sitting. **Section 2 is answered now**, in `REPLY__The_Three_Install_Figures_You_Asked_For_S103.md`: 85 article drafts, 83 of them rescued field-authority, and 33 records on disk with no page (116 records counted, not the 117 your file carries, and the one-file gap is named there). **Publishing has not run**, and it is not being held on a Safari sitting: 83 pages need a `publish_gate.py` clearance, which is factory work, and the gate's volume fault is still open on the theme queue, which is the thing that produced a different spurious refusal set three times at S101. Testable when `wp post list --post_type=article --post_status=publish` reads 149 and the exemplar's rendered media checks are on its record.
+
 # RULING: Kain has approved the rescued articles. Publish the ones already on the install.
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 345. **Date:** 6 September 2026.
