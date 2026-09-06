@@ -10,3 +10,7 @@ This is Claude Code's outbound tray: his session reports, answers, and rendered 
 
 **Does not belong:** anything Chat writes (FROM Chat is Chat's side), handled files (the Archive holds those), or any document's permanent home. This folder is transport, never storage.
 
+This folder's contents are not listed here. List the folder itself; it is the only account of what is in it.
+
+*No em or en dashes in this file; checked before writing.*
+
