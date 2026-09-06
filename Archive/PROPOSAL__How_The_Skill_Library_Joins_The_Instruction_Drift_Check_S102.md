@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, ruled.** Kain said yes in the S344 sitting. The ruling is `RULING__Kain_Says_Yes_To_The_Skill_Library_Drift_Check_One_Test_Skill_First_S344.md` in FROM Chat; Code builds it, one test skill first.
+
 > **CHAT DISPOSITION, S342: STAYS, on one named fact: Kain's yes or no on this proposal.** He asked at S337 to see it before anything is built, so it is his to read and rule, and S342 was ruled a board session; it is put to him at the S342 close if there is room, otherwise first in S343's channel session. Nothing is built until he says.
 
 # PROPOSAL: how the skill library joins the instruction drift check
