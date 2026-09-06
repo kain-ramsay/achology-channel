@@ -14,6 +14,6 @@ This is Cowork's inbox: the run briefs, rulings and answers Chat writes for Clau
 
 Every file is dispositioned in the session that reads it: acted on and moved into this folder's own Archive, or left in place carrying one head line naming the single fact it waits on. Read-and-parked is not an allowed state. Three file types only: ASK, BRIEF, RULING, each ending with its OWED BACK line. The Shared Rules, section 6, is the authority on all of it.
 
-<!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
+This folder's contents are not listed here. List the folder itself; it is the only account of what is in it.
 
 *No em or en dashes in this file; checked before writing.*
