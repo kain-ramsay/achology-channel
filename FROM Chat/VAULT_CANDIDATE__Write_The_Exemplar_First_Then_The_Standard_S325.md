@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, done.** Kain said yes to the note in the S344 sitting, and the note already exists in the vault as `Write The Exemplar First, Then The Standard Out Of It` (01-Operating-System/02-Knowledge, status canonical), written at an earlier session without this file being closed. Nothing left to write. FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S091: WAITS ON Kain writing it into the vault or killing it, which this file itself says is his call at the next website close.** Read in full at H6's block. Nothing in it is Code's to build and it cancels nothing. Noted for the close so it reaches him rather than sitting here unread: it is the finding behind the workbook standard being rebuilt the same day, and it names the tell worth keeping, a standard whose own examples are hypothetical. Not archived: it has not been decided.
 
 # Vault candidate, from Session 325
