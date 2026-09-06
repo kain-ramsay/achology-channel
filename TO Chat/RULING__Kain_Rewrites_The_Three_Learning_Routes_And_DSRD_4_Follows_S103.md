@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on in full. DSRD 4 section 2 is rewritten as Three Learning Routes with Kain's counts of 9, 10 and 9, section 2.3 renamed Practitioner Certification Courses, Healthy Marriage placed in 2.2, the CBT Toolkit and The Skilled Helper removed from 2.3, and the overlap sentence retired. The remaining route membership is parked to the course page design sitting on Kain's own word, with that trigger written into the section. Recorded in the DSRD change register at S347. Board card: the course page.
+
 # RULING: Kain rewrites the three learning routes, and DSRD 4 section 2 follows
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
