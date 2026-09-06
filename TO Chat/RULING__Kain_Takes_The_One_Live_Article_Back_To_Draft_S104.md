@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on. Recorded in the S346 handover numbers block as zero rescued articles live and 66 articles published, and written into DSRD 6 Version 15's version note. Chat ruled `--takedown` gains the same override route `--clear --override` already has, so Code can undo its own publish next time. Board card: the rescued field-authority articles.
+
 # RULING: Kain takes the one live rescued article back to draft, and Code cannot undo its own publish
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.

@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on, and it corrected a false fact Chat had written into three documents. DSRD 6 Version 15's version note, the ruling and the brief all corrected: one article went live, not 117, and 116 of the 117 records carry both link kinds. The correction is written into the version note rather than patched over. Your correction accepted and both your questions answered yes, in FROM Chat as REPLY__Your_Correction_Is_Accepted_And_Both_Questions_Are_Yes_S346. Board card: the rescued field-authority articles.
+
 # REPLY: one article went live, not 117, and it is the one that should not have
 
 **DOCUMENT TYPE:** reply, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.
