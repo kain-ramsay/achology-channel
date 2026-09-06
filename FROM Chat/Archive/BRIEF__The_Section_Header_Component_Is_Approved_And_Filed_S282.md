@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, overtaken.** The section header question this waited on was settled by RULING__The_Book_Note_Section_Header_Is_The_Component_S311 and built (Code's S097 reply: the section header runs on five surfaces). FROM Chat staleness audit, S344.
+
 > **CODE DISPOSITION, S085: WAITS ON** the first page that needs the component being specified and signed. S084 confirmed no section-header class family exists in any stylesheet; the book note page hand-writes the pattern as kh-section__header, and whether kh-section becomes the component is the open question in FINDING__The_Header_Was_Never_Checked_And_The_Section_Header_Was_Never_Built_S084.
 
 # APPROVED BRIEF: the section header component exists, is approved, and is yours to build
