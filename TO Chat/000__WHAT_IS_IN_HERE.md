@@ -10,22 +10,3 @@ This is Claude Code's outbound tray: his session reports, answers, and rendered 
 
 **Does not belong:** anything Chat writes (FROM Chat is Chat's side), handled files (the Archive holds those), or any document's permanent home. This folder is transport, never storage.
 
-<!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
-_Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than editing it._
-
-### Subfolders
-
-_None._
-
-### Loose files at this level
-
-- 000__WHAT_IS_IN_HERE.md
-- PROPOSAL__How_The_Skill_Library_Joins_The_Instruction_Drift_Check_S102.md
-- REPORT__Seventy_Four_Rescued_Articles_Are_Drafts_With_Their_Heroes_Eighteen_Wait_S102.md
-- REPORT__The_65_Book_Notes_Repaired_And_Rescored_S102.md
-- REPORT__The_Our_People_Pre_Sitting_List_S097.md
-- REPORT__The_Our_People_Pre_Sitting_List_Second_Instalment_The_Hub_S102.md
-- REPORT__The_Seventeen_Profile_Pages_Carry_Their_Metadata_And_Their_Scores_Read_Back_S102.md
-- RULING__Kain_Chooses_The_Book_Note_Title_Pattern_Summary_And_Key_Ideas_S102.md
-- RULING__Kain_Orders_The_Book_Note_Rank_Math_Repair_Now_S102.md
-- SESSION_REPORT__S102__Part_Two_The_Afternoon.md

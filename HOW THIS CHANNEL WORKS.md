@@ -63,25 +63,3 @@ The Archive keeps its map, deliberately. Every other archive in the estate goes 
 *No em or en dashes in this file; checked before writing.*
 
 <!-- FOLDER MAP: EVERYTHING BELOW THIS LINE IS GENERATED. DO NOT EDIT BY HAND. -->
-_Generated 05 September 2026 by tools/channel_map.py. Regenerate it rather than editing it._
-
-### Subfolders
-
-- **Archive** (864 loose files)
-- **FROM Chat** (43 loose files)
-- **FROM Cowork** (1 loose file)
-- **heartbeat** (5 loose files)
-- **machine-two** (6 loose files)
-- **TO Chat** (10 loose files)
-- **TO Cowork** (15 loose files)
-
-### Loose files at this level
-
-- .gitignore
-- 000__THE_CHAT_HARNESS.md
-- 000__THE_HARNESS.md
-- 000__THE_SHARED_RULES.md
-- 000__THE_THEME_QUEUE.md
-- 000__WHAT_THIS_REPOSITORY_IS.md
-- HEARTBEAT.txt
-- HOW THIS CHANNEL WORKS.md
