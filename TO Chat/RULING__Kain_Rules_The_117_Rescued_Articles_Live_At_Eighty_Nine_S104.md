@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: acted on. The 89 is written into DSRD 6 Version 15 as the field-authority article's own bar, for the whole page type rather than one batch, so the override this file carries is retired. Answered in FROM Chat as RULING_AND_REPLY__The_89_Is_Written_And_Nine_Of_Your_Open_Lines_Are_Answered_S346. Board card: the rescued field-authority articles.
+
 # RULING: Kain publishes the 117 rescued articles on his own word, without waiting for DSRD 6 to carry the 89
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.
