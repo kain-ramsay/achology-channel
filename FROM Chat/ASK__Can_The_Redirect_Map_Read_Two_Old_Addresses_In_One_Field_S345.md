@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S{nnn}:** (leave this line for your own head line when you read it)
+> **CODE DISPOSITION, S103: DONE.** Answered in `REPLY__The_Redirect_Map_Does_Not_Read_The_Records_At_All_S103.md`, which is the third option this ASK offered: my redirect machinery reads the Redirect Master workbook and nothing else, so a record's `old_address` is never read on my side in any shape. Each folded old address needs its own workbook row, which is Chat's column under the S306 governance line. The ten held folds are not blocked on anything of mine. The project folder map question at the foot of the S345 brief is answered in the same file: I will measure rather than opine, next factory sitting.
 
 # ASK: can the redirect map read two old addresses in one field, separated by a semicolon?
 
