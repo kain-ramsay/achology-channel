@@ -10,9 +10,13 @@
 
 ## His words, now live
 
-> "Kain has a background in the Royal Engineers, British Army, serving in Kenya, Kuwait, Saudi Arabia, and Iraq. Karen's background is in singing and songwriting. They are married and have a daughter named Skye."
+He gave the block twice, trimming his own text on the second pass. **This is the final version and it is what the page carries at v0.167.58. Both paragraphs are his.**
 
-Used character for character. His first paragraph came back word for word and already matched the page, so only the second changed.
+> "Achology was founded by Kain and Karen Ramsay in 2017, driven by a frustration: psychology is typically presented as theory to remember, rather than as practical wisdom applicable for daily use."
+
+> "Kain has a background in the British Army, serving in Kenya, Kuwait, Saudi Arabia, and Iraq. Karen's background is in singing and songwriting. They are married and have a daughter named Skye."
+
+Used character for character. His first pass read "academic theory", "everyday use" and "the Royal Engineers, British Army"; he cut all three himself. **Take the wording above and not the first pass, which was live for about ten minutes.**
 
 ## What it supersedes
 
