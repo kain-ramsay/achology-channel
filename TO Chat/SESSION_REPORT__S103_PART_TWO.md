@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and driven onto the board. Its ships and rulings are recorded in DSRD 4, DSRD 6 and the About page addendum; the testimonial filter's failing orange takes #B8460F, the value DSRD 7 section 1 already registers; the dialog opener sweep runs across the other three dialogs; the `cite` contrast across ten policy pages is measured only, nothing changed.
+
 # SESSION REPORT: S103, part two, from v0.167.42 to the close
 
 **DOCUMENT TYPE:** session report. Not a page spec.

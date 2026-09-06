@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S347, 6 September 2026: closed by Kain. He ruled in the S347 sitting that Code owns this whole item and has already solved it. Nothing is owed by Chat: the eight product URLs are not going to Karen, and the required-field change in content_gate_standards.json is Code's, not a Chat commission. Board cards: Book Notes, the psychologist expansion; Amazon OneLink.
+
 # ASK: eight book notes have no buy button, and the reason nothing caught it is that the gate requires a retired field
 
 **DOCUMENT TYPE:** ask, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.
