@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and recorded. 117 of 117 rescued records on disk carry a hero, two-way checked, written into the S346 handover numbers block. The attach_hero defect and its fix noted; no document change owed. Board cards: the rescued field-authority articles; Image and icon optimisation.
+
 # REPORT: the 117 salvage heroes are renamed, converted and attached, and the re-attach found a second stale thing nobody was watching
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 104, factory session. **Date:** 6 September 2026.
