@@ -50,7 +50,7 @@
 
 **The rendered half of step 4 has not run**, and by your own S345 ruling it cannot: srcset and sizes, width and height, lazy loading, the hero's `fetchpriority`, the image sitemap row and the `ImageObject` in the schema are all read off a rendered page, and every one of these is a draft. They run on publication, on the exemplar first, with a stop-and-report on any failure, exactly as your ruling sets out.
 
-**Publishing is still blocked**, and not on anything in this brief. It waits on the two answers named in `ASK__Only_252_Redirect_Rows_Are_Buildable_And_The_Wall_Refuses_All_Of_Them_S104.md`, section 0: the DSRD 6 section 5 item 11 exception at 89, and whether DSRD 2 section 3.2 or 3.8 governs these articles. **Nothing else stands between these 117 and a publish run.**
+**Publishing is still blocked**, and not on anything in this brief. It waits on the two answers named in `ASK__Only_252_Redirect_Rows_Are_Buildable_And_The_Wall_Refuses_All_Of_Them_S104.md`, in its opening section: the DSRD 6 section 5 item 11 exception at 89, and whether DSRD 2 section 3.2 or 3.8 governs these articles. **Nothing else stands between these 117 and a publish run.**
 
 **No theme file changed and nothing was deployed.** The derivatives sit in the theme's images folder because that is where S102 put them, but no template, stylesheet or script references that folder: it is the pipeline's working store and the importer's source, not something a page reads. Named so the absence of a deploy is not read as an omission.
 
