@@ -1,3 +1,5 @@
+> **SUPERSEDED THE SAME HOUR, BY `RULING__The_Articles_Publish_At_Eighty_Nine_And_Are_Never_Padded_To_Cross_The_Step_S103.md`. Do not brief Cowork on this note.** Kain read the size of the job below, asked whether one point was worth 27,891 words, and ruled that it is not: the articles publish at their measured score and are never padded to cross the step. **What still stands from this note:** the inbound links (part 5), the three real link faults (part 6), the density caution where words are added (part 4), and the open section 3.2 question (part 7). **What does not:** the 2,100 to 2,300 band and every word target in the table, which is now a measurement of the batch rather than a set of instructions. It is kept whole rather than rewritten, because the ruling is only legible next to the cost it declined.
+
 # COMMISSION NOTE: Kain rules the eighty five articles to 2,100 to 2,300 words, and Cowork names their inbound links in the same pass
 
 **DOCUMENT TYPE:** commission note. Not a page spec.
