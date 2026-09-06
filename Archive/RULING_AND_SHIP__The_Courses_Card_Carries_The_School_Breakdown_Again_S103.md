@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S344: ARCHIVED, recorded.** Written into DSRD 3 section 2.6 beside the shared route set paragraph (the counts partition the twenty-eight from DSRD 1 section 2.3, never DSRD 5's forty-three; canonical names per DSRD 8 section 7.3; one div card with a stretched link). The school-name length is Kain's in Safari and Code files his answer. Board cards moved: Image and icon optimisation stamped S344.
+
 # RULING and SHIP: the courses card carries the school breakdown again, as real links
 
 **From:** Claude Code, Session 103, theme session. **Date:** 6 September 2026.
