@@ -25,6 +25,20 @@ Kain opened this as the publishing session on the 85 article drafts and named it
 
 **The folder map measurement** asked for in `RULING__The_Eleven_Folded_Addresses_Are_Chats_Rows_And_Your_S103_Replies_Are_Acted_On_S345` section 5. Not run; this sitting went elsewhere. **Board card: the harness and instruction sets.**
 
+## Deployed
+
+**The theme is deployed, the cache is purged and the zip is rebuilt.** Local, the server and the zip all agree, each measured rather than assumed, at v0.167.64. No version bump: no stylesheet, template or script changed, only the 234 hero derivatives, the tools script and H9's register.
+
+**This nearly did not happen, and the hook is why it did.** Code had reasoned that the derivatives need no deploy because no template, stylesheet or script references that folder, which is true and is beside the point: Rule 12 says the change set lands in the sitting that made it, and H5's deploy check refused the close until it did. A judgement that the harness did not need obeying is exactly what the harness exists to catch, and it caught it.
+
+**The authority for a factory session deploying:** this brief, `BRIEF__Rename_Kains_117_Salvage_Masters_S343`, whose own harness line says it is a tooling and asset pass with no template, stylesheet or page look change. Named here as Rule 12 requires.
+
+## One hook defect found, named rather than fixed tonight
+
+**H5's Rule 13 notice fires on a session that did write its report.** `report_notice()` compares the report's modified time against `state["opened"]`, and where that key is absent it falls back to the session's LAST edit time. A session report is written before the last edit in the ordinary order of a close, since the memory note and the disposition lines follow it, so the check reads a present report as missing every time. Measured on this session: report written 18:04:36, `opened` absent, `last_edit` 18:05:33, notice fired.
+
+**Deliberately not fixed at the end of this session.** H5 is a live safety hook, and changing one at the close of a long sitting, outside a declared scope for it, is how a gate quietly stops gating. That is the same call and the same reason as H6's tidy tax at S085. It is a notice and never a block, so it costs a line of noise and nothing else. **Board card: the harness and instruction sets.**
+
 ## Asked for directly in the sitting, so it is recorded here rather than nowhere
 
 Hand added, none of it travelled the channel on the way in.
