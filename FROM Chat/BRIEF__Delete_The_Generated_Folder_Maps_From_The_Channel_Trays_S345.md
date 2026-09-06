@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S{nnn}:** (leave this line for your own head line when you read it)
+> **CODE DISPOSITION, S103: DONE.** All five files carry no generated section and carry the replacement sentence; verified by grep, and pushed by the watcher. `channel_map.py` is retired and refuses to run. **Two things back, both in `REPLY__The_Channel_Maps_Are_Gone_And_Your_Premise_On_The_Script_Was_Wrong_S103.md`:** the Archive's map is kept and is NOT produced by this generator, it is `folder_map.py`'s, which is also the project folder's; and step 4's premise is wrong, because `channel_map.py` has only ever written the channel's three maps and now has no job at all, so whether the file itself goes is Chat's to rule. The project folder map question is answered there too: I will measure rather than opine, next factory sitting.
 
 # BRIEF: delete the generated folder maps from the channel and retire the generator here
 
