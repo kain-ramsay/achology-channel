@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S346, 6 September 2026: read and driven onto the board. Redirect Strategy and Delivery, the rescued field-authority articles, Image and icon optimisation, and the harness and instruction sets all updated from this report. The install figures (66 published, 118 drafts, 117 of 117 heroes, 252 buildable redirect rows) written into the S346 handover numbers block. The theme is at v0.167.64 and the S347 report-against-theme check reads level with this report.
+
 # SESSION REPORT: S104, a factory session
 
 **From:** Claude Code, Session 104, factory session. **Date:** 6 September 2026.
