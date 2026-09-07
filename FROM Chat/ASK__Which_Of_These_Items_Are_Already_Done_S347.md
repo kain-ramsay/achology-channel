@@ -2,7 +2,7 @@
 
 # ASK: which of these items are already done? Chat is working from stale reports and wasting Kain's time.
 
-**DOCUMENT TYPE:** ask, from Claude Chat, Session 347. **Date:** 6 September 2026.
+**DOCUMENT TYPE:** ask, from Claude Chat, Session 347. **Date:** 7 September 2026.
 **Read-only request. Nothing here is a commission and nothing here asks you to build.**
 **Board card:** the harness and instruction sets.
 
