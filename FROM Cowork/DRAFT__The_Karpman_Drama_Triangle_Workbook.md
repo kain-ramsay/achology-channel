@@ -21,12 +21,12 @@
 | source_course | Cognitive Behavioural Therapy (CBT) Practitioner Course |
 | source_lecture | 030, "The 'Drama' Triangle (of Unhelpful Dependencies)" |
 | course_page_url | Not resolved this session; placeholder only, matching the approved exemplar's own unresolved course link |
-| landing_page_body | Not drafted; out of this session's scope by the brief's own instruction |
-| whats_inside | Not drafted, for the same reason |
-| rm_focus_keyword | Not claimed this session; this is the landing page's field, and the landing page is out of scope |
-| rm_seo_title | Not drafted, for the same reason |
-| rm_seo_description | Not drafted, for the same reason |
-| demand_evidence | Not gathered this session; the workbook document carries no address of its own to prove demand for |
+| landing_page_body | — |
+| whats_inside | — |
+| rm_focus_keyword | — |
+| rm_seo_title | — |
+| rm_seo_description | — |
+| demand_evidence | — |
 
 ---
 
@@ -58,7 +58,9 @@ The claim underneath it is simple and slightly uncomfortable. A great deal of re
 
 **The Rescuer** is the hardest of the three to recognise from the inside. A Rescuer needs to be needed. Their sense of worth comes from fixing, healing, or saving someone else. This feels generous even while it is quietly self-serving, because a Rescuer whose help stops being wanted has lost the role that was holding them up.
 
-None of the three positions holds still. A Rescuer who cannot fix the problem they took on can become, in the other person's eyes, the next Persecutor. A Victim who is helped without asking can come to resent the Rescuer for the same reason. People rarely stay in one corner. They rotate, sometimes within a single conversation.
+None of the three positions holds still. A Rescuer who cannot fix the problem they took on can become, in the other person's eyes, the next Persecutor.
+
+A Victim who is helped without asking can come to resent the Rescuer for the same reason. People rarely stay in one corner, and they rotate sometimes within a single conversation.
 
 Picture a congregation gathering week after week to hear one speaker deliver an address with great conviction. The room takes notes as though every sentence carried unusual weight. Looked at through the triangle, something more specific than admiration is happening.
 
@@ -89,10 +91,15 @@ Take the relationship you chose at the start and carry it through the three posi
 *Work through these questions independently if you must, but they are generally more beneficial when discussed rather than just answered in a workbook. If you are part of the [Achology learning community](https://community.achology.com/checkout/community-subscription), consider using these questions to start a new forum discussion, or invite others to join a call to discuss them in person.*
 
 1. Karpman's model implies a genuine victim of real wrongdoing and someone simply occupying the Victim position can look identical from outside. Is there an actual difference, or only a difference in what happens next?
+
 2. If a Rescuer's motive is partly about their own need to be needed, does that make the help they give less real to the person receiving it?
+
 3. Can a Persecutor be right, in the ordinary sense, and still be occupying that corner of the triangle?
+
 4. Is it possible to recognise your own position in the triangle from inside it, or does that always take someone else's account of the same events?
+
 5. Karpman's own claim is that a relationship free of all three roles is achievable. Does that match what you have actually seen, or does something like this pattern show up in every close relationship eventually?
+
 6. If naming the pattern out loud, inside a relationship, changes how it plays out, does that mean the triangle was ever really about the other person at all?
 
 ### Back cover
@@ -121,14 +128,14 @@ Inside the Achology learning community, this is what members do with a resource 
 
 **Voice.** Base voice throughout, no first person, even though the source lecture is first person and includes a personal illustration (Kain's own account of visiting a congregation in Edinburgh). The illustration is retold in the third person per the workbook-creation skill's voice rule.
 
-**Two contradictions found between DSRD 2 section 3.4.1's fixed copy and the actual approved template file,** read and confirmed against both sources this session. The brief warned a fourth might surface, after three were found and fixed at S345; this makes two more.
+**Four contradictions found between the governing documents and the actual approved template or the gate that checks against it,** read and confirmed against source this session. The brief warned a fourth might surface, after three were found and fixed at S345; this run found four more.
 
 1. The discussion-questions lead-in. DSRD 2 section 3.4.1 reads: "...consider using these questions to initiate a new forum discussion or invite others to join a Zoom call to discuss in person." The template file reads: "...consider using these questions to start a new forum discussion, or invite others to join a call to discuss them in person." This workbook follows the template, per the brief's precedence rule and the template's own header note: "Where the two disagree, this file wins and the standard is corrected."
 2. The back-cover closing line. DSRD 2 section 3.4.1 carries a link inside the line itself: "...If you are not participating as a member yet, [that is where these conversations happen](link) each week." The template's small print under the button carries no link at all, because the link lives on the button above it instead: "The Achology community welcomes everyone interested in this topic. If you haven't participated yet, this is the place where these conversations take place." This workbook follows the template's wording and structure.
+3. `content_gate_standards.json`'s "workbook" type entry lists `landing_page_body`, `whats_inside`, `rm_focus_keyword`, `rm_seo_title`, `rm_seo_description` and `demand_evidence` as required fields on the workbook record itself. But the entry's own notes, and the approved worked example's metadata file, treat these as the landing page's fields, drafted on a separate record with its own address and its own keyword, never part of the workbook document. Gating them here would mean either drafting the landing page against this brief's explicit instruction not to, or the gate failing on fields that were never this record's to carry.
+4. The same standards entry's shared bar wants an external link to the source present. But the entry's own `_links_note` says a workbook carries two link destinations only, the course page and the membership checkout, both internal, and "any third address in a workbook is a fault." An external citation link, which several other content types are required to carry, would itself be the fault on this type. This workbook carries none, per that rule, and the gate's external-link check fails as a result: a correct document failing an inapplicable check, not a defect in the document.
 
-Both are named here rather than corrected in DSRD 2 directly, which is not this session's place to do.
-
-**A third finding, structural rather than wording.** `content_gate_standards.json`'s "workbook" type entry lists `landing_page_body`, `whats_inside`, `rm_focus_keyword`, `rm_seo_title`, `rm_seo_description` and `demand_evidence` as required fields on the workbook record itself. But the entry's own notes, and the approved worked example's metadata file, treat these as the landing page's fields, drafted on a separate record with its own address and its own keyword, never part of the workbook document. Gating them here would mean either drafting the landing page against this brief's explicit instruction not to, or the gate failing on fields that were never this record's to carry. Named rather than resolved; not this session's place to edit the standards file.
+All four are named here rather than corrected in DSRD 2 or the standards file directly, which is not this session's place to do.
 
 **What this session did not do, by the brief's own scope:** the cover image (the library does not exist yet), the section icons and logo placeholders (Chat's and Code's job, and two of the four icon paths are themselves still owed real lucide-static data per the Design Standard section 6), the landing page, and a second workbook.
 
