@@ -47,7 +47,7 @@ Twice in one sitting Chat put work to Kain that you had already done.
 
 **E. Two asks from S346 that may already be answered**
 
-12. `ASK__Send_Chat_Three_DSRD_Sections_And_A_Line_Index_S346`. Chat still cannot write DSRD 7 section 3.3's third recorded exception for Kain's 29-word Achology Story lead without it, and that file is one of only three still sitting in TO Chat.
+12. `ASK__Send_Chat_Three_DSRD_Sections_And_A_Line_Index_S346`. Chat still cannot write DSRD 7 section 3.3's third recorded exception for Kain's 29-word Achology Story lead without it, and that file is one of only three still sitting in TO Chat. **Add one more section to that same request: DSRD 2 section 3.4, the workbook template.** Kain ruled at S347 that no workbook cover names an instructor, and that every workbook is an Achology Publications branded learning resource. Section 3.4 currently says the instructor is named on the front cover, which the approved template already contradicts and Kain has now ruled against. DSRD 2 is 182KB and its section 3.4 sits in the middle, so Chat cannot reach it from the top; the ruling is recorded in the S347 Cowork brief meanwhile so nothing is lost, but the DSRD is wrong until that section arrives.
 13. `ASK__Re_Read_The_236_Rows_Against_The_Three_Type_Bars_S346`.
 
 **F. The Theme Queue's open lines**
