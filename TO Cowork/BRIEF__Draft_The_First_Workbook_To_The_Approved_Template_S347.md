@@ -48,6 +48,10 @@ Then use the fixed source-line wording exactly as the S345 ruling sets it out, w
 
 ## 5. What you write that did not exist before
 
+**The cover names no instructor. Kain ruled it at S347, and this closes the one open question the S345 ruling left.** DSRD 2 section 3.4 still says the instructor is named on the front cover; the cover Kain approved names no instructor anywhere, and he has now ruled for the cover. **Every workbook is an Achology Publications branded learning resource, not an instructor's.** Write no instructor name, on the cover or anywhere the cover's branding sits.
+
+DSRD 2 section 3.4's sentence is wrong and is being corrected at Chat's end, so if you read that sentence, this brief overrides it.
+
 **The cover description is a new writing job.** Three sentences or so, written fresh for this workbook, saying what it does for the reader. It replaces the lecture and course line and the how-to-use lines, which have both moved.
 
 Everything else holds as DSRD 2 section 3.4 has it: the five parts, their order, the word counts, the teaching at about 600 words, five or six discussion questions about the idea, the base voice with no first person, the two permitted link destinations, and the standalone test.
