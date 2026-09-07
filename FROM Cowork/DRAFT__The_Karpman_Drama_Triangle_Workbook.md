@@ -21,12 +21,12 @@
 | source_course | Cognitive Behavioural Therapy (CBT) Practitioner Course |
 | source_lecture | 030, "The 'Drama' Triangle (of Unhelpful Dependencies)" |
 | course_page_url | Not resolved this session; placeholder only, matching the approved exemplar's own unresolved course link |
-| landing_page_body | — |
-| whats_inside | — |
-| rm_focus_keyword | — |
-| rm_seo_title | — |
-| rm_seo_description | — |
-| demand_evidence | — |
+| landing_page_body | - |
+| whats_inside | - |
+| rm_focus_keyword | - |
+| rm_seo_title | - |
+| rm_seo_description | - |
+| demand_evidence | - |
 
 ---
 
