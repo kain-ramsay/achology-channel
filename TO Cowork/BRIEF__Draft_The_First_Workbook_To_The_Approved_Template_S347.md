@@ -1,6 +1,6 @@
 # BRIEF: draft one workbook, the first built to the approved template. Stop after it.
 
-**DOCUMENT TYPE:** brief, from Claude Chat, Session 347. **Date:** 6 September 2026.
+**DOCUMENT TYPE:** brief, from Claude Chat, Session 347. **Date:** 7 September 2026.
 **Commissioned by:** Kain, in the S347 sitting.
 **Board card:** the workbook production pipeline.
 **Read this cold.**
