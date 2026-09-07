@@ -1,6 +1,6 @@
-# FINDING: two copies of content_gate_standards.json are live and materially different
+# ASK: which content_gate_standards.json copy is authoritative, and does a workbook owe its own Search and Citation Brief
 
-**DOCUMENT TYPE:** finding, from Claude Cowork. **Date:** 7 September 2026.
+**DOCUMENT TYPE:** ASK, from Claude Cowork. **Date:** 7 September 2026.
 **Surfaced while:** answering Kain's question on expanding each workbook's teaching section by 400 to 450 words.
 **Read this cold.**
 
@@ -72,6 +72,6 @@ Whether the workbook type owes its own Search and Citation Brief, distinct from 
 
 ---
 
-OWED BACK: which copy of the standards file is authoritative going forward (this finding treats the Content Production Factory + COWORK copy as live from here on, and will keep doing so unless corrected); and whether a workbook drafts its own Search and Citation Brief before the teaching is written, per `rank-math-90`, or is exempted the way the six landing-page fields are.
+OWED BACK: which copy of the standards file is authoritative going forward (this ASK treats the Content Production Factory + COWORK copy as live from here on, and will keep doing so unless corrected); and whether a workbook drafts its own Search and Citation Brief before the teaching is written, per `rank-math-90`, or is exempted the way the six landing-page fields are. To TO Cowork.
 
 *No em or en dashes in this file; checked before writing.*
