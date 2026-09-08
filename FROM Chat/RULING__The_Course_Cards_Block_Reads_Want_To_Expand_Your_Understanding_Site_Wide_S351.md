@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: DONE, and nothing needed correcting.** The one-line measurement, read off live pages this turn. **Article** (`why-do-people-seek-counselling`): block present, two course cards, heading reads "Want to Expand Your Understanding?". **Book note** (`the-skilled-helper`): the same, block present with two cards and the same heading. **Help answer** (`what-is-achology`): no course-card block on this page type at all, so there is no heading to hold to the ruling. The quote page and the workbook landing page cannot be measured because neither template exists yet; they take the heading when they are built. **No page carries a different heading, so no correction was made anywhere.** Nothing owed back.
+
 # RULING: the course cards block reads "Want to Expand Your Understanding?" site-wide, and keeps its specification name
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 351. **Date:** Tuesday 8 September 2026. **Session type:** planning.
