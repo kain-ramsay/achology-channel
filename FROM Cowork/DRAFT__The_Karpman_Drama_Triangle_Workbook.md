@@ -20,13 +20,18 @@
 | author | Base voice, no pen name; assigned at commission per the workbook field group's own key |
 | source_course | Cognitive Behavioural Therapy (CBT) Practitioner Course |
 | source_lecture | 030, "The 'Drama' Triangle (of Unhelpful Dependencies)" |
-| course_page_url | Not resolved this session; placeholder only, matching the approved exemplar's own unresolved course link |
+| course_page_url | /academy/cognitive-behavioural-psychology/cbt-practitioner/ (DSRD 1 section 5, read this session) |
 | landing_page_body | - |
 | whats_inside | - |
-| rm_focus_keyword | - |
-| rm_seo_title | - |
-| rm_seo_description | - |
-| demand_evidence | - |
+| rm_focus_keyword | drama triangle worksheet |
+| rm_seo_title | The Drama Triangle Worksheet: Karpman's Model |
+| rm_seo_description | A drama triangle worksheet based on Karpman's model: the Victim, Persecutor and Rescuer roles taught in full, then applied to one real relationship. |
+| demand_evidence | Web search, 8 September 2026: "drama triangle worksheet" returns a distinct results set from the plain topic search, real competing PDFs and products (a South Carolina University HR handout, misiciowa.org's workbook, a paid TechTello workbook product, an Etsy listing), confirming real demand for a practical resource distinct from karpman-drama-triangle.md's own explanatory intent. Full search paste in the Sourcing record below. |
+| search_intent | informational |
+| reviewed_by | To be confirmed at commission, alongside author |
+| update_cadence | annual |
+| query_variants | drama triangle worksheet, karpman drama triangle exercise, victim persecutor rescuer worksheet, how to break the drama triangle pattern |
+| schema_type | LearningResource, proposed. DSRD 10 section 9 has not yet assigned a workbook type; flagged for Kain or Chat to ratify or correct, not yet a DSRD-confirmed fact. |
 
 ---
 
