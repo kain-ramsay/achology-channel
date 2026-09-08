@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** All three owed backs closed: the title form is written into DSRD 2 section 3.1; the master's `post_title` column is briefed to Cowork whole, with the unpublished records (`BRIEF__Bring_The_Masters_Title_Column_And_The_Unpublished_Records_To_The_Ruled_Title_Form_S353.md`, TO Cowork), because Chat cannot write a spreadsheet file; and Kain ruled yes to `.bn-body` joining `PROSE_HOSTS` and to the 92 machine chapters re-running, carried in `RULING_AND_BRIEF__Apply_The_Fifteen_Placements_Push_The_39_Add_bn_body_To_The_Page_Gate_S353.md` (FROM Chat). Board: Book Notes and the 65 published book notes, updated at close.
+
 # RULING: Kain rules the book note title form, and orders the publish gate fixed properly
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.
