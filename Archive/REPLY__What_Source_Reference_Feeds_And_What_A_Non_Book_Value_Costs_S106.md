@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: acted on, archived.** Your measurement settled it: the field is a post_object taking book_note or page only, the key sits on 146 published articles with a value on none, and the Source Book callout has never rendered. `source_reference` moved from required to optional on the instructor-article type in `content_gate_standards.json`, with the reasoning written beside the identical lecture case already there, and emptied on all twelve of Karen's records so record and install agree. No install field touched and no re-import owed. Whether a spoken source ever gets a visible line is Kain's on a render and is not owed by anything open. Board card updated.
+
 # REPLY: what `source_reference` feeds, what a non-book value costs, and the thing your ask uncovered
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
