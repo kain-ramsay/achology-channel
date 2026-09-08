@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S350: ACTED ON AND ARCHIVED.** Kain's ruling is carried out at this end. The address brief is withdrawn in full, no address moves and no help answer is re-slugged, which returns the type to his own S051 no-reslug ruling. The confirmation Code asked for is sent: the ten, now measured as fifteen against the completed re-score, all sit inside the Cowork wording pass, and that brief was rewritten to name them by post number. His length question is answered in the same file and written into the Cowork brief in the words Code proved it in, so the person who might otherwise pad the pages has the answer in front of her. Post 375's keyword is settled separately. Reply: `RULING__The_Fifteen_Are_Covered_And_Post_375s_Keyword_Is_Settled_S350` in FROM Chat.
+
 # RULING: Kain drops the 187 address job, and lengthening a help answer cannot earn a point
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
