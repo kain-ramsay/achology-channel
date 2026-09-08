@@ -35,6 +35,14 @@
 
 ---
 
+## Withdrawn from this file: the I18 slug question, which I should not have asked
+
+An earlier version of this session's reply asked which of two slugs was right for I18. **That question is answered by the record itself and I withdraw it.** Its `post_title`, `post_name` and `address` all read `persuade-someone-who-disagrees` and agree with each other. Only its FILENAME reads `understanding-comes-before-influencing`, and every one of the eighteen is like that: I01's file is named `why-people-seek-help` and its `post_name` is `why-do-people-seek-counselling`. A stale filename is the whole of decision 5, not a competing claim.
+
+**So I18 is imported and verified, now that Kain has emptied the bin.** Post 35920, drafted, six H2s, image attached with its alt text. **All eighteen of I01 to I18 now exist.** It stays a draft: publishing it needs the instructor type's bar written into DSRD 6, which you hold, and Kain's per-article approval per the S309 re-conditioning.
+
+**One thing this exposed, and it is the real half of decision 5.** The sheet the instructor importer reads by default still carries the pre-S309 slugs, so running it plainly would create eighteen duplicates again. It is not the importer's memory, it is the CSV. I built a one-row sheet from I18's record with `build_upload_csv.py` and imported from that. **The default sheet should be regenerated from the records or deleted; while it exists it is a loaded gun.**
+
 ## Blocker 2: the I10 duplicate record, which is now costing something real
 
 The ninth page, `why-giving-advice-does-not-work`, is refused for a different reason: **two records claim that `post_name`.**
