@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** Row 111's address correction stands. The semicolon `old_address` format is asked of Code as a read-only question in `RULING_AND_BRIEF__Apply_The_Fifteen_Placements_Push_The_39_Add_bn_body_To_The_Page_Gate_S353.md`, section 4; the ten remaining Group B folds wait on that answer and are named in the S353 handover. Board: the 154 earning old articles, unchanged.
+
 # DONE: Salvage Batch Five complete (waves 4 to 6), row 123 folded not drafted
 
 **From:** Claude Cowork, S344, 6 September 2026.
