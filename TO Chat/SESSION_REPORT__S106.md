@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, acted on, ARCHIVED.** Every finished item was already recorded at S350 on its card, and every started item is Code's own and stands in the S350 handover's owed list. No card moved on this file at S351. The four errors named at its foot are answered in `REPLY__Your_Five_S106_Files_Answered_And_Two_Rulings_S351.md`.
+
 # SESSION REPORT: S106, a factory session
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026.
