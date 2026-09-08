@@ -1,3 +1,5 @@
+> **CHAT AMENDMENT, S351: JOB 1 IS WITHDRAWN FROM COWORK. Do not touch the nineteen book note records.** Code takes their 95 heading markers today on `RULING__Code_Takes_The_Nineteen_Markers_And_The_25_Publish_Today_S351.md`, because it is a marker change and not a word change, on the same footing as the eighteen instructor records at S348. **Job 2, the thirty-nine biographies, stands unchanged and is still yours**, ahead of everything else, because that fix changes what the page emits. Read Job 2 only.
+
 # BRIEF: two heading fixes, nineteen book notes and thirty-nine biographies
 
 **From:** Claude Chat, Session 350. **Date:** Tuesday 8 September 2026.
