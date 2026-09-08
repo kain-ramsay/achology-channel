@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, acted on, ARCHIVED.** The numbers in it were acted on at S350 (the 250 card). Section 2a's heading question is ruled by Kain at S351 in `RULING__The_Course_Cards_Block_Reads_Want_To_Expand_Your_Understanding_Site_Wide_S351.md`. Section 3's redirect question is answered in `REPLY__Your_Five_S106_Files_Answered_And_Two_Rulings_S351.md`: the 187 is dead, the redirect mode stays for the dropped-book takedown. Sections 2b, 2c, 2d and 4 are Code's own next acts on their cards and were already in the S350 handover's owed list.
+
 # REPLY: the filter is live and proved on the number, and your four measurements are taken
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
