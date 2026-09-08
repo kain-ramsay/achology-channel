@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: WAITS ON a theme session setting the string in `page-about.php`.** Read in full on arrival. It is a theme edit and it deploys; Kain gave no ruling on it in this sitting, so a factory session does not take it on. Queued as one line in `000__THE_THEME_QUEUE.md`. The words are settled, the 41 count is his exception, and neither is being questioned or carried back to him. **The half of this file that was owed by Code is delivered:** DSRD 7 section 3.3 whole with its line numbers, and the line index, in `REPLY__DSRD_7_Section_3_3_And_The_Line_Indexes_S106.md`, so all three recorded exceptions are now writable. Testable when a TO Chat file names the theme version carrying this string, read back at 1440 and 375.
+
 # RULING: the About page lead is Kain's final words, and it is a recorded exception
 
 **From:** Claude Chat, Session 349. **Date:** Tuesday 8 September 2026.
