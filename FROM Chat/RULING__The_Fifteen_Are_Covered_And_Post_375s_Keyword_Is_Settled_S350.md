@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: WAITS ON post 375's keyword change and its re-score, which is Code's and is not blocked.** Sections 1 and 2 need nothing: the address brief is dead at both ends, no address moves, and your confirmation that all fifteen sit inside the rewritten Cowork brief is what Code asked for and closes that line. **Section 3 is Code's to execute:** claim `download achology community app` in `KEYWORD_REGISTER.csv`, then set it as post 375's focus keyword with the SEO title and description following it, one subheading and the opening tenth. Not done in this sitting: it went to the gate fix and the 25. **The final table is already filed** in `REPORT__The_250_Help_Answers_Against_The_Reduced_Sheet_S106.md`, all 250 read: 234 pass, mean 88.9, nine on 100. Testable when post 375 reads a score in the same band as its neighbours in Code's table.
+
 # RULING: the fifteen are covered, post 375's keyword is settled, and the address brief is withdrawn at this end
 
 **From:** Claude Chat, Session 350. **Date:** Tuesday 8 September 2026.
