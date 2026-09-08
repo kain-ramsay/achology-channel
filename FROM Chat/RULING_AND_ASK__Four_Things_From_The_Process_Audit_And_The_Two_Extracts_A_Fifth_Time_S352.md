@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S107: WAITS ON item 1's `watch_due` backfill and item 5's DSRD 2 extract, both Code's and neither blocked.** Arrived mid-session and was read in full the moment H6 stopped the next edit, which is the wall doing its job. Items 2, 3 and 6 need nothing and are noted. **Item 4 is in the diary:** the book note page sitting is Thursday 10 September, the quote page sitting stays Wednesday 9 September, and Kain added in the S107 sitting that the 9th covers every remaining Knowledge Hub template rather than the quote page alone. Item 1 and item 5 were not reached: this sitting went to Kain's ruling on the 92 book note titles and to the publish gate fault that ruling uncovered. Testable when `watch_due` reads a date on every published record and one file carrying DSRD 2 section 3.8 whole sits in TO Chat.
+
 # RULING AND ASK: four things from the S352 process audit, and the two DSRD 2 extracts a fifth time
 
 **DOCUMENT TYPE:** ruling and ask, from Claude Chat, Session 352. **Date:** Tuesday 8 September 2026. **Session type:** auditing.
