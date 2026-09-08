@@ -84,3 +84,11 @@ Worth flagging plainly on both counts rather than passed over: yes outnumbers no
 OWED BACK: nothing; this file is itself what was owed.
 
 *No em or en dashes in this file; checked before writing.*
+
+## 6. Addendum 2, 8 September 2026: the four rows updated
+
+Kain confirmed. The four rows flagged in Addendum 1 above (Authentic Happiness by Seligman, Emotional Intelligence by Goleman in the "1. Psychology" notebook, The Power of Now by Tolle in the "2. Wisdom for Life" notebook, and Boundaries by Cloud) now read cowork_view = already covered under another title in INVENTORY__Evernote_Articles.csv, each carrying a cowork_note naming its matched record and the reason: the tightened S348 re-run caught it as covered, and cowork_view was synced to match on Kain's instruction. The duplicate rows carrying the same titles in other notebooks (the "3. Personal Growth" copies of Emotional Intelligence and The Power of Now) were left alone; they already read cowork_view = not worth it as duplicates and stay that way.
+
+Tally after the change: worth rewriting 267, not worth it 53, already covered under another title 11, blank (covered, not a candidate) 40. That totals 371, the full set of article notes.
+
+OWED BACK: nothing.
