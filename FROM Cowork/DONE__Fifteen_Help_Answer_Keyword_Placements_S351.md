@@ -18,6 +18,8 @@ Each post's already-assigned focus keyword is unchanged. Nothing else about any 
 
 **What the CSV carries.** One row per post: id, slug, title, the unchanged keyword, the old and new opening sentence, the old and new heading, the new meta description with its length, old and new word counts, all four test verdicts, and both the full new body text and full new body HTML, ready to apply against the live post by id. This is a correction to live pages, the same shape as the S338 precedent, not a fresh import.
 
+**A separate finding, nothing to do with this batch.** Running the real `qc_gate.py` against the full content of 352 and 353 (both with and without today's edits) fails both on an acronym-gloss check: it wants 'Virtual Achologist Led Training Sessions' and 'Peer-Peer Applied Learning Sessions' verbatim, but the site itself has always written 'Virtual Achologist Led Training Session (VALTS)' and 'Peer-to-Peer Applied Learning Session (PALS)', singular and with the 'to'. I checked the original, untouched body text alone and it fails the same way, so this predates today's work entirely; it is qc_gate.py's own REQUIRED_ACRONYM_GLOSS dictionary that does not match the site's real wording, not these two articles. Left as found, named here rather than quietly patched, since qc_gate.py is a shared script this brief did not ask me to change.
+
 OWED BACK: nothing further needed from you on this batch. It is ready for whoever applies corrections to live help pages to action and, per the standing practice, for a real Rank Math re-score after it lands, since Cowork's checks are thorough but not the executable gate.
 
 *No em or en dashes in this file; checked before writing.*
