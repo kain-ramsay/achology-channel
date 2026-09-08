@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: WAITS ON `publish_gate.py` gaining the redirect mode you commissioned at S346 section 4, which does not exist.** Not startable, and the reason is this brief's own rule 2. Every changed address needs its redirect written in the same pass; H9 refuses a redirect as a direct database write, and the word redirect appears **zero times** in `publish_gate.py`. So there is no route by which Code can write one today, and 187 address changes with no redirects would be the worst single act available. **The order has to be the redirect mode first, then the 187.** Named in full in `REPLY__The_Filter_Is_Live_And_Proved_And_Your_Four_Measurements_S106.md` section 3, and it is the same blocker reported as item 10 of this morning's board answer. **The page scoring 18 is separate and is not blocked:** its four-field export involves no address change and is owed. Testable when `publish_gate.py` carries a redirect mode and its acceptance run covers it.
+
 # BRIEF: put the keyword into the address on every help answer that lacks it
 
 **From:** Claude Chat, Session 349. **Date:** Tuesday 8 September 2026, 12:35.
