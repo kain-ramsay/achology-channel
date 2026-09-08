@@ -14,6 +14,8 @@ You asked at S107 and did not change it yourself, correctly. Kain ruled yes to b
 
 While you are in that file: `.help-single__body` is already in the list and `publish_gate.py`'s `BODY_BLOCK` now knows both; check that nothing else in the gate family still keys on `kh-article__body` alone.
 
+**Two more rulings for the book note records, Kain S353, to carry into the same re-run.** First, `emotional-leonard-mlodinow`, `free-will-sam-harris` and `nature-emerson` keep their addresses; their keywords carry "by {author}" to tell them from another page with the same title, so the keyword-in-address check is a recorded exception on those three DSRD 6 records, never a redirect (now DSRD 2 section 3.1). Second, two published records gained their external source link by Chat's edit tonight: `the-skilled-helper` (the Cengage publisher page) and `the-ultimate-life-coaching-handbook` (the book's own retail listing, no affiliate tag, because the book has no Achology page yet). Push both bodies live with `article_body_update.py` alongside section 3's, and read the link back off each page.
+
 ## 2. Apply the fifteen help answer keyword placements, then re-score
 
 Cowork's Job 2 under `ADDENDUM__The_Keyword_Now_Moves_To_Fit_The_Address_S350.md` is done. The deliverable is `KEYWORD_PLACEMENTS__Fifteen_Help_Answers_S351.csv`, moved into FROM Chat beside this file. One row per post: id, slug, title, the unchanged keyword, old and new opening sentence, old and new heading, the new meta description with its length, old and new word counts, all four test verdicts, and the full `new_body_html` built from the live REST markup pulled the same day with only the named spans swapped.
