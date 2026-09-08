@@ -1,9 +1,11 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 6, S334. Authority: Kain Ramsay.**
+**Version 7, S352. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Cowork reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
+
+**Version 7, S352:** one sentence in section 6, no rule added. Chat's inbox is TO Chat and FROM Cowork together. Version 1 gave Cowork a tray to write into and never said who read it; the session-close open read TO Chat alone, so at S352 the process audit found 29 Cowork files sitting in FROM Cowork with no disposition, the oldest from S318, and the pipeline's stage 3 (Chat reads the batch report) ran only when someone remembered it. Ruled by Kain at S352. A rule kept where it already reached, not a rule added, per the growth governor.
 
 **Version 6, S334:** one scope line in section 1, no rule added. Kain said again at S334 that reports still confuse him and asked all three Claudes to speak to him as to a young child and to ask only yes-or-no questions. The rule for that was already here in full; what was missing was where it reaches. Section 1 now says plainly that it governs every message Kain sees, including what Code types into his own session while Kain watches, not only files written to the channel. Nothing else changed, because nothing else needed to: this is a rule not being kept, and the growth governor says a failure like that is fixed by keeping it, never by adding a second copy of it.
 
@@ -59,7 +61,7 @@ Test: no document names a path or number that a rename would break.
 
 ## 6. The channel is the only road
 
-The channel is the git repository at the channel root. Chat writes into FROM Chat and reads TO Chat. Code writes into TO Chat and reads FROM Chat. Cowork writes into FROM Cowork and reads TO Cowork. Read your inbox first at every open and name every file and its fate in your opening line. Empty it in the session that reads it: act and archive, or file the answer where it belongs and archive, or leave one head line naming the single fact it waits on. That fact is written so a machine can test it wherever one can: a file existing, a field carrying a value, a count reaching a number, a version string moving. "Waits on Kain's eye" is written only where that is the truth, so the human waits stand out from the testable ones instead of hiding among them (Kain, S332). Three file types only: ASK, BRIEF, RULING. Every file ends with its OWED BACK line and carries its disposition head line when read. **A file for Code names in its head which Code session it is for, theme or factory (S333): a BRIEF or RULING that names a page or a component is for the theme session; everything else is for the factory session.** Ask for answers, never for work: a BRIEF is signed by Kain. Transport, not storage: the file points at the thing, never carries a second copy.
+The channel is the git repository at the channel root. Chat writes into FROM Chat and reads TO Chat. Code writes into TO Chat and reads FROM Chat. Cowork writes into FROM Cowork and reads TO Cowork. **Chat's inbox is TO Chat and FROM Cowork together (Kain, S352):** Cowork's tray has no reader but Chat, so Chat reads and dispositions both at every open, and when Chat dispositions a DONE file in FROM Cowork it also archives the brief that file answers in TO Cowork, so Cowork's tray holds only briefs not yet done. Read your inbox first at every open and name every file and its fate in your opening line. Empty it in the session that reads it: act and archive, or file the answer where it belongs and archive, or leave one head line naming the single fact it waits on. That fact is written so a machine can test it wherever one can: a file existing, a field carrying a value, a count reaching a number, a version string moving. "Waits on Kain's eye" is written only where that is the truth, so the human waits stand out from the testable ones instead of hiding among them (Kain, S332). Three file types only: ASK, BRIEF, RULING. Every file ends with its OWED BACK line and carries its disposition head line when read. **A file for Code names in its head which Code session it is for, theme or factory (S333): a BRIEF or RULING that names a page or a component is for the theme session; everything else is for the factory session.** Ask for answers, never for work: a BRIEF is signed by Kain. Transport, not storage: the file points at the thing, never carries a second copy.
 
 Kain is never the wire. He starts sessions; he never carries, pastes or relays a message between Claudes.
 
@@ -89,4 +91,4 @@ Test: every ruling has a dated line in its owning document.
 ---
 
 *No em or en dashes in this file; checked before writing.*
-*End of The Shared Rules, Version 5.*
+*End of The Shared Rules, Version 7.*
