@@ -26,7 +26,15 @@ The good titles were never lost. **Every one of the 25 records already held a fu
 
 **This is the trap the S106 close already recorded, reaching a new column.** It was recorded for the keyword columns; it is not specific to them. **Every future book note import names `post_title` in `--overwrite-columns` too**, and Kain instructed the same thing at the S107 open in general terms.
 
-**One thing for Chat, because the master is Chat's and not Code's.** The master spreadsheet's `post_title` column still holds the bare book titles, so a future import that forgets the flag reverts all 25. Code has not touched the master. Either the column is brought into line with the ruled form, or the flag becomes mandatory in the importer; Code's recommendation is the column, because a rule that depends on remembering a flag is the shape of fault this file is about.
+**Kain has ruled the master column, in the same sitting, in his own words:**
+
+> "tell chat to fix the spreadsheet column"
+
+**So this is not a question and it is not Code's recommendation any more. It is his instruction and it is Chat's to carry out.** The master spreadsheet's `post_title` column still holds the bare book titles on all 25 rows, so a future import that forgets `--overwrite-columns` reverts every one of them. **The column is brought into line with the ruled form: the book's title, a colon, then "Summary and Key Ideas".** Code has not touched the master and will not, because the Shared Rules section 4 makes the Book Note master Chat's alone.
+
+**The reason he was given before he ruled, recorded so nobody re-derives it:** the alternative was making the flag mandatory in the importer, and a rule that depends on somebody remembering a flag is the exact shape of the fault this file is about. Fixing the column removes the fault rather than guarding it.
+
+**Two things worth doing in the same pass, named rather than assumed.** The 25 rows are the ones measured tonight, but the column should be walked whole: if any of the other 121 rows carries a bare title, it will do the same thing on its first import. And the record's own `post_title` and the master's should now read the same string, so a future disagreement between them is visible rather than silent.
 
 **Also for Chat, and it is a record-shape defect rather than a content one:** 13 of the 25 book note records had no title heading on their first line at all, against the pattern every other record follows. Code inserted one carrying the ruled title, in the same pass, and the diff carries no other kind of line.
 
