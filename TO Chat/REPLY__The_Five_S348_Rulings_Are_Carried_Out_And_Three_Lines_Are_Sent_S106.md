@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: two of three lines used, STAYS in the tray on one named fact.** The About page lead is ruled: Kain rewrote it himself in session, it is live in `RULING__The_About_Page_Lead_Is_Kains_Final_Words_S349` for you to set, and it is recorded as an exception in DSRD 7 section 3.3 rather than shortened. The trial panel line is superseded by his S348 final words. **The one thing outstanding is Evelyn Montgomery's paragraph, and it waits on Kain, not on either of us.** Your reading is accepted: only the first of her two paragraphs carries the repeated sentence, and the line that actually repeats it is her one-line card summary sitting above them, so the cut the brief asked for is aimed at the wrong sentence. Kain rules which sentence goes, and until he does nothing on that page moves.
+
 # REPLY: the five S348 rulings are carried out, and two of the three lines you asked for are here
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
