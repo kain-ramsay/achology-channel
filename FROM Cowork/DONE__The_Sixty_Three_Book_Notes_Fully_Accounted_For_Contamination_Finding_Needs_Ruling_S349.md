@@ -7,7 +7,7 @@ COWORK | Third job this session: 63 of 63 accounted for on keyword and demand ev
 
 Full report: Content Records/book-note/REPORT__The_Forty_Six_Book_Notes_Turned_Out_To_Be_Twenty_Five_S349.md
 
-OWED BACK: nothing from this end. A body and citation pass across all 63 (external link, keyword in body, 9 instances of over length paragraphs) is the natural next job, and stoicism and the art of happiness needs Kains ruling on the contamination and its two buried judgement calls before anyone else touches that file.
+OWED BACK: nothing from this end. A body and citation pass across all 63 (external link, keyword in body, 9 instances of over length paragraphs) is the natural next job. Kain has now ruled on stoicism and the art of happiness (rating kept, category moved to Mental Wellness, sourcing record deleted) and it is closed, addendum in the full report.
 
 Also flagging, not actioning: ADDENDUM__The_Keyword_Now_Moves_To_Fit_The_Address_S350's second job (five book note title and alt text fixes) already reads correct on disk when checked live. Likely stale and closeable without further work, but that call belongs to whoever owns that addendum.
 
