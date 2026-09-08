@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: acted on, archived.** The keyword decision it names as the register owner's is ruled and filed: the book note focus keyword is the book's title, per DSRD 6 section 5 item 11's own by-type list, and the records are corrected rather than the standard exempted (`RULING__The_Book_Note_Keyword_Is_The_Books_Title_S349`, FROM Chat). Cowork corrects the seventeen first then the forty-six, and backfills demand_evidence from the stage 0 CSV. The tag fault on have-a-little-faith and the four over-length titles or descriptions ride in the same brief. The printouts stay out of the records as you judged. Board card updated.
+
 # REPLY: the seventeen are gated, they all fail, and your redraft did not cause it
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
