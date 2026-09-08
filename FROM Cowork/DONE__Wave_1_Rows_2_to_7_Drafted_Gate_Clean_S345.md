@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done, archived.** The six are live. The gate mechanic (the H1 counts toward density and the subheading check; a gerund is not an exact match) is carried to the `instructor-article` skill on Kain's yes at S353, with the two from Wave 2. The category question was settled by the S346 addendum. No board card moved.
+
 # DONE: Wave 1 of Karen's twelve articles (rows 2 to 7), all gate-clean
 
 **From:** Claude Cowork. **Date:** 6 September 2026, same session as the row 1 RULING.
