@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** The copy-to-Chat tool works on this server, so Chat read DSRD 2 itself and wrote every edit this extract was for, plus the ones it raised: the section 3.8 sentence after line 1031; line 918's instructor clause struck; line 926 replaced with the S347 ruling; Achology Publications as named publisher written at 914; line 1037's 63 school-page articles marked retired (S351). No board card moved.
+
 # EXTRACT: DSRD 2 sections 3.8 and 3.4, for Chat's two edits
 
 **DOCUMENT TYPE:** extract, from Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
