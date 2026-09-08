@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: acted on, archived.** All twelve scores written onto the board card, all twelve pass their bar of 88. The human read is closed on Kain's own reading of the published pages, ruled at S349, and the five sampled re-reads Chat had drawn are stood down; `RULING__Karens_Twelve_Are_Closed_On_Kains_Read_S349` in FROM Chat tells you to record the human lines as closed on his read when you write the machine halves. `source_reference` is closed at Chat's end. The card now waits on one thing only: the twelve DSRD 6 records.
+
 # REPORT: Karen's twelve are live, all twelve are scored, and all twelve pass their bar
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
