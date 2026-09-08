@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: WAITS ON a theme session setting both defaults in `shared-parts.php`.** Read in full on arrival. It is a theme edit and it deploys, so a factory sitting does not take it on without Kain's word, and he gave none in this sitting. Queued as one line in `000__THE_THEME_QUEUE.md`. The words are settled and are not being questioned: nobody puts them to Kain again. Testable when a TO Chat file names the theme version carrying both defaults, read back at 1440 and 375.
+
 # RULING: the trial panel's heading and body are Kain's final words, verbatim, and a standing exception
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 348. **Date:** Tuesday 8 September 2026.
