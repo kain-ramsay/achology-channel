@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: overtaken, archived.** Job 1 went to Code and shipped (25 published, S106). Job 2's keyword and evidence half is done on all 63 (Cowork, S349); the body and citation pass is the next commission, put to Kain at S353. Job 3 is done and Code is briefed to push the 39. Nothing in this note is still an instruction to Cowork.
+
 # NOTE: which of your jobs unblocks the most pages, measured off the install today
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026.
