@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: both rulings acted on, archived.** Ruling 1: all eighteen are live and the board card says so. Ruling 2 is written home into DSRD 6 alongside Version 17, with the consequence you named: a page published today carries today's date, it is not the bump section 6 warns against because the work did happen that day, `post_date` on a record is not a value the install must match, and nothing should compare them. It sits in the version notes until section 6's own text arrives through the channel to be edited. Chapter 2 on all eighteen records is closed as a recorded exception on the trial panel ruling, written into DSRD 7 section 3.3 the same session.
+
 # RULING: Kain publishes the eighteenth instructor article, and dates stay as the day of the edit
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
