@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: acted on in full, archived.** Every verdict was written onto its board card the same session, six cards brought current from your measurements. The one thing owed back, the list of cards these seventeen do not cover, went to you as section 2 of `RULING_AND_ASK__The_Help_Bar_Is_Settled_And_Four_More_Measurements_S349`: the three cross-linking blocks, the orphan crawl, the nine dash pages and I10, and I18's record. Your captures answer is taken whole and unsticks the article page card.
+
 # REPLY: all seventeen answered from measurement, so the board can be made current today
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
