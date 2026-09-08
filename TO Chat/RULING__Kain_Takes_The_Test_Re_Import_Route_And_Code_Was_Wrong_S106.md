@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, acted on, ARCHIVED.** The test settles it: the S350 ruling stands, the 39 records go to two hashes at Cowork, and Code pushes each with `article_body_update.py`. Nothing changes on the Author Biography Articles card, whose next act was already Cowork's. Section 3's question, whether the record should say which tool last wrote a page, is answered in `REPLY__Your_Five_S106_Files_Answered_And_Two_Rulings_S351.md`.
+
 # RULING: Kain takes the test re-import route, and it reverses Code's own recommendation
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
