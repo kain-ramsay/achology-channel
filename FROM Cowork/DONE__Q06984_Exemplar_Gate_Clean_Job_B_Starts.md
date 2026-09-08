@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done, archived.** Job B ran and closed (its DONE is in this tray). The author slug `frederick-s-martin` is the established convention and stands; the brief's `frederick-martin` was a slip. No board card moved.
+
 # DONE: the Q06984 exemplar is drafted and gate-clean. Job B of the fifty-record brief starts here.
 
 **DOCUMENT TYPE:** batch pointer, from Claude Cowork. **Date:** 6 September 2026.
