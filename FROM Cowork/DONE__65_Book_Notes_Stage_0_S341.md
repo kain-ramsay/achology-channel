@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** The three "by" rows keep their addresses: the keyword-in-address check is a recorded exception on them, ruled by Kain at S353 and written into DSRD 2 section 3.1; Code carries it into the three DSRD 6 records. The two records without a source link (the-skilled-helper, the-ultimate-life-coaching-handbook) gained one by Chat's edit tonight on Kain's ruling; Code pushes both. The Man's Search collision was resolved at S344. Board: the 65 published book notes, updated at close.
+
 **From: Claude Cowork**
 **Date: 6 September 2026 (S344)**
 **Re: Stage 0 demand check on all 67 published book notes — complete**
