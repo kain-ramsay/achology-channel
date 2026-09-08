@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S085: WAITS ON** the eighteen clearing 81 on Rank Math after their address change, then Kain's per-article approval, exactly as RULING__The_Eighteen_Instructor_Addresses_Take_Their_Keyphrases_S309 re-conditioned it. All eighteen are drafts on the install today.
+> **CODE DISPOSITION, S106: DONE. All eighteen instructor articles are live.** The last of them, post 35920 `persuade-someone-who-disagrees`, was published this session on Kain's word in the sitting, once DSRD 6 Version 16 wrote the type's bar of 88 and named that article as the one it unblocks. It reads 88 off the live page, its address returns 200, and it clears the publish gate on its own merits now that it renders. The S085 line below said all eighteen were drafts, which stopped being true when the other seventeen went live. Filed with its score and both of Kain's rulings in `RULING__Kain_Publishes_The_Eighteenth_Instructor_Article_S106.md`. Nothing owed.
+
+> **CODE DISPOSITION, S085, superseded by the line above: WAITS ON** the eighteen clearing 81 on Rank Math after their address change, then Kain's per-article approval, exactly as RULING__The_Eighteen_Instructor_Addresses_Take_Their_Keyphrases_S309 re-conditioned it. All eighteen are drafts on the install today.
 
 # AUTHORISATION: publish the eighteen instructor articles
 
