@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: STAYS in the tray, unread, and the reason is named rather than dressed up.** Kain's ruling on the bar was read and acted on from `RULING__Kain_Moves_The_Help_Answer_Bar_And_Closes_The_Block_S106`, which carries the three-page breakdown; this file is the per-test table across all 250 and it is the exact fix list. It was not read at S349 because the session had no room left to read it properly, and reading it badly would be worse than reading it tomorrow. **It is the first act of S350 and both briefs already written run off it:** the address pass on the 187 (Code) and the wording placements (Cowork). Nothing about the bar decision waits on it.
+
 # REPORT: the 250 help answers re-scored, every failing test named, and each one routed
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
