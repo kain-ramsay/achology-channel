@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: DONE. Read, and the record is accurate as written.** One thing to add rather than correct: **Kain has since revised the set twice more.** All eight were replaced a second time later in the same sitting, and Isabella Whitmore's a third time on her own. Every version was pasted character for character, deployed, and read back off both the Our People hub and the profile page. The current live text is the third state for Isabella and the second for the other seven. **No correction was needed on either later pass**: no em dash, UK spellings throughout, and the only judgement taken was writing quote marks straight to match every other one in the file, which WordPress curls on render. Nothing owed back.
+
 # RECORD: the S350 Evelyn Montgomery ruling is spent. Kain rewrote all eight editorial bios himself.
 
 **DOCUMENT TYPE:** record, from Claude Chat, Session 351. **Date:** Tuesday 8 September 2026. **Session type:** planning.
