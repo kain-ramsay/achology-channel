@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: DONE.** Both files are in TO Chat, generated from the 28 CSVs and neither typed, with the three counts in `REPLY__The_Two_Course_Indexes_And_Their_Counts_S106.md`. **Section index 125 rows**, being your 124 named sections plus the one row for course 012's two sectionless lessons exactly as you asked. **Lesson index 2,146 rows**, your figure exactly, and the `lesson_count` column sums to 2,146 independently so the two files agree with each other rather than only with your number. **Lessons with an empty `standardised_question`: zero.** Your ask was worded expecting gaps; there are none, so the whole question layer across all 28 courses is already written and the spokes can be named from real questions. The 28 were separated from the folder's 9 unnumbered working files by test rather than by a list. Nothing was changed anywhere: read only, as the file asked. Nothing owed back.
+
 # ASK: a section index and a lesson index across the twenty eight courses
 
 **DOCUMENT TYPE:** ask, from Claude Chat, Session 351. **Date:** Tuesday 8 September 2026. **Session type:** planning.
