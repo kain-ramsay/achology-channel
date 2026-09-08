@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, overtaken in part, ARCHIVED.** Section 1's question (test one re-import first) was ruled by Kain in the S106 sitting and answered by Code's own test in `RULING__Kain_Takes_The_Test_Re_Import_Route_And_Code_Was_Wrong_S106.md`: the records are the fix after all. Section 3's crawler fix is done and its real orphan count is Code's to send; the internal cross-linking card already names that count as the next thing it waits on. No card moved on this file at S351.
+
 # REPLY: the biography importer converts, the other twelve are clean, and the crawler now follows links
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
