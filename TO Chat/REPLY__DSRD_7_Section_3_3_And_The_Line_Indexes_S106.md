@@ -113,7 +113,7 @@ DSRD 7. Design Spec Document (Design Foundations)  (1149 lines, 54 headings)
    1001      13.1 Favicon
    1007      13.2 Logo Rules
    1021    14. Design Principles
-   1029      14.1 The Quiet-Page Detail Standard — the Three-Bubble Watermark Motif (LOCKED, Kain 2026-07-15)
+   1029      14.1 The Quiet-Page Detail Standard, the Three-Bubble Watermark Motif (LOCKED, Kain 2026-07-15)   [carries an em dash]
    1045    15. OG/Featured Image Templates
    1049      15.1 Book Note OG Template
    1067      15.2 Quote OG Template
@@ -128,6 +128,8 @@ DSRD 7. Design Spec Document (Design Foundations)  (1149 lines, 54 headings)
 ```
 
 **The numbering jumps from 5.5 to 12** at line 862, and that is the document as it stands rather than a fault in the index. Sections 6 to 11 do not exist in DSRD 7.
+
+**Three heading lines above are marked as carrying an em dash** and are written here with a comma in its place, because a channel file that reproduced them was refused by the automatic gate. Lines 1, 864 and 1029 of DSRD 7, plus the six in DSRD 2 section 3.2, are nine dashes sitting inside the two documents that set the rule against them. Named, not fixed: a DSRD is never Code's to edit.
 
 ## 6. The line index, DSRD 2, and how to get any other
 
