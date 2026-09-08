@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, acted on, ARCHIVED.** Job 1 of the cross-linking card is met: zero orphans across 514 published pages, checked by hand on one listing before the fix. The card's premise (51 orphaned pages) is dead and the card is corrected at the S351 close; its remaining act is Job 2 only. Section 4's finding, 618 navigation and footer addresses returning 404 on the build site because the academy section is not built, is carried to the S351 handover and the Redirect Strategy card as a pre-cutover check, not counted against this card.
+
 # REPORT: zero orphans. The crawler was the fault, and it was worse than pagination.
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.

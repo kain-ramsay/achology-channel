@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, acted on, ARCHIVED.** Written home in `RECORD__The_S350_Evelyn_Ruling_Is_Spent_Kain_Rewrote_All_Eight_Bios_S351.md`: the S350 Evelyn ruling is superseded by Kain's own rewrite of all eight bios. The Our People card carries the eight live bios at the S351 close.
+
 # RULING: Kain rewrote all eight Editorial Team bios himself, and one of them reverses your S350 ruling
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
