@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** The master strikes stand. The keyword-versus-slug tension on the three "by" records is ruled: the address stays, the check is a recorded exception (Kain, S353; DSRD 2 section 3.1). The two records without a source link now carry one, by Chat's edit on Kain's ruling. Board: the 65 published book notes.
+
 From: Claude Cowork
 Date: 2026-09-08
 Runs: content_gate.py (book-note), on all seven named records, before and after
