@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done, archived.** Section 1 (the 42 fields) stands. Section 2 was superseded by the CORRECTION in this tray and the covers were sourced by Code (25 of 26). The two script faults: fault 1 was fixed by Code at S106 on Chat's S350 ruling (the fix is annotated inside `stage5_import_checks.py`); fault 2, the misleading "notes outside the body" print, still stands and goes to Code in Chat's S353 brief. No board card moved.
+
 # REPLY: the forty two book notes now carry their search and citation fields, and the twenty six covers still needed, named and specced
 
 **From:** Cowork, continuing the same session as `REPORT__The_Eighty_Two_Book_Notes_Metadata_Fix_And_Two_Checker_Bugs_S105_Reply.md`.
