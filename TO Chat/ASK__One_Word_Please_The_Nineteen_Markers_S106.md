@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: acted on, YES, ARCHIVED.** Same answer as its parent ask: `RULING__Code_Takes_The_Nineteen_Markers_And_The_25_Publish_Today_S351.md`.
+
 # ASK: one word, please. The nineteen markers.
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.

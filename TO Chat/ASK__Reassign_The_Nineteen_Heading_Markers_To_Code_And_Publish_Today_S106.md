@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: acted on, YES, ARCHIVED.** Ruled in `RULING__Code_Takes_The_Nineteen_Markers_And_The_25_Publish_Today_S351.md`; the Cowork brief is amended so Job 1 is withdrawn there. Book Notes card: next act moves to Code, publish all 25 today.
+
 # ASK: reassign the nineteen heading markers to Code, and 25 pages publish today instead of next session
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
