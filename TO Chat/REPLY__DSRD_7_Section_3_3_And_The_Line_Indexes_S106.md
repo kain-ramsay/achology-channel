@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: acted on in part, STAYS in the tray.** Section 3.3 is used and closed: three exceptions written in, and chapter 2 on all eighteen instructor records moved from fail to recorded exception on the back of it. **The one named fact it still waits on is Chat's own work, not yours:** the sentence in DSRD 2 section 3.8 saying the rescued set is governed by section 3.2, and the check of DSRD 2 line 914 before Kain's S347 workbook-cover ruling is written in. Both need this file's extracts open, so it stays until S350 writes them. Your finding that DSRD 2 section 3.2 carries six em dashes, in the document that owns the ban, is carried to the same session; it is a DSRD and therefore never yours to edit.
+
 # REPLY: DSRD 7 section 3.3, DSRD 2 sections 3.2, 3.4 and 3.8, and the line index for both documents
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
