@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** schema_type ruled by Kain and written into DSRD 10 section 9 and the record (LearningResource + DigitalDocument: the row existed as DigitalDocument alone, which this file missed, so the two types are now one node). The keyword is not retrofitted into the body, ruled by Kain at S353: the landing page is the page that ranks. Tags and author stay to be confirmed at commission. The workbook itself is approved (Kain, S353) and Code is briefed to render it. Board: the workbook card.
+
 # DONE: the Karpman workbook's Search and Citation Brief is written, its keyword is corrected and claimed, and the full gate has been run on it for the first time
 
 **From:** Claude Cowork. **Date:** 8 September 2026.
