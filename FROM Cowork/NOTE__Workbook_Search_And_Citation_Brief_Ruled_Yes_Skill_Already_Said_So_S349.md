@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done, archived.** The owed brief was written the same day (its DONE is in this tray). The standards file beside `content_gate.py` at the factory root is the live one, confirmed by use. No board card moved.
+
 # NOTE: the workbook Search and Citation Brief question is ruled; the skill already carried the instruction; the Karpman draft is what's out of step
 
 **From:** Claude Cowork. **Date:** 8 September 2026.
