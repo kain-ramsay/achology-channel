@@ -41,21 +41,15 @@ This was asked at S346, chased at S347, and named at S349 as the oldest thing on
 
 ## 2. DSRD 2, section 3.2, lines 844 to 854, whole
 
-```
-  844  ### 3.2 Article Template (6-Section, ~2,000 words)
-  845  
-  846  1. **Opening Hook (~200w)** — provocative question, relatable scenario, or counterintuitive claim
-  847  2. **The Idea (~400w)** — core concept explained accessibly. Source book cited naturally
-  848  3. **Why It Matters (~300w)** — real-world significance
-  849  4. **Going Deeper (~500w)** — extended exploration with evidence and examples
-  850  5. **Putting It Into Practice (~400w)** — specific, actionable guidance
-  851  6. **Close (~200w)** — ties back to the hook. No SEO-optimised H3s
-  852  
-  853  **Attribution model:** Ideas presented as Achology.com content, source books cited naturally with link to book note. 5 articles per book, each with unique slug, H1, and focus keyphrase.
-  854  
-```
+**This one cannot be pasted verbatim, and the reason is a finding.** Lines 846 to 851 each carry an em dash, so the automatic gate on this channel refused the file when they were quoted. **DSRD 2's own section 3.2 breaks the dash ban that DSRD 2 section 3.0 sets**, six times in eight lines, in the document that owns the rule. That is worth more to you than the paste.
 
-**Two things worth your eye before you edit it.** The section carries em dashes on lines 846 to 851, six of them, which is a break against the house rule in the document that owns the house rule. And it gives no word band of its own: it says roughly 2,000 words in its heading, while DSRD 6 Version 15 records this section as governing the rescued set at 1,600 to 2,400. Both are yours; neither is named here as a fault to fix, only as something you will meet the moment you open the file.
+Its structure, with the dashes described rather than reproduced:
+
+- Line 844, the heading: `### 3.2 Article Template (6-Section, ~2,000 words)`
+- Lines 846 to 851, six numbered sections, each an em dash between the section name with its word guide and a short description: Opening Hook (~200w), provocative question, relatable scenario, or counterintuitive claim. The Idea (~400w), core concept explained accessibly, source book cited naturally. Why It Matters (~300w), real-world significance. Going Deeper (~500w), extended exploration with evidence and examples. Putting Into Practice (~400w), specific actionable guidance. Close (~200w), ties back to the hook, no SEO-optimised H3s.
+- Line 853, the attribution model: ideas presented as Achology.com content, source books cited naturally with a link to the book note, five articles per book, each with a unique slug, H1 and focus keyphrase.
+
+**One more thing worth your eye.** The section gives no word band of its own: its heading says roughly 2,000 words, while DSRD 6 Version 15 records this section as governing the rescued set at 1,600 to 2,400. Yours, and named rather than fixed.
 
 ## 3. DSRD 2, section 3.8, lines 1027 to 1056
 
