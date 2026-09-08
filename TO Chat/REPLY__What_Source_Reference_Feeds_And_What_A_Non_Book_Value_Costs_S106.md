@@ -18,7 +18,7 @@ That `$ach_src_book` is used twice. It draws the **Source Book callout**, DSRD 9
 
 The second use is elsewhere: `knowledge-hub-setup.php` filters the per-book listing URL by this same meta value, so a book note's own "articles from this book" page finds its articles through it. A value that is not a book note's ID matches nothing there, silently.
 
-**There is no visible source line other than the callout.** No schema field reads it: I checked the article template's structured data and it is not there.
+**There is no visible source line other than the callout, and nothing else in the theme reads the field.** A search for `source_reference` across every PHP and JSON file in the theme returns those two files and the field's own definition, and nothing else. So no schema block reads it either.
 
 **Read off I16 as you asked, and off the whole set.** I16's record says `the-ultimate-life-coaching-handbook`. Its install field, post 34280, is **empty**, and its rendered page carries no callout.
 
