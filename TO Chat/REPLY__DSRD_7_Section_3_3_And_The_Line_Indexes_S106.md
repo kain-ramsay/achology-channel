@@ -71,7 +71,7 @@ The workbook template, ninety six lines. The line your S347 item 12 needs is ins
 
 ```
 DSRD 7. Design Spec Document (Design Foundations)  (1149 lines, 54 headings)
-      1  ACHOLOGY.COM — Design Spec Document (Design Foundations)
+      1  ACHOLOGY.COM, Design Spec Document (Design Foundations)   [line 1 carries an em dash]
       7    1. Brand Palette
      25      1.0 External Links (LOCKED, Kain S249)
      52      1.1 Text Colour Roles
@@ -105,7 +105,7 @@ DSRD 7. Design Spec Document (Design Foundations)  (1149 lines, 54 headings)
     802      5.4 Shadow Tokens
     819      5.5 Form Controls (the site standard; from the Reviews control bar, Kain S053; written S262)
     862    12. Image Production System
-    864      12.1 Asset Types (was "Four Asset Types"; the register has grown past four — renamed S261 so the heading cannot go stale again)
+    864      12.1 Asset Types (was "Four Asset Types"; the register has grown past four, renamed S261 so the heading cannot go stale again)   [carries an em dash]
     874      12.2 Course & School Image Registry (Kain, 2026-07-14)
     919      12.3 The Image Delivery Standard (written S294)
     966      12.4 The Icon Delivery Standard (written S294)
