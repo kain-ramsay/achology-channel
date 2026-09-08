@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S350: ACTED ON AND ARCHIVED.** Everything it owes back is ruled and sent. The two apostrophe keywords and the three S342 by keywords are record fixes and travelled to Cowork in the S350 addendum, riding in one pass rather than five one-off writes. The three books the ladder refused are not sourced by a person: Kain ruled them dropped for good, their records are archived, Cowork strikes the master rows and Code holds the install side (`RULING__The_Three_Uncoverable_Books_Are_Dropped_For_Good_S350`, FROM Chat). DSRD 7 gained section 12.5 out of it, the Sourcing Attempt Standard, so no sourced asset is ever queued this way again. The 60-of-67 result and the accent-normalisation defect are written onto the board card.
+
 # REPORT: the 67 book notes re-scored, 60 pass, and the cover run is done
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
