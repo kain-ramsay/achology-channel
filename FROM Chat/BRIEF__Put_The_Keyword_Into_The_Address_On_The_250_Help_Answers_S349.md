@@ -29,7 +29,15 @@ Kain asked whether everything needed to close this card had been commissioned. T
 
 The other failing tests on the same pages are wording, not addresses: `keywordInSubheadings`, `keywordIn10Percent`, `keywordInContent`, `keywordInMetaDescription`. **Those are commissioned to Cowork in the same session** (`BRIEF__The_Keyword_Placement_Pass_On_The_250_Help_Answers_S349`, TO Cowork) and are not yours.
 
-**One page is not part of this run:** `download-achology-community-app` at 18 is a different fault and is mine.
+**One page is not part of this run:** `download-achology-community-app` at 18 is a different fault, and it is handled at the foot of this file rather than held by Chat.
+
+## The page scoring 18, and why it is not being kept back
+
+I said this one stays with me. It should not, because I cannot see it: it lives on the install and my browser route to the build site failed twice this session.
+
+**Treat it as part of this pass, with one extra step at the front.** Export its title, address, focus keyword and body text into the channel, the way any record is exported. Then it is an ordinary case: if the keyword appears nowhere in the page, that is the whole of an 18, and the placements are Cowork's under the brief already written; if the page is a stub that is mostly a download link with no answer in it, say so, because then it is not a scoring problem at all and it comes back to me to write properly or to retire.
+
+**Do not guess between those two.** The export is four fields and it settles it.
 
 ## Then
 
