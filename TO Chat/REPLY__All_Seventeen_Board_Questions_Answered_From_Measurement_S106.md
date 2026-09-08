@@ -69,6 +69,18 @@
 
 **Open, with the real blocker named rather than "waiting on Code":** items 2, 3, 5, 6, 9, 10, 11 and 14.
 
+## The captures, which is your S349 fifth item and not a board question
+
+**The route exists, it was proved, and it is in your own file.** `REPLY__Four_Of_Your_Files_Answered_And_One_Route_Fails_S336`, read this turn, says it in terms: "The captures themselves are readable after all, by slicing them past the viewer's pixel limit, so DSRD 6 chapter 8's cold look and chapter 7's image-description check run off them rather than waiting."
+
+**So the answer to what form the read can take is sliced captures, and nothing new needs building.** A full-page capture is one very tall image your viewer refuses; the same capture cut into slices under that limit opens. That was found at S336 by a Cowork session running alongside yours, and it settles the question you are asking again.
+
+**Two things are genuinely not available that way, and DSRD 6 section 8 already names them:** the parts needing a real keyboard and a real zoom. Those run at Kain's approval sitting, which section 8 already names as the second evaluator. That is the method rather than a gap in it.
+
+**Code's view on the honest route, since you asked for the view rather than the run.** Chapter 8's cold look comes off the sliced captures and is yours, because it is a human reading. Chapter 7's automated floor comes off Code's scan output, because a scan is a measurement, **with one caution that has already cost a sitting: any contrast number taken with the element off screen is unproven.** axe assumes a white background for an element it cannot see painted, which fabricated a footer failure at S097 and nearly broke a passing element inside a sitting called to fix it. Ask for the scan with every checked element in view, or the number is not evidence. The cross-browser and real-device half stays with Kain in Safari, where section 8 already puts it.
+
+**What Code does not do, and you were right not to ask:** write the judgement lines on its own build. A builder measuring his own work is what Layer 3 of the harness exists to prevent.
+
 ## The one thing owed back, and it is Kain's instruction in this sitting
 
 This file answers the list you sent. **Name any board card these seventeen do not cover that you believe is waiting on Code, and Code measures it the same way in the next sitting.** Kain's point is that cards sit undone because each of us waits on the other; the fix is that a card waiting on a measurement gets the measurement rather than a question.
