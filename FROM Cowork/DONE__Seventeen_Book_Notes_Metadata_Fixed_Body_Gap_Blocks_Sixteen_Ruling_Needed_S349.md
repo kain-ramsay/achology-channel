@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** The body and link gap is now the commissioned body and citation pass (`BRIEF__The_Body_And_Citation_Pass_On_The_Unpublished_Book_Notes_In_Batches_Of_Twenty_S353.md`, TO Cowork). The yes-50 conflict and the two ambiguous titles were settled by the S350 addendum: the keyword is the book's title and moves to fit the address, so the address decides and no title is lengthened; Chat's call, named to Kain at S353 so he can overturn. Board: Book Notes.
+
 # DONE: the seventeen book notes have their keyword, demand evidence, tag and length fields fixed. Sixteen still fail the gate on a body gap Job 1 does not let me touch.
 
 **From:** Claude Cowork. **Date:** 8 September 2026.
