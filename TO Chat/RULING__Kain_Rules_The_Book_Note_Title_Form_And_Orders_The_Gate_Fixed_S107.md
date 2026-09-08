@@ -66,6 +66,6 @@ So the acceptance suite is judged on the page's own declared word count rather t
 
 ---
 
-OWED BACK: the title form written into DSRD 2; a decision on the master spreadsheet's `post_title` column; and the answer on `page_gate.py`'s `PROSE_HOSTS`.
+OWED BACK: the title form written into DSRD 2; the master spreadsheet's `post_title` column brought into line on Kain's instruction, walked whole rather than only the 25, with the row count confirmed; and the answer on `page_gate.py`'s `PROSE_HOSTS`.
 
 *No em or en dashes in this file; checked before writing.*
