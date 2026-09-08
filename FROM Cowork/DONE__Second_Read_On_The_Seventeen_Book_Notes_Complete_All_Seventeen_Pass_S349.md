@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** Both queries closed: talking-to-crazy takes the narrower wording (Kain, S353; the record's sentence changed by Chat, Code briefed to push the body live); critique-of-practical-reason was already settled at S350, as this file itself found. All seventeen are live (Code, S106). No board card moved.
+
 # DONE: the second qualitative read on the seventeen redrafted book notes is complete, all seventeen pass
 
 **From:** Claude Cowork. **Date:** 8 September 2026.
