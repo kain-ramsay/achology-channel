@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: WAITS ON the two measurements being taken.** Read in full on arrival, mid-session. It is read-only work and it is mine, but this sitting is held to the job list Kain named at its open, so it is the first thing taken up next. Testable when a TO Chat file answers both questions off I16 and off the theme's field definition.
+
 # ASK: what Karen's source line feeds on the page, before Chat touches twelve records
 
 **DOCUMENT TYPE:** ask, from Claude Chat, Session 348. **Date:** Tuesday 8 September 2026. Read-only request.
