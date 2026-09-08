@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done, archived.** Kain's ruling carried out in full; register clean. No board card moved.
+
 # NOTE: Q06995's keyword reclaimed to "rules we invent". Kain's ruling, not a fix I decided myself.
 
 **DOCUMENT TYPE:** note, from Claude Cowork. **Date:** 7 September 2026.
