@@ -33,6 +33,51 @@
 | query_variants | drama triangle worksheet, karpman drama triangle exercise, victim persecutor rescuer worksheet, how to break the drama triangle pattern |
 | schema_type | LearningResource, proposed. DSRD 10 section 9 has not yet assigned a workbook type; flagged for Kain or Chat to ratify or correct, not yet a DSRD-confirmed fact. |
 
+## Search and Citation Brief
+
+### 1. The question and the need behind it
+
+A reader has just recognised the Victim, Persecutor or Rescuer pattern, most often from an explanation of Karpman's model or a course lecture naming it, and wants more than the explanation: a structured way to apply it. They search for a worksheet rather than another article because they already understand the model in outline and want to work with it, not read about it again. They will use the answer to work through one real relationship of their own, on paper, alone or ahead of a group discussion.
+
+### 2. The reader's problem and the outcome the page gives
+
+Before the workbook, the reader can name the three positions in the abstract but has not applied them to a real relationship of their own, so the pattern stays a concept. After it, they can identify which corner they occupy most often in one specific relationship, test that account against a counterfactual, and name one thing they could decline next time the pattern starts. That is the one outcome: a completed exercise against a real relationship, not a deeper explanation of the model.
+
+### 3. Achology's contribution
+
+The model itself is Karpman's, not Achology's, and the brief does not claim otherwise. What this workbook adds is its own worked exercise: six steps carrying one real relationship through the model in the teaching's own order, including a counterfactual test (what happens to the account if the other person is removed and replaced by ordinary bad luck) and a before and after certainty rescore, one to ten, that makes the shift in the reader's own account visible to them rather than left implied. The competing worksheets found in this session's demand search (section 5 below) offer identification checklists; none carries this counterfactual-and-rescore structure.
+
+### 4. Principal entities
+
+Achology.com. Stephen Karpman, the model's originator, working in transactional analysis. *A Game Free Life* (Stephen B. Karpman, 2014), his book setting out the model in full. "Fairy Tales and Script Drama Analysis," Transactional Analysis Bulletin, 1968, his original paper. The Cognitive Behavioural Therapy (CBT) Practitioner Course, the course this workbook accompanies (DSRD 5, course 007).
+
+### 5. Claims that need evidence, and where the evidence is
+
+| Claim | Source | Kind |
+|---|---|---|
+| Karpman first described the model in 1968 | Karpman, "Fairy Tales and Script Drama Analysis," Transactional Analysis Bulletin, 1968 | evidence |
+| Karpman set the model out in full in a later book | Stephen B. Karpman, *A Game Free Life*, 2014 | evidence |
+| A great deal of relational conflict is people performing roles nobody assigned | Achology's own reading, drawn from lecture 030 of the CBT Practitioner Course | Achology's own |
+| The six-step exercise, its counterfactual test and its before/after certainty rescore | Achology's own worked method, built for this workbook | Achology's own |
+| The congregation illustration, a speaker needing an audience that keeps needing him | Retold in the third person from the source lecture's own first-person account | Achology's own |
+| Real, sustained demand for a practical drama-triangle resource, distinct from an explanatory article | Web search, 8 September 2026, full paste in the Sourcing record below | evidence |
+
+### 6. Supporting questions
+
+None. A workbook answers one practical need, applying the model to one real relationship, and does not branch into adjacent questions the way an article does. The six discussion questions inside the workbook serve group conversation, not search.
+
+### 7. Planned links
+
+Internal: the course page, `/academy/cognitive-behavioural-psychology/cbt-practitioner/` (Cognitive Behavioural Therapy (CBT) Practitioner Course, DSRD 5), named on the front cover. External: none.
+
+**This departs from this standard's default of at least one internal Knowledge Hub link and one external citation link, and the departure is deliberate, not an omission.** The workbook-creation skill's own rule (Kain, S325): "Inside the working pages, the only link is the course page... Nothing else is linked anywhere," and content_gate_standards.json's own workbook entry: "Two destinations only... Any third address in a workbook is a fault." A workbook is a companion resource read alongside a course, not a citation-style page competing for an organic answer, so a source link would itself be the defect. This is the same call the record's own Sourcing note already named as contradiction 4; carried forward here rather than resolved differently, because today's ruling settled whether a workbook drafts a brief at all, not this narrower sub-question. Flagging it plainly rather than picking silently.
+
+Inbound: none named yet. `karpman-drama-triangle.md`, the sibling field-authority article, is a natural inbound candidate once this workbook has a live address, but its own `inbound_from` field is not this brief's to edit.
+
+### 8. Technical statement
+
+Inherits the site-wide crawl and index standard (DSRD 6 chapter 6, DSRD 3): indexable at cutover, canonical at its own address, content present in the rendered page, structured data only for what is visible. One departure: `address` stays unresolved, which this standard's own field table (section 3) says is correct for a workbook today, optional rather than required, pending commission.
+
 ---
 
 ## Body
