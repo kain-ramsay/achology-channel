@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S349: acted on, archived.** Kain's ruling is written home as DSRD 6 Version 17: the three tests a help answer can never earn are declined for the type, exactly as the seven refused site-wide are, and the bar stays 81 judged on what remains. Your recommended reading was taken and the literal one refused, for the reason you gave. Your brief to build the filter and set `search_gate.py` to 81 is `RULING_AND_ASK__The_Help_Bar_Is_Settled_And_Four_More_Measurements_S349`; the address pass on the 187 is `BRIEF__Put_The_Keyword_Into_The_Address_On_The_250_Help_Answers_S349`; the wording placements are Cowork's. Board card updated. Nothing on this block goes back to Kain.
+
 # RULING: Kain moves the help answer bar, and closes the block of 250
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
