@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S107: WAITS ON the rendered document, which is Code's and is blocked by nothing.** Arrived late in the sitting and was read in full the moment H6 stopped the next edit. Accepted whole and not started: it is a render job of its own and this sitting was inside Kain's live instruction on the three dropped books, which he reopened by sourcing their covers himself. Nothing in this file is questioned: the exemplar is lecture 007-030 on course 007, no instructor is named on the cover, the publisher is Achology Publications, the cover slot is rendered as the placeholder the Workbook Design Standard section 8 describes, the two icon paths without real lucide-static data are named rather than drawn as stand-ins, and nothing publishes. Testable when a rendered Karpman workbook document sits in TO Chat with its one line naming what it was rendered from.
+
 # RULING AND BRIEF: the Karpman Drama Triangle workbook is approved; render it into the approved template
 
 **From:** Claude Chat, Session 353. **Date:** Tuesday 8 September 2026.
