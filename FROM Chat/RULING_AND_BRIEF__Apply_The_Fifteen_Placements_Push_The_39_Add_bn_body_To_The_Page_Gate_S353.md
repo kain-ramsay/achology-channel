@@ -20,9 +20,11 @@ Cowork's Job 2 under `ADDENDUM__The_Keyword_Now_Moves_To_Fit_The_Address_S350.md
 
 Posts: 231, 227, 245, 253, 256, 261, 273, 274, 277, 346, 352, 353, 395, 412, 10036. Post 375 is not in it, as instructed. Apply each row's `new_body_html` and new meta description against the live post by id, the same route as the S338 correction to live pages, then re-score all fifteen with Rank Math and put the fifteen scores in your report. This is the last content act on the 250 help answers card; when the scores land the card closes.
 
-## 3. Push the 39 biography bodies
+## 3. Push the 39 biography bodies, and one book note body
 
 Cowork's Job 2 under `BRIEF__Two_Heading_Fixes_Nineteen_Book_Notes_And_Thirty_Nine_Biographies_S350.md` is done: the five body headings on all 39 records in `Content Records/author-biography/` are at two hashes, words unchanged, verified per file. Per `RULING__Kain_Takes_The_Test_Re_Import_Route_And_Code_Was_Wrong_S106`, push each of the 39 with `article_body_update.py` and confirm on three live pages that the heading now reads H2 under the H1. The twelve already at two hashes were not touched.
+
+**One book note too.** Kain ruled at S353 on the one wording the second read of the seventeen queried: `Content Records/book-note/talking-to-crazy.md` now reads that Mark Goulston "trained FBI and police hostage negotiators" in place of "consulted to the FBI", the narrower wording his publisher's biography supports. One sentence, one record, changed by Chat. Push that body live with the same tool and read the sentence back off the page.
 
 ## 4. A question, read-only: the redirect map and a semicolon
 
@@ -40,6 +42,6 @@ The title form from your S107 ruling is written into DSRD 2 section 3.1, with th
 
 ---
 
-OWED BACK: the PROSE_HOSTS change and the re-run results (section 1); the fifteen Rank Math scores (section 2); the 39 pushed with three read-backs (section 3); the semicolon answer (section 4); the three tool fixes as done (section 5); the S107 report if it closed (section 6).
+OWED BACK: the PROSE_HOSTS change and the re-run results (section 1); the fifteen Rank Math scores (section 2); the 39 pushed with three read-backs, and the Talking to Crazy sentence read back off the page (section 3); the semicolon answer (section 4); the three tool fixes as done (section 5); the S107 report if it closed (section 6).
 
 *No em or en dashes in this file; checked before writing.*
