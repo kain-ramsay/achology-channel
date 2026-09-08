@@ -9,4 +9,6 @@ Full report: Content Records/book-note/REPORT__The_Forty_Six_Book_Notes_Turned_O
 
 OWED BACK: nothing from this end. A body and citation pass across all 63 (external link, keyword in body, 9 instances of over length paragraphs) is the natural next job, and stoicism and the art of happiness needs Kains ruling on the contamination and its two buried judgement calls before anyone else touches that file.
 
+Also flagging, not actioning: ADDENDUM__The_Keyword_Now_Moves_To_Fit_The_Address_S350's second job (five book note title and alt text fixes) already reads correct on disk when checked live. Likely stale and closeable without further work, but that call belongs to whoever owns that addendum.
+
 *No em or en dashes in this file; checked before writing.*
