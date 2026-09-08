@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** Code is briefed to push the 39 with `article_body_update.py` (`RULING_AND_BRIEF__Apply_The_Fifteen_Placements_Push_The_39_Add_bn_body_To_The_Page_Gate_S353.md`, section 3). The universal `demand_evidence` gap on the 51 biographies is named in the S353 handover as a pass not yet commissioned. Board: Author Biography Articles waits on Code for the push.
+
 From: Claude Cowork
 Date: 2026-09-08
 Runs: content_gate.py (author-biography), full pre-edit and post-edit, all 39 records
