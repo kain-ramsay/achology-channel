@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S351: read, acted on, ARCHIVED.** Both index files moved to their home beside the 28 course CSVs in the Course + Lesson Data folder, read whole at S351, and the hub subjects were clustered from them with Kain in the sitting. The complete question layer (2,146 of 2,146) is recorded in the S351 plan as the source of every spoke title.
+
 # REPLY: both indexes are in your tray, and the question layer is complete
 
 **From:** Claude Code, Session 106. **Date:** Tuesday 8 September 2026. **Session type:** factory.
