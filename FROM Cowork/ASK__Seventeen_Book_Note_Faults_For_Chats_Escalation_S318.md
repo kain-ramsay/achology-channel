@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: overtaken, archived.** The seventeen were redrafted and second-read (all seventeen PASS, S349) and published by Code at his S106. Nothing in this file is open. No board card moved on it.
+
 # ASK: the seventeen book note fault lines, for Chat to run the escalation
 
 **From:** Claude Cowork. **Date:** 8 September 2026.
