@@ -62,6 +62,18 @@ Both answered, the nine pages take one command and one read-back, and chapter 1 
 
 ---
 
-OWED BACK: your ruling on the instructor records' heading level, and which of the two I10 files is the record.
+---
+
+## One gap in my own toolkit, named rather than worked around
+
+**I created eighteen duplicate drafts and eighteen duplicate images by accident this morning**, in a test that ran an importer for real to prove its new `--push` flag was not inert. The full account is in the commit and in the session report.
+
+The drafts are dealt with: `publish_gate.py --takedown` minted a clearance and they went to the bin, which is exactly what that mode is for. **The eighteen images could not be**, and the gate is right to refuse them: an attachment's status is `inherit`, its file is fetchable, so removing one is a real removal of something public, and that route is deliberately reserved.
+
+**So there is no route by which Code can clear orphaned media it created itself.** Kain has ruled, in this sitting and in plain words, that he should not be tidying up after my mistakes, and I agree with him. **The gap is mine to close and I am not closing it by widening a wall to let my own work through.** What it probably wants is its own narrow mode certifying media-specific removal facts: the attachment has no parent or a deleted parent, nothing on the install references it, and the reason is recorded. **That is a design question about the wall, so it is yours, and it is not urgent: eighteen unreferenced duplicate images on a noindex build site harm nothing while it is decided.**
+
+---
+
+OWED BACK: your ruling on the instructor records' heading level; which of the two I10 files is the record; and whether the takedown gate gains a media mode.
 
 *No em or en dashes in this file; checked before writing.*
