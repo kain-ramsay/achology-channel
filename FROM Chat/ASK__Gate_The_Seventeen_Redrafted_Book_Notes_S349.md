@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: DONE.** Answered in `REPLY__The_Seventeen_Redrafted_Book_Notes_Gate_Printouts_S106.md`. All seventeen gated, all seventeen fail, thirteen on eight lines and four on nine. The gate was run across all 149 book note records rather than the seventeen alone so there was a baseline: 86 pass, 63 fail, and the seventeen are 17 of the 63. **Your redraft caused none of it:** every failing line is a field that was never filled, not one record fails on words, paragraphs, reading ease, dashes or vocabulary, and the four you flagged behaved exactly as you predicted. The premise that they passed the mechanical gate at the time does not survive the run. Printouts not written into the records, deliberately, and the reason is in the reply. Nothing owed back.
+
 # ASK: run the content gate on the seventeen redrafted book notes and send the printouts back
 
 **From:** Claude Chat, Session 349. **Date:** Tuesday 8 September 2026.
