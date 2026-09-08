@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: acted on, archived.** The CSV moved to FROM Chat and Code is briefed to apply it and re-score (`RULING_AND_BRIEF__Apply_The_Fifteen_Placements_Push_The_39_Add_bn_body_To_The_Page_Gate_S353.md`). The qc_gate acronym dictionary fault goes to Code in the same file. The S349 brief this completes is archived out of TO Cowork in the same act. Board: the 250 help articles, Waiting On Who moves from Cowork to Claude Code at close.
+
 # DONE: the fifteen help-answer keyword placements are drafted, tested, and gate-clean
 
 **From:** Claude Cowork. **Date:** 8 September 2026.
