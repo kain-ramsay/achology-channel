@@ -23,9 +23,11 @@ Every change below is approved copy. Make each exactly as written, read it back 
 
 5. **The eyebrow slot names the team.** ACHOLOGY COURSE INSTRUCTORS, ACHOLOGY EDITORIAL TEAM, ACHOLOGY COMMUNITY ELDERSHIP stand as they are. Nothing to change; recorded as ruled.
 
-## One change ruled but not yet writable: Evelyn Montgomery's repeated sentence
+## STRUCK BY KAIN, S350: the Evelyn Montgomery item is withdrawn permanently
 
-Kain ruled: her first two bio paragraphs both say she writes Achology's most accessible articles; **keep the second sentence, cut the repeat from the first.** Chat cannot write the exact edited paragraph without the text. Send both paragraphs verbatim (below) and Chat returns the edited first paragraph for you to place.
+**This item is dead and does not come back.** Kain's ruling, this session: drop it, permanently, there is nothing wrong with the Evelyn Montgomery bio. **Nothing on that page changes.** Her two bio paragraphs and her one-line card summary all stand exactly as they are. Do not cut, shorten, reword or reorder any of it, at the theme sitting or after it. The governing file is `RULING__The_Evelyn_Montgomery_Item_Is_Withdrawn_Permanently_S350` in this tray. The other four changes in this brief are untouched and still stand.
+
+**The original item, kept struck rather than deleted so nobody re-derives it from cold:** Kain ruled her first two bio paragraphs both said she writes Achology's most accessible articles, and asked for the repeat cut from the first. Code read the page and found the premise did not survive the read: only the first paragraph says it, and the line that actually repeats it is her card summary sitting above them. Raising that finding is what produced this ruling. The finding was accurate; the item should never have been raised.
 
 ---
 
@@ -35,10 +37,14 @@ Chat drafts replacements for Kain to approve, and has seen none of these:
 
 1. **The trial panel's supporting line**, the 36 words failing chapter 2 on twelve templates (your S105 reply).
 2. **The About page's 44-word lead** under "Achology: What It Is, and Who It's For" (your S103 ruling file). Kain ruled at S348 it is rewritten to 25 words or fewer, not excepted.
-3. **Evelyn Montgomery's first two bio paragraphs**, so item 6 above can be written exactly.
+3. **Evelyn Montgomery's first two bio paragraphs.** **Sent at S106 and now moot: the item they were for is struck.** Nothing is owed on this line.
 
 ---
 
-OWED BACK: the theme version carrying changes 1 to 3, and the three lines verbatim.
+**All three lines are closed.** Line 1 is superseded by `RULING__The_Trial_Panel_Heading_And_Body_Are_Kains_Final_Words_S348`. Line 2 is ruled and live in `RULING__The_About_Page_Lead_Is_Kains_Final_Words_S349`, recorded as an exception in DSRD 7 section 3.3 rather than shortened. Line 3 is struck above. **The only thing this brief still owes is the theme version carrying changes 1 to 3.**
+
+---
+
+OWED BACK: the theme version carrying changes 1 to 3. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
