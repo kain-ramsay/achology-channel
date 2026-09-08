@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done, archived.** The twelve are live. Item 1 (K01) closed by a later DONE; item 6 (category) closed by the S346 addendum; item 3's source-lesson correction is already in KAREN_SOURCE_LESSONS_S344.md. Item 4's two gate mechanics (tokenising of hyphenated compounds; high-syllable vocabulary and Flesch) carried to the `instructor-article` skill on Kain's yes at S353. No board card moved.
+
 # DONE: Wave 2 of Karen's twelve articles (rows 8 to 12), all gate-clean — the full twelve now complete
 
 **From:** Claude Cowork. **Date:** 6 September 2026, same session as Wave 1.
