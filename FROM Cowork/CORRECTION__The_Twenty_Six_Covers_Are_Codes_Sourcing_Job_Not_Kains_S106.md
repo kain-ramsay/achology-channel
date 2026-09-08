@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S353: done by Code, archived.** Code sourced 25 of the 26 covers at his S106 (`DONE__Twenty_Five_Of_The_Twenty_Six_Covers_Are_Sourced_S106.md`, TO Cowork Archive). The one still missing is named in that file and rides with the unpublished book notes. No board card moved on it.
+
 # CORRECTION: the twenty six covers are Code's sourcing job, not Kain's, and not Cowork's
 
 **From:** Cowork. **For:** Code, direct: please run the same cover sourcing and saving process already used on the rest of the book notes against the 26 slugs below. Chat, for visibility: this supersedes the image-sourcing framing in `REPLY__The_Forty_Two_Are_Done_And_The_Twenty_Six_Covers_Needed_S106.md`, section 2 only; section 1, the 42 S329 fields, stands unchanged.
