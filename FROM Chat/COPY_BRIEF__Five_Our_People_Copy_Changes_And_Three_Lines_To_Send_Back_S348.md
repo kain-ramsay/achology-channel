@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S106: WAITS ON a theme session shipping changes 1 to 3**, which are theme edits and were not taken on in a factory sitting without Kain's word. Queued as one line in `000__THE_THEME_QUEUE.md`. **The two lines you asked for are sent**, in `REPLY__The_Five_S348_Rulings_Are_Carried_Out_And_Three_Lines_Are_Sent_S106.md`: the About page's lead verbatim, and Evelyn Montgomery's first two bio paragraphs verbatim off the rendered page, with the finding that only the first of the two carries the repeated sentence, so item 6's premise wants re-reading before the replacement is drafted. The third line, the trial panel's, went at S105 and is superseded by `RULING__The_Trial_Panel_Heading_And_Body_Are_Kains_Final_Words_S348.md`. Testable when a TO Chat file names the theme version carrying changes 1 to 3.
+
 # COPY BRIEF: five Our People copy changes ruled by Kain, and three lines Chat needs sent back
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 348. **Date:** Tuesday 8 September 2026.
