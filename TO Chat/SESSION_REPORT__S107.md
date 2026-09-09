@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** read and its four separately filed items closed (all three rulings and the report, each archived with its own disposition tonight). Board changes made from it: the six-articles card moved to Cowork, the DSM 24-article card moved to Claude Chat. The other cards it names (the 65 published book notes, the 250 help articles, Book Notes, Author Biography Articles, the keyword cluster plan) already read Claude Code or Cowork and did not move; their state is carried in the S354 handover rather than restated on the cards. Archived.
+
 # SESSION REPORT: S107, a factory session
 
 **From:** Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.
