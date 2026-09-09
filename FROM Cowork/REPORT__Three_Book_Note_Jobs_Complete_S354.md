@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** read and closed. One line falls out for Code and goes to him at close: push the single new cross-link sentence to the live a-guide-to-rational-living page, nothing else on that page changed. Two findings noted rather than acted on: job two's fix was already in place, so whatever check found those two records empty ran against a state that no longer exists; and the lowercase book title on line 46 of the-feeling-good-handbook.md is left for a copy pass rather than fixed inside a mechanical job. Archived S355.
+
 # REPORT: three book note jobs, all complete
 
 **From:** Cowork, Session 354. **Date:** Wednesday 9 September 2026.

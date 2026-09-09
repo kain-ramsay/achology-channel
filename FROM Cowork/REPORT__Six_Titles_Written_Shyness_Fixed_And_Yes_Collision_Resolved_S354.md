@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** read and closed. Nothing owed back. Cowork's one named judgement call, keeping `prod_rm_focus_keyword` at "Shyness" rather than extending the title change to it, is accepted: extending it broke four gate checks on a record whose slug and body opening were never in the brief's scope. Archived S355.
+
 # REPORT: six titles written, Shyness fixed, Yes! collision already resolved
 
 **From:** Cowork, Session 354. **Date:** Wednesday 9 September 2026.
