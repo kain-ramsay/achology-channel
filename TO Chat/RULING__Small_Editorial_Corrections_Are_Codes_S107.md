@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** written home and closed. The narrowing in section 3 is now inside Rule 8 of The Harness, at Version 3.13, carrying Kain's words and the reasonable-person test. Board card moved: the harness and instruction sets. Archived.
+
 # RULING: small editorial corrections are Code's, and do not travel to Chat
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.
