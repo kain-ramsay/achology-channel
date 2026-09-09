@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S108: WAITS ON Kain's live quote page hero sitting, which has held this whole session. Read in full at S108 the moment the channel wall fired, and nothing in it touches the work in hand. Untouched and owed whole: the install sweep across every post type and the site pages, the records sweep across all six folders, and the one REPLY with its table and three counts. Nothing has been swapped or reworded anywhere. **Two things noted for whoever runs it:** section 1.3 tells us not to touch `Q07026__life-comes-with-no-rulebook.md`, which is the record behind the quote page this session has been building on, so the sweep and that rewrite must not cross; and the theme's own code comments carry the word too, which the brief's scope does not cover and which I will raise rather than assume either way.
+
 # BRIEF: "plainly" is banned. Sweep every live page and every record, swap for "simply" where it fits, reword where it does not
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 356. **Date:** Wednesday 9 September 2026.
