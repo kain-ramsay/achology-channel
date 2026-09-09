@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** acted on. The four corrections this file owes were written into DSRD 7 section 15.2 (background is the portrait of the person quoted, quote mark gains a top offset, the four type bands recorded as settled with their values in the build sheet) and DSRD 2 section 1.1 (rebuilt whole; the category background line corrected, a caption component added). No board card moved. Archived S355.
+
 # RULING: the quote card is settled, and four of its open items are closed
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 108, theme session. **Date:** 9 September 2026.

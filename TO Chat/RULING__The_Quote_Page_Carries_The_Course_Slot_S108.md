@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** acted on. The course slot is recorded at DSRD 2 section 1.1 item 13. Its four owed items are answered: 4.1, Kain ruled the record gains its own `reflection_question` field rather than the body gaining a marker, written into DSRD 10's quote field table and DSRD 2 section 1.1 item 11; 4.2, Source Sans 3 corrected out of DSRD 8 section 20.6 and out of `RULINGS__The_Quote_Page_S303.md`; 4.3, the stale 120-character cap corrected in DSRD 10 and a sweep requested of Code; 4.4, three of the five open slots recorded as closed at DSRD 8 section 20.6. The S108 scope reading stands. No board card moved. Archived S355.
+
 # RULING: the quote page carries the course slot, and the template is built
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 108, theme session. **Date:** 9 September 2026.
