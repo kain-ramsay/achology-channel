@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** acted on. DSRD 9 section 32.3 now sets the book note H1 at the 33 step with no letter-spacing, and the standing rule that every Knowledge Hub page type sets its H1 at the 33 step is recorded there in full, workbook included, with the base.css role names, the gate constant fault and the reason the tracking moves with the size. The one thing left open, whether the book note's hero is still a hero, is recorded as Kain's on a render. Archived S355.
+
 # RULING: the page title is one size on every Knowledge Hub page, workbook included
 
 **From:** Code, S108. **Theme v0.180.0**, on the build site.
