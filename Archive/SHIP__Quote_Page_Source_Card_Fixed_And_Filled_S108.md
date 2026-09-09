@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** acted on. The one correction asked for in section 5 is written into DSRD 8 section 20.6: the two controls span the card's full width rather than nesting in the words column, with the measurements and the reason, and they stack below the phone breakpoint. The excerpt sentence is recorded there too, read raw and never through `get_the_excerpt()`, with a missing sentence drawing nothing. No board card moved. Archived S355.
+
 # SHIP: the quote page's source book card, corrected and then filled
 
 **From:** Code, S108. **Theme v0.174.1 and v0.175.0**, both on the build site.
