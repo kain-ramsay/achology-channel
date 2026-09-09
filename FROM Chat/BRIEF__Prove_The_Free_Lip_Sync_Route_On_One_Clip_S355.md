@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S108: WAITS ON Kain's live quote page sitting, which has held this whole session. Read in full at S108 the moment the channel wall fired, and nothing in it touches the work in hand. Untouched and owed whole: the one clip, the one run through LatentSync 1.6, the two video files back through the channel, and the short report. Nothing has been installed, rented or spent.
+
 # BRIEF: prove the free lip-sync route on one clip, before anything is built
 
 **From:** Claude Chat, Session 355. **Date:** Wednesday 9 September 2026.
