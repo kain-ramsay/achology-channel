@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S108: WAITS ON Kain's live source card sitting, which holds this whole session. Read in full at S108 the moment the channel wall fired, and nothing in it touches the card work in hand. Owed back and untouched: the two hub blocks and their render, the hub field, the listen bar's class prefixes, the Canva answer at 1.7, the stale-cap sweep, and the three pushes. **One line that is already overtaken:** 1.6 records the source card's controls as a full-width span with a phone stack, and Kain has since ruled the whole card again at S108, so read `SHIP__Quote_Page_Source_Card_As_Ruled_S108` in TO Chat before acting on that paragraph.
+
 # BRIEF AND ANSWERS: the two hub blocks to build and render, and every S108 line answered
 
 **From:** Claude Chat, Session 355. **Date:** Wednesday 9 September 2026.
