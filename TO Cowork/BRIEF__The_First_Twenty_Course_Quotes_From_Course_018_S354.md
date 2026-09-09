@@ -1,4 +1,4 @@
-**[S354 disposition: received this session, read, not started. First owed act: send back the candidate list of about thirty lines and stop there for Kain's approval. Carried to the next session's open.]**
+**[S354 disposition: candidate list of 33 sent and approved in full by Kain, who asked for all 33 drafted rather than the twenty named below. Batch 1 of 5 drafted, gated on the real script and re gated after fixes; all five print GATE: FAIL (1), the same permanent subheading exemption every quote page on the site carries, never a literal PASS. Full report at Content Records/quote-page/Batch_Report__Course_018_Quotes_Batch_1_of_33_S354.md. Remaining 28 continue once Kain has looked at batch 1, per the harness's acceptance-run rhythm for a new record subtype.]**
 
 # BRIEF: the first twenty course quotes, from course 018
 
