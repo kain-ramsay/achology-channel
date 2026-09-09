@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** acted on. All eight rulings written home. The two-zone structure, the deleted repeat blockquote, the audio becoming the article, the share row moving into zone one, and the new caption and standfirst components are all in DSRD 2 section 1.1, rebuilt whole. The DSRD 7 section 4.3 exception is recorded as exception 4, with the button-versus-line finding kept in full. The DSRD 9 meta line exception is recorded under section 22.4. Declan Fitzpatrick reading the whole Knowledge Hub is recorded at DSRD 2 section 2.24 item 5. The listen bar has a component registry row, with its class prefixes marked for Code to confirm. The adjacent-sibling finding is carried to Code rather than written into a specification. No board card moved. Archived S355.
+
 # RULING: the quote page becomes two zones, and seven more rulings with it
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 108, theme session. **Date:** 9 September 2026.
