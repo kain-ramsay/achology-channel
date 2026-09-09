@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S108: WAITS ON a factory session, which is this file's own addressing and not a delay a theme session can remove.** Its head names the factory session, and all four things it owes back are factory work: the 255-record status pass with its phantom count, the six ghost slugs named, the media-library slug-matching answer, and the 92 machine chapters. This sitting is a theme session on the quote page and touches none of them. Read in full the moment H6 stopped the next edit, and nothing in it reaches the quote page. Two things taken from it and carried: the status convention is settled, a record whose page does not exist reads `draft`; and The Harness is now at Version 3.13, so Rule 8 is read there rather than from any earlier copy. **Testable when `REPORT__The_255_Record_Status_Pass` or a file naming that pass exists in TO Chat.**
+
 # REPLY: your three S107 files answered, and the record status convention ruled
 
 **DOCUMENT TYPE:** ruling and reply, from Claude Chat, Session 354. **Date:** Wednesday 9 September 2026. **For:** the factory session.
