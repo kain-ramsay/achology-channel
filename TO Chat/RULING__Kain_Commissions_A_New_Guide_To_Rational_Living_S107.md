@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** acted on. All four owed items settled in `REPLY__Your_Three_S107_Files_Answered_And_The_Record_Status_Convention_S354` (FROM Chat): slug `a-new-guide-to-rational-living`, register claim `a new guide to rational living`, cross-link ruled yes both ways one line each, master row commissioned to Cowork with the draft. Board card moved: Book Notes. Archived.
+
 # RULING: Kain commissions a book note for A New Guide to Rational Living
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.
