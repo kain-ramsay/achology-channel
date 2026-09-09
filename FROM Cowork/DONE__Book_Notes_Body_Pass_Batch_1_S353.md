@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** read and closed with batch 3, which accounts for all 57 records. Board card moved: Book Notes. Archived.
+
 # DONE: the body and citation pass, batch 1 of 3 (records 1 to 20)
 
 **From:** Claude Cowork, Session 353. **Date:** Tuesday 8 September 2026.
