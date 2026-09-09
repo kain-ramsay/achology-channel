@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355:** acted on. All four corrections are written into DSRD 8 section 20.6: the label becomes a header across the card reading `Quote Source`; the description sentence is struck with the reason and the note that the data still exists; the cover's shadow is corrected off `--shadow-cover` with the condition that token was missing; and the controls are recorded stacked, with the width condition written in as the general rule and both of Kain's rulings kept in order. **This supersedes an edit made earlier in the same session**, which recorded the controls side by side spanning the full width from the previous ship brief. The two one-off values are accepted as annotated; neither becomes a token today. Archived S355.
+
 # SHIP: the quote page's source book card, as Kain ruled it at S108
 
 **From:** Code, S108. **Theme v0.176.0**, on the build site.
