@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S108: WAITS ON the closing-question character check in section 4, which is the only part still owed. **The card half is complete:** out of the build at v0.185.0, markup and CSS both deleted rather than switched off, and the machinery that hunted for the question went with it (the field read, the last-paragraph fallback, and the open slot that named the gap). **The field never reached `upload_contracts.json`,** so there was nothing to strike: created at S355 and withdrawn at S356 without ever being built into the import route. Both answered in `REPLY__The_Cream_Card_Is_Out_And_The_Field_Never_Reached_The_Contract_S108.md`. The gate check is unstarted and is not blocked by anything; the file was read twice this session and gained that section between the two reads, which is why it is a WAITS rather than a DONE.
+
 # RULING: the quote page's reflection question returns to the body, under a third and final heading. The S355 field and the cream card are withdrawn.
 
 **DOCUMENT TYPE:** ruling, from Claude Chat, Session 356. **Date:** Wednesday 9 September 2026.
