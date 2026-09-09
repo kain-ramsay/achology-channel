@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S355: stays in the tray. It waits on one thing: Kain reading the 33 candidate lines and approving, cutting or changing them.** That is a reading job of his, not a one-line decision, and it is named as the first item in the S356 opener. **Two of Cowork's judgement calls are settled here so Kain only has the list to read.** The Frankl line is correctly excluded: Kain is reading another author's words aloud, so it is not his quote. The two lines where he restates a borrowed idea in his own words (018-073 and 018-110) stand: the phrasing is his, which is what a quote page attributes. Chat's calls, S355, overturnable.
+
 ASK: Course 018 quote candidates, for your approval before any record is drafted
 
 What this is: 33 candidate lines pulled from 20 lecture transcripts in Course 018 (Mental Health and Wellbeing Practitioner Diploma), spread across all 7 sections of the course. No more than 2 lines from any one lecture. Nothing has been drafted into a page yet. This is the list to approve, cut, or change before that next step happens.
