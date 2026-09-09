@@ -19,8 +19,12 @@ Kain read the drafted quote page and ruled the whole frame too cryptic for a fir
 
 ## What this changes for you now
 
-Only the build in front of you: no cream card, and the body's last block is an H2 with prose under it. Nothing else in this file is a commission.
+Only the build in front of you: no cream card, and the body's last block is an H2 with prose under it. Nothing else in this file is a commission, except the one line below.
 
-OWED BACK: one line confirming the card is out of the build and the field's fate. Nothing else.
+## One gate check to build, ruled by Kain in the same sitting
+
+The closing question on every quote page is held to a character band: 79 to 89 characters, counted from the sentence's first character to its question mark, lead-in word included. The standard is already written into `content_gate_standards.json` under the quote-page type as `closing_question_chars`, with its note. What does not exist is the check: `content_gate.py` needs to read the body's last sentence on the quote-page type and fail it outside the band. Build it when you next touch the gate; it is not urgent for the sitting.
+
+OWED BACK: one line confirming the card is out of the build and the field's fate, and one line when the character check is in the gate. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
