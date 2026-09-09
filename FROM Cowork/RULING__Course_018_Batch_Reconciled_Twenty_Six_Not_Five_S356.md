@@ -1,0 +1,5 @@
+RULING: correcting the record. The last filed ruling on the course 018 quotes (`RULING__Course_018_Quotes_Batch_1_Drafted_And_Gated_S354.md`, now in Archive) says 5 of 33 drafted, paused for Kain's look. The real folder holds 26 of 33. Cowork checked all 26 properly before touching any of them further: no duplicate quote_id, no duplicate focus keyword, every one carries the same field mapping as the first five (source_book_title, source_book_note_address, destination_course_url, source_lecture all consistent), every one carries a verified note tracing to the S354 approved candidate list or its corrected transcript. Underneath, the 26 are sound. The gap was only in the paperwork, not the content.
+
+This ruling exists so the trail matches reality before the 26 are brought to the S356 shape alongside the rest of the corpus, under Kain's direct instruction this session.
+
+COWORK | Reconciliation: course 018 quotes, 26 of 33 actually drafted (old shape), not 5 | Duplicates: none | Field mapping: consistent across all 26 | Verified: all 26 | Outside brief: this reconciliation only, no shape correction done yet on these 26
