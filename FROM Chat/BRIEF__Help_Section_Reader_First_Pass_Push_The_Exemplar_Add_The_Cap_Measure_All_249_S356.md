@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S108: WAITS ON its four jobs landing. Kain ruled it starts tonight and it is in hand. **One of its two defects is already explained:** the stray closing quotation mark on every help H2 is not in any body, it is the section divider's own mark, which `achology_heading_dividers()` puts INSIDE the heading element, so a reader sees the orange glyph and anything reading the page as words sees the character stuck to the end of the title. It is therefore on every help answer, every article and every book note, not only the exemplar, and the fix is to move the mark out of the heading rather than to edit any content.
+
 # BRIEF: the help section's reader-first pass. Push the exemplar, add the paragraph cap to the gate, measure all 249, fix two defects, and answer one question
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 356. **Date:** Wednesday 9 September 2026.
