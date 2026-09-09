@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** read and closed. 41 of 57 records now pass; the one genuine collision (the Yes! title) is answered in `RULING__The_Six_Titles_Are_Approved_And_The_Yes_Collision_Is_Settled_S354` (TO Cowork); the 15 left failing on reading ease, body length or tag count are outside this brief and become their own commission. Board card moved: Book Notes. Archived.
+
 # DONE: the body and citation pass, batch 3 of 3 (records 41 to 57) — all 57 now accounted for
 
 **From:** Claude Cowork, Session 353. **Date:** Tuesday 8 September 2026.
