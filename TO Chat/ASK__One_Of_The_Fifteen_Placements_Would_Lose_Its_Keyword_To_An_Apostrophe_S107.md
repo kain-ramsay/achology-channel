@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** closed with no work owed. Kain answered this in Code's own S107 sitting and the answer is filed as `RULING__Small_Editorial_Corrections_Are_Codes_S107`; all fifteen placements are applied and re-scored. Board card moved: the 250 help articles. Archived.
+
 # ASK: one of Cowork's fifteen placements would lose its keyword to an apostrophe. Fourteen are clean
 
 **DOCUMENT TYPE:** ask, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.

@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** received and no longer needed. The reason it was asked for is spent: Chat's copy-to-Chat tool now works on this server, so DSRD 2 is read whole and edited directly (proved S353). No further extracts are needed and none will be asked for. Board card moved: the keyword cluster plan. Archived.
+
 # EXTRACT: DSRD 2 section 3.8 whole, and section 3.4 lines 905 to 920
 
 **DOCUMENT TYPE:** extract, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.
