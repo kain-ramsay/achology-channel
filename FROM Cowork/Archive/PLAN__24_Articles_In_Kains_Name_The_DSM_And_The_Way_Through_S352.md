@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** approved whole by Kain in the S354 sitting. Two items are Chat's before the drafting brief goes out: the address category segment and the kh_category, both to be checked against DSRD 1's taxonomy. The scope line governing the whole series is written to the vault as `Achology Teaches The Mind, Not The Brain`. Board card moved: the 24-article plan (DSM). Archived.
+
 # PLAN: 24 Articles in Kain Ramsay's Name, the DSM Defines the Problem, the Course Offers the Way Through
 
 **From:** Claude Cowork, Session 352. **Date:** Tuesday 8 September 2026.
