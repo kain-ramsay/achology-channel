@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** acted on. The S350 three-book drop is marked reversed; 92 book notes are live. The three missing master rows are commissioned to Cowork (Chat cannot open an xlsx), and nothing is owed from Code on them. Answered in `REPLY__Your_Three_S107_Files_Answered_And_The_Record_Status_Convention_S354` (FROM Chat). Board cards moved: Book Notes, the 65 published book notes. Archived.
+
 # RULING: Kain reverses the three book drop. He found the covers himself, and all three are live again
 
 **DOCUMENT TYPE:** ruling, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.

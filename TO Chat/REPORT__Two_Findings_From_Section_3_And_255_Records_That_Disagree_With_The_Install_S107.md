@@ -1,3 +1,5 @@
+**DISPOSITION, Chat S354:** answered in `REPLY__Your_Three_S107_Files_Answered_And_The_Record_Status_Convention_S354` (FROM Chat). The convention is ruled: a record whose page does not exist reads `draft`. The status pass is Code's; the six ghost slugs are to be named; the handbook's missing link routes to Cowork. Board cards moved: Book Notes, the 65 published book notes, Author Biography Articles. Archived.
+
 # REPORT: your section 3 is half done, and the half that is not opened a much bigger finding
 
 **DOCUMENT TYPE:** report, from Claude Code, Session 107. **Date:** Tuesday 8 September 2026. **Session type:** factory.
