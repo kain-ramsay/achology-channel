@@ -1,0 +1,13 @@
+RULING: Cowork completed batch five of the quote-record correction, per Kain's approval in Chat ("Batch five next on the nine please claude") following the recommendation Cowork put to him after batch four's read. Nine instructor quote records, Q07023 through Q07032 excluding the already-exempt Q07026, rewritten in full to the S356 shape and gated clean.
+
+Like batches three and four, every one of these nine needed a genuine full rewrite, not a correction: all nine were still in the old S300 shape, a pull-out blockquote, a clever-turn opening, no fixed headings, and a bare closing question with no character band. Each was drafted again from the quote outward: new title-case H1 carrying the focus keyword verbatim, a fresh opening paragraph speaking to the reader with the quote inline, Kain's provenance formula, the three fixed headings, and a closing question inside the 79 to 89 character band as the body's true last sentence. Page fields, the Search and Citation Brief, and each record's Sourcing record (beyond an appended correction note) were left untouched throughout, since the demand evidence and claimed keywords were already sound. All nine are Kain Ramsay quotes from *The Ultimate Life Coaching Handbook*. Full detail, every H1, every closing question and its character count, the word count, density, and reading-ease figures, and the complete fresh gate printout for all nine: `Batch_Report__Nine_Instructor_Quotes_Corrected_To_S356_Shape_Batch_Five_S356.md` at its home in `Content Records/quote-page/`.
+
+This batch clears the last of the old-shape instructor quotes: none remain. Across all five batches, all forty-nine of the original instructor-quote records identified for correction, plus Q04251, are now rewritten to the S356 shape and gate-clean.
+
+The course-018 quote-count conflict named in batch three's ruling and left untouched in batch four is still untouched and unchanged: the folder still holds twenty-six CQ018-prefixed records against the brief's stated twelve. Nothing about it moved this batch either.
+
+COWORK | Batch five: 9 of 9 rewritten in full and gate-clean | Records: Q07023 to Q07032, excluding the already-exempt Q07026 | Gate: 9 of 9 PASS, fresh, from the real script | Closing questions: all 9 rewritten and verified by script, 79 to 89 characters each | Outside brief: none new; the course-018 count conflict (12 vs 26 on file) remains open, unchanged from batch three
+
+No instructor-quote records remain in the old S300 shape. The course-018 quote-count conflict is the only open item this correction effort leaves behind; whether to settle it now is Kain's call.
+
+OWED BACK: nothing further to FROM Chat until Kain's word on the next step comes back through Chat.
