@@ -4,10 +4,10 @@ Like batches three and four, every one of these nine needed a genuine full rewri
 
 This batch clears the last of the old-shape instructor quotes: none remain. Across all five batches, all forty-nine of the original instructor-quote records identified for correction, plus Q04251, are now rewritten to the S356 shape and gate-clean.
 
-The course-018 quote-count conflict named in batch three's ruling and left untouched in batch four is still untouched and unchanged: the folder still holds twenty-six CQ018-prefixed records against the brief's stated twelve. Nothing about it moved this batch either.
+The course-018 count itself is not an open conflict: re-read this batch, `RULING__Course_018_Batch_Reconciled_Twenty_Six_Not_Five_S356.md` already settles it at 26 of 33 drafted, verified sound, no duplicates. What it leaves open is that those 26 have not yet had the S356 shape applied. Nothing about that moved this batch.
 
-COWORK | Batch five: 9 of 9 rewritten in full and gate-clean | Records: Q07023 to Q07032, excluding the already-exempt Q07026 | Gate: 9 of 9 PASS, fresh, from the real script | Closing questions: all 9 rewritten and verified by script, 79 to 89 characters each | Outside brief: none new; the course-018 count conflict (12 vs 26 on file) remains open, unchanged from batch three
+COWORK | Batch five: 9 of 9 rewritten in full and gate-clean | Records: Q07023 to Q07032, excluding the already-exempt Q07026 | Gate: 9 of 9 PASS, fresh, from the real script | Closing questions: all 9 rewritten and verified by script, 79 to 89 characters each | Outside brief: none new; the 26 course-018 quotes are reconciled and verified but still in the old shape, unstarted
 
-No instructor-quote records remain in the old S300 shape. The course-018 quote-count conflict is the only open item this correction effort leaves behind; whether to settle it now is Kain's call.
+No instructor-quote records remain in the old S300 shape. The 26 course-018 quotes, already reconciled and verified, are the only set left in an old shape; whether to run them as the next batch is Kain's call.
 
 OWED BACK: nothing further to FROM Chat until Kain's word on the next step comes back through Chat.
