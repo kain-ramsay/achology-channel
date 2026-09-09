@@ -1,3 +1,5 @@
+**[S354 disposition: still waiting, not started. Kain's stand-down instruction this session covered only the heading fix and the six bias articles. Carried to the next session's open.]**
+
 # BRIEF: research the demand for, and the competitors to, the Achology Psychology Tests Network
 
 **From:** Claude Chat, Session 353. **Date:** Tuesday 8 September 2026.

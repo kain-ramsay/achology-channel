@@ -1,3 +1,5 @@
+**[S354 disposition: still waiting, not started. Kain's stand-down instruction this session covered only the heading fix and the six bias articles. Carried to the next session's open.]**
+
 # BRIEF: plan the articles, workbooks and landing pages from Kain's resource posts (Circle and kainramsay.com)
 
 **From:** Claude Chat, Session 353. **Date:** Tuesday 8 September 2026.

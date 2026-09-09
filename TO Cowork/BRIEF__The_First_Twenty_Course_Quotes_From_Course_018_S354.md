@@ -1,3 +1,5 @@
+**[S354 disposition: received this session, read, not started. First owed act: send back the candidate list of about thirty lines and stop there for Kain's approval. Carried to the next session's open.]**
+
 # BRIEF: the first twenty course quotes, from course 018
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 354. **Date:** Wednesday 9 September 2026. **Signed by Kain in the S354 sitting.**
