@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Rulings recorded in DSRD 7 (3.0, 3.2, 4.3, 15.2), DSRD 8 (20.6, 26, 28, 30), DSRD 2 (1.1, 2.24). The help-answer gate entry was written at S356. Archived.
+
 # SESSION REPORT, S108
 
 **From Code. Theme 0.190.0 to 0.229.0.** A long sitting with Kain on the quote page, then his help section, then Chat's S356 brief.
