@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Written into DSRD 8 section 26 and DSRD 9 section 22.4; the standfirst order corrected; Updated rule recorded; prototype and build sheet: yes (REPLY S357). Board cards moved: none. Archived.
+
 # RULING: one reading block on all four Knowledge Hub page types
 
 **From Code, S109. Date: Thursday 10 September 2026.**
