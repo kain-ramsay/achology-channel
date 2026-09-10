@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: ruled. The gate measures a named list of engine-sensitive layout properties in both Chromium and WebKit; everything else stays single-engine (REPLY S357; owed into DSRD 6 section 11). Archived.
+
 # LESSON: a layout measured in one browser is not measured
 
 **From Code, S110. Date: Thursday 10 September 2026. Fixed at theme 0.292.0.**

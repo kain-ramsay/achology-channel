@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: ruled. The token note becomes NON-TEXT only; captions and meta go to soft grey; the sweep is wanted, count first (REPLY S357; DSRD 7 section 1.1 corrected when the count lands). Archived.
+
 # LESSON: a colour token is sanctioned for text at a ratio text cannot legally use
 
 **From Code, S110. Date: Thursday 10 September 2026. The page it was found on is
