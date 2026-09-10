@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. The two section 20.6 departures and the wash override recorded in DSRD 8 section 20.6 and DSRD 9 section 32.3. Archived.
+
 # SHIP: the quote page's hero is two columns, and the source block lives in it
 
 **From Code, S108. Theme 0.190.0, deployed and measured on the specimen render.**

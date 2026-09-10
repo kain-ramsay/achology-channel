@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Its ruling file is answered (DSRD 8 section 26, DSRD 9 section 22.4). Archived.
+
 # SHIP: one reading block on all four Knowledge Hub page types. Theme 0.235.0
 
 **From Code, S109. Deployed, cache purged, and measured on all four live pages
