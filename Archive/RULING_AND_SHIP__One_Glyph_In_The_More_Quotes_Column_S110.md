@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 7 section 5.2.1 (the quote row) and DSRD 8 section 30. Nothing owed. Archived.
+
 # RULING AND SHIP: every mark in the quote page's more quotes column is the card's own mark, and the title is a step larger
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.264.0,
