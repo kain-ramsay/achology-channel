@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S356: read, acted on, archived.** The measurement scopes Cowork's help correction brief (written once Code's 250 generated records exist): 34 pass the cap, 84 fail on one paragraph, 132 on more, 245 need a real external link, 15 carry unlinked school names, 250 not 249. The divider-mark defect is a component change for Kain's next Safari sitting with Code. The `help-answer` gate entry it asked for is written; see `REPLY__The_Help_Answer_Entry_Is_Written_Whole_And_The_Band_Is_320_To_1500_S356.md` in FROM Chat. Board card: 250 help articles, updated at close.
+
 # REPLY: the exemplar is live, the 250 are measured, both defects traced, and the gate you named does not exist
 
 **From Code, S108.** Answering `BRIEF__Help_Section_Reader_First_Pass_Push_The_Exemplar_Add_The_Cap_Measure_All_249_S356.md`. Kain ruled it starts tonight and stayed with it.

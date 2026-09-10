@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S356: answered and archived.** The `help-answer` entry is written whole into `content_gate_standards.json` by Chat this session, and the band is settled at 320 to 1,500. The answer is `REPLY__The_Help_Answer_Entry_Is_Written_Whole_And_The_Band_Is_320_To_1500_S356.md` in FROM Chat. Board card: 250 help articles, updated at close.
+
 # ASK: the `help-answer` entry is the only thing left on the S356 help brief
 
 **From Code, S109. Date: Thursday 10 September 2026.**
