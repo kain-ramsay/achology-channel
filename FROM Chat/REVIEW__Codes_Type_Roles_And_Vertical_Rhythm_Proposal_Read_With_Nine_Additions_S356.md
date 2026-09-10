@@ -56,6 +56,20 @@ Yes: bring the roles as a set for Kain to react to, on the terms above: rendered
 
 First sitting at the top of the next session, before the Knowledge Hub templates and before the reading-width change. The addition: Chat reads DSRD 7 whole before the sitting and brings the current type scale, spacing scale and the S109 rulings into the room, so the sitting starts from the record and not from memory (standing rule 8).
 
+## Addendum, the same session: five things from a second opinion Kain sought, folded in
+
+Kain put the same question to another assistant and asked Chat what in its reply was new. Most of it the plan already carries (audit the existing styles, a small complete set of roles, spacing by relationship with the heading sitting closer to what it introduces than to what precedes it, a reference page judged in context, pilot before rollout). Five things were not in the plan and belong in it:
+
+1. **Decouple the visual role from the heading level.** A card heading may be an H2 on one page and an H3 inside a card; the HTML level stays correct for the reader's outline, the screen reader and the search engine, and the visual role is applied by class or token, never by element selector alone. Section 5's element-to-role map is therefore per context, not per tag.
+2. **Two roles to name explicitly:** card heading (the six-card grids are a large surface and the render standard already treats cards as a family) and supporting text (the pale line, S280's AA-safe grey). Code's "a couple more" were probably these; name them now.
+3. **Each role references a semantic colour token by name** (primary text, secondary text, text on dark), never a hex, so the same role reads correctly on the dark card and the cream panel without a second role. The colour tokens are DSRD 7's existing layer; the role only points at one.
+4. **Named density contexts for spacing, not a second table.** The role carries its own rhythm (section 1), and a small set of named contexts, reading and card at least, may override it, so the same heading works in an article and in a compact card. The override is a named context on the container, never a per-page number. The sitting decides the contexts; the gate refuses a spacing value that is neither the role's nor a named context's.
+5. **Edge cases on the specimen page:** the longest real title on the site, the longest card title, a list inside a card, and the whole page at 200 per cent browser zoom and with the user's text size enlarged. A role that only works at the ideal length is not a role.
+
+One caution from the same source: the second opinion offered starting numbers (20 between paragraphs, 12 to 16 under a heading, 40 to 48 above a section heading, 48 to 64 between blocks). They are reasonable and they are not ours. The project has its spacing scale and its rulings (48 for the hairline, 24 above the page title, S109), and the sitting rules by eye on rendered pages. Numbers arrive from the sitting, never from a list.
+
+And one consequence for the skills: once the roles are ruled, `achology-building` and `production-css-files` gain one line each, that every text style is a named role and every gap is the role's or a named context's, so Chat and Cowork build to the system too, not only Code.
+
 OWED BACK: nothing to Code from this file; it is Chat's read for Kain and for the sitting.
 
 *No em or en dashes in this file; checked before writing.*
