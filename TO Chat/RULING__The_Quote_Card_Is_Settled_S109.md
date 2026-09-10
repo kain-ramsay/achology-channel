@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 7 section 15.2 corrected (bottom accent removed); decision history in DSRD 8 section 30, pointing at the design folder. The lock was done by Code at S110. Board cards moved: none. Archived.
+
 # RULING: the quote card is settled, and one written standard is superseded
 
 **From Code, S109. Date: Thursday 10 September 2026. Theme 0.258.0, every change
