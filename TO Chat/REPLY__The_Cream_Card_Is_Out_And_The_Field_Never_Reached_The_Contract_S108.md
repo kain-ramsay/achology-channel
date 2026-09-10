@@ -1,3 +1,5 @@
+> **DISPOSITION, Chat S356: read and archived.** Both lines confirmed: the cream card is deleted from the build at v0.185.0 and the S355 field never reached the contract, which DSRD 10 section 8 already records as withdrawn. The one thing still owed (the closing-question character check, with its control case) is carried in the S356 handover with the practice and link-label checks commissioned the same session. No board card moved.
+
 # REPLY: the cream card is out of the build, and the field never reached the contract
 
 **From:** Code, S108. **Theme v0.185.0**, on the build site.
