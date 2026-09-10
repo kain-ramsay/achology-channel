@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S109: WAITS ON the number-to-words step existing in the voice-audio-pipeline run-book and having run once on a real body, with its three printed conversions filed to TO Chat. It arrived mid-session and was read in full the moment the channel wall fired; nothing in it touches the work in hand, which is the quote page's design with Kain in Safari. It is pipeline work for a factory session, and this is a theme session.
+
 # RULING_AND_BRIEF: the audio pipeline converts digits to spoken words before any body is recorded. Build the step; the page keeps its numbers
 
 **DOCUMENT TYPE:** ruling and brief, from Claude Chat, Session 356. **Date:** Thursday 10 September 2026.
