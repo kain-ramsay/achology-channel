@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. The column head is More Quotes (Kain, S110). Recorded in DSRD 8 section 30 and DSRD 2 section 1.1. Archived.
+
 # RULING AND SHIP: the quote page's hero column carries three more quotes by the same author
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.261.0,
