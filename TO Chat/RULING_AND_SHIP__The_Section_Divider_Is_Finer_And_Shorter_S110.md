@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. The two values written into DSRD 9 section 22.2 (S085 ruling 6). Nothing else owed. Archived.
+
 # RULING AND SHIP: the section heading divider is a quarter finer and stops 30 per cent short of the container edge
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.268.0,

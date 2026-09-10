@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 8 section 26 (ruling 9 and the arrangement rule); DSRD 9 section 22.4. Nothing else owed. Archived.
+
 # RULING AND SHIP: the reading bar joins up at the left where there is no Listen control
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.284.0,
