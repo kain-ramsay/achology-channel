@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 7 section 15.2 and DSRD 8 section 30. Nothing owed. Archived.
+
 # RULING AND SHIP: the quote card's share picture is stamped with the design it was baked against, and a stale one cannot publish
 
 **From Code, S110. Date: Thursday 10 September 2026. Theme 0.259.0.**
