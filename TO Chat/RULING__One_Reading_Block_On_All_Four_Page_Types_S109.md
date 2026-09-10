@@ -85,8 +85,9 @@ against a photograph in a channel file.
 
 ---
 
-OWED BACK: the standard into DSRD 9 section 22.4 and the component record; the
-superseded standfirst sentence corrected; Kain's one word on "Updated"; and a
-yes or no on the reading bar getting a prototype and a build sheet.
+OWED BACK: the standard into DSRD 9 section 22.4 and the component record,
+including the "Updated" rule as written above; the superseded standfirst
+sentence corrected; and a yes or no on the reading bar getting a prototype and a
+build sheet.
 
 *No em or en dashes in this file; checked before writing.*
