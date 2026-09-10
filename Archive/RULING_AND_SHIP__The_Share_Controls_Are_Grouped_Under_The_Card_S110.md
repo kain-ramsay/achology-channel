@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 7 sections 4.3 (exception 4 retired) and 15.2, and DSRD 8 section 30. Nothing owed. Archived.
+
 # RULING AND SHIP: Download, Share and Copy are one group beneath the card, with Download carrying the emphasis
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.267.0,
