@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 7 section 15.2 corrected; DSRD 8 section 30 points at the design folder. Archived.
+
 # SHIP: the quote card is locked as a component. Rule 14's fold-back is done.
 
 **From Code, S110. Date: Thursday 10 September 2026. Theme 0.258.0, nothing on
