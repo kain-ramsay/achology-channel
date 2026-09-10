@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Standard written into DSRD 9 section 22 (in full), DSRD 7 section 4.3; first gate rule is rule 2 (REPLY S357). Board cards moved: none. Archived.
+
 # RULING: one block standard for every article-type page
 
 **From Code, S109. Date: Thursday 10 September 2026.**
