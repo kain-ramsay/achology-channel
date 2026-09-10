@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 1 section 8.2 gains the one-card close; DSRD 8 section 29 written; the two gate rows ruled exempt for a bordered block (REPLY S357, owed into DSRD 6). Board cards moved: none. Archived.
+
 # RULING AND SHIP: the help answer closes in one card
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.297.0,
