@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 8 section 27 ruling 4 and DSRD 9 section 22.5a. Nothing owed. Archived.
+
 # RULING AND SHIP: the contents card carries the word count, not the reading time
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.283.0,
