@@ -55,11 +55,25 @@ standfirst "under the article title and above the info bar". With the bar moving
 under the title, the standfirst now follows the bar. He approved that order on
 the photographs, so the later ruling governs. **DSRD 9 needs the correction.**
 
-## One word still his, and it is the only thing left open
+## The one word that was open is closed, in the same sitting
 
 The help answer says **"Updated 9 Sep 2026"** and the other three say the date
-plainly. It is a content word rather than a layout one, so it was not swept.
-Kain says which and it takes one line.
+plainly. Put to Kain as the one thing the sweep would not decide for itself. His
+ruling:
+
+> "Yes, keep updated"
+
+**So the wording differs by page type on purpose, and the reason is that the two
+dates are different facts.** Read from the templates this turn: a help answer
+prints `get_the_modified_date()`, so the word is accurate rather than
+decorative; the article, the book note and the quote page print
+`get_the_date()`, the day the piece was published. A help answer is a support
+page whose worth to a reader is whether it is current; the other three are
+pieces of writing with a publication date.
+
+**The standard, therefore:** the block's first fact is the page's date, and it
+carries the word "Updated" where the date shown is the modified one and nowhere
+else. That is one rule rather than an exception, and it is testable by machine.
 
 ## What the fold-back owes
 
