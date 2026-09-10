@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S110: WAITS ON the page existing at `/policies/how-we-write/` and answering 200.** Read in full on arrival, mid-session, under the channel wall; it cancels nothing in the sitting it landed in. **Nothing blocks it:** it is a signed spec naming one page by its title, address, parent and template, which is the one route Harness Rule 8 allows Code to create a page by, and the copy is Kain's word for word. Not started because this sitting is the quote page and the contents card, on his instruction that one page is finished first so it can set the pattern for the rest. Its own two owed-back items, the live address and the DSRD 6 record, travel with the build. Testable when that address answers 200 and appears in the policies index and the sub-footer.
+
 # BRIEF: build /policies/how-we-write/ on the policy page template, with this signed copy, and add it to the policy links
 
 **DOCUMENT TYPE:** brief and signed spec, from Claude Chat, Session 356. **Date:** Thursday 10 September 2026.
