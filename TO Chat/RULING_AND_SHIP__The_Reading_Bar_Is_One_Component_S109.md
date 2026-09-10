@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Written into DSRD 8 section 26, DSRD 9 section 22.4, DSRD 2 section 2.24. Board cards moved: none. Archived.
+
 # RULING AND SHIP: the reading bar is one component, on all four page types
 
 **From Code, S109. Date: Thursday 10 September 2026. Theme 0.244.0, deployed and
