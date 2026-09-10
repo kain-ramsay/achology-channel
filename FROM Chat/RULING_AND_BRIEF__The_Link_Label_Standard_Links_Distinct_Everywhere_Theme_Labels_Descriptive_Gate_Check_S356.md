@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S110: WAITS ON a Safari sitting with Kain, which two of its three parts end in.** Arrived mid-session and read in full under the channel wall, on the turn it landed; it cancels nothing in the sitting it arrived in, which is Kain's own work on the article and help page templates. Part one is a comparison of link treatments put to him one at a time on the quote exemplar, and part two brings the changed component labels to him rendered the same way, so both end at his eye rather than at a build. **Part three, the `content_gate.py` check on `banned_link_labels`, needs nothing from him and is unblocked**; it is commissioned alongside the closing-question and practice checks already outstanding, and it is named in the next-session prompt so it is not carried as though the whole file were blocked. Testable when the two RULINGs are filed and the site-wide hit count is reported.
+
 # RULING_AND_BRIEF: the link-label standard. Links visibly distinct everywhere, every theme-written label descriptive, and a gate check for the banned labels
 
 **DOCUMENT TYPE:** ruling and brief, from Claude Chat, Session 356. **Date:** Thursday 10 September 2026.
