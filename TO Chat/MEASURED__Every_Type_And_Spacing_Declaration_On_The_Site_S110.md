@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: stays. It waits on one thing: the foundations sitting with Code, which reads it as the type and spacing half of the audit. Archived when that sitting's RULINGs land.
+
 # MEASURED: every type and spacing declaration on the site, S110
 
 **From Code, S110. Date: Thursday 10 September 2026. Read off the theme at
