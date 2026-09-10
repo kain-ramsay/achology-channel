@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 8 section 29 written; the name is ach-closing-card (REPLY S357). Board cards moved: none. Archived.
+
 # RULING AND SHIP: the closing card is a component, and it is owed a DSRD 8 entry
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.322.0,

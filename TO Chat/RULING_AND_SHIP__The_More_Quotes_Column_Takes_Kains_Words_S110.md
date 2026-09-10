@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 2 section 1.1 and DSRD 8 section 30. Nothing owed. Archived.
+
 # RULING AND SHIP: the head of the quote page's more quotes column is "More Quotes"
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.262.0,
