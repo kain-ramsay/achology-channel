@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Every ruling it names is folded (DSRD 7, 8, 9); the two asks are answered in REPLY S357. Archived.
+
 # SESSION REPORT: S109
 
 **From Code, S109. Date: Thursday 10 September 2026. A theme session.**
