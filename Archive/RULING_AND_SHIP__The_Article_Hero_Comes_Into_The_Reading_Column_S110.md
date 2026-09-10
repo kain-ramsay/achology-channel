@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 9 sections 22.2, 22.3, 22.4 and 27 corrected; DSRD 8 section 28 written (the band restates light-ground component colours). Board cards moved: none. Archived.
+
 # RULING AND SHIP: the article hero comes into the reading column, takes the writer line, and shows the picture
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.290.0,

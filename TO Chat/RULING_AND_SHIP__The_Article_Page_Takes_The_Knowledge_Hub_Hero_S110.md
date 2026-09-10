@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 9 sections 22.3, 22.4, 22.5, 22.5a corrected; DSRD 8 section 28 written; the header-to-content row ruled exempt for a hero band (REPLY S357, owed into DSRD 6). Board cards moved: none. Archived.
+
 # RULING AND SHIP: the article page takes the Knowledge Hub hero, and its contents card moves beside the reading
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.286.0,
