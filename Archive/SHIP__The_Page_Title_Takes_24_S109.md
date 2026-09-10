@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Its ruling file is answered (DSRD 7 section 4.3; gate check yes). Archived.
+
 # SHIP: the page title takes 24 above its reading text. Theme 0.230.0
 
 **From Code, S109. Deployed, cache purged, and measured on the live pages.**

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. The on-scale values recorded in DSRD 8 section 26 ruling 7; the two class prefixes noted there. Archived.
+
 # SHIP: the reading bar is on the design system's steps. Theme 0.231.0
 
 **From Code, S109. Deployed, cache purged, photographed before and after on both
