@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 7 section 5.2.1 gains the plus and minus rows; DSRD 8 section 27 ruling 3. Nothing else owed. Archived.
+
 # RULING AND SHIP: the contents card takes Kain's wording, and a round plus and minus
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.282.0,

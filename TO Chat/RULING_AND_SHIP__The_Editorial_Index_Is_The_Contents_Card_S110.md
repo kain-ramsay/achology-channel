@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 8 section 27 written; DSRD 9 section 22.5a superseded; the five colours: the card adopts the existing tokens (REPLY S357). Board cards moved: none. Archived.
+
 # RULING AND SHIP: the Editorial index is the Knowledge Hub's contents card
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.270.0,
