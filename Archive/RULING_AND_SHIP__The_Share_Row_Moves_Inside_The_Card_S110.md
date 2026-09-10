@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 8 section 27 ruling 2 (the footer); DSRD 9 section 22.5a. Nothing else owed. Archived.
+
 # RULING AND SHIP: the share row is the contents card's footer, inside it
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.276.0,
