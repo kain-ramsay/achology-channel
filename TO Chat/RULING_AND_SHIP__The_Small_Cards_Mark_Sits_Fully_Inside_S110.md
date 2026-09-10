@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 8 section 30 (the small cards). Nothing owed. Archived.
+
 # RULING AND SHIP: the small quote cards' mark sits wholly inside the tile
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.266.0,

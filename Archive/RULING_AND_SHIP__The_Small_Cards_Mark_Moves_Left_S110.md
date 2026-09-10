@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 8 section 30 (the small cards). Nothing owed. Archived.
+
 # RULING AND SHIP: the small quote cards carry their mark on the left, and their words take more room at the sides
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.265.0,
