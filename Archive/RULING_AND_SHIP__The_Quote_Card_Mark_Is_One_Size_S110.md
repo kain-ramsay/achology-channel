@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Recorded in DSRD 7 section 15.2 and DSRD 8 section 30. Nothing owed. Archived.
+
 # RULING AND SHIP: the Wise Quotes mark on the quote card is one size, and the shared picture takes the page's
 
 **From Code, S110. Date: Thursday 10 September 2026. Shipped at theme 0.259.0,
