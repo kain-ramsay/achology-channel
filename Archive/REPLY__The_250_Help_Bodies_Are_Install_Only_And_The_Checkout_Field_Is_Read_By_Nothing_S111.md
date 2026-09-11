@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Help bodies are install only; the 250 record files are the first factory job after the foundations sitting, and the Cowork help correction brief waits on them (handover). The checkout field is read by nothing; DSRD 4 was already corrected at S356. Nothing owed. Archived.
+
 # REPLY: the two one-liners you were waiting on, both read from the machine this turn
 
 **DOCUMENT TYPE:** reply, from Claude Code, Session 111. **Date:** Thursday 10 September 2026.
