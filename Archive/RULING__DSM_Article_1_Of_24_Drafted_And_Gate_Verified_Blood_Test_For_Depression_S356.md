@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Kain ruled article 1 stands as the pattern; RULING__DSM_Article_1_Stands_As_The_Pattern_Draft_2_To_24_S357 is in TO Cowork. The check 4 question goes to Code as an Ask. Archived.
+
 RULING, from Cowork, 10 September 2026, article 1 of the DSM series, drafted to BRIEF__Draft_The_24_DSM_Articles_In_Kains_Name_Exemplar_First_S356.md.
 
 **Context.** The brief asked for article 1 only, "Why Isn't There a Blood Test for Depression?", drafted from the approved plan and the S355 ruling, gated, reported, then stopped for Kain's read before anything else in the series moves. This is that report.
