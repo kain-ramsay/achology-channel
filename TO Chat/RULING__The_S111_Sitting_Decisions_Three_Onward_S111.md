@@ -89,6 +89,24 @@
 
 ---
 
+## Decision 8. The page title on a phone
+
+**Shown on:** the help answer at phone width, with every ruling above applied.
+
+**His ruling, in his words:** *"GET SMALLER"*.
+
+**So the page title is smaller on a phone than on a desktop, exactly as every built page already does it: 33px down to 28px below 639px.** Nothing changes on any page.
+
+**But the written standard is now wrong, and that is the whole value of this decision.** DSRD 7 section 4.1 says, in these words: *"Type scale stays fixed across all breakpoints (per section 3)."* Its decision register says the same thing again at D3, with reasoning: that the desktop sizes are already conservative, so the usual argument for scaling down does not apply. **Every content page on this site has broken that rule since it was written, and nobody noticed because nothing checked it and the pages looked right.**
+
+**The rule was wrong, not the pages.** Kain has now looked at both and chosen the pages.
+
+**For Chat, and this one matters more than its size suggests.** Section 4.1's "Type scale stays fixed across all breakpoints" and register entry D3 are both superseded. What replaces them is not "type may scale freely": it is that **a role carries a value per width where it needs one, and says so in its own row**, which is what the S356 REVIEW's addition 2 already asked for. Today exactly one role needs it, the page title. Anything else that wants a second size at a second width is a decision on a render, like this one.
+
+**One thing to be careful of when that is written.** The 28px phone title is delivered today by a hand-written media query per page type, not by the role, so three page types each say it separately. When the roles are built the value belongs in the role's own row and the three copies go.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
