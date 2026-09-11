@@ -137,6 +137,12 @@
 
 ---
 
-OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
+## The sitting is closed
+
+**Nine rulings given, one withdrawn, none built.** Kain's constraint from the open held to the end: nothing is swept until he has ruled on the reference page, and he now has. **The sweep is the next theme session**, agreed with him at the close, followed by the eleven Knowledge Hub templates and then the 224 queued pages.
+
+**One thing that is Chat's or Kain's and not mine**, carried from the reading column ruling: does 880 retire the way 620 did, or survive somewhere? Measured this session, nothing reads it except through `--container-article`, so retirement looks right, but it is a ruling rather than a measurement.
+
+OWED BACK: the rulings above written into their owning documents. **DSRD 7** sections 3.0 (the scale check is now authorised), 3.1 (one heading size for decisions 4, 5 and 7), 3.2 (the body role at 18 on 1.75, and `lead` redefined as the body at the heavier weight), 4 (the 16px paragraph gap), 4.1 (the 800px content column, the measure rule closed, and the phone type rule superseded along with register entry D3). **DSRD 8** section 27, the contents card. **DSRD 9** where the block standard names a heading size. And the one decision named above.
 
 *No em or en dashes in this file; checked before writing.*
