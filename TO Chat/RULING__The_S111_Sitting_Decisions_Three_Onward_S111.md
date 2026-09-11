@@ -125,6 +125,18 @@
 
 ---
 
+## Decision 10. The outer page frame: withdrawn, not ruled
+
+**Kain again saw no difference between the three options, and again he was right.** Measured on the three built files: **two elements change and both are invisible.** The `.page-container` box goes from 1200 to 1280 and back; every single thing inside it stays exactly where it was. On this page the hero band is fixed at 1104 and the reading column at 800, so the frame has nothing to push.
+
+**So the frame was never a question on a reading page**, and it should not have been put to him on one. **1200 stands as ruled**, unchanged and unchallenged, and it already sits inside the range his own brief proposed.
+
+**Where it IS a real question, and where it belongs.** A listing page or a category hub, where a card grid fills the frame and a wider frame is the difference between three cards to a row and four. None of those is one of the three approved exemplars this sitting was scoped to. It is a decision for its own sitting, on a page where it bites.
+
+**And my own check did not catch it, which is the part worth recording.** The fingerprint added earlier in this sitting compares computed geometry, and the container's box genuinely did change width, so it reported a difference. **A difference nobody can see is not a difference.** The check needs to ignore a box whose own children do not move, and that is a fix to make before this instrument is used again.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
