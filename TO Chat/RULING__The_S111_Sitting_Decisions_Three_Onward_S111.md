@@ -61,6 +61,20 @@
 
 ---
 
+## Decision 6. The opening paragraph
+
+**Shown on:** the help answer, opened at the opening paragraph, with every ruling above applied.
+
+**The question changed shape, and his own first ruling is why.** As built, the opening paragraph stood apart from the writing beneath it in two ways at once: bolder and one step larger, 18 against a 16 body. His ruling at decision one took the body to 18, so **weight is now the only thing holding it apart**. The question this decision originally asked, about line spacing and the air after it, had been answered by decisions one and three, and all three of its options rendered identically before he was asked. It was replaced rather than put to him.
+
+**His ruling, in his words:** *"Keep it AS IT IS NOW"*.
+
+**So the opening paragraph is Mulish 18px, weight 600, on the body's line height, and it is set apart by weight alone.** Nothing to change and nothing to sweep.
+
+**One thing for Chat to carry into the roles table.** `PROPOSAL__The_Type_Roles_And_The_Width_Family_Audited_From_What_Exists_S111` gives `lead` as 18/600 and `body` as 16/400, two roles separated by size and weight. **After this sitting they differ by weight only.** `lead` stays a role, because it still says something the body does not, but its definition is now "the body at the heavier weight" rather than a step up the scale. Worth writing that way in DSRD 7 section 3.2, so nobody later restores the size difference thinking it was lost by accident.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
