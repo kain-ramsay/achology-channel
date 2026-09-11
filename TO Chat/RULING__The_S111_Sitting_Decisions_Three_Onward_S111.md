@@ -107,6 +107,24 @@
 
 ---
 
+## Decision 9. Every size back on the agreed list
+
+**Shown on:** the article, at every ruling above, with the five off-list sizes it carries moved to their nearest agreed step and nothing else touched.
+
+**His ruling, in his words:** *"ALL ON THE LIST"*.
+
+**So every text size on the site sits on one of the nine agreed steps.** The five on this page: the contents list from 15 to 14, the line beneath it from 13 to 12, the breadcrumb trail from 13 to 12, the author's name from 15 to 16, and the guarantee from 11 to 12.
+
+**This is the single largest ruling of the sitting, and it is much bigger than the page he ruled it on.** Measured at S110 and filed as `MEASURED__Every_Type_And_Spacing_Declaration_On_The_Site_S110`: **115 declarations across 18 stylesheets sit on a size the scale does not hold**, using 22 distinct raw sizes where the scale declares nine. The five he has just seen are the five this one page happens to carry. **The other 110 are the sweep**, and the sweep does not run until he has ruled the whole reference page, which is his own constraint from the open of this sitting.
+
+**The rule this enforces already existed in writing.** DSRD 7 section 3.0: *"Every text size on the site sits on a step; nothing sits between steps."* It has been broken 115 times because nothing ever checked it. **This ruling is the authority for the `css_gate.py` size check** that refuses an off-scale value, which is the half that makes it hold.
+
+**Two exception sets stay and are not touched by this**, both already named in section 3.0: everything above 48px (the About odometer and the eight policy-index watermark sizes). Those are moving graphics, not text.
+
+**One case this sitting found that the sweep must handle deliberately rather than mechanically.** `SHARE THIS ARTICLE` on the article page is an `h2` element carrying 11px. Snapping it to 12 is correct and insufficient: it is a label wearing a heading's clothes, which is exactly the case the S356 REVIEW's addendum names when it says the visual role must be decoupled from the heading level. It takes the `label` role and keeps whatever heading level the page's outline actually needs.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
