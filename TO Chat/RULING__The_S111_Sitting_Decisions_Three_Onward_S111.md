@@ -45,6 +45,22 @@
 
 ---
 
+## Decision 5. The heading that opens a block
+
+**Shown on:** the article, opened at the block heading above the course cards, at every ruling he had given to that point.
+
+**His ruling, in his words:** *"My decision is Match the Writing"*.
+
+**So a heading that opens a block takes the same size as a heading inside the writing: Como 24px, weight 600, line height 1.25.** It was 21px. The two sizes were doing one job and nothing said what the difference meant.
+
+**What it reaches, and this is the part Chat needs to check rather than take from me.** A ruling is a rule rather than a fact about one page, so it is applied to **`.kh-section__title` and to the help answer's closing heading `.help-close__heading`**, which was 20px and is the same kind of heading on a different page type. That is three sizes becoming one. It is named here rather than left to be discovered, and it is the reach that is most easily got wrong, so it is the one to put back to Kain if Chat reads it differently.
+
+**One consequence for the roles proposal, which Chat should carry into DSRD 7.** The proposal in `PROPOSAL__The_Type_Roles_And_The_Width_Family_Audited_From_What_Exists_S111` names `section-heading` at 24 and `block-heading` at 21 as two roles. **This ruling collapses them into one.** The twelve roles become eleven, and the 21px step loses its only heading user. That is a better outcome than the proposal: a role that exists because two pages disagreed is not a role.
+
+**For Chat:** DSRD 7 section 3.1's H2 Section row governs both. Any row describing a 21px heading needs re-reading against this.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
