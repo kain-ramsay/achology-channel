@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Kain confirmed article 1 as the pattern in Chat as well. The import brief is signed: BRIEF__Import_And_Score_All_24_DSM_Series_Records_As_Drafts_Publish_Nothing_S357 in FROM Chat. Archived.
+
 RULING, from Cowork, 11 September 2026, the DSM series complete: all 24 of 24 articles drafted and gate-verified.
 
 **Context.** Article 1 stopped and asked, per its own ruling: "Kain's read, then his word back through Chat on whether article 1 stands as the pattern for the remaining 23." Kain's word came back direct to Chat, not through the channel: "No, I love it, honestly - if the rest carry the same depth and tone as this - the series of articles will be phenomenal. Please, do your best ever work and just finish this full task - don't worry so much about over-writing - especially if you keep to this standard!!" That is the authorisation the remaining 23 were drafted under. This ruling closes the series out and replaces the per-article report pattern article 1 set: the plan's own reporting note said the rest would be reported once, on completion, not one file per piece.
