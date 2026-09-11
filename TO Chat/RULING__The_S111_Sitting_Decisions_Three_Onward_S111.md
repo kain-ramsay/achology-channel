@@ -29,6 +29,22 @@
 
 ---
 
+## Decision 4. The headings inside the writing
+
+**Shown on:** the article, `/learn/mental-wellness/articles/rick-hanson/`, at his ruled body, column and paragraph gap.
+
+**A fault he found first, and it is recorded because the lesson is general.** This question was originally one decision covering both kinds of heading, and Kain stopped it: *"As it is now and All the larger size are exactly the same?"* They were. Measured on the rendered page, the headings inside the writing sit about 600px down and the heading that opens a block sits about 6,100px down, so no frame can hold both, and the option that changed only the second one changed nothing he could see. **An option whose change falls outside the frame it opens in is not an option, it is a blank tab.** Split into two questions, each opening on the thing it changes.
+
+**His ruling, in his words:** *"My decision is - As it is now please"*.
+
+**So the heading inside the writing stays as built: Como 24px, weight 600, line height 1.25.** A step on the scale, unchanged, and the size DSRD 7 section 3.1 already carries as H2 Section. **Nothing to change and nothing to sweep**; the value is confirmed on a rendered page rather than inherited, which is the difference between a standard and a habit.
+
+**Rendered against it and rejected:** the smaller size the blocks below the writing use, and the next size up on the scale.
+
+**For Chat:** no change to DSRD 7 section 3.1. Worth a dated line that the H2 Section row was confirmed by Kain on the rendered article at S111, so the next person to ask knows it has been looked at rather than assumed.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
