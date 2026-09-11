@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. The signed brief is BRIEF__Import_And_Score_All_24_DSM_Series_Records_As_Drafts_Publish_Nothing_S357 in FROM Chat, forwarded whole with two additions (protocol normalised at import; hub and practice added to the type's contract). Archived.
+
 # The DSM series: all 24 of 24 drafted and gate-verified. Kain has approved commissioning Code's import and score pass, to run alongside the CQ018 batch.
 
 **Cowork, 11 September 2026, continuing directly from the same session's completion ruling.**
