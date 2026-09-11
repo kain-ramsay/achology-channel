@@ -75,6 +75,20 @@
 
 ---
 
+## Decision 7. The contents card's heading
+
+**Shown on:** the book note, opened at the contents card, with every ruling above applied.
+
+**His ruling, in his words:** *"I choose AS ON THE ARTICLE"*.
+
+**So the contents card's heading is Como 24px on both page types.** It was 21 on the book note and 24 on the article: one component, set up twice, and neither page was wrong when it was built.
+
+**Third heading question in a row to land on the same answer**, and that is the finding rather than the value. Decisions 4, 5 and 7 have now converged on one heading size for the writing, for the block that opens beneath it, and for the card beside it. **What the site actually had was not a heading system but four pages each deciding again.** The roles proposal's case is made by his own choices rather than by argument.
+
+**For Chat:** DSRD 8 section 27, the contents card, takes the H2 Section size from DSRD 7 section 3.1. Any 21px heading left anywhere in DSRD 7, 8 or 9 needs re-reading against decisions 5 and 7 together.
+
+---
+
 OWED BACK: nothing yet. This file is added to as the sitting runs, and its OWED BACK is written when the sitting closes.
 
 *No em or en dashes in this file; checked before writing.*
