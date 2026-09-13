@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Of the three source gaps, Search Console is commissioned (BRIEF S357 in FROM Chat); AnswerSocrates waits on Kain's exports; Circle's token and endpoint are not pursued for this run. The brief runs again when Code's file lands. Archived.
+
 RULING, from Cowork, 13 September 2026, the 28-course buying-questions research: complete, zero candidates found, three source gaps named.
 
 **What this is.** Points at `Content Records/help-answer/RESEARCH__Course_Buying_Questions_Candidates_S356.md`, the full research record answering `BRIEF__Research_Three_Course_Specific_Buying_Questions_Per_Course_Six_Candidates_For_Kains_Cut_S356.md` and its `ADDENDUM__Start_The_Buying_Questions_Research_Now_And_Read_These_Seven_Vault_Notes_First_S357.md`. This file is the pointer and the summary; the research file carries the full source-by-source and course-by-course trail.
