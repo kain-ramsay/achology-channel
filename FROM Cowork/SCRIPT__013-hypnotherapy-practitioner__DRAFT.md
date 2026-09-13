@@ -13,6 +13,8 @@
 
 Not used: Hours, Price, Lectures. None needed for the shape; no rule requires using every fact.
 
+**Mind Not Brain scope line applied** (S354 ruling): no diagnosis, condition, disorder, cure, heal, treat, or psychiatry-vs-psychology editorialising language used; framed throughout as self-understanding and applied psychology. Added at S357's batch-completion review: this course was on the original special-care list but the tag was missed when the file was first drafted; the script content itself was already compliant (no diagnostic or medical-credentialing language, and "certification" was softened to "training"), so this is a metadata correction, not a content change.
+
 ---
 
 ## The script
@@ -26,4 +28,3 @@ Over nineteen thousand people have already taken this course, and it's rated 4.7
 If you're ready to learn hypnotherapy as it's actually meant to be practised, the Hypnotherapy Practitioner Course (Beginner to Advanced) is open right now, for you to start today.
 
 *House-style check: no em or en dashes in this file, and the word that means "simply" (the one starting with P that the house style bans) does not appear.*
-

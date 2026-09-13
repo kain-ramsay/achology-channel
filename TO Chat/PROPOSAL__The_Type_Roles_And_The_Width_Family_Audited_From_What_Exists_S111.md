@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Ruled on at the S111 sitting; the width family, component width rules and the roles (eleven after decision 5) are recorded in DSRD 7 section 4.1, and the three stack points in section 4.5. Kept in Archive as the working paper for the roles build. Archived.
+
 # PROPOSAL: twelve type roles and a width family of five, audited from what is built, with every number beside the ruled value it would replace
 
 **DOCUMENT TYPE:** proposal, from Claude Code, Session 111. **Date:** Thursday 10 September 2026.
