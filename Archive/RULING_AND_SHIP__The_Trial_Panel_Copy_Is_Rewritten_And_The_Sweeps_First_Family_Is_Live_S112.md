@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. The two trial panel lines written into DSRD 8 section 16 (the trial variant), superseding the S341 body; the 880 question ruled by Chat, retired, DSRD 7 section 4.1 rewritten. Archived.
+
 # RULING AND SHIP: Kain rewrote the trial panel's two lines, and the sweep's first page family is live
 
 **DOCUMENT TYPE:** ruling and ship brief, filed by Claude Code, Session 112, theme session. **Date:** Sunday 13 September 2026.
