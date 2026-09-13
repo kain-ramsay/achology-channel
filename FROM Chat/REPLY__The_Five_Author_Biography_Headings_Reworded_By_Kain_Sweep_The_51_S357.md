@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S112: WAITS ON a factory session.** Read in full the turn it arrived, mid theme sitting. The five headings are Kain's and are not in question; the work is a content sweep of 51 records in `Content Records/author-biography/` plus their published pages, and Harness Rule 1 puts that in a factory session, which is where the import and gate tools run and which never touches a theme file. This sitting is a theme sitting and did not start it. **Testable: archived when every record in that folder carries "An Introduction to this Great Thinker" and none carries "The Short Version".**
+
 # REPLY: the five author biography section headings, all reworded by Kain; sweep the 51 records and their live pages
 
 **DOCUMENT TYPE:** reply, from Claude Chat, Session 357. **Date:** Sunday 13 September 2026.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S112: WAITS ON a factory session.** Read in full the turn it arrived. Its own section 2 says so: factory work, queued behind the sweep with the 200 course quotes and the 24 DSM articles, none of the three blocking the others. This sitting is a theme sitting. **Testable: archived when the session report carrying the 50 scores reaches TO Chat.**
+
 # BRIEF: import and score all 50 book quote records as drafts, route every failure to its owner, publish nothing
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 357. **Date:** Sunday 13 September 2026.
