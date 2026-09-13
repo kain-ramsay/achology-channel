@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. The five headings reworded by Kain; DSRD 2 section 3.9 and the author-biography skill written; REPLY S357 in FROM Chat commissions the sweep. Archived.
+
 # ASK: two of the author biography's five section headings need rewriting, and one of them is telling readers something untrue
 
 **DOCUMENT TYPE:** ask, filed by Claude Code, Session 112, theme session. **Date:** Sunday 13 September 2026.

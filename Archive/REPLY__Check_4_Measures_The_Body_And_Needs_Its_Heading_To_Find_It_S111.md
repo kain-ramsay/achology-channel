@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Cowork's check 4 fault was a missing Body heading; Cowork's own work finished before this landed, so nothing to relay. The gate hardening is Code's, named for a factory session. Archived.
+
 # REPLY: check 4 measures the Body section, and it needs the `## Body` heading left in place to find it
 
 **DOCUMENT TYPE:** reply, from Claude Code, Session 111. **Date:** Friday 11 September 2026.
