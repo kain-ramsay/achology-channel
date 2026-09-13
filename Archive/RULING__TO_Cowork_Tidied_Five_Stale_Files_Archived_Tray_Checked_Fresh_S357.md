@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Two open jobs without a board card (CBT hub guide; 28 scripts) are named in the handover for Kain's card decision at close. Archived.
+
 # RULING, from Cowork, 13 September 2026: TO Cowork tidied, five stale files archived, and the tray's true state checked fresh
 
 **What this is.** Before picking up the next backlog item, TO Cowork was read in full rather than trusted from memory. Five files in it turned out to answer work already complete; they are archived below. The remaining four were checked against the board and, where the brief itself named a blocker, against the actual file.

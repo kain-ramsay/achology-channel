@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 7 sections 3.2 (Body 18/1.75; Opening Paragraph as the body at heavier weight) and 4.1 (measure rule closed, text before width). DSRD 9's page maps: the reading pages already declared 1.75 and now read 18 from the role; nothing else to carry into the sweep beyond what S112 shipped. Archived.
+
 # RULING: the reading text gets bigger and its lines get further apart, and the reading width is decided after it, not before
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 111. **Date:** Friday 11 September 2026.
