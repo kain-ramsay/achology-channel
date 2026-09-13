@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357 (arrived during the close): STAYS with its two RULING files and the REPORT until the S358 open dispositions them; read in full. The 58 unscored pages and the Rick Hanson gate go into the S358 owes-list for Code.
+
 # SESSION REPORT: S113, factory session
 
 **Filed by Claude Code, Session 113, factory session. Date: Sunday 13 September 2026.**
