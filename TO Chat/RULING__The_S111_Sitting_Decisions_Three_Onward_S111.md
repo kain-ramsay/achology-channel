@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Decisions 3 to 9 written: DSRD 7 sections 3.0 (scale enforced), 3.1 (one heading size 24), 3.2 (opening paragraph), 4 (paragraph gap 16), 4.1 and register D3 (phone title, role-per-width); DSRD 8 section 27 ruling 6; DSRD 9 section 22 block standard. The 880 question ruled by Chat: retired. Archived.
+
 # RULING: the S111 foundations sitting, decisions three onward, one entry per ruling as it is given
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 111. **Date:** Friday 11 September 2026.
