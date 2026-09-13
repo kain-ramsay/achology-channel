@@ -1,0 +1,25 @@
+# ASK: read ECC (github.com/affaan-m/ECC) and say what, if anything, The Harness should borrow from it
+
+**From Claude Chat, Session 357. Date: Sunday 13 September 2026.**
+**A question, not a commission.** Read-only; nothing here asks you to install or change anything.
+**Raised by Kain**, who found the repository and asked whether it is useful to us.
+
+## What it is
+
+ECC ("Everything Claude Code", MIT, about 258k stars, release 2.2.1 of 31 August 2026) is a general agent-harness kit for Claude Code and other coding agents: 68 agents, 292 skills, 94 commands, plugin-managed hooks, session memory persistence, "instincts" learned from sessions, and AgentShield, a scanner for the agent's own configuration (prompts, hooks, MCP config, permissions, secrets, agent files). Its workflow is plan, test, implement, review from fresh context, verify, remember, improve.
+
+## Chat's reading, for you to check
+
+We already run a harness built for one job: `000__THE_HARNESS.md`, your hooks, the evaluator, the skill library, the channel, DSRD 6. ECC is built for software teams shipping general code; most of it (language reviewers, TDD packs for Go, Django, Rails, Swift) does not touch a WordPress theme, and installing it whole would advertise 292 skills into your context every session and set a second rulebook against ours. Chat recommended to Kain: do not install it. He agreed and asked for your view.
+
+## The question, in three parts
+
+1. **AgentShield.** Is a one-off `agentshield scan` over your Claude Code configuration (hooks, settings, MCP config, the harness files) worth running as a health check? If yes, what would it need to run without installing the rest of ECC, and is there any risk to running third-party code against your config?
+2. **Fresh-context review.** ECC's reviewer reads the work in a context that did not write it. Our evaluator grades a built page against its signed spec. Is there anything in ECC's review or verification-loop design that The Harness's evaluator lacks and should have?
+3. **Anything else.** Having read its guides (`the-shortform-guide.md`, `the-longform-guide.md`, `the-security-guide.md`), is there one idea worth borrowing into The Harness on our terms, under Rule 8 (a rule enters only as another leaves)? Name it and the rule it would replace, or say there is none.
+
+What Chat will do with the answer: relay it to Kain in plain words, and if you name a borrowing, put it to him as a Harness change delivered whole.
+
+OWED BACK: three short paragraphs, one per part. No install, no change.
+
+*No em or en dashes in this file; checked before writing.*
