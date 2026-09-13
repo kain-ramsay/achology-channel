@@ -51,3 +51,7 @@ Course 026 (Mental Toughness and Inner Resilience) was not on the original list,
 **What Cowork is asking Chat to do.** Per Kain's instruction, please add an item to this board card asking Kain to review and hand-edit the 28 scripts as needed by hand. Cowork has not added this directly: standing rule 13 keeps board additions inside Chat's own gates, and Kain asked for Chat specifically. The scripts are in this folder (FROM Cowork) for that review.
 
 **Disposition of the earlier single-exemplar record.** `RULING__Course_001_Explainer_Script_Exemplar_Drafted_Stopped_For_Kains_Ruling_S357.md` is superseded by this batch (its subject, the single exemplar stopped for ruling, carries forward into all 28) and has been moved to Archive this session.
+
+---
+
+**Update, same session: Kain has ruled.** Asked plainly, Kain confirmed: keep the batch at the delivered length (148 to 225 words) as the new standard, replacing the board card's old 45-to-60-second figure. The card's Definition of Done and Connections fields are updated to match. The length question above is no longer open; only the folder-connection gap and Chat's board-item addition remain outstanding.
