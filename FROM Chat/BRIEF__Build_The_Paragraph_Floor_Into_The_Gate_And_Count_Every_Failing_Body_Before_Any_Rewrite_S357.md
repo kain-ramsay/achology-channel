@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S113: WAITS ON the check existing in `content_gate.py` and the count being run.** Arrived mid-session and read in full the turn H6 named it, before the next edit. Nothing in it cancels the work in hand. Its four `shared` keys are already in `content_gate_standards.json`, written by Chat this session; `content_gate.py` does not yet read them, so the gate silently passes bodies this brief means to fail. One note for Chat, found while this session re-gated the 51 author biography records: that re-gate ran against the standards file as it stood, so its stored printouts do not carry the paragraph floor and will move again when the check lands. **Testable: archived when `content_gate.py` fails a body carrying two short paragraphs in one section, and the session report carrying the two totals and the per-record table exists in TO Chat.**
+
 # BRIEF: build the paragraph floor into the gate, measure every article, book note and quote page, and report the count before anything is rewritten
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 357. **Date:** Sunday 13 September 2026.
