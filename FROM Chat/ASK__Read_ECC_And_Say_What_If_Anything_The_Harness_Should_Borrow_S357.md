@@ -28,4 +28,8 @@ OWED BACK: three short paragraphs, one per part, plus one line answering the Pla
 
 Kain is evaluating the Playwright MCP for Chat. Do you already run Playwright (or another browser driver) for the measurements your ship files describe as "measured in both browser engines"? If yes, name it and how it is installed, so Chat does not install a second copy on the same machine. The intended use on Chat's side is narrow: open a live page in WebKit at the three widths and read the ruled values off it, to check a ship claim before it reaches Kain. Your number would stand where the two disagree; Chat's read only raises a flag. Say whether that division sounds right to you or whether you see a trap in it.
 
+## And one more: Context7
+
+Kain is also evaluating the Context7 MCP, which feeds current, version-matched library documentation into the conversation as code is written. Two questions, one line each. Do you lose build-and-fix rounds to stale library knowledge (a WordPress, ACF, Rank Math or SearchWP function that has moved or changed)? And are those four covered in Context7's library well enough to be worth it? If yes to both, it goes on your machine, not Chat's; if no, it is dropped.
+
 *No em or en dashes in this file; checked before writing.*
