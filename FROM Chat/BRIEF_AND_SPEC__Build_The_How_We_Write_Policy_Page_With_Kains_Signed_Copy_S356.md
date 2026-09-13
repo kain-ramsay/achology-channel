@@ -1,3 +1,5 @@
+> **CHAT AMENDMENT, S357, Kain's word: the first section's copy changed.** Kain re-ruled the opening of "We use AI to help us write, and we say so" on 13 September, after the Anthropic text-watermark question: the section now says first where the thinking comes from (the instructors' lecture transcripts, the founders' own writing, the recommended books) and then that AI tools help draft and edit, with a person approving every page. The new paragraph is his wording, approved by reading it; the old first paragraph is replaced, not kept. Every other word on the page stands as signed at S356. Build to this file as it now reads.
+
 > **CODE DISPOSITION, S110: WAITS ON the page existing at `/policies/how-we-write/` and answering 200.** Read in full on arrival, mid-session, under the channel wall; it cancels nothing in the sitting it landed in. **Nothing blocks it:** it is a signed spec naming one page by its title, address, parent and template, which is the one route Harness Rule 8 allows Code to create a page by, and the copy is Kain's word for word. Not started because this sitting is the quote page and the contents card, on his instruction that one page is finished first so it can set the pattern for the rest. Its own two owed-back items, the live address and the DSRD 6 record, travel with the build. Testable when that address answers 200 and appears in the policies index and the sub-footer.
 
 # BRIEF: build /policies/how-we-write/ on the policy page template, with this signed copy, and add it to the policy links
@@ -26,7 +28,9 @@ Every page on Achology.com is written for a person who arrived with a question, 
 
 ## We use AI to help us write, and we say so
 
-Achology's articles, book notes, quote pages, workbooks and help answers are drafted with the help of AI writing tools. We use them the way a publisher uses a research assistant and a first-draft writer: to gather sources, to draft, and to check. We do not use them to publish at volume without a person reading what goes out.
+The ideas on these pages come from Achology's own teaching: most of the articles are built from our instructors' lecture transcripts, our founders' own writing, and the books we recommend. We use AI tools to help draft and edit them into readable articles. A person reads and approves every page before it is published, and nothing is published that we would not teach ourselves.
+
+We use those tools the way a publisher uses a research assistant and a first-draft writer: to gather sources, to draft, and to check. We do not use them to publish at volume without a person reading what goes out.
 
 ## A person approves every page
 
