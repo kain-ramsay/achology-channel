@@ -22,8 +22,25 @@
 - **Scores.** Every page touched this session now carries a Rank Math score read before the change, and the seven new book notes have never been scored. `score_run.py` has not been run. 58 pages are owed a score.
 - **The five orphan attachments** Code created by hand before finding `book_covers.py`, post ids 36199, 36201, 36202, 36203, 36205. Unreferenced, and not removable without a route H9 accepts. Named in the RULING file.
 
+## The second half of the session, all of it Kain's own instructions given live
+
+The session did not end where this report first said it did. Kain reopened it and worked the book note template with Code for the rest of the evening. Every line below is a theme change made in a factory session on his word in the sitting, named in its commit as Rule 1 requires.
+
+- **The book note page joins the article's rebuilt grid.** Theme 0.378.1. Its hero, writing and side column now sit on the article's own two lines, and the panel stopped hanging 32 past the page's right edge. `knowledge-hub.css`'s S112 rebuild block reads `:is(.kh-article__body, .bn-body)` on 47 selectors, so the rail exists once for both page types. Board card: the book note page template.
+- **The book note takes the article's structural layout, section by section.** Theme 0.379.1, then 0.381.0. Both pages walked block by block in a live browser and every edge measured: nine differences, eight closed. Its own file is `RULING__The_Book_Note_Takes_The_Articles_Layout_S113.md`.
+- **Seven book notes published, and the last seven biographies took the headings.** Its own file is `RULING__Kain_Rules_The_Seven_Blocking_Book_Notes_Go_Up_S113.md`. 50 of the 51 live biography pages now carry all five of his headings.
+- **The book author's face, in the author's section.** Theme 0.385.1. Sixteen portraits produced at one size, the shape read from DSRD 7 section 12.1 rather than chosen. A credit line under a faint hairline on his ruling, generated from the photographs' own licence table, with a no-record-no-picture rule so a photograph nobody can account for is never drawn. Board card: the book note page template.
+- **One corner radius and one shadow for every image on the site.** Theme 0.389.1. Its own file is `RULING__One_Corner_And_One_Shadow_For_Every_Image_S113.md`, which carries what DSRD 7 sections 5.3 and 5.4 are owed and what DSRD 8 sections 6.2 and 6.9 lose. Board card: the design foundations.
+- **The book author portrait report was reading clean on ground it could not see.** It reported 99 book notes carrying no author slug; all 99 have carried it all along. `wp post meta list` takes one post id and was handed 99, and a silent `returncode == 0` absorbed the failure. Corrected to one SELECT, and a read that fails now stops the report instead of becoming its answer. **Code reported that false finding to Kain as fact before checking it**, and he ruled on it. Recorded here because that is the fault, not the tool.
+
+## Also not done, added at the close
+
+- **The Rick Hanson page is still built, gate open.** Its dead link is fixed. The acronyms and the density are record faults.
+- **69 book authors have no photograph**, and Judith Beck has none anywhere. Rick Hanson's has no recorded source, so his book note draws no portrait.
+- **`css_gate.py` allows six radius values where the standard names four.** Named in the ruling file; changing what a gate checks is Chat's commission.
+
 ## The channel at close
 
-FROM Chat holds 79 live files. Every one carries a disposition head line. One was archived this session by machine on its DONE line: `REPLY__The_Five_Author_Biography_Headings_Reworded_By_Kain_Sweep_The_51_S357`. Two arrived mid-session, were read in full before the next edit as H6 requires, and carry WAITS lines: the ECC question and the paragraph floor brief.
+FROM Chat holds 79 live files. Every one carries a disposition head line. One was archived this session by machine on its DONE line: `REPLY__The_Five_Author_Biography_Headings_Reworded_By_Kain_Sweep_The_51_S357`. Three arrived or changed mid-session, were read in full before the next edit as H6 requires, and carry WAITS lines: the ECC question, the paragraph floor brief and the drawn-book brief. One more was re-dispositioned because Chat's S357 amendment replaced its head line: the How We Write policy brief.
 
 *No em or en dashes in this file; checked before writing.*
