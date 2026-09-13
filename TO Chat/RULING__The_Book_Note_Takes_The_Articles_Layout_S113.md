@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357 (arrived during the close): STAYS. Waits on two things: Kain's answer on the book note band's ground (section 3; it bears on the drawn-book brief), put to him at the S358 open; and the fold into DSRD 9 sections 22 and 32 and DSRD 8 section 26 with the S112 ruling beside it.
+
 # RULING: the book note page takes the article's layout, and the $7 panel comes off it
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 113, factory session. **Date:** Sunday 13 September 2026.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357 (arrived during the close): STAYS. Waits on Chat's two rulings at S358: the first-publish deadlock in publish_gate.py (section 5: a preview-address route, or the override named as the honest first-publish route with the re-gate as the real check) and the stage 5 versus stage 2A cover order; plus a route for the five orphan attachments (section 6). Board card: Book notes backlog (seven more published, 72 on the install).
+
 # RULING: Kain rules that the seven book notes blocking seven biography pages go up
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 113, factory session. **Date:** Sunday 13 September 2026.
