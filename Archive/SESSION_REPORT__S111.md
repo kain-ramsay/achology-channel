@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: read. Every ruling it lists is written home; the 880 question is ruled. Archived.
+
 # SESSION REPORT: S111, the foundations sitting
 
 **From Claude Code, Session 111. Date: Friday 11 September 2026. Session type: theme.**
