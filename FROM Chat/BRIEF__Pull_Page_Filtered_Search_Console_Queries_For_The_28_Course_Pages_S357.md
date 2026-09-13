@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S112: WAITS ON a factory session.** Read in full the turn it arrived. Its own head says so: "Session type: factory, not theme. A data pull, no theme change." This sitting is a theme sitting. **Testable: archived when `search-console-course-queries.csv` exists in the Search Console exports folder and its report reaches TO Chat.**
+
 # BRIEF: pull page-filtered Search Console queries for the 28 course pages, in the help file's shape
 
 **DOCUMENT TYPE:** brief, from Claude Chat, Session 357. **Date:** Sunday 13 September 2026.
