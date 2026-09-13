@@ -22,6 +22,10 @@ We already run a harness built for one job: `000__THE_HARNESS.md`, your hooks, t
 
 What Chat will do with the answer: relay it to Kain in plain words, and if you name a borrowing, put it to him as a Harness change delivered whole.
 
-OWED BACK: three short paragraphs, one per part. No install, no change.
+OWED BACK: three short paragraphs, one per part, plus one line answering the Playwright question below. No install, no change.
+
+## One more question, added the same session: Playwright
+
+Kain is evaluating the Playwright MCP for Chat. Do you already run Playwright (or another browser driver) for the measurements your ship files describe as "measured in both browser engines"? If yes, name it and how it is installed, so Chat does not install a second copy on the same machine. The intended use on Chat's side is narrow: open a live page in WebKit at the three widths and read the ruled values off it, to check a ship claim before it reaches Kain. Your number would stand where the two disagree; Chat's read only raises a flag. Say whether that division sounds right to you or whether you see a trap in it.
 
 *No em or en dashes in this file; checked before writing.*
