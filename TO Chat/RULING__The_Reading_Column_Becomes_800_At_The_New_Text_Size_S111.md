@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. DSRD 7 section 4.1 rewritten: content column 800, 880 retired as a record (Chat's ruling: it retires the way 620 did), measure rule closed at about 94 letters. Archived.
+
 # RULING: the reading column becomes 800px, ruled at the new text size, with 760 rendered and rejected
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 111. **Date:** Friday 11 September 2026.
