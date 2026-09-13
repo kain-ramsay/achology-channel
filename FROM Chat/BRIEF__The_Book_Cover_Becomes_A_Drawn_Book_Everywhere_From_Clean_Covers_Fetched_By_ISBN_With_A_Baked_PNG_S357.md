@@ -31,6 +31,17 @@ Two faults compound: the cover files are low-quality scrapes, and they sit flat 
 
 The share image (OG), and anything that leaves the site, needs a flat picture. Run the same bake the quote card uses (DSRD 8 section 30): open each book note in the browser by script, photograph the drawn book at the OG size, stamp it with the component's design id, and store it as the record's share image. One pass over every book note on the install; the same pass on any new one at import. Publish nothing on the strength of it; `publish_gate.py` treats a stale stamp as it does for quotes.
 
+## 4a. The gate, so the standard holds without anyone remembering it (Kain, S357)
+
+Add two lines to `content_gate.py` for the `book-note` type, reading their values from `content_gate_standards.json` (Chat adds the keys the same session: `cover_min_width_px`, `cover_source_required`):
+
+1. **The cover came through the fetch and is large enough.** The record's cover field points at a file produced by section 2's pipeline (a source flag or the pipeline's own naming, your call, recorded), at or above the minimum width. A scraped, hand-placed or undersized cover fails.
+2. **The share image is stamped against the current book design.** The same rule the quote card runs under (DSRD 8 section 30): missing, unstamped, or stamped against an older design id fails, and `publish_gate.py` refuses it; never waived.
+
+**The not-found rule.** A book the fetch cannot cover (no ISBN, or no cover held by either service) is named on a list in your report. A book note already published keeps its old cover and stays live until Kain or Karen supply a clean one; a book note not yet published fails the gate in that state and does not publish. No placeholder is ever drawn.
+
+**Upgrading what is already on the site needs no per-page pass.** Section 2 runs over every record on the install, the component changes every page that shows a cover the moment it ships, and section 4's bake runs over every book note. The named not-found list is the only hand work.
+
 ## 5. Order
 
 After the type sweep and the three imports in your tray, unless Kain says otherwise: this touches the same three page families the sweep is on, and two sweeps on one family at once is drift.
@@ -43,6 +54,6 @@ Every book note record carries a fetched cover or is named as not found. One `ac
 
 Any per-book handmade image. Any cover scraped from a retailer page. Shipping the component before Kain's ruling. Touching the quote card's own bake.
 
-OWED BACK: the fetch report; then the RULING from the Safari sitting; then the bake report.
+OWED BACK: the fetch report with the not-found list; then the RULING from the Safari sitting; then the bake report; and the two gate lines built, printed on the first run.
 
 *No em or en dashes in this file; checked before writing.*
