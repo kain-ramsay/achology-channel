@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357 (arrived during the close): STAYS with its RULING file until the S358 fold; read in full. Archived with it.
+
 # SESSION REPORT: S112, theme session, Sunday 13 September 2026
 
 Assembled from the version control log for the session, per Harness Rule 13. Theme 0.326.0 at the open, 0.377.0 at the close, 48 change sets, all deployed to the build ground and pushed to origin.
