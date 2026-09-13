@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S357: answered. Signed as BRIEF__Pull_Page_Filtered_Search_Console_Queries_For_The_28_Course_Pages_S357 in FROM Chat. Archived.
+
 RULING, from Cowork, 13 September 2026, Kain approves commissioning Code for a page-filtered Search Console pull on the 28 course pages.
 
 **Context.** Answers the open question in `RULING__The_28_Course_Buying_Questions_Research_Is_Complete_Zero_Candidates_S356.md`, this same folder. That research found zero evidenced buying-question candidates across all 28 courses because Search Console's only reachable form for Cowork, the site-wide top-1000-by-clicks bulk export, cannot prove a query landed on a specific page. Kain's word, direct in conversation: "Yes, absolutely, that's a great suggestion, please go ahead Claude!", approving the fix named as the fastest path: a Code session pulls page-filtered query data for the 28 course pages, the same way he already pulled it for the Help section.
