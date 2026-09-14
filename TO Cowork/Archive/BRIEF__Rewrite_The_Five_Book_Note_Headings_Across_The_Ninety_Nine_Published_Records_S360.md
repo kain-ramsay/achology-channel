@@ -1,4 +1,4 @@
-> COWORK DISPOSITION, session following S360: READ, not yet started. The tool (book_note_record_headings.py) is confirmed present in the Content Production Factory folder. Kain approved starting this first, live in chat, ahead of the course 001 quote batch. Next Cowork session opens on this.
+> COWORK DISPOSITION, session following S360: DONE, ARCHIVED. All 99 published records read fresh off the install's REST API (not assumed from the folder or from any record's own post_status field), edited and confirmed by read-back; all 99 re-gated, printing the expected heading mismatch. Report filed as `DONE__Five_Book_Note_Headings_Rewritten_Across_The_Ninety_Nine_Published_Records_S360.md` in FROM Cowork. 51 not-yet-live records still carrying the old five are named in that report and were not touched, per this brief's own scope.
 
 # BRIEF: rewrite the five book note section headings across the 99 published records
 
