@@ -55,8 +55,18 @@ Two chapters fail that are worth a decision rather than a fix, and both are Kain
 1. **`hairline-present`, the boundary between the writing and the author signature, at all three widths.** There is no line there and the gate wants one. Whether that boundary carries a hairline is a design decision, not a build fault.
 2. **`header-to-content`, at all three widths on both page types.** The chapter measures the distance from the header to the first content and wants 48. On a page with a hero band it measures the band, so it can never pass as written. It looks like a registry question rather than a page fault.
 
+## 7. Added later the same sitting: the foot takes one way out below 1200
+
+Kain, looking at the foot of the article on a phone: "Can you see the problem we have at the bottom of mobile view, you haven't deleted these two links from your code it seems?" The two are "More Articles in this Category" and "Browse the Whole Knowledge Hub".
+
+**This is his own S112 ruling reaching a shape it had never been applied to.** He gave it on the rail then: "can you think of nothing better to put in here than two conflicting arrows that look terrible?", and he wrote the replacement himself: "How about View All Articles, and point to the articles home page instead?"
+
+**Why the pair works at the foot of a page and not here.** The theme's own note draws the distinction and it was lost when the foot block came back below 1200 in this sitting: the pair earns its place under a block running the full width of a page, where the two sit on one line at opposite ends and read as a pair rather than as a contradiction. On a phone this block is the full width of the page and that width is 350, so they stack, one arrow pointing left and one pointing right. That is the exact thing he rejected in the rail.
+
+**The trade, named rather than hidden.** Between 768 and 1199 the block is about 700 wide and the pair would have sat on one line perfectly well. It is given up so this block has one answer rather than a third breakpoint of its own. His S088 pair is untouched on every page type that still draws the full-width foot block.
+
 ---
 
-OWED BACK: DSRD 8 section 31 and DSRD 9 section 32.3 carry the superseded S102 values and are owed the correction. Nothing else.
+OWED BACK: DSRD 8 section 31 and DSRD 9 section 32.3 carry the superseded S102 values and are owed the correction. DSRD 9 section 22.8 records nine links and the two ways out and is owed the narrow-width exception in section 7. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
