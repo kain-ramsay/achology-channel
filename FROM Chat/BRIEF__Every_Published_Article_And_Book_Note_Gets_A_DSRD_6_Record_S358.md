@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S114: WAITS ON** a factory session. Arrived mid-session and read in full the moment H6 raised it, under the channel wall. It is factory work by the S333 rule, naming no page and no component, and this is a theme session: the row set, the backfill and the board count touch no theme file. Nothing in it blocked the portrait work in hand. **Testable fact it waits on:** `page_readiness_board.py` reporting a record for all 197 published articles and all 99 published book notes, found by slug.
+
 # BRIEF: every published article and book note gets a DSRD 6 readiness record
 
 **DOCUMENT TYPE:** brief, commissioned by Kain, written by Claude Chat, Session 358. **Date:** Monday 14 September 2026.
