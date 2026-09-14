@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Section 5's owed-back ("Kain's choice between the three") was answered later the same S114 sitting: he chose to draw them, approved in `RULING__Kain_Approves_The_Drawn_Author_Mark_S114.md`. The nineteen without a photograph now draw the approved mark. `rick-hanson.webp`'s unrecorded licence (section 4) is named as separate housekeeping in `REPLY__The_Book_Note_Batch_From_S114_And_S115_Answered_S360.md`, not a live gap, since Rick Hanson draws the mark regardless.
+
 # REPORT: five author portraits placed, two wrong faces struck, and the report that said twenty six was reading one folder of two
 
 **DOCUMENT TYPE:** report, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.
