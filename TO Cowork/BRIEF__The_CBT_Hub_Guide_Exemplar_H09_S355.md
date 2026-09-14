@@ -1,3 +1,5 @@
+> COWORK DISPOSITION, session following S360: RE-CHECKED. Still blocked: the Demand Exports folder was opened directly this session and is still empty; AnswerSocrates__cognitive behavioural therapy.csv has not arrived. Named to Kain live this session as still on his owes list.
+
 # BRIEF: draft the CBT hub guide, the exemplar for all 29
 
 **From:** Claude Chat, Session 355. **Date:** Wednesday 9 September 2026.
