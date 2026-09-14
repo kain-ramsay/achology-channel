@@ -40,6 +40,17 @@ So the fetch would have replaced good files with files a third of the size, and 
 
 **Where it is not drawn yet, named rather than left quiet:** the book note side column's thumbnail, which sits inside the band that opens as the hero scrolls away, which is Kain's own S112 behaviour; changing what is inside that band unseen is how that behaviour breaks, so it waits for its own sitting. With it, the book note card, the Knowledge Hub home page and the author biography's book list.
 
+## 3a. What he changed after the first yes, and the state he locked
+
+The first yes came on the hero at 0.423.0. Four things moved after it, each on his eye and each read back off the deployed page, and the state he locked is 0.425.3. His words: "that's good Claude, lets lock in all of these changes".
+
+1. **The fore-edge could not be seen.** A version softening the banding inside it read back correctly off the live page and he could not see any difference at all, because at 13px wide there was nothing there big enough to soften. He was right and it is recorded as a wasted change rather than quietly dropped. The depth went to 9 per cent.
+2. **Nine was an overcorrection**, made unmistakable rather than right. He asked whether each book needed to show quite so thick. It is 7 per cent, about 18px on the hero, and it is the first of the three he has seen that was judged against the other two rather than against nothing.
+3. **The jacket was being trimmed.** Thickening the fore-edge exposed it: the shape was declared on the book's outer box, so a cover giving up width to the pages sat in a box of the wrong proportion and object-fit took the difference off the artwork, four and a half per cent from each side, clipping the ends of the Handbook's own subtitle rules. The cover carries the shape now and the book takes its height from it. Refusing to distort the book designer's work is the whole reason this component does not tilt, so cropping it to make room for the pages was the same fault by another route.
+4. **The gap to the button below it** measured 8, which is smaller than every step in the ladder Kain ruled for this column at S114. It is 16, his own step for two things in one group.
+
+**And one thing put to him and left as it is:** every book shows the same thickness, and real books do not. A fore-edge varying with a book's own page count would need that count held per record, which nothing does today.
+
 ## 4. The fold-back, per Harness Rule 14
 
 The approved state is exported into the component's design folder, in the Component Design Prototypes folder, as `Book (ach-book)`: the prototype `achology-ach-book-proof-v1.html`, the build sheet `COMPONENT_DATA__ach-book.json`, and a README. **The prototype is exported rather than written:** its rules are lifted out of `components.css` at the moment of approval, so the top of the precedence chain cannot drift from what he said yes to. It links no live stylesheet.
