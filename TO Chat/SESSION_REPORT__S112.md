@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358: ACTED ON, ARCHIVED with its RULING file, whose fold is done.
+
 > CHAT DISPOSITION, S357 (arrived during the close): STAYS with its RULING file until the S358 fold; read in full. Archived with it.
 
 # SESSION REPORT: S112, theme session, Sunday 13 September 2026
