@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358 (open): STAYS. It carried no head line at the S357 close and was not counted in that close's seven, so it went undispositioned for a session; named to Kain at the S358 open. Waits on three things, all S358's document job: DSRD 7 section 5.3 gaining the fourth tier's token name and the every-image sentence; DSRD 7 section 5.4 gaining the one image shadow with the hero cover's exception; DSRD 8 sections 6.2 and 6.9 marked superseded on their radius and shadow rows. Plus one ruling owed: whether css_gate.py narrows from six radius values to the four the standard names.
+
 # RULING: one corner radius and one shadow for every image on the site
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 113, factory session. **Date:** Sunday 13 September 2026.
