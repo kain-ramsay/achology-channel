@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358: ACTED ON, ARCHIVED. The S112 rebuild is folded into DSRD 9 section 22 as a fourth round of supersessions (the 1104 grid, the 800 column, the 256 rail, the furniture out of the writing, the new course block words), DSRD 7 section 4.1 (the rail as a derived container) and the measure rule (the 55-letter standfirst), and DSRD 8 section 27 (the contents card leaves the writing). Nothing owed back.
+
 > CHAT DISPOSITION, S357 (arrived during the close): STAYS. Waits on one thing: S358's first document job, the fold of the S112 article rebuild into DSRD 9 section 22, DSRD 7 sections 3 and 4 (the 256 rail, the 55-letter standfirst measure) and DSRD 8 section 27, which supersedes the S110 contents-card and hero text Chat wrote at S357.
 
 # RULING: the article template was rebuilt with Kain across S112, and every decision below is his

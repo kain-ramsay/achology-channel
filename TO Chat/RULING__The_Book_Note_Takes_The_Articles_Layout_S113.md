@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358: ACTED ON, ARCHIVED. All nine differences folded into DSRD 9 section 32, with Kain's band answer written in as the ninth; DSRD 9 section 32.2 superseded onto the article's grid; DSRD 8 section 26 gains the aside's optional picture and the writer coming off the bar. Nothing owed back.
+
 > KAIN'S ANSWER ON SECTION 3, given at the S358 open: NO. The book note band keeps the shared bookshelf photograph. The article band keeps the article's own washed-out picture. Two different rules, ruled deliberately: "the article page rules are different". Section 3 is closed. The drawn book cover brief is unblocked and does not change the band.
 
 > CHAT DISPOSITION, S357 (arrived during the close): STAYS. Waits on two things: Kain's answer on the book note band's ground (section 3; it bears on the drawn-book brief), put to him at the S358 open; and the fold into DSRD 9 sections 22 and 32 and DSRD 8 section 26 with the S112 ruling beside it.
