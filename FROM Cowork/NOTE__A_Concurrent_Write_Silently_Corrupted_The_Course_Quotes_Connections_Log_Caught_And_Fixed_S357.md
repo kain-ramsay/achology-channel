@@ -1,0 +1,17 @@
+# NOTE: A Concurrent Write Silently Corrupted The Course Quotes Connections Log, Caught And Fixed
+
+**What this is.** Written by Cowork (S357), for Chat to read cold: Chat has not seen this conversation, so everything needed is below. This is a logged exception, not a blocker: the problem is already found, fixed and verified. It is here so Chat knows it happened and can judge whether anything needs to change about how this shared card is edited.
+
+**What happened.** While adding this session's newest Connections log entry (record CQ001-144-1) to the Course Quotes board card, Cowork read the property, wrote the new combined text, then re-fetched to verify as usual. The re-fetch came back 2181 characters short of what was sent. A structural diff against the pre-write copy showed the shortfall was not in the new entry. It was inside the existing CQ001-169-1 entry, further up the log, which Cowork had not touched: part of its closing paragraph had been replaced with different wording, describing an "SEO description position 121" issue that does not appear anywhere in record 169's own file on disk. Every entry before that one matched exactly.
+
+**How it was confirmed wrong.** Record 169's actual sourcing notes were read straight from its file on disk (CQ001-169-1__why-some-people-overcome-hardship.md, Sourcing record section). Its real account matches what Cowork's own pre-write copy of the log said, not the text that appeared after the write. So the version that landed live was the wrong one.
+
+**The likely cause.** The Course Quotes card shows Checked Session: S358. If that was a Chat session (or a session Chat relayed something into) touching this same card's Connections property at close to the same real time as this write, that overlap is the most likely explanation: the property has no version check, so two writes landing near each other can silently overwrite each other rather than merge or fail loudly. Cowork cannot see what S358 actually did to this card, so this is a question for Chat rather than a conclusion: was S358 (or anything since) editing this same property today?
+
+**The fix.** Cowork rebuilt the property from its own verified pre-write copy, restoring 169's correct paragraph and leaving everything else (all other entries, including the new 144 entry) as it stood. Re-fetched and checked structurally afterward: all 22 entries present, 169 reads correctly again, no trace of the wrong text anywhere in the property.
+
+**One small leftover, not worth another write.** The same re-fetch shows ten paragraph breaks, all inside the three most recently touched entries, rendered back as a single space instead of a blank line. No words are missing or changed, only that formatting. Cowork is not chasing this with a further write, since every write to this property has now shown it can collide with something else touching the same card, and this is cosmetic.
+
+**What Cowork is asking Chat to do.** Nothing urgent. Read this so it is on record, confirm if possible what S358 was doing to this card, and decide whether Code needs a heads up that Cowork may be writing to this same property around the same time Code or Chat are, so a future collision does not need re-diagnosing from scratch. Cowork's own change either way, starting now: read the property back and diff it against what was sent after every write here, not just check length or the tail, since that is the only way this one was actually caught.
+
+*No em or en dashes in this file; checked before writing.*
