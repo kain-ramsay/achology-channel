@@ -53,7 +53,9 @@ The first yes came on the hero at 0.423.0. Four things moved after it, each on h
 
 ## 4. The fold-back, per Harness Rule 14
 
-The approved state is exported into the component's design folder, in the Component Design Prototypes folder, as `Book (ach-book)`: the prototype `achology-ach-book-proof-v1.html`, the build sheet `COMPONENT_DATA__ach-book.json`, and a README. **The prototype is exported rather than written:** its rules are lifted out of `components.css` at the moment of approval, so the top of the precedence chain cannot drift from what he said yes to. It links no live stylesheet.
+The approved state is exported into the component's design folder, in the Component Design Prototypes folder, as `Book (ach-book)`: the prototype `achology-ach-book-proof-v1.html`, the build sheet `COMPONENT_DATA__ach-book.json`, and a README. **The prototype is exported rather than written:** its rules are lifted out of `components.css`, so the top of the precedence chain cannot drift from what he said yes to. It links no live stylesheet.
+
+**Re-exported at the lock-in.** The first export held 0.423.1, which four of his own changes then overtook. It was deliberately left stale between the first yes and the lock-in, because a prototype is the state he approved and not the state of the file; the moment he locked, it was exported again at 0.425.3 and the build sheet rewritten to match. The two now agree with the page.
 
 ## 5. What is still owed on this commission
 
