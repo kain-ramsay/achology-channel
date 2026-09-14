@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §31, its home named in section 3's own owed-back line.
+
 # RULING: the side column has three separations and nothing else, on book notes and articles alike
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.

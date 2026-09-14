@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §31, both the S110 and S114 reasoning kept side by side as the S110 file itself asked. §27's own anatomy line ("a discreet arrow") is now stale against this ruling; named rather than silently edited, per §31's own note.
+
 # RULING: the contents rail marks the row being read with an orange bar, and the S110 arrow is withdrawn
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.
