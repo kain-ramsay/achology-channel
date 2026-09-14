@@ -1,4 +1,4 @@
-> CHAT DISPOSITION, S360: STAYS. Genuine open decision, three options on the table, none free for Code to pick (The Shared Rules section 8). Waits on the single fact this file names: Kain's choice of route 1, 2 or 3, or a fourth. Put to him this session; his answer travels to Code the moment it lands.
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Kain ruled live: option 1, previews move off the theme to their own folder in the web root, outside anything the deploy touches. Full instruction to Code in `RULING__Previews_Move_Off_The_Theme_To_Their_Own_Folder_S360.md`, FROM Chat.
 
 # ASK: the recorded preview route and the deploy delete each other, every time
 
