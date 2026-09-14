@@ -15,7 +15,7 @@
 | 1 | The Argument at the Heart of the Book |
 | 2 | The Background the Author Comes From |
 | 3 | Practical Applications Beyond the Book |
-| 4 | What this Might Possibly Mean for You? |
+| 4 | What this Might Possibly Mean for You |
 | 5 | What Your Next Learning Step Could Be |
 
 **They replace:** What this Book is Actually Saying; Where the Author is Coming From; What Could this Mean for Society?; What You Can Take From the Book; What are Your Next Learning Steps?
