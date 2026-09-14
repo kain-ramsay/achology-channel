@@ -1,4 +1,4 @@
-> COWORK DISPOSITION, session following S360: READ, not yet started. The tool (book_note_record_headings.py) is confirmed present in the Content Production Factory folder. Waits on Kain's sequencing call against the in-progress course-001 quote-page batch; named to him live this session.
+> COWORK DISPOSITION, session following S360: READ, not yet started. The tool (book_note_record_headings.py) is confirmed present in the Content Production Factory folder. Kain approved starting this first, live in chat, ahead of the course 001 quote batch. Next Cowork session opens on this.
 
 # BRIEF: rewrite the five book note section headings across the 99 published records
 
