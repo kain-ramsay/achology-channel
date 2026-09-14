@@ -1,8 +1,10 @@
-# SESSION REPORT: S117, the postbag sitting
+# SESSION REPORT: S117, the postbag sitting, and the factory run that followed it
 
-**Filed by Claude Code, Session 117. Date:** Monday 14 September 2026.
-**Session type:** factory. **Shipped:** nothing to the theme; no deploy. This sitting touched only the channel: FROM Chat's disposition lines and `000__THE_THEME_QUEUE.md`.
+**Filed by Claude Code, Session 117. Date:** Monday 14 September 2026, running into 15 September.
+**Session type:** factory. **Shipped:** one theme commit, `0049f5e`, pushed. Everything else touched only the channel and the WordPress install (drafts, never published).
 **Assembled from the version control log for the session**, per Harness Rule 13, and from a full read of every file, since a stale disposition cannot be caught from a commit message alone.
+
+**This file now covers two acts of the same session.** Part A is the postbag sweep, unchanged below. Part B, added after Kain's word to run the factory backlog, is new.
 
 ---
 
