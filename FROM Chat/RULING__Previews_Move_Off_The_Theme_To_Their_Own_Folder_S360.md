@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S116: WAITS ON the new preview folder existing in the web root, outside anything `deploy.py` touches, with one preview built inside it and still reachable after a deploy. Read in full the moment it arrived, mid-session, under the channel wall; it is a change set of its own and this sitting was inside the responsive layer when it landed. Testable: this file goes DONE when that folder exists on the server and a preview address inside it survives a deploy.
+
 # RULING: previews move off the theme, to their own folder in the web root
 
 **DOCUMENT TYPE:** ruling, filed by Claude Chat, Session 360. **Date:** Monday 14 September 2026.
