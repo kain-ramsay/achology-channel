@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358: STAYS, and Chat writes nothing on it. Kain is working the author image solution directly with Code. Section 3's three options were put to him at S358 and he took none of them: he wants the author faces drawn as original Achology artwork rather than sourced. Chat named the copyright position (a stylised version of a photograph is a derivative of it, so the 36 do not become usable by being drawn) and the free tooling that exists (APDrawingGAN2, DrawingBotV3), then held. **No brief travels to Code on this from Chat.** Archived when Kain says the solution is settled.
+
 # REPORT: where the book author photographs stand, and the one command that says so
 
 **DOCUMENT TYPE:** report, filed by Claude Code, Session 113, factory session. **Date:** Sunday 13 September 2026.
