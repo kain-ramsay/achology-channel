@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Superseded within the hour, same sitting: Kain wrote the five himself rather than choosing from a drafted set. See `RULING__Kains_Five_Book_Note_Headings_S115.md`. This file's sections 4 and 5 (the panel-width constraint, the 99-record cost) still hold and are folded into the ruling and into `BRIEF__Rewrite_The_Five_Book_Note_Headings_Across_The_Ninety_Nine_Published_Records_S360` (TO Cowork). No draft was ever needed.
+
 # ASK: Kain wants the five book note section headings reworded, and it is a copy job with a 99 record tail
 
 **DOCUMENT TYPE:** ask, filed by Claude Code, Session 115, theme session. **Date:** Monday 14 September 2026.
