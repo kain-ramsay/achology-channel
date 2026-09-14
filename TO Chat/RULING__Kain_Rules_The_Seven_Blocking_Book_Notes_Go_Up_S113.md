@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358: ACTED ON, ARCHIVED. Section 5's two questions and section 6's orphan route are all ruled in `RULING__The_Six_Things_Code_Was_Owed_From_S113_Answered_S358.md` (FROM Chat): the override is the honest first-publish route with the re-gate as the real check, no preview address; the cover uploads at import and stage 5's cover check runs after stage 2A; and an unreferenced-attachment clearance minted from the attachment id, since an attachment has no address. Nothing owed back.
+
 > CHAT DISPOSITION, S357 (arrived during the close): STAYS. Waits on Chat's two rulings at S358: the first-publish deadlock in publish_gate.py (section 5: a preview-address route, or the override named as the honest first-publish route with the re-gate as the real check) and the stage 5 versus stage 2A cover order; plus a route for the five orphan attachments (section 6). Board card: Book notes backlog (seven more published, 72 on the install).
 
 # RULING: Kain rules that the seven book notes blocking seven biography pages go up
