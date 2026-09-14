@@ -33,6 +33,12 @@ The session did not end where this report first said it did. Kain reopened it an
 - **One corner radius and one shadow for every image on the site.** Theme 0.389.1. Its own file is `RULING__One_Corner_And_One_Shadow_For_Every_Image_S113.md`, which carries what DSRD 7 sections 5.3 and 5.4 are owed and what DSRD 8 sections 6.2 and 6.9 lose. Board card: the design foundations.
 - **The book author portrait report was reading clean on ground it could not see.** It reported 99 book notes carrying no author slug; all 99 have carried it all along. `wp post meta list` takes one post id and was handed 99, and a silent `returncode == 0` absorbed the failure. Corrected to one SELECT, and a read that fails now stops the report instead of becoming its answer. **Code reported that false finding to Kain as fact before checking it**, and he ruled on it. Recorded here because that is the fault, not the tool.
 
+## The last of it, after the tweaks
+
+- **72 more book author portraits, licensed and credited.** Theme 0.390.0, on Kain's ruling "just do it". 114 asked for, 78 found, 36 with nothing free anywhere. The theme holds 88 portraits and 62 of the 88 published authors now have one. Its own file is `REPORT__The_Author_Photograph_Sourcing_Position_S113.md`, which carries the one command that answers this and the three options left for Kain. Board card: the book note page template.
+- **The fetcher rewrote the licence table from its own run every time.** Corrected to merge before it ran rather than after: pointed at a second list it would have replaced 51 recorded licences with its own. 47 credit rows before, 120 after, every original intact.
+- **The side column's entries come off semibold and gain a step of leading.** Theme 0.391.0. Every item in that column was Como 600, so fifteen rows spoke at one volume and the labels were no louder than the lists they name. Put up for Kain's eye, not decided; his S112 ruling 12 names no weight, which is why it was proposable.
+
 ## Also not done, added at the close
 
 - **The Rick Hanson page is still built, gate open.** Its dead link is fixed. The acronyms and the density are record faults.
