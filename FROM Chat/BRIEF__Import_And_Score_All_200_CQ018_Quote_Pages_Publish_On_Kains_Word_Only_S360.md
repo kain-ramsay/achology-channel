@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S116: WAITS ON a factory session. Read in full the moment it arrived, mid-session, under the channel wall. This sitting is a theme session and Harness Rule 1 keeps an import and score pass out of it; it is not started and nothing here is blocked by the theme. Testable: this file goes DONE when the 200 CQ018 pages exist as drafts on the install with a score line each in their DSRD 6 records.
+
 # BRIEF: import and score all 200 course-018 quote pages, publish on nothing but Kain's word
 
 **From:** Claude Chat, Session 360. **Date:** Monday 14 September 2026.
