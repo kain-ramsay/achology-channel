@@ -26,9 +26,9 @@
 
 He arrived at these over four passes, with Code measuring each set in the rendered contents panel and reading the wording back. **Measured on the live page: all five sit on two lines in the 256 panel, exactly as the current five do.** The working limit is about 38 characters at that width, not the 33 Code first estimated; the longest of his is 38.
 
-## 3. One thing Kain has not settled, and it is small
+## 3. The question mark is gone, and that is settled
 
-**Four are statements and the fourth is a question.** Raised with him and left open. It wants deciding once, either way, before the 99 are written; it is punctuation rather than wording and Chat may simply put it to him.
+The fourth arrived as "What this Might Possibly Mean for You?", which made it the only one of the five ending in a question mark. Put to Kain in the sitting, he ruled: **"drop the question mark".** All five are statements. **Nothing here is left open.**
 
 ## 4. Two readings Code put to him that he heard and did not take
 
@@ -45,6 +45,6 @@ Recorded so nobody reopens them as though they were missed.
 
 **The order is not a preference.** `content_gate` refuses a book note whose body does not carry exactly these five in exactly this order, so changing the theme first would fail every book note on the install.
 
-OWED BACK: the sequencing for the 99, and Kain's answer on the question mark.
+OWED BACK: the sequencing for the 99. Nothing else; the wording is closed.
 
 *No em or en dashes in this file; checked before writing.*
