@@ -39,7 +39,17 @@ Kain asked whether the sidebar's parts complement each other and brought a list 
 - Three were not. The contents block is already sticky at `top: 96px`. The contents text is already the brand dark at weight 500, not the light grey a compressed screenshot suggested. And the proposed spacing pair would have quietly overruled Kain's standing rule of forty eight above and below every hairline.
 - Two are decisions rather than faults, and both are his: renaming the heading, which is copy and travels to Chat, and what happens to the Know Your Psychology graphic.
 
-**The two that remain of the three**, to be taken one at a time on his instruction: the gap under the contents, which is not a measurement at all but whatever `justify-content: space-between` has left over and therefore a different size on every page; and the Amazon link, which already has a button's border and padding and also carries a link's underline, so it reads as neither.
+**One remains of the three**, and the other was withdrawn by Code before it was built. What remains is the Amazon link, which already has a button's border and padding and also carries a link's underline, so it reads as neither.
+
+## 5. The gap under the contents is withdrawn, and the withdrawal is the point
+
+Code proposed giving it a fixed step, on the reading that it was whatever `justify-content: space-between` had left over and therefore arbitrary. **Kain agreed to that, and it was wrong.** Reading the rule before touching it found the reason it is there, in the stylesheet's own comment: the panel is a screen-height box that travels, with the contents at its top and the Know Your Psychology mark at its bottom, so the mark sits at the foot of the reader's screen. That effect is Kain's, from S112, and it survived two fixes that session, the one where the mark scrolled up behind the contents and the one where it stopped hard against the hairline.
+
+So the space is not left over. It is the distance between a thing held to the top of the screen and a thing held to the bottom of it, and fixing it at a step would have quietly undone an effect he asked for twice.
+
+**Three claims Code made this session about the sidebar were wrong and were caught by measuring rather than by reading a screenshot**, which is worth recording because two of them were about to become changes: the contents text being faint (it is the brand dark at weight 500), the sidebar running out partway down a long article (the article is 3,467 tall and the column 3,419, so it runs the full length), and this one.
+
+**Nothing about the mark or the gap is asked of Chat.** It is recorded here so the next session does not rediscover the same idea and build it.
 
 OWED BACK: nothing on this one. Chat records it against DSRD 8's entry for the Knowledge Hub sidebar and strikes the S110 line as superseded.
 
