@@ -77,8 +77,24 @@ Kain, looking at the foot of the article on a phone: "Can you see the problem we
 
 **The writing is a plain column again.** It keeps normal flow and holds a column's worth of space open down its right; the strip is taken out of flow into that space. Every width, gutter and position is the grid's own, read from the same tokens, and the rendered page was measured before and after: the strip at 256 wide on the same left edge, the writing at 800 on the same left edge, the strip's top on the same line. What changed is that the three floats work again.
 
+## 9. Added the same sitting: the writer's face goes into an instructor article
+
+**Kain's words:** "on the instructor articles and also Karen's articles, can you please assign the same image as you would, in the same place as you would for a book note author".
+
+**The same place means the same rule.** The article calls the block the book note already uses, and that block decides its own position: the second headed section, beside that section's middle paragraph, floated with the writing running round it. One function, two page types, so a ruling on how it looks reaches both. The component's rules moved out of book-note.css into knowledge-hub.css whole and unchanged, which is what was done for the strip's own rules at S113 and for the same reason.
+
+**Who it draws.** The article's own author, read from the field the foot's signature card already reads, so a page can only ever show one person. An article with no author in the people register draws nothing.
+
+**The line under the name is the person's role**, ruled by Kain in the same exchange after the question was put to him. On a book note that line says who took the photograph and on what terms, because the picture belongs to somebody else. These photographs are Achology's own, so there is no licence to name. The role is the line the signature card already carries, read from the same register, so the two cannot disagree. Nothing is drafted: the name and the role are copied values under Harness Rule 8's named exception. Read back on the rendered pages: "Karen A. Ramsay" above the line and "Chief Executive Officer at Achology" below it, "Kain Ramsay" and "CTO and Curriculum Architect at Achology" on his, and the book note's own caption unchanged, reading "Photograph in the public domain" on Erik Erikson's note.
+
+**The scope is the writer, not the article type**, because the install records who wrote each article and does not record which are instructor articles. Put to Kain as part of the same yes.
+
+## 10. And one regression of mine, found by Kain and fixed the same sitting
+
+**His words:** "the scrolling feature that we previously had on the book notes has broken and dropped off". It had, and it was an hour old: when the strip came out of flow in section 8 I stretched it with a top and a bottom edge and let the height follow, which is the ordinary way to do it. It did not follow. Measured on the deployed page, the strip was 1,354 tall inside a 3,456 writing, so the travelling panel ran out of track a third of the way down and the reading list sat beside the middle of the article with nothing beside the rest of it. A plain box with the same two edges stretches to 3,472 in the same container, so the fault is particular to that box; asking for the height outright gives 3,408, which is the number the grid gave before it. Read back after the fix: the strip ends on the writing's last line, the panel holds at 96px from the top of the screen through the whole article, the cover opens in the column as the hero leaves, and the contents marks the section being read.
+
 ---
 
-OWED BACK: DSRD 8 section 31 and DSRD 9 section 32.3 carry the superseded S102 values and are owed the correction, including the hero badge's removal and the closing badge's side. DSRD 9 section 22.8 records nine links and the two ways out and is owed the narrow-width exception in section 7. Nothing else.
+OWED BACK: DSRD 8 section 31 and DSRD 9 section 32.3 carry the superseded S102 values and are owed the correction, including the hero badge's removal and the closing badge's side. DSRD 2 and the article page's signed spec are owed the writer's portrait in section 9, which is new to that page type. DSRD 9 section 22.8 records nine links and the two ways out and is owed the narrow-width exception in section 7. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
