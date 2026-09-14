@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §31. Section 3 answered: no change — see `REPLY__The_Book_Note_Batch_From_S114_And_S115_Answered_S360.md` section 3.
+
 # RULING: the book note's Amazon button reads "Read the Full Book" and loses its underline
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.

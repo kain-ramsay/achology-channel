@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §32, including the two read-back corrections (the drawn mark's own credit, the doubled name).
+
 # RULING: the author portrait names the person, credits the photographer in English, and gives its hairline room
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 115, theme session. **Date:** Monday 14 September 2026.

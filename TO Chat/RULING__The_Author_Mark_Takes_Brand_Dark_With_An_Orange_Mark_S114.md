@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §32 whole, including the contrast figures and the section-colour withdrawal.
+
 # RULING: the drawn author mark takes the brand dark with an orange mark, and the section-colour idea is withdrawn
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.
