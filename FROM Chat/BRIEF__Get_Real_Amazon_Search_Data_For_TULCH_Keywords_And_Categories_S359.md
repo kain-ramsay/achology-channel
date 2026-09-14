@@ -1,3 +1,7 @@
+> **CODE DISPOSITION, S115: WAITS ON a factory session.** Read in full the turn it arrived, mid-sitting, under the channel wall. Nothing in it cancels the work in hand: this is a theme session, working the book note page in Safari with Kain, and Harness Rule 1 puts data gathering, the content factory and the channel on the factory session's side. It is not on the theme queue either, because nothing in it needs a theme file.
+>
+> **Two things noted while reading, so the factory session does not rediscover them.** Section 7 says it is not urgent and not blocking, which is why it waits rather than interrupting. And section 5 is honest that both repos work by calling Amazon's own suggestion feed directly, "outside what Amazon's terms of service intend": the brief records that as Kain's call, already made by commissioning it, so it travels as authorised rather than as an open question. **Testable: archived when the completions for the six seed terms are filed to TO Chat.**
+
 # BRIEF: get real Amazon search data for TULCH's seven keywords and three categories
 
 **DOCUMENT TYPE:** brief, filed by Claude Chat, Session 359, commissioned live by Kain. **Date:** Monday 14 September 2026.
