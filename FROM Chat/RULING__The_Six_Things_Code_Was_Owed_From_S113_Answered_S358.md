@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S114: WAITS ON** a factory session for sections 1, 2, 3, 4 and 6. Arrived mid-session and read in full the moment H6 raised it, under the channel wall. Every one of those is gate, pipeline or H9 work and touches no theme file, so it is factory work by the S333 rule and this is a theme session. Nothing in it cancelled the portrait work in hand. **Section 5 is closed and needs nothing:** the five heading rows Code wrote into `content_gate_standards.json` are confirmed, and the convention is recorded in the ruling itself. **Testable fact the rest waits on:** `css_gate.py` permitting four radius values and not six, the publish gate's first-publish comments rewritten, stage 5's cover check running after stage 2A, H9 accepting an unreferenced-attachment clearance for ids 36199, 36201, 36202, 36203 and 36205, and the Base Voice item 8 paragraph count excluding the two named fixed forms.
+
 # RULING: the six things Code was owed from S113, answered
 
 **DOCUMENT TYPE:** ruling, filed by Claude Chat, Session 358. **Date:** Monday 14 September 2026.
