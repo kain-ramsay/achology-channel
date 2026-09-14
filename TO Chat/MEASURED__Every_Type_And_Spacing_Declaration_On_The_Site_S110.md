@@ -1,4 +1,6 @@
 > CHAT DISPOSITION, S357: stays. It waits on one thing: the foundations sitting with Code, which reads it as the type and spacing half of the audit. Archived when that sitting's RULINGs land.
+>
+> RE-CHECKED S360: still stays. The S114/S115 sitting ruled a three-separation spacing standard for the book note and article side column (DSRD 8 §31) but that is a component-level fix, not the type-ramp-and-spacing-role sweep this file scopes. The foundations sitting itself has not yet run.
 
 # MEASURED: every type and spacing declaration on the site, S110
 
