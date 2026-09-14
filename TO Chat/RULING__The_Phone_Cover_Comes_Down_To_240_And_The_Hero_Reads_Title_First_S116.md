@@ -65,8 +65,20 @@ Kain, looking at the foot of the article on a phone: "Can you see the problem we
 
 **The trade, named rather than hidden.** Between 768 and 1199 the block is about 700 wide and the pair would have sat on one line perfectly well. It is given up so this block has one answer rather than a third breakpoint of its own. His S088 pair is untouched on every page type that still draws the full-width foot block.
 
+## 8. Added the same sitting: the banner badge is deleted, the closing badge goes left, and the writing gets its text wrapping back
+
+**Kain's words, on the rendered page:** "i think we can lose the banner badge completely, and in the last paragraph, just left align it to the container, and do text wrapping around it."
+
+**What he was looking at.** The hero badge was positioned against the grid's bottom right corner. That corner is the one the cover occupies, so the badge drew over the lower right quarter of the jacket: on this book, the author's name and the last line of the subtitle. A seal pinned to a container rather than attached to anything lands on whatever is in that corner, and what is in that corner changes with the width and with the book. It is deleted, markup and rules together, along with the two clearances the rest of the hero was paying it: the standfirst's measure came in four letters and the button row kept 152px clear, both only so the badge had room. His S102 placement is superseded. The rating itself is untouched: it is still the standfirst's last sentence in his own words and still in the page's structured data.
+
+**The closing badge moves to the left with the writing running round it**, superseding his own S102 right edge.
+
+**And the fault underneath both, which is mine from S112.** The closing badge was not on the right at all, it was on the left with the words pushed underneath it. A floated element inside a grid is not floated: the float is dropped and the element becomes a grid item. The writing was made a grid at S112 so the strip could sit beside it, and three floats inside the writing silently stopped working at every width from 1200 up: the book author's photograph, the course card, and the closing seal. Each still appeared, in the wrong shape, which is why nobody caught it.
+
+**The writing is a plain column again.** It keeps normal flow and holds a column's worth of space open down its right; the strip is taken out of flow into that space. Every width, gutter and position is the grid's own, read from the same tokens, and the rendered page was measured before and after: the strip at 256 wide on the same left edge, the writing at 800 on the same left edge, the strip's top on the same line. What changed is that the three floats work again.
+
 ---
 
-OWED BACK: DSRD 8 section 31 and DSRD 9 section 32.3 carry the superseded S102 values and are owed the correction. DSRD 9 section 22.8 records nine links and the two ways out and is owed the narrow-width exception in section 7. Nothing else.
+OWED BACK: DSRD 8 section 31 and DSRD 9 section 32.3 carry the superseded S102 values and are owed the correction, including the hero badge's removal and the closing badge's side. DSRD 9 section 22.8 records nine links and the two ways out and is owed the narrow-width exception in section 7. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
