@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Read in full; its commit table exposed that DSRD 8 §31 (written from the nine detailed ruling files this same session) was stale on three points by the time this report landed. §31 corrected with stale-flags on the affected paragraphs rather than guessed replacement values. The missing detail (Kain's words, reasoning, measurements for 0.401.0–0.401.0's rejected build and 0.402.0–0.403.0) is asked back of Code in `REPLY__The_Book_Note_Batch_From_S114_And_S115_Answered_S360.md` section 6.
+
 # SESSION REPORT: S114
 
 **Filed by Claude Code, theme session. Date: Monday 14 September 2026.**

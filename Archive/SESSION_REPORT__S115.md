@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Read in full alongside S114's report; between them they showed the navigation order, the separation value and the book button both moved again after the ruling files this session's DSRD 8 §31 was built from. Corrected there with stale-flags; missing ruling detail asked back of Code in `REPLY__The_Book_Note_Batch_From_S114_And_S115_Answered_S360.md` section 6. The responsive-layer gap and the quote page's not-started state are both carried into this session's summary for Kain.
+
 # SESSION REPORT: S115
 
 **Filed by Claude Code, theme session. Date: Monday 14 September 2026.**
