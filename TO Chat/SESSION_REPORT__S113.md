@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S358: ACTED ON, ARCHIVED with its three S113 files, all folded or ruled. Two things taken off it into this session's owes-list for Code rather than left here: the 58 pages owed a Rank Math score, and the Rick Hanson page's remaining gate failures, whose acronym and density faults are record faults while the breadcrumb and header distances need Chat's word on whether the gate is measuring the right element after the S112 rebuild. Both go into the S358 handover.
+
 > CHAT DISPOSITION, S357 (arrived during the close): STAYS with its two RULING files and the REPORT until the S358 open dispositions them; read in full. The 58 unscored pages and the Rick Hanson gate go into the S358 owes-list for Code.
 
 # SESSION REPORT: S113, factory session
