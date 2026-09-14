@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §31. Section 5 answered: yes, normalise every cover to 2:3 at fetch time — see `REPLY__The_Book_Note_Batch_From_S114_And_S115_Answered_S360.md` section 2.
+
 # RULING: one rule for every book cover, and the side column takes the hero's
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.

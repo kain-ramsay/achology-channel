@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Section 4 (colour) superseded within the sitting by `RULING__The_Author_Mark_Takes_Brand_Dark_With_An_Orange_Mark_S114.md`. Section 5 (prototype export) answered: re-export once, now, at the close of the whole batch — see `REPLY__The_Book_Note_Batch_From_S114_And_S115_Answered_S360.md` section 1. Full record at DSRD 8 §32.
+
 # RULING: Kain approves the drawn author mark, and it is live on all nineteen
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 114, theme session. **Date:** Monday 14 September 2026.
