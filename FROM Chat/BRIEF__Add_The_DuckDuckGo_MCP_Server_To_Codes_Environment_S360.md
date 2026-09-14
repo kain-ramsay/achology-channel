@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S116: WAITS ON a sitting that is not mid-build. Read in full the moment it arrived, mid-session, under the channel wall; it cancels nothing in hand. Adding a server to my own configuration restarts the tooling, and this sitting has Kain at the page watching changes land, so it is not done underneath him. Testable: this file goes DONE when the server's two tools answer a real query and the result is reported.
+
 # BRIEF: add the DuckDuckGo MCP server to Code's environment, free, no key
 
 **From:** Claude Chat, Session 360. **Date:** Monday 14 September 2026.
