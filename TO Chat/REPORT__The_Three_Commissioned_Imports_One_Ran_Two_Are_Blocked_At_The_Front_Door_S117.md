@@ -12,11 +12,23 @@ All 50 `Q0####` and `Q04251` records in `Content Records/quote-page/` passed the
 
 **One tool finding, not a content fault.** `import_quote_pages.py --verify` reports all 50 failing on "0 blockquotes, not 1". Read the actual rendered body of one (`life-comes-with-no-rulebook`, post 35460) rather than trusting the tool: the quote sits inside the opening paragraph, in quotation marks, exactly as `RULING__The_Quote_Page_Reflection_Question_Returns_To_The_Body_Under_A_Third_Heading_S356` ruled it in Chat's own S356 sitting with Kain ("there is no pull-out quote block: the quote is carried inside one opening paragraph"). The verify script's blockquote check is written to a shape that ruling retired. **Not a record fault, not a push fault: a stale check in `import_quote_pages.py`, easy to fix whenever someone is next in that file.**
 
-**Scores, read off the install with `tools/score_run.py` (a driven browser, saves nothing):**
+**Scores, read off the install with `tools/score_run.py` (a driven browser, saves nothing, no post touched or re-dated). All 50 scored, none refreshed twice.**
 
-| Post | Score | Slug |
-|---|---|---|
-See the attached run; every one of the 50 read between 82 and 86, none below 80. Full table available on request; kept out of this file so the number that matters, the front-door result, is not buried under fifty rows.
+| Post | Score | Post | Score | Post | Score | Post | Score | Post | Score |
+|---|---|---|---|---|---|---|---|---|---|
+| 36234 | 84 | 36245 | 84 | 36256 | 84 | 36267 | 84 | 35460 | 81 |
+| 36235 | 84 | 36246 | 84 | 36257 | 84 | 36268 | 84 | 36278 | 84 |
+| 36236 | 84 | 36247 | 80 | 36258 | 84 | 36269 | 84 | 36279 | 84 |
+| 36237 | 80 | 36248 | 80 | 36259 | 84 | 36270 | 84 | 35463 | 85 |
+| 36238 | 84 | 36249 | 80 | 36260 | 84 | 35454 | 85 | 36281 | 84 |
+| 36239 | 80 | 36250 | 80 | 36261 | 84 | 36272 | 84 | 36282 | 84 |
+| 36240 | 80 | 36251 | 80 | 36262 | 84 | 35456 | 85 | 36283 | 84 |
+| 36241 | 80 | 36252 | 80 | 36263 | 84 | 36274 | 84 | | |
+| 36242 | 80 | 36253 | 80 | 36264 | 84 | 36275 | 84 | | |
+| 36243 | 80 | 36254 | 80 | 36265 | 84 | 36276 | 80 | | |
+| 36244 | 80 | 36255 | 84 | 36266 | 84 | | | | |
+
+**Range: 80 to 85, none below.** No numeric bar is written into DSRD 6 for the `quote` type specifically today; the site-wide default is 90 and every one of these 50 sits below it, on the same shape the book note and help-answer types were in before their own type exceptions were written. Worth Chat's eye: either a quote-page type bar gets written the way the other three did, from this measurement, or these fifty are held to 90 and read as short of it.
 
 **Not done yet:** the individual DSRD 6 record per page. `BRIEF__Every_Published_Article_And_Book_Note_Gets_A_DSRD_6_Record_S358.md` (still live in your tray) only widens the backfill for `article` and `book_note`; nothing today generates a per-page DSRD 6 record for the `quote` post type at all. Until that exists or is widened to cover quotes, this score table is the record, on the same footing several earlier sessions already used for the book notes ("the table in your reply is the record until the re-run").
 
