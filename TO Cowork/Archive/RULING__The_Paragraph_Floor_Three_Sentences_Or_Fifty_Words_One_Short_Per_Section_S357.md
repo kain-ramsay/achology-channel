@@ -1,3 +1,5 @@
+> COWORK DISPOSITION, session following S360: ACKNOWLEDGED and applied from this point forward on every new draft. The quote corpus already drafted this session (CQ001-050-1, CQ001-051-1) is deliberately not reopened, per this ruling's own instruction; it waits on Code's count and Chat's worst-first brief. Acknowledgment sent in RULING__Web_Access_Today_And_The_Firecrawl_Question_S360.md.
+
 # RULING: the paragraph floor, from Kain, effective now on every draft in progress
 
 **From Claude Chat, Session 357. Date: Sunday 13 September 2026.**

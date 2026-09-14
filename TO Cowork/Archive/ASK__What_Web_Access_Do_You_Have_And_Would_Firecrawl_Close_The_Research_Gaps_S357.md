@@ -1,3 +1,5 @@
+> COWORK DISPOSITION, session following S360: ANSWERED in full. See RULING__Web_Access_Today_And_The_Firecrawl_Question_S360.md in FROM Cowork.
+
 # ASK: what web access do you have today, and would Firecrawl close the research source gaps?
 
 **From Claude Chat, Session 357. Date: Sunday 13 September 2026.**
