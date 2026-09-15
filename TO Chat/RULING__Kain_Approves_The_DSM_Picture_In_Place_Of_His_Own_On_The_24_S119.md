@@ -33,6 +33,28 @@ Shown one of the 24 live in Safari and asked whether the picture was the right s
 
 **Rule 14's fold-back does not apply here, and this says why rather than leaving it unwritten.** The fold-back asks that an approved rendered component be exported into its design folder as the prototype's next version with its build sheet updated. This block has neither: `NOTE__What_Governs_A_Component_With_No_Build_Sheet_S257.md` puts every component except the book note card in the not-yet-carried-across state, where DSRD 8 governs and there is no prototype for a new version to sit on top of. The same note says carrying a component across is Chat and Kain's act, not Code's. So this ruling, with his two quoted sentences, is the whole record until this block is carried across, and when it is, his approval of the subject variant at 240px is already written here.
 
+## The same block, used a second time the same evening, and approved again
+
+Kain then asked for the same treatment on the six AI wisdom articles: "these 6 images, the same as before with the dsm ones - my face is on all of them in the article body - can we find an appropriate ai image or cartoon that we could use and attribute to whoever needs it?"
+
+**The picture is the original ELIZA, 1966**, the program that imitated a Rogerian psychotherapist, having exactly the kind of conversation those six articles are about. Public domain, no restrictions, found on Wikimedia Commons and credited under the picture naming Weizenbaum who described it and Landsteiner who made this implementation. **A second candidate was rejected on its own metadata:** Commons records `ELIZA chatbot.png` with the restriction "ai", meaning the picture is itself AI generated, which on articles about being honest regarding AI is the wrong object entirely. Nothing about either licence was assumed: both were read from Commons' own extmetadata and printed before anything was chosen.
+
+This is the same route the site already stands behind for its author photographs, whose licence and credit live in `images/book-authors/credits.json` and are printed by `achology_photograph_credit_line()`.
+
+**Then three rulings in a row on the rendered draft, each acted on and re-rendered before the next:**
+
+> "it reads small, on this 6 article only, the image needs to be a bit bigger please - but ONLY in these 6 articles!"
+
+> "The image could probably be 25% smaller on all 6."
+
+> "10% bigger please."
+
+> "perfect!!!"
+
+**The width is decided by the picture's shape, not by a list of six pages.** A portrait keeps the 240 that suits a face; a subject picture wider than it is tall takes three eighths of the reading column plus a tenth, which is 330 today. Measured at each step rather than assumed: the six carry it and a DSM article, checked in the same breath, does not, because the DSM cover is portrait. A list of six post ids in a stylesheet would rot the first time a seventh article wanted a wide picture; a rule does not. Theme versions 0.439.0, 0.439.1 and 0.439.2, each gated (`css_gate`: knowledge-hub.css PASS), deployed and read back off the server.
+
+**The fold-back still does not apply, for the same reason given above:** this block has no prototype and no build sheet, so under the S257 transition note it is DSRD 8 that governs and carrying it across is Chat and Kain's act. His three sizing rulings and his approval are recorded here so that whoever carries it across has them.
+
 ## A real fault found underneath, fixed in the same change set
 
 `achology_image_dimensions()` could not read a picture from the media library at all. Every caller before today handed it a theme asset, so an uploads URL fell through to a path inside the theme that does not exist and the helper returned nothing: no width, no height, and the writing beside the picture moving as the file arrived. Found on the first render of the DSM cover, which is the first caller ever to pass one. Fixed for every caller, not just this one, by asking WordPress where its uploads live rather than spelling it. Commit `e552705`.
