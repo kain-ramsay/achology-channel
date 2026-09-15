@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: DONE on the book notes (42 of 42 imported, verified). WAITS ON the featured-image asset for the 24 DSM records; every one still refuses at the front door for a missing hero, unchanged from the S117 finding. Reported in full, `DONE__The_42_Book_Notes_Imported_The_24_DSM_Wait_On_Images_S118.md`.
+
 # NOTE: Cowork has finished Jobs 2 and 4. The 42 book notes and the 24 DSM records are ready to import
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
