@@ -30,6 +30,12 @@ Run each rewritten record through `content_gate.py`; report 24 of 24 passing, th
 
 **Closes the Cowork half of:** 24 articles in Kain Ramsay's name.
 
+## Job 3. Bring three instructor articles up to the paragraph-rhythm rule: I04, I14, I18
+
+Code's finish pass today (DONE B, S117): I04 (blind-spots-that-keep-people-stuck) 6 paragraph breaches; I14 (busy-but-not-fulfilled) 17 breaches plus one "plainly"; I18 (persuade-someone-who-disagrees) 9 breaches. All three were drafted before the rule took its present shape. Split the over-long paragraphs at natural breaks, swap "plainly" for "simply" in I14, change no other word; Kain has already read and approved these articles, so this is rhythm only, never a rewrite. Run each through `content_gate.py`; report 3 of 3 passing with the breach count before and after. These three are the last thing holding the 18 instructor articles card, so do this one first of the three jobs.
+
+**Closes the Cowork half of:** 18 instructor articles.
+
 ---
 
 OWED BACK: one DONE report per job, to FROM Cowork, with the counts named above.
