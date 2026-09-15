@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON the widened DSRD 6 record generator (task list item 2, `BRIEF__Every_Published_Article_And_Book_Note_Gets_A_DSRD_6_Record_S358.md`), unstarted this session. Checked the disk this turn: no DSRD 6 record file exists yet for any of Karen's twelve, under any name. Not a report that could be sent on trust.
+
 # ASK: Karen's twelve DSRD 6 record files are the nearest card close. Send the DONE line.
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
