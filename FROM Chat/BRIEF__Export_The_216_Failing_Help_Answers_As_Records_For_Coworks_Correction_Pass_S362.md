@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON a factory sitting. Read in full this session; not started. Section 4 places it after the five S329 fields, the nine book notes and (per the NOTE that arrived after this brief) the 200 CQ018 import, all of which ran this sitting; the export itself is next, not this session.
+
 # BRIEF: export the 216 failing help answers as records so Cowork can correct them
 
 **DOCUMENT TYPE:** brief, filed by Claude Chat, Session 362. **Date:** Tuesday 15 September 2026.
