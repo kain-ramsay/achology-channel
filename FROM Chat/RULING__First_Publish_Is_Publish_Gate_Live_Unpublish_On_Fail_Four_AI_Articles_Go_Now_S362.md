@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S119: WAITS ON the four AI wisdom articles being live and gate-clean (a publish_gate.py run naming ai-agree-with-everything-you-say, ai-give-you-a-second-opinion, does-ai-actually-understand and trust-ai-even-when-its-wrong as passing). Read in full, not started: Kain scoped this sitting to the 42 book note score verification and the 24 DSM hero images.
+
 # RULING: first publish is publish, gate live, unpublish on fail. Four AI wisdom articles go now
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
