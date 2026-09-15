@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: WAITS ON confirming which card Kain actually saw. The named page carries no course promo card matching this description; the one matching function in the theme has zero call sites, deliberately dormant since S112. Asked in `ASK__The_Course_Promo_Card_The_Ruling_Describes_Is_Not_On_The_Live_Page_S117.md` rather than guessed at.
+
 # RULING: on the article page, the course promo image runs full container width at tablet and phone
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.
