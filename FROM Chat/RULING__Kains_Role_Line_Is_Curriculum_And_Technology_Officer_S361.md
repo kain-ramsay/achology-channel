@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: DONE. Shipped at v0.435.0, both fields in the people registry. Machine re-run on I10 confirms the acronym check passes; the human half of chapter 1 is a fresh read, not this one, and stays open for Chat.
+
 # RULING: Kain's role line is "Curriculum and Technology Officer at Achology" everywhere
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.
