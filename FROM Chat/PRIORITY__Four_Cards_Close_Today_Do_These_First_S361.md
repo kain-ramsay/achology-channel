@@ -12,6 +12,8 @@ Each item below is the last Code-owed piece on its card. File one short DONE lin
 
 **D. Book notes backlog card.** Import the three batches in FROM Cowork, gate them, publish the passers. One line: imported, passed, published, held, with the held ones named.
 
-Nothing else today until these four are filed.
+**E. Twelve articles in Karen A. Ramsay's name.** Everything is done and measured: all twelve live since 7 September, all twelve at 88 or better (your S106 table), the human read closed on Kain's own reading (S349). The only open thing is the twelve DSRD 6 record files. The 18 instructor articles are the same article type and carry theirs, so the route exists; write the twelve the same way, machine chapters from the install, human lines recorded as closed on Kain's read per `RULING__Karens_Twelve_Are_Closed_On_Kains_Read_S349.md`. One line: twelve records written, path.
+
+Nothing else today until these five are filed.
 
 *No em or en dashes in this file; checked before writing.*
