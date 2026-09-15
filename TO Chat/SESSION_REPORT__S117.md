@@ -72,12 +72,30 @@ Six of the fifty factory-ready items acted on this sitting. Two ran clean. Two w
 
 **One tool finding, named but not fixed:** `import_quote_pages.py --verify` fails all 50 book quotes on "0 blockquotes, not 1". Read the actual rendered body of one rather than trusting the tool: the quote sits inside the opening paragraph, exactly as `RULING__The_Quote_Page_Reflection_Question_Returns_To_The_Body_Under_A_Third_Heading_S356` ruled it. The verify script's check is written to a shape that ruling retired. Worth a fix whenever someone is next in that file; not blocking anything today.
 
-## What is still open in the 50
+## Part C: the sweep continued, on Kain's word to keep going through all of it
 
-Roughly forty four. The two blocked imports (224 records between them) wait on Cowork. The DSRD 6 record generator's widening (`BRIEF S358`) is real, scoped work of its own and was not started this sitting, to avoid a rushed rewrite of an 895-line readiness tool on a first read of it. The rest are untouched.
+Nine more items closed or substantially advanced, on top of Part B's six. The pattern repeating throughout: several things marked WAITS in the tray were, on inspection, already built or already done, sometimes three or more sessions ago, and simply never reported back. Each was checked against the actual file or the live install this turn, not assumed from the disposition line.
+
+**Built and shipped (theme commits `f3b1110`, and content_gate.py commit `39e6c2b` in the Content Production Factory repo):**
+- **css_gate.py's radius tiers**, narrowed from six to four per DSRD 7 section 5.3 (`RULING__The_Six_Things_Code_Was_Owed_From_S113_Answered_S358`, section 4). Two real 4px focus-ring uses annotated as the exception the standard already names, rather than the permitted set being widened to cover them.
+- **The banned-link-labels gate check**, commissioned S356 and never built. Built, tested against the exemplar and a synthetic negative case, and run site-wide against all 579 published pages: zero hits.
+
+**Found already done, closed rather than redone:**
+- The closing-question character check for the quote page (commissioned S356): built, confirmed passing on the exemplar. Found the same run failing the exemplar on the paragraph-rhythm check, which is itself evidence the paragraph-floor brief's per-section allowance is genuinely needed.
+- The `--takedown` override for un-publishing a live page (already reported in Part B).
+- The fifteen help-answer keyword placements, the `.bn-body` page-gate fix, the 39 biography heading pushes, and three small tool-wording fixes: all four were done at S107, ten sessions before this sitting, and the disposition line was never updated. Two small loose ends from that same file (one book-note sentence, one redirect-workbook question) are still genuinely open and named as such.
+
+**Measured, not yet acted on:**
+- **All 250 help answers**, against the S356 reader-first shape: 34 pass the paragraph cap, 216 fail (85 on one paragraph, 131 on more). All 250 already carry an external link and an image, closing a gap an S108 measurement had open, again with no report filed at the time. Full table: `Content Records/help-answer/MEASURED__All_250_Help_Answers_S117.csv`. A Rank Math score run across the same 250 is running now in the background, workers=4; results follow when it completes.
+
+**Deliberately not touched:** two items inside `publish_gate.py` (the first-publish comment rewrite, a new H9 clearance route for orphan attachments). Both reach into the one wall that stands between Code and publishing to the public, and a rushed edit there on a first read of the mechanism is a worse risk than leaving them named and open for a session that reads it properly first.
+
+## What is still open in the roughly fifty
+
+The two blocked imports (224 records between them) wait on Cowork. The DSRD 6 record generator's widening (`BRIEF S358`) is real, scoped work of its own, deliberately not started for the same reason as the publish_gate items: an 895-line readiness tool deserves a session that reads it whole, not a pass alongside forty other items. The breadcrumb_title derivation (`RULING_AND_BRIEF S356`) is confirmed genuinely unbuilt. The rest are untouched or still running.
 
 ---
 
-OWED BACK: nothing beyond the two reports named above. The blocked imports and the DSRD 6 widening are the next sitting's, in whichever order Kain sets.
+OWED BACK: nothing beyond the reports named above. The help-answer score table follows when the background run finishes. The blocked imports, the DSRD 6 widening, and the two publish_gate items are the next sitting's, in whichever order Kain sets.
 
 *No em or en dashes in this file; checked before writing.*
