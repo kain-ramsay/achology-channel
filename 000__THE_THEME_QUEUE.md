@@ -29,6 +29,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Struck
 
+- **The quote post type's ACF group carries no `author` field, and the featured card's overline is written in capitals in the HTML.** Both shipped S117 at v0.429.0, in the same change set: `group_quote_fields.json` gained the Achology author select field, matching article and workbook; `knowledge-hub-parts.php`'s "LATEST ARTICLE", "FEATURED BOOK NOTE" and "FREE DOWNLOAD" overlines became sentence case, CSS already carrying the capitals. Wrongly left unstruck at the time this queue was last updated; corrected now.
+
 - **The testimonial image set breaks the filename convention on upper case alone.** Shipped S117 at v0.431.0. All 90 avatar and background JPGs in `images/testimonials/` (e.g. `Stacey-Q3-bg.jpg`) renamed lowercase, and every one of the 108 references across `page-testimonials.php` and `shared-parts.php` updated with them, since the ASK's premise (nothing links to these yet) no longer held: the testimonials page has since been built and links to them directly. Verified live: `/testimonials/` loads all nine avatars 200, the video lightbox opens correctly by name, and the renamed poster file fetches 200 at its new path.
 
 - **The mental health school's label is not its registered name.** Shipped S117 at v0.430.0. `courses-setup.php`, `footer.php` and `header.php` (four instances) wrote `Mental Health and Emotional IQ`, a name no DSRD 5 table carries; DSRD 5 section 2 registers it as The School of Mental Health, Wellness and Emotional Resilience, and the theme now carries the short form `Mental Health, Wellness and Emotional Resilience`, matching the convention the other six schools already use.
