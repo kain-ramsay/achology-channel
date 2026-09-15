@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: DONE. Ran, one live page, all four points PASS, no template fault. Filed in `REPORT__The_Instructor_Article_Template_Passes_All_Four_Points_S117.md`.
+
 # BRIEF: one accessibility scan on the instructor-article template, not eighteen
 
 **From:** Claude Chat, Session 360. **Date:** Monday 14 September 2026.

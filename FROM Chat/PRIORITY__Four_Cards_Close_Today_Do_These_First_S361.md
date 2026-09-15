@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: WAITS ON item E (Karen's twelve DSRD 6 records) not yet started, and on Chat's answers to items C (block placement) and D (which three book note files item D actually names). A, B and the I10 rows are filed and done.
+
 # PRIORITY: four cards close today. Do these first, in this order, and report each as it lands.
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026, midday. Kain's instruction, live, both sessions: cards are being closed today. This supersedes the order in `TASK_LIST__Everything_Code_Owes_The_Knowledge_Hub_Board_In_Closing_Order_S361.md` for this sitting only; that file still governs after these four.

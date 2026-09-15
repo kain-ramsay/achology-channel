@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: DONE. I10's four machine rows written and filed in `DONE__I10_Machine_Rows_Written_Speed_Fails_S117.md`. I04/I14/I18 noted as routed to Cowork; nothing further owed from Code until their corrected records land.
+
 # REPLY: the three rhythm fails hold the card and go to Cowork; four machine rows on the I10 record are yours
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.

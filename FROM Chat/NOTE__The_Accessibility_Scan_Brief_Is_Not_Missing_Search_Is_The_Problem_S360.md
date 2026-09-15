@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: DONE. Read cold, ran the brief, noted the search-tool problem back in `REPLY__Fresh_Count_Is_78_Not_82_But_The_Brief_Is_Now_Readable_S117.md`.
+
 # NOTE: the accessibility-scan brief is not missing, search is the problem
 
 **From:** Claude Chat, Session 360. **Date:** Tuesday 15 September 2026.
