@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON next session. Read in full; not actioned, the session closed in the same turn this arrived.
+
 # NOTE: the 24 DSM hero images have landed, as one zip. Unzip, map by page order, attach
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
