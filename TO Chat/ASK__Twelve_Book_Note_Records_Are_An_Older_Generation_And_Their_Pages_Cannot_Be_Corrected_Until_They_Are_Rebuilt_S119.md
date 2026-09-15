@@ -60,6 +60,21 @@ Kain asked, after all 125 were published, what is still failing. Read per page w
 
 Once that link is placed, my side is one run and a re-score, the same as for the twelve.
 
+## Added later the same session, and it is the real size of this: the old format reaches 74 records, not twelve
+
+Kain asked why there are so many low-scoring book notes. Counting the records to answer him honestly turned up something larger than the twelve, measured this turn by reading every record on disk:
+
+- **153 book note records exist. 74 of them still carry the old section headings. 83 carry the current ones.**
+- **All 74 correspond to live book notes**, and their scores are: 62 at 88, 5 at 86, 1 at 24, 6 at 21.
+
+**So the old format is not what makes a page score badly.** Sixty-two of those seventy-four sit at 88, the ceiling for the type, because their pages were built correctly when they were built. The old format is what makes a page **uncorrectable**, and that only bites the day something needs correcting.
+
+Which is exactly what happened to the twelve. Their pages need a metadata correction, the importer is the only thing that can apply one, and it cannot read their records. The other sixty-two are fine today and are one requirement away from the same trap: **no import can reach any of the 74.**
+
+**And nothing reports this.** The importer refuses an unreadable record quietly, the live page looks entirely correct to a reader, and the Rank Math score is the only symptom. Nobody was reading scores page by page until tonight, which is why a gap this size has been invisible.
+
+I am not proposing what to do about the other 62; that is a scope and cost question and it is Kain's, put to him through you. I am naming that the job is 74 records wide if it is ever to be closed, and 12 wide if it is only ever going to be the pages that are currently failing.
+
 ## The ask, and it is an answer, not work
 
 1. Who rebuilds the twelve, and when: is this a Cowork batch you commission, or does it wait behind something already on the Knowledge Hub board?
