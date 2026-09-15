@@ -96,6 +96,18 @@ The two blocked imports (224 records between them) wait on Cowork. The DSRD 6 re
 
 ---
 
-OWED BACK: nothing beyond the reports named above. The help-answer score table follows when the background run finishes. The blocked imports, the DSRD 6 widening, and the two publish_gate items are the next sitting's, in whichever order Kain sets.
+## Part D: continuing the sweep
+
+**The watch_due backfill (item 1 of the S352 process audit) is done.** 297 published articles and book notes now carry `watch_due`, post_date plus thirty days; two are already past. The 249 help answers are deliberately left out: they share one `post_date`, `2020-06-01`, a legacy import value, and computing a watch date from it would write something meaningless on every one. Named as a question for Chat in `REPORT__The_Watch_Due_Backfill_Has_Run_S117.md`, TO Chat, rather than guessed at.
+
+**Three more found already done, on inspection:** the import gate's field-check fix (`RULING__The_Import_Gate_Is_Fixed_S350`, confirmed in `stage5_import_checks.py` with the ruling quoted in the code's own comment); the cross-linking card's crawler and orphan count (job 1, done and filed at S106); the guarded "All articles from this book" block (job 2) confirmed genuinely **not** built, unlike the others, since it renders nothing today anyway.
+
+**Two findings worth naming rather than quietly filing:**
+- **The Search Console service account key is on this machine's Desktop.** `HOW_TO__Give_Claude_Code_Search_Console_Access.md` describes a setup that ends with someone telling Code the key has arrived; nobody had, but the file is there. Tried to use it for the 28 course-page query pull this brief still owes: the Python environment here cannot build the `cryptography` package the Google auth library needs (no Rust toolchain, no prebuilt wheel for this Python), so the pull itself did not run. The credential side is ready; the machine's Python environment is not.
+- **The Karpman workbook's rendered document does not exist.** Checked before starting it: this is real design and layout work against an approved template, not a technical fix, and it was not attempted in a pass built for the latter.
+
+---
+
+OWED BACK: nothing beyond the reports named above. The help-answer score table follows when the background run finishes (about a quarter through as this was written). The blocked imports, the DSRD 6 widening, the two publish_gate items, the Karpman render, and the Search Console pull (once the environment can build `cryptography`) are the next sitting's, in whichever order Kain sets.
 
 *No em or en dashes in this file; checked before writing.*
