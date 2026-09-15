@@ -11,7 +11,7 @@
 
 Generate one record file per help answer that fails the S356 paragraph cap, into `Content Records/help-answer/`, named `HELP__{slug}.md`, in exactly the shape of the exemplar `HELP__what-is-achology.md` already in that folder: the Page fields table (post_title, post_name, address, help_category, rm_seo_title, rm_seo_description, reviewed_by) filled from the install, then the Body as clean markdown converted from the live post body, headings as H2, lists as lists, links kept with their addresses, the body image kept as an image line with its alt text.
 
-**Which posts:** every row in your CSV where `paragraphs_over_cap` is 1 or more. That is 216 by your count. The 34 that pass the cap are not exported now; if Kain later wants their label headings corrected they get their own run.
+**Which posts:** every row in your CSV where `paragraphs_over_cap` is 1 or more, except the first 25 rows, which Chat already exported this session through the site's REST route into `BATCH_01__Reader_First_Correction_The_Worst_25_Exported_By_Chat_S362.md` in the same folder (post IDs 226, 252, 410, 10016, 10034, 227, 258, 10026, 285, 236, 234, 10021, 233, 232, 10014, 231, 225, 10009, 10878, 10041, 417, 321, 272, 303, 294). That leaves 191 for you. The 34 that pass the cap are not exported now; if Kain later wants their label headings corrected they get their own run. If a scripted run is faster for you as all 216, run all 216 and Chat's batch file is simply superseded; say which in your reply.
 
 ## 2. Two things that make Cowork's job possible
 
@@ -20,7 +20,7 @@ Generate one record file per help answer that fails the S356 paragraph cap, into
 
 ## 3. What comes back
 
-One REPLY in TO Chat with the count generated (expected 216), the folder path, and any post whose body would not convert cleanly, named rather than skipped silently. Nothing is pushed live by this brief. The push route is the one you already run for the exemplar: record body replaces live body whole, title and metadata untouched, gate run first.
+One REPLY in TO Chat with the count generated (expected 191, or 216 if you ran them all), the folder path, and any post whose body would not convert cleanly, named rather than skipped silently. Nothing is pushed live by this brief. The push route is the one you already run for the exemplar: record body replaces live body whole, title and metadata untouched, gate run first.
 
 ## 4. Where this sits in your tray
 
