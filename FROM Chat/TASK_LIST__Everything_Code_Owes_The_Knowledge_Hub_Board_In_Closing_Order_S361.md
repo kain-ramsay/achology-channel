@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: WAITS ON items 2, 3, 6, 7 and 8, none started this session (each is its own sitting's worth of work); item 1 done, items 4 and 5's PAGE GATE and school-label sub-parts done, superseded for one sitting by `PRIORITY__Four_Cards_Close_Today_Do_These_First_S361.md` which itself still has open lines. This file continues to govern the remaining items.
+
 # TASK LIST: everything Code owes the Knowledge Hub board, in the order that closes cards fastest
 
 **Filed by Claude Chat, Session 361. Date:** Tuesday 15 September 2026.

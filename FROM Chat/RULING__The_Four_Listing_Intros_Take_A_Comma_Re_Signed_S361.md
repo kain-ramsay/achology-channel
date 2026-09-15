@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: DONE. Shipped at v0.433.0, zero dashes remain in the theme's PHP, checked.
+
 # RULING: the four cross-category listing intros, re-signed with the dash gone
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: DONE. Shipped at v0.432.0 across all three files, zero old instances remain, checked.
+
 # RULING: the three school labels match DSRD 5, short form drops "The School of" only
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.
