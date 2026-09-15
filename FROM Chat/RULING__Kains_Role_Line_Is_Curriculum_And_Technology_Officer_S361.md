@@ -15,6 +15,6 @@ The bio sentence beneath it on the signature card becomes, on Chat's call to mat
 
 **Kain is Achology's Curriculum and Technology Officer, and the instructor behind much of its teaching.**
 
-Ship as one theme edit, re-run the chapter 1 machine check on I10, write the row, and file one line with the version. Chat writes the same string into DSRD 8's people registry row and the Our People spec this session.
+Ship as one theme edit, re-run the chapter 1 machine check on I10, write the row, and file one line with the version. Correction to the line that first stood here: no DSRD carries this string as a registry row (checked DSRD 8 this turn); the theme's people registry is its only home, so your edit is the whole change. DSRD 6 section 1's role-line note now records the new wording.
 
 *No em or en dashes in this file; checked before writing.*
