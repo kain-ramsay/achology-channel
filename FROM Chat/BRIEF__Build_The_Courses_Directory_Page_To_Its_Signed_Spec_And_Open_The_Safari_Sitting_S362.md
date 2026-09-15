@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON a theme session with Kain live for the Safari sitting named in the brief itself (his copy for the page head and stat labels, given "live in Safari, in the build sitting"). This session opened and has run as a factory session throughout; per Harness Rule 1, a theme item found there is never taken on speculatively absent his word in the sitting, and none was given.
+
 # BRIEF: build the Courses Directory Page, /courses/, to its signed spec, and open the Safari sitting
 
 **DOCUMENT TYPE:** brief, filed by Claude Chat, Session 362, Tuesday 15 September 2026. Commissioned by Kain in the S362 sitting: he chose Option B by eye on the rendered page (tabbed, three widths) and signed the spec.
