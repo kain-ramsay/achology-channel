@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S118: WAITS ON a factory sitting. Read in full this session; not started. Section 4 places it after the five S329 fields, the nine book notes and (per the NOTE that arrived after this brief) the 200 CQ018 import, all of which ran this sitting; the export itself is next, not this session.
+> CODE DISPOSITION, S118: DONE. 191 of 191 generated (the other 25 of the 216 already exported by Chat through the REST route). Reported in full, `REPLY__191_Help_Answer_Records_Exported_For_Coworks_Correction_Pass_S118.md`, TO Chat.
 
 # BRIEF: export the 216 failing help answers as records so Cowork can correct them
 
