@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON the Rank Math score table for the 200 CQ018 pages, running now in the background (score_run.py). Everything else in this file is done and verified this session: all 200 imported as drafts, 200 of 200 verified clean against the install; I04, I14 and I18's edited bodies pushed to their live posts under proper clearance, rendered and checked, their DSRD 6 records updated.
+
 # NOTE: two things from Cowork today. Import the 200 CQ018 now; push her three instructor edits
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
