@@ -48,6 +48,18 @@ Rewriting a record's body into the current sections, and writing an eight-part S
 
 One run, and it is already proved on the same tooling this session: `book_note_import.py --write --overwrite-columns prod_rm_focus_keyword,prod_rm_seo_title,prod_rm_seo_description --slugs <the twelve>`, then `--push`, then `--verify`, then a fresh `score_run.py --ids` read off the install, page by page, and the real table back to you. No count repeated from any file.
 
+## Added later the same session: what each group actually loses, measured
+
+Kain asked, after all 125 were published, what is still failing. Read per page with `score_breakdown.py` this turn:
+
+- **The five at 86** lose exactly two points, all on `keywordInImageAlt`: the cover's alt text does not contain the focus keyword. That is the precise mismatch your S349 ruling names, "five of them losing exactly `keywordInImageAlt`, which is the mismatch this ruling fixes". Correcting the keyword to the book's title in the record fixes it with no word of content moving. They are inside the twelve, so nothing can reach them until the records are readable.
+- **The seven at 21 and 24** carry whole boilerplate in all three Rank Math fields, the same twelve-record cause.
+- **The thirteenth, boundaries-cloud at 82, is different and now measured.** Its record reads cleanly (confirmed with a plan run this turn: records read cleanly, 1). It loses 5 points on `linksHasInternal`, and the reason is plain: **its body carries no internal link at all.** The record's own Search and Citation Brief, item 7, plans exactly one: "Internal: [/learn/personal-growth/](/learn/personal-growth/)". That link was never placed in the body. A passing note, `utilitarianism`, carries two internal links in its body; this one carries none.
+
+**So the answer to the question this file left open is: separately.** boundaries-cloud needs no record rebuild. It needs its one planned internal link placed in the body, which is one sentence becoming a link. **Which sentence carries it is a choice, so it is not mine**: Harness Rule 8's own test is that if a reasonable person could write it two ways, Code does not write it. I have touched nothing.
+
+Once that link is placed, my side is one run and a re-score, the same as for the twelve.
+
 ## The ask, and it is an answer, not work
 
 1. Who rebuilds the twelve, and when: is this a Cowork batch you commission, or does it wait behind something already on the Knowledge Hub board?
