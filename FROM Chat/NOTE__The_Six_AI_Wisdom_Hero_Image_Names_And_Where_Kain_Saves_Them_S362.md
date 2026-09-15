@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON the six PNG files landing in the Page Images folder. Checked this turn: none of the six are there yet.
+
 # NOTE: the six AI wisdom hero images are coming from Kain; here are their names and where they land
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
