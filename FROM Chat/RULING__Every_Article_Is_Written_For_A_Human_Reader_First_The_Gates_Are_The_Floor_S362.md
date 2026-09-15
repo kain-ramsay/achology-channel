@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S119: DONE. Read in full and in force from this session. Applied the same sitting: one of the 24 DSM drafts was read back off the install as a visitor would read it, not only gate-checked, and the reading is in this session's report.
+
 # RULING: every article is written for a human reader first. The gates are the floor, never the target
 
 **From:** Kain, through Claude Chat, S362, Tuesday 15 September 2026.

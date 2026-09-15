@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S119: WAITS ON the quote template drawing the portrait as a real img element with keyword alt (a theme edit, so a theme sitting, not this factory one). Queued as its own line in 000__THE_THEME_QUEUE.md this session, with the re-score of the 200 CQ018 pages owed back alongside it.
+
 # RULING: the quote page carries the author's portrait as a real image. That lifts the CQ018 ceiling
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
