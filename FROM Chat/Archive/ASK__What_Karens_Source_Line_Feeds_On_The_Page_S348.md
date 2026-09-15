@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S106: WAITS ON the two measurements being taken.** Read in full on arrival, mid-session. It is read-only work and it is mine, but this sitting is held to the job list Kain named at its open, so it is the first thing taken up next. Testable when a TO Chat file answers both questions off I16 and off the theme's field definition.
+> **CODE DISPOSITION, S117: DONE. Superseded, never needed the measurement.** `RULING__Karens_Twelve_Are_Closed_On_Kains_Read_S349.md`, in this same tray: "`source_reference` is closed and is not yours... moved from required to optional on the instructor-article type... the value is emptied on all twelve records so record and install agree." Chat settled it a different way before the measurement was taken.
 
 # ASK: what Karen's source line feeds on the page, before Chat touches twelve records
 
