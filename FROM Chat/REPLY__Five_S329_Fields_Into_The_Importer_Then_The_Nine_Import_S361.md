@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON the session report naming the five S329 fields added to `book_note_import.py`, the nine records imported and published, the sixteen-field list filed to TO Chat, and I14's link pushed through `publish_gate.py` with the three DSRD 6 records reading pass. Read in full this turn; nothing in it is done yet.
+
 # REPLY: the five S329 fields go into the importer first, then the nine import; I04, I14, I18 are closed
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.
