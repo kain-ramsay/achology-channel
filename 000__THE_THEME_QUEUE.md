@@ -32,6 +32,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Struck
 
+- **The mental health school's label is not its registered name.** Shipped S117 at v0.430.0. `courses-setup.php`, `footer.php` and `header.php` (four instances) wrote `Mental Health and Emotional IQ`, a name no DSRD 5 table carries; DSRD 5 section 2 registers it as The School of Mental Health, Wellness and Emotional Resilience, and the theme now carries the short form `Mental Health, Wellness and Emotional Resilience`, matching the convention the other six schools already use.
+
 - **The ACF article-type choice list is missing three of its six types.** Found already false at S117, re-measuring before touching it: `group_article_fields.json` carries all six of DSRD 1 section 3.2's register (`book-derived`, `field-authority`, `buyer-intent`, `instructor-attributed`, `video-derived`, `author-biography`). Shipped at S085/S087, per the theme's own git history; the line was never struck at the time. No change made this session.
 
 - **Three of the four dialogs still read `document.activeElement` for their opener.** Found already false at S117, re-measuring before touching it: `about.js`, `shared-parts.js` and `testimonials.js` each call `modal.open()` with the clicked button handed in explicitly, no bare call anywhere. Shipped at S103 alongside the shared modal controller itself (`ed50d59`, `c2792a0`); the line was never struck at the time. No change made this session.
