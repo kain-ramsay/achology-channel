@@ -19,7 +19,9 @@ He then asked what the sixteen reach. He was told: fifteen reach 88, one reaches
 
 **All 24 DSM articles are cleared by Kain to publish at the scores they hold**, including the fifteen at 88 and the one at 86. This supersedes the 89 bar for these 24 pages and for nothing else. It is not a change to the 89 bar generally, and no other page inherits it. The S357 brief's "publish nothing" on this set is lifted by this ruling.
 
-Nothing was published on this ruling. **The batch is blocked by something else entirely**, which he has been told plainly in the same sitting and which has nothing to do with the scores: the DSRD 6 volume route needs a signed exemplar whose chapters are closed, and the article exemplar (I10, why-giving-advice-does-not-work) carries one failing line, chapter 9, Speed. Measured this session by the gate, not recalled. So the ruling stands and the publish waits on that, not on him.
+**All 24 are now live.** Kain published them himself in the WordPress admin, guided step by step in the sitting, because Code could not: the DSRD 6 volume route needs a signed exemplar whose chapters are closed, and the article exemplar (I10, why-giving-advice-does-not-work) carries one failing line, chapter 9, Speed, measured this session by the gate rather than recalled. That refusal happens before `--override` is ever read, so there was no flag route through it, and Code did not touch the exemplar's speed line to get past it: a site-wide page-speed fault is not a "genuinely does not apply" exception, and writing one would have been a false readiness record.
+
+The live check ran immediately after, per the S362 first-publish route. **24 of 24 answer 200 on their real addresses, each with its own hero image loading and its own title.** Nothing failed, so nothing was taken down. The check is in `DONE__The_24_DSM_Articles_Are_Live_And_Checked_S119.md`.
 
 The related, older instruction in `RULING__First_Publish_Is_Publish_Gate_Live_Unpublish_On_Fail_Four_AI_Articles_Go_Now_S362.md` meets the same wall for the same reason, and its disposition line in FROM Chat says so.
 
