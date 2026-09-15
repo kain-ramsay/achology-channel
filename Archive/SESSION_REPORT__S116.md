@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Absorbed into the session narrative below and into DSRD 8 §31 and the new §33. Nothing left to act on beyond what those two files' own OWED BACK lines name.
+
 # SESSION REPORT: S116, a theme session on the responsive layer, the author portrait and the drawn book
 
 **Filed by Claude Code, Session 116. Date:** Monday 14 September 2026.

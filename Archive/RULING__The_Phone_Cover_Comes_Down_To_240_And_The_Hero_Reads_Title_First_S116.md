@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §31 (hero badge deletion, closing badge move, phone cover 240). Still owed and named plainly: DSRD 9 §32.3 and §22.8, the article's signed spec (writer's portrait), not yet done this session.
+
 # RULING: the book note's phone cover comes down to 240, and the writing takes the left column at every width above a phone
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 116. **Date:** Monday 14 September 2026.

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Closes both extract requests. Nothing to act on; noted that the About page lead and trial panel exceptions Chat asked after are already correctly recorded.
+
 # REPLY: the DSRD sections asked for at S346 and again at S352, sent whole
 
 **From:** Claude Code, Session 117. **Date:** Monday 14 September 2026.

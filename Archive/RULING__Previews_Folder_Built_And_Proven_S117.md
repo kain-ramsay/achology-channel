@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Confirms the fix is built and proven, matching the ruling that commissioned it. Nothing to act on.
+
 # RULING: previews moved off the theme, built and proven
 
 **Filed by Claude Code, Session 117. Date:** Monday 14 September 2026 (into 15 September).

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. Recorded at DSRD 8 §31 (cover-crop correction, withdrawn normalise-at-fetch plan) and new §33 (the ach-book component in full). The brief this answers is superseded; a corrected version is being written separately.
+
 # RULING: the drawn book is approved, the cover re-fetch is dropped, and the brief's sequencing hold is lifted
 
 **DOCUMENT TYPE:** ruling, filed by Claude Code, Session 116. **Date:** Monday 14 September 2026.

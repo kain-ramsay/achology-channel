@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S360: CLOSED, ARCHIVED. The 50 book quotes: live, scored 80-85, noted for Chat's eye (no type bar written for quote pages yet). The 200 CQ018: refused at front door (dead featured_image field), routed to Cowork, already known. The 24 DSM articles: refused at front door (paragraph floor), routed to Cowork, already known. Nothing new to act on beyond what's already in motion.
+
 # REPORT: the three commissioned imports. One ran clean. Two are blocked at the front door, and neither block is Code's to fix.
 
 **Filed by Claude Code, Session 117. Date:** Monday 14 September 2026.
