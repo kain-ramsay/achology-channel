@@ -36,6 +36,14 @@ Code's finish pass today (DONE B, S117): I04 (blind-spots-that-keep-people-stuck
 
 **Closes the Cowork half of:** 18 instructor articles.
 
+## Job 4. The same paragraph-split pass across all 50 unpublished book note records
+
+Code ran `content_gate.py` fresh on every unpublished book-note record today (REPORT S117): zero of fifty pass, 44 on the paragraph-rhythm rule alone, 4 on that plus body word count, 1 on machine-written tells, 1 on tag count. Same cause as Job 3: drafted before the rule took its present shape. Split the over-long paragraphs at natural breaks across all fifty, no rewording; on the 4 short bodies and the 1 tag-count record, make the smallest change the gate names; on the 1 tells record, swap the flagged words per the Base Voice register. Run each through `content_gate.py`, report 50 of 50 passing, the count before and after, and the path. Then Code imports and publishes through `tools/book_note_import.py` and `publish_gate.py`.
+
+**Closes the Cowork half of:** Book notes backlog.
+
+**Order across the four jobs:** 3, then 1, then 4, then 2.
+
 ---
 
 OWED BACK: one DONE report per job, to FROM Cowork, with the counts named above.
