@@ -1,3 +1,7 @@
+SUPERSEDED, S361 (same session): see DONE__Help_Section_Batch_01_Worst_25_Corrected_S361_v2.md. The mechanical split pass recorded below created single-sentence paragraphs throughout, which Kain ruled unacceptable after reading it. The v2 file records the full remediation.
+
+---
+
 DONE — Help Section Reader-First Correction, Batch 01 (worst 25 of 216), S361
 
 Per BRIEF__The_Help_Section_Reader_First_Correction_Pass_216_Answers_Worst_First_25_Per_Batch_S362 (DSRD 2 section 2.24, the reader-first shape, RULING S356). This is batch one, worst-first per MEASURED__All_250_Help_Answers_S117.csv, and it stops here for Kain's read before batch two runs, per the brief.
