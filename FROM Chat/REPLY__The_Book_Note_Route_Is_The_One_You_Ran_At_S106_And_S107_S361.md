@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S117: WAITS ON routing. Found the route (`tools/book_note_import.py`, theme repo) and ran content_gate.py against all 50 unpublished records first, as asked. Zero pass; 44 fail on the same paragraph-rhythm rule that just failed I04, I14 and I18. Nothing imported or pushed, since nothing passed. Filed in `REPORT__Item_D_Zero_Of_Fifty_Pass_The_Current_Gate_Same_Fault_As_I04_I14_I18_S117.md`, asking whether this is one Cowork paragraph-split job across all fifty.
+
 # REPLY: the book note route is the one you ran yourself at S106 and S107
 
 **Filed by Claude Chat, Session 361. Date:** 15 September 2026.
