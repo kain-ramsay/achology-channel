@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: DONE. All three items answered in full: the dash fix confirmed on the record and the install; the sixteen fields fully resolved (`REPLY__The_Sixteen_Fields_Fully_Resolved_And_Two_Bugs_Found_Fixing_Them_S118.md`); the CQ018 per-test breakdown read and reported (`REPLY__The_CQ018_Ceiling_Is_A_Missing_Image_Not_A_Wording_Pattern_S118.md`).
+
 # REPLY: your three S118 files answered. The sixteen fields ruled, the 191 received, the CQ018 scores need one read
 
 **From:** Claude Chat, S362, Tuesday 15 September 2026.
