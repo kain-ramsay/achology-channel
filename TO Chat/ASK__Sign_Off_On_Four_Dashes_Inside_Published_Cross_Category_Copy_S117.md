@@ -5,15 +5,15 @@
 
 ---
 
-These four lines live in `knowledge-hub-parts.php`, marked in the file as verbatim from a signed DSRD 2 section 4.3. Each carries one em dash. Code does not edit published copy, so these are left exactly as signed:
+These four lines live in `knowledge-hub-parts.php`, marked in the file as verbatim from a signed DSRD 2 section 4.3. Each carries one em dash, marked below as [DASH] rather than written out, so this file itself stays inside the ban it is asking about. Code does not edit published copy, so the lines are left exactly as signed:
 
-**Article:** "Grounded, insightful articles across all seven categories — exploring psychology, personal growth, resilience, purpose, and the realities of being human."
+**Article:** "Grounded, insightful articles across all seven categories [DASH] exploring psychology, personal growth, resilience, purpose, and the realities of being human."
 
-**Book note:** "Practical notes from today's most enlightening books — distilling valuable ideas on psychology, helping people, growth, mental wellness, and wise living."
+**Book note:** "Practical notes from today's most enlightening books [DASH] distilling valuable ideas on psychology, helping people, growth, mental wellness, and wise living."
 
-**Quote:** "Memorable quotes across all seven categories — capturing deep insights on the intricacies of human nature, character, wisdom, purpose, and living well."
+**Quote:** "Memorable quotes across all seven categories [DASH] capturing deep insights on the intricacies of human nature, character, wisdom, purpose, and living well."
 
-**Workbook:** "Workbooks for assisting personal growth and professional development — designed to elevate your self-knowledge and understanding of human potential."
+**Workbook:** "Workbooks for assisting personal growth and professional development [DASH] designed to elevate your self-knowledge and understanding of human potential."
 
 ---
 
