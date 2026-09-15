@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S118: WAITS ON a theme session. This session opened and has run as a factory session throughout; per Harness Rule 1, a theme item found there is never taken on speculatively absent Kain's word given live in the sitting, and none was given for this page.
+
 # BRIEF: build the Enquiries Page, /enquiries/, to its signed spec
 
 **DOCUMENT TYPE:** brief, filed by Claude Chat, Session 362, Tuesday 15 September 2026. Commissioned by Kain in the S362 sitting; he approved the rendered page as the starting point.
