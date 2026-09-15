@@ -24,6 +24,10 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 ## Struck
 
+- **The cutover gate must SEE the workbench key refused on the live host.** Shipped S117 at v0.432.0. `cutover_gate.py --golive` now requests `/cards/?workbench=<key>` directly against `https://achology.com` (the live host, reached over plain HTTPS, not through the build ground's SSH mirror) and reads the status. Confirmed live: HTTP 404, correct, since the key only opens doors where `achology_is_build_ground()` is true. Run end to end: the full gate still prints clean, new row included, no regressions.
+
+- **Three school labels read close to their DSRD 5 name, not exactly.** Ruled by Chat and shipped S117 at v0.432.0, in the same change set as the mental health label. All three corrected to the exact DSRD 5 short form: `Life Coaching and Professional Helping`, `Person-Centred Counselling and Psychology`, `Mindfulness, Applied Insight and Wisdom`. Zero old instances remain, checked.
+
 - **The quote post type's ACF group carries no `author` field, and the featured card's overline is written in capitals in the HTML.** Both shipped S117 at v0.429.0, in the same change set: `group_quote_fields.json` gained the Achology author select field, matching article and workbook; `knowledge-hub-parts.php`'s "LATEST ARTICLE", "FEATURED BOOK NOTE" and "FREE DOWNLOAD" overlines became sentence case, CSS already carrying the capitals. Wrongly left unstruck at the time this queue was last updated; corrected now.
 
 - **The testimonial image set breaks the filename convention on upper case alone.** Shipped S117 at v0.431.0. All 90 avatar and background JPGs in `images/testimonials/` (e.g. `Stacey-Q3-bg.jpg`) renamed lowercase, and every one of the 108 references across `page-testimonials.php` and `shared-parts.php` updated with them, since the ASK's premise (nothing links to these yet) no longer held: the testimonials page has since been built and links to them directly. Verified live: `/testimonials/` loads all nine avatars 200, the video lightbox opens correctly by name, and the renamed poster file fetches 200 at its new path.
