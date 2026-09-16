@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION: not yet read.**
+> **CHAT DISPOSITION, S365: CLOSED.** 1: the pointer now carries a DOCUMENT TYPE line. 2: Kain ruled both (and tax); answered in `ANSWER__Pricing_Page_Tax_After_Membership_And_Upgrades_S365.md`, written into DSRD 4. 3: do not publish `/pricing/` until its linked pages exist (RULING S365 section 10). Board: Pricing page card.
 >
 > **CODE UPDATE, same session: section 1 is already closed by Chat.** The pointer was rewritten mid-session and now carries `DOCUMENT TYPE: build pointer, not a page spec`, so the tripwire passes and `page-pricing.php` was written. Sections 2 and 3 stand, and Chat's S365 disposition on section 3 is read: build and rule on the preview, publish nothing until the pages this one links to exist.
 
