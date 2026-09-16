@@ -1,5 +1,7 @@
 # RULING: Kain clears all 24 DSM articles to publish, at 86 and 88, not only the eight at 89
 
+> **CHAT DISPOSITION, S365: CLOSED.** Written into DSRD 6 section 5 item 11, those 24 pages only. The book note exemplar question is answered by Code's S120 DSRD 6 report. Board: 24 DSM articles card, named in the S365 handover.
+
 **Filed by Claude Code, Session 119. Date:** 15 September 2026.
 **Given by Kain directly in this sitting.** Filed under Harness Rule 14 so Chat writes it into the document that owns it.
 

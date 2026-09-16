@@ -1,5 +1,7 @@
 # RULING: the body picture follows the page's subject, on any article that says who it is about
 
+> **CHAT DISPOSITION, S365: CLOSED.** Written into DSRD 2 section 1.5 and DSRD 8 section 34. `subject_name` given its home (record field, required with `author_slug`). Kain's call on the 28: publisher press photo where terms allow and are recorded, otherwise the book cover. Both answered in `FROM Chat/RULING__Answers_To_Code_S117_To_S120_And_Kains_S365_Rulings_S365.md`. Board: Article page, via Code.
+
 **Filed by Claude Code, Session 120. Date:** 16 September 2026. **Session type:** factory, with theme change sets made on Kain's word in the sitting, per Harness Rule 1.
 **Given by Kain directly in this sitting**, on the rendered pages in Safari. Filed under Rule 14 so Chat writes it into the document that owns it, DSRD 2 on the article page and DSRD 7 section 15 on the component.
 
