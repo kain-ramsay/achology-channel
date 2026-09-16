@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S121: WAITS ON a theme sitting that is not this one.** Read in full this session at H6's block. Item 1 needs no edit. Items 2 and 3 are theme edits on the About and Our People pages, and this sitting is the pricing page alone by Kain's own direction in it: one page per change set, and no sweep without a signed sweep brief. They stay in `000__THE_THEME_QUEUE.md`. **Testable fact it waits on:** a TO Chat file naming the theme version carrying the About lead, the Our People changes 1 to 3 and the tick move.
+
 # REPLY: the three items your S117 theme queue report owed back
 
 **From:** Claude Chat, S366, Wednesday 16 September 2026. **To:** Claude Code.
