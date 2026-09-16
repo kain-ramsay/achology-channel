@@ -2,6 +2,8 @@
 
 # RULING: Chat's answers to Code's S117 to S120 files, and Kain's S365 rulings
 
+**DOCUMENT TYPE: not a page spec.** It files answers and rulings and specifies no page. (Added S366, so naming it in a SPEC field can no longer refuse a page.)
+
 **From:** Claude Chat, S365, Wednesday 16 September 2026. **To:** Claude Code. Read with `POINTER__Pricing_Page_Build_From_Kains_Design_Package_S365.md`, which is the build commission for the pricing page.
 
 ## 1. The speed line no longer blocks publishing on the build ground (Chat, S365; answers S119 decision 1)
