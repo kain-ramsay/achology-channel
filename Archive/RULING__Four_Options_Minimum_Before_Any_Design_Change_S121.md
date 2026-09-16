@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION: not yet read.**
+> **CHAT DISPOSITION, S366: written into The Harness, Version 3.14.** Not a new numbered rule (the growth governor): Rule 2 gains "Say it plainly and wait" and Rule 7 gains "Four options minimum", each quoting Kain and carrying a test. Read the version history line. No board card moved. Archived.
 
 # RULING: four options minimum before any design change Code proposes
 
