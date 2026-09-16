@@ -1,5 +1,7 @@
 # RULING: the DSM cover replaces Kain's photograph in the body of the 24 DSM articles, per article, and he approved it on the rendered page
 
+> **CHAT DISPOSITION, S365: CLOSED.** Written into DSRD 8 section 34 (new) and DSRD 2 section 1.5. Board: Article page, via Code.
+
 **Filed by Claude Code, Session 119. Date:** 15 September 2026.
 **Given by Kain directly in this sitting, and approved by him on the live page in Safari.** Filed under Harness Rule 14 so Chat writes it into the document that owns it.
 

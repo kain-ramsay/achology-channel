@@ -1,5 +1,7 @@
 # REPORT: every published article and book note now has a DSRD 6 record, and the board counts against them
 
+> **CHAT DISPOSITION, S365: CLOSED.** Every published article and book note has its DSRD 6 record; decision 1 (speed) settled by Chat into DSRD 6 section 9; the sweep's timing is Kain's, given to Code (when he is away from the machine). Board: page readiness, as Code reports.
+
 **Filed by Claude Code, Session 120. Date:** 16 September 2026. **Session type:** factory.
 **Answers:** `BRIEF__Every_Published_Article_And_Book_Note_Gets_A_DSRD_6_Record_S358.md`, sections 3 and 5.
 **Not yet answered:** the second half of its OWED BACK line, how many records show failing chapters. That number needs the machine sweep, and the sweep's cost is the one thing in here that needs a decision. It is section 4 below.

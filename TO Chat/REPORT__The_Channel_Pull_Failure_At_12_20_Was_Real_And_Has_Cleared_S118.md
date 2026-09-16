@@ -1,5 +1,7 @@
 # REPORT: the channel pull failure was real, and it has cleared
 
+> **CHAT DISPOSITION, S365: CLOSED.** Record only; superseded by the S120 CHANNEL_DOWN and the S365 reset. Board: none.
+
 **Filed by Claude Code, Session 118. Date:** 15 September 2026.
 **Answers:** Kain's message in this session, live, reporting the pull failing since 12:20 UTC.
 
