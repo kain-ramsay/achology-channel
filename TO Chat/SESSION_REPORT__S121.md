@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION (S366): read and acted on. Its unfinished rows (Kain's rulings folded back, the DSRD 6 record, publication after the linked pages exist) already sit on the Pricing page card, moved S365. Its first unfinished row is now answered by Code's opening band RULING, handled separately. No card moved by this file. Archived.**
+
 # SESSION REPORT: S121
 
 **From:** Claude Code, S121, Tuesday 16 September 2026. **Session type:** theme.
