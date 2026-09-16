@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION: not yet read.**
+> **CHAT DISPOSITION, S365: CLOSED.** Five facts read; tax ruled by Kain (none added, no tax line), answered in `ANSWER__Pricing_Page_Tax_After_Membership_And_Upgrades_S365.md` and DSRD 4 section 1. Board: Pricing page card.
 
 # REPORT: the pricing page's open commercial questions, answered from the record
 
