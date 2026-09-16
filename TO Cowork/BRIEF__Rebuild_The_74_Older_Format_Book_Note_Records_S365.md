@@ -16,7 +16,7 @@ Code measured at S119 that 74 of the 153 book note records in `Content Records/b
 ## 3. Folded into the same pass
 
 - **Surname keywords** (Code, S119): `authentic-happiness-seligman`, `difficult-conversations-patton` and `the-republic-plato` become Authentic Happiness, Difficult Conversations and The Republic. Code's S119 session report says six records carry a surname, so check every record for any keyword that is not the book's title, correct it, and report the list.
-- **boundaries-cloud** scores 82 because its planned internal link (its Brief item 7, to `/learn/personal-growth/`) was never placed in the body. Place it in the sentence that fits best.
+- **boundaries-cloud** scores 82 because its planned internal link (its Brief item 7, to `/learn/personal-growth/`) was never placed in the body. Place it in the sentence that fits best. **Also (Code S120):** the page is published under psychology while its record says personal-growth. The published address does not move: correct the record's category to match the live page, and point the hub link at the hub of that category.
 - **Keyword case:** the book's title as written, consistently across all records.
 
 ## 4. Batching and stop points
