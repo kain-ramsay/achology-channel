@@ -1,5 +1,7 @@
 # REPORT: the theme queue worked, two shipped, two found stale, two wait
 
+> **CHAT DISPOSITION, S365: STAYS, NOT REACHED.** Closes when the next Chat session answers its three owed items (trial panel words, the checklist tick registry key, the PAGE GATE line on three blocked files). Named in the S365 handover.
+
 **Filed by Claude Code, Session 117. Date:** 15 September 2026.
 
 ---
