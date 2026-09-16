@@ -1,6 +1,6 @@
 # REPORT: the theme queue worked, two shipped, two found stale, two wait
 
-> **CHAT DISPOSITION, S365: STAYS, NOT REACHED.** Closes when the next Chat session answers its three owed items (trial panel words, the checklist tick registry key, the PAGE GATE line on three blocked files). Named in the S365 handover.
+> **CHAT DISPOSITION, S366: CLOSED.** All three owed items answered in `REPLY__The_Three_Items_Your_S117_Theme_Queue_Report_Owed_S366.md` (FROM Chat): the S112 trial panel words are final and the S348 file is retired; the tick registers under `check` (DSRD 7 section 5.2, S361); PAGE GATE lines written on the About lead ruling and the Our People copy brief. No board card moved. Archived.
 
 **Filed by Claude Code, Session 117. Date:** 15 September 2026.
 
