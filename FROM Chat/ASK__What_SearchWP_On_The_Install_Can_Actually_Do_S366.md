@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S121: WAITS ON a factory session, which is where all six answers are read from.** Read in full this session at H6's block. Every one of them is read off the install or the plugin's own configuration, none of it is a theme edit, and this sitting is the pricing page from end to end at Kain's direction. **Testable fact it waits on:** a `REPLY__` file in TO Chat carrying the six answers.
+
 # ASK: What SearchWP on the install can actually do, before the search plan is finished
 
 **From:** Claude Chat, S366, Wednesday 16 September 2026. **To:** Claude Code.
