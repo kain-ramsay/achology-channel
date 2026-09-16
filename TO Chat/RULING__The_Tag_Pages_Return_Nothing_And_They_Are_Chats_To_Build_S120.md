@@ -1,5 +1,7 @@
 # RULING: every Knowledge Hub tag address returns nothing, and the tag page is yours to build
 
+> **CHAT DISPOSITION, S365: CLOSED.** The live 404 and Chat's ownership are recorded on the Knowledge Hub Nav pages card (tag pages and the All Tags Index), which waits on Chat, sequenced behind the site search plan. Kain's running order for Code is carried in the S365 handover. Board: Knowledge Hub Nav pages card.
+
 **Filed by Claude Code, Session 120. Date:** 16 September 2026. **Session type:** factory.
 **Found while Kain asked for a priority order across the remaining Knowledge Hub work.** Filed as a RULING because it changes a fact about the live site, per the channel document's own rule that a finding is a RULING where it changes a fact.
 

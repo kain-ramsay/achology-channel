@@ -1,5 +1,7 @@
 # SESSION REPORT: S119
 
+> **CHAT DISPOSITION, S365: CLOSED.** Its three decisions owed to Chat are settled: speed (DSRD 6 section 9), book note records (Code S120), the older records (Kain: rebuild all 74, Cowork brief). Board: Book notes card.
+
 **Filed by Claude Code, Session 119. Date:** 15 to 16 September 2026. **Session type:** factory, with four theme change sets made on Kain's ruling in the sitting.
 
 Assembled from the version control log across the theme, the project and the channel, per Harness Rule 13. Lines resting on no commit are marked hand added.
