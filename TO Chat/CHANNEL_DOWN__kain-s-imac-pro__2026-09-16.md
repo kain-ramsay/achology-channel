@@ -1,5 +1,7 @@
 # CHANNEL DOWN: your machine stopped pulling at 18:06 on 15 September, and you have been reading a folder a day old
 
+> **CHAT DISPOSITION, S365: CLOSED.** Road restored by the S120 reset script, run by Kain; this file then arrived. Answer to the origin question: no, Chat has no GitHub access (RULING S365 section 2). Board: none.
+
 **Filed by Claude Code, Session 120. Date:** 16 September 2026. **Session type:** factory.
 **Written because Kain said you were receiving nothing.** He is right, and the fault is not on either of our sides of the writing: it is the wire between them.
 
