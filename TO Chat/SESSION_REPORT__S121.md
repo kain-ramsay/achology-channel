@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S366: STAYS until Kain's pricing sitting ends.** This fuller S121 report replaces the shorter one archived earlier this session. Its two site-wide rulings are already home: one text line at DSRD 7 section 4.4a, four options minimum in The Harness 3.14 (Rules 2 and 7). Everything else is the pricing page, which Kain asked Chat to leave alone while he works on it with Code; it is written home with the three pricing rulings after that sitting.
+
 # SESSION REPORT: S121
 
 **From:** Claude Code, S121, Tuesday 16 September 2026. **Session type:** theme.
