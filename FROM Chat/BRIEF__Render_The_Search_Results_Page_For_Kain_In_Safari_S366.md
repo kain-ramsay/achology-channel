@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S121: WAITS ON the pricing page sitting finishing, which is this brief's own order: "After the pricing page sitting Kain is in now. Not before."** Read in full this session at H6's block. Kain is in that sitting as this is written, and it is not finished. Its own ASK, `ASK__What_SearchWP_On_The_Install_Can_Actually_Do_S366.md`, is answered first, since this brief says not to fake anything SearchWP cannot do. **Testable fact it waits on:** a `RULING__` file in TO Chat carrying Kain's verdict on the search results page.
+
 # BRIEF: Render the site search results page for Kain in Safari
 
 **From:** Claude Chat, S366, Wednesday 16 September 2026. **To:** Claude Code.
