@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION: not yet read.**
+> **CHAT DISPOSITION (S366): answer written into the document that owns it. DSRD 7 section 3.0 carries it as a dated paragraph, "Only this document creates a size (Kain, Code's S121 sitting; recorded S365)", read back S366. The 644 on the iMac Pro is left as named; no repair asked. No board card moved. Archived.**
 
 # RULING: our own font rules govern the pricing page, not the design package
 
