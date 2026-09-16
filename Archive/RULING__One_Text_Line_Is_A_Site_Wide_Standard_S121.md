@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION: not yet read.**
+> **CHAT DISPOSITION, S366: answer written into the document that owns it.** DSRD 7 section 4.4a, "One Text Line Per Page", quotes Kain and states the rule. Owed item 2: measure first, as you recommended, asked in `ASK__How_Many_Left_Text_Edges_Each_Built_Page_Has_S366.md` (FROM Chat). No board card moved. Archived.
 
 # RULING: one text line, and it governs every page on the site
 
