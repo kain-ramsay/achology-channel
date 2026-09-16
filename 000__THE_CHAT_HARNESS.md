@@ -1,6 +1,6 @@
 # THE CHAT HARNESS
 
-**Version 1.15, S352. Authority: Kain Ramsay.**
+**Version 1.16, S366. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
@@ -11,6 +11,7 @@
 
 One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
 
+- **1.16, S366.** Rule 1 tightened on Kain's S366 ruling, after twenty-plus sessions of Chat pushing to close within a handful of turns and starting jobs unannounced: only Kain ends a session, and when the agreed work runs out Chat reads the board and names the next priority; every new job is announced in one plain sentence before it starts. Nothing added: one rule tightened, with its test.
 - **1.15, S352.** Open Step 1 reads Cowork's road too. Chat's inbox is TO Chat and FROM Cowork together (The Shared Rules, section 6, Version 7), ruled by Kain at S352 after the process audit found 29 files in FROM Cowork with no disposition, the oldest from S318: The Shared Rules had named Cowork as that tray's writer and nobody as its reader, so the pipeline's stage 3 ran only when someone remembered it. The open now lists both trays with a disposition per file; a DONE file's disposition also archives the brief it answers in TO Cowork; and the oldest brief Cowork still owes is named in the opening line with its session, exactly as the oldest FROM Chat file already is. A mechanism widened, no rule added and no call added. **Two more tightenings from the same audit, same version:** the board-currency stamp (1.14) now refuses a card whose Definition of Done is not a finished-state test readable in one pass, or which carries a ruling owed; the S352 audit found the 18 instructor articles card carrying roughly 400 words of dated narrative and one parked ruling in that field, which the Board Item Standard and standing rule 22 both forbid. And the handover's four owes-lists are built from the board by query, one line per open card, before a word of them is written (session-close Step 7); the board held five cards waiting on Kain while the S351 handover named one. The board's Waiting On Who field gains the value Claude Chat, so Chat's own next acts can be listed like everyone else's.
 - **1.14, S342.** Layer 2 gains the board-currency mechanism, designed with Kain and built the same session. Every card read against its source and found true is stamped, Checked with the time and Checked Session with the session number, as the last write on the card. A Needs Attention formula and view hold every open card that is unstamped, edited more than five minutes after its stamp, or stamped more than seven days ago (seven days ruled by Kain). The open prints the view's count inside the one Notion call that already proved the connector; the close prints cards stamped and cards still needing attention into the handover's fixed numbers block, and the next open verifies both fresh. No rule added and no call added. The S341 branch problem, two copies of one chat writing the same files, is closed by Kain's habit (once files are being written, new messages only, never an edit or a resend) and not by a lock: a lock written at the open cannot tell two copies of one session apart, the only lock that could costs a check on every board write, and the stamp's session label already makes a repeat visible on the board itself.
 - **1.13, S339.** Rule 3 extended to cover claims of absence, not only claims of writing. A parent-scope `search_files` call silently failed to recurse into folders carrying special punctuation, found twice this session: first on two subfolders with parentheses and an arrow character, causing two briefs to assert work did not exist when it did, one already built and closed, one already run and closed; second on a folder with an apostrophe and a pipe character, causing a false report that the DSRD specification folder was structurally unreachable, when a plain directory listing found it at once. All three caught and corrected before lasting damage: two before Code acted on the wrong halves, one within the same sitting it was said. A mechanism tightened, not a rule added.
@@ -39,6 +40,12 @@ It has three layers, per the vault methodology `A Harness Has Three Layers - Rul
 
 ### Rule 1. Open by the ritual, close by the ritual
 Every session opens with the five-step open and closes with the nine-step close. The steps live in one place, the `session-close` skill, which replaced the retired session-closing and session-handover skills at S244. No lighter version of either ritual exists. The Notion Session Journal is cut (ruled S244): the handover is the close's one written record.
+
+**Only Kain starts the close (ruled S366).** Chat never proposes closing a session. When the agreed work is finished, Chat reads the board and suggests the next most important job, with its reason and a yes or no question. The close runs when Kain says the session is ending. Kain's words, S366: "why aren't you suggesting to me what our next priority task should be? ... you push a session close rather than proactively suggesting what our next task item should be."
+
+**Say the job before starting it (ruled S366).** Before starting any new job, Chat tells Kain in one plain sentence what it is about to do. Work already under way inside an agreed job needs no new sentence.
+
+**Test:** in any session transcript, (a) no Chat message suggests closing unless Kain has first said the session is ending; (b) every point where the agreed work runs out is followed by a board read and a named next job; (c) the first tool call of every new job is preceded by a plain sentence naming that job.
 
 ### Rule 2. A decision is written home in the turn it is settled
 Never held for the close. The close's decision sweep is the backstop, not the mechanism: the mechanism is the turn itself. This is what protects a session that dies mid-way: a compacted or abandoned session loses minutes of unwritten work, not hours, because nothing settled is ever waiting.
@@ -135,4 +142,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.15.*
+*End of The Chat Harness, Version 1.16.*
