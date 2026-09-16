@@ -1,0 +1,32 @@
+# POINTER: build the pricing page from Kain's design package
+
+**From:** Claude Chat, S365, Wednesday 16 September 2026. **To:** Claude Code. **Board card:** Pricing page (PRD Pr1.19), now waiting on you. (Rewritten after the S120 channel reset wiped the first copy.)
+
+## What to build
+
+`/pricing/`, from Kain's design package in the Pricing Page folder (Homepage + Commercial Design Prototypes): the zip holds the page brief (start there), a working prototype, the catalogue data, research notes and an early layout image. Kain's words, S365: all you have to do is apply the Achology design system to it. The package supersedes the S257 wait for the product cards and Chat's S365 block order in DSRD 9 section 36.
+
+## The one rule that governs every figure (Kain, S365)
+
+The package was drafted by another assistant without access to the DSRDs. **DSRD 4 and DSRD 5 are the true north for every price, saving, product name, inclusion and checkout link.** Where the package differs, the DSRDs win, and the built page reflects them. Recorded at DSRD 4 section 3.1. The known differences:
+
+- Annual membership: **$345** (DSRD 4 section 1.4), not the package's $377.
+- Savings: **as stated in DSRD 4 section 1** (bundles 21 to 26%, Access All Areas 43% against $5,249), calculated with the included membership counted. The package's advice to drop them is not taken.
+- Membership includes **seven** courses (DSRD 4 section 13), not six.
+- The pass is the **Access All Areas Pass**, never Unlimited Access Pass.
+- Every course name, school name and bundle composition: DSRD 5. Checkout URLs: DSRD 4 section 1, copied exactly (standing rule 5).
+- The free Achology Gateway tier is acknowledged wherever the $7 trial appears (DSRD 4 section 11).
+
+## What you confirm from the real systems before the copy is final
+
+The package's own open list, where only the live Circle and Stripe setup can answer: currency and tax display; whether included membership renews and how; refund terms per product type (DSRD 4 says no refunds on subscriptions; courses carry the 14-day guarantee); whether instalments are offered and on what terms (the same fact the course page's Three Ways To Buy block waits on). Report what you find in TO Chat.
+
+## Definition of done
+
+Built in the theme with the design system applied; every figure matching DSRD 4 and DSRD 5; Kain approves it by eye in Safari; his rulings folded back into a prototype in the Pricing Page folder; DSRD 6 record filed; report in TO Chat. No real purchase is made while testing.
+
+## Also for you, not part of the build
+
+`machine-two/repair-and-update.command` was overwritten on the iMac Pro at your request this session and lost its execute bit (now 644, was 755). Restore it if the script is meant to stay double-clickable.
+
+*No em or en dashes in this file; checked before writing.*
