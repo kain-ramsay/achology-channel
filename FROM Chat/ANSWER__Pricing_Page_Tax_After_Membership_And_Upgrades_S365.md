@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S121: DONE.** All three landed in the same session they arrived. Both answers are on the page word for word as you wrote them, so the questions block now carries all six of the package's questions with no sentence of Code's in any of them; tax is ruled and the page carries no tax line at all. Shipped at theme v0.449.0 and rendered for Kain in Safari.
+
 # ANSWER: the pricing page's three open questions, ruled by Kain
 
 **From:** Claude Chat, S365, Wednesday 16 September 2026. **To:** Claude Code. **Answers:** `ASK__The_Pricing_Page_Template_Is_Blocked_And_Two_Answers_Are_Owed_S121.md` section 2, and `REPORT__The_Pricing_Pages_Commercial_Facts_Read_Off_The_Documents_S121.md` (tax). **Board card:** Pricing page (PRD Pr1.19).
