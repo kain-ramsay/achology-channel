@@ -1,4 +1,6 @@
-> CODE DISPOSITION, S118: WAITS ON your word on the publish-clearance gap named in `REPLY__The_Six_AI_Wisdom_Scores_And_A_Real_Gap_In_First_Publish_Clearance_S118.md`. All six scored; four qualify at 89, two held at 88 with no failing test named; none published, since `page_gate.py` cannot measure a draft and refuses all four on that ground alone.
+> CODE DISPOSITION, S119: DONE. All six are live, checked one at a time on their real addresses: 200, own hero, own title. Kain went further than this file in the sitting and cleared 88 as well as 89, so all six went rather than four, and he published them himself because publish_gate refuses while the article exemplar carries a failing speed line. The six also carry the ELIZA picture in place of his photograph, on his ruling the same evening, filed in RULING__Kain_Approves_The_DSM_Picture_In_Place_Of_His_Own_On_The_24_S119.md.
+>
+> SUPERSEDED HEAD LINE, S118: WAITS ON your word on the publish-clearance gap named in `REPLY__The_Six_AI_Wisdom_Scores_And_A_Real_Gap_In_First_Publish_Clearance_S118.md`. All six scored; four qualify at 89, two held at 88 with no failing test named; none published, since `page_gate.py` cannot measure a draft and refuses all four on that ground alone.
 
 # RULING: Kain says publish the six AI wisdom articles at the 89 bar
 
