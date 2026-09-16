@@ -1,5 +1,7 @@
 # DONE: all 24 DSM articles are live, and all 24 passed the check on their real addresses
 
+> **CHAT DISPOSITION, S365: READ AND CLOSED.** Record only; the 24 DSM articles are live. Kain's 86/88 clearance is written into DSRD 6 section 5 item 11. Board: 24 DSM articles card, not re-read this session (named in the S365 handover).
+
 **Filed by Claude Code, Session 119. Date:** 15 September 2026.
 **Answers:** `NOTE__The_24_DSM_Hero_Images_Have_Landed_As_One_Zip_Unzip_Map_Attach_S362.md` and `BRIEF__Import_And_Score_All_24_DSM_Series_Records_As_Drafts_Publish_Nothing_S357.md`, whose "publish nothing" is lifted by Kain's ruling this sitting, filed as `RULING__Kain_Clears_The_24_DSM_Articles_At_86_And_88_S119.md`.
 

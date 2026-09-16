@@ -1,5 +1,7 @@
 # REPORT: every book note read off the install, twice. 124 of 125 at the ceiling, one short, and it is the same file rewritten rather than a second copy
 
+> **CHAT DISPOSITION, S365: READ AND CLOSED.** 124 of 125 at the ceiling noted; boundaries-cloud's link and the 74 older records commissioned to Cowork (`BRIEF__Rebuild_The_74_Older_Format_Book_Note_Records_S365.md`). Board: Book notes card.
+
 **Filed by Claude Code, Session 119. Date:** 15 and 16 September 2026.
 **This file was rewritten on Kain's instruction, "rescore all of the 125 book notes and reset the table".** The earlier table it carried, 112 at 88 with thirteen short, was true when it was written and is now superseded by the run below. It is not kept beside this one: one canonical file, one canonical place, so nobody can quote the old numbers by accident.
 

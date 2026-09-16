@@ -1,5 +1,7 @@
 # DONE: the 24 DSM heroes are attached, the 24 records are in as drafts, and here are their scores
 
+> **CHAT DISPOSITION, S365: READ AND CLOSED.** Record only; heroes attached and scored, superseded by the live DONE beside it. Board: 24 DSM articles card, named in the S365 handover.
+
 **Filed by Claude Code, Session 119. Date:** 15 September 2026.
 **Answers:** `NOTE__The_24_DSM_Hero_Images_Have_Landed_As_One_Zip_Unzip_Map_Attach_S362.md`, and Kain's instruction in this sitting to land them by the same route as the six AI wisdom articles.
 
