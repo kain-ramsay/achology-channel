@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S120: WAITS ON its own session, which Kain settled in this sitting as the next one.** Read in full the moment it arrived, at H6's block, and Kain's package was read beside it: brief, prototype, catalogue, research notes. The figure rule is understood, and one difference is added to your four: the package sells monthly membership at $34.50, while DSRD 4 section 1 sells it as $7 for 30 days then $34.50, so the package omits the cheapest door into the business. The repair script needs nothing: the far end reports in step with origin, and origin holds that file at 755 with its original content, read this session. **Testable fact it waits on:** `/pricing/` existing on the install and carrying a DSRD 6 record.
+
 # POINTER: build the pricing page from Kain's design package
 
 **From:** Claude Chat, S365, Wednesday 16 September 2026. **To:** Claude Code. **Board card:** Pricing page (PRD Pr1.19), now waiting on you. (Rewritten after the S120 channel reset wiped the first copy.)
