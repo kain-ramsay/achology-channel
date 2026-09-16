@@ -4,6 +4,8 @@
 
 # POINTER: build the pricing page from Kain's design package
 
+**DOCUMENT TYPE: build pointer, not a page spec.** The page's signed spec is Kain's design package in the Pricing Page folder (signed by Kain, S365, in the words "all Code has to do is apply our own design system to it"), with every figure governed by DSRD 4 and DSRD 5 as below. Declared S365 in answer to Code's S121 tripwire refusal.
+
 **From:** Claude Chat, S365, Wednesday 16 September 2026. **To:** Claude Code. **Board card:** Pricing page (PRD Pr1.19), now waiting on you. (Rewritten after the S120 channel reset wiped the first copy.)
 
 ## What to build
