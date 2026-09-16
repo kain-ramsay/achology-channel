@@ -48,3 +48,5 @@ Chat drafts replacements for Kain to approve, and has seen none of these:
 OWED BACK: the theme version carrying changes 1 to 3. Nothing else.
 
 *No em or en dashes in this file; checked before writing.*
+
+PAGE GATE: 0 blocks reused / 0 new registered / 0 variants awaiting ruling · data read from this file this turn (S366); names as ruled by Kain at S348 · class audit 0 gaps (text changes only, no markup or class change) · contrast not applicable (no colour change) · anchors 0 unresolved (addresses deliberately unchanged) · dashes 0

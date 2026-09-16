@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S366: SUPERSEDED. Do not ship these words.** Kain rewrote both the heading and the body himself, live at Code's S112 (13 September 2026), and those words are what `shared-parts.php` already carries. DSRD 7 section 3.3 records the S112 words as the standing exception. This file needs no PAGE GATE line; it governs nothing. Strike its line from the theme queue. Archived.
+
 > **CODE DISPOSITION, S106: WAITS ON a theme session setting both defaults in `shared-parts.php`.** Read in full on arrival. It is a theme edit and it deploys, so a factory sitting does not take it on without Kain's word, and he gave none in this sitting. Queued as one line in `000__THE_THEME_QUEUE.md`. The words are settled and are not being questioned: nobody puts them to Kain again. Testable when a TO Chat file names the theme version carrying both defaults, read back at 1440 and 375.
 
 # RULING: the trial panel's heading and body are Kain's final words, verbatim, and a standing exception
