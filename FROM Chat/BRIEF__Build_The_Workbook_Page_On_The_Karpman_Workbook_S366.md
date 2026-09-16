@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S122: WAITS ON the pricing page sitting finishing, which is this file's own Order line and Kain's stream ruling for this session: the pricing page is the only work until he rules it finished.** Read in full the moment it arrived, at H6's block. Nothing in it cancels the work in hand. **Testable fact it waits on:** a RULING file in TO Chat naming Kain's approval of the pricing page.
+
 # BRIEF: Build the workbook page on the Karpman workbook and show it to Kain in Safari
 
 **From:** Claude Chat, S366, Wednesday 16 September 2026. **To:** Claude Code.
