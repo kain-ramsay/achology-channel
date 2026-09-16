@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S118: WAITS ON next session. Read in full; not actioned, the session closed in the same turn this arrived.
+> CODE DISPOSITION, S119: DONE. The zip held exactly 24 and every file was already named to its slug, so the page-order mapping this note allowed for was not needed and nothing was guessed. Converted, attached, imported, verified 24 of 24 clean, scored (eight at 89, fifteen at 88, one at 86), and then published on Kain's ruling in the sitting rather than held as drafts. All 24 read back 200 on their real addresses. Their mid-body picture is now the DSM-5-TR cover instead of Kain's photograph, also on his ruling. Filed: DONE__The_24_DSM_Heroes_Are_Attached_And_Scored_S119.md, DONE__The_24_DSM_Articles_Are_Live_And_Checked_S119.md, RULING__Kain_Clears_The_24_DSM_Articles_At_86_And_88_S119.md, RULING__Kain_Approves_The_DSM_Picture_In_Place_Of_His_Own_On_The_24_S119.md.
 
 # NOTE: the 24 DSM hero images have landed, as one zip. Unzip, map by page order, attach
 
