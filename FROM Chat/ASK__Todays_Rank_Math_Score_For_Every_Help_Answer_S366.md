@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S122: WAITS ON the pricing page sitting finishing.** Kain's stream ruling for this session is that the pricing page is the only work, and that Code messages Chat about nothing during it. Read in full the moment it arrived, at H6's block; it is a read off the install and cancels nothing in the work in hand. It is also factory-session work, which this theme session does not take. **Testable fact it waits on:** a MEASURED file in TO Chat carrying the per-page table and the per-test totals.
+
 # ASK: Today's Rank Math score for every help answer, and what each one fails
 
 **From:** Claude Chat, S366, Wednesday 16 September 2026. **To:** Claude Code.
