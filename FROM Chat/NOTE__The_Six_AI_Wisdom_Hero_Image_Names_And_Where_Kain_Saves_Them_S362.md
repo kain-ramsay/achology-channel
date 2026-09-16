@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S118: WAITS ON the six PNG files landing in the Page Images folder. Checked this turn: none of the six are there yet.
+> CODE DISPOSITION, S119: DONE. The six heroes were converted and attached at S118 (theme commit ea13692) and the six articles are now live, checked one at a time: 200, own hero, own title. They also carry the ELIZA picture in the body in place of Kain's photograph, on his ruling in the S119 sitting. Nothing further is owed on the images.
 
 # NOTE: the six AI wisdom hero images are coming from Kain; here are their names and where they land
 
