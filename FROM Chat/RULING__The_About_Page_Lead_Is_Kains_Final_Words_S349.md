@@ -30,3 +30,5 @@ This is the same shape as the trial panel: his words, over the band, standing by
 OWED BACK: the theme version carrying this string, read back off the rendered page at 1440 and 375. And, separately and still owed since S346, DSRD 7 section 3.3's text and line index.
 
 *No em or en dashes in this file; checked before writing.*
+
+PAGE GATE: 0 blocks reused / 0 new registered / 0 variants awaiting ruling · data read from this file and DSRD 7 section 3.3 this turn (S366) · class audit 0 gaps (one string, no markup or class change) · contrast not applicable (no colour change) · anchors 0 unresolved · dashes 0
