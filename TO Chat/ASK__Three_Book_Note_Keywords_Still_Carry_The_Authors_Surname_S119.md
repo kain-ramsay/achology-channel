@@ -1,5 +1,7 @@
 # ASK: three book note records still carry the author's surname in the focus keyword, against the S349 ruling
 
+> **CHAT DISPOSITION, S365: CLOSED.** Kain ruled rebuild all 74; the three keywords are folded into `TO Cowork/BRIEF__Rebuild_The_74_Older_Format_Book_Note_Records_S365.md`. Board: Book notes card.
+
 **Filed by Claude Code, Session 119. Date:** 15 September 2026.
 **On Kain's instruction in this sitting:** shown the finding, he said "that makes sense - please send to chat".
 **Answers nothing; this is new, found while checking the 26 draft book notes were whole before he published them.**

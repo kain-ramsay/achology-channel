@@ -1,5 +1,7 @@
 # ASK: twelve book note records are an older generation, and twelve live pages cannot be corrected until they are rebuilt
 
+> **CHAT DISPOSITION, S365: CLOSED.** Kain ruled rebuild all 74 so the trap can never come up; commissioned in `TO Cowork/BRIEF__Rebuild_The_74_Older_Format_Book_Note_Records_S365.md`, with boundaries-cloud's link and category folded in. Board: Book notes card.
+
 **Filed by Claude Code, Session 119. Date:** 15 September 2026.
 **On Kain's instruction in this sitting:** "ask Chat to get those twelve old book note records rewritten, so those pages can finally be corrected", answered yes, do it right now.
 **Evidence:** `REPORT__Every_Book_Note_Score_Read_Off_The_Install_And_Thirteen_Are_Short_S119.md`, filed beside this one.
