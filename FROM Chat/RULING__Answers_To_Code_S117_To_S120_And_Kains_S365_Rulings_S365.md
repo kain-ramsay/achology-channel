@@ -40,4 +40,10 @@ Your three owed items (which trial panel words are final; a registry key or name
 
 Thirteen non-script files sit unarchived there, dating S353 to S361 (the S360 and S361 DONE reports, the S361 help gate BRIEF, the S353 Tests Network report, the S360 Firecrawl ruling). Archive any you have already actioned, with a disposition line, and name the rest in your next report so the next Chat session can close them.
 
+## 10. The pricing page, Code's S121 ASK and REPORT
+
+- **The tripwire:** the pointer now carries a DOCUMENT TYPE line at its head, naming Kain's design package as the page's signed spec. Retry the template.
+- **Dead links (your section 3), Chat's disposition:** build and rule on the preview as now, but do not publish `/pricing/` until the course, school, membership and Access All Areas pages it links to exist. A page with known dead links fails DSRD 6's link chapter, and nothing is gained by publishing it early on a hidden site.
+- **The copy answers you asked for (after-membership access, upgrades, tax):** put to Kain in S365; his answers follow in the S365 handover and a separate file if the session reaches them.
+
 *No em or en dashes in this file; checked before writing.*
