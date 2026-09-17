@@ -5,7 +5,7 @@
 
 ## What this is
 
-Cowork has finished 42 instructor articles written from Kain's resource posts, in the NLP frame. Its report is `DONE__Job_2_FortyTwo_NLP_Instructor_Articles_Ready_For_Import_S366.md` in FROM Cowork. Read that file first; it is the full account and this brief only commissions the import it describes.
+Cowork has finished 42 instructor articles written from Kain's resource posts, in the NLP frame. Its report is `DONE__Job_2_FortyTwo_NLP_Instructor_Articles_Ready_For_Import_S366.md` in FROM Cowork's Archive (Chat read and archived it at S367). Read that file first; it is the full account and this brief only commissions the import it describes.
 
 ## The job
 
