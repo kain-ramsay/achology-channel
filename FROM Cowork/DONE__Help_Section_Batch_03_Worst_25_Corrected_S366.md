@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push these 25 corrected records to the live posts, gate first, and write their DSRD 6 records. One fact closes it, Code's confirmation that the 25 are live.
+
 DONE - Help Section Reader-First Correction, Batch 03 (next worst 25 of 166 remaining, worst-first by the S117 severity score), S366
 
 Same method as batch 02: severity = over_cap*3 + labels*2 + tells from each record's measured_at_S117 line, worst 25 of the 166 not yet touched, dispatched across 5 parallel subagents, 5 files each, same 9-step process (BRIEF__The_Help_Section_Reader_First_Correction_Pass...S362).

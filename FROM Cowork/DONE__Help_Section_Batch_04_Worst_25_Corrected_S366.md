@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push these 25 corrected records to the live posts, gate first, and write their DSRD 6 records. One fact closes it, Code's confirmation that the 25 are live.
+
 DONE - Help Section Reader-First Correction, Batch 04 (next worst 25 of 141 remaining, worst-first by the S117 severity score), S366
 
 Same method and process as batches 02-03. This batch's subagent brief was updated with an explicit, named warning about the UKRLP-closer regression found in batch 03 (the exact fixed sentence quoted in full, marked non-negotiable) - all 5 groups confirmed programmatically, not just by eye, that the closer was byte-for-byte unchanged in all 25 files. It held: 0 files touched the closer this batch.
