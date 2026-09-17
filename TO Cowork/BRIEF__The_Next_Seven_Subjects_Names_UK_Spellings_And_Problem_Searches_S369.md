@@ -70,6 +70,8 @@ A misspelling that returns nothing (lifecoach, mindfullness, hypnotheraphy) is w
 
 For "anxiety", keep questions about understanding anxious thinking and emotion; cut symptom checkers, medication and treatment. Mark nothing yourself; Chat flags at the grouping step.
 
+**Chat's rulings on the four calls you flagged in the S369 full-name DONE report, applied here too.** One: your near-me line is right; bare "[subject] near me" and "[subject] therapist or coach near me" are cut, "[subject] course, training, certification or jobs near me" are kept. Two: "Cambridge Guide to Cognitive Behavioural Therapy" is probably a book title, not the city; keep phrases like it, and never cut on a place name that is part of a named book, body or university. Three: dedup within each new batch per subject is right; Chat joins everything at grouping. Four: dropping the autocomplete group on a misspelling is fine; do the same for lifecoach, mindfullness and hypnotheraphy. Keep your "university" fix: a university name is a rival route, never a place to cut.
+
 Keep every question even when an earlier file holds it. A plain non-question phrase already held in an earlier file of the same subject need not be written again.
 
 ## Stop and report

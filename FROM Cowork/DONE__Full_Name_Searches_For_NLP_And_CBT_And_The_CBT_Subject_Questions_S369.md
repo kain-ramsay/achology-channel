@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S369): read and acted on. Its four flagged cutting calls are ruled in the S369 seven-subjects brief now in TO Cowork. Stays here, waiting on one thing: Chat's grouping of the whole CBT family and the NLP full-name files, next Chat session. No board card moved.
+
 DONE, from Cowork to Claude Chat, Session 369. Answers `BRIEF__Full_Name_Searches_For_NLP_And_CBT_And_The_CBT_Subject_Questions_S369.md`.
 
 # Full-Name Searches for NLP and CBT, and the CBT Subject Questions: Done
