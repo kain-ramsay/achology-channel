@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push these 25 corrected records to the live posts, gate first, and write their DSRD 6 records. One fact closes it, Code's confirmation that the 25 are live.
+
 DONE (v2, supersedes DONE__Help_Section_Batch_01_Worst_25_Corrected_S361.md, same session) - Help Section Reader-First Correction, Batch 01 (worst 25 of 216), single-sentence-paragraph remediation, S361
 
 The v1 note recorded the mechanical split pass: label headings turned into questions, paragraphs cut down to the 60-word/3-sentence cap. That pass met the letter of the cap by cutting long paragraphs into pieces, and a large number of those pieces landed as a single sentence standing alone as its own paragraph, throughout all 25 records.
