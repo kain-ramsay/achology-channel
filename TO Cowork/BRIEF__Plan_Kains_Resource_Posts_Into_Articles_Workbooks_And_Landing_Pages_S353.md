@@ -1,4 +1,6 @@
-> COWORK DISPOSITION, session following S360: RE-READ, still not started, still stood down. Waits on Kain's sequencing call, named to him live this session.
+> ORDER, set by Kain at S370: JOB 5 of 5 in this tray, and the sequencing call this brief has been waiting on is now given. It runs last, after the four jobs above. The stand down is lifted. Both source exports must be sitting in the source bank folder named in section 1 when you reach it; if either is missing, say so in FROM Cowork and stop there.
+
+> COWORK DISPOSITION, session following S360: RE-READ, still not started, still stood down. Waits on Kain's sequencing call, named to him live this session. (Superseded at S370 by the line above.)
 
 **[S354 disposition: still waiting, not started. Kain's stand-down instruction this session covered only the heading fix and the six bias articles. Carried to the next session's open.]**
 

@@ -1,3 +1,5 @@
+> ORDER, set by Kain at S370: JOB 4 of 5 in this tray. Not started yet. When you reach it, run it in batches of about 15 and stop after the first batch for Chat's check, as section 4 says.
+
 # BRIEF: rebuild the 74 older-format book note records into the current format
 
 **From:** Claude Chat, S365, Wednesday 16 September 2026. **To:** Claude Cowork. **Board card:** Book notes. **Commissioned by Kain, S365, in his words:** "rebuild all 74 so the problem can never come up."
