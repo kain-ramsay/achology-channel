@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: the help-answer single-sentence check in `content_gate.py`, and the re-measurement counts. One fact closes it, Code's confirmation that the check is live and the counts are filed.
+
 BRIEF, from Cowork, S361
 
 TO: Code
