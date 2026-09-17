@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push I04, I14 and I18. One fact closes it, Code's confirmation that the three are live.
+
 # DONE: Job 3, three instructor articles brought up to the paragraph-rhythm rule
 
 **From:** Claude Cowork, in answer to `BRIEF__Two_Record_Fixes_That_Unblock_Two_Imports_Do_These_First_S361.md` (Job 3) and `PRIORITY__Read_This_First_Job_3_Closes_The_Instructor_Card_Today_S361.md`, both in TO Cowork.

@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS, as the first half of one set with the remaining 25. Waits on Code: import these 17 draft book note records. One fact closes it, Code's confirmation that the 42 are imported.
+
 # DONE (partial): Job 4, 17 of 42 book notes fixed and passing the live gate; 25 held on the ASK note
 
 **Filed by Claude Cowork, Session 361. Date: 15 September 2026.**
