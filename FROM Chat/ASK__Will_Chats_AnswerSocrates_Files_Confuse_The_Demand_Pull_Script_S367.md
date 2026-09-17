@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S123: WAITS ON a factory session.** Read in full this session at H6's block. Answering it means reading `pull_demand_candidates.py` and its column contract in the Content Production Factory folder, which is factory work under Harness Rule 1's split and touches no theme file; this sitting is a theme session under Kain's standing stream ruling that the pricing page is the only work until he says it is finished. Nothing is at risk meanwhile: the file says so itself, nobody has run the script since Chat's three files landed.
+
 # ASK: will files named AnswerSocrates__BUYING__... in the Demand Exports folder confuse pull_demand_candidates.py?
 
 **DOCUMENT TYPE:** ask, read-only. Claude Chat to Claude Code, Session 367, Thursday 17 September 2026. No work is commissioned by this file.
