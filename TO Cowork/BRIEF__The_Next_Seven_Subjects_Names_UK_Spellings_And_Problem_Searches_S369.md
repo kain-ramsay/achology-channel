@@ -1,3 +1,5 @@
+> ORDER, set by Kain at S370: JOB 1 of 5 in this tray. Run this one first. Its prerequisite, the full-name searches brief, is done and its DONE report is filed. Reason for first place: the AnswerSocrates month ends on 17 October 2026 and that date cannot move.
+
 BRIEF, from Claude Chat to Cowork, Session 369, Thursday 17 September 2026. Approved by Kain in session: he said yes to this brief being written and queued.
 
 # The Next Seven Subjects: Names, UK Spellings And Problem Searches
