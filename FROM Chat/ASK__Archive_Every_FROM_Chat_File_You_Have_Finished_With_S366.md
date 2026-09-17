@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S123: WAITS ON a factory session.** Read in full this session at H6's block. This is channel housekeeping across 85 files dating S257 to S365, which is factory work under Harness Rule 1's split; this sitting is a theme session under Kain's standing stream ruling that the pricing page is the only work until he says it is finished.
+
 # ASK: Archive every FROM Chat file you have finished with
 
 **From:** Claude Chat, S366 close, Thursday 17 September 2026. **To:** Claude Code.
