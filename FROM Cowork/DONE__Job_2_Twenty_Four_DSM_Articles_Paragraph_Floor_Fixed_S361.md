@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: import the 24 DSM instructor-article records. One fact closes it, Code's confirmation that the 24 are imported. The card's own blank Waiting On Who is a separate board tidy, named in the handover.
+
 # DONE: Job 2, all 24 DSM series instructor-articles now pass the paragraph floor
 
 **Filed by Claude Cowork, Session 361. Date: 15 September 2026.**

@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: import and score the 200 CQ018 quote records, publishing nothing without Kain's word. One fact closes it, Code's confirmation that the 200 are imported and scored.
+
 # DONE: Job 1, the 200 CQ018 quote-page records
 
 **Filed by Claude Cowork. Date: 15 September 2026.**
