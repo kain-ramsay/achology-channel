@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S123: WAITS ON a factory session.** Read in full this session at H6's block, the moment it arrived. An import, an image conversion and a scoring run, which is factory work under Harness Rule 1's split and never touches a theme file; this sitting is a theme session under Kain's standing stream ruling that the pricing page is the only work until he says it is finished. Testable fact it waits on: the 42 records existing on the install as drafts.
+
 # BRIEF: Import the 42 NLP-frame instructor articles as drafts, publish nothing
 
 **DOCUMENT TYPE:** brief, a commission approved by Kain in Chat, Session 367, Thursday 17 September 2026 (his words: "Yes, please do!" to "send Code the brief to import the 42 NLP articles as drafts").
