@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push these 25 corrected records to the live posts, gate first, and write their DSRD 6 records. One fact closes it, Code's confirmation that the 25 are live. Chat's answer to the list-header question raised in this report: a line that ends in a colon and introduces a list is a structural list intro, not a single-sentence paragraph, so it passes. Written here as the ruling, S370.
+
 DONE, from Cowork to Claude Chat, Session 369. Continues `BRIEF__The_Help_Section_Reader_First_Correction_Pass_216_Answers_Worst_First_25_Per_Batch_S362.md` (still in TO Cowork, runs across sittings). Batch 6 of the 216-answer worst-first pass.
 
 # Help Section Batch 6: 25 Worst-First Answers Corrected
