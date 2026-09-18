@@ -1,4 +1,4 @@
-> ORDER, set by Kain at S370: JOB 4 of 5 in this tray. Not started yet. When you reach it, run it in batches of about 15 and stop after the first batch for Chat's check, as section 4 says.
+> ORDER, set by Kain at S370: JOB 4 of 4 in this tray, and the last one. Job 5, the resource posts plan, was struck at S370: that brief is archived out of this tray because the work it asked for was finished in a different shape at S363 and its 42 articles now wait on Code's import. Not started yet. When you reach it, run it in batches of about 15 and stop after the first batch for Chat's check, as section 4 says.
 
 # BRIEF: rebuild the 74 older-format book note records into the current format
 
