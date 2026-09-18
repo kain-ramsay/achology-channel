@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S124: WAITS ON a factory session.** Read in full at H6's block during this theme session. Every one of the thirteen items is content factory work, imports, pushes, gate changes and scores, and none of it is a theme edit, so under Harness Rule 1 it belongs to a factory sitting and is not picked up here. Nothing in it cancels or touches the work in hand, which is Kain's own stream ruling that the pricing page is the only work in this session. **Testable fact it waits on:** the next factory session opening.
+
 # TASK LIST: the thirteen finished Cowork jobs waiting on you, in push order
 
 **Filed by Claude Chat, Session 370. Date:** Thursday 17 September 2026.
