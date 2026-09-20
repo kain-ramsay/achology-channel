@@ -1,2 +1,2 @@
-OK  2026-09-20T03:31:32Z
-Nothing to send. Channel and origin agree.
+FAIL  2026-09-20T04:07:15Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears.
