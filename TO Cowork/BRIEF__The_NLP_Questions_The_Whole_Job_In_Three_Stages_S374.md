@@ -1,4 +1,4 @@
-> ORDER, set at S374: JOB 4 in this tray, straight after the CBT questions brief (job 3). Kain ruled at S372 that CBT is finished first as the proof and NLP comes next. **This brief does not start until Chat files Kain's yes to Stage 1 of the CBT brief in this tray,** because that read is the acceptance run for this whole type of answer. The five thinker answers move to job 5 and the 74 older book notes to job 6. Chat placed it here under that ruling and told Kain; he can move it.
+> ORDER, set at S374: JOB 4 in this tray, straight after the CBT questions brief (job 3). Kain ruled at S372 that CBT is finished first as the proof and NLP comes next. **This brief does not start until Chat files Kain's yes to Stage 1 of the CBT brief in this tray,** because that read is the acceptance run for this whole type of answer. The five thinker answers move to job 6 and the 74 older book notes to job 7 (the twenty articles brief, filed later at S374, is job 5). Chat placed it here under that ruling and told Kain; he can move it.
 
 # BRIEF: the NLP questions, the whole job, in three stages
 
@@ -56,7 +56,9 @@ Each title is worded as people type it, proved from the evidence files, per `ran
 
 **The two flagged answers (2 and 26)** touch what an Achology certificate is and is not. Say nothing about Achology's certificates or accreditation beyond what the live Help answers Is Achology accredited? and What does my Achology certificate actually prove? already say, and REF 1. State each outside body's own claims from its own pages, fetched live, and pass no verdict on a named person. Kain reads both in full at the Stage 2 stop before anything is imported. **Question 4:** the free tier's name and address are read from DSRD 4. **Question 13:** Achology offers no trainer certification; say so in a sentence. One batch of eight, gated and graded, with the batch report. Then stop.
 
-## Stage 3: the 6 articles under the NLP hub. HELD. Do not start.
+## Stage 3: the 6 articles under the NLP hub. MOVED at S374 to its own brief.
+
+**S374, later the same session: the exemplar and Recipe 8 now exist, approved by Kain. These six are commissioned in `BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md`, this tray, job 5. Nothing in this section is a commission any longer.**
 
 Questions 39 (the science, carrying 36), 40 (dangerous, still relevant, carrying 41), 49 (books), 50 (techniques, a round-up linking to the lecture articles), 51 (NLP on yourself, leading to 005) and 54 (NLP and natural language processing). No recipe and no exemplar exists for that article type yet. Chat writes to this tray when both do.
 

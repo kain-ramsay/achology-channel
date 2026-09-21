@@ -1,6 +1,6 @@
 # BRIEF: The first five thinker and model help answers
 
-**Queue position, changed again at S374, Monday 21 September 2026: job 5.** The NLP questions brief (S374) is now job 4, straight after CBT, because Kain ruled at S372 that NLP comes next after CBT. The 74 older book notes are now job 6. What follows is the S373 note, kept for the record.
+**Queue position, changed again at S374, Monday 21 September 2026: job 6.** The NLP questions brief (S374) is job 4 and the twenty subject question articles brief (S374) is job 5, both straight after CBT, because Kain ruled at S372 that NLP comes next after CBT and commissioned the articles at S374. The 74 older book notes are now job 7. What follows is the S373 note, kept for the record.
 
 **Queue position, changed at S373, Monday 21 September 2026: job 4.** The CBT questions brief (S373) is now job 3, because Kain ruled CBT is finished end to end first. This batch follows it, and the 74 older book notes are job 5. Its voice line also changed at S373: read Recipe 6's voice line in the harness, Version 22, before drafting. What follows is the S372 note, kept for the record.
 
