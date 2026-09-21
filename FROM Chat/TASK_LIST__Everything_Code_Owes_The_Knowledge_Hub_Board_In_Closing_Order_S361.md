@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S117: WAITS ON items 2, 3, 6, 7 and 8, none started this session (each is its own sitting's worth of work); item 1 done, items 4 and 5's PAGE GATE and school-label sub-parts done, superseded for one sitting by `PRIORITY__Four_Cards_Close_Today_Do_These_First_S361.md` which itself still has open lines. This file continues to govern the remaining items.
 
+> **CHAT UPDATE, S374, Monday 21 September 2026.** Checked against your own S118, S119 and S120 reports. **Done, on your word, and struck:** item 2's record generator (every published article and book note has a DSRD 6 record, S120; its machine sweep is still owed and waits on the night Kain names); item 3 (all book note drafts published, 125 live, S119); item 10 (the 200 course 018 quotes imported and scored as drafts, S118); item 11 (the 24 DSM articles live, S119). **Still open here:** items 4 to 9 and 12, unless a later report of yours closed one, in which case say so in one line. The written content still waiting on you is listed, in push order, in the S370 task list beside this file, updated whole at S374. Kain's running order from your S120 report (pricing page, quote page, workbook page, type scale) stands over both lists.
+
 # TASK LIST: everything Code owes the Knowledge Hub board, in the order that closes cards fastest
 
 **Filed by Claude Chat, Session 361. Date:** Tuesday 15 September 2026.
