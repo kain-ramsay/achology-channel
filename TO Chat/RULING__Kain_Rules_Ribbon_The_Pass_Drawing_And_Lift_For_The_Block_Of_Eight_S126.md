@@ -146,6 +146,82 @@ none, and admitting its first one is a change of a different size from a pricing
 page sitting. **If Chat would rather that boundary did not stand, it is one line
 to change and it comes back as a question.**
 
+## 5. The course block's tab row, given directly
+
+Two things, both given on the rendered row and both built as given rather than
+turned into options.
+
+> "You have kinda placed the number after each of the categories, which I just
+> don't think is necessary."
+
+The row was saying it twice: every category name already ends in the word
+Courses, and the list underneath is the count. Deleted rather than hidden:
+markup, both rules and the per-route arithmetic. The partition check that
+arithmetic also served is kept, because that is what stops a course going
+silently missing behind a tab nobody opens.
+
+> "Pay in 3 and Pay in 5 are fine, but the text is kinda left aligned inside of
+> the box."
+
+The cause was the clear mark. It is held in the pill's width at rest so that
+pressing a pill never makes it wider, but it was held only on the right, so the
+wording sat off centre by exactly the width of a mark that is not being drawn.
+The same space is now held on the left.
+
+**Code's own view, offered and not acted on:** the word Courses appears on all
+three tabs, in a row sitting directly under a heading about courses. Losing it
+would shorten all three. That is copy and it is Kain's.
+
+## 6. Under, for the membership block, and his own copy for it
+
+His ask, on the rendered page:
+
+> "Let's tackle the entire membership block as one. Currently what I'm looking
+> at is like one big down arrow that's just consuming the entire page, which is
+> obviously a mistake. I also know that there is content hidden underneath the
+> see what membership includes ... I think what we can also do with this one is
+> build it into a grey background panel that's just kinda got the same rules
+> applied as the pricing and access panel right at the top of the page."
+
+Four arrangements were built and he ruled:
+
+> "Go with Under please."
+
+**Under is the order the block already had**, with nothing hidden. So the whole
+of this sitting's change to the block is the three things that were never a
+choice, and that is the finding worth carrying: **he was shown four
+arrangements and kept the one that moved nothing, so what was wrong with the
+block was never its order.**
+
+- **The arrow was the chevron on the fold-away's summary**, the one icon on the
+  page with no size rule of its own, so it drew itself as wide as the block.
+  Sizing it would have hidden the cause. The control it belonged to should not
+  have been there, so the control went and the icon went with it.
+- **Seven reasons to join were behind that control**, on the one block whose
+  job is to say what joining gets you. They are on the face of the block now.
+- **The block sits on the panel**, with the top of the page's three rules read
+  from that panel rather than retyped.
+
+**The three that lost are deleted** and are in the theme repository's history
+at v0.574.0. Lead put the inclusions first as the argument; Split stood them
+left with the cards stacked right; Doors made the free tier a third card so all
+three ways in stood on one row.
+
+**His copy for the block, typed as he gave it:**
+
+> "The Achology Community: Subscription Options / You don't have to buy a
+> course to begin learning with Achology. You can try the learning community
+> before you commit."
+
+The word Achology is accented in the heading and not in the line below it,
+which is DSRD 7 section 3.0 rather than a choice made here.
+
+**One fault the four found is worth the whole method.** The actions did not
+line up across the cards: each pushed its button down by however much its own
+words needed. It was found on the arrangement that put three cards in a row,
+where it was obvious, and it had been there on two all along. **The option he
+did not choose is what found the fault in the one he did.**
+
 ---
 
 ## Two repairs that were in every option, because a fault is not a choice
