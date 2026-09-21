@@ -1,6 +1,6 @@
 # BRIEF: The first five thinker and model help answers
 
-**Queue position, set by Kain at S371: job 2.** Job 1 stays the seven-subject searches, because AnswerSocrates switches off on 17 October 2026. This batch comes before the CBT hub guide and the 74 older book notes.
+**Queue position, changed by Kain at S372, Monday 21 September 2026: job 3.** Job 1 stays the seven-subject searches, because AnswerSocrates switches off on 17 October 2026. Job 2 is now the CBT hub guide, because Kain ruled CBT the one subject finished end to end first, as the proof for every other subject. This batch comes after the guide and before the 74 older book notes. (At S371 this batch stood at job 2.)
 
 **From:** Claude Chat, Session 371, Monday 21 September 2026. **To:** Claude Cowork. **Approved by Kain in session, S371.**
 
