@@ -22,22 +22,25 @@ The board was corrected at S374. Eight Knowledge Hub cards became three on Kain'
 ## What is still waiting on you, in order
 
 **1. The contraction count across the 250 help records. Read only. First, because a decision of Kain's waits on it.**
-Brief: the S373 contraction brief in FROM Chat. Kain ruled at S373 that every Help answer must sound like a kind person talking, and he decides whether the live answers get a softening pass once he has your count. It goes ahead of item 3 on purpose: if he rules a softening pass, the same answers would otherwise be pushed twice.
+Brief: the S373 contraction brief in FROM Chat. Kain ruled at S373 that every Help answer must sound like a kind person talking, and he decides whether the live answers get a softening pass once he has your count. It goes ahead of item 4 on purpose: if he rules a softening pass, the same answers would otherwise be pushed twice.
 
 **2. Two small gate checks for help answers.**
-The single sentence paragraph check Cowork asked for at S361 (her BRIEF file in the FROM Cowork folder; Chat's S370 ruling stands: a line ending in a colon that introduces a list passes, a lone standalone sentence fails). And the check from the S373 brief that fails a help body carrying no contractions. Both small, both govern item 3.
+The single sentence paragraph check Cowork asked for at S361 (her BRIEF file in the FROM Cowork folder; Chat's S370 ruling stands: a line ending in a colon that introduces a list passes, a lone standalone sentence fails). And the check from the S373 brief that fails a help body carrying no contractions. Both small, both govern item 4.
 
-**3. The 216 corrected help answers, nine batches, oldest first.**
-Files: batch 01 v2, then batches 02 to 09, in the FROM Cowork folder. Nothing is live. Push each batch to the live posts, gate first, and write their DSRD 6 records. **Hold this item until Kain has ruled on the softening pass after item 1.** This is the one card on the Knowledge Hub board that closes on a push: the help section reader-first correction pass.
+**3. The 42 articles from Kain's resource posts: import as drafts, publish nothing.**
+Brief: the S367 import brief for the 42, in FROM Chat, approved by Kain at S367. All 42 are drafted, gate clean, and carry Kain's featured image. Import all 42 as drafts, read the column list from the records, convert the images to WebP, score in Rank Math, report. Nothing holds this one, and **the Kain's resource posts card closes on your report alone.** Added at S374; Chat missed it in the first S374 pass. If it is already done, say so in one line.
 
-**4. Book notes: four one-line answers, no work until Cowork's rebuild lands.**
+**4. The 216 corrected help answers, nine batches, oldest first.**
+Files: batch 01 v2, then batches 02 to 09, in the FROM Cowork folder. Nothing is live. Push each batch to the live posts, gate first, and write their DSRD 6 records. **Hold this item until Kain has ruled on the softening pass after item 1.** With item 3, this is one of the two cards on the Knowledge Hub board that close on a push: the help section reader-first correction pass.
+
+**5. Book notes: four one-line answers, no work until Cowork's rebuild lands.**
 (a) Are the five body headings Kain reworded at your S115 sitting now in the gate standard, the theme and the importer, and pushed to the published pages? Cowork rewrote them across the 99 published records at S360 (her DONE file is in the FROM Cowork folder). If not, that is the job, and it goes before any further book note import. (b) 153 records are on disk and 125 pages are published: which 28 are not on the install, and why? (c) and (d) Three small items carried from the old 65 card that no later report mentions: the three by-author address exceptions recorded; the pushes for the two records that gained their source link and the Talking to Crazy wording. Done, or still owed?
-Cowork's rebuild of the 74 older-format records (her tray, job 5) comes back to you in batches for import and re-score. Nothing to do on it today.
+Cowork's rebuild of the 74 older-format records (her tray, the last job in it) comes back to you in batches for import and re-score. Nothing to do on it today.
 
-**5. The 50 book quote records: import and score as drafts, publish nothing.**
+**6. The 50 book quote records: import and score as drafts, publish nothing.**
 Brief: the S357 import brief for the fifty, in FROM Chat. Before it: the quote-page exemption on the keyword-in-a-subheading check in content_gate_standards.json (ruled S346), and the fix to the quote importer's verify step, which still tests the blockquote shape retired at S356 (item 8 of the S361 list). If the fifty were already imported, say so in one line.
 
-**6. The DSRD 6 machine sweep, on the night Kain names.**
+**7. The DSRD 6 machine sweep, on the night Kain names.**
 About seventeen hours across the 352 content pages, by your own S120 measure. Kain ruled it runs when he is away from the machine. It fills the machine half of every book note and article record, and it is the only thing left on the 42 articles card.
 
 ## Owed answers, not pushes, still open from earlier sessions
