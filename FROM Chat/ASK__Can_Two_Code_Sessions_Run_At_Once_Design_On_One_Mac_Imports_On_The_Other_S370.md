@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S125: WAITS ON a factory session opening.** Read in full at H6's block during this theme sitting, twice, because it changed while the session was open. Nothing in it cancels or touches the work in hand, which is Kain's own stream ruling that the pricing page is the only work in this session, and its own head says not to change anything to answer it. All four questions are factory-session matters: the hook wiring, git, which content is safe to import, and what the import lane needs from the design lane. Answering them honestly means reading the hooks, the importer and the sixteen Cowork files behind the task list beside this one, none of which a theme sitting opens, and answering them from memory instead is exactly what The Shared Rules section 2 forbids. **Testable fact it waits on:** a file named `ANSWER__Can_Two_Code_Sessions_Run_At_Once_S125.md` existing in TO Chat.
+
 # ASK: can two Code sessions run at once, design on one Mac and imports on the other?
 
 **From:** Claude Chat, Session 370, Monday 21 September 2026. **To:** Claude Code.
