@@ -1,4 +1,4 @@
-> ORDER, set at S373: JOB 3 in this tray. Job 1 stays the seven-subject searches (AnswerSocrates ends 17 October 2026). Job 2 stays the CBT hub guide H09. This brief comes next, because Kain ruled at S372 that CBT is finished end to end first, as the proof for every other subject. The five thinker answers move to job 4 and the 74 older book notes to job 5. Chat placed it here under that ruling and told Kain; he can move it.
+> ORDER, set at S373: JOB 3 in this tray. Job 1 stays the seven-subject searches and job 1b, filed the same session, is the remaining 107 searches (AnswerSocrates ends 17 October 2026, so both search jobs run first). Job 2 stays the CBT hub guide H09. This brief comes next, because Kain ruled at S372 that CBT is finished end to end first, as the proof for every other subject. The five thinker answers move to job 4 and the 74 older book notes to job 5. Chat placed it here under that ruling and told Kain; he can move it.
 
 # BRIEF: the CBT questions, the whole job, in three stages
 
