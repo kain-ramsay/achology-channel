@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S125: DONE. Answered in full from the built theme at v0.567.0, filed as ANSWER__What_The_Founders_Letter_Template_Holds_S125.md. Nothing changed and nothing blocked.
 # ASK: what does the Founders' Letter page template hold, and can it carry the What Achology Believes page as it stands?
 
 **From:** Claude Chat, Session 372, Monday 21 September 2026. **To:** Claude Code.
