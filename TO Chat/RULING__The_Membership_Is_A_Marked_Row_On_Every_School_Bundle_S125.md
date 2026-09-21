@@ -39,9 +39,17 @@ Theme **v0.537.0**, deployed, with local, the server and the zip each measured a
 
 Checked on the rendered page at 1440, 1024, 768 and 390: the row carries his words on all seven cards, last in every list, at the courses' size, marked, not a link, and no card overflows.
 
-## One question this leaves, and it is small
+## The question it left, answered by him in the same sitting
 
-**The row names a product that has no address here.** Every course on that list links to its course page; the membership does not, because this block has never been given one. If `/membership/` is the right destination, that is a decision rather than a fact, so it waits.
+Code raised that the row named a product with no address, since every course on that list links to its course page and the membership did not. His answer:
+
+> "Yes, link it to the membership page, and please ensure all these links open up in a new tab."
+
+**So the row goes to the membership page**, at the address read from the theme's own navigation rather than typed from memory, and it behaves exactly as the courses above it do, hover and all. What sets it apart is the mark alone.
+
+**And every link on the card opens in a new tab now.** The course names, Explore school, the membership row and the action, which already did, so the card behaves one way throughout. Each one says so where a screen reader can hear it, in the pattern the action on that same card already used: a link that moves someone to a new tab without warning is the one accessibility fault this instruction could have introduced, and it is closed.
+
+**Explore school is included**, and that is named here rather than assumed, because "all these links" was said about the list. If he meant the list alone it comes back out in a word. Shipped as theme **v0.538.0**, deployed, with all 64 links across the seven cards measured on the rendered page.
 
 ## Still open on this page
 
