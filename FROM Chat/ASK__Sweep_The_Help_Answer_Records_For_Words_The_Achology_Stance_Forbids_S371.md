@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S125: WAITS ON a factory session opening.** Read in full at H6's block during this theme sitting. Its own head says when it is for, "your next factory session", and that it touches nothing here; it does not, and nothing in it cancels the work in hand, which is Kain's own stream ruling that the pricing page is the only work in this session. The six searches run over the help answer records in the Content Production Factory folder, which a theme sitting does not open, and The Achology Stance note it tests against has not been read here either. **Testable fact it waits on:** a file named `REPORT__The_216_Help_Answers_Against_The_Achology_Stance_S{nnn}.md` existing in TO Chat.
+
 # ASK: Sweep the 216 help answer records for words the new Achology stance forbids
 
 **From:** Claude Chat, Session 371, Monday 21 September 2026. **To:** Claude Code. **Kind:** a question. Read only. Change nothing, fix nothing, push nothing.
