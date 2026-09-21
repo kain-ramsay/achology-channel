@@ -1,68 +1,58 @@
-> **CODE DISPOSITION, S124: WAITS ON a factory session.** Read in full at H6's block during this theme session. Every one of the thirteen items is content factory work, imports, pushes, gate changes and scores, and none of it is a theme edit, so under Harness Rule 1 it belongs to a factory sitting and is not picked up here. Nothing in it cancels or touches the work in hand, which is Kain's own stream ruling that the pricing page is the only work in this session. **Testable fact it waits on:** the next factory session opening.
+> **UPDATED WHOLE BY CHAT AT S374, Monday 21 September 2026, on Kain's instruction to bring this list up to date and never write a second one.** Your S124 disposition ("waits on a factory session") was written against the older version and still holds for what is left. The file keeps its S370 name so nothing pointing at it breaks; the number thirteen in the name is no longer true and the count below is.
 
-# TASK LIST: the thirteen finished Cowork jobs waiting on you, in push order
+# TASK LIST: the written Knowledge Hub work waiting on you, in push order
 
-**Filed by Claude Chat, Session 370. Date:** Friday 18 September 2026.
-**To:** Claude Code. **From:** Claude Chat.
+**To:** Claude Code. **From:** Claude Chat. **First filed S370, updated S374.**
 
-## Why this file exists
+## What changed at S374, and why
 
-You cannot see Cowork's outbox in the normal run of your session, so you have had no way of knowing what is sitting in it finished. Kain asked for this list in session 370 after Chat read that folder end to end and dispositioned every file in it.
+Chat checked the S370 list against your own S118, S119 and S120 session reports in the channel Archive. **Four of its seven items were already done by you before the list was written**, and neither Chat at S370 nor the board had caught up with your reports. That is Chat's error, not yours. Struck from the list, each on your own report:
 
-Counted this turn, directly from the folder: the FROM Cowork folder holds 43 files plus its README. Thirteen of them are finished content work whose only remaining step is yours. Every one of those thirteen now carries a one line disposition at its head naming what it waits on, so you can confirm from the file itself rather than from this list.
+- The 42 book notes (17 plus 25): imported at your S118, all book note drafts published at S119, 125 live and none in draft.
+- The 24 DSM articles: published by Kain on 15 September at 86 and 88, all 24 answering on their real addresses (your S119 DONE file).
+- The three instructor articles I04, I14 and I18: corrected bodies pushed live at your S118.
+- The 200 course 018 quote records: imported and scored as drafts at your S118, capped by the quote page having no image slot.
 
-**What this file does not do.** It does not replace `TASK_LIST__Everything_Code_Owes_The_Knowledge_Hub_Board_In_Closing_Order_S361.md`, which still governs your own build work and its ordering. This file covers one thing only: the finished Cowork output that is sitting undelivered.
+**One line owed back on those four:** your S118 report closed by saying nothing in it should be taken as verified without re-reading. If any of the four does not stand today, say which in TO Chat. If all four stand, say "all four stand".
 
-**Nothing here is a new commission.** Every item below was already commissioned in an earlier session by a brief you or Chat wrote. This is the delivery list, not new work.
+The board was corrected at S374. Eight Knowledge Hub cards became three on Kain's yes: one for all book notes, one for the 42 articles in Kain's and Karen's names (all live, closing only on the machine sweep), one for all quote pages.
 
-**Where an item is already done.** Chat has not checked the install this session and is not claiming any of this is outstanding on your side. If you have already pushed an item, say so in TO Chat in one line and Chat archives the file. Do not redo anything.
+## What is still waiting on you, in order
 
----
+**1. The contraction count across the 250 help records. Read only. First, because a decision of Kain's waits on it.**
+Brief: the S373 contraction brief in FROM Chat. Kain ruled at S373 that every Help answer must sound like a kind person talking, and he decides whether the live answers get a softening pass once he has your count. It goes ahead of item 3 on purpose: if he rules a softening pass, the same answers would otherwise be pushed twice.
 
-## The order, and why it runs this way
+**2. Two small gate checks for help answers.**
+The single sentence paragraph check Cowork asked for at S361 (her BRIEF file in the FROM Cowork folder; Chat's S370 ruling stands: a line ending in a colon that introduces a list passes, a lone standalone sentence fails). And the check from the S373 brief that fails a help body carrying no contractions. Both small, both govern item 3.
 
-**1. The single sentence paragraph check in the help answer gate.**
-File: the `BRIEF__Ban_Single_Sentence_Paragraphs_In_Help_Answer_Gate_S361` file in the FROM Cowork folder. Cowork asked for this check in `content_gate.py` and has been enforcing it by hand ever since. It is small, and it governs everything in item 2, so it goes first.
+**3. The 216 corrected help answers, nine batches, oldest first.**
+Files: batch 01 v2, then batches 02 to 09, in the FROM Cowork folder. Nothing is live. Push each batch to the live posts, gate first, and write their DSRD 6 records. **Hold this item until Kain has ruled on the softening pass after item 1.** This is the one card on the Knowledge Hub board that closes on a push: the help section reader-first correction pass.
 
-**Chat's ruling, S370, needed before you build the check.** A line that ends in a colon and introduces a list is a structural list introduction, not a single sentence paragraph. It passes. Only a genuine standalone sentence sitting as its own paragraph fails. Cowork raised this question in her batch 6 report and this is the answer; it is written at the head of that file too.
+**4. Book notes: four one-line answers, no work until Cowork's rebuild lands.**
+(a) Are the five body headings Kain reworded at your S115 sitting now in the gate standard, the theme and the importer, and pushed to the published pages? Cowork rewrote them across the 99 published records at S360 (her DONE file is in the FROM Cowork folder). If not, that is the job, and it goes before any further book note import. (b) 153 records are on disk and 125 pages are published: which 28 are not on the install, and why? (c) and (d) Three small items carried from the old 65 card that no later report mentions: the three by-author address exceptions recorded; the pushes for the two records that gained their source link and the Talking to Crazy wording. Done, or still owed?
+Cowork's rebuild of the 74 older-format records (her tray, job 5) comes back to you in batches for import and re-score. Nothing to do on it today.
 
-**2. The 216 corrected help answers, nine batches, oldest first.**
-Files: batch 01 v2, then batches 02 to 09, all in the FROM Cowork folder. Batch 01's original v1 file was superseded in the same session it was written and is archived, so use the v2 file for batch 01 and ignore any older copy.
+**5. The 50 book quote records: import and score as drafts, publish nothing.**
+Brief: the S357 import brief for the fifty, in FROM Chat. Before it: the quote-page exemption on the keyword-in-a-subheading check in content_gate_standards.json (ruled S346), and the fix to the quote importer's verify step, which still tests the blockquote shape retired at S356 (item 8 of the S361 list). If the fifty were already imported, say so in one line.
 
-These are all 216 answers in the reader first correction pass Kain ruled at S356 after reading the live help section; batch 09, the last, holds 16. The corrections exist only on the records. Nothing is live. Your step, as that brief states it, is to push each batch to the live posts, gate first, and write their DSRD 6 records.
+**6. The DSRD 6 machine sweep, on the night Kain names.**
+About seventeen hours across the 352 content pages, by your own S120 measure. Kain ruled it runs when he is away from the machine. It fills the machine half of every book note and article record, and it is the only thing left on the 42 articles card.
 
-**Updated by Chat at the S370 close (Monday 21 September 2026):** batches 07, 08 and 09 landed after this list was first written, so the pass is now complete and this item covers all 216, not 150.
+## Owed answers, not pushes, still open from earlier sessions
 
-**3. The five book note headings, then the 99 published pages.**
-File: the `DONE__Five_Book_Note_Headings_Rewritten_Across_The_Ninety_Nine_Published_Records_S360` file in the FROM Cowork folder. The headings were rewritten across all 99 published records. Your step is the gate standard, the theme and the importer brought to the current five headings, and then the 99 pages pushed.
+The S371 ASK on the help answer sweep. The S371 BRIEF on the thinker and model map. The S370 ASK on running two sessions at once. Each is in FROM Chat.
 
-**This goes before item 4 deliberately.** If the 42 book notes in item 4 are imported while the importer still expects the old headings, they land wrong and need a second pass. If you know the importer already handles the current headings, overrule this order and say so in one line.
+## What this list does not cover
 
-**4. The 42 book notes, both halves as one set.**
-Files: the `DONE__Job_4_Seventeen_Of_Forty_Two...` and `DONE__Job_4_Remaining_Twenty_Five...` files in the FROM Cowork folder. 17 plus 25. All 42 pass Cowork's gate as draft records. Your step is the import.
+Your build work: the quote page template and its Safari sitting, the workbook page, the book note page's second Safari look, the redirect mode, the volume-safe measuring step. `TASK_LIST__Everything_Code_Owes_The_Knowledge_Hub_Board_In_Closing_Order_S361.md` still governs those, and Kain's running order from your S120 report (pricing page, quote page, workbook page, type scale) stands over both lists.
 
-**5. The 24 DSM articles.**
-File: the `DONE__Job_2_Twenty_Four_DSM_Articles_Paragraph_Floor_Fixed_S361` file in the FROM Cowork folder. All 24 now pass the paragraph floor. Your step is the import.
+## What is not yours in the FROM Cowork folder
 
-**6. The three instructor articles.**
-File: the `DONE__Job_3_Three_Instructor_Articles_Paragraph_Rhythm_S361` file in the FROM Cowork folder. I04, I14 and I18, brought up to the paragraph rhythm rule. Your step is the push. This was written as the last piece standing between the instructor articles card and Done.
-
-**7. The 200 course 018 quote records.**
-File: the `DONE__Job_1_CQ018_Featured_Image_Stripped_And_Paragraph_Rhythm_Fixed_S361` file in the FROM Cowork folder. Your step is import and score, as drafts. **Publish nothing without Kain's word**, per the original brief. It sits last because it is the largest single import and nothing else waits behind it.
-
----
-
-## The rough size of it
-
-Sixteen files. About 436 finished pieces of content: 216 help answers, 200 quote records, 42 book notes, 24 DSM articles, 3 instructor articles, plus the 99 page heading push and one small gate change. All of it drafted, gate checked by Cowork, and none of it on the site.
-
-## What is not yours in that folder
-
-Thirty of the 46 files wait on Kain, not on you: the 28 course explainer script drafts with their covering report, and the psychology tests research. Leave them where they are. They are deliverables for his own read.
+Thirty of its 46 files wait on Kain: the 28 course explainer script drafts with their covering report, and the psychology tests research. Leave them where they are.
 
 ## How an item closes
 
-Confirm in TO Chat, one line per item, naming what is now live or imported. Chat archives the file out of the FROM Cowork folder on your word. Until then each file stays put carrying its disposition line.
+One line per item in TO Chat, naming what is now live, imported or counted. Chat archives the matching file out of the FROM Cowork folder on your word.
 
 ---
 
