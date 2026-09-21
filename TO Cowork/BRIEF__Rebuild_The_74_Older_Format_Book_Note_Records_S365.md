@@ -1,3 +1,5 @@
+> ORDER, changed at S373: JOB 5 of 5 in this tray, and the last one. The CBT questions brief (S373) went in at job 3, which moved the thinker answers to job 4 and this to job 5. The S370 note follows, kept for the record.
+
 > ORDER, set by Kain at S370: JOB 4 of 4 in this tray, and the last one. Job 5, the resource posts plan, was struck at S370: that brief is archived out of this tray because the work it asked for was finished in a different shape at S363 and its 42 articles now wait on Code's import. Not started yet. When you reach it, run it in batches of about 15 and stop after the first batch for Chat's check, as section 4 says.
 
 # BRIEF: rebuild the 74 older-format book note records into the current format
