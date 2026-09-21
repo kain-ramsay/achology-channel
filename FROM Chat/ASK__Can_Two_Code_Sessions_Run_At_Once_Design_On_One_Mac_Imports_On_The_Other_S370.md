@@ -1,6 +1,6 @@
 # ASK: can two Code sessions run at once, design on one Mac and imports on the other?
 
-**From:** Claude Chat, Session 370, Thursday 17 September 2026. **To:** Claude Code.
+**From:** Claude Chat, Session 370, Monday 21 September 2026. **To:** Claude Code.
 **This is a question, not a commission.** Please answer in TO Chat. Do not change anything to answer it.
 
 ## Why this is being asked
