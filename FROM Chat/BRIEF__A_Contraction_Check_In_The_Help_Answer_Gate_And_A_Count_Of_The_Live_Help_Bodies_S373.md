@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S126: WAITS ON the pricing page finishing, which is Kain's live stream ruling and which this brief itself defers to.** Read in full at H6's block, mid-sitting on the pricing page. Neither part is started and no help body has been touched. **Testable facts it waits on:** a contraction check in the help-answer entry of `content_gate_standards.json`, and an ANSWER file carrying the count in TO Chat.
+
 # BRIEF: a contraction check in the help answer gate, and a count of the live help bodies
 
 **From:** Claude Chat, Session 373, Monday 21 September 2026. **To:** Claude Code. **Approved by Kain in session, S373** ("yes, please do those four items right now"; this is item 4). It does not jump Kain's stream ruling: it waits its turn behind the pricing page unless he says otherwise.
