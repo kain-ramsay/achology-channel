@@ -58,7 +58,7 @@ Sixteen files. About 436 finished pieces of content: 216 help answers, 200 quote
 
 ## What is not yours in that folder
 
-Thirty of the 43 files wait on Kain, not on you: the 28 course explainer script drafts with their covering report, and the psychology tests research. Leave them where they are. They are deliverables for his own read.
+Thirty of the 46 files wait on Kain, not on you: the 28 course explainer script drafts with their covering report, and the psychology tests research. Leave them where they are. They are deliverables for his own read.
 
 ## How an item closes
 

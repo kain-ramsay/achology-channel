@@ -7,7 +7,7 @@
 
 Kain is concerned at how long the Knowledge Hub page designs are taking. He is thinking about running two Code sessions at the same time: one on one iMac finishing the Knowledge Hub page designs with him in Safari, and one on the other iMac importing the upgraded Knowledge Hub content that is already finished.
 
-The finished content waiting for import is listed in `TASK_LIST__The_Thirteen_Finished_Cowork_Jobs_Waiting_On_You_In_Push_Order_S370` in this folder: about 370 pieces (150 corrected help answers, 200 course 018 quote records, 42 book notes, 24 DSM articles, 3 instructor articles, the 99 book note heading rewrite) plus one small gate change.
+The finished content waiting for import is listed in `TASK_LIST__The_Thirteen_Finished_Cowork_Jobs_Waiting_On_You_In_Push_Order_S370` in this folder: about 436 pieces (all 216 corrected help answers, 200 course 018 quote records, 42 book notes, 24 DSM articles, 3 instructor articles, the 99 book note heading rewrite) plus one small gate change.
 
 Chat's view is that the idea is sound only if the two sessions have separate lanes: the design session owns the theme code, the import session owns content only and never edits theme files. Chat cannot confirm that is safe without four facts only you hold.
 
