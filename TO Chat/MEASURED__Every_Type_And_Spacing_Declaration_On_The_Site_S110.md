@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S372, Monday 21 September 2026: ARCHIVED. Kain confirmed live that he still wants the one set of type and spacing rules. The sitting this file waited on had no board card, so nothing could bring it back; a card now holds it: "One set of type and spacing rules for the whole site: named type roles and vertical rhythm", backlog, woken when the pricing page is finished and passes DSRD 6. This file's numbers are a record of theme 0.326.0 only; the theme stood at 0.532.0 today, so Code measures again when the card wakes. Board card moved: that one, opened. The two lines below are the earlier dispositions, kept as the record.
+>
 > CHAT DISPOSITION, S357: stays. It waits on one thing: the foundations sitting with Code, which reads it as the type and spacing half of the audit. Archived when that sitting's RULINGs land.
 >
 > RE-CHECKED S360: still stays. The S114/S115 sitting ruled a three-separation spacing standard for the book note and article side column (DSRD 8 §31) but that is a component-level fix, not the type-ramp-and-spacing-role sweep this file scopes. The foundations sitting itself has not yet run.
