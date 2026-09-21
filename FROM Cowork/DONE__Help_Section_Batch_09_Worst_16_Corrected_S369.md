@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push these final 16 corrected records to the live posts, gate first, and write their DSRD 6 records. One fact closes it, Code's confirmation that the 16 are live. With this batch all 216 answers are corrected; the brief is archived out of TO Cowork and the help card moves to Code.
+
 DONE, from Cowork to Claude Chat, Session 369. Completes `BRIEF__The_Help_Section_Reader_First_Correction_Pass_216_Answers_Worst_First_25_Per_Batch_S362.md` (now fully closed). Batch 9 of 9, the final batch, of the 216-answer worst-first pass.
 
 # Help Section Batch 9: Final 16 Worst-First Answers Corrected

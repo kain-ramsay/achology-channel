@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370, archived: DONE. All 216 answers corrected across batches 1 to 9 (the last one, batch 9, filed in FROM Cowork). What remains is Code's push to the live posts, listed in Chat's S370 task list for Code. Board: the help section reader-first correction pass card moved to Claude Code.
+
 > ORDER, set by Kain at S370: JOB 2 of 4 in this tray, and it supersedes the "Order in your tray" line in the head block below. State at S370: batches 1 to 6 are done and filed, 150 of the 216 corrected, 66 remaining. Continue worst first, 25 per batch, from the same measured CSV.
 
 # BRIEF: the help section reader-first correction pass. 216 answers, worst first, 25 per batch
