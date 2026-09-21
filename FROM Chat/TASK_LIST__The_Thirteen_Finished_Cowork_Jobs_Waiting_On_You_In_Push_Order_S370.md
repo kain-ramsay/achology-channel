@@ -26,12 +26,12 @@ File: the `BRIEF__Ban_Single_Sentence_Paragraphs_In_Help_Answer_Gate_S361` file 
 
 **Chat's ruling, S370, needed before you build the check.** A line that ends in a colon and introduces a list is a structural list introduction, not a single sentence paragraph. It passes. Only a genuine standalone sentence sitting as its own paragraph fails. Cowork raised this question in her batch 6 report and this is the answer; it is written at the head of that file too.
 
-**2. The 150 corrected help answers, six batches, oldest first.**
-Files: batch 01 v2, then batches 02, 03, 04, 05 and 06, all in the FROM Cowork folder. Batch 01's original v1 file was superseded in the same session it was written and is archived, so use the v2 file for batch 01 and ignore any older copy.
+**2. The 216 corrected help answers, nine batches, oldest first.**
+Files: batch 01 v2, then batches 02 to 09, all in the FROM Cowork folder. Batch 01's original v1 file was superseded in the same session it was written and is archived, so use the v2 file for batch 01 and ignore any older copy.
 
-These are 150 of the 216 answers in the reader first correction pass Kain ruled at S356 after reading the live help section. The corrections exist only on the records. Nothing is live. Your step, as that brief states it, is to push each batch to the live posts, gate first, and write their DSRD 6 records.
+These are all 216 answers in the reader first correction pass Kain ruled at S356 after reading the live help section; batch 09, the last, holds 16. The corrections exist only on the records. Nothing is live. Your step, as that brief states it, is to push each batch to the live posts, gate first, and write their DSRD 6 records.
 
-Cowork is still working through the remaining 66, worst first, 25 at a time, so more batches will arrive behind these.
+**Updated by Chat at the S370 close (Monday 21 September 2026):** batches 07, 08 and 09 landed after this list was first written, so the pass is now complete and this item covers all 216, not 150.
 
 **3. The five book note headings, then the 99 published pages.**
 File: the `DONE__Five_Book_Note_Headings_Rewritten_Across_The_Ninety_Nine_Published_Records_S360` file in the FROM Cowork folder. The headings were rewritten across all 99 published records. Your step is the gate standard, the theme and the importer brought to the current five headings, and then the 99 pages pushed.
@@ -54,7 +54,7 @@ File: the `DONE__Job_1_CQ018_Featured_Image_Stripped_And_Paragraph_Rhythm_Fixed_
 
 ## The rough size of it
 
-Thirteen files. About 370 finished pieces of content: 150 help answers, 200 quote records, 42 book notes, 24 DSM articles, 3 instructor articles, plus the 99 page heading push and one small gate change. All of it drafted, gate checked by Cowork, and none of it on the site.
+Sixteen files. About 436 finished pieces of content: 216 help answers, 200 quote records, 42 book notes, 24 DSM articles, 3 instructor articles, plus the 99 page heading push and one small gate change. All of it drafted, gate checked by Cowork, and none of it on the site.
 
 ## What is not yours in that folder
 
