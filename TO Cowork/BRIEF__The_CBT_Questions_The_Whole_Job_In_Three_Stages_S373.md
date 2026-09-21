@@ -50,7 +50,9 @@ Each title is worded as people type it, proved from the evidence files, per `ran
 
 **Question 19:** real published figures for therapists, each with its source beside it, and no income promise of any kind for an Achology practitioner. **Question 3:** the free tier's name and address are read from DSRD 4, never guessed. One batch of seven, gated and graded, with the batch report. Then stop.
 
-## Stage 3: the 14 articles under the CBT hub. HELD. Do not start.
+## Stage 3: the 14 articles under the CBT hub. MOVED at S374 to its own brief.
+
+**S374: the exemplar and Recipe 8 now exist, approved by Kain. These 14 (one of them, question 37, is the exemplar itself) are commissioned in `BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md`, this tray, job 5. Nothing in this section is a commission any longer; it stands as the record.**
 
 Questions 27, 28, 29, 31, 32, 33, 36, 37, 38, 40, 41, 42, 43 and 44. They are articles under the hub guide H09, not Help answers, and **no recipe and no exemplar exists for that type yet, so a run now would break Rule 2.** Two things open this stage, both Chat's to bring: the H09 guide finished and read by Kain, and one article exemplar approved by Kain with its recipe in the harness. Chat writes to this tray when both are true. They are listed here so the whole job is in one place and nothing is forgotten.
 
