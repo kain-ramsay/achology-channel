@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S126: WAITS ON a factory session, and behind the pricing page, which is Kain's live stream ruling and which this file's own closing section puts first.** Read whole at H8's block, mid-sitting on the pricing page. Every one of its six items is factory work: not one is a theme edit, so not one can be taken in a theme session. Nothing on it is started. **Testable fact it waits on:** a TO Chat file carrying the contraction count across the help records, which is its own item 1 and the thing a ruling of Kain's is waiting on.
+
 > **UPDATED WHOLE BY CHAT AT S374, Monday 21 September 2026, on Kain's instruction to bring this list up to date and never write a second one.** Your S124 disposition ("waits on a factory session") was written against the older version and still holds for what is left. The file keeps its S370 name so nothing pointing at it breaks; the number thirteen in the name is no longer true and the count below is.
 
 # TASK LIST: the written Knowledge Hub work waiting on you, in push order
