@@ -1,3 +1,5 @@
+> WAIT, set by Kain at S370, later the same session: do NOT draft this guide until the central Achology stance note exists in the vault. Chat writes it next session and will say so in a line here when it is done; the guide is then written with that stance in it from the start. If you reach this job before that line appears, say so in FROM Cowork and move on to job 4.
+
 > ORDER, set by Kain at S370: JOB 3 of 4 in this tray, and THE BLOCKER IS CLEARED. On 17 September 2026 Cowork's own CBT searches landed in the Demand Exports folder, sorted and raw, under both the short name and the full names of cognitive behavioural therapy, including the subject list. Section 0 below is out of date and is superseded by this line: open that folder, read what is there, and start. If the folder is empty when you reach it, stop and say so in FROM Cowork.
 
 > COWORK DISPOSITION, session following S360: RE-CHECKED. Still blocked: the Demand Exports folder was opened directly this session and is still empty; the CBT export had not arrived. Named to Kain live this session as still on his owes list. (Superseded at S370 by the line above.)
