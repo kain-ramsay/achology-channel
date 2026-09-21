@@ -222,6 +222,82 @@ words needed. It was found on the arrangement that put three cards in a row,
 where it was obvious, and it had been there on two all along. **The option he
 did not choose is what found the fault in the one he did.**
 
+## 7. The questions block becomes the help article's own card
+
+Told twice, because the first build took the frame and not the thing. His
+second telling:
+
+> "I want uniformity throughout the website ... it's just a completely
+> different panel from the questions at the bottom of the help section. So I'm
+> gonna ask you once again just to model the exact structure of the panel that
+> is in the bottom of the help questions and pull through just relevant
+> associated price related questions."
+
+**What was wrong with the first attempt, recorded because it is the general
+mistake.** It borrowed the card's shell and left this page's own accordion
+inside it. A component is its structure, not its frame: the help card is a list
+of linked questions with their summary lines, and a card with something else
+inside it is a second component wearing the first one's clothes.
+
+**What it is now.** The section carries the help card's own class, so every rule
+that shapes it on a help article shapes it here, and this page's stylesheet
+gained no rule that touches a help class. The six rows are real help answers
+from the two price categories, each linking to its own page with its own
+excerpt underneath.
+
+**The six written questions and answers came off the page**, on his word given
+before any of it was built. Asked directly whether the six go and the block
+becomes links to real help answers, he said: "yes, that is correct."
+
+## 8. The page ends on the four doors, pointing outwards
+
+Four ways to end the page were put to him, after he said he was not sure the
+page needed a closing block at all. He took the one that returns the reader to
+the four routes, and improved it in the same breath:
+
+> "Rather than just using empty buttons like what you've done, just use exactly
+> the same cards as what we've used up in the hero, except point the buttons
+> out to the respective pages rather than to aspects of the page."
+
+**He was right, and it fixed the one weakness in what he had been shown.** Four
+bare buttons said nothing about what was behind them, so the block leaned on
+the line above it to explain itself, and that line had already been flagged to
+him as no longer matching its buttons.
+
+**It is one card renderer used twice**, with a single argument choosing which of
+each route's two addresses the button carries. The head and the foot of the
+page cannot drift into two different sets of doors.
+
+**The four addresses are DSRD 1's own**, quoted from its tables: `/courses/`,
+`/academy/schools/`, `/access-all-areas/` and `/membership/`.
+
+**And not one of those four pages exists**, checked against the install: none of
+them is on it, published or draft. The addresses are correct and answer nothing
+today. That is the build pointer's own stated condition for publication rather
+than a new problem, and it is now written in the code beside the addresses,
+because the same fault was found once already on this page at S125.
+
+## 9. Kain approves the page for the build
+
+His words at the close:
+
+> "The first thing in the next session, I want you to build this page in the
+> WordPress theme. Do you understand? It is good enough to build."
+
+**What this settles.** The page has been designed and ruled block by block
+across S121 to S126 in the preview, which exists because `/pricing/` does not
+exist on the install and because a design is never iterated on the canonical
+page. His approval opens the next step.
+
+**What it does not settle, and both are named in the session report.** The
+page's rhythm, judged last, was in his own running order at this session's open
+and was not reached. And his line under the closing block is now wrong, which
+he has deferred until after the build: it still offers the help desk and the
+free membership, and that block offers neither.
+
+**One condition this approval does not remove.** Publication still waits on the
+four pages above existing. Building the page in the theme is not publishing it.
+
 ---
 
 ## Two repairs that were in every option, because a fault is not a choice
