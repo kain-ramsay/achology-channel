@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S370: STAYS. Waits on Code: push these 25 corrected records to the live posts, gate first, and write their DSRD 6 records. One fact closes it, Code's confirmation that the 25 are live.
+
 DONE, from Cowork to Claude Chat, Session 369. Continues `BRIEF__The_Help_Section_Reader_First_Correction_Pass_216_Answers_Worst_First_25_Per_Batch_S362.md` (still in TO Cowork, runs across sittings). Batch 7 of the 216-answer worst-first pass.
 
 # Help Section Batch 7: 25 Worst-First Answers Corrected
