@@ -100,6 +100,52 @@ card carried a gap above its price; Colour deepened each card's own school wash
 and set its price in that school's colour; Quiet took the hairline out from
 under every course.
 
+## 4. Single, for the course names that were turning onto a second line
+
+His note on the ruled block:
+
+> "An Entrepreneurs' Guide to Launching and Growing a New Business has sprawled
+> over onto two lines in desktop view. I really don't want this."
+
+**Measured first, across nine widths, because the answer depended on where it
+happens and it was not where it looked.** The page's container stops growing at
+1200, so from 1200 upwards every card is 492 across, its course column is 430,
+and not one of the fifty names turns. Below 1200 the two cards abreast share a
+shrinking row: three names turn at 1152, fifteen at 1100, forty-one at 1024.
+The longest wants 397 where the card offers 316. Eighty-one points is more than
+tightening can find, so it is a column problem and not a type problem.
+
+Four directions were built and he ruled:
+
+> "Yes, go with single."
+
+**What Single is.** Between 768 and 1200 the eight cards stop standing two
+abreast and take the full width one at a time. It was the only one of the four
+where not one name turned, at every width from 1024 to 1600.
+
+**The three that lost are deleted** and are in the theme repository's history at
+v0.571.0. Tight narrowed the gap between the cards and their own padding, which
+took 41 turning names at 1024 down to 18; Smaller dropped the course name one
+step on the type scale, which held to 1100 and left seven at 1024; Hang kept the
+turn and indented the second line so a name still read as one item.
+
+**One thing in this is worth carrying beyond this page.** Both card drawings are
+a share of their own card, so giving a card the whole block took the school
+drawing from 152 across to 267 and the pass card's ticket from 168 to 298. On
+the school cards the head is only ever as deep as its two lines of type, so most
+of the drawing was cut off. On the pass card it would have silently undone the
+four passes Kain had just spent settling that ticket by eye. **A drawing sized as
+a share of its container is undone by any change to that container, and a
+ruling made on one is only safe while the container holds.**
+
+**One boundary is a declared exception.** DSRD 7 sections 4.1 and 4.5 name 768
+and 1024, and this uses 1200, annotated in the stylesheet as a one-off. 1024
+would have left untouched the whole band Kain is actually reading the page in.
+The correct instrument is a container query on the card itself; this theme has
+none, and admitting its first one is a change of a different size from a pricing
+page sitting. **If Chat would rather that boundary did not stand, it is one line
+to change and it comes back as a question.**
+
 ---
 
 ## Two repairs that were in every option, because a fault is not a choice
