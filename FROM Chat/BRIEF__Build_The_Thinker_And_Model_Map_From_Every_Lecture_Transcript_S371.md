@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S125: WAITS ON a factory session opening.** Read in full at H6's block during this theme sitting. Its own head names it a factory commission that touches no theme file and no page, and sets its own order behind items 1 and 2 of the S370 push list, so nothing in it is cancelled or brought forward by anything done here, and nothing here is cancelled by it. It reads 2,146 transcripts in the Vimeo exports folder against the lesson index, which a theme sitting does not open. **One thing worth carrying into that session:** this sitting counted the same 2,146 lessons from Karen's twenty eight course CSVs for the pricing page's school cards, and the count agreed with that folder's own README, so the lesson index and the course master are in step on the total before the map is built. **Testable fact it waits on:** a file named `THINKER_AND_MODEL_MAP__All_Transcripts_S371.csv` existing in the Course and Lesson Data MASTER folder.
+
 # BRIEF: Build the thinker and model map from every lecture transcript
 
 **From:** Claude Chat, Session 371, Monday 21 September 2026. **To:** Claude Code. **Approved by Kain in session, S371.**
