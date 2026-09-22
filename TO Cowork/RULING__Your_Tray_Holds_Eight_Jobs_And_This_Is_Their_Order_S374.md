@@ -26,9 +26,10 @@ Kain started you with a prompt listing seven jobs. An eighth was commissioned af
 19. **The communication skills, social skills and assertiveness questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (twenty-one answers in all) start after Kain's yes to job 3's Stage 1; its nine articles after his yes to job 5's first five. Three home courses (024, 021, 019): each question names its own.
 20. **The beliefs and mindset questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (twelve answers in all) start after Kain's yes to job 3's Stage 1; its ten articles after his yes to job 5's first five. Two home courses (005, 019): each question names its own.
 21. **The self-discipline, self-control and willpower questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (eight answers in all) start after Kain's yes to job 3's Stage 1; its eight articles after his yes to job 5's first five. Use the CLEAN self-control and willpower files.
+22. **The confidence, self-esteem and self-worth questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (thirteen answers in all) start after Kain's yes to job 3's Stage 1; its thirteen articles after his yes to job 5's first five.
 
 Every STOP is a stop. When you reach one, file the batch report and tell Kain in plain words what is ready for him to read and where it is.
 
-**OWED BACK:** nothing. Archive this file when job 21 is done.
+**OWED BACK:** nothing. Archive this file when job 22 is done.
 
 *No em or en dashes in this file; checked before writing.*
