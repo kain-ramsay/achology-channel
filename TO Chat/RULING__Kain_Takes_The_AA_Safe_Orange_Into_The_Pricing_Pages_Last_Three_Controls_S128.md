@@ -26,6 +26,22 @@ All three now take `--color-orange-link`. The seven outlined buttons take it as 
 
 **Measured after, not only before.** axe 4.10.2 against the rebuilt page: zero WCAG 2.2 AA violations, on the detail run and on the gate run that wrote the record. The §7 line now reads `not run` rather than `pass`, which is correct and not a regression: the chapter is split, and DSRD 6 §7 says "A clean scan is the floor, never the pass". Its hand half is still owed.
 
+## Then he looked at it, and gave a second ruling in the same sitting
+
+v0.622.0 cleared the standard and failed his eye. His words: "I want the third and fourth buttons told apart again, also, the button on the Pass card is way too dark too." The first was Code's own doing, since putting the third choice card's button on `--color-orange-link` had made it identical to the fourth. The second was the S127 repair reaching a card he had not seen it on.
+
+Four oranges were built on the live page, one tab at a time, lightest first, with the fourth card held at the deeper orange in all four so the gap could be judged. **His word: "A please".** Shipped at **v0.623.0**.
+
+**Option A is `#C85015`, and it lives in a NEW token, `--color-orange-action`.** It is a new token rather than a change to `--color-orange-link` for a measured reason, and this is the part that matters most for the DSRDs: on white it is 4.55 and passes, but as text on the off-white panel #F3F4F4 it is **4.13 and fails**. It therefore cannot take over a token whose job includes small orange text on that panel. This is the same trap the S047 walk found on the Disclaimers page. Both limits are written at the token in `base.css`.
+
+It is also the lightest orange available on the line between brand orange and the AA-safe orange that still carries a white 14px label at AA, so nothing lighter exists without enlarging or emboldening the label, which is the route Kain turned down at S127. He was told that before he chose.
+
+**What now carries it:** `.btn-primary` site-wide, the seven outlined school buttons, the bundle plan menu and its chevron, and the third choice card's button. **What does not:** the fourth choice card, which stays on `--color-orange-link` and is what tells the two apart, and every hover and press state, which stay on `--color-orange-press`.
+
+**Measured after: axe 4.10.2 reports zero WCAG 2.2 AA violations, and `css_gate` passes both files touched.**
+
+**One thing this leaves open, named rather than left to be found.** `.btn--enrol`, `.btn--join` and the Listen button's hover are also white labels on `--color-orange-link`. None of them renders on the pricing page, checked this session, so moving them would be a sweep across other pages under Harness Rule 3 and was not done. **The site now carries two orange button fills.** Either they follow `.btn-primary` to `--color-orange-action` under a sweep brief, or the split is deliberate and gets written down. It should not stay undecided, because the next person to add a button will not know which one to reach for.
+
 ## The part that is bigger than this page, and is an ASK inside a RULING
 
 **DSRD 7 contradicts itself on the resting colour of a text link, and every page's §7 line depends on which half wins.**
