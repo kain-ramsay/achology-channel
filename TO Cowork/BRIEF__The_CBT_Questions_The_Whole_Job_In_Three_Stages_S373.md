@@ -1,3 +1,5 @@
+> **RETITLED S376, Kain's wording read: every CBT question here now drafts to its ruled title,** listed in full in the CBT MATCH file under "RULED TITLES, S376". The ruled title replaces the question wording in the tables below; the numbers, homes and notes are unchanged. Question 24 no longer names Kain Ramsay: its ruled title is "Which CBT course is right for you, and where do you start?" and it still leads to courses 006, 007 and 008. If any record here is already drafted, retitle it to the ruled wording and note that in your report; no title mentions Kain by name.
+>
 > ORDER, set at S373: JOB 3 in this tray. Job 1 stays the seven-subject searches and job 1b, filed the same session, is the remaining 107 searches (AnswerSocrates ends 17 October 2026, so both search jobs run first). Job 2 stays the CBT hub guide H09. This brief comes next, because Kain ruled at S372 that CBT is finished end to end first, as the proof for every other subject. The five thinker answers move to job 4 and the 74 older book notes to job 5. Chat placed it here under that ruling and told Kain; he can move it.
 
 # BRIEF: the CBT questions, the whole job, in three stages
