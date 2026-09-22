@@ -48,7 +48,15 @@ Taken as the authority for a sweep under Rule 3, directly from him in the sittin
 
 `css_gate` on both files touched carries exactly the pre-existing issue counts they carried before the edit, 188 and 8, every one of them a spacing token elsewhere in the file and none from this change, measured against the committed versions rather than asserted. axe 4.10.2 on `/cards/`, the specimen page that draws all of these buttons: zero WCAG 2.2 AA violations.
 
-**A fourth orange button was found on the way and deliberately NOT changed.** `.btn-secondary--orange`, the support and help action registered in DSRD 7 §5.1, rests correctly as an AA-safe orange label on a white fill, but its **hover is white text on brand orange #ED6922, which measures 3.16 and fails AA**. It is the same class of defect the pricing page had, on a button Kain did not name, rendering on pages outside this sweep. Not touched. It needs a ruling like the other two above, and until it gets one there is a known failing hover state on every page carrying that button.
+## A fourth button, found on the way, and his fourth ruling
+
+`.btn-secondary--orange`, the support and help action registered in DSRD 7 §5.1, rested correctly as an AA-safe orange label on a white fill but its **hover was white text on brand orange #ED6922, measuring 3.16 against the 4.5 the standard asks**. Shown to him rather than taken on unasked, **his word: "yes".** Shipped at **v0.625.0**.
+
+The hover fill is now `--color-orange-action` at 4.55, and the border moves with it, which it did not before: the old rule set a background and left the 1.5px border on brand orange, invisible while the two matched and not once they differ. **The resting state is unchanged** in all three of its parts, white fill, `--color-orange-link` label, brand orange border, because that token is for small orange text and this is small orange text on white.
+
+**Why it survived two earlier contrast fixes, and this is the part worth carrying into the standard rather than just into the theme.** No scanner tests a hover state. axe reported zero violations on `/pricing/` at v0.623.0 and again at v0.624.0 while this button sat on the page the whole time. It was found by reading the stylesheet during the sweep, not by any gate. That is three instances of one pattern now, across S127, S128 and this, and each was found by a person looking rather than by the machine half of DSRD 6 §7. **§7's machine half cannot see interaction states at all, and the chapter does not say so.** Worth a sentence in DSRD 6, and worth naming in the hand-check list beside the keyboard walk, because the hand checker is the only runner who can catch it.
+
+It renders on `/pricing/`, the seven policy pages and the `/help/` archive, and was verified hovered on the rendered live page rather than only in the stylesheet.
 
 ## The part that is bigger than this page, and is an ASK inside a RULING
 
