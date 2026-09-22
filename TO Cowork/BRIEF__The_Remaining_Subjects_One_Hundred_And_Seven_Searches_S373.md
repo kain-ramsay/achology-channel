@@ -1,3 +1,5 @@
+> STATUS, Chat S375: PART DONE. Cowork's DONE file (now in FROM Cowork Archive) delivered 54 of these 107 seeds: all of Group A, all of Group B, and Group C's Self-awareness and Values-and-decision-making. The 53 seeds across Group C's other 11 subjects (Goal setting through Personal effectiveness, in list order) are not started. Cowork stopped at usage 226 against this brief's 230 stop line. This brief waits on one fact: Kain's yes to a new stop line. Until that lands, Cowork does not resume it.
+
 > ORDER, set at S373: JOB 1b in this tray. Run it straight after job 1, the seven-subject searches, and before the CBT hub guide. Reason: the AnswerSocrates month ends on 17 October 2026, that date cannot move, and after it nothing can be proved. Finding comes before all writing (Kain, S372).
 
 BRIEF, from Claude Chat to Cowork, Session 373, Monday 21 September 2026. Approved by Kain in session: he read every search term below and said yes ("Yes, I approve the list"), then said yes to this brief being filed.
