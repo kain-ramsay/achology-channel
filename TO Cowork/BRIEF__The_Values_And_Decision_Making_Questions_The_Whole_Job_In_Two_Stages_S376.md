@@ -1,3 +1,5 @@
+> **RETITLED S376, Kain's wording read: every question here now drafts to its ruled title,** listed in full in this subject's MATCH file under "RULED TITLES, S376". The ruled title replaces the question wording in the tables below; numbers, homes and notes are unchanged. No title mentions Kain Ramsay by name.
+>
 > ORDER, set at S376 (22 September 2026): JOB 17 in this tray, after the self-awareness questions (job 16). Chat placed it here and told Kain; he can move it. **Its Stage 1 does not start until Chat files Kain's yes to Stage 1 of the CBT questions brief** (job 3), the acceptance run for the Help answer type. **Its Stage 3 articles do not start until Chat files Kain's yes to the first five of job 5,** the acceptance run for the article type.
 >
 > REWRITTEN S376, same day, before you started it: the Help shelf grew from 2 to 9 under Kain's new Help shelf standard, and the articles are renumbered 10 to 17. This version replaces the two-stage one; there is no other copy.
