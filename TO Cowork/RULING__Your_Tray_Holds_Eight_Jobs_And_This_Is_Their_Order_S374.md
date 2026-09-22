@@ -13,9 +13,10 @@ Kain started you with a prompt listing seven jobs. An eighth was commissioned af
 6. **The life coaching questions (S374 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Its Help stages start after Kain's yes to job 3's Stage 1; its twelve articles start after his yes to job 5's first five.
 7. The five thinker and model Help answers (S371 brief).
 8. The 74 older book notes (S365 brief).
+9. **The counselling questions (S375 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates as job 6: its Help stages start after Kain's yes to job 3's Stage 1; its ten articles after his yes to job 5's first five.
 
 Every STOP is a stop. When you reach one, file the batch report and tell Kain in plain words what is ready for him to read and where it is.
 
-**OWED BACK:** nothing. Archive this file when job 8 is done.
+**OWED BACK:** nothing. Archive this file when job 9 is done.
 
 *No em or en dashes in this file; checked before writing.*
