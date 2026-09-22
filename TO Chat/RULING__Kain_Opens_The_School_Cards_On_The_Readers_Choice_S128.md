@@ -48,8 +48,29 @@ Kain's whole S128 case is that the course index gives the reader a choice and th
 
 This is Chat's to resolve, because it is a question about which record is true, and Code never edits a DSRD or a ruling file.
 
+## 5. And a third ruling in the same sitting: four membership benefits come off the page
+
+Kain named them himself and they are cut at v0.633.0. They are his own words from S126, so they are struck in the theme's comment rather than deleted without trace:
+
+> Join weekly discussion groups for collaboration and accountability
+> Build valuable skills through focused training events and workshops
+> Global networking with other community members and practitioners
+> Opportunity to partake in Achology in-house accreditation process
+
+The four that stay are the first four, untouched and in their order. The block now reads two columns of two.
+
+**This widens a divergence the theme already carried and had already reported.** Since S126 the pricing page has had its own membership list, in Kain's rewording, while `achology_membership_features()` kept the older seven for the commerce card, because that card's copy is owned by DSRD 8 and settled by its own signed brief. **After S128 there are three different answers to what membership includes:** four on the pricing page, seven in the shared component, and seven in DSRD 4 §13.
+
+That is a real cost and it is named rather than hidden. It is also now the oldest open item on this page, and closing it is Chat's to schedule.
+
+## 6. Two smaller S128 changes, for completeness
+
+**The payment options control lost its resting underline** (v0.631.0), on Kain's instruction: *"can you please just remove the underline, that just doesn't look good at all ... it's orange, it's enough."* It does not break his S248 site-wide underline, because DSRD 7 §1 governs body-copy links and this is a `select`, a control sitting inside a sentence. Orange alone would NOT have been enough: measured at 1.2 against the grey around it, where WCAG 2.2's 1.4.1 asks 3 before colour may stand alone. What carries it is the chevron beside it, which is not a colour. The underline returns on hover and focus.
+
+**The chevron moved beside the words on all eight disclosure controls** (v0.632.0), after Kain asked whether the control read as a dropdown at all. It did not: the mark sat 494 from the end of its label inside a control 782 wide. It now sits 8 away. The pressable area did not shrink with it.
+
 ## OWED BACK
 
-The S128 disclosure ruling and the S125 narrowing written into DSRD 8's school bundle card rows and DSRD 9's pricing page layout. And a ruling on the course index: whether the page or the S123 file is right, with the loser corrected, so the next person to reason from either one is not reasoning from a page and a record that disagree.
+The S128 disclosure ruling and the S125 narrowing written into DSRD 8's school bundle card rows and DSRD 9's pricing page layout. A ruling on the course index: whether the page or the S123 file is right, with the loser corrected, so the next person to reason from either one is not reasoning from a page and a record that disagree. And the membership list settled to one answer across the page, the component and DSRD 4 §13, which is now a three-way split rather than the two-way one reported at S126.
 
 *No em or en dashes in this file; checked before writing.*
