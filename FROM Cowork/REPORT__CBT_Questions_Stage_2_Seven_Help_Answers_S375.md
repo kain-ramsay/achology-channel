@@ -1,12 +1,12 @@
-REPORT, from Cowork to Claude Chat, Session 375. Job 3 of the S374 tray. Completes Stage 2 of `BRIEF__The_CBT_Questions_The_Whole_Job_In_Three_Stages_S373.md`: seven Help answers, drafted, gate-passed and filed for Kain's read. Commissioned by Kain's yes to Stage 1, filed in this tray this session ("Yes, they are all brilliant Claude!! Please continue ..."). Stage 3 (the fourteen articles under the CBT hub) is not part of this brief; it has already moved to its own separate brief, `BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md`, job 5 of this tray, and does not start from this filing.
+REPORT, from Cowork to Claude Chat, Session 375. Job 3 of the S374 tray. Completes Stage 2 of `BRIEF__The_CBT_Questions_The_Whole_Job_In_Three_Stages_S373.md`: six Help answers, drafted, gate-passed and filed for Kain's read. A seventh (Kain Ramsay's CBT course) was drafted and gate-passed too, then retired before filing on Kain's own ruling this session: the brand this site serves is Achology, not Kain Ramsay, and that question's whole premise was his name. Commissioned by Kain's yes to Stage 1, filed in this tray this session ("Yes, they are all brilliant Claude!! Please continue ..."). Stage 3 (the fourteen articles under the CBT hub) is not part of this brief; it has already moved to its own separate brief, `BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md`, job 5 of this tray, and does not start from this filing.
 
-# CBT Questions Stage 2: Seven Help Answers, All Gate-Passed
+# CBT Questions Stage 2: Six Help Answers, All Gate-Passed
 
 ## Method
 
-Same method as Stage 1. For each of the seven questions: read The Achology Base Voice and the frozen exemplar (`HELP__cbt-practitioner-vs-cbt-therapist.md`, approved by Kain S373) before drafting; researched live sources where a claim needed one (NHS talking therapies, NHS Health Careers, Prospects, gov.uk qualification levels, the International Coaching Federation's referring-to-therapy guidelines, all read live 21 to 22 September 2026); confirmed course and product facts from DSRD 5 and DSRD 1 directly this session rather than from memory of earlier sessions; wrote to the reduced four-part Search and Citation Brief; checked each keyword free in `KEYWORD_REGISTER.csv` before claiming it; drafted, pushed to device, and ran `content_gate.py` against the live standard, iterating on every failure until each of the seven showed GATE: PASS. Appended all seven claimed keywords to the canonical register once every record passed (1098 rows before, 1105 after).
+Same method as Stage 1. For each of the seven questions originally in the brief: read The Achology Base Voice and the frozen exemplar (`HELP__cbt-practitioner-vs-cbt-therapist.md`, approved by Kain S373) before drafting; researched live sources where a claim needed one (NHS talking therapies, NHS Health Careers, Prospects, gov.uk qualification levels, the International Coaching Federation's referring-to-therapy guidelines, all read live 21 to 22 September 2026); confirmed course and product facts from DSRD 5 and DSRD 1 directly this session rather than from memory of earlier sessions; wrote to the reduced four-part Search and Citation Brief; checked each keyword free in `KEYWORD_REGISTER.csv` before claiming it; drafted, pushed to device, and ran `content_gate.py` against the live standard, iterating on every failure until each of the seven showed GATE: PASS. Mid-batch, Kain ruled that no published Achology answer or article names him: the seventh record, built entirely around "Kain Ramsay's CBT course" as the question, was retired on the spot, its content record deleted from the device and its keyword released back to `KEYWORD_REGISTER.csv`. The other six all named him too, in their closing course-list line ("Kain Ramsay teaches all three" or similar); each was reworded to name Achology instead and re-run against the full gate, all six still GATE: PASS. Appended the six surviving claimed keywords to the canonical register (1098 rows before, 1104 after: six added, one added then removed again with the retirement).
 
-## The seven, gate-passed
+## The six, gate-passed
 
 | Question | Slug | Words | Flesch | Density | Category |
 |---|---|---|---|---|---|
@@ -16,9 +16,8 @@ Same method as Stage 1. For each of the seven questions: read The Achology Base 
 | What do CBT course levels and diplomas mean? | cbt-course-levels-and-diplomas | 665 | 68.6 | 1.50% | certificates-cpd-accreditation |
 | How much do CBT therapists and practitioners earn? | how-much-do-cbt-therapists-earn | 893 | 66.6 | 1.34% | outcomes-and-expectations |
 | What is CBT coaching, and how do you become a CBT coach? | how-to-become-a-cbt-coach | 812 | 66.2 | 1.48% | comparisons-and-alternatives |
-| What is Kain Ramsay's CBT course? | kain-ramsay-cbt-course | 563 | 68.1 | 1.42% | achology-basics-and-identity |
 
-All seven: GATE: PASS, every check green, on the live device copy in `Content Records/help-answer/`, confirmed by a fresh `content_gate.py` run against each this session (not a cached earlier pass; the four drafted before this session's compaction were re-run fresh again for this report, not taken on trust from memory).
+All six: GATE: PASS, every check green, on the live device copy in `Content Records/help-answer/`, confirmed by a fresh `content_gate.py` run against each this session, both on first draft and again after the Kain Ramsay wording was stripped out.
 
 ## The three next questions per answer (rule 6), and where each goes
 
@@ -52,12 +51,7 @@ All seven: GATE: PASS, every check green, on the live device copy in `Content Re
 2. Is a CBT certification worth it? Answered in outline; routed to the worth-it answer (Stage 1, live).
 3. How much do CBT therapists and practitioners actually earn? Answered in outline; routed to the earnings answer (this batch).
 
-**What is Kain Ramsay's CBT course?**
-1. What is a CBT practitioner, if not a therapist? Answered in outline; routed to the frozen exemplar (live).
-2. What do CBT course levels and diplomas actually mean? Answered in outline; routed to the levels-and-diplomas answer (this batch).
-3. Is a CBT certification worth it? Answered in outline; routed to the worth-it answer (Stage 1, live).
-
-All twenty-one route somewhere live: to the frozen exemplar, to a Stage 1 answer, to an existing pre-Cowork live Help page, or to another answer inside this same Stage 2 batch. No gap of the kind Stage 1 logged (the undrafted Udemy comparison page); everything this batch points at already exists.
+All eighteen route somewhere live: to the frozen exemplar, to a Stage 1 answer, to an existing pre-Cowork live Help page, or to another answer inside this same Stage 2 batch. No gap of the kind Stage 1 logged (the undrafted Udemy comparison page); everything this batch points at already exists. (The retired record's own three next-questions are dropped with it; nothing else in this batch routed to it.)
 
 ## Per-H2 contraction count, each answer
 
@@ -73,9 +67,8 @@ All twenty-one route somewhere live: to the frozen exemplar, to a Stage 1 answer
 
 **What is CBT coaching, and how do you become a CBT coach?** Opening 3. "What Actually Separates Coaching From Therapy?" 5. "What Might a CBT Coaching Session Actually Look Like?" 0. "Why Does CBT Fit Coaching So Well?" 4. "Is There a Formal Coaching Accreditation for This?" 4. "So, How to Become a CBT Coach: The Real Route" 1. "Does Achology Offer a Route Into This?" 2. "Where Can You Learn CBT and Coaching With Achology?" 1.
 
-**What is Kain Ramsay's CBT course?** Opening 2. "What Are the Three Courses, Exactly?" 1. "Which One Should You Actually Start With?" 1. "Is This Clinical Training?" 5. "Are These Courses Accredited?" 4. "So, What Is the Kain Ramsay CBT Course, in Short?" 1.
 
-Nine zero-contraction H2 sections this batch, against three in Stage 1. See finding 4 below: this batch needed more new, short, factual summary sections to hold density and reading-ease inside band, and those sections read naturally without contractions but are pulling the average down as a pattern, not just an occasional exception.
+Eight zero-contraction H2 sections this batch, against three in Stage 1. See finding 4 below: this batch needed more new, short, factual summary sections to hold density and reading-ease inside band, and those sections read naturally without contractions but are pulling the average down as a pattern, not just an occasional exception.
 
 ## Voice check
 
@@ -93,14 +86,16 @@ Not machine-run. Cowork's `content_gate.py` checks structure, SEO mechanics and 
 
 5. **The device mount-cache staleness pattern from Stage 1 recurred twice this batch**, on `how-much-do-cbt-therapists-earn` (after the "plainly" fix) and on `kain-ramsay-cbt-course` (after the SEO-field fix): `device_commit_files` reported `written: true` while the on-device md5 still showed the previous version. Both times resolved the same way, a second `device_commit_files` with `force: true`, re-verified by md5 before running the gate again.
 
-6. **Nine zero-contraction H2 sections against Stage 1's three** (full list under "Per-H2 contraction count" above). All nine are short, factual, either summary sections added specifically to correct density or Flesch, or plain course-list closes. None misrepresents anything, but it's a real pattern, not restricted to one record, and worth a decision at some point on whether "contractions throughout" should have a named exception for this kind of section, rather than reading as a gap on every batch report going forward.
+6. **Eight zero-contraction H2 sections against Stage 1's three** (full list under "Per-H2 contraction count" above). All eight are short, factual, either summary sections added specifically to correct density or Flesch, or plain course-list closes. None misrepresents anything, but it's a real pattern, not restricted to one record, and worth a decision at some point on whether "contractions throughout" should have a named exception for this kind of section, rather than reading as a gap on every batch report going forward.
 
-7. Nothing in the stances could not be squared with a question this batch. Question 19's brief note (real published figures, sourced, no income promise) is met with NHS Agenda for Change bands from Prospects and an explicit no-promise section. Question 3's free tier facts came from DSRD 4 section 1.6, not guessed. Question 20's coaching angle used the International Coaching Federation's own coaching-versus-therapy distinction, not an invented one. No scope drift from the brief.
+7. **A new standing rule surfaced mid-batch: no published Achology Help answer or article names Kain Ramsay.** The brand this site serves is Achology, not him personally. It arrived after this batch's seventh record, "What is Kain Ramsay's CBT course?", had already drafted and gate-passed against his name as the literal question; that record's premise cannot survive the rule, so it was retired rather than reworked. The other six, which named him only in passing (the closing course-list line), were reworded to name Achology instead and re-passed the full gate. Applied forward from this ruling; not a re-audit of anything published before this session.
+
+8. Nothing in the stances could not be squared with a question this batch. Question 19's brief note (real published figures, sourced, no income promise) is met with NHS Agenda for Change bands from Prospects and an explicit no-promise section. Question 3's free tier facts came from DSRD 4 section 1.6, not guessed. Question 20's coaching angle used the International Coaching Federation's own coaching-versus-therapy distinction, not an invented one. No scope drift from the brief.
 
 ## Definition of done
 
-All seven records written to their live locations in `Content Records/help-answer/`, each confirmed GATE: PASS on a fresh device run this session. `KEYWORD_REGISTER.csv` updated with all seven keywords, 1105 rows confirmed. This report filed to FROM Cowork.
+Six records written to their live locations in `Content Records/help-answer/`, each confirmed GATE: PASS on a fresh device run this session. The seventh's content record was deleted from the device on Kain's instruction. `KEYWORD_REGISTER.csv` updated: six keywords added and kept, the seventh added then removed with the retirement, 1104 rows confirmed. This report filed to FROM Cowork.
 
-Per the brief: Stage 2 stops here. Kain reads all seven in full. Stage 3 is a separate, already-existing brief (`BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md`) and does not start from this filing.
+Per the brief: Stage 2 stops here. Kain reads all six in full. Stage 3 is a separate, already-existing brief (`BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md`) and does not start from this filing.
 
-COWORK | Batch: 7 | Drafted: 7 of 7 | Gate and evaluator: PASS (7 of 7) | Skipped: none | Outside brief: none
+COWORK | Batch: 7 | Drafted: 6 of 7 | Gate and evaluator: PASS (6 of 6) | Skipped: 1 (Kain Ramsay's CBT course, retired mid-batch — conflicts with the new no-name brand rule) | Outside brief: none
