@@ -19,9 +19,10 @@ Kain started you with a prompt listing seven jobs. An eighth was commissioned af
 12. **The seven schools of psychology questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (thirty answers in all) start after Kain's yes to job 3's Stage 1; its sixteen articles after his yes to job 5's first five.
 13. **The mental health questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (twenty answers in all) start after Kain's yes to job 3's Stage 1; its nine articles after his yes to job 5's first five.
 14. **The business and entrepreneurship questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (ten answers in all) start after Kain's yes to job 3's Stage 1; its seven articles after his yes to job 5's first five.
+15. **The marriage and relationships questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (ten answers in all) start after Kain's yes to job 3's Stage 1; its four articles after his yes to job 5's first five. Use the question wording in its MATCH file exactly; Kain approved it in full.
 
 Every STOP is a stop. When you reach one, file the batch report and tell Kain in plain words what is ready for him to read and where it is.
 
-**OWED BACK:** nothing. Archive this file when job 14 is done.
+**OWED BACK:** nothing. Archive this file when job 15 is done.
 
 *No em or en dashes in this file; checked before writing.*
