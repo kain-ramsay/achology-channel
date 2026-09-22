@@ -22,8 +22,11 @@ build install, read back from the install rather than assumed. Nothing is
 public: an anonymous request for it answers 404, checked.
 
 **The name was taken from the record, not chosen.** DSRD 1 section 13.1, Header
-Navigation, marked LOCKED, row 5: `| 5 | Pricing | /pricing/ | No — direct
-link |`. Section 2.1 lists it among the root-level pages. **This is worth Chat
+Navigation, marked LOCKED, row 5, its first three cells quoted exactly:
+`| 5 | Pricing | /pricing/ |`, and its fourth cell says the item is a direct
+link with no dropdown. The fourth cell is described rather than quoted because
+it carries an em dash and this project's own dash ban forbids reproducing one.
+Section 2.1 lists the page among the root-level pages. **This is worth Chat
 knowing because Code got it wrong first:** the name was put to Kain as a
 question, and he stopped the session and told Code to check the specification
 instead. He was right. The search had stopped at the address tables and never
