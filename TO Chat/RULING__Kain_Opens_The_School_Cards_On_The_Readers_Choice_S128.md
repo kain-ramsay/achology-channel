@@ -59,9 +59,19 @@ Kain named them himself and they are cut at v0.633.0. They are his own words fro
 
 The four that stay are the first four, untouched and in their order. The block now reads two columns of two.
 
-**This widens a divergence the theme already carried and had already reported.** Since S126 the pricing page has had its own membership list, in Kain's rewording, while `achology_membership_features()` kept the older seven for the commerce card, because that card's copy is owned by DSRD 8 and settled by its own signed brief. **After S128 there are three different answers to what membership includes:** four on the pricing page, seven in the shared component, and seven in DSRD 4 §13.
+### And then Kain ruled WHY, which corrects what Code first wrote here
 
-That is a real cost and it is named rather than hidden. It is also now the oldest open item on this page, and closing it is Chat's to schedule.
+Code reported the cut as widening a defect: since S126 the pricing page has had its own membership list while `achology_membership_features()` kept the older seven for the commerce card, and after this cut there are three different answers to what membership includes, four on the pricing page, seven in the shared component and seven in DSRD 4 §13. Code called that a split to close by making them match.
+
+**That was the wrong reading, and Kain corrected it in the same sitting. His words:**
+
+> "very practically, this is just a pricing page. It's not a sales page. The pricing page is just to present, on a real high level, all of our products. So we don't need to have all features and benefits included in the pricing page. It would be miles long otherwise."
+
+**So the three lists are not one fact told three ways; they are three jobs.** A short list belongs on a pricing page because its job is to show at a high level what there is to buy. The full set of features belongs where someone is being sold to, on the membership page and in the commerce card DSRD 8 owns. Making them match would push sales copy onto a pricing page and make it exactly as long as he says.
+
+**This is the more useful ruling of the two and it reaches past this list.** It is the test for anything ever proposed for this page: does it help a reader see what there is and what it costs, or is it selling? The first belongs, the second does not. It also answers, without anyone having to run them, at least two of the seven outside suggestions this sitting was working through, both of which proposed adding weight to the page in the name of persuasion.
+
+**The paragraph Code wrote before this ruling is struck rather than deleted,** because Chat would otherwise have acted on it and gone looking for a divergence to close that Kain does not want closed. The lists differ on purpose. Nothing is owed on it.
 
 ## 6. Two smaller S128 changes, for completeness
 
