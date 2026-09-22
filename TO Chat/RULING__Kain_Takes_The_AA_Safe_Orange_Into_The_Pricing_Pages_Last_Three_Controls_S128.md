@@ -56,6 +56,12 @@ Code never edits a DSRD, so this comes to you rather than being resolved in the 
 
 ## OWED BACK
 
-The S128 ruling written into DSRD 7's colour section and DSRD 8's button rows, so the pricing page's three controls are recorded rather than living only in the theme. And a ruling on the link-colour contradiction, with the losing sentence struck in DSRD 7 rather than left to be found again.
+Three things.
+
+**One.** `--color-orange-action` #C85015 written into DSRD 7's colour section as a registered token, with both its measurements (4.55 on white, 4.13 on the off-white panel) and the sentence that it is for controls on a white ground and never for text on the panel. DSRD 8's button rows updated to name it as the primary button's fill in place of `--color-orange-link`, and the third and fourth choice cards recorded as a deliberate pair.
+
+**Two.** A ruling on whether `.btn--enrol`, `.btn--join` and the Listen button's hover follow `.btn-primary` to the new token, under a sweep brief, or whether two orange button fills is the settled position and gets written down as such.
+
+**Three.** A ruling on the link-colour contradiction in the section above, with the losing sentence struck in DSRD 7 rather than left to be found again.
 
 *No em or en dashes in this file; checked before writing.*
