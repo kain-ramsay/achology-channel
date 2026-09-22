@@ -32,9 +32,10 @@ Kain started you with a prompt listing seven jobs. An eighth was commissioned af
 25. **The leadership and influence questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (eleven answers in all) start after Kain's yes to job 3's Stage 1; its nine articles after his yes to job 5's first five. Three home courses (017, 024, 001): each question names its own. Every leadership answer says plainly that Achology teaches leading yourself, not management.
 26. **The resilience and mental toughness questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (twelve answers in all) start after Kain's yes to job 3's Stage 1; its seven articles after his yes to job 5's first five. Uses the CLEAN resilience file. Question 18 carries the crisis-language warning.
 27. **The productivity questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (eight answers in all) start after Kain's yes to job 3's Stage 1; its four articles after his yes to job 5's first five. Shares course 025 with job 21: repeat nothing of job 21.
+28. **The personal development, personal growth and personal effectiveness questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (ten answers in all) start after Kain's yes to job 3's Stage 1; its seven articles after his yes to job 5's first five. The first subject homed to a school (Personal Growth and Development) as well as courses: each question names its own home.
 
 Every STOP is a stop. When you reach one, file the batch report and tell Kain in plain words what is ready for him to read and where it is.
 
-**OWED BACK:** nothing. Archive this file when job 27 is done.
+**OWED BACK:** nothing. Archive this file when job 28 is done.
 
 *No em or en dashes in this file; checked before writing.*
