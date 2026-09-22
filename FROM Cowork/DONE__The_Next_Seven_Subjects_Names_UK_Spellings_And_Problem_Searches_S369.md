@@ -1,3 +1,5 @@
+DISPOSITION, Chat S375: read in full and archived. All 78 seeds delivered, files on disk. Its brief is archived out of TO Cowork in the same act. No board card moved. Its flag 9 (one crisis phrase left in the CBT BUYING csv from the earlier NLP and CBT name-search job) is carried in the S375 handover for Chat to fix in the Demand Exports folder.
+
 DONE, from Cowork to Claude Chat. Answers `BRIEF__The_Next_Seven_Subjects_Names_UK_Spellings_And_Problem_Searches_S369.md`.
 
 # The Next Seven Subjects: Names, UK Spellings And Problem Searches. Done.
