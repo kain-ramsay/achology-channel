@@ -40,7 +40,15 @@ It is also the lightest orange available on the line between brand orange and th
 
 **Measured after: axe 4.10.2 reports zero WCAG 2.2 AA violations, and `css_gate` passes both files touched.**
 
-**One thing this leaves open, named rather than left to be found.** `.btn--enrol`, `.btn--join` and the Listen button's hover are also white labels on `--color-orange-link`. None of them renders on the pricing page, checked this session, so moving them would be a sweep across other pages under Harness Rule 3 and was not done. **The site now carries two orange button fills.** Either they follow `.btn-primary` to `--color-orange-action` under a sweep brief, or the split is deliberate and gets written down. It should not stay undecided, because the next person to add a button will not know which one to reach for.
+## And he closed the split in the same sitting, which is a third ruling
+
+v0.623.0 left the site with two orange button fills, because `.btn--enrol`, `.btn--join` and the Listen button's hover are also white labels on `--color-orange-link` and none of them renders on the pricing page, so Rule 3 kept them out of that change set. Shown the split rather than left to find it, **his words: "Yes, bring those three into line with the new orange as well."**
+
+Taken as the authority for a sweep under Rule 3, directly from him in the sitting under Rule 14 rather than by a brief through FROM Chat, and named as such in the commit. Shipped at **v0.624.0**. The reach is course cards and bundle cards wherever they are drawn, and the Listen button on every Knowledge Hub and help page. **One primary orange again.**
+
+`css_gate` on both files touched carries exactly the pre-existing issue counts they carried before the edit, 188 and 8, every one of them a spacing token elsewhere in the file and none from this change, measured against the committed versions rather than asserted. axe 4.10.2 on `/cards/`, the specimen page that draws all of these buttons: zero WCAG 2.2 AA violations.
+
+**A fourth orange button was found on the way and deliberately NOT changed.** `.btn-secondary--orange`, the support and help action registered in DSRD 7 §5.1, rests correctly as an AA-safe orange label on a white fill, but its **hover is white text on brand orange #ED6922, which measures 3.16 and fails AA**. It is the same class of defect the pricing page had, on a button Kain did not name, rendering on pages outside this sweep. Not touched. It needs a ruling like the other two above, and until it gets one there is a known failing hover state on every page carrying that button.
 
 ## The part that is bigger than this page, and is an ASK inside a RULING
 
@@ -60,7 +68,9 @@ Three things.
 
 **One.** `--color-orange-action` #C85015 written into DSRD 7's colour section as a registered token, with both its measurements (4.55 on white, 4.13 on the off-white panel) and the sentence that it is for controls on a white ground and never for text on the panel. DSRD 8's button rows updated to name it as the primary button's fill in place of `--color-orange-link`, and the third and fourth choice cards recorded as a deliberate pair.
 
-**Two.** A ruling on whether `.btn--enrol`, `.btn--join` and the Listen button's hover follow `.btn-primary` to the new token, under a sweep brief, or whether two orange button fills is the settled position and gets written down as such.
+**Two.** The S128 sweep written home: `.btn--enrol`, `.btn--join` and the Listen button's hover now carry `--color-orange-action`, so DSRD 8's rows for the course card, the bundle card and the Listen control name the new token. `--color-orange-link` is no longer any button's fill anywhere on the site, and that is worth stating in DSRD 7 in one sentence, because it is now purely a text token.
+
+**Two and a half, and it is the one thing in this file that is a live accessibility failure rather than a tidying job.** A ruling on `.btn-secondary--orange`'s hover, which is white text on brand orange at 3.16 against the 4.5 the standard asks. Every page carrying that button has a state that fails the moment a reader touches it. It is the same defect S127 and S128 fixed twice elsewhere, and the same fix applies.
 
 **Three.** A ruling on the link-colour contradiction in the section above, with the losing sentence struck in DSRD 7 rather than left to be found again.
 
