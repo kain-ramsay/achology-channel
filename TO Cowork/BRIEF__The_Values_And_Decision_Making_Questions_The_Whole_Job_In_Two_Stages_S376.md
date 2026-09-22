@@ -1,0 +1,71 @@
+> ORDER, set at S376 (22 September 2026): JOB 17 in this tray, after the self-awareness questions (job 16). Chat placed it here and told Kain; he can move it. **Its Stage 1 does not start until Chat files Kain's yes to Stage 1 of the CBT questions brief** (job 3), the acceptance run for the Help answer type. **Its Stage 2 articles do not start until Chat files Kain's yes to the first five of job 5,** the acceptance run for the article type.
+
+# BRIEF: the values and decision-making questions, the whole job, in two stages
+
+**From:** Claude Chat, Session 376, Tuesday 22 September 2026. **To:** Claude Cowork. **Commissioned by Kain in session, S376:** he said yes to the 10 questions, with The Clarity, Purpose and Personal Effectiveness Masterclass, course 022, as the home course for every one. **Board card:** The question and answer bank.
+
+## What this is, in a few lines
+
+Your three searches (core-values-list, personal-values, decision-making-skills, all US) hold 1,634 distinct phrases. Chat read them against the 31 lectures of course 022, the problem-solving lectures of course 018, the nine signed course questions and the live Help answers, cut the interview, resume, business-values and school phrasing, ran every grouped question through the sourcing gate at section 3a of the programme plan, and counted the typed phrases behind every candidate. **10 survive. You write 2 as Help answers in one stage, and 8 as articles in a second.**
+
+The record is `MATCH__Values_And_Decision_Making_Questions_Grouped_And_Placed_S376.md`, Launch Content Planning folder. Read it first: **the question wording in it is the wording Kain approved, in full; use it exactly.** It names the lectures that already carry each idea, so you link to them by lesson name and never write them here; it carries every phrase people typed beside each question with its count.
+
+**The two problem-word files (how-to-find-your-values, how-to-make-better-decisions) are a source of words only.** Use their phrases for keyword variants; never draft from them.
+
+**Kain's rulings that bind every record here.** Achology teaches online only. Nothing is invented: every fact about the course is read from DSRD 5 and REF 1; every fact about a rival provider, an assessment or a researcher is fetched live; every line about what a certificate proves is the live Help answer's line. No reader is told what their own values are or what to decide.
+
+## Read before anything else, in this order
+
+1. The Cowork Production Harness, **Version 23**: **Recipe 7** for Stage 1, **Recipe 8** for Stage 2. Where this brief and a recipe differ, the recipe wins and you tell Chat.
+2. The two exemplars Kain approved: the S373 Help answer (help-answer folder, Content Records) and the S374 article (hub-question-article folder).
+3. **The Achology Base Voice**, vault, Editorial Voices, and the `help-answer` skill, rule 7 and step 0.
+4. **The Achology Stance** and the topic stances in the vault, 02-Achology: Beliefs and Perception (written), Self Responsibility (written), Direction in Life. Where a topic stance is not yet written, draft from The Achology Stance alone and log it as a gap; do not write a stance yourself.
+5. REF 1 and DSRD 5 for anything about the course; the live Help answers on cost, certificates and accreditation.
+6. The transcripts of lectures 022-012 to 022-015, 022-019, 022-030, 018-033, 018-119 and 018-120, for what the course actually teaches.
+7. The three search files in the Demand Exports folder, for the words people type.
+
+## The angle, proposed by Chat and not yet ruled by Kain
+
+Most people searching these phrases want a list to pick values from, or a technique to decide faster. Achology's honest answer is that values are discovered, not chosen from a list, and that a person decides well once they know what they value; the course teaches both in that order. Tested when Kain reads Stage 1.
+
+## Stage 1: the two Help answers, then STOP for Kain's read
+
+| # | Question | Leads home to |
+|---|---|---|
+| 1 | Is there an online course that helps you work out your personal values? | 022 |
+| 2 | Is there an online course or training that improves your decision-making skills? | 022 |
+
+**Question 1** links the values exercises 022-013 to 022-015 by lesson name. **Question 2** is home 022, with the Mental Health and Wellbeing Practitioner Diploma Course (018, name from DSRD 5) named for the problem-solving method.
+
+**Then stop.** File the batch report with its status line. Kain reads both. Nothing in Stage 2 starts until Chat files his yes to the article type.
+
+## Stage 2: the eight articles under the values and decision-making hub, only on Kain's yes to the first five of job 5
+
+Under Recipe 8, byline Evelyn Montgomery, 850 to 1,250 words each. If no hub guide exists at drafting, log that link as a gap on each record and do not invent an address.
+
+| # | Question | Leads home to |
+|---|---|---|
+| 3 | Why do your personal values matter, in everyday life and at work? | 022 |
+| 4 | Is there a reliable personal values test, and how do you find your own core values? | 022 |
+| 5 | Is there a complete list of core values, and how do you choose yours from it? FLAGGED | 022 |
+| 6 | What is the difference between values, beliefs, principles and ethics? | 022 |
+| 7 | What are decision-making skills, and what does good decision-making actually look like? | 022 |
+| 8 | How do you improve your decision-making skills? | 022 |
+| 9 | Why are decision-making skills important, in life, at work and in leadership? | 022 |
+| 10 | How do your personal values influence the decisions you make? | 022 |
+
+**Question 4:** name real assessments (Barrett, others) only from their own pages fetched live; say honestly what any assessment can and cannot show; invent no test. **Question 5, FLAGGED:** read the 022-012 transcript first. If the lecture names values, any list in the article is taken from it and credited. If it names none, the article gives no list of its own, says plainly why (values chosen from a list are not the same as values discovered), points to the three exercises, and you log it in the report for Kain. **Question 6** draws on the Beliefs and Perception stance. **Question 8** stays at pattern level and links 018-033, 018-119 and 022-019 by lesson name. **Question 10** carries Achology's contribution (values before choices) and links 022-030. One run of eight, five first if Kain has not yet read a values article, then the rest.
+
+## The dropped questions: nothing is lost
+
+The MATCH file names what already answers each one: the nine signed C22 course questions and the lectures listed there. Link to a lecture article only by an address you have checked exists; where it is not yet published, log the link as a gap.
+
+## What comes back
+
+One batch report per batch into FROM Cowork, as the recipes and Rule 10 set out: the per-record gate printout; the contraction count for each section; the grader's voice check beside the right exemplar; every gap you logged; what you found in 022-012 for question 5. Help records go in the help-answer folder, articles in the hub-question-article folder. When the eight articles have final titles, list them in the report so Kain can make their pictures in Canva.
+
+## Definition of done
+
+Stage 1: two records, gated, graded, reported, and you have stopped. Stage 2: eight articles on Kain's yes to the article type. Nothing is imported or published under this brief.
+
+*No em or en dashes in this file; checked before writing.*
