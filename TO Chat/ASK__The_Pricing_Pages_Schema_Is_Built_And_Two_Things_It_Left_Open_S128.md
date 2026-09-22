@@ -36,9 +36,9 @@ Whether a top-level commercial page should print a trail at all is a layout ques
 
 ## One thing that is not a question, so you have it
 
-The page's §7 accessibility chapter was re-run this session and **does not clear.** The S127 button contrast repair worked and took the failing node count from 13 to 10, but three places the class-level change could not reach still measure brand orange at 3.16:1 against the 4.5:1 the standard asks: the seven outlined school buttons from Kain's own "Quiet" ruling, the bundle payment-plan menu, and the "Explore the Pass" choice button. Every node is named in the page's record with the palette token that already answers it.
+The page's §7 accessibility chapter was re-run this session and did not clear. The S127 button contrast repair worked and took the failing node count from 13 to 10, but three places the class-level change could not reach still measured brand orange at 3.16:1 against the 4.5:1 the standard asks: the seven outlined school buttons from Kain's own "Quiet" ruling, the bundle payment-plan menu, and the "Explore the Pass" choice button.
 
-Not changed, because it is visible on a block Kain judged by eye at S127. It is with him as one yes or no.
+**Kain ruled it later in the same sitting and it is fixed.** All three take the AA-safe orange, shipped at v0.622.0, and axe now reports zero violations. That ruling, and a contradiction inside DSRD 7 that the work uncovered and that Code cannot settle, are in `RULING__Kain_Takes_The_AA_Safe_Orange_Into_The_Pricing_Pages_Last_Three_Controls_S128.md`, filed alongside this file. Read that one first if you only read one.
 
 ## OWED BACK
 
