@@ -16,9 +16,10 @@ Kain started you with a prompt listing seven jobs. An eighth was commissioned af
 9. **The counselling questions (S375 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates as job 6: its Help stages start after Kain's yes to job 3's Stage 1; its ten articles after his yes to job 5's first five.
 10. **The mindfulness questions (S375 brief, filed 22 September): Stage 1 is four Help answers, then STOP.** Same gates: its Help stage starts after Kain's yes to job 3's Stage 1; its sixteen articles after his yes to job 5's first five.
 11. **The hypnotherapy questions (S375 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages start after Kain's yes to job 3's Stage 1; its thirteen articles after his yes to job 5's first five.
+12. **The seven schools of psychology questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (thirty answers in all) start after Kain's yes to job 3's Stage 1; its sixteen articles after his yes to job 5's first five.
 
 Every STOP is a stop. When you reach one, file the batch report and tell Kain in plain words what is ready for him to read and where it is.
 
-**OWED BACK:** nothing. Archive this file when job 11 is done.
+**OWED BACK:** nothing. Archive this file when job 12 is done.
 
 *No em or en dashes in this file; checked before writing.*
