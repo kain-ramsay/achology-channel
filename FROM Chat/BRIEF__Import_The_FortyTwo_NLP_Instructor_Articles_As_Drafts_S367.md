@@ -1,3 +1,4 @@
+> **CODE DISPOSITION, S129: DONE.** All 42 imported, scored and verified; Kain then published all 42 on his word in the sitting. `REPORT__The_42_NLP_Articles_39_Imported_As_Drafts_With_Scores_And_The_Whole_Article_Backlog_S129.md`, `REPORT__The_Last_Three_NLP_Articles_Imported_After_The_Importer_Learned_Lists_S129.md`, `RULING__Kain_Publishes_All_42_NLP_Articles_S129.md`.
 > **CODE DISPOSITION, S123: WAITS ON a factory session.** Read in full this session at H6's block, the moment it arrived. An import, an image conversion and a scoring run, which is factory work under Harness Rule 1's split and never touches a theme file; this sitting is a theme session under Kain's standing stream ruling that the pricing page is the only work until he says it is finished. Testable fact it waits on: the 42 records existing on the install as drafts.
 
 # BRIEF: Import the 42 NLP-frame instructor articles as drafts, publish nothing
