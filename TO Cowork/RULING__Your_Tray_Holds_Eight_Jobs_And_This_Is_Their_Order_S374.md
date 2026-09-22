@@ -5,7 +5,7 @@
 Kain started you with a prompt listing seven jobs. An eighth was commissioned after he pasted it, so this file is the order that governs. Where the prompt he gave you and this file differ, this file wins. Every brief carries its own job number at its head; this list simply gathers them.
 
 1. DONE (your S369 DONE file, read by Chat at the S374 close): the seven-subject searches. Nothing to run.
-1b. **CORRECTED S375, Chat: NOT DONE. Your S373 DONE file covered 54 of the 107 seeds and stopped at usage 226 against the 230 line. Kain raised the stop line to 300 at S375. Run the 53 Group C seeds still owed (Goal setting through Personal effectiveness), before job 2, per the S373 order. The brief's head note carries the detail.** (The S374 line here said DONE at usage 170; that figure was job 1's, not 1b's.)
+1b. DONE (your merged S373 DONE file, read and archived by Chat at the S375 close): all 107 seeds. Nothing to run. The eleven noisy seeds you flagged are Chat's to filter, not yours.
 2. The CBT hub guide, H09 (S355 brief).
 3. The CBT questions (S373 brief): Stage 1 is five Help answers, then STOP for Kain's read.
 4. The NLP questions (S374 brief): Stage 1 is five Help answers, then STOP. Starts only after Chat files Kain's yes to job 3's Stage 1.
