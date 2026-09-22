@@ -4,8 +4,8 @@
 
 Kain started you with a prompt listing seven jobs. An eighth was commissioned after he pasted it, so this file is the order that governs. Where the prompt he gave you and this file differ, this file wins. Every brief carries its own job number at its head; this list simply gathers them.
 
-1. The seven-subject searches (S369 brief). **Two of its life coaching seeds, "life coaching" US and "life coach" US, were run by Chat at S374; their sorted files are in the Demand Exports folder. Skip those two. Run the other nine life coaching seeds and every other subject as briefed.**
-1b. The remaining 107 searches (S373 brief). AnswerSocrates ends 17 October 2026.
+1. DONE (your S369 DONE file, read by Chat at the S374 close): the seven-subject searches. Nothing to run.
+1b. DONE (your S373 DONE file, same): the remaining 107 searches. Nothing to run. Usage 170 of 500.
 2. The CBT hub guide, H09 (S355 brief).
 3. The CBT questions (S373 brief): Stage 1 is five Help answers, then STOP for Kain's read.
 4. The NLP questions (S374 brief): Stage 1 is five Help answers, then STOP. Starts only after Chat files Kain's yes to job 3's Stage 1.
