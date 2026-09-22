@@ -29,9 +29,10 @@ Kain started you with a prompt listing seven jobs. An eighth was commissioned af
 22. **The confidence, self-esteem and self-worth questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (thirteen answers in all) start after Kain's yes to job 3's Stage 1; its thirteen articles after his yes to job 5's first five.
 23. **The emotional intelligence and emotional regulation questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (fourteen answers in all) start after Kain's yes to job 3's Stage 1; its seven articles after his yes to job 5's first five.
 24. **The purpose and direction questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (nine answers in all) start after Kain's yes to job 3's Stage 1; its eight articles after his yes to job 5's first five. Uses the CLEAN life-purpose file. Question 14 carries the crisis-language warning.
+25. **The leadership and influence questions (S376 brief, filed 22 September): Stage 1 is five Help answers, then STOP.** Same gates: its Help stages (eleven answers in all) start after Kain's yes to job 3's Stage 1; its nine articles after his yes to job 5's first five. Three home courses (017, 024, 001): each question names its own. Every leadership answer says plainly that Achology teaches leading yourself, not management.
 
 Every STOP is a stop. When you reach one, file the batch report and tell Kain in plain words what is ready for him to read and where it is.
 
-**OWED BACK:** nothing. Archive this file when job 24 is done.
+**OWED BACK:** nothing. Archive this file when job 25 is done.
 
 *No em or en dashes in this file; checked before writing.*
