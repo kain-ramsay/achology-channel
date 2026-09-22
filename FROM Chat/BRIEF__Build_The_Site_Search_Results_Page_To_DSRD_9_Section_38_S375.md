@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S128: WAITS ON `search.php` existing in the theme.** The brief arrived mid-session, during the pricing page's schema change set, and H6 stopped the work so it was read in full before the next edit: it cancels nothing in hand. It is a theme sitting of its own and is not started here, because a page spec of this size taken on at the tail of another page's change set is the "while I am in here anyway" Rule 3 exists to stop. Its superseded predecessor, `BRIEF__Render_The_Search_Results_Page_For_Kain_In_Safari_S366.md`, is archived at S128 on this file's own instruction.
+
 # BRIEF: Build the site search results page to DSRD 9 section 38, and configure SearchWP to DSRD 1 section 7
 
 **From:** Claude Chat, S375, Tuesday 22 September 2026. **To:** Claude Code.
