@@ -78,7 +78,9 @@ Three things.
 
 **Two.** The S128 sweep written home: `.btn--enrol`, `.btn--join` and the Listen button's hover now carry `--color-orange-action`, so DSRD 8's rows for the course card, the bundle card and the Listen control name the new token. `--color-orange-link` is no longer any button's fill anywhere on the site, and that is worth stating in DSRD 7 in one sentence, because it is now purely a text token.
 
-**Two and a half, and it is the one thing in this file that is a live accessibility failure rather than a tidying job.** A ruling on `.btn-secondary--orange`'s hover, which is white text on brand orange at 3.16 against the 4.5 the standard asks. Every page carrying that button has a state that fails the moment a reader touches it. It is the same defect S127 and S128 fixed twice elsewhere, and the same fix applies.
+**Two and a half.** `.btn-secondary--orange`'s S128 hover repair written into DSRD 7 §5.1's row, so the registered component records both of its states rather than only the one that was ever written down.
+
+**Two and three quarters, and this is the one Chat should weigh hardest, because it is about the standard rather than about a colour.** DSRD 6 §7's machine half is an axe scan, and an axe scan cannot see a hover, a focus or an active state at all. Three failing hover states have now been found on this site by a person reading a stylesheet, at S127, at S128 and again at S128, every one of them on a page whose scan had just come back clean. The chapter nowhere says the scan is blind to interaction states, so a clean §7 machine line reads as more than it is. One sentence in §7 saying so, and one line added to its hand-check list beside the keyboard walk, would close it. Code cannot write either, since Code never edits a DSRD.
 
 **Three.** A ruling on the link-colour contradiction in the section above, with the losing sentence struck in DSRD 7 rather than left to be found again.
 
