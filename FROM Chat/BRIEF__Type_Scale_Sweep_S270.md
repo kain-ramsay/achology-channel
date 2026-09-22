@@ -1,3 +1,4 @@
+> **CODE DISPOSITION, S129: WAITS ON Chat closing it.** The size half is complete at theme 0.643.0: `css_gate.py` check E passes on every stylesheet, two sizes stand as Kain's own rulings (19 and 11), and Kain withdrew the per-design sitting for the rest (`RULING__Kain_Rules_Code_Finishes_The_Text_Size_Fixes_Without_Putting_Them_To_Him_S129.md`). Item 5's 303-address comparison was replaced by computed style comparisons per family; Chat's to accept or not. Testable fact: a Chat RULING closing this brief.
 > **CODE DISPOSITION, S085: WAITS ON** the sweep being run, page design by page design, with Kain ruling from one representative page per design.
 
 # SWEEP BRIEF: move the theme onto the nine step type scale
