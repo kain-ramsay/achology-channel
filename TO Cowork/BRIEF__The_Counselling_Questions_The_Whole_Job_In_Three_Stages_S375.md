@@ -1,3 +1,5 @@
+> **RETITLED S376, Kain's wording read: every counselling question here now drafts to its ruled title,** listed in full in the counselling MATCH file under "RULED TITLES, S376". The ruled title replaces the question wording in the tables below; numbers, homes and notes are unchanged. No title mentions Kain Ramsay by name.
+>
 > ORDER, set at S375 (22 September 2026): JOB 9 in this tray, after the 74 older book notes (job 8). Chat placed it here and told Kain; he can move it. **Its Stage 1 does not start until Chat files Kain's yes to Stage 1 of the CBT questions brief** (job 3), because that read is the acceptance run for the Help answer type. **Its Stage 3 articles do not start until Chat files Kain's yes to the first five of job 5,** the acceptance run for the article type.
 
 # BRIEF: the counselling questions, the whole job, in three stages
