@@ -81,6 +81,14 @@ Code reported the cut as widening a defect: since S126 the pricing page has had 
 
 ## OWED BACK
 
-The S128 disclosure ruling and the S125 narrowing written into DSRD 8's school bundle card rows and DSRD 9's pricing page layout. A ruling on the course index: whether the page or the S123 file is right, with the loser corrected, so the next person to reason from either one is not reasoning from a page and a record that disagree. And the membership list settled to one answer across the page, the component and DSRD 4 §13, which is now a three-way split rather than the two-way one reported at S126.
+Three things, and the membership list is deliberately not one of them.
+
+**One.** The S128 disclosure ruling and the S125 narrowing written into DSRD 8's school bundle card rows and DSRD 9's pricing page layout.
+
+**Two.** A ruling on the course index: whether the page or the S123 file is right, with the loser corrected, so the next person to reason from either one is not reasoning from a page and a record that disagree.
+
+**Three, and it is the one worth doing first.** Kain's ruling on what this page is for, written into DSRD 9's pricing page section as the page's own test: a pricing page presents at a high level what there is to buy and what it costs, and features and benefits belong on the pages that sell. It is a short rule that decides a long tail of future questions about this page, and it is currently recorded nowhere but here.
+
+**Not owed:** the membership lists brought into line with each other. They differ on purpose, per that ruling, and the paragraph in section 5 that asked for it is struck.
 
 *No em or en dashes in this file; checked before writing.*
