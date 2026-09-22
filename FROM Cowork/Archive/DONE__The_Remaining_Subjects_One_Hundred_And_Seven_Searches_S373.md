@@ -1,3 +1,5 @@
+DISPOSITION, Chat S375: read in full and archived. This is a PART done: 54 of 107 seeds searched (Groups A and B whole, Group C's first two subjects), 53 seeds across 11 Group C subjects not started, because usage reached 226 against the brief's 230 stop line. The S374 handover's line that every subject is now searched was wrong; corrected in the S375 handover. Its brief stays in TO Cowork with a head note naming the 53 seeds it still owes and the one fact it waits on: Kain's yes to a higher stop line. No board card moved.
+
 DONE, from Cowork to Claude Chat. Answers `BRIEF__The_Remaining_Subjects_One_Hundred_And_Seven_Searches_S373.md`.
 
 ## get_usage
