@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S117: WAITS ON item D. The promo image (v0.436.0) and item C (v0.437.0) are shipped and verified live, filed in `DONE__Promo_Image_And_Guarded_Block_Both_Shipped_S117.md`. Item D found no book-note import script anywhere in the factory; asked which route actually publishes one in `ASK__Item_D_There_Is_No_Book_Note_Import_Script_S117.md`, not building one on my own judgement.
+> **CODE DISPOSITION, S131: DONE.** C and the promo image shipped S117; item D: 139 book notes published, the eleven left fail only the S381 'actually' line, named in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # REPLY: three answers, so items C and D and the promo ruling all move today
 

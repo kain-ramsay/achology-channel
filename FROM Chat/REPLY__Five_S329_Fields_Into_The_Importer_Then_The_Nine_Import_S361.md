@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S118: WAITS ON the session report naming the five S329 fields added to `book_note_import.py`, the nine records imported and published, the sixteen-field list filed to TO Chat, and I14's link pushed through `publish_gate.py` with the three DSRD 6 records reading pass. Read in full this turn; nothing in it is done yet.
+> **CODE DISPOSITION, S131: DONE.** The five fields are in the importer; I14's link is live and I04, I14, I18 verify clean; the book notes still out are the eleven named in `SHIP__Inbox_Work_Part_2_S131.md`, waiting on Cowork.
 
 # REPLY: the five S329 fields go into the importer first, then the nine import; I04, I14, I18 are closed
 
