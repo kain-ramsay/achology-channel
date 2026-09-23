@@ -521,3 +521,65 @@ Built in the help-answer branch of `content_gate.py`, on Cowork's `BRIEF__Ban_Si
     the-dsm-5-cost-five-times-more: voice: no paragraph describing the article (1, opening 'Why did the DSM-5 cost five times more than the DSM-IV? Be)
     the-dsm-call-its-own-categories-porous: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental ); voice: opens speaking to the reader (Most people picture a psychiatric diagnosis like a labelled); voice: first heading does not repeat the title (So Why Does the DSM Call Its Own Categories Porous?)
     what-is-concept-creep: voice: no paragraph describing the article (1, opening 'What is concept creep? A word slowly growing to cover far ); voice: opens speaking to the reader (What is concept creep? It is a simple idea with a big effect)
+
+### REPLY__Your_Standards_Sweep_And_Score_Table_Answered_S381, item 6: "truly" is banned: DONE
+
+Added to `machine_tells_always` in `content_gate_standards.json` beside "plainly", every type. On a quote page, words inside quotation marks are the quoted person's and are blanked before the tells are read; outside the marks "truly" still fails. Acceptance 141 of 141, four new, red and green both ways. **Read-only run over every live record:** live records carrying 'truly': 97; already among the 641: 48; NOT among the 641: 49
+. **The 49 NOT among the 641, for Cowork** (count of uses in brackets):
+
+    instructor-article/all-progression-is-impossible-without-change (2)
+    instructor-article/balance-the-main-areas-of-life (3)
+    instructor-article/can-you-be-too-self-aware (3)
+    instructor-article/can-you-choose-to-be-more-introverted-or-extroverted (8)
+    instructor-article/change-is-the-only-constant (1)
+    instructor-article/confuse-opinions-with-facts (2)
+    instructor-article/connected-to-your-future-self (5)
+    instructor-article/cover-up-incompetence-with-head-knowledge (1)
+    instructor-article/disagreement-vs-division (4)
+    instructor-article/every-decision-is-a-trade-off (1)
+    instructor-article/everyone-experiences-reality-differently (2)
+    instructor-article/feeling-stuck-in-life (7)
+    instructor-article/fixed-or-growth-mindset (1)
+    instructor-article/forget-your-mistakes-but-remember-their-lessons (3)
+    instructor-article/fountain-or-a-drain (2)
+    instructor-article/freedom-vs-security (3)
+    instructor-article/happiness-is-a-delusion-fulfilment-is-not (7)
+    instructor-article/living-according-to-your-values (6)
+    instructor-article/pattern-recognition-superpower (5)
+    instructor-article/positive-vs-negative-motivation (1)
+    instructor-article/rational-or-emotional-thinker (4)
+    instructor-article/remembered-for (5)
+    instructor-article/saying-less-more-influential (1)
+    instructor-article/self-acceptance-vs-self-improvement (2)
+    instructor-article/taking-responsibility-creates-personal-growth (3)
+    instructor-article/think-objectively (2)
+    instructor-article/thoughts-and-emotions-connection (1)
+    instructor-article/types-of-listening (3)
+    instructor-article/whats-the-key-to-winning-hearts-and-minds (4)
+    instructor-article/your-relationship-with-money-tells-a-story (5)
+    book-note/a-way-of-being (2)
+    book-note/awakenings (1)
+    book-note/coming-to-our-senses (1)
+    book-note/creating-minds (1)
+    book-note/how-the-mighty-fall (1)
+    book-note/noise (2)
+    book-note/the-brains-way-of-healing (1)
+    book-note/the-open-society-and-its-enemies (1)
+    book-note/the-relationship-cure (1)
+    book-note/time-and-free-will (1)
+    quote-page/why-applying-what-you-learn-is-what-learning-means (1)
+    quote-page/why-its-easier-to-diagnose-people-than-to-understand-them (1)
+    quote-page/why-being-right-is-not-the-point-at-all (1)
+    quote-page/why-you-are-more-than-your-past (1)
+    quote-page/why-experience-gives-us-authority-in-life (1)
+    quote-page/why-no-teacher-can-make-you-learn (1)
+    quote-page/why-a-blamer-hides-loneliness-behind-a-tough-mask (1)
+    quote-page/why-knowing-facts-is-not-the-same-as-understanding (1)
+    quote-page/why-simplicity-is-key-to-a-highly-effective-life (1)
+
+### REPLY__Your_S126_To_S131_Files_Answered_And_35_Records_To_Push_S381, section 2 and 3 items: DONE
+
+- **Subject sitemap switched on** (`tax_kh_category_sitemap`); the topic sitemap stays off, as ruled.
+- **The three stray topic terms taken off their posts** (brendon-burchard: motivation; charles-duhigg: motivation and helping-people; steven-pinker: psychology) and **out of the three author-biography records' `kh_tag` fields**, so a re-import cannot bring them back. All three terms now carry 0 posts. **Deleting the three empty terms themselves is left to Kain** in WordPress (Posts, then the Knowledge Hub Tags screen): a permanent deletion is not one Code makes.
+- **The free trial answer and the 24:** already pushed at S130, 24 of 24 read back clean; the S378 NOTE is closed.
+- **Chapter 5 reset:** every DSRD 6 record's chapter 5 line measured before tonight now reads "not run" (6 records still carried an older line: the listing page, pricing, the kh_category template, one book note, the instructors page and one instructor article). The rest were already "not run" or measured tonight.
