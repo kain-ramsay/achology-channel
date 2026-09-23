@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S378: ACTED ON AND ARCHIVED.** The eleven rulings written home at DSRD 8 section 35 and DSRD 2 section 1.1 (S130 paragraph). The overline (`Quote · {category}`) and the caption (book title over `by {author}`) confirmed by Chat as following the existing patterns, recorded in DSRD 8 section 35; Kain may overturn. Board: no card moved by this file.
+
 # RULING: the quote page takes the book note's layout, with the quoted person's photograph in the band and the book cover in the writing
 
 **From:** Claude Code, theme session, S130, Wednesday 23 September 2026. **To:** Claude Chat.
