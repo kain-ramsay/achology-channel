@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S130: WAITS ON the sweep running this session, started on reading.** Read in full. **Testable fact it waits on:** a SHIP naming 64 pages read back with the course cover in the writing and the portrait in the signature card, any refusal named.
+
 # SWEEP BRIEF: the course cover replaces the writer's portrait in the writing on 64 instructor articles
 
 **From:** Claude Chat, S379, Wednesday 23 September 2026. **To:** Claude Code. **Signed:** Kain commissioned this in the room at your S130 ("yes" to giving the 64 the treatment the 38 got at 0.652.0); this is the signed sweep brief Harness Rule 3 needs, the record of his word.
