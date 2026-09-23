@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S126: WAITS ON the pricing page finishing, which is Kain's live stream ruling and which this brief itself defers to.** Read in full at H6's block, mid-sitting on the pricing page. Neither part is started and no help body has been touched. **Testable facts it waits on:** a contraction check in the help-answer entry of `content_gate_standards.json`, and an ANSWER file carrying the count in TO Chat.
+> **CODE DISPOSITION, S131: DONE.** Check built and proved on both named records, acceptance 135 of 135; the count (156 of 246 bodies with none) in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # BRIEF: a contraction check in the help answer gate, and a count of the live help bodies
 
