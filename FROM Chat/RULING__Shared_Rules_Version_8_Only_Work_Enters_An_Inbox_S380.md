@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: DONE.** Section 6 of The Shared Rules Version 8 read; from this point Code files to TO Chat only what needs Chat, first line saying what, and files finished work to the Archive.
+
 # RULING: The Shared Rules Version 8. Only work enters an inbox.
 
 **Needs from Code:** read section 6 of The Shared Rules and file to it from your next session. Factory and theme sessions both.
