@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: WAITS ON a theme session.** Read in full on arrival. It changes theme CSS and renders five components for Kain's eye, and Kain ruled this session backlog only, no design or template work; it goes first in the theme queue.
+
 # BRIEF: the one text line sweep, DSRD 7 section 4.4a, all 44 built pages
 
 **Needs from Code:** apply the rule below to `MEASURED__Left_Text_Edges_On_44_Built_Pages_S131`, straight swap what you can, and bring back one list of what you cannot.
