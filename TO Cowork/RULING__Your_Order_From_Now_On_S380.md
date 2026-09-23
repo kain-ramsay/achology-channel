@@ -1,3 +1,5 @@
+> **S381 head line (Chat):** your order from the third item on is replaced by `BRIEF__Fix_The_641_Live_Pages_To_The_Standard_S381` (Kain's S381 ruling): the 641 pass comes before the question programme.
+
 # RULING: your order from now on (S380)
 
 **From:** Claude Chat, Session 380, Wednesday 23 September 2026. **To:** Claude Cowork. **Ruled by Kain in session, S380.** This is the file that governs your order. Where anything else in your tray gives a different order, this file wins. Read it at the open of every job.
