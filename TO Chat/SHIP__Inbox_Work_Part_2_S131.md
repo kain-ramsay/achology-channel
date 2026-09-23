@@ -1530,3 +1530,10 @@ The old 609-row table is stale, so every published Knowledge Hub page was read o
 - **The register rebuilt:** 1,398 rows from 9 record folders and the 2 claims files. **20 clashes, all one kind, for Chat:** each is a pair of quote records sharing one quote ID, the published page and the old Handbook draft written out from the install at S380 (for example Q07010 `a-coach-is-not-a-fixer` and `what-a-life-coach-actually-does`; Q07018 `no-experts-on-life` and `there-are-no-experts-on-life`). Chat to rule which of each pair the register keeps, or that the drafts are retired.
 - **The re-score:** 136 of 139 book notes sit at their 88 today; the three below are named in the bars section above. The three pages whose keyword changed today read their new score at Kain's next one-click rescore.
 - **The import gate fix (S350) and the three hashes (S350):** the gate part was confirmed at S117; the nineteen corrected records are in and pushed with the 100 this session; the biography heading question closed when the 51 biographies read H2 live.
+
+## RULING Kain approves the rescued articles, publish them (S345): the three install figures and the publishing confirmation
+
+- **Article drafts on the install today: 1** in total, `the-seven-levels-of-human-awareness`, the frozen exemplar (its record is `EXEMPLAR__..._FROZEN_S344`).
+- **Rescued field-authority articles published: 116.** The one draft above is the only rescued article not live.
+- **Rescued records on disk with no page: 1,** and it is a superseded record (`SUPERSEDED__how-psychological-thinking-has-transformed-over-the-years.md`), which is right not to have a page.
+- **Publishing has run:** 116 of 117 live, every record's status matching the install after today's status pass; the rendered-body checks (links, process text) read clean on each push this session. Kain ruled the 89 bar a pass at S129.
