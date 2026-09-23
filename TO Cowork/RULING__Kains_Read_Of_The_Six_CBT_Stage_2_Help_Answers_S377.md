@@ -56,4 +56,19 @@ Kain said yes on S377.
 
 **Also check the Stage 1 how-to-become answer.** Its sourcing (the same Health Careers read) may carry the same PWP-first claim. If it does, report it; do not change an approved answer without Kain's yes.
 
+### 6. how-to-become-a-cbt-coach: YES, with four fixes
+
+Kain said yes on S377.
+
+1. In "What Actually Separates Coaching From Therapy?", name the body: replace "A global body for coaching" with "The International Coaching Federation".
+2. **Take Achology's voice off diagnosis.** "A therapy client might come in with genuine, diagnosable distress that needs treating first" puts Achology behind diagnosis, which The Achology Stance (vault) questions. Say instead that someone in real, serious distress is better served by a therapist first, and attribute that to the International Coaching Federation's own referral guidance, which is already the record's source. Where the ICF's own coaching-versus-therapy line mentions dysfunction, keep it clearly as the ICF's wording, not Achology's.
+3. Cut the padding: the third paragraph of "Is There a Formal Coaching Accreditation for This?" ("Some people pursue a general coaching credential afterwards..."), and the last two paragraphs of "Does Achology Offer a Route Into This?" ("Someone finishing both..." and "That's a deliberate choice..."). The no-promise point is already made once, which is enough.
+4. In "Where Can You Learn CBT and Coaching With Achology?", cut "Achology teaches it directly." and "also taught in-house". Also remove "Kain Ramsay teaching both" from the sourcing record.
+
+If the cuts pull density or reading ease out of band, fix it with real content, never by restoring the cut lines.
+
+## Status
+
+All six ruled on S377: six yeses, each with its fixes above. Stage 2 is approved subject to these fixes. Report back in one DONE file once all six are fixed, retitled and gate-passed, including the finding on the Stage 1 how-to-become answer.
+
 *No em or en dashes in this file; checked before writing.*
