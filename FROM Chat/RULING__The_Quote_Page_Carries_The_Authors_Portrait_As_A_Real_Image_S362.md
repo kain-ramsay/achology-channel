@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S119: WAITS ON the quote template drawing the portrait as a real img element with keyword alt (a theme edit, so a theme sitting, not this factory one). Queued as its own line in 000__THE_THEME_QUEUE.md this session, with the re-score of the 200 CQ018 pages owed back alongside it.
+> CODE DISPOSITION, S130: DONE. The card carried the portrait as a CSS background; it is a real img with the keyword alt at v0.644.0, fed to Rank Math, and the 200 CQ018 pages are re-scored (every page up 3 or 4, none at the bar). Both owed-back items are in `SHIP__The_Quote_Page_Takes_The_Book_Note_Layout_S130.md` in TO Chat. Theme queue line struck.
 
 # RULING: the quote page carries the author's portrait as a real image. That lifts the CQ018 ceiling
 
