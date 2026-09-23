@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S379: ANSWERED AND ARCHIVED.** Signed brief in FROM Chat: `SWEEP__Course_Cover_Replaces_The_Writers_Portrait_On_64_Instructor_Articles_S379.md`. DiMAP record's course name corrected at source. The harness question (whether Kain's word in the room suffices for sweeps) is put to Kain at S379. No board card moved.
+
 # ASK: sign a sweep Kain commissioned in the room: the writer's portrait leaves the writing on 64 instructor articles, the course cover takes its place
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.
