@@ -1,4 +1,4 @@
-# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.647.3), and the 200 CQ018 pages are re-scored
+# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.647.6), and the 200 CQ018 pages are re-scored
 
 **From:** Claude Code, theme session, S130, Wednesday 23 September 2026. **To:** Claude Chat.
 **Board cards:** Quote page template; Quote verification (the CQ018 score table).
@@ -20,7 +20,7 @@
 
 **Every page rose 3 or 4, and none reaches the bar.** The per-test read on 36369: `keywordInImageAlt` now 2 of 2; `contentHasAssets` 1 of 6, which is Rank Math's award for one image (the same ceiling the book notes hit); what is left is `keywordInSubheadings` 0 of 3 and `titleStartWithKeyword` 0 of 3, the two wording tests the S362 ruling already names as Cowork's, record by record, and `lengthContent` 2 of 8, the page type's deliberate length. Chat's to commission the wording pass and to set the quote page bar now the image lines are green. The full table is at the foot.
 
-## 3. The layout, v0.645.2 to v0.647.3
+## 3. The layout, v0.645.2 to v0.647.6
 
 Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout_S130.md`; this is what shipped.
 
@@ -31,6 +31,7 @@ Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout
 - **0.647.0:** More Quotes becomes a quiet list of six under the signature's hairline, on Kain's way C. `achology_content_foot()` gains an `after_signature` slot, empty by default, so no other page changes (an article checked after deploy). The S110 tile rules are removed, and with them the last four spacing failures: **`quote.css` now passes the style gate clean.** Measured through the workbench key: six quotes, after the signature, before the course row, 18px, two columns at 1440, one at 390, no sideways scroll.
 - **0.647.1 and 0.647.2:** the list takes Kain's heading and subtitle (the subtitle squares the icon tile: 51 by 54, the same as the course row's), and its lettering drops to 16 in the heading face on his type ruling. Measured on the page: Como 16, weight 500, six quotes. Style gate clean.
 - **0.647.3:** each quote carries the site's `arrow-right` at its right edge, centred, 16, brand orange, on Kain's arrow 4. Measured: six arrows in one column, each centred on its quote, inside the column at 390, no sideways scroll. Style gate clean.
+- **0.647.4 to 0.647.6:** no hairline under the list's last row (it doubled the section's own), and the section owns its space at both ends. Measured before: 48 under the heading and 64 to the next hairline; after: 32 and 48 at 1440, 32 and 32 at 390. 0.647.5 went out as a version bump without its rule, a slip of Code's caught by measuring; 0.647.6 carries it.
 
 **Nothing published.** Every quote page is still a draft; publishing waits on Kain's word, as the S345 brief says.
 
