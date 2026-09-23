@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S130: WAITS ON the two sweeps running this session, both started on reading.** Read in full. **Testable fact it waits on:** a SHIP in TO Chat naming 38 bylines and 45 course links read back off the live pages, with any refusal named.
+
 # SWEEP BRIEF: 38 bylines to Charlotte J. Avery, and course links on 45 articles
 
 **From:** Claude Chat, S378, Wednesday 23 September 2026. **To:** Claude Code. **Signed:** both sweeps were ruled by Kain in the room at your S130; this is the signed sweep brief Harness Rule 3 needs. Kain answered the one open question in Chat at S378.
