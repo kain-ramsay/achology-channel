@@ -1322,3 +1322,17 @@ Read off the install and the plugin's own code, S131.
 4. **What can be indexed:** one engine can index every post type. **Two engines exist and neither covers everything:** "Default" indexes articles, book notes, quotes and workbooks; "Help" indexes help answers only. **Ordinary WordPress pages are in neither**, and there are no course or school pages on the install to index yet. Registration excludes only `review` (`exclude_from_search` true, in `reviews-setup.php`) and WordPress's own internal types; every Knowledge Hub type, help answers and pages are searchable by registration. The index holds 929 items: 269 articles, 139 book notes, 250 help answers, 271 quotes.
 5. **The header control: not on the live site.** The live header carries no search field, form or button (read off the homepage's HTML), and `header.php` has no search; the S321 control exists only in its render. The theme has no `search.php`, so there is no search results page either (the S375 brief for it waits on a theme session).
 6. **Engines:** two, as in 4.
+
+## ASK What is actually left on the Reviews page (S366): the five answers
+
+1. **Published:** 4,516 reviews published, 1 draft, read off the install today. The live page title reads "4,516 Verified Ratings".
+2. **Theme tag and title:** none of the 4,516 carries either. The AI pass that was to write them never ran (reviews-setup.php says so). 0 have them, 4,516 do not.
+3. **Featured or standouts:** no featured or standouts block on the live page, and is_featured is 0 on all 4,516.
+4. **The four rulings, read off the channel:**
+   - Visible theme filter wording: **never ruled.** It waited on a Safari sitting (NOTE__Prepare_Reviews_Page_Two_Rulings_For_Safari_Sitting_S278, open since S085) that never happened. The live page filters by Course and Rating, plus a search box; there is no theme filter, and it cannot exist until item 2 is done.
+   - Country map: **ruled in part.** Kain approved the Global Impact map on the Reviews page at S053, desktop, tablet and phone, and ruled the compass and users glyphs on its country panel (Archive, RULING__Country_Panel_Glyphs_S053). It is live on /reviews/. The DSRD 4 section 14.2 placement line for Reviews is the open half, and it is Chat's.
+   - Verified badge: **not ruled.** Kain asked for it at S053; Code rendered two stand-ins and asked Chat for a registered "verified reviewer" glyph in DSRD 7 section 5.2 (Archive, RULING__Reviews_Copy_And_The_Verified_Badge_S053, section 4). No answer is on record and no badge is on the cards.
+   - Link placements: **ruled at S053** (footer Useful Links: Student Reviews replaces Free Public Events, INSTRUCTION__Footer_Useful_Links_Student_Reviews_S053). Today, live: About links to /reviews/, Testimonials links to /reviews/, and Reviews links to /testimonials/. The About link that S054 reported missing is now there.
+5. **DSRD 6 record:** yes, Proof + Funnel Design Prototypes/Verified Student Reviews Page/DSRD6_RECORD.md. Pass: lines 1, 2, 3, 6, 10. Fail: line 7 (one axe violation, 2026-08-14) and line 11 (one live-page fault, 2026-08-24). Not run: lines 4 (reverted by S267), 5, 8 and 9. The overnight sweep re-measures the machine lines; its report follows.
+
+So what is left on the card: the AI pass for themes and titles (then the theme filter and its wording, Kain's at a sitting), the badge glyph (Chat), and the record's lines 4, 5, 7, 8, 9 and 11. Theme work, so it sits in the design stream, not this session.
