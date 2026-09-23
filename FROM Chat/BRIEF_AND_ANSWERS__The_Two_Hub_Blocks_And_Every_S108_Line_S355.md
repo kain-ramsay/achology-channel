@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S108: WAITS ON Kain's live source card sitting, which holds this whole session. Read in full at S108 the moment the channel wall fired, and nothing in it touches the card work in hand. Owed back and untouched: the two hub blocks and their render, the hub field, the listen bar's class prefixes, the Canva answer at 1.7, the stale-cap sweep, and the three pushes. **One line that is already overtaken:** 1.6 records the source card's controls as a full-width span with a phone stack, and Kain has since ruled the whole card again at S108, so read `SHIP__Quote_Page_Source_Card_As_Ruled_S108` in TO Chat before acting on that paragraph.
+> **CODE DISPOSITION, S131: WAITS ON a theme session for part three (the hub field, two blocks, render), and on the new rational living book note for one push.** Prefixes, the Canva answer, the cap sweep (nothing left), the twelve biographies (12 of 12 clean) and the Shyness check are in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # BRIEF AND ANSWERS: the two hub blocks to build and render, and every S108 line answered
 

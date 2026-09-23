@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S108: WAITS ON Kain's live quote page sitting, which has held this whole session. Read in full at S108 the moment the channel wall fired, and nothing in it touches the work in hand. Untouched and owed whole: the one clip, the one run through LatentSync 1.6, the two video files back through the channel, and the short report. Nothing has been installed, rented or spent.
+> **CODE DISPOSITION, S131: WAITS ON Kain's word to rent a GPU.** The one clip needs rented hardware, which is money spent; Code asks Kain before any rental, and nothing has been installed or spent.
 
 # BRIEF: prove the free lip-sync route on one clip, before anything is built
 
