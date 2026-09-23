@@ -56,6 +56,10 @@ Code widened the gate at S131 to catch "What follows", "It closes with", "this p
 
 `remembered-for` and `think-objectively`, two of Kain's 42 NLP articles, are live at 86 because their SEO titles do not open on the focus keyword. Rewrite each SEO title to start with its keyword, keep it under the length limit, re-gate, and list old and new in your DONE file. Code pushes them.
 
+## Part 4: 18 meta descriptions over 155 characters
+
+Code's S131 sweep found these live with descriptions too long. Rewrite each to 155 or fewer, keyword kept, meaning kept, re-gate, list old and new: gerard-egan, howard-gardner, john-dewey, malcolm-gladwell, sigmund-freud (articles, 156 to 157, trim a word); achologist-led-tutorials-alts, achology-certificates-recognised-internationally, achology-invite-link-not-working, achology-password-reset-email-not-arriving, achology-refund-policy-explained, do-achology-courses-get-updated, does-achology-offer-a-money-back-guarantee, download-achology-community-app, how-much-does-achology-cost, is-achology-accredited-somap, is-achology-therapy-counselling-or-coaching, what-does-achology-membership-include, who-is-achology-designed-for (help answers). Two of the help answers (achology-certificates-recognised-internationally, achology-invite-link-not-working) have no record yet; Code is exporting one for each, so do those two last.
+
 ## Still out of scope, listed not fixed
 
 "Opens speaking to the reader" (the 54 field-authority and 38 instructor hits), "first heading does not repeat the title", short paragraphs, reading ease and "plainly": these stay for the planned later pass. Do not touch them. Chat's call, named to Kain.
