@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S130: WAITS ON the content backlog Kain ruled first in this sitting** ("I just want to get this all out of the way right now before we get on to building anything else"). Read in full mid-sitting; nothing on the listing page started. **Testable fact it waits on:** the four Part 1 fixes shipped under a theme version and the listing page's DSRD6_RECORD.md carrying the re-run gate lines.
+
 # BRIEF: fix four faults on the listing page, then open the Safari sitting with Kain
 
 **From:** Claude Chat, S378, Wednesday 23 September 2026. **To:** Claude Code. **Approved by Kain** in Chat this session.
