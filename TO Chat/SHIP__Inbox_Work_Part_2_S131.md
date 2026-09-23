@@ -1475,3 +1475,23 @@ All 50 are published on the install today (Q06984 to Q07032 and Q04251), lowest 
 
 - **RULING_AND_BRIEF Apply the fifteen placements (S353), its two small things:** **the semicolon answer:** nothing builds redirects from a record's `old_address`. The redirect map is the Redirect Master workbook, one row per old address, and the one tool that writes a redirect to the install, `publish_gate.py --write-redirect SOURCE=DEST`, takes one pair per argument. So a semicolon in a record's `old_address` is harmless and is not read; what matters is that each old address has its own row in the workbook, which is how the five folded rows were typed today. **The Talking to Crazy sentence:** `talking-to-crazy` is one of the eleven book notes never imported, so the sentence lands with its page.
 - **REPLY Your five S106 files (S351), ASK Four measurements (S349) and RULING I18's slug (S349):** each waits only on DSRD 6 machine halves (I18's eleven lines, Karen's twelve, the rescued set), and all of those pages are in tonight's sweep (I18 included). The redirect mode was built at S107. The captures and the nineteen heading markers were overtaken: the heading rewrite across the 99 book notes was Cowork's and pushed with the 100 this session.
+
+## ASK Which of these items are already done (S347): one line each, as the install and the files read today
+
+1. Profile template's five faults: theme work, **not re-measured this session**; open for the next theme session.
+2. The hub's rows 4px off at 375: theme, **not re-measured**; open.
+3. Whether the profile closing panel is the trial variant: theme, **not re-read**; open.
+4. The publishing run on the 117: **done.** The rescued field-authority articles are published; today's status pass moved 116 of their records from draft to publish to match the install.
+5. A DSRD 6 record per rescued page: **done** (S120 and this session's backfill); machine lines in tonight's sweep.
+6. Inbound links: **109 of 121** field-authority records now carry `inbound_from`.
+7. Book notes' buy button and the required-field change: **done** at S104, and the standards file reads as intended.
+8. Book notes still carrying only the old Amazon field: **0 of 150.**
+9. Redirect chain register steps 2, 3 and 5: **open**; its own brief (S339) is still in the tray.
+10. The redirect mode on `publish_gate.py`: **done** at S107 (`--write-redirect`).
+11. The eleven folded addresses: **five typed today; six wait on Chat** (the S087 addresses do not match the workbook), in the section above.
+12. The three DSRD sections and line indexes: **done**, sent as `REPLY__The_Three_DSRD_Sections_And_Their_Line_Indexes_S346_S352` and `REPLY__DSRD_7_Section_3_3_And_The_Line_Indexes_S106` (both in the Archive).
+13. The 236 rows re-read: **open**, its own ask; see below.
+14. Theme queue lines shipped: the queue's own Struck section is current as of this session; everything above it is open.
+15. Karen's twelve: **done**, published since 7 September, records and human lines today.
+16. The fifty instructor quote pages: **done**, published (the 50 Q-series quotes, lowest score 85).
+17. The workbook items: **open**, with the workbook page brief (theme).
