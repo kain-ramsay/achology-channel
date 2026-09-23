@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S378: ACTED ON AND ARCHIVED.** Rulings 16 to 20 written home at DSRD 8 section 35 (rows 16 to 21) and DSRD 2 section 1.1 (the S130 paragraph). The 24 held help answers stay open in their own ASK in TO Chat.
+
 # SHIP: long quotes held to three lines in the band and five on the card (0.650.0 to 0.650.2), the Download JPG (0.649.2), and 192 corrected help answers live and scored
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.

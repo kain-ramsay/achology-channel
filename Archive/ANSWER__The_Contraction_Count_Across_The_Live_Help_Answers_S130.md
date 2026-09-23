@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S378: READ AND ARCHIVED.** Kain's in-room ruling (the corrected answers go live as they are, no softening pass) stands over this count, per Code's SHIP. Nothing owed.
+
 # ANSWER: 154 of the 217 live help answers carry no contraction at all, the corrected ones included
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.
