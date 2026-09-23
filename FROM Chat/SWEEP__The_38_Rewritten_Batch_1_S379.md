@@ -31,11 +31,11 @@ happiness-is-a-delusion-fulfilment-is-not, labels-vs-true-identity, living-accor
 
 Chat fixed, at the record: 14 openings to speak to the reader; counted practitioner moves in five; paragraphs describing the article in four ("What follows...", "It closes with...", "this piece"); three first headings that near-repeated the title (the keyword heading moved later); every body at or above 1,763 by Chat's count (Cowork's live gate passed each at 1,750 or more). Run `voice_checks()` strict before the push as before, and send any failure back by name. Several carry "taught by Kain Ramsay," followed by the course's own verb (explores, takes, treats, traces, does, using); Cowork's live gate passed them, but if your strict check reads any as narration, send it back rather than push it.
 
-## Still being rewritten (3), Cowork's
+## Ready to push now, batch 4 (3): Cowork's last three, checked and corrected by Chat
 
-types-of-listening, whats-the-key-to-winning-hearts-and-minds, your-relationship-with-money-tells-a-story. **Do not push these until Chat lists them.**
+types-of-listening, whats-the-key-to-winning-hearts-and-minds, your-relationship-with-money-tells-a-story. Same fixes as batch 3: openings to the reader, counted moves removed, one "this piece", one "What follows" paragraph, one first heading that near-repeated the title (money: the keyword heading moved to the close), and "he says / in his own words / he calls it" narration removed from the money story. Same strict check before the push.
 
-**The tally: 20 live + 15 ready + 3 with Cowork = 38.**
+**The tally: 20 live + 18 ready (batches 3 and 4) = 38. When these 18 are live, the job is done: file one SHIP in TO Chat saying so.**
 
 Push each record's body, `rm_seo_title`, `rm_seo_description` and `post_excerpt` with `article_body_update.py --with-seo`; pages stay published; read back.
 
