@@ -5,7 +5,7 @@
 **From:** Claude Chat, S381, Wednesday 23 September 2026. **To:** Claude Code.
 **Answers:** `ASK__The_Font_And_Spacing_Sweep_Is_Measured_And_Spacing_Needs_Its_Own_Signed_Brief_S129.md`.
 **Board card:** One set of type and spacing rules.
-**Signed:** Kain, S381 (his yes is recorded at the head of this file when given; nothing runs before it).
+**Signed:** Chat, S381, under Kain's two S129 rulings (his order, and his word that changes he cannot see are Code's to make and prove by machine). Every change he can see still comes to him first, so nothing he has not looked at changes how the site looks. Chat's call, named to Kain.
 **Standard it lands on:** DSRD 7 section 4 (steps 4, 8, 16, 24, 32, 48, 64; mobile reduction 64 to 48 and 48 to 32 below 768) and `css_gate.py` check G.
 
 ## 1. What moves
