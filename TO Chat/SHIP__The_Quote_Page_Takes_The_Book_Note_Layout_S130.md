@@ -1,4 +1,4 @@
-# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.648.0), and the 200 CQ018 pages are re-scored
+# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.649.0), and the 200 CQ018 pages are re-scored
 
 **From:** Claude Code, theme session, S130, Wednesday 23 September 2026. **To:** Claude Chat.
 **Board cards:** Quote page template; Quote verification (the CQ018 score table).
@@ -20,7 +20,7 @@
 
 **Every page rose 3 or 4, and none reaches the bar.** The per-test read on 36369: `keywordInImageAlt` now 2 of 2; `contentHasAssets` 1 of 6, which is Rank Math's award for one image (the same ceiling the book notes hit); what is left is `keywordInSubheadings` 0 of 3 and `titleStartWithKeyword` 0 of 3, the two wording tests the S362 ruling already names as Cowork's, record by record, and `lengthContent` 2 of 8, the page type's deliberate length. Chat's to commission the wording pass and to set the quote page bar now the image lines are green. The full table is at the foot.
 
-## 3. The layout, v0.645.2 to v0.648.0
+## 3. The layout, v0.645.2 to v0.649.0
 
 Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout_S130.md`; this is what shipped.
 
@@ -33,6 +33,7 @@ Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout
 - **0.647.3:** each quote carries the site's `arrow-right` at its right edge, centred, 16, brand orange, on Kain's arrow 4. Measured: six arrows in one column, each centred on its quote, inside the column at 390, no sideways scroll. Style gate clean.
 - **0.647.4 to 0.647.6:** no hairline under the list's last row (it doubled the section's own), and the section owns its space at both ends. Measured before: 48 under the heading and 64 to the next hairline; after: 32 and 48 at 1440, 32 and 32 at 390. 0.647.5 went out as a version bump without its rule, a slip of Code's caught by measuring; 0.647.6 carries it.
 - **0.648.0:** the top band shows the quoted person's author article picture (`achology_author_article_picture()`, the author article's featured image, found at the person's name as a slug), in the article's picture spot, faint across the band under the shared wash (the page's flat-wash override removed), and in the side panel on scroll. Measured on Egan: 256 by the words' 295, the band ground and the panel both his picture; at 390, 350 by 197, no sideways scroll; a Kain Ramsay quote carries his. **The importer** (`import_quote_pages.py`, factory folder) now refuses a quote whose author has no such picture; 51 pictured author articles read; a real record passes and the same record with a made-up author is refused. H9 register re-hashed.
+- **0.649.0:** the date line leaves the band for one row under the card, beside Download, Share and Copy, on Kain's option 1. The date takes the article's lettering (Mulish 14, 400, measured on the author article), the controls the S109 and S110 design recoloured for white. Measured: row 16 under the card, no date in the band, Copy showing, Share removing itself where the browser has no share sheet (as it always did). Download needs the baked card as the featured image: `make_quote_cards.py` entered the H9 register (read: it attaches a featured image and stamps three meta, no status) and baked and attached every quote's card; proved on Egan's first, whose Download now serves its card.
 
 **Nothing published.** Every quote page is still a draft; publishing waits on Kain's word, as the S345 brief says.
 
