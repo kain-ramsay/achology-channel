@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. The order is in DSRD 7 section 3.0; the spacing brief `BRIEF__The_Spacing_Sweep_S381` follows it.
+
 # RULING: Kain rules the order the font and spacing sweep runs in, cards first
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.

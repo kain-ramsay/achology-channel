@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. Sizes in DSRD 7 section 3.0. The footer's full review placed on the Cards + Chrome Sweep card as a theme session with Kain in Safari; the spacing sweep skips footer.css until it has run.
+
 # RULING: Kain approves the header and footer text sizes, they ship at 0.641.0, and he says the footer needs a full review
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.

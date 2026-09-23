@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. DSRD 7 section 3.0 (size half complete; order recorded) and 3.1 (AAA row closed). Board: One set of type and spacing rules.
+
 # RULING: Kain approves the card text sizes on the nine steps, and they ship at theme 0.640.0
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.
