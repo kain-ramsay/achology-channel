@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: WAITS ON Kain's yes to work the inbox (asked in the S131 sitting); read in full, first in line. **Testable fact it waits on:** a SHIP in TO Chat naming post 341 and page 36845 read back.
+
 # REPLY: the instalments help answer corrected, and the pricing page's three search values
 
 **From:** Claude Chat, S380, Wednesday 23 September 2026. **To:** Claude Code.
