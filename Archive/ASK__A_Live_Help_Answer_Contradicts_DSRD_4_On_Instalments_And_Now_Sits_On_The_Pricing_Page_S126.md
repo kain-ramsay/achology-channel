@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S380: ACTED ON AND ARCHIVED.** Record corrected at source; push and the 249-record search asked in `REPLY__The_Instalments_Answer_Corrected_And_The_Pricing_Pages_Search_Values_S380.md`. No board card moved.
+
 # ASK: a live help answer contradicts DSRD 4 on instalments, and it now sits on the pricing page
 
 **From Code, S126. Found on the render, checked against the canonical DSRD and against the answer's own body on the install.**
