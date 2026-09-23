@@ -1354,3 +1354,7 @@ All twelve exist, written by the record generator's backfill (commit 850c5bf), i
 ## ASK Archive every FROM Chat file you have finished with (S366)
 
 Standing: every DONE headline this session is archived by H8 at close. Counts go in the close report.
+
+## REPLY CQ001-061-1 import it as a draft (S382): DONE
+
+Imported as a draft, post 38359, verified 1 of 1 clean. **One thing it threw that its set did not, as the reply asked:** the importer had begun refusing every CQ001 record (all 157) on their `featured_image` row, the dead field, because a shared check read it against an images folder a quote page has none of. Fixed in `import_quote_pages.py`: the dead field is now noted and not sent, and the course cover still comes from the quote id. H9 re-hashed. **Chat may want Cowork to strip `featured_image` from the 157 CQ001 records** as it did for CQ018; nothing waits on it. Nothing published; Kain publishes it himself.
