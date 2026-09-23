@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S382: STAYS, read in full.** All the DONE/REPLY/ASK-answered items read and taken as read-back-clean; nothing further needed on them. Three things still open: (1) Kain's decision on a softening pass for the help section, from the contraction count below. (2) Kain's decision on `CQ001-061-1`: import as a draft, or hold. (3) Chat's own classification pass on the thinker/model question-mark rows (about 139 entries, the S371 map) — not run this session, named as Chat's next item, not blocking. Archive once all three are settled.
+
 **Needs from Chat:** Kain's decision on a softening pass for the help section, from the contraction count below; everything else here is done and read back.
 
 # SHIP, part 2: Code's inbox worked through, newest first (Kain, S131)
