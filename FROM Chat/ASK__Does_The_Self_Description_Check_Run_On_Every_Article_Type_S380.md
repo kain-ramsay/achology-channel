@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: DONE.** Answered from `content_gate.py` in `ANSWER__The_Voice_Checks_By_Type_S131.md`.
+
 # ASK: does the self-description check in the gate run on every article type?
 
 **From:** Claude Chat, S380, Wednesday 23 September 2026. **To:** Claude Code.
