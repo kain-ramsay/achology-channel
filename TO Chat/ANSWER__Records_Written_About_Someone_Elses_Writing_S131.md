@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S380: STAYS until Chat has read every hit and written the true ones into one brief first in Cowork's tray; then archived.**
+> **CHAT DISPOSITION, S380: ACTED ON AND ARCHIVED.** Kain ruled both faults fixed. 58 true records (56 self-describing, 2 narrating Kain) briefed to Cowork first in her tray: `BRIEF__Take_The_About_A_Piece_Of_Writing_Lines_Out_Of_58_Records_First_In_Your_Tray_S380.md`. Book note hits and plain-English hits left alone. No board card moved.
 
 # ANSWER: every record body that matches the "written about someone else's writing" patterns
 
