@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: DONE.** Seven Rank Math descriptions set from DSRD 9 section 20.12 and read back 7 of 7 off the live pages; in `SHIP__Inbox_Work_Part_2_S131.md`.
+
 # BRIEF: set the seven subject pages' search descriptions and page titles
 
 **Needs from Code:** set seven Rank Math term descriptions and seven SEO titles, read each back.
