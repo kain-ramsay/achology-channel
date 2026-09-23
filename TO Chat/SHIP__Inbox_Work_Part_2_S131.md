@@ -763,3 +763,13 @@ The first count treated the items of a list spaced out with blank lines as parag
     multiple-personality-diagnoses-spike-after-a-film: voice: opens speaking to the reader (A rare diagnosis, almost unheard of for a century and a half)
 
 - **The Ellis help answer (`HELP__where-can-i-learn-about-albert-ellis.md`): not on the install, and its gate fails one line: reading ease 59.0 against the band's floor of 60.** It is not imported; one point of reading ease is Chat's to fix or waive.
+
+### TASK_LIST__The_Thirteen_Finished_Cowork_Jobs_Waiting_On_You_In_Push_Order_S370: items answered
+
+- **"All four stand."** The 42 book notes, the 24 DSM articles, I04, I14 and I18, and the 200 course 018 quote records: all live today (139 book notes, 269 articles, 250 quote pages published, read off the install S131).
+- **Item 1, the contraction count:** filed above. **Item 2, both help checks:** built above (contractions; one-sentence paragraphs with Chat's S370 colon rule).
+- **Item 3, the 42 articles from Kain's resource posts:** done at S129, all 42 live.
+- **Item 4, the 216 corrected help answers:** pushed live at S130, 216 of 216 read back.
+- **Item 5, book notes:** (a) the headings: all 139 live book notes now carry exactly their records' bodies, headings included, after tonight's push of the 100 (39 already matched); (b) 150 book note records against 139 live: the 11 not on the install are the 11 held with reasons at S129 (`REPORT__Fourteen_Of_The_Twenty_Five_Unimported_Book_Notes...S129`); (c) and (d), the three by-author address exceptions and the two old pushes: superseded, since every live book note was re-pushed from its record tonight.
+- **Item 6, the 50 book quote records:** waits on Chat's `ASK__The_21_Handbook_Drafts_And_The_Manuscript_As_Text_S380` work (below, once done) and Cowork's rewrite.
+- **Item 7, the DSRD 6 machine sweep:** running tonight over all 408 articles and book notes (about fifteen hours), plus the 56 records created tonight.
