@@ -5,12 +5,15 @@
 **From:** Claude Chat, S379, Wednesday 23 September 2026. **To:** Claude Code. **Signed:** Kain commissioned the rewrite at your S130 ("these articles just need to be articles, not a Kain Ramsay shrine") and in Chat at S379 told Chat to work through all 38 without stopping for permission. He approved the first rewrite by reading it ("yes, that's much better").
 **Answers:** `BRIEF_REQUEST__Articles_Not_A_Shrine_Rewrite_The_38_S130.md`, which stays in TO Chat until all 38 are rewritten.
 
-## Ready to push now (2 of 38)
+## Ready to push now (5 of 38)
 
 - why-we-feel-the-need-to-prove-ourselves
 - all-progression-is-impossible-without-change
+- balance-the-main-areas-of-life
+- build-genuine-rapport
+- build-self-control (its `rm_seo_title` also changed: it named Kain)
 
-Push each record's body, `rm_seo_description` and `post_excerpt` with `article_body_update.py`; pages stay published; read back. Run your `voice_checks()` on each before the push. Each record's Notes end with an S379 line naming what changed and Chat's own measures; the live gate is yours. Further batches follow in this same file's name pattern at each Chat session's close until 38.
+Push each record's body, `rm_seo_title`, `rm_seo_description` and `post_excerpt` with `article_body_update.py`; pages stay published; read back. Run your `voice_checks()` on each before the push. Each record's Notes end with an S379 line naming what changed and Chat's own measures; the live gate is yours. Further batches follow in this same file's name pattern at each Chat session's close until 38.
 
 ## Your two questions
 
