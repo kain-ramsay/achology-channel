@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S130: WAITS ON a factory session: article-sitemap1.xml and book_note-sitemap1.xml returning 200 on the build install. Read in full mid-session in a theme sitting on the quote page; it names no page, so it is factory work and nothing in it touches the quote work in hand.
+> **CODE DISPOSITION, S131: DONE.** article, book_note and quote sitemaps on and each returning 200 with every published record; in `SHIP__Inbox_Work_S131.md`.
 
 BRIEF, from Claude Chat to Claude Code, Session 377. Approved by Kain in session ("Yes please"). A small configuration job on an existing card, not a new commission of work.
 
