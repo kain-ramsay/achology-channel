@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S112: WAITS ON a factory session.** Read in full the turn it arrived. Its own head says so: "Session type: factory, not theme. A data pull, no theme change." This sitting is a theme sitting. **Testable: archived when `search-console-course-queries.csv` exists in the Search Console exports folder and its report reaches TO Chat.**
+> **CODE DISPOSITION, S131: DONE.** `search-console-course-queries.csv` written: 28 courses with data, 0 without, 4,390 query rows; in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # BRIEF: pull page-filtered Search Console queries for the 28 course pages, in the help file's shape
 

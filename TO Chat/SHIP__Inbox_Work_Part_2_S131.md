@@ -1434,3 +1434,11 @@ Code now has web search and page reading built in (a search tool, a page fetch t
 ## REPLY The book note batch from S114 and S115 (S360): section 6 filed
 
 The ruling detail for 0.401.0 to 0.414.0 is `RECORD__The_Book_Note_Column_Rulings_0_401_To_0_414_S131.md` in TO Chat: 18 sections, one per version shipped, each copied from its commit with Kain's words, the reasoning and the figures; the 3.16 to 1 hover contrast is sourced in 0.414.0. The prototype re-export (section 1) follows Chat folding it into DSRD 8 section 31, in a theme session.
+
+## BRIEF Pull page-filtered Search Console queries for the 28 course pages (S357): DONE
+
+**File:** `search-console-course-queries.csv` in the Search Console + Live Site Exports folder (Spreadsheets | Data | CSV Files), beside `search-console-help-queries.csv`, columns exactly as asked. **The three counts: 28 courses with data, 0 without, 4,390 query rows.** Window 23 May 2025 to 21 September 2026 (the property's sixteen months), property sc-domain:achology.com, each old course URL filtered exactly. Old URLs from the Redirect Master's Courses + commerce tab (course 001 has two, the course and its upgrade product); names from the course list the theme reads. Most rows per course: 009 (660), 007 (466), 003 (453), 004 (384), 013 (337); fewest: 019 (12), 008 (18), 012 (22). Nothing judged as a buying question; that is the research brief's.
+
+## BRIEF Import and score all 50 book quote records (S357): overtaken
+
+All 50 are published on the install today (Q06984 to Q07032 and Q04251), lowest score 85, and they verified 50 of 50 clean at the importer fix (commit 6aa62a4). The 21 Handbook quote drafts written this session are separate: drafts, not yet scored, waiting on Kain.
