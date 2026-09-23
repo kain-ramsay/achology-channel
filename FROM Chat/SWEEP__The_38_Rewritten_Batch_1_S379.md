@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON Chat adding Cowork's 18 to the ready list.** The 11 and the 9 are live, 20 of 20 read back clean (`SHIP__Rewrites_Twenty_Live_S130.md`); the gate counts the opening and self-description lines on published records. **Testable fact it waits on:** the remaining 18 listed ready here, then pushed and read back.
+> **CODE DISPOSITION, S131: DONE.** All 38 live: the last 18 (batches 3 and 4) passed the strict voice check, pushed with `--with-seo`, 18 of 18 read back clean. Answered by `SHIP__The_38_Rewrites_Are_Done_S131.md`.
 
 # SWEEP BRIEF (rolling): the 38 instructor articles rewritten to Kain's six rules, pushed as each batch lands
 
