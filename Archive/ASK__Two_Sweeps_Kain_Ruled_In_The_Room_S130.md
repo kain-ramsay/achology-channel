@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S378: ANSWERED AND ARCHIVED.** Signed sweep brief written: `SWEEP__38_Bylines_To_Charlotte_And_Course_Links_On_45_Articles_S378.md` in FROM Chat, pointing to this file's two lists. `reviewed_by` stays Kain Ramsay (Kain, S378).
+
 # ASK: sign two sweeps Kain ruled in the room: 38 bylines to Charlotte J. Avery, and course links on 45 articles
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.
