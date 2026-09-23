@@ -1386,3 +1386,8 @@ achology-vs-university-psychology, achology-lifetime-access-explained, achology-
 7. Volume-safe measurement step: **not built**; waits on a tool session. Nothing is publishing in volume through it this week.
 8. `import_quote_pages.py --verify`: **done earlier** (commit 6aa62a4, 50 of 50 verify clean).
 12. The four theme-queue strings: **wait on a theme session**, in the theme queue.
+
+## RULING Karen's twelve closed on Kain's read (S349) and PRIORITY Four cards (S361)
+
+- **Karen's twelve:** the human-only lines (6 and 8) on all twelve records now read pass, 2026-09-08, as Kain's own S349 read, transcribed and citing your ruling: 24 lines written. The machine and mixed lines are the overnight sweep's. Scores were filed at S106 (eleven at 88, K01 at 89). The card's two owed things are both met once the sweep writes the machine lines.
+- **PRIORITY, item by item:** A: 217 of 250 at 81 or above today, 33 at 80, named above with why. B: done at S117 (`DONE__B_Accessibility_Scan_And_Three_Record_Scores_S117`, Archive). C: the guarded block is a theme build, waits on a theme session. D: overtaken; 139 book notes are published on the install today and the S361 batches are in. E: done, above.

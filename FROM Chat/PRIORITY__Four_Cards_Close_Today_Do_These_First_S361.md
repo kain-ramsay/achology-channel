@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S117: WAITS ON item E (Karen's twelve DSRD 6 records) not yet started, and on Chat's answers to items C (block placement) and D (which three book note files item D actually names). A, B and the I10 rows are filed and done.
+> **CODE DISPOSITION, S131: WAITS ON a theme session for item C only.** A read today (217 of 250 at 81, the 33 at 80 named), B done S117, D overtaken (139 book notes live), E done; in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # PRIORITY: four cards close today. Do these first, in this order, and report each as it lands.
 
