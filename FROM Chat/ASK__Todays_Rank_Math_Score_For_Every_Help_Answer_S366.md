@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S122: WAITS ON the pricing page sitting finishing.** Kain's stream ruling for this session is that the pricing page is the only work, and that Code messages Chat about nothing during it. Read in full the moment it arrived, at H6's block; it is a read off the install and cancels nothing in the work in hand. It is also factory-session work, which this theme session does not take. **Testable fact it waits on:** a MEASURED file in TO Chat carrying the per-page table and the per-test totals.
+> **CODE DISPOSITION, S131: DONE.** Overtaken: after the S131 bulk-score fix all 250 live help answers read 80 or more in the list, matching the editor (`SHIP__Help_Answer_Scores_List_Matches_Editor_S131`); with none under the bar, the per-test totals the ask wanted for sizing a fix have nothing left to size.
 
 # ASK: Today's Rank Math score for every help answer, and what each one fails
 

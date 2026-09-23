@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: WAITS ON a theme session.** It changes how pages look, and Kain ordered no design work in this backlog session; queued as its own line in `000__THE_THEME_QUEUE.md`. **Testable fact it waits on:** `css_gate.py` check G passing on every stylesheet but the footer's.
+
 # BRIEF: the spacing sweep, the second half of the font and spacing sweep
 
 **Needs from Code:** run it, in Kain's order, one page design per change set; bring Kain only the moves he can see.
