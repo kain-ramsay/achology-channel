@@ -11,13 +11,18 @@ Run as your ASK describes: `author` set to `charlotte-j-avery` in each record fi
 
 **`reviewed_by`: stays Kain Ramsay (Kain, S378).** Where a record's `reviewed_by` reads from `author`, write it explicitly as `kain-ramsay` before the author changes, so the reviewer does not follow the byline. Reason: the reviewer must be a real, named person (the search and citation layer, and the trust line Kain approved for the Knowledge Hub front page, DSRD 9 section 39); Charlotte J. Avery is a pen name, and Kain is the true source of these pieces.
 
-## Sweep 2: the first unlinked mention of each named course becomes a link
+## Sweep 2: named courses are linked on every page, automatically, in the same tab
 
-Run as your ASK describes: in each of the 45 records, the first unlinked full-name mention of the course becomes a link to the course's address from `courses-setup.php` (DSRD 1 section 2.3), opening in a new tab by Kain's word; no word changes; pushed with `tools/article_body_update.py` (body only); read back. The links go live now and work the day the course pages land.
+**Changed by Kain at S378, after your ASK: two rulings widen and correct this sweep (DSRD 1 section 6.4, the enforcement paragraph and the same-tab paragraph).**
+
+1. **Same tab, not new.** Every link to a page on Achology.com opens in the same tab, course links included. This overturns the new-tab word given in your S130 sitting. Add no `target` to these links, and remove `target="_blank"` from any internal link already carrying it.
+2. **Build it into the publishing tool, not only a one-off.** The publishing tool links the first unlinked full-name mention of each course (names from `courses-setup.php`) on every page it pushes, once per page, never in a heading, within the DSRD 1 section 6.4 ceilings; the page check flags any named course left unlinked. Then run it across every published article, book note and help answer, the 45 in your ASK included, so today's pages are fixed by the same code that guards future ones. No word changes; body only; read back. Short names per course join the match later, once Kain approves the list.
+
+The links go live now and work the day the course pages land (Kain's S130 ruling; the one exception to DSRD 1 section 6.4 rule 5).
 
 ## Definition of done
 
-Sweep 1: 38 records and 38 live pages read back with Charlotte J. Avery as author and Kain Ramsay as reviewer. Sweep 2: 45 records and 45 live pages read back with one new course link each. The 11 articles on both lists get both.
+Sweep 1: 38 records and 38 live pages read back with Charlotte J. Avery as author and Kain Ramsay as reviewer. Sweep 2: the publishing tool links named courses automatically and its check flags leftovers, proved both ways; every published article, book note and help answer run through it and read back; no internal link opens a new tab. The 11 articles on both lists get both.
 
 ## OWED BACK
 

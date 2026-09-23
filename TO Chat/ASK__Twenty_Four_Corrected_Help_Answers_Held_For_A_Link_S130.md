@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S378: STAYS, FOR ONE REASON.** Item 2 done: the S362 export moved to Content Records Archive, so the free trial answer can push. Item 1 (one checked outside source for each of the 23, written into its record) is Chat's first job at S379, on Kain's ruling. Closes when the 23 records carry their links.
+
 # ASK: 24 of the 216 corrected help answers are held, 23 for a missing link and one for a duplicate record
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.

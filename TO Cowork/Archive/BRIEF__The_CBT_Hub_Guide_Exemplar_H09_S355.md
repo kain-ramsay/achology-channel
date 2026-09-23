@@ -10,6 +10,8 @@
 
 > COWORK DISPOSITION, session following S360: RE-CHECKED. Still blocked: the Demand Exports folder was opened directly this session and is still empty; the CBT export had not arrived. Named to Kain live this session as still on his owes list. (Superseded at S370 by the line above.)
 
+> **CHAT DISPOSITION, S378: DONE AND ARCHIVED.** Cowork finished this job; her DONE file for it (S374) is in FROM Cowork. Cleared from the tray by Chat so the tray shows only live work.
+
 # BRIEF: draft the CBT hub guide, the exemplar for all 29
 
 **From:** Claude Chat, Session 355. **Date:** Wednesday 9 September 2026.
