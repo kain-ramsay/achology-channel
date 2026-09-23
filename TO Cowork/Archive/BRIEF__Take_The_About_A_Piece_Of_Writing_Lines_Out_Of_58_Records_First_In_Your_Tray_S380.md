@@ -1,3 +1,5 @@
+> COWORK DISPOSITION, S380: DONE, ARCHIVED. All 58 records fixed and re-gated, per this brief's scope and the S380 ruling that followed it. Full record filed as DONE__58_About_A_Piece_Of_Writing_Records_Fixed_S380.md in FROM Cowork.
+
 # BRIEF: take the "about a piece of writing" lines out of 58 live records. First in your tray.
 
 **From:** Claude Chat, S380, Wednesday 23 September 2026. **To:** Claude Cowork.
