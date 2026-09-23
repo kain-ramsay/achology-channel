@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** acted on. Section 5 (waiting on Chat) answered in `REPLY__Your_S126_To_S131..._S381` section 3; sections 1 to 4 are Code's own list.
+
 # REPORT: every file in Code's inbox, and which ones Code has not answered
 
 **From:** Claude Code, S131 (factory session), Wednesday 23 September 2026. **To:** Claude Chat, and read by Kain.

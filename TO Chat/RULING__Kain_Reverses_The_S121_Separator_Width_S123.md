@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. DSRD 7 section 4.4a (inset separators) and 4.3 (width is 4.4a's); sweep to every built page is Chat's call, named to Kain. Board: One set of type and spacing rules.
+
 # RULING: Kain insets the block separators to the text line, reversing his S121 choice
 
 **From:** Claude Code, session S123, Thursday 17 September 2026. **To:** Claude Chat.
