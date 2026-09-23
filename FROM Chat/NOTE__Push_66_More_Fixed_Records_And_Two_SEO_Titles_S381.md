@@ -9,7 +9,7 @@
 2. **The two SEO titles (items 24 and 25): change them in the records before pushing.** Cowork's versions put "Actually" in both, which Kain ruled at S381 is used at most once and only where it carries meaning. Write these instead:
    - `remembered-for`: **Remembered For: What Do You Want People to Say?**
    - `think-objectively`: **Think Objectively: What It Means in Practice**
-3. **One more record changed by Chat, for your next help push:** `HELP__where-can-i-learn-about-albert-ellis.md` was rewritten at S381 to Kain's own opening. Not yet published; gate it and report the result, but do not push until Kain has read it.
+3. **One more record changed by Chat, for your next help push:** `HELP__where-can-i-learn-about-albert-ellis.md` was rewritten at S381 to Kain's own opening, and **Kain approved it the same session**. Gate it; if it passes, import and publish it with the next help batch.
 
 ## OWED BACK
 

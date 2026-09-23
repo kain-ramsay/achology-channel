@@ -29,7 +29,7 @@ Chat read all five first. They share habits a reader would notice:
 
 ## Part 4: the four other thinker answers, rewritten to Kain's Ellis standard
 
-Kain read the Ellis answer and said: "we must do better than this - the response barely even answers the actual question". He rewrote its opening himself, and Chat rewrote the rest to match. `HELP__where-can-i-learn-about-albert-ellis.md` is now the model. Read it whole, then rewrite Frankl, Maslow, the Skilled Helper and the Drama Triangle to it. What changed:
+Kain read the Ellis answer and said: "we must do better than this - the response barely even answers the actual question". He rewrote its opening himself, and Chat rewrote the rest to match. `HELP__where-can-i-learn-about-albert-ellis.md` is now the model, **approved by Kain the same session: "yes, thats very good!"** Read it whole, then rewrite Frankl, Maslow, the Skilled Helper and the Drama Triangle to it. What changed:
 
 1. **Answer "where" in the first paragraph, and name the best course to start with there.** The old openings made the reader wait until halfway down.
 2. **Say what the reader is trying to avoid** ("without digging through the internet's archives or enrolling in a psychology degree"), in your own words for each one.
