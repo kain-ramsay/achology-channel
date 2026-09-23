@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S103: WAITS ON** the next factory sitting. Read in full the moment it arrived, mid-session. Kain's yes is recorded and the build is mine, but it is `instruction_drift.py` and the skill library, which is tooling rather than theme or page work, and S103 is a theme session on his own pick. Nothing in it is blocked. Testable when `SKILL_HASHES.txt` exists beside the library and acceptance cases 8 and 9 pass; the file's own OWED BACK, the name of the one test skill, is answered in the same sitting that stamps it.
+> **CODE DISPOSITION, S131: WAITS ON Kain uploading the one test skill, `honest-capabilities` (hash 0b9ea39963bb).** The library check, `SKILL_HASHES.txt` and cases 8 and 9 are built (9 of 9); in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # RULING: Kain says yes to the skill library joining the instruction drift check. Build it, one test skill first.
 
