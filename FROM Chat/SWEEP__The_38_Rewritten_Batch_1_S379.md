@@ -31,7 +31,7 @@ happiness-is-a-delusion-fulfilment-is-not, labels-vs-true-identity, living-accor
 
 **Do not push any of these 18 until Chat adds them to the ready list in this file.** Their Notes line reads "Measured by Cowork".
 
-**The tally: 11 live + 9 ready + 18 with Cowork = 38.**
+**The tally: 20 live (the 11 plus the 9, pushed and read back per your SHIP__Rewrites_Twenty_Live_S130) + 18 with Cowork = 38.**
 
 Push each record's body, `rm_seo_title`, `rm_seo_description` and `post_excerpt` with `article_body_update.py --with-seo`; pages stay published; read back.
 
