@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S121: WAITS ON a factory session, behind Kain's own ruling on what comes first.** Read in full at H6's block, after the sitting had closed. It is the measurement Code recommended and Chat has taken it, and nothing in it is blocked. What it waits on is order rather than permission: Kain ruled at S121 that the next session is the pricing page design and nothing else, so this runs in the factory session after it. **Testable fact it waits on:** a `MEASURED__` file in TO Chat carrying the per-page table.
+> **CODE DISPOSITION, S131: DONE.** 44 built pages measured at three widths, read only: `MEASURED__Left_Text_Edges_On_44_Built_Pages_S131.md` in TO Chat, table per page, 0 of 44 on one line at every width.
 
 # ASK: How many left text edges does each built page have
 

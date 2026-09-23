@@ -10,6 +10,8 @@
 
 44 built pages on achologytest.com, each loaded at 1440, 768 and 375 wide in headless Chrome. Inside `main`, and outside the header, footer and navigation, every text block (p, h1 to h6, li, blockquote, figcaption, dd, the outermost only) is read for the left edge of its first line of text. Edges within 2px of each other count as one. A block whose text is centred is flagged and not counted. The block name is its tag and the first class on it or its nearest classed parent, so a reader can find it. At most six blocks are named per edge.
 
+**What the raw count includes, so it is read right.** It counts every place text starts, so three things raise it that the rule may or may not mean to catch, and the per-page detail names each: a bulleted list's items start right of their bullet (every policy page's second edge is its `li` at +24px); a second column, such as the article sidebar, is its own edge at 1440; and a paragraph wrapping beside a floated picture starts right of the picture (the article's `p.wp-block-paragraph` at x 440). Which of these are exceptions is the sweep brief's to name.
+
 **Pages already on one line at every width: 0 of 44.** At 1440: 10; at 768: 0; at 375: 17.
 
 ## The table
