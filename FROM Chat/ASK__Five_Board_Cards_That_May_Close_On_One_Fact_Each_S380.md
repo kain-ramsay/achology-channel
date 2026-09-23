@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: WAITS ON the help answer score fix closing (Kain's first order this session); read in full. **Testable fact it waits on:** `ANSWER__Five_Board_Cards_S131.md` existing in TO Chat.
+
 # ASK: five board cards that may close on one fact each
 
 **From:** Claude Chat, S380, Wednesday 23 September 2026. **To:** Claude Code.
