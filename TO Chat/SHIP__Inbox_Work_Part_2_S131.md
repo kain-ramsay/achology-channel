@@ -778,3 +778,478 @@ The first count treated the items of a list spaced out with blank lines as parag
 
 1. **The 21 drafts written out** into the quote-page records folder, one file each, named `{quote_id}__{slug}.md` (Q04251 and Q07009 to Q07032, less the four that were never drafted), carrying post ID, quote ID, title, address, quote text, quoted author, author, lead tag, source book, focus keyword, SEO title and description, excerpt and the current body as markdown, marked `origin: exported-from-install S131`. Read-only on the install; all 21 are drafts carrying the helping-people subject.
 2. **The manuscript: no PDF, because Pages is not installed on this Mac,** so it cannot be opened or printed. **The plain text is done instead**, which is the half the quote check needs: `TULCH FINAL MANUSCRIPT.txt` now sits beside the `.pages` file (about 107,000 words, from the Foreword on), read straight out of the file's own text store without Pages. The original is untouched. **Checked at once against the 21 drafts' quote texts: 19 are word for word in the book; 2 are not** and need Cowork's eye against the text: Q07011 two-basic-choices ("There are two basic choices: to accept life's circumstances as they are or take responsibility for c...") and Q07012 deciding-who-you-will-become ("The key to progressing in life is deciding who you will become and taking responsibility for becomin..."). A PDF needs Pages installed, or Kain exporting it from another Mac.
+
+### ASK__Sweep_The_Help_Answer_Records_For_Words_The_Achology_Stance_Forbids_S371: DONE (answer below)
+
+Read-only, the Body of every `HELP__` record (279 files: the 246 of S371 plus the 33 exported tonight), sentence by sentence, link text kept and addresses dropped. **Code's verdict: no breach found in any of the six.**
+
+- **1. heal, cure, treat or fix: 180 hits, all fine.** Every one is either ordinary English ("treat the checklist as your plan", "the quick fix" for a login or payment), a line saying therapy or medicine does it, or a line saying Achology does not (56 carry a negation).
+- **2. promises a result: 70 hits, all fine.** All but a handful are the 14-day money-back guarantee; the rest say a result is not guaranteed.
+- **3. therapist as a title: 76 hits, all fine.** Every one uses the word for a clinically trained professional, names the title as one Achology members must not claim, or is a question title in a Related questions list. None calls someone Achology trains a therapist.
+- **4. the brain: nothing found.**
+- **5. the named thinkers: 68 hits,** listed in full below with their sentences for Chat's read; Code sees nothing in them that contradicts the stance.
+- **6. the four lines: nothing found** (no "between stimulus and response", "not disturbed by things", "positive intention" or "fourteen irrational beliefs").
+
+Files searched: 279. The full hit list, every search, each line with its file (a `[negated]` tag marks a line carrying a negation):
+
+#### 1. heal, cure, treat or fix: 180
+    - `achology-accessibility-requirements` | Once the finished site has been formally assessed, the statement will publish the findings, including any known limitations and the dates for fixing them.
+    - `achology-accessibility-requirements` | Reports from real use are the fastest way problems get found and fixed, so if any part of the site is difficult or impossible for you to use, say so.
+    - `achology-career-change-coaching-mentoring` | Overlap it with existing income where you can, treat the first year as building rather than earning, and read what can honestly be said about earnings before you make any financial plan.
+    - `achology-certification-practice-competence` | Treating completion as the finish line is the assumption the whole pathway exists to correct.
+    - `achology-change-mind-after-14-day-guarantee` | After it, the policy treats course content the way education honestly works.
+    - `achology-code-ethics` | The handbook treats it as an integrity health check, not a box-ticking exercise, aimed at helping members aspire to be better rather than just do right once.  [negated]
+    - `achology-community-rules-moderation` | Maintaining the community's standards is treated as every member's job rather than only the moderators', which is why the culture holds at scale.
+    - `achology-course-order-sequence` | These are recommendations rather than a fixed Achology course order.
+    - `achology-course-outcomes` | The members doing the most afterwards are the ones who treated the certificate as a beginning.
+    - `achology-course-outcomes` | The ones who treated it as an arrival tend to be the ones asking why nothing changed.
+    - `achology-customer-legal-rights-uk-consumer-law` | If content falls short, you may be entitled to a repair or replacement, and where a fault cannot be fixed, a full or partial refund.  [negated]
+    - `achology-customer-legal-rights-uk-consumer-law` | If the fault cannot be fixed, or is not fixed within a reasonable time and without significant inconvenience, you may be entitled to a full or partial refund.  [negated]
+    - `achology-disagreement-open-discussion` | Treating discussion as a contest closes down exactly the perspective-taking that applied psychology trains.
+    - `achology-discussion-boundary-feels-unsafe` | If something feels wrong, trust that and treat it as information, not something to dismiss.  [negated]
+    - `achology-evidence-based-humanistic-psychology` | A practitioner armed only with protocols treats people as instances of a category.
+    - `achology-invite-link-not-working` | This is the important part of the answer, and it is the reason this article exists rather than a one-line fix.
+    - `achology-live-practice-session-etiquette` | Treating session content as repeatable elsewhere, in the forums, to friends, in your own content, does not merely breach the Community Code of Conduct.  [negated]
+    - `achology-membership-refund` | That is why the Refunds Policy treats the two product types differently, stating it before purchase rather than in a support reply afterwards.
+    - `achology-multiple-psychology-traditions` | Several, deliberately, with none treated as superior.
+    - `achology-multiple-psychology-traditions` | All of them treat the frameworks as tools for understanding people, including yourself, rather than doctrines to defend.
+    - `achology-no-transformation-promises` | Treating readers as capable adults means telling them which part of the result is theirs to produce.
+    - `achology-password-reset-email-not-arriving` | The practical fix is to ask your administrator to release it or to move your membership to a personal address.
+    - `achology-peer-learning-culture` | The Code of Character and Conduct sets the tone: nine virtues drawn from Aristotle, trained across the community rather than treated as an academic exercise.
+    - `achology-professional-indemnity-insurance` | The Achology Code of Ethics treats insurance as a professional obligation: if you offer applied psychology services to the public, you are required to hold comprehensive cover, in place before your first client rather than arranged after something goes wrong.
+    - `achology-refund-disagree-course-content` | Achology's Trust Statement sets out the same position: the ideas taught are open to interpretation, disagreement, and critique, and learners are treated as adults able to engage critically with material they may not accept.  [negated]
+    - `achology-refund-policy-explained` | Course content is interpretive, and different people experience it differently, so disagreeing with an idea is not treated as a fault in the product.  [negated]
+    - `achology-refund-technical-issues` | The policy's second condition simply locates responsibility where the cause is: platform failures and server problems are Achology's; a browser that needs updating is a fix on your side, not a refund trigger.  [negated]
+    - `achology-refund-technical-issues` | That record matters, because it dates the start of any outage and gives support what it needs to fix the fault, which resolves things faster than a refund would.
+    - `achology-responsible-community-member-advice` | Treat what you hear in peer sessions as practice material from a fellow learner rather than professional advice.
+    - `achology-s-character-code-based-aristotle` | Because that tradition treats character as something you develop rather than something you are simply born with or without.  [negated]
+    - `achology-s-five-community-principles` | They come from the Code of Character and Conduct and set the behavioural benchmark for how members treat one another and the space they share.
+    - `achology-s-five-community-principles` | - **Respect and Inclusivity**: diversity enriches the community, every perspective is valued, and respect is treated as the basis of growth.
+    - `achology-s-nine-value-based-principles` | - **Growth Mindset**: treating skills as learnable and failures as opportunities to learn.
+    - `achology-s-nine-value-based-principles` | Moral Imagination is the principle that stops you treating this as two options when there are usually four.
+    - `achology-s-three-learning-paths` | They are a way of choosing where to start, not fixed tracks you are locked into, and you are free to take courses from more than one path.  [negated]
+    - `achology-teaching-philosophy` | - All people are capable of deep learning and growth: nobody needs fixing before they can start, and no entry gate decides who is allowed to develop.  [negated]
+    - `achology-teaching-philosophy` | Its courses do not teach diagnosis, categorisation, or treatment; they treat the people who study, and the people its students go on to help, as capable adults with room to grow rather than conditions to label.  [negated]
+    - `achology-updates-course-already-purchased` | Fixing a broken link or improving video quality sits here.
+    - `achology-updates-course-already-purchased` | Achology treats the curriculum as a living body of teaching, not something published once and archived, which follows from how the subject itself is taught.  [negated]
+    - `achology-vs-coursera-psychology-education` | How the two kinds of recognition differ is treated in full separately.
+    - `achology-vs-coursera-psychology-education` | That gap is why completion and competence are treated as separate things here, not as the same achievement described twice.  [negated]
+    - `achology-vs-mindvalley-comparison` | Achology treats that moment as the halfway point, because completing a course and being competent are different things, and only practice with feedback closes the gap.
+    - `achology-vs-school-of-life-comparison` | Ideas from the philosophical tradition made genuinely beautiful, consoling and clear, in a voice that treats ordinary emotional life as worthy of serious thought.
+    - `achology-vs-therapy-training-counselling` | Therapy training qualifies you for regulated clinical practice: diagnosing and treating mental health conditions, working with vulnerable people under supervision, registration, and ongoing accountability.
+    - `achology-vs-therapy-training-counselling` | The curriculum deliberately excludes diagnosis and treatment, which is why diagnostic labelling is not taught.  [negated]
+    - `achology-vs-udemy-psychology-courses` | You pay more because the product is more; whether the more is what you need is the honest question, and Is Achology worth the money? treats it squarely.
+    - `adult-to-adult-learning-no-hand-holding` | So why does Achology treat learners as adults rather than providing hand-holding?
+    - `adult-to-adult-learning-no-hand-holding` | Because the subject being taught is self-responsibility, and how you are treated while learning it is part of the teaching.
+    - `adult-to-adult-learning-no-hand-holding` | What comes with being treated this way is set out in what Achology expects from its learners.
+    - `become-a-life-coach` | There's no fixed exam or licence to pass, the way there is for many other jobs.  [negated]
+    - `become-a-life-coach` | No single exam, no licence, and no fixed timeline: that's the honest, if slightly unsatisfying, answer.  [negated]
+    - `become-an-achology-affiliate` | The commercial terms are negotiated rather than fixed.
+    - `become-instructor-contribute-content-achology` | Teaching is treated as part of learning rather than as a reward for finishing it.
+    - `best-cbt-course-or-certification` | It is not clinical training, and it was never meant to replace the Beck Institute route for someone who wants to treat patients.  [negated]
+    - `call-myself-therapist-achology-courses` | This is why Achology's Code of Ethics treats accurate self-description as foundational: the whole curriculum teaches members to know the edge of non-clinical helping and refer beyond it.
+    - `can-achology-help-personal-struggles` | What they are not, and never claim to be, is treatment.  [negated]
+    - `can-achology-help-personal-struggles` | If what you are carrying is a clinical condition, severe distress, or anything that feels beyond managing, the right help is professional treatment.
+    - `can-achology-suspend-terminate-access` | Failed subscription payments are treated differently.
+    - `can-achology-suspend-terminate-access` | A failed payment is a problem to fix rather than an offence.
+    - `cant-log-in-achology-community` | That is what makes the first check the commonest fix: people register with one address and later try to sign in with another.
+    - `cant-see-achology-course-space-community` | Both are usually fixed within minutes.
+    - `cant-see-achology-course-space-community` | That converts a five minute fix into a genuine tangle: one account holds everything you bought, the other is the one you can log into, and untangling them takes far longer than a support message.
+    - `cant-send-receive-messages-achology-community` | This is the fix in most cases, and it is easy to have switched off without remembering: the setting sits alongside the notification controls that most members adjust when they first join.  [negated]
+    - `cbt-practitioner-vs-cbt-therapist` | A CBT practitioner has learned how CBT works, tried it on their own life first, and now uses it to help other people, while a CBT therapist is a clinician who treats patients.
+    - `cbt-practitioner-vs-cbt-therapist` | A CBT therapist uses CBT to treat people, often people a doctor has referred.
+    - `cbt-practitioner-vs-cbt-therapist` | So if your heart is set on treating patients, that's the road to take.
+    - `cbt-practitioner-vs-cbt-therapist` | A practitioner isn't treating anyone.  [negated]
+    - `cbt-practitioner-vs-cbt-therapist` | To most people, the word therapist means clinical training, professional registration and treating illness.
+    - `cbt-practitioner-vs-cbt-therapist` | If you want to treat patients, work in a health service or hold a clinical title, take the therapist road.
+    - `ccac-green-red-status-mean` | Compliance is measured across a rolling twelve months rather than a fixed year, so sessions drop out of the window as time passes.
+    - `ccac-green-red-status-mean` | The Code of Character and Conduct treats character as something built through honest self-examination, in good company, over time, so a member who did all ten sessions three years ago and has not returned is not in the same position as one still doing the work.  [negated]
+    - `character-traits-define-achologist` | They rest on a smaller set of moral foundations, which are honesty, integrity, kindness, fairness, respect, responsibility and empathy, with trust treated as the basis of every professional relationship.
+    - `choose-a-good-life-coaching-course` | This suits someone who wants a well-known name, but prefers a self-directed pace over live sessions tying them to a fixed schedule.
+    - `choose-a-good-life-coaching-course` | A little, but treat them carefully.
+    - `completed-achology-course-nothing-changed` | Worth naming, because knowing which one you are in changes the fix.
+    - `course-completion-vs-competence` | Competence is the point: treat every finished course as an entry ticket to the practice that makes it real, and measure yourself by conversations handled rather than certificates held.
+    - `cpd-journey-after-leaving-achology` | Adult lives do not run on a fixed schedule, and the system reflects that.  [negated]
+    - `delete-achology-account-and-data` | Cancelling your membership stops future payments, but it does not erase your data and is not treated as a deletion request.  [negated]
+    - `difference-between-code-ethics-ccac-community` | The Community Code of Conduct is about how you treat other members day to day.
+    - `do-achology-courses-get-updated` | That reflects how the subject is treated.
+    - `do-achology-courses-get-updated` | Principle-led education is not a fixed syllabus to be delivered and archived, and a course that never changed would be a course nobody was still teaching.  [negated]
+    - `does-achology-provide-crisis-support` | Nothing it provides constitutes medical advice, psychological or psychiatric treatment, counselling or therapy, or diagnosis.
+    - `does-achology-provide-crisis-support` | Treating an education community as a substitute for crisis services puts the person in crisis at risk, and places an unfair burden on members who cannot safely carry it.  [negated]
+    - `does-achology-supervise-peer-coaching` | Both are valuable; only one is a safeguard, and treating the second as the first is how people end up under-protected in real client work.
+    - `does-achology-supervise-peer-coaching` | Treat practice sessions as what they are: excellent rehearsal and honest feedback, not a replacement for real client structures.  [negated]
+    - `download-achology-community-app` | The live events don't work that way; they run at a fixed time, and the practice your progression depends on happens inside them, not in anything you can catch up on later.  [negated]
+    - `explain-achology-qualifications-to-clients` | That is a good client rather than a difficult one, and it is worth treating as such.
+    - `fix-achology-community-notification-problems` | To fix Achology notification problems, start with your settings rather than assuming a fault.
+    - `fix-audio-video-achology-live-sessions` | Most cases are fixed in a couple of minutes.
+    - `fix-audio-video-achology-live-sessions` | Joining five minutes early and speaking once to check you can be heard costs nothing, and it is the difference between fixing a permission and missing the part of the session you came for.
+    - `get-value-achology-mentorship-sessions` | Treat the whole session as material rather than only the minutes spent on your own question, and write down what strikes you.
+    - `have-retake-code-ethics-training-every` | The Code of Ethics sets the standards of professional conduct expected of every practising Achologist, and it is treated as something you return to and practise rather than a document read once and filed.
+    - `homework-assessment-achology-courses` | It also follows from how Achology treats learners.
+    - `how-much-do-achology-coaches-earn` | The coaches who reach a sustainable living are, almost without exception, the ones who treated it as building a small business with a craft at its centre.  [negated]
+    - `how-much-do-cbt-therapists-earn` | Each band has several pay points inside it, and moving up those points depends on length of service and an annual pay review, not a single fixed number.  [negated]
+    - `how-psychology-became-institutionalised` | Scientific psychology produced knowledge tradition alone never could: tested findings about memory, development, behaviour and effective treatment.  [negated]
+    - `how-psychology-became-institutionalised` | And the clinical infrastructure, imperfect as it is, treats conditions that once meant untreated suffering.
+    - `how-to-become-a-cbt-coach` | It's using CBT's tools inside a coaching relationship, aimed at where a client wants to go next, not at treating an illness.  [negated]
+    - `how-to-become-a-cbt-coach` | How to become a CBT coach isn't governed by a single fixed licence, the way an NHS CBT therapist route is.  [negated]
+    - `how-to-become-a-cbt-coach` | Therapy looks the other way, at past experience and at diagnosing and treating dysfunction.
+    - `how-to-become-a-cbt-coach` | A therapy client might come in with genuine, diagnosable distress that needs treating first.
+    - `how-to-become-a-cbt-therapist` | There's no shortcut for the clinical, patient-treating role.  [negated]
+    - `how-to-become-a-cbt-therapist` | None of that involves treating patients.
+    - `how-to-request-achology-refund` | A dispute filed first usually gets resolved faster, since it lets Achology fix things directly rather than through a formal dispute.
+    - `how-to-start-learning-cbt` | The first real skill is noticing a thought as a thought, rather than treating it as simply true.
+    - `how-to-start-learning-cbt` | There's no fixed number of weeks that fits everyone, and any course promising one would be guessing.  [negated]
+    - `inside-achology-course-modules-breakdown` | A Practitioner Certification course carries the full treatment: more modules, deeper exercises, heavier practice.
+    - `is-a-cbt-certification-worth-it` | If you're hoping a certificate alone will get you a clinical job treating patients, it won't, and no honest course should tell you otherwise.  [negated]
+    - `is-achology-global-platform` | That is why the scheduling is treated as infrastructure rather than convenience.
+    - `is-achology-right-emotionally-vulnerable` | - Whether what you are seeking is understanding and skills rather than treatment or emotional holding, which the platform honestly does not provide.  [negated]
+    - `is-achology-right-emotionally-vulnerable` | What education can genuinely offer your situation is treated honestly in Can Achology courses help with personal struggles and challenges?
+    - `is-achology-therapy-counselling-or-coaching` | It is not therapy, not counselling, and not clinical training: it does not teach diagnosis, treatment, trauma therapy, or crisis intervention, and it offers no clinical supervision, placement hours, or route to therapeutic licensure.  [negated]
+    - `is-achology-therapy-counselling-or-coaching` | Therapy focuses on healing: treating mental health conditions, processing trauma, providing clinical care.
+    - `is-an-nlp-course-worth-it` | No, if you're hoping it hands you a guaranteed qualification, career or cure, because no honest course can promise any of those.  [negated]
+    - `is-an-nlp-course-worth-it` | It's not worth it for someone chasing a fast, prestigious certificate, or a cure for a named condition.  [negated]
+    - `is-an-nlp-course-worth-it` | That split is normal for a skill-based practice rather than a fixed medical procedure.
+    - `is-an-nlp-course-worth-it` | Achology doesn't promise a qualification, a job or a cure attached to it.  [negated]
+    - `join-professional-body-after-achology` | How Achology compares with an ICF credential treats the two as complements rather than rivals, which is the honest position.
+    - `learn-cbt-for-free` | That's treatment, not a certificate, and it's not the same question as learning CBT's ideas for your own use.  [negated]
+    - `learn-cbt-for-free` | ## Is There Free CBT Treatment, Not Just Learning?  [negated]
+    - `learn-cbt-for-free` | Treat that kind of certificate as a pleasant decoration, not evidence of real competency.  [negated]
+    - `manage-achology-community-notifications` | If something specific misbehaves, such as email notifications that are switched on but never arrive, the notification problems article covers the fixes.  [negated]
+    - `many-ccac-sessions-need-complete-often` | Courage, for instance, is treated as the point between recklessness and cowardice, and the session asks which way you tend to lean.
+    - `membership-payment-fails-achology` | ## Why payments fail, and the quick fix
+    - `membership-payment-fails-achology` | All Achology payments run through Stripe on the community platform's checkout, so the fix lives in one place: open your account's billing settings there and update the payment method, and the subscription continues.
+    - `mentoring-opportunities-achology-membership` | Note that not every session is recorded, deliberately, so treat live attendance as the default rather than the fallback.  [negated]
+    - `mentorship-sessions-recorded-achology` | Treat live attendance as the default and recordings, where they exist, as a way to catch up rather than a guarantee.
+    - `need-a-certification-or-a-degree` | Both countries treat life coaching as an open profession, one anyone can enter without a licence.  [negated]
+    - `nhs-routes-into-cbt` | Two routes, in a fixed order: low intensity through a psychological wellbeing practitioner, then high intensity as a fully trained CBT therapist.
+    - `nine-ccac-virtues` | Justice and Wisdom are treated differently in that tradition, as the qualities that govern the rest rather than as points on a spectrum of their own, which is why they are not described here as a middle between two extremes.  [negated]
+    - `nine-ccac-virtues` | The nine virtues are treated as qualities developed through practice, not traits you either have or lack.  [negated]
+    - `personal-progress-checklist-count-official-cpd` | Treat the checklist as your plan and the verified record as your score, and submit claims as you go rather than saving up a term's worth.
+    - `platform-changes-course-access-achology` | So treat the promise as genuine and demonstrated, and take the sensible precaution anyway: download the written resources as you go.
+    - `principle-led-education-achology` | A protocol is a fixed sequence that works only in the situations it was written for.
+    - `principle-led-education-achology` | Principle-led education is the working ground between them, and the teaching philosophy treats the examining as part of how wisdom develops rather than as a risk to it.
+    - `principle-led-education-achology` | - What is Achology's teaching philosophy?
+    - What does Achology mean by "personal responsibility" in learning?
+    - Why does Achology treat learners as adults rather than providing hand-holding?
+    - `progress-member-achologist` | There is no fixed clock on this.  [negated]
+    - `psychology-as-practical-wisdom` | It means treating psychological understanding as an essential life skill, in the same family as literacy and critical thinking: something anybody can learn, use daily and get better at across a lifetime, rather than an academic discipline reserved for credentialed specialists.
+    - `psychology-as-practical-wisdom` | When psychological understanding is treated as professional property, ordinary people are left with folk wisdom for problems that have been studied carefully for a century, and they only reach the knowledge at the point of crisis, through a clinician.
+    - `rsvp-join-achology-live-events` | So treat live attendance as the default rather than the fallback.
+    - `seven-marks-maturity-achology-teaches` | That is the reasoning behind Achology treating character as trainable rather than assumed, set out in why Achology emphasises character development, and it is why the marks of maturity are offered as a description to grow into rather than a test to pass.
+    - `seven-schools-achology-curriculum-explained` | What separates one school from another is what each treats as the lever of change, covered school by school in the list below.
+    - `society-lost-gatekeeping-psychology` | When psychological understanding is treated as professional property, learned properly only inside degree programmes, the losses land in ordinary life.
+    - `society-lost-gatekeeping-psychology` | - **Relational skill stays untrained.** Listening, conflict, and repair are learnable crafts treated as personality traits, so families and teams pay daily for skills nobody was offered.
+    - `society-lost-gatekeeping-psychology` | What this argument deliberately does not claim is that gatekeeping caused society's mental health struggles, whose causes are many, or that professional treatment is the problem.  [negated]
+    - `standards-apply-trainee-achologists` | - Get permission before using any client work for educational purposes, with identities thoroughly anonymised, and treat consent as mandatory wherever anonymity cannot be guaranteed.  [negated]
+    - `study-cbt-online` | You work through it on your own schedule, with no fixed class dates or cohort to keep up with.  [negated]
+    - `study-cbt-online` | That suits people fitting learning around a job or a family, rather than a fixed timetable.
+    - `study-cbt-online` | Treat them as a starting point, not a destination.  [negated]
+    - `study-cbt-online` | Some providers run CBT training as live online sessions, with fixed start dates and a group moving through it together.
+    - `study-cbt-online` | If you want to understand and use CBT well yourself, without treating patients, a self-paced practitioner course does that properly.  [negated]
+    - `study-multiple-achology-courses-simultaneously` | If your recent weeks look like that, the fix is not discipline but arithmetic.  [negated]
+    - `submit-cpd-credit-claim-hosting-attending` | Treat the checklist as your plan and the verified record as your score.
+    - `supervision-after-achology-training` | You are treated as capable of assessing your own development needs, which includes noticing when you need somebody watching your work.
+    - `upgrade-courses-bundle-access-pass` | Rather than an automated credit formula that would treat those situations identically, a person looks at your account and tells you what an upgrade would cost in your case.
+    - `valts-achology` | VALTS learning sessions are where that gap is closed, which is why the pathway requires them rather than treating them as optional extras.
+    - `verify-achology-certificate` | Confirming an individual certificate on request achieves the verification without publishing everybody, which is consistent with how member data is treated generally.  [negated]
+    - `what-does-a-cbt-course-cover` | There's no single fixed length, because self-paced courses let you move at your own speed.  [negated]
+    - `what-does-a-cbt-course-cover` | A self-paced course covers the same territory, just without a fixed number of sessions attached to it.  [negated]
+    - `what-does-achology-expect-from-learners` | - **Critical engagement**: treating disagreement as part of learning rather than as harm, since the ideas here are open to question and questioning them well is a skill the education develops.
+    - `what-does-achology-expect-from-learners` | - Who is Achology designed for?
+    - What does Achology mean by "personal responsibility" in learning?
+    - Why does Achology treat learners as adults rather than providing hand-holding?
+    - Why does Achology emphasise character development so much?
+    - `what-does-achology-mean-becoming-wiser` | Neither is a failure of intellect, and no additional reading fixes either.  [negated]
+    - `what-does-achology-mean-becoming-wiser` | The character code is the same conviction written into a requirement, treating character as something developed through practice rather than something you either have or lack.
+    - `what-does-an-nlp-course-cover` | You learn what NLP actually is, the core ideas it rests on, and how flexible or fixed your own thinking already is.
+    - `what-if-achology-courses-dont-work` | Diagnose before deciding, because "not working" has two different causes, and each one has a different fix.  [negated]
+    - `what-if-achology-courses-dont-work` | That is common, never shameful, and it is fixed by changing your approach, not the platform.  [negated]
+    - `what-is-applied-psychology-achology` | Competence built that way is gradual, earned through repetition, feedback and adjustment, which is why a completed course is treated as the start of learning rather than proof of it.
+    - `what-makes-a-good-nlp-course` | A live intensive gives you other people in the room to practise on, which is genuinely useful, but it also asks for travel time and a fixed week off.
+    - `what-makes-a-good-nlp-course` | One red flag is a course promising to cure a named condition, or guaranteeing a specific life outcome.
+    - `which-achology-events-earn-accreditation-credit` | Knowing the nine matters when you are working toward a level with a fixed requirement, since each level asks for a certain number of sessions across a certain spread of types.
+    - `who-is-achology-designed-for` | **Responsibility-orientation**: treating your growth, your reactions and your use of what you learn as yours to own.
+    - `who-is-achology-not-for` | People seeking quick fixes, emotional caretaking, passive learning, clinical treatment, crisis support, or university credentials.
+    - `who-is-achology-not-for` | - **An environment that manages your emotions for you.** Learners are treated as adults capable of managing their own responses, and the teaching includes ideas that challenge before they help.
+    - `who-is-achology-not-for` | - **You need therapy, counselling, diagnosis or treatment for a mental health condition.** This is an education provider rather than a clinical service, and the boundary is stated simply.
+    - `who-is-achology-not-for` | - Who is Achology designed for?
+    - Does Achology provide crisis or mental health support?
+    - Why does Achology treat learners as adults rather than providing hand-holding?
+    - [What if Achology courses don't work for you?  [negated]
+    - `who-is-kain-ramsay` | His approach treats learners as capable adults, which is why Achology's education is open-entry, application-first, and honest about what it can and cannot promise.  [negated]
+    - `who-runs-achology` | A course platform can be a marketing brand over licensed content, with nobody identifiable answerable for what is taught or how members are treated.
+    - `why-achology-avoids-diagnostic-labels` | Both do necessary work in their own domain, where diagnosis, used well by trained hands, opens the door to treatment and support.
+    - `why-achology-criticizes-psychology-teaching` | - **Orientation.** Professional training is rightly built around diagnosis and treatment.
+    - `why-achology-includes-community-course-prices` | Worth stating, because the months are often treated as a trial to evaluate and then quietly allowed to lapse.
+
+#### 2. promises a result: 70
+    - `achology-access-all-areas-pass` | Access to the courses lasts for as long as you want it, updates included, and the purchase is covered by the 14-day money-back guarantee in the Refunds Policy.
+    - `achology-anti-gatekeeping-pricing` | - Why doesn't Achology promise transformation or guaranteed outcomes?
+    - Why is Achology priced higher than Udemy but lower than universities?
+    - What makes Achology different from most online learning platforms?
+    - What manipulative pricing tactics does Achology deliberately avoid?  [negated]
+    - `achology-change-mind-after-14-day-guarantee` | So what happens if you change your mind after the Achology 14-day guarantee period ends?
+    - `achology-change-mind-after-14-day-guarantee` | Once the 14-day money-back guarantee has passed, Achology does not refund courses, bundles, or the Access All Areas Pass for a change of mind.  [negated]
+    - `achology-change-mind-after-14-day-guarantee` | What is closed is only the guarantee itself.
+    - `achology-change-mind-after-14-day-guarantee` | - What is Achology's refund policy?
+    - Does Achology offer a money-back guarantee?
+    - Can I get a refund if I disagree with the course content?
+    - [What if Achology courses don't work for you?  [negated]
+    - `achology-content-offensive-emotionally-challenging` | Within 14 days of buying a course, the money-back guarantee refunds in full for any reason, disliking the content included, no questions asked.  [negated]
+    - `achology-customer-legal-rights-uk-consumer-law` | Achology's Refunds Policy, including the 14-day money-back guarantee, is a commercial promise that operates alongside your statutory rights, never instead of them.  [negated]
+    - `achology-customer-legal-rights-uk-consumer-law` | - What law governs Achology's terms and conditions?
+    - What happens if Achology updates a course I've bought?
+    - How do Achology's trust and legal policies work together?
+    - Does Achology offer a money-back guarantee?
+    - `achology-free-trial-introductory-offer` | Courses are a separate purchase from membership, and they carry their own safety net: every course, bundle, and the Access All Areas Pass comes with Achology's 14-day money-back guarantee, no reason required.  [negated]
+    - `achology-free-trial-introductory-offer` | If you already know which course you want, buying it outright is a low-risk way in, since the guarantee still protects you.
+    - `achology-free-trial-introductory-offer` | If you want the full community straight away, take the $7 month, and if you already have a specific course in mind, buy it under the 14-day guarantee.
+    - `achology-membership-refund` | The 14-day money-back guarantee covers Achology's other products, individual courses, school bundles, and the Access All Areas Pass, but not membership.  [negated]
+    - `achology-membership-refund` | ## Why does membership sit outside the guarantee?
+    - `achology-no-transformation-promises` | What a course changes in someone's life depends on their practice, their circumstances, their consistency, and their honesty with themselves, none of which a platform can guarantee.
+    - `achology-no-transformation-promises` | Achology's position is that psychological change is real and teachable, and precisely because it is real, it cannot be sold as a guaranteed outcome.  [negated]
+    - `achology-no-transformation-promises` | - A 14-day money-back guarantee on courses, bundles, and the Access All Areas Pass, set out in the Refunds Policy, so the purchase itself carries no leap of faith.  [negated]
+    - `achology-no-transformation-promises` | Buyers who want a guaranteed result are better served by knowing, before spending anything, that no honest provider can sell one.  [negated]
+    - `achology-refund-disagree-course-content` | Within 14 days of purchase, yes: the money-back guarantee on courses, bundles, and the Access All Areas Pass covers any reason at all, including disliking the teaching style or disagreeing with the approach, with no explanation required.  [negated]
+    - `achology-refund-disagree-course-content` | Your statutory rights under UK consumer law also stand apart from the guarantee.
+    - `achology-refund-disagree-course-content` | - What if I change my mind after the 14-day guarantee period?
+    - Why doesn't Achology promise transformation or guaranteed outcomes?
+    - What if I find Achology course content offensive or challenging?  [negated]
+    - `achology-refund-policy-explained` | Individual courses, school bundles, and the Access All Areas Pass carry a full 14-day money-back guarantee, no reason required, while Achology Membership is non-refundable but cancellable at any time.  [negated]
+    - `achology-refund-policy-explained` | ## How does the 14-day guarantee work in practice?
+    - `achology-refund-policy-explained` | The guarantee applies once per customer per product, and it does not apply where access has been withdrawn for a breach of the Terms and Conditions.  [negated]
+    - `achology-refund-policy-explained` | ## What happens after the 14-day guarantee period ends?
+    - `achology-refund-policy-explained` | Once the guarantee window closes, refunds are not offered for any of the following.  [negated]
+    - `achology-refund-policy-explained` | - Does Achology offer a money-back guarantee?
+    - How do I request a refund from Achology?
+    - What if I change my mind after the 14-day guarantee period?
+    - Is it possible to obtain a refund for my Achology community subscription?
+    - `achology-refund-technical-issues` | If you are still within 14 days of buying the course, the money-back guarantee covers any reason, technical or otherwise.
+    - `achology-responsible-community-member-advice` | Achology does not assess, supervise, endorse or guarantee the quality or outcomes of coaching, feedback or guidance you receive from other participants.  [negated]
+    - `achology-school-bundles-how-they-work` | Bundles run from $987 to $1,337, they are one-off payments covered by the 14-day money-back guarantee, and access to the courses lasts for as long as you want it.
+    - `achology-trust-legal-policies-work-together` | - **Refunds Policy**: the financial boundaries, including the 14-day money-back guarantee and its scope.
+    - `achology-vs-tony-robbins-comparison` | - How does Achology compare to Mindvalley?
+    - How does Achology compare to The School of Life?
+    - Why doesn't Achology promise transformation or guaranteed outcomes?  [negated]
+    - `cancel-achology-membership-anytime` | - Does Achology offer a money-back guarantee?
+    - Is it possible to obtain a refund for my Achology community subscription?
+    - What does Achology membership include?
+    - Can I request the deletion of my Achology account and data?
+    - `choose-a-good-life-coaching-course` | A high price doesn't guarantee good teaching, and a low price doesn't mean a course is weak.  [negated]
+    - `difference-membership-courses-achology` | That difference is also why courses carry a 14-day guarantee and membership does not.  [negated]
+    - `does-achology-offer-a-money-back-guarantee` | Achology offers a full 14-day money-back guarantee on every product except community membership: individual courses, school bundles, and the Access All Areas Pass are all covered.
+    - `does-achology-offer-a-money-back-guarantee` | ## How the 14-day guarantee works
+    - `does-achology-offer-a-money-back-guarantee` | The guarantee applies once per customer per product, and it does not apply where access has been withdrawn for a breach of the Terms and Conditions.  [negated]
+    - `does-achology-offer-a-money-back-guarantee` | - What is Achology's refund policy?
+    - What if I change my mind after the 14-day guarantee period?
+    - Can I cancel my Achology membership anytime?
+    - What are my legal rights as an Achology customer?
+    - `find-achology-course-resources` | Video lessons stream inside the platform and cannot be downloaded, which is also what guarantees you are watching the current version whenever a course is updated.  [negated]
+    - `how-long-achology-refund-process` | A 14-day guarantee claim on a course is the quick case: no reason is required, so there is nothing to assess and it simply goes through.  [negated]
+    - `how-much-does-achology-cost` | It saves 43 percent against the $5,249 combined value of buying everything separately, and it carries a 100 percent money-back guarantee.
+    - `how-to-request-achology-refund` | The 14-day money-back guarantee covers courses, bundles, and the Access All Areas Pass.
+    - `is-a-life-coaching-certification-worth-it` | Neither one is guaranteed by the word "certified" alone.
+    - `is-a-life-coaching-certification-worth-it` | It's also a poor fit for someone hoping it guarantees an income.
+    - `is-achology-right-emotionally-vulnerable` | The free membership tier and free live events let you experience the community and the teaching style at no cost and no pressure, and a $97 Masterclass under the 14-day money-back guarantee is a low-stakes first course.  [negated]
+    - `is-achology-therapy-counselling-or-coaching` | Achology provides the education and the practice environment; it does not guarantee employment, clients, or income.  [negated]
+    - `is-achology-worth-the-money` | It is not worth it if you want passive content to watch in the background, a quick credential, or a guaranteed outcome.  [negated]
+    - `is-achology-worth-the-money` | The 14-day money-back guarantee in the Refunds Policy exists so that a considered purchase is never a trapped one.  [negated]
+    - `is-achology-worth-the-money` | - Why is Achology priced higher than Udemy but lower than universities?
+    - Can Achology courses replace a university psychology degree?
+    - Why doesn't Achology promise transformation or guaranteed outcomes?  [negated]
+    - `is-an-nlp-course-worth-it` | No, if you're hoping it hands you a guaranteed qualification, career or cure, because no honest course can promise any of those.  [negated]
+    - `manipulative-pricing-tactics-achology-avoids` | And instead of pressure at the point of sale, a free tier, a $7 first month, and a 14-day money-back guarantee that makes the decision reversible.
+    - `masterclasses-vs-practitioner-courses-differences` | Both tiers carry the 14-day money-back guarantee and access for as long as you want it.
+    - `mentorship-sessions-recorded-achology` | Treat live attendance as the default and recordings, where they exist, as a way to catch up rather than a guarantee.
+    - `platform-changes-course-access-achology` | No online business can credibly guarantee absolute permanence forever, and saying so is more honest than pretending otherwise.  [negated]
+    - `post-nominal-letters-achology-certificates` | Where a regulator can strike someone off, the letters carry a guarantee.
+    - `realistic-outcomes-with-achology` | - A guaranteed income or career outcome.
+    - `refund-course-complimentary-membership-cancel-too` | The two are handled separately, so if you refund within the 14-day money-back guarantee and do not want the membership either, you need to cancel it yourself.  [negated]
+    - `refund-course-complimentary-membership-cancel-too` | A course is a one-off purchase of material you keep, which is why it carries a 14-day guarantee: you can look at it, decide it is not for you, and hand it back.  [negated]
+    - `see-real-results-how-long-achology-takes` | No schedule can be promised, because the timeline is set by your practice rather than the courses, and Achology guarantees no outcomes at all.  [negated]
+    - `see-real-results-how-long-achology-takes` | Give any course the 14 days of its money-back guarantee as a genuine trial of fit.
+    - `standards-apply-trainee-achologists` | - Get permission before using any client work for educational purposes, with identities thoroughly anonymised, and treat consent as mandatory wherever anonymity cannot be guaranteed.  [negated]
+    - `upgrade-courses-bundle-access-pass` | Support reviews each request case by case; credit is not guaranteed and depends on what you bought and when.  [negated]
+    - `what-achology-certificate-proves` | Neither one claims you're a licensed professional or guarantees a particular skill level.
+    - `what-if-achology-courses-dont-work` | Within 14 days of a course purchase, the money-back guarantee refunds in full for any reason, per the change-of-mind terms.
+    - `what-if-achology-courses-dont-work` | - How long does it take to see results from Achology courses?
+    - Who is Achology not designed for?
+    - What if I change my mind after the 14-day guarantee period?
+    - I've completed a course, but haven't changed: what went wrong?  [negated]
+    - `what-law-governs-achology-terms` | Contact support@achology.com first, because the routes for ending a contract or getting money back are already published, covering the refund policy, the 14-day guarantee and cancelling at any time.
+    - `which-achology-company-am-actually-contracting` | - The 14-day money-back guarantee on courses applies the same way.
+    - `who-is-achology-not-for` | The free tier exists so you can stand inside the place before spending anything, and the 14-day guarantee means a considered purchase carries no trap.  [negated]
+    - `why-achology-emphasises-personal-responsibility` | - What does Achology mean by "personal responsibility" in learning?
+    - Why doesn't Achology promise transformation or guaranteed outcomes?  [negated]
+
+#### 3. therapist as a title: 76
+    - `achology-certification-practice-competence` | It does not qualify you to use regulated titles such as therapist or counsellor, and that boundary does not move.  [negated]
+    - `achology-course-outcomes` | You cannot use regulated titles: therapist, counsellor, psychotherapist, psychologist.  [negated]
+    - `achology-vs-therapy-training-counselling` | Therapists add these applied traditions to enrich the non-clinical dimensions of their work, while members whose helping practice reveals a vocation move on into accredited clinical training.
+    - `achology-vs-therapy-training-counselling` | - Is Achology a university or degree provider?
+    - How does Achology compare to ICF coaching certification?
+    - Can I call myself a therapist after completing Achology courses?
+    - What's the difference between coaching and counselling training?
+    - `become-a-certified-nlp-practitioner` | None of these bodies is a government agency, and NLP practitioner is not a protected legal title anywhere the way therapist or doctor can be.  [negated]
+    - `best-cbt-course-or-certification` | - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `call-myself-therapist-achology-courses` | So can you call yourself a therapist once you have finished?
+    - `call-myself-therapist-achology-courses` | Titles such as therapist, counsellor, psychotherapist, and psychologist tell the public one specific thing: that the person holds accredited clinical training, supervised practice hours, and professional registration.
+    - `call-myself-therapist-achology-courses` | The person who searches for a therapist is often at their most vulnerable, and the title is how they judge what they are getting.
+    - `cbt-course-levels-and-diplomas` | Most accredited CBT therapist training runs at Level 7.
+    - `cbt-course-levels-and-diplomas` | - How do you become a CBT therapist, and do you need a degree?
+    - `cbt-practitioner-vs-cbt-therapist` | So what is a Cognitive Behavioural Therapy (CBT) practitioner, and is that the same as a CBT therapist?
+    - `cbt-practitioner-vs-cbt-therapist` | A CBT practitioner has learned how CBT works, tried it on their own life first, and now uses it to help other people, while a CBT therapist is a clinician who treats patients.
+    - `cbt-practitioner-vs-cbt-therapist` | ## What does a CBT therapist do, and how do you become one?
+    - `cbt-practitioner-vs-cbt-therapist` | A CBT therapist uses CBT to treat people, often people a doctor has referred.
+    - `cbt-practitioner-vs-cbt-therapist` | ## Can a CBT practitioner call themselves a therapist?
+    - `cbt-practitioner-vs-cbt-therapist` | To most people, the word therapist means clinical training, professional registration and treating illness.
+    - `cbt-practitioner-vs-cbt-therapist` | Achology is the online academy of practical psychology behind this answer, and it has never encouraged anyone it trains to call themselves a therapist.  [negated]
+    - `cbt-practitioner-vs-cbt-therapist` | You'll find the full position in Can I call myself a therapist after completing Achology courses?
+    - `cbt-practitioner-vs-cbt-therapist` | If you want to treat patients, work in a health service or hold a clinical title, take the therapist road.
+    - `cbt-practitioner-vs-cbt-therapist` | None of these will make you a therapist, and they don't pretend to.  [negated]
+    - `cbt-practitioner-vs-cbt-therapist` | - Can I call myself a therapist after completing Achology courses?
+    - Can Achology replace traditional therapy training?
+    - Is Achology therapy, counselling, or coaching?
+    - `coaching-vs-counselling-credentials-difference` | Studying the skills of a tradition and being credentialed to practise its profession are different things, which is the same distinction behind not being able to call yourself a therapist whatever you have studied here.  [negated]
+    - `coaching-vs-counselling-credentials-difference` | - Can I call myself a therapist after completing Achology courses?
+    - Can Achology replace traditional therapy training?
+    - `does-achology-provide-crisis-support` | Take it to your doctor or a qualified therapist, and let the education be what it is designed to be.
+    - `how-much-do-cbt-therapists-earn` | How much do CBT therapists earn?
+    - `how-much-do-cbt-therapists-earn` | At the high-intensity stage, a trainee CBT therapist starts on Band 6, around £37,338.
+    - `how-much-do-cbt-therapists-earn` | Most trainee CBT therapists spend at least two years working first as a psychological wellbeing practitioner, gaining the clinical experience the high-intensity route requires before that training even starts.
+    - `how-much-do-cbt-therapists-earn` | So the full climb, from a Band 4 trainee to a fully qualified Band 7 CBT therapist, is closer to five or six years than one.
+    - `how-much-do-cbt-therapists-earn` | ## What Does a Qualified CBT Therapist Earn?
+    - `how-much-do-cbt-therapists-earn` | Once fully qualified, a high-intensity CBT therapist sits on Band 7, from £46,148 up to £52,809.
+    - `how-much-do-cbt-therapists-earn` | Two therapists on Band 7 can genuinely earn different amounts, both correctly described by the same figures above.
+    - `how-much-do-cbt-therapists-earn` | A therapist with ten years in post typically sits higher on their band than someone who qualified last year, even on the same job title.
+    - `how-much-do-cbt-therapists-earn` | ## So, How Much Do CBT Therapists Earn, Overall?
+    - `how-much-do-cbt-therapists-earn` | Four figures, in order: around £28,392 training as a psychological wellbeing practitioner, £32,073 to £39,043 once qualified in that role, around £37,338 training as a CBT therapist, and £46,148 to £52,809 once fully qualified, with Band 8 roles reaching £53,755 and beyond.
+    - `how-much-do-cbt-therapists-earn` | - How do you become a CBT therapist, and do you need a degree?
+    - `how-to-become-a-cbt-coach` | How to become a CBT coach isn't governed by a single fixed licence, the way an NHS CBT therapist route is.  [negated]
+    - `how-to-become-a-cbt-coach` | - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `how-to-become-a-cbt-coach` | - How do you become a CBT therapist, and do you need a degree?
+    - `how-to-become-a-cbt-coach` | - How much do CBT therapists and practitioners earn?
+    - `how-to-become-a-cbt-therapist` | How to become a CBT therapist, in plain terms: yes, you need a degree.
+    - `how-to-become-a-cbt-therapist` | ## What's the NHS Route to Becoming a CBT Therapist?
+    - `how-to-become-a-cbt-therapist` | Only then can they access NHS-funded training as a full CBT therapist.
+    - `how-to-become-a-cbt-therapist` | Most UK employers of CBT therapists look for BABCP accreditation.
+    - `how-to-become-a-cbt-therapist` | ## How to Become a CBT Therapist a Different Way: Is There a Shorter Route?
+    - `how-to-become-a-cbt-therapist` | Want to know exactly how that differs from the therapist role?
+    - `how-to-become-a-cbt-therapist` | None of these will make you a CBT therapist.
+    - `how-to-become-a-cbt-therapist` | - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `how-to-become-a-cbt-therapist` | - Can I call myself a therapist after completing Achology courses?
+    - `insurance-coverage-achology-qualifications` | - Do I need to join a professional body after Achology?
+    - Can I call myself a therapist after completing Achology courses?
+    - Do I need professional indemnity insurance to practise as an Achologist?
+    - `is-a-cbt-certification-worth-it` | Most UK employers hiring CBT therapists look for BABCP accreditation: a recognised mental health profession first, then specific postgraduate CBT training on top, at least four years of training in all.
+    - `is-a-cbt-certification-worth-it` | For becoming a clinical therapist, the answer is no, not on its own, and it was never meant to be that route.  [negated]
+    - `is-a-cbt-certification-worth-it` | None of them will make you a therapist, and none pretend to.
+    - `is-a-cbt-certification-worth-it` | - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `is-achology-therapy-counselling-or-coaching` | So is this training you to be a therapist, a counsellor, or a coach?
+    - `is-achology-therapy-counselling-or-coaching` | If your goal is to become a licensed therapist or counsellor, Achology is not the training pathway.  [negated]
+    - `nhs-routes-into-cbt` | The second is high intensity, as a fully trained CBT therapist.
+    - `nhs-routes-into-cbt` | It's what most people mean when they picture a CBT therapist.
+    - `nhs-routes-into-cbt` | It also means the route into becoming a high-intensity therapist runs through real, paid clinical experience first, not straight from a classroom.  [negated]
+    - `nhs-routes-into-cbt` | Two routes, in a fixed order: low intensity through a psychological wellbeing practitioner, then high intensity as a fully trained CBT therapist.
+    - `nhs-routes-into-cbt` | - How do you become a CBT therapist, and do you need a degree?
+    - `nhs-routes-into-cbt` | - How much do CBT therapists and practitioners earn?
+    - `nhs-routes-into-cbt` | - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `study-cbt-online` | They lead somewhere specific: a clinical qualification, on the road to becoming an accredited CBT therapist.
+    - `study-cbt-online` | - How do you become a CBT therapist, and do you need a degree?
+    - `what-does-a-cbt-course-cover` | - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `what-does-achology-certification-qualify` | The sharpest version of the boundary has its own plain answer, in Can I call myself a therapist after completing Achology courses?
+    - `what-does-achology-certification-qualify` | - Can I call myself a therapist after completing Achology courses?
+    - Can I use Achology courses for CPD hours?
+    - Can I put letters after my name with Achology certificates?
+    - Are Achology certificates recognised internationally?
+    - `where-can-i-learn-about-albert-ellis` | ## Does Studying Ellis Make You a Therapist?
+    - `where-can-i-learn-about-albert-ellis` | An Albert Ellis course at Achology is education, not clinical training, and nothing in it trains you to work as a therapist.  [negated]
+    - `where-can-i-learn-about-albert-ellis` | - Where can I learn about Carl Rogers?
+    - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `where-can-i-learn-about-carl-rogers` | Rogers worked as a therapist, and Achology teaches his ideas as education, never as clinical training.  [negated]
+    - `where-can-i-learn-drama-triangle` | ## Does Studying This Make You a Therapist?
+    - `where-can-i-learn-drama-triangle` | Learning it here doesn't train you as a therapist or counsellor of any kind.  [negated]
+    - `where-can-i-learn-skilled-helper` | ## Does Studying This Make You a Counsellor or Therapist?
+    - `where-can-i-learn-skilled-helper` | The model was built for helping conversations generally, and Achology doesn't train counsellors or therapists of any kind.  [negated]
+
+#### 4. the brain: 0
+
+#### 5. named thinkers: 68
+    - `achology-course-order-sequence` | Gerard Egan) came first.
+    - `any-achology-courses-appear-more-than` | Gerard Egan): in the Life Coaching school and the Person-Centred school.
+    - `key-milestones-achology-s-history` | Gerard Egan.
+    - `what-does-a-cbt-course-cover` | - **The psychology behind the method**: Aaron Beck's cognitive distortions, and Albert Ellis's ABC and ABCDE frameworks.
+    - `what-does-a-cbt-course-cover` | Aaron Beck's work on cognitive distortions, and Albert Ellis's ABC and ABCDE frameworks, explain why a thought misleads you.
+    - `what-does-an-nlp-course-cover` | The course then turns to personal values and what a good life actually looks like, drawing on ideas from Aristotle and from Abraham Maslow.
+    - `where-can-i-learn-about-albert-ellis` | So, where can you learn about Albert Ellis without digging through the internet's archives or enrolling in a psychology degree?  [negated]
+    - `where-can-i-learn-about-albert-ellis` | If you want one place to start, the best Albert Ellis course is the Cognitive Behavioural Therapy (CBT) Practitioner Course, which teaches his thinking in the most depth.
+    - `where-can-i-learn-about-albert-ellis` | Albert Ellis (1913 to 2007) was a controversial American psychologist who founded what became Rational Emotive Behavior Therapy (REBT).
+    - `where-can-i-learn-about-albert-ellis` | ## Who Was Albert Ellis, and Why Does He Still Matter?
+    - `where-can-i-learn-about-albert-ellis` | Ellis first set out his approach in 1957 and called it Rational Therapy.
+    - `where-can-i-learn-about-albert-ellis` | It was renamed twice before it became REBT, the name it's known by today, according to the Albert Ellis Institute.
+    - `where-can-i-learn-about-albert-ellis` | Ellis wrote for everyday readers as well as for professionals, most famously in A Guide to Rational Living.
+    - `where-can-i-learn-about-albert-ellis` | ## Which Achology Courses Teach Albert Ellis?
+    - `where-can-i-learn-about-albert-ellis` | ## Which Albert Ellis Course Should You Start With?
+    - `where-can-i-learn-about-albert-ellis` | ## Does Studying Ellis Make You a Therapist?
+    - `where-can-i-learn-about-albert-ellis` | An Albert Ellis course at Achology is education, not clinical training, and nothing in it trains you to work as a therapist.  [negated]
+    - `where-can-i-learn-about-albert-ellis` | ## How Does Ellis Fit With What Achology Teaches?
+    - `where-can-i-learn-about-albert-ellis` | He's one of several thinkers Achology draws on, alongside Carl Rogers, Viktor Frankl and Abraham Maslow.
+    - `where-can-i-learn-about-albert-ellis` | - Where can I learn about Carl Rogers?
+    - What is a CBT practitioner, and how is that different from a CBT therapist?
+    - `where-can-i-learn-about-carl-rogers` | So where can you learn about Carl Rogers without signing up for a counselling degree?  [negated]
+    - `where-can-i-learn-about-carl-rogers` | If you are looking for a Carl Rogers course, five of Achology's courses teach his ideas, and two of them teach him in depth.
+    - `where-can-i-learn-about-carl-rogers` | Carl Rogers (1902 to 1987) was the American psychologist who founded the person-centred approach.
+    - `where-can-i-learn-about-carl-rogers` | ## Who was Carl Rogers, and why does he still matter?
+    - `where-can-i-learn-about-carl-rogers` | Rogers believed that every person has a built-in tendency to grow, which he called the actualising tendency.
+    - `where-can-i-learn-about-carl-rogers` | ## Which Achology courses teach Carl Rogers?
+    - `where-can-i-learn-about-carl-rogers` | ## Does studying Rogers here make you a person-centred counsellor?
+    - `where-can-i-learn-about-carl-rogers` | Rogers worked as a therapist, and Achology teaches his ideas as education, never as clinical training.  [negated]
+    - `where-can-i-learn-about-carl-rogers` | ## How does Rogers fit with everything else Achology teaches?
+    - `where-can-i-learn-about-carl-rogers` | He is one of five thinkers Achology's outlook stands on, alongside Albert Ellis, Gerard Egan, Viktor Frankl and Abraham Maslow.
+    - `where-can-i-learn-about-viktor-frankl` | So where can you learn about Viktor Frankl, and put his ideas to real use?
+    - `where-can-i-learn-about-viktor-frankl` | If you're looking for a Viktor Frankl course, three of Achology's courses teach his ideas, each building on a different part of his work.
+    - `where-can-i-learn-about-viktor-frankl` | ## Who Was Viktor Frankl, and Why Does He Still Matter?
+    - `where-can-i-learn-about-viktor-frankl` | Frankl was a psychiatrist who survived several Nazi concentration camps during the Second World War.
+    - `where-can-i-learn-about-viktor-frankl` | ## Which Achology Courses Teach Viktor Frankl?
+    - `where-can-i-learn-about-viktor-frankl` | - **Diploma Course in Modern Applied Psychology (DiMAP)**: a lesson on Frankl, logotherapy, and Man's Search for Meaning directly.
+    - `where-can-i-learn-about-viktor-frankl` | - **Life Coaching Certificate Course (Beginner to Advanced)**: a lesson on valuable lessons drawn from Frankl, and two more building the same six keys to a life of purpose.
+    - `where-can-i-learn-about-viktor-frankl` | ## Which Viktor Frankl Course Should You Start With?
+    - `where-can-i-learn-about-viktor-frankl` | ## Does Studying Frankl Here Train You in Logotherapy?
+    - `where-can-i-learn-about-viktor-frankl` | Frankl built logotherapy as a clinical approach, and Achology doesn't train logotherapists of any kind.  [negated]
+    - `where-can-i-learn-about-viktor-frankl` | ## How Does Frankl Fit With Everything Else Achology Teaches?
+    - `where-can-i-learn-about-viktor-frankl` | He's one of the thinkers Achology's outlook draws on, alongside Carl Rogers, Albert Ellis and Abraham Maslow.
+    - `where-can-i-learn-about-viktor-frankl` | - Where can I learn about Carl Rogers?
+    - How do you become a life coach, step by step?
+    - `where-can-i-learn-abraham-maslow` | Where can you learn Maslow's hierarchy of needs course, past the pyramid picture?
+    - `where-can-i-learn-abraham-maslow` | ## Who Was Abraham Maslow, and Why Does He Still Matter?
+    - `where-can-i-learn-abraham-maslow` | Maslow was an American psychologist.
+    - `where-can-i-learn-abraham-maslow` | Late in life, before he died in 1970, Maslow added one more level.
+    - `where-can-i-learn-abraham-maslow` | ## Which Achology Courses Teach Maslow's Hierarchy?
+    - `where-can-i-learn-abraham-maslow` | ## So, Which Maslow's Hierarchy of Needs Course Should You Start With?
+    - `where-can-i-learn-abraham-maslow` | ## Does Studying Maslow Here Make You a Psychologist?
+    - `where-can-i-learn-abraham-maslow` | Maslow was a research psychologist, and Achology doesn't award a psychology qualification of any kind.  [negated]
+    - `where-can-i-learn-abraham-maslow` | Maslow's hierarchy works the same way here.
+    - `where-can-i-learn-abraham-maslow` | ## How Does Maslow Fit With Everything Else Achology Teaches?
+    - `where-can-i-learn-abraham-maslow` | He's one of the thinkers Achology's outlook draws on, alongside Carl Rogers, Albert Ellis and Viktor Frankl.
+    - `where-can-i-learn-abraham-maslow` | It also sits well next to Frankl's own idea, that meaning can be found even when basic needs are under threat.
+    - `where-can-i-learn-abraham-maslow` | - Where can I learn about Viktor Frankl?
+    - How do you become a life coach, step by step?
+    - `where-can-i-learn-drama-triangle` | - Where can I learn Gerard Egan's Skilled Helper Model?
+    - How do you become a life coach, step by step?
+    - `where-can-i-learn-skilled-helper` | Eight of Achology's courses teach Gerard Egan's model, and two of them were built around it directly.
+    - `where-can-i-learn-skilled-helper` | ## Who Was Gerard Egan, and What Did He Build?
+    - `where-can-i-learn-skilled-helper` | Egan spent his career as a professor at Loyola University of Chicago, teaching organisation studies and psychology.
+    - `where-can-i-learn-skilled-helper` | Two of Achology's courses were built with Egan directly.
+    - `where-can-i-learn-the-johari-window` | It also sits close to the work of Carl Rogers, who held that people grow as they become more open to their own experience.
+    - `where-can-i-learn-the-johari-window` | Where can I learn about Carl Rogers? covers the courses that teach him.
+    - `where-can-i-learn-the-johari-window` | - Where can I learn about Carl Rogers?
+    - What is Achology's teaching philosophy?
+    - Why doesn't Achology teach diagnostic models or psychiatric labelling?  [negated]
+    - `which-courses-included-each-school-bundle` | Gerard Egan)](/academy/life-coaching/skilled-helper/), Skilled Helper Practitioner Course (Advanced to Expert), and The Clarity, Purpose and Personal Effectiveness Masterclass.
+    - `which-courses-included-each-school-bundle` | Gerard Egan), and The Communication Skills and Social Intelligence Masterclass.
+    - `who-is-kain-ramsay` | The Skilled Helper course was built with Professor Gerard Egan, whose Skilled Helper model is one of the most widely taught frameworks in professional helping.
+    - `who-is-kain-ramsay` | Egan's involvement is the kind of thing that is difficult to arrange on reputation alone.
+
+#### 6. the four lines: 0
+
+files searched: 279
