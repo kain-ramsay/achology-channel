@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: WAITS ON Kain saying yes to Code directly.** Renaming five live lessons in Circle changes what students see on another platform, so Code asks Kain in its own session before touching it; asked at this session's next message.
+
 # BRIEF: take the unsourced "fourteen" out of five lesson titles in Circle
 
 **Needs from Code:** rename five lessons through the Circle admin API, read each back, report.
