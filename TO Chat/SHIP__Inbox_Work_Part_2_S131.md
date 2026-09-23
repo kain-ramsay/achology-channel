@@ -642,3 +642,124 @@ Read off the install, S131, after tonight's pushes. **Published:** 269 articles 
 ### REPLY__Five_Cards_Voice_Rerun_And_Inbox_Work_Acted_On_S380, job 3: the quote page template's DSRD 6 record: DONE, and a correction to Code's board-card answer
 
 **Correction:** `ANSWER__Five_Board_Cards_S131` said the quote page template had no DSRD 6 record. It had one, created by the S130 backfill but filed by mistake inside the page's image folder (`Page Images/Course Quote Covers/`), which is why a look at the design folder missed it. It now sits in the Quote Page design folder as `DSRD6_RECORD.md`, naming `PROTOTYPE__Quote_Page_S130_APPROVED.html` as its signed prototype, and its machine half was re-run tonight on a live quote page (`reading-for-insight`): §2, §3, §5, §7 and §11 machine halves pass; **§1 fails** on one acronym, "CBT", used before it is spelled out, which comes from the course card's own name ("CBT Toolkit") inside the page's course block, not the quote's words; **§10 fails** on a 384px gap at desktop where 48 is the rule, a theme spacing fault. Both are theme items; §10 rides with the spacing sweep in the theme queue.
+
+### CORRECTION to the one-sentence re-measurement above
+
+The first count treated the items of a list spaced out with blank lines as paragraphs, and a line ending in a colon that introduces a list as a lone sentence; Chat's S370 ruling passes the lead-in, and a list item is not a paragraph. Found on the Ellis answer, fixed in the gate (acceptance 149 of 149, one new case). **The corrected count, which replaces the one above:** records on disk: 279 read, 46 carry at least one one-sentence paragraph, 109 such paragraphs in all
+; live bodies on the install (read this session): 250 read, 31 carry at least one one-sentence paragraph, 81 such paragraphs in all
+. The page-by-page list, worst first:
+
+    achology-peer-learning-culture                                6 of 11 paragraphs
+    achology-community-rules-moderation                           5 of 11 paragraphs
+    achology-s-ten-value-commitments                              5 of 20 paragraphs
+    how-long-achology-courses-take-timelines                      5 of 12 paragraphs
+    achology-certificates-recognised-internationally              4 of 12 paragraphs
+    achology-certificates-vs-university-degrees                   4 of 13 paragraphs
+    best-cbt-course-or-certification                              4 of 19 paragraphs
+    overwhelmed-by-achology-options                               4 of 11 paragraphs
+    self-study-books-vs-achology-courses                          4 of 15 paragraphs
+    achology-case-study-discussion-groups                         3 of 10 paragraphs
+    achology-course-outcomes                                      3 of 12 paragraphs
+    become-instructor-contribute-content-achology                 3 of 11 paragraphs
+    choose-a-good-life-coaching-course                            3 of 31 paragraphs
+    find-achology-members-similar-interests                       3 of 11 paragraphs
+    what-does-a-life-coaching-course-actually-teach               3 of 24 paragraphs
+    why-pay-achology-when-free-content-exists                     3 of 13 paragraphs
+    will-employers-recognise-achology-certificate                 3 of 11 paragraphs
+    achologist-adept                                              2 of 11 paragraphs
+    achology-invite-link-not-working                              2 of 11 paragraphs
+    achology-live-practice-session-etiquette                      2 of 14 paragraphs
+    become-a-certified-nlp-practitioner                           2 of 20 paragraphs
+    can-achology-suspend-terminate-access                         2 of 11 paragraphs
+    have-each-year-keep-master-achologist                         2 of 10 paragraphs
+    long-achology-valts-session                                   2 of 18 paragraphs
+    mentoring-opportunities-achology-membership                   2 of 13 paragraphs
+    need-a-certification-or-a-degree                              2 of 18 paragraphs
+    progress-member-achologist                                    2 of 10 paragraphs
+    what-does-an-nlp-course-cover                                 2 of 33 paragraphs
+    what-is-achology                                              2 of 14 paragraphs
+    where-can-i-learn-about-viktor-frankl                         2 of 14 paragraphs
+    where-can-i-learn-drama-triangle                              2 of 19 paragraphs
+    where-can-i-learn-skilled-helper                              2 of 13 paragraphs
+    achology-disagreement-open-discussion                         1 of 12 paragraphs
+    achology-media-press-interview-requests                       1 of 11 paragraphs
+    achology-skill-development-workshops                          1 of 11 paragraphs
+    become-a-life-coach                                           1 of 16 paragraphs
+    cant-send-receive-messages-achology-community                 1 of  9 paragraphs
+    character-traits-define-achologist                            1 of 15 paragraphs
+    how-to-start-learning-cbt                                     1 of 18 paragraphs
+    is-a-life-coaching-certification-worth-it                     1 of 20 paragraphs
+    is-an-nlp-course-worth-it                                     1 of 14 paragraphs
+    manage-achology-community-notifications                       1 of 12 paragraphs
+    nhs-routes-into-cbt                                           1 of 19 paragraphs
+    nine-ccac-virtues                                             1 of 16 paragraphs
+    what-is-circle-achology-community                             1 of  9 paragraphs
+    what-makes-a-good-nlp-course                                  1 of 22 paragraphs
+    achology-peer-learning-culture                                6 of 10 paragraphs
+    how-long-achology-courses-take-timelines                      5 of 11 paragraphs
+    achology-community-rules-moderation                           5 of 10 paragraphs
+    achology-s-ten-value-commitments                              5 of 19 paragraphs
+    self-study-books-vs-achology-courses                          4 of 14 paragraphs
+    achology-certificates-vs-university-degrees                   4 of 12 paragraphs
+    achology-certificates-recognised-internationally              4 of 11 paragraphs
+    overwhelmed-by-achology-options                               4 of 10 paragraphs
+    why-pay-achology-when-free-content-exists                     3 of 12 paragraphs
+    achology-course-outcomes                                      3 of 11 paragraphs
+    will-employers-recognise-achology-certificate                 3 of 10 paragraphs
+    achology-case-study-discussion-groups                         3 of  9 paragraphs
+    find-achology-members-similar-interests                       3 of 10 paragraphs
+    become-instructor-contribute-content-achology                 3 of 10 paragraphs
+    what-is-achology                                              2 of 20 paragraphs
+    can-achology-suspend-terminate-access                         2 of 10 paragraphs
+    achology-live-practice-session-etiquette                      2 of 13 paragraphs
+    mentoring-opportunities-achology-membership                   2 of 12 paragraphs
+    achology-invite-link-not-working                              2 of 10 paragraphs
+    achologist-adept                                              2 of 15 paragraphs
+    progress-member-achologist                                    2 of 11 paragraphs
+    have-each-year-keep-master-achologist                         2 of 13 paragraphs
+    long-achology-valts-session                                   2 of 17 paragraphs
+    achology-skill-development-workshops                          1 of 10 paragraphs
+    cant-send-receive-messages-achology-community                 1 of  8 paragraphs
+    what-is-circle-achology-community                             1 of  8 paragraphs
+    manage-achology-community-notifications                       1 of 11 paragraphs
+    achology-disagreement-open-discussion                         1 of 11 paragraphs
+    achology-media-press-interview-requests                       1 of 10 paragraphs
+    nine-ccac-virtues                                             1 of 15 paragraphs
+    character-traits-define-achologist                            1 of 14 paragraphs
+
+### NOTE__Push_66_More_Fixed_Records_And_Two_SEO_Titles_S381: DONE
+
+- The two SEO titles set first, word for word: remembered-for "Remembered For: What Do You Want People to Say?"; think-objectively "Think Objectively: What It Means in Practice".
+- **67 of 67 pushed** (items 1 to 68 less item 66) with `--with-seo` and **read back clean, 67 of 67** (two needed a second read: one page did not load in time, one link count misread; both clean on the retry, and all six outside links were checked on the live page by hand for the second). Eleven were quote pages, named in Cowork's list by their record IDs and matched to their addresses.
+- `helping-people-help-themselves` is both an article and a quote page, so the push tool now takes a type in front of the address (`field-authority-article:helping-people-help-themselves`); the bare name is still refused, correctly.
+- **`voice_standard: s130` on 40.** Left unmarked, 27, each with the strict line it fails (nearly all the opening line, outside this job):
+
+    examining-the-doll-test: voice: opens speaking to the reader (A simple question, put to a young child holding two dolls id); voice: first heading does not repeat the title (What was the doll test, and what did it actually show)
+    helping-people-help-themselves: 2 records
+    karpman-drama-triangle: voice: opens speaking to the reader (Most people know the feeling before they know the name for i)
+    perceptions-illusion-insights-from-the-halo-effect-experiment: voice: opens speaking to the reader (Two students watch the same guest lecturer, on the same reco)
+    the-lucifer-effect-10-lessons-from-philip-zimbardos-classic: voice: opens speaking to the reader ("Ordinary, healthy people can be led to act in ways they wou)
+    the-origin-of-cognitive-therapy: voice: opens speaking to the reader (Ask someone where cognitive therapy came from, and most peop)
+    the-stages-of-change-model: voice: opens speaking to the reader (Fifteen quotes. Fifteen different historical figures. Voltai)
+    the-truth-about-eloquence: voice: opens speaking to the reader (There is a number that gets repeated in almost every communi)
+    unraveling-apathy-insights-from-the-bystander-effect-study: voice: opens speaking to the reader (Does the bystander effect still hold up? Most people know th)
+    unveiling-attachment-insights-from-harlows-monkey-experiments: voice: opens speaking to the reader (Put a baby rhesus monkey in a cage with two mothers. One is)
+    voices-of-vulnerability-insights-from-the-monster-study-experiment: voice: opens speaking to the reader (Look up the Monster Study and nearly every account opens the)
+    mental-disorders-tripled-since-the-1950s: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental ); voice: opens speaking to the reader (Since 1952, the number of named mental disorders has nearly)
+    the-rise-in-autism-diagnoses-real: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental ); voice: opens speaking to the reader (Autism diagnoses have climbed sharply over the past few deca)
+    a-guide-to-building-inner-resilience: voice: opens speaking to the reader (Something has shifted lately. Somewhere in the last few year)
+    conditioning-fear-insights-from-the-little-albert-experiment: voice: opens speaking to the reader (A baby lies on a mattress in a hospital nursery. A researche)
+    decide-with-confidence-10-timeless-principles-for-wise-decision-making: voice: opens speaking to the reader (The old version of this page promised ten timeless principle)
+    exploring-self-determination-theory-key-principles-applications: voice: opens speaking to the reader (A father starts paying his son fifty cents for every book he)
+    insights-from-mary-ainsworths-the-strange-situation-study: voice: opens speaking to the reader ("Anxious attachment." "Avoidant attachment." The phrases tur)
+    the-origin-of-the-drama-triangle: voice: opens speaking to the reader (Plenty of people can describe the Drama Triangle. Far fewer)
+    the-origins-of-positive-psychology: voice: opens speaking to the reader (Ask when positive psychology began and most people guess a d)
+    the-role-of-freedom-in-personal-autonomy-and-decision-making: voice: opens speaking to the reader (A friend says it right before a big decision. "At least I'm)
+    diagnosing-bipolar-disorder-in-children: voice: opens speaking to the reader (Why do professionals disagree about diagnosing bipolar disor)
+    diagnosis-be-scientifically-weak-but-still-useful: voice: opens speaking to the reader (Can a diagnosis be scientifically weak but still useful? Aft); voice: first heading does not repeat the title (Can a Diagnosis Be Scientifically Weak but Still Useful, Giv)
+    diagnostic-inflation-actually-happening: voice: opens speaking to the reader (Is diagnostic inflation actually happening? Plenty of people)
+    homosexuality-was-a-diagnosis: voice: opens speaking to the reader (For decades, being gay was officially named a mental illness)
+    hypomania-from-an-ordinary-mood-swing: voice: first heading does not repeat the title (How Do You Tell Hypomania From an Ordinary Mood Swing, Accor)
+    multiple-personality-diagnoses-spike-after-a-film: voice: opens speaking to the reader (A rare diagnosis, almost unheard of for a century and a half)
+
+- **The Ellis help answer (`HELP__where-can-i-learn-about-albert-ellis.md`): not on the install, and its gate fails one line: reading ease 59.0 against the band's floor of 60.** It is not imported; one point of reading ease is Chat's to fix or waive.
