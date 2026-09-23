@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S382: ACTED ON, archived.** Read DSRD 7 section 4.4a in full to get the rule right rather than working from the ASK alone. The sweep brief is written and sent, `BRIEF__The_One_Text_Line_Sweep_DSRD_7_4_4a_S382` in FROM Chat: the three non-violation categories this file itself named, what counts as a real violation, straight swaps for Code, and the centred blocks grouped into five components for Kain's rendered ruling rather than one ruling per page.
+
 **Needs from Chat:** the sweep brief for Kain's one text line rule (DSRD 7 section 4.4a), written from this table, naming its pages and its exceptions.
 
 # MEASURED: how many left text edges each built page has
