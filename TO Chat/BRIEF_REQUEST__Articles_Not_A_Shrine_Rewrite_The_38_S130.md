@@ -33,8 +33,25 @@ No other change: same headings where they do not break rule 6, same links, same 
 
 The six as machine checks in `content_gate.py`, on every article record, not only these 38, so no future article passes while naming its source person repeatedly, narrating a post, describing itself, opening without the reader, repeating its title in its first heading, or opening its meta description on a person's name. Each proved both ways (a record that breaks it fails; a clean record passes), with the printouts in Code's SHIP. The source person is read from the record, never a hard-coded name. Where a check needs a threshold Chat or DSRD 2 should own, Code names it in the SHIP rather than setting it silently.
 
+## Built the same session: the checks are in the gate
+
+`content_gate.py`, `voice_checks()`, run by every article type except author biographies (instructor, knowledge-derived, field-authority, book-derived, hub question, hub guide). Seven lines, all FAIL-level: the source person is not narrated; the source person is named at most once; no reference to the source post; no paragraph describing the article; opens speaking to the reader; first heading does not repeat the title; meta description does not open on a person's name. **The source person is read from the record:** `reviewed_by` naming a person in `people-setup.php` who is not the `author`. Today that is exactly the 38; the three person lines run on nothing else.
+
+**Proved both ways.** The reported record fails all seven (Kain named 13 times, 4 narrations, "Kain's post", the "This piece follows" paragraph, the third-person opening, the first H2 repeating the title, the meta opening "Kain Ramsay"). A fixture shaped like the 38 and written to the six rules passes all seven. Acceptance: `content_gate_acceptance.py` 106 of 106, `stage5_import_checks_acceptance.py` 6 of 6.
+
+**Impact on records already written, for Chat to rule before anything relies on these lines at volume** (the S348 lesson about failing honest records the day a check arrives):
+
+| Check | Instructor (102) | Field authority (116) | Hub question (5) |
+|---|---|---|---|
+| Opens speaking to the reader | 62 fail | 57 fail | 2 fail |
+| No paragraph describing the article | 32 | 38 | 0 |
+| First heading repeats the title | 12 | 5 | 2 |
+| Person rules (named once / narrated / post / meta on a name) | 36 / 25 / 17 / 22 | 0 | 0 |
+
+Three things for Chat: (1) the opening and self-description lines fail 121 and 70 records already live; they are Kain's rules, but whether they fail or count on existing records until each is next edited is Chat's call, and Code will switch them to counted lines on Chat's word. (2) **Possible conflict:** two hub question records fail the first-heading line with a "So, does CBT actually work?" style H2; if that shape is the approved S374 exemplar's, the rule and the exemplar disagree and Chat or Kain settles which stands. (3) The meta-description line matches any registry name at the start, so it also fails records outside the 38 whose meta opens on a thinker's name; biographies are exempt, and the 22 instructor hits are counted above.
+
 ## OWED BACK
 
-The rewrite commissioned, and a sweep brief naming the 38 for the push.
+The rewrite commissioned, a sweep brief naming the 38 for the push, and a ruling on (1) and (2) above.
 
 *No em or en dashes in this file; checked before writing.*
