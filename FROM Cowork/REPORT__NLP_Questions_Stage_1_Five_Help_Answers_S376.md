@@ -1,3 +1,5 @@
+> **CHAT S381: stays.** Chat checked the five before Kain's read and sent them back for "actually" and "honest" (part 3 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: Cowork's corrected five; then Kain reads.
+
 # Report: Job 4, Stage 1, Five NLP Help Answers
 
 **Filed by Cowork, Session 376, per RULING__Your_Next_Two_Jobs_Ahead_Of_The_Tray_Order_S376.md's instruction to carry on down the tray from job 4, and BRIEF__The_NLP_Questions_The_Whole_Job_In_Three_Stages_S374's own Stage 1 stop. All five drafted to the S376 ruled titles, gated to GATE: PASS. Stopped here, as the brief requires. Nothing in Stage 2 (the other eight NLP Help answers) starts until Kain's yes is filed in this tray.**

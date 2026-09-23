@@ -41,12 +41,16 @@ Kain read the Ellis answer and said: "we must do better than this - the response
 
 Keep every sourced fact, the keyword rules, and the 60-word and three-sentence paragraph cap. Kain reads each after you.
 
+## Part 6: the CBT hub guide, H09 (your S374 job 2), before Kain reads it
+
+`Content Records/hub-guide/cognitive-behavioural-therapy.md` carries "actually" 15 times and "honest" 3 times in 2,622 words. Bring it to the new rule (a heading carrying "Actually", such as "Where Your Beliefs Actually Come From", counts as the one use), re-gate, and list the changes. It is not yet approved; Kain reads it after this. It is the first of the 29 hub guides, so what you learn here carries into all of them.
+
 ## Part 5: the course-pointer clause (your judgement call)
 
 "Including the lesson this article is drawn from" points at the page, so it goes. Rather than wait for each one to surface, **cut it in all roughly ten remaining places in the same 641 pass** (added to that brief), rewording the sentence around the lesson's own subject where the sentence needs it. Chat's call.
 
 ## OWED BACK
 
-One DONE file, parts 1 to 4, old and new where a line changed, gate result per record.
+One DONE file, parts 1 to 4 and 6, old and new where a line changed, gate result per record.
 
 *No em or en dashes in this file; checked before writing.*
