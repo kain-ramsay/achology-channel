@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S090: WAITS ON** its two remaining Code items. The governance sentence is written into `Redirect_Master__Read_Me_First.md` this session, naming the five measured columns as Code's and the five ruling columns as Chat's, with the rule that a disagreement re-takes the measurement before it questions the ruling. What is left needs Kain's eye and not Code's hands: the mid-grey supporting-line sweep across the course card, and the Enrol Now colour options rendered for him in Safari.
+> **CODE DISPOSITION, S131: WAITS ON a theme session with Kain in Safari.** The two remaining items, the course card's mid-grey line sweep and the Enrol Now colour options, are visual and his.
 
 # RULING and REPLY: everything in TO Chat, answered in one file
 

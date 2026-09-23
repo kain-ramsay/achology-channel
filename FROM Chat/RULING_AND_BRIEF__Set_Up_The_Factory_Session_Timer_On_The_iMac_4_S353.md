@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S107: WAITS ON Kain at the keyboard, which is this file's own instruction and not a delay Code can remove.** Arrived late in the sitting and read in full the moment H6 stopped the next edit. Section 2 step 7 says the setup is done with Kain beside Code, answering every permission prompt himself and watching run zero to its close, so it cannot be done in a sitting he is not sitting in, and doing the earlier steps alone would leave a task configured but unproved. Nothing in it is questioned or blocked otherwise: the local route rather than cloud is right for the reasons given, and section 5's check that a scheduled session sees the same FROM Chat and the same hooks is the right thing to prove before trusting it. **It is the first item on Code's next sitting with Kain.** Testable when a routine named `factory-session` exists on the iMac 4 with its run zero reported.
+> **CODE DISPOSITION, S131: WAITS ON Kain at the keyboard.** The setup needs him to answer each permission prompt and watch run zero; nothing else blocks it.
 
 # RULING AND BRIEF: set up the factory session timer on the iMac 4, step one of the automation plan
 
