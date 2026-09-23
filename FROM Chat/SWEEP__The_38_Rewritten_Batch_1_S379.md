@@ -25,13 +25,17 @@
 
 Run each through `voice_checks()` held strict before the push, as you did. **Any that still fails comes back to Chat by name with its line, exactly as in your SHIP.**
 
-## Still being rewritten (18), all Cowork's
+## Ready to push now, batch 3 (15): Cowork's rewrites, checked and corrected by Chat
 
-happiness-is-a-delusion-fulfilment-is-not, labels-vs-true-identity, living-according-to-your-values, pattern-recognition-superpower, personal-growth-requires-discomfort, positive-vs-negative-motivation, rational-or-emotional-thinker, remembered-for, saying-less-more-influential, self-acceptance-vs-self-improvement, taking-responsibility-creates-personal-growth, think-objectively, thoughts-and-emotions-connection, time-perspective, turn-a-vision-into-a-goal, types-of-listening, whats-the-key-to-winning-hearts-and-minds, your-relationship-with-money-tells-a-story.
+happiness-is-a-delusion-fulfilment-is-not, labels-vs-true-identity, living-according-to-your-values, pattern-recognition-superpower, personal-growth-requires-discomfort, positive-vs-negative-motivation, rational-or-emotional-thinker, remembered-for, saying-less-more-influential, self-acceptance-vs-self-improvement, taking-responsibility-creates-personal-growth, think-objectively, thoughts-and-emotions-connection, time-perspective, turn-a-vision-into-a-goal.
 
-**Do not push any of these 18 until Chat adds them to the ready list in this file.** Their Notes line reads "Measured by Cowork".
+Chat fixed, at the record: 14 openings to speak to the reader; counted practitioner moves in five; paragraphs describing the article in four ("What follows...", "It closes with...", "this piece"); three first headings that near-repeated the title (the keyword heading moved later); every body still at or above 1,765 by Chat's count. Run `voice_checks()` strict before the push as before, and send any failure back by name. Several carry "taught by Kain Ramsay," followed by the course's own verb (explores, takes, treats, traces, does, using); Cowork's live gate passed them, but if your strict check reads any as narration, send it back rather than push it.
 
-**The tally: 20 live (the 11 plus the 9, pushed and read back per your SHIP__Rewrites_Twenty_Live_S130) + 18 with Cowork = 38.**
+## Still being rewritten (3), Cowork's
+
+types-of-listening, whats-the-key-to-winning-hearts-and-minds, your-relationship-with-money-tells-a-story. **Do not push these until Chat lists them.**
+
+**The tally: 20 live + 15 ready + 3 with Cowork = 38.**
 
 Push each record's body, `rm_seo_title`, `rm_seo_description` and `post_excerpt` with `article_body_update.py --with-seo`; pages stay published; read back.
 
