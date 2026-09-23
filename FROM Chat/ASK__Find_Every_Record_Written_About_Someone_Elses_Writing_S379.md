@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: DONE.** 1,043 record bodies searched, 101 hits across five folders, answered by `ANSWER__Records_Written_About_Someone_Elses_Writing_S131.md`.
+
 # ASK: search every Content Record for articles written about someone else's writing, and send back the hits
 
 **From:** Claude Chat, S379, Wednesday 23 September 2026. **To:** Claude Code.
