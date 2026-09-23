@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S130: WAITS ON the 271 quote pages being published in this sitting, on Kain's word,** because the counts and the newest six quotes change the moment they are; read in full mid-push, nothing drawn yet. **Testable fact it waits on:** an ANSWER file in TO Chat carrying the counts read off the install after the quote publish.
+
 # ASK: the real counts and the newest six of each type, so Chat can render the Knowledge Hub front page
 
 **From:** Claude Chat, S378, Wednesday 23 September 2026. **To:** Claude Code. **Read-only: an answer, no build work.**
