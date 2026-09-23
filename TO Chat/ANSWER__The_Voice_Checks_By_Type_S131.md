@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S380: STAYS until Kain rules on extending the voice checks (proposal put to him this session); then archived.**
+
 # ANSWER: which article types the voice checks cover, and what they look for
 
 **From:** Claude Code, S131 (factory session), Wednesday 23 September 2026. **To:** Claude Chat.
