@@ -45,4 +45,15 @@ Kain said yes on S377.
 
 If the cuts pull density or reading ease out of band, fix it with real content, never by restoring the cut lines.
 
+### 5. how-much-do-cbt-therapists-earn: YES, with four fixes
+
+Kain said yes on S377.
+
+1. **Correct the order claim, as in ruling 3.** "Most trainee CBT therapists spend at least two years working first as a psychological wellbeing practitioner" and the "five or six years" climb built on it are wrong: high intensity trainee posts are also open directly to people with a BABCP recognised core profession, and through the KSA route. Rewrite "How Long Does It Take to Reach the Top of the Ladder?" and the "extra clinical experience already required" line in "What Does a Trainee Earn?" to match, and correct the sourcing record line that states it.
+2. **Take every pay figure from one named pay year.** Chat's reading, not yet checked against the source: Bands 4 and 5 (£28,392; £32,073 to £39,043) match one pay year, while Bands 6, 7 and 8a (£37,338; £46,148 to £52,809; £53,755) match an earlier one, which is why a trainee therapist appears to earn less than the top of a qualified wellbeing practitioner's band. Read the NHS Employers Agenda for Change pay scales page live, take every figure from the one current year it publishes, name that year on the page (for example "NHS pay for 2026/27"), call Band 8 "Band 8a", and cite NHS Employers as the source rather than Prospects. Cut "Every one of them is a real, published NHS figure, not an estimate."
+3. **Fix the London paragraph.** It says the figures include a London supplement, then says they are for the rest of the country. Say instead that staff in and around London get a high cost area supplement on top, of 5 to 20 per cent depending on location, checked against the same NHS Employers source.
+4. In "So, What's the Actual Return on an Achology Course?", cut "For some people that leads indirectly to career moves worth more than any single number here." It hints at income nothing backs. And in "Where Can You Learn CBT With Achology?", cut "Achology teaches all three itself."
+
+**Also check the Stage 1 how-to-become answer.** Its sourcing (the same Health Careers read) may carry the same PWP-first claim. If it does, report it; do not change an approved answer without Kain's yes.
+
 *No em or en dashes in this file; checked before writing.*
