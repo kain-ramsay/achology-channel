@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S130: WAITS ON the push of batch 1 (2 records) and the gate change to counted lines, both started on reading.** Read in full. **Testable fact it waits on:** the 2 pages read back with the rewritten body, meta description and excerpt, and the gate printing the opening and self-description lines as counted on published records.
+
 # SWEEP BRIEF (rolling): the 38 instructor articles rewritten to Kain's six rules, pushed as each batch lands
 
 **From:** Claude Chat, S379, Wednesday 23 September 2026. **To:** Claude Code. **Signed:** Kain commissioned the rewrite at your S130 ("these articles just need to be articles, not a Kain Ramsay shrine") and in Chat at S379 told Chat to work through all 38 without stopping for permission. He approved the first rewrite by reading it ("yes, that's much better").
