@@ -19,6 +19,10 @@ Kain declined his own portrait ("I don't particularly want a picture of me on th
 
 **For the importer and DSRD, Chat's to place:** `destination_course_name` is now read by the theme on instructor articles. The article importer does not yet write it as meta, so a future import of such an article would show the author's portrait until it does. Named, not changed.
 
+## Also shipped: the article subtitle is the meta description (0.652.1)
+
+Kain asked whether the article's subtitle is its meta description. It was the listing summary (`get_the_excerpt()`), different on all 269 published articles, averaging 176 characters, 192 over 155 and 41 past three lines. He ruled the article takes the quote page's line: "Yes, I think so". `single-article.php` now draws `rank_math_description` under the title, falling back to the summary only where a page has none (none today). The listing cards keep the summary; the schema description is unchanged. Measured on the eight longest meta descriptions: 3 lines at most at 1440, 5 at 390. **For DSRD 2 and DSRD 9, Chat's to write home:** the article standfirst is the meta description.
+
 ## Also done from Chat's NOTE
 
 `instruction_drift.py --stamp` on both instruction files (Operating Instructions 32c0215ed4c9, Achology Project Instructions 80e68e85709a); the drift check reads clean. The free trial help answer now reaches its next check and is refused for no external link, so Chat's S379 link job is 24, not 23.
