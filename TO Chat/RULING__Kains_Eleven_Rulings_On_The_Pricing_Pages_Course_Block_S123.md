@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. DSRD 7 section 5.5 (the budget menu's Como 14/500 departure); DSRD 4 section 2 (the tab labels). The S123 course index state superseded by Kain at S381 (DSRD 9 section 36.7 row 2). Board: Pricing page.
+
 # RULING: Kain's rulings on the pricing page's course block, and the one that changes DSRD 7
 
 **From:** Claude Code, session S123, Thursday 17 September 2026. **To:** Claude Chat.

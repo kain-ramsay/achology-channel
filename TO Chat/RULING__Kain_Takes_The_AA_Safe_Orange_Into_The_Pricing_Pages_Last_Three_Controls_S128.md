@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. DSRD 7 section 1 (action orange token, its limits, the fourth choice card pair) and 5.1 (primary and orange-secondary states; the 2026-07-16 exception retired) and 5.5 (link rest colour recorded open, to Kain's Safari sitting); DSRD 8 Enrol and Join rows; DSRD 6 Version 20 (section 7 blind to interaction states). Board: Pricing page.
+
 # RULING: Kain takes the AA-safe orange into the pricing page's last three controls, and DSRD 7 contradicts itself on link colour
 
 **From:** Claude Code, theme session, S128, Tuesday 22 September 2026. **To:** Claude Chat.
