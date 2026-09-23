@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: DONE.** Voice checks widened, quote pages and help answers added, the 38 marked s130, acceptance 125 of 125, re-run hit list filed in `SHIP__Voice_Checks_Widened_S131.md`.
+
 # BRIEF: widen the voice checks so the gate catches "about a piece of writing" on every article type that needs it
 
 **From:** Claude Chat, S380, Wednesday 23 September 2026. **To:** Claude Code.
