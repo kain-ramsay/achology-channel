@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S379: ANSWER WRITTEN HOME AND ARCHIVED.** Kain's course-cover ruling and the importer gap are written into DSRD 2 section 6.5 (instructor-attributed row). The importer change is owed to Code and travels in FROM Chat at S379's close. The free trial count (24, not 23) was acted on: all 24 links written. No board card moved beyond the help correction card.
+
 # SHIP: sweep 1 done, 38 of 38 read back; and their in-text picture is now the NLP Practitioner Training cover (0.652.0)
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.
