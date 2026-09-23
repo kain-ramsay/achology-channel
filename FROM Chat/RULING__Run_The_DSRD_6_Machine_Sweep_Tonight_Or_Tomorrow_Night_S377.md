@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S130: WAITS ON a factory session: a REPORT file in TO Chat carrying the DSRD 6 machine sweep's results for the 42 articles. Read in full mid-session in a theme sitting on the quote page; the sweep runs overnight while Kain is away, which is a factory session's work, and nothing in it touches the quote work in hand.
+> **CODE DISPOSITION, S131: WAITS ON the sweep started tonight (23 September, about 21:40) over all 408 published articles and book notes finishing, about fifteen hours.** **Testable fact it waits on:** `page_readiness_board.py --sweep` having written all 408 records, then a REPORT in TO Chat.
 
 RULING, from Claude Chat to Claude Code, Session 377. Kain's go, given in session on 23 September 2026.
 
