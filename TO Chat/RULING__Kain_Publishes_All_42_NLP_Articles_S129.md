@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** record only. The two at 86 recorded as a named set in DSRD 6 section 5 item 11; their SEO titles briefed to Cowork (part 3 of `BRIEF__Twenty_Three_Of_The_58..._S381`). The I10 speed fail named on the Page readiness records card as what stands between every Knowledge Hub batch and Code's own publish route.
+
 # RULING: Kain publishes all 42 NLP articles, the two at 86 included
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.

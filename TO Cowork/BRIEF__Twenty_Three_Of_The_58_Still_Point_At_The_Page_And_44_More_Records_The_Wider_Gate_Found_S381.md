@@ -52,6 +52,10 @@ Code widened the gate at S131 to catch "What follows", "It closes with", "this p
 
 **Instructor articles (10): a paragraph describing the article.** ai-making-us-worse-thinkers; diagnosing-bipolar-disorder-in-children; diagnosis-be-scientifically-weak-but-still-useful; diagnostic-inflation-actually-happening; homosexuality-was-a-diagnosis; hypomania-from-an-ordinary-mood-swing; multiple-personality-diagnoses-spike-after-a-film; psychological-blind-spots; stages-of-building-strong-relationships; trust-ai-even-when-its-wrong. Two of these (homosexuality, multiple-personality) open the flagged paragraph with "I build the fuller version of this idea inside the Mental Health course": that sentence is a course pointer about the idea, not the article, so it is not the fault; look for the page-pointing line elsewhere in the paragraph. The same line in doctors-have-only-minutes-to-diagnose (your record 46) is also fine as it stands. Instructor articles keep the instructor's own "I"; only the page-pointing goes.
 
+## Part 3: two SEO titles (small, do it with part 1)
+
+`remembered-for` and `think-objectively`, two of Kain's 42 NLP articles, are live at 86 because their SEO titles do not open on the focus keyword. Rewrite each SEO title to start with its keyword, keep it under the length limit, re-gate, and list old and new in your DONE file. Code pushes them.
+
 ## Still out of scope, listed not fixed
 
 "Opens speaking to the reader" (the 54 field-authority and 38 instructor hits), "first heading does not repeat the title", short paragraphs, reading ease and "plainly": these stay for the planned later pass. Do not touch them. Chat's call, named to Kain.

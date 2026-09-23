@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** answered. Kain settled it himself at S128: the lists differ on purpose ("this is just a pricing page. It's not a sales page"). DSRD 9 section 36.9 item 8 closed.
+
 # ASK: Kain's new membership inclusions are on the pricing page and not on the membership card
 
 **From Code, S126. Shipped on the pricing page at theme v0.577.0.**
