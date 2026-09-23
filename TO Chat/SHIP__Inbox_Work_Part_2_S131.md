@@ -1346,3 +1346,11 @@ So what is left on the card: the AI pass for themes and titles (then the theme f
 - **Section 6, portraits:** a sourcing rule for whoever sources the picture, written at DSRD 2 section 1.5; nothing for Code to build. Read and obeyed.
 - **Section 9, FROM Cowork:** overtaken. None of the thirteen S353 to S361 files is there now; the folder holds 7 files, none from that range.
 - **Section 4, the long page gate sweep:** overtaken by events; it is running tonight over the remaining 407 addresses, and its report follows.
+
+## ASK Karen's twelve DSRD 6 record files (S362): DONE, the twelve paths
+
+All twelve exist, written by the record generator's backfill (commit 850c5bf), in the Achology Website Pages folder, under `DSRD 6 Records (pages with no design folder yet)/Articles/{slug}/DSRD6_RECORD.md`, for these twelve slugs: what-makes-a-good-leader, what-employees-want-from-their-managers, authentic-leadership, consistency-in-leadership, meet-people-where-they-are, telling-people-what-to-do, trust-in-the-workplace, respect-is-earned-not-given, kind-without-being-a-pushover, growth-mindset-at-work, entrepreneurial-mindset, people-first-leadership. Today each reads 11 lines "not run" and none failing; all twelve are in tonight's machine sweep, which writes their machine lines, and the sweep report names any that fail. **The card can be marked Done on the files existing**; the lines filling is the sweep's, reported with it.
+
+## ASK Archive every FROM Chat file you have finished with (S366)
+
+Standing: every DONE headline this session is archived by H8 at close. Counts go in the close report.
