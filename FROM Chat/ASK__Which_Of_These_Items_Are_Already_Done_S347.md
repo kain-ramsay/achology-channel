@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S131: DONE.** All seventeen answered one line each from today's install and files: nine done, one partly, seven open and named; in `SHIP__Inbox_Work_Part_2_S131.md`.
+> **CODE DISPOSITION, S131: DONE.** All seventeen answered one line each from today's install and files: nine done, two partly (inbound links, the folded rows), six open and named; in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # ASK: which of these items are already done? Chat is working from stale reports and wasting Kain's time.
 
