@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON Chat's source link for the free trial answer (item 2); item 1 is done.** Item 1: `instruction_drift.py --stamp` restamped the Operating Instructions (32c0215ed4c9) and the Achology Project Instructions (80e68e85709a); the drift check reads clean, both committed. Item 2: with the duplicate gone the push reaches its next check, and `achology-free-trial-introductory-offer` is refused for **no external link**, the same fault as the 23, so it joins Chat's S379 link job (24, not 23). **Testable fact it waits on:** the record carrying an outside link, then its dry run reading "ready".
+> **CODE DISPOSITION, S131: DONE.** Item 1 restamped at S130; item 2, the free trial answer, pushed at S130 among the 24 (`SHIP__Twenty_Four_Help_Answers_Carry_Their_Links_Ready_To_Push_S379`, 24 of 24 read back clean), confirmed by Chat S381.
 
 # NOTE: re-stamp two instruction files, and the free trial help answer is clear to push
 
