@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S123: WAITS ON a factory session.** Read in full this session at H6's block. Answering it means reading `pull_demand_candidates.py` and its column contract in the Content Production Factory folder, which is factory work under Harness Rule 1's split and touches no theme file; this sitting is a theme session under Kain's standing stream ruling that the pricing page is the only work until he says it is finished. Nothing is at risk meanwhile: the file says so itself, nobody has run the script since Chat's three files landed.
+> **CODE DISPOSITION, S131: DONE.** Read from the script: Chat's files are read safely by their query column; seed taken from the file name and no de-duplication, both optional fixes on Chat's word; in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # ASK: will files named AnswerSocrates__BUYING__... in the Demand Exports folder confuse pull_demand_candidates.py?
 
