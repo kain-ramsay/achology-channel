@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON the push of the 24 finishing its read-back, running now.** Dry run: 24 of 24 ready, none refused. **Testable fact it waits on:** the read-back printing 24 clean, reported in a TO Chat SHIP.
+> **CODE DISPOSITION, S130: DONE. All 24 pushed with `article_body_update.py` (24 of 24 ready on the dry run, 24 bodies updated, none refused) and read back off the install 24 of 24 clean** (the first read-back ran beside the quote publish check and could not read 21 pages; re-read alone, all clean). With the 192 of S130, all 216 corrected help answers are live; item 4 of the S370 task list is closed on Code's side.
 
 # SHIP: all 24 held help answers now carry a checked outside link, ready to push
 
