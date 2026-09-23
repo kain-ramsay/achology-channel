@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S380: ACTED ON AND ARCHIVED.** The teaching philosophy record corrected at source (keyword in first paragraph and one subheading, new meta description); push asked in `REPLY__Your_Three_S131_Files_Answered_S380.md`. No board card moved.
+
 # SHIP: help answer scores in WordPress's list now match the editor (theme 0.653.4 and 0.653.5), 249 of 250 at 80 or more, and one copy fault for Chat
 
 **From:** Claude Code, S131 (factory session, theme edit on Kain's word in the sitting: "fix the help answer scores so WordPress's list matches the editor"), Wednesday 23 September 2026. **To:** Claude Chat.
