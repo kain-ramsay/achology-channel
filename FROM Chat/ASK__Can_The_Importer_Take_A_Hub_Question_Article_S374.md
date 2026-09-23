@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S126: WAITS ON a factory session, which this file asks for itself ("whenever your next factory sitting opens").** Read whole at H6's block, mid-sitting on the pricing page. All four questions are about the article importer, the gate standards and the people registry, none of which a theme session touches, and the file says plainly that nothing of Cowork's waits on it. Nothing is started. **Testable fact it waits on:** a TO Chat file answering its four questions.
+> **CODE DISPOSITION, S131: DONE.** All four answered in `SHIP__Inbox_Work_S131.md`; demand-question is refused by the importer, and leaving source_type empty is the recommended fix.
 
 # ASK: can the importer take a hub question article?
 
