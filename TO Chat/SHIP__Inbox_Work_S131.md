@@ -19,3 +19,22 @@
 - `sitemap_index.xml` 200, nine children, each 200: page 35 URLs, faq_article 201 plus 50, **article 200 plus 69 (269), book_note 139, quote 200 plus 50 (250)**, faq_category 15.
 - **Left out:** `workbook`, because no workbook is published (0), so its sitemap would be empty; switch it on the day the first workbook goes live.
 - The Notion card's sitemap line is Chat's to mark done (Code does not edit the board).
+
+### ASK__Every_Cookie_And_Outside_Script_On_The_Build_Site_S377: DONE (answer below; no setting changed)
+
+**How it was read.** A visitor's-eye load of seven real pages in a fresh browser each time, nothing logged in, once before and once after pressing the banner's Accept: the homepage, an article (`a-diagnosis-actually-describing`), a book note carrying Amazon links (`necessary-endings`), an article that names YouTube (`mark-manson`), a help answer, `/pricing/` and `/about/`. Every request and every cookie recorded. Complianz's own cookie table was also read: **it holds no rows at all** (0 cookies, 0 services), so its local scan has never recorded a result on this install; the visitor load below is the true list.
+
+| Cookie or script | Set by | For | Lasts | Complianz category | Loads |
+|---|---|---|---|---|---|
+| `cmplz_banner-status` | first party (Complianz) | remembers the banner was answered | 365 days | functional (Complianz's own) | after the visitor answers |
+| `cmplz_consented_services` | first party (Complianz) | which services were consented | 365 days | functional | after |
+| `cmplz_functional`, `cmplz_preferences`, `cmplz_statistics`, `cmplz_marketing` | first party (Complianz) | the visitor's choice per category | 365 days | functional | after |
+| `cmplz_policy_id` | first party (Complianz) | the policy version the choice was made against | 365 days | functional | after |
+
+**Nothing else.** Not one request to any outside host on any of the seven pages, before or after consent: no Google, no Kit, no YouTube, no Vimeo, no Bunny, no Amazon, no Circle. Before consent the pages set no cookie at all.
+
+1. **Kit:** the Kit plugin (`convertkit`) is active but loads nothing on any sampled page; no page on the install carries a Kit form yet (none of 658 Knowledge Hub bodies, and the Kit form render is still a theme item). What it sets once a form exists cannot be read until one does.
+2. **Amazon links on book notes:** plain links, acting only on click. No OneLink or Genius Link script loads (23 book notes carry `amazon.` links; none carries a script).
+3. **Embedded videos:** none on any published article, book note or help answer (the YouTube mentions are links). No placeholder test is possible until a page embeds one; the course pages that will are not on the install.
+4. **Loading before consent that is not strictly necessary:** nothing.
+5. **GA4:** GTM4WP is not installed or active on the build install, so the one tracker Kain ruled for launch is not yet present; nothing Google loads today.
