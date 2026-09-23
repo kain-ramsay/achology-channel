@@ -8,7 +8,7 @@
 
 **Both approved.** Chat read them against the brief and made two small fixes itself so you do not have to:
 
-- growing-or-standing-still: `rm_seo_title` had lost its ending; it now reads "Growing or Standing Still: How Do You Know? | Achology". Keep the " | Achology" ending on every SEO title.
+- growing-or-standing-still: `rm_seo_title` is now "Growing or Standing Still: How Do You Know?". **Update, same session: SEO titles carry no " | Achology" ending at all** (the pipe breaks the record's table, and every live page already shows the title alone). Write the title only.
 - growing-or-standing-still: the heading "The Five Questions He Uses to Check His Own Growth" became "Five Questions That Show Whether You Are Really Growing". **A heading is always about the reader or the idea, never about the teacher.**
 
 freedom-vs-security: your flag was right. Chat rewrote it earlier this session and left it off its own list by mistake. Your fix to "opens with the story of" stands.
