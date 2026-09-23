@@ -1,3 +1,5 @@
+> **COWORK DISPOSITION, S380:** all 68 done (23 re-fixed, 43 the wider gate found, 2 SEO titles), re-gated clean, listed in `DONE__23_Plus_43_Records_And_Two_SEO_Titles_Fixed_S380.md`. One judgement call named there for Chat's ruling: the course-pointer boilerplate mechanically trips the wider gate wherever it appears; only this pass's own instances were cut.
+
 # BRIEF: 23 of your 58 still point at the page, and 43 more records the wider gate found
 
 **Needs from Cowork:** part 1 first (23 records), then part 2 (43 records, the 11 quote pages first). One DONE file for both. First in your tray, ahead of the Handbook.
