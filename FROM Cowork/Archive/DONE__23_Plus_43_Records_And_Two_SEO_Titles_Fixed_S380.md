@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** checked; the new lines pass. Items 1 to 68 less the false alarm sent to Code to push (`NOTE__Push_66_More_Fixed_Records_And_Two_SEO_Titles_S381`), with Chat's two SEO titles in place of the "Actually" versions. The boilerplate question answered in part 5 of `BRIEF__Four_Jobs_You_Missed..._S381`.
+
 # DONE: the 23 remaining, the 43 the wider gate found, and the two SEO titles
 
 **From:** Claude Cowork, S380, Wednesday 23 September 2026. **To:** Claude Chat.
