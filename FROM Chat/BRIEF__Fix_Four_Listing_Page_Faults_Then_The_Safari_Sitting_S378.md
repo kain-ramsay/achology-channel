@@ -1,6 +1,6 @@
 > **CODE DISPOSITION, S130: WAITS ON the content backlog Kain ruled first in this sitting** ("I just want to get this all out of the way right now before we get on to building anything else"). Read in full mid-sitting; nothing on the listing page started. **Testable fact it waits on:** the four Part 1 fixes shipped under a theme version and the listing page's DSRD6_RECORD.md carrying the re-run gate lines.
 
-# BRIEF: fix four faults on the listing page, then open the Safari sitting with Kain
+# BRIEF: fix the faults on the listing page and the category hub, then one Safari sitting with Kain on both
 
 **From:** Claude Chat, S378, Wednesday 23 September 2026. **To:** Claude Code. **Approved by Kain** in Chat this session.
 **Board card:** Knowledge Hub Nav pages.
@@ -11,18 +11,20 @@ The Knowledge Hub listing page (`learn-listing.php`, one template behind the 32 
 
 **Knowledge Hub Design Prototypes, Listing Page folder: `RECONCILIATION__Built_Listing_Page_Against_DSRD_9_Section_21_S378.md`.**
 
+**Added the same session, on Kain's yes: the category hub (`taxonomy-kh_category.php`, the seven subject pages) was reconciled against DSRD 9 section 20 the same way, and rides in the same sitting.** Its finding lives in the Category Hub Page folder: `RECONCILIATION__Built_Category_Hub_Against_DSRD_9_Section_20_S378.md`. It adds two defects (Part 1: the pills-to-first-section gap, and the seven empty topic strips, now fillable from DSRD 2 section 1.3.3), six questions for Kain (Part 2), and one question for you first (Part 3: whether a later ruling dropped the word Home from the breadcrumb on both pages).
+
 ## What to do, in order
 
-1. **Fix the four defects in its Part 1.** Each departs from a ruling already made, so none goes to Kain: the count line to soft grey; 48px above and below the dividing line (32 on phones); "A-Z" with a plain hyphen; and find and remove the one em dash your 2026-08-24 machine run reported. Re-run the page gate on the listing page and write the machine lines into the folder's `DSRD6_RECORD.md`.
-2. **Open a Safari sitting with Kain** on the live page at desktop, tablet and phone widths: `/learn/articles/`, one category list, and one per-book list. Kain rules the four questions in its Part 2 (topic filters; the empty list words; the per-book control bar and heading line; phone text sizes). Show any choice as options, tabbed, per standing rule 16. The recommendations are in the file; they are Chat's, and Kain may overturn any of them.
-3. **Fold back** per Harness Rule 14: export the approved state into the Listing Page folder as its prototype, write its build sheet, file the RULING to TO Chat. Chat then corrects DSRD 2 section 1.4 and DSRD 9 section 21 to match, and records the rulings in DSRD 8.
+1. **Fix the defects in Part 1 of both files**, and answer the breadcrumb question in the category hub file's Part 3. Each Part 1 item departs from a ruling already made, so none goes to Kain. Listing page: the count line to soft grey; 48px above and below the dividing line (32 on phones); "A-Z" with a plain hyphen; and find and remove the one em dash your 2026-08-24 machine run reported. Category hub: 48px from the pills to the first section; the seven topic strips filled exactly from DSRD 2 section 1.3.3. Re-run the page gate on both and write the machine lines into each folder's `DSRD6_RECORD.md` (the category hub folder has none yet; start one).
+2. **Open one Safari sitting with Kain** on both pages live, at desktop, tablet and phone widths: `/learn/articles/`, one category list, one per-book list, and the fullest subject page. Kain rules Part 2 of both files; the empty-line words and the phone sizes are one ruling each for both pages. Show any choice as options, tabbed, per standing rule 16. The recommendations are in the file; they are Chat's, and Kain may overturn any of them.
+3. **Fold back** per Harness Rule 14, per page: export each approved state into its own folder as its prototype, write its build sheet, file one RULING to TO Chat covering both. Chat then corrects DSRD 2 sections 1.3 and 1.4 and DSRD 9 sections 20 and 21 to match, and records the rulings in DSRD 8.
 
 ## Definition of done
 
-Part 1 fixed and the gate re-run; Kain's four rulings given on the live page; prototype, build sheet and RULING filed.
+Part 1 of both fixed and both gates re-run; the breadcrumb question answered; Kain's rulings on both Part 2 lists given on the live pages; prototypes, build sheets and the RULING filed.
 
 ## OWED BACK
 
-The RULING file with Kain's four rulings in his words, and the re-run gate result.
+The RULING file with Kain's rulings in his words, the breadcrumb answer, and both re-run gate results.
 
 *No em or en dashes in this file; checked before writing.*
