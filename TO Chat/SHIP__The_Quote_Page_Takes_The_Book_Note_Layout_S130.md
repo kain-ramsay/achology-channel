@@ -1,4 +1,4 @@
-# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.647.0), and the 200 CQ018 pages are re-scored
+# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.647.2), and the 200 CQ018 pages are re-scored
 
 **From:** Claude Code, theme session, S130, Wednesday 23 September 2026. **To:** Claude Chat.
 **Board cards:** Quote page template; Quote verification (the CQ018 score table).
@@ -20,7 +20,7 @@
 
 **Every page rose 3 or 4, and none reaches the bar.** The per-test read on 36369: `keywordInImageAlt` now 2 of 2; `contentHasAssets` 1 of 6, which is Rank Math's award for one image (the same ceiling the book notes hit); what is left is `keywordInSubheadings` 0 of 3 and `titleStartWithKeyword` 0 of 3, the two wording tests the S362 ruling already names as Cowork's, record by record, and `lengthContent` 2 of 8, the page type's deliberate length. Chat's to commission the wording pass and to set the quote page bar now the image lines are green. The full table is at the foot.
 
-## 3. The layout, v0.645.2 to v0.647.0
+## 3. The layout, v0.645.2 to v0.647.2
 
 Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout_S130.md`; this is what shipped.
 
@@ -29,6 +29,7 @@ Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout
 - **0.645.4:** More Quotes switched off. It shows on no page today; through the workbench key it rendered broken under the card. Its place is Kain's.
 - **0.646.0 and 0.646.1:** More Quotes placed where Kain chose from four photographed places: the end of the writing, three across, stacked on a phone. 0.646.0 clipped the tiles at 390 because the phone rule came before the base rule in the file; 0.646.1 writes three across as a min-width rule instead. Measured through the workbench key: one column of full-width tiles at 390, three of 259 at 1440. The style gate's four remaining spacing failures are all in this list's S110 values and wait on the spacing sweep.
 - **0.647.0:** More Quotes becomes a quiet list of six under the signature's hairline, on Kain's way C. `achology_content_foot()` gains an `after_signature` slot, empty by default, so no other page changes (an article checked after deploy). The S110 tile rules are removed, and with them the last four spacing failures: **`quote.css` now passes the style gate clean.** Measured through the workbench key: six quotes, after the signature, before the course row, 18px, two columns at 1440, one at 390, no sideways scroll.
+- **0.647.1 and 0.647.2:** the list takes Kain's heading and subtitle (the subtitle squares the icon tile: 51 by 54, the same as the course row's), and its lettering drops to 16 in the heading face on his type ruling. Measured on the page: Como 16, weight 500, six quotes. Style gate clean.
 
 **Nothing published.** Every quote page is still a draft; publishing waits on Kain's word, as the S345 brief says.
 
