@@ -15,6 +15,13 @@ Kain said yes on S377.
 1. In "Where Can You Learn CBT With Achology?", cut the sentence "Achology teaches all three itself." It is left over from removing Kain's name and says Achology twice in a row.
 2. In "What Does Achology's Free Tier Actually Give You?", name the tier once in the section's first line: it is Achology Gateway (PRD Q3; DSRD 4 section 1.6). For example: "Achology has a free membership tier called Achology Gateway, and it's worth being clear about what it is."
 
-Also, in the Search and Citation Brief section 3, remove "Kain Ramsay" from the names list, in line with the no-name ruling.
+Also, in the Search and Citation Brief section 3, remove "Kain Ramsay" from the names list, in line with the no-name ruling. The same applies to every record in this batch that still lists him there.
+
+### 2. study-cbt-online: YES, with two fixes
+
+Kain said yes on S377.
+
+1. In the opening line, cut "and it's actually the most common way people learn it today". Nothing sources it. The line becomes: "Can you study CBT online? Yes, easily." (or an equally short sourced alternative).
+2. In "Where Can You Study CBT Online With Achology?", cut the sentence "Achology teaches all three itself."
 
 *No em or en dashes in this file; checked before writing.*
