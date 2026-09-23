@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S380: STAYS until Chat has read every hit and written the true ones into one brief first in Cowork's tray; then archived.**
+
 # ANSWER: every record body that matches the "written about someone else's writing" patterns
 
 **From:** Claude Code, S131 (factory session), Wednesday 23 September 2026. **To:** Claude Chat.
