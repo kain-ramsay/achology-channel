@@ -486,3 +486,38 @@ Built in the help-answer branch of `content_gate.py`, on Cowork's `BRIEF__Ban_Si
         achology-automated-decision-making-profiling                  1 of 11 paragraphs
         achology-course-order-sequence                                1 of 10 paragraphs
         course-included-free-membership-happens-when                  1 of 12 paragraphs
+
+### REPLY__Five_Cards_Voice_Rerun_And_Inbox_Work_Acted_On_S380, job 2: the 100 book notes pushed, the missing records made: DONE
+
+- **100 of 100 pushed** with `--with-seo` and **read back clean**, so every live book note now carries its rebuilt record (Cowork's jobs 8 and 9). 10 were first refused, correctly, because a Wikipedia address with brackets in it (for example `Steve_Peters_(psychiatrist)`) broke the link on conversion and would have left a stray ")" on the page; each address was written with its brackets encoded (`%28`, `%29`), the same address, and the 10 then pushed clean.
+- **The 14 missing book note DSRD 6 records, and 42 missing article records, created** by `page_readiness_board.py --backfill` (56 in all). Their machine halves fill in the overnight sweep.
+
+### REPLY__Your_S126_To_S131_Files_Answered_And_35_Records_To_Push_S381, section 1: the 35 pushed and marked: DONE, one held
+
+- **34 of 35 pushed** with `--with-seo` and read back clean, 34 of 34.
+- **Held: `CQ001-061-1` (why-we-transfer-old-feelings-onto-new-people) is not on the install at all**: no quote page, draft or live, carries that title or address, so there is nothing to update; it needs an import through `import_quote_pages.py`, which waits on Chat's word.
+- **Its register failure was a self-match, fixed:** the register names a quote by its file ID (`CQ001-061-1`) and the gate compared that with the post_name. The gate now treats a row as the record's own when its key is the post_name, the file ID or its address matches. Proved both ways: the record now reads "unique", and a copy under another name still fails "claimed by CQ001-061-1".
+- **`voice_standard: s130` set on 12** that pass every voice line held strict. **22 left unmarked**, each with the line it fails:
+
+    10-ethically-dubious-experiments: voice: opens speaking to the reader (I still remember reading the actual transcript of Stanley Mi)
+    12-psychological-principles: voice: opens speaking to the reader (Search for the most important psychological principles. Ever)
+    13-morally-dubious-psychology-experiments: voice: opens speaking to the reader (For eleven days on a locked ward in Montreal, a woman heard)
+    delayed-gratification-insights-from-the-marshmallow-test-study: voice: opens speaking to the reader (For decades, one small experiment has shaped how people thin)
+    history-and-timeline-of-counselling-psychology: voice: opens speaking to the reader (Ask most people when counselling began. They picture a couch)
+    maslows-hierarchy-of-needs: voice: opens speaking to the reader (A pyramid. Five levels, stacked in order, food and shelter a)
+    skills-for-highly-effective-counseling: voice: opens speaking to the reader (Two trainee counsellors sit the same course. They read the s)
+    the-smart-goal-setting-framework: voice: no paragraph describing the article (1, opening '**Build in feedback, not just a deadline.** The strongest ); voice: opens speaking to the reader (Five letters, repeated so often in meetings and performance)
+    twenty-pivotal-moments-in-psychologys-history: voice: opens speaking to the reader (Twenty pivotal moments, ten key dates. Five turning points.)
+    what-habits-are-and-why-people-get-stuck: voice: opens speaking to the reader (Twenty-one days. That number shows up on almost every page a)
+    a-diagnosis-actually-describing: voice: no paragraph describing the article (1, opening 'Once you see what a diagnosis actually describing really i)
+    a-false-epidemic-happen-without-anyone-lying: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental ); voice: opens speaking to the reader (How can a false epidemic happen without anyone lying? It sou); voice: first heading does not repeat the title (How Can a False Epidemic Happen Without Anyone Lying, Exactl)
+    bmi-decide-who-gets-eating-disorder-treatment: voice: first heading does not repeat the title (Why Does BMI Decide Who Gets Eating Disorder Treatment, Acco)
+    doctors-have-only-minutes-to-diagnose: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental )
+    does-a-diagnosis-do-to-the-person: voice: no paragraph describing the article (1, opening 'What does a diagnosis do to the person who receives it? So); voice: opens speaking to the reader (What does a diagnosis do to the person who receives it? Some)
+    everyone-agreeing-on-a-diagnosis: voice: no paragraph describing the article (1, opening 'I build the fuller version of this distinction inside the ); voice: opens speaking to the reader (Ask a room of 10 clinicians to diagnose the same patient usi); voice: first heading does not repeat the title (Why Everyone Agreeing on a Diagnosis Does Not Make It True)
+    five-symptoms-mean-depression: voice: no paragraph describing the article (1, opening 'They do not mean anything about what your own struggle des)
+    self-report-decide-a-diagnosis: voice: no paragraph describing the article (1, opening 'How much does self-report decide a diagnosis? For depressi); voice: opens speaking to the reader (How much does self-report decide a diagnosis? For one of the); voice: first heading does not repeat the title (How Much Does Self-Report Decide a Diagnosis? More Than You)
+    the-definition-of-mental-disorder: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental ); voice: opens speaking to the reader (Ask what a mental disorder actually is, and most people assu)
+    the-dsm-5-cost-five-times-more: voice: no paragraph describing the article (1, opening 'Why did the DSM-5 cost five times more than the DSM-IV? Be)
+    the-dsm-call-its-own-categories-porous: voice: no paragraph describing the article (1, opening 'I build the fuller version of this idea inside the Mental ); voice: opens speaking to the reader (Most people picture a psychiatric diagnosis like a labelled); voice: first heading does not repeat the title (So Why Does the DSM Call Its Own Categories Porous?)
+    what-is-concept-creep: voice: no paragraph describing the article (1, opening 'What is concept creep? A word slowly growing to cover far ); voice: opens speaking to the reader (What is concept creep? It is a simple idea with a big effect)
