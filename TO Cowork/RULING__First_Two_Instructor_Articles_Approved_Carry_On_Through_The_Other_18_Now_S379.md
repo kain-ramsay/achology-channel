@@ -19,6 +19,11 @@ freedom-vs-security: your flag was right. Chat rewrote it earlier this session a
 
 Hold every one of the remaining 18 to that as well as to the brief's twelve rules.
 
+**Two more checks Code's gate enforces strictly, learned from his first push (S130):**
+
+- **The first sentence speaks to the reader: "you", or "we / us / our".** "Most people...", "Nobody...", "Some people..." or "Two people..." as the opening fails. Example that passes: "You can probably say exactly how busy you were this week."
+- **No verb straight after Kain's name.** "The ... Training, taught by Kain Ramsay, adds / tells / says / writes..." fails. Put the name at the end of the sentence, or follow it with the course doing something, e.g. "A deeper layer sits in The Neuro-Linguistic Programming (NLP) Practitioner Training, taught by Kain Ramsay." And no "he says" or "he tells" anywhere after it.
+
 ## Now
 
 Rewrite the remaining 18 in the brief's order, without stopping: happiness-is-a-delusion-fulfilment-is-not through your-relationship-with-money-tells-a-story. Run the live gate on each. Then write one REPORT to FROM Cowork listing all 20 with each one's body words and density, as the brief says.

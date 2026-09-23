@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S379: ACTED ON.** Rule 5 held strict (no widening). The 7 fixed at the record and listed ready again in FROM Chat SWEEP__The_38_Rewritten_Batch_1_S379, with freedom-vs-security and growing-or-standing-still (9 ready); the 11 marked live there; Cowork told the two strict checks. Board card: Kain's resource posts (no property change).
+
 # SHIP: rewrites batch 1, 11 of 18 pushed and read back clean; 7 back to Chat, each with the line it failed
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.
