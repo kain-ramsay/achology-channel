@@ -1495,3 +1495,13 @@ All 50 are published on the install today (Q06984 to Q07032 and Q04251), lowest 
 15. Karen's twelve: **done**, published since 7 September, records and human lines today.
 16. The fifty instructor quote pages: **done**, published (the 50 Q-series quotes, lowest score 85).
 17. The workbook items: **open**, with the workbook page brief (theme).
+
+## ASK Re-read the rows against the type bars (S346): re-read off the install, not the old table
+
+The old 609-row table is stale, so every published Knowledge Hub page was read off the install today (908 pages, stored Rank Math scores after Kain's rescores this session) against DSRD 6's own bars: help answer 81, book note 88, field-authority article 89, instructor-attributed article 88, everything else 90.
+
+- **Pass against their own bar: 665 of 908. Fail: 243.**
+- **By type:** field-authority 114 of 116 pass (bar 89); instructor-attributed 100 of 102 (88); book notes 136 of 139 (88); help answers 217 of 250 (81); author biographies 0 of 51 and quote pages 98 of 250, both held to the site-wide 90 because **neither type has a bar of its own**.
+- **Failing against their own bar, named (40):** field-authority stereotyping-the-unseen-threat-to-diversity-and-inclusion 86, the-importance-of-self-awareness 84; instructor think-objectively 86, remembered-for 86; book notes the-brains-way-of-healing 86, why-zebras-dont-get-ulcers 86, boundaries-cloud 82; and the 33 help answers at 80, named in the task-list section above.
+- **Failing only the site-wide 90 (203):** 51 biographies and 152 quote pages, almost all at 85 to 89 (89: 49, 88: 39, 87: 89, 85: 20). That is the real decision in this file: whether biographies and quote pages get bars of their own, the way the other four types did, or are worked up to 90.
+- **Part 4:** the rescued articles are live and scored (114 of 116 at 89 or better). The help answers' short keyword is the input still missing on the 33 at 80: each loses the four keyword-in-body tests. Pages pushed today (the plainly sweep and the twelve biographies) read their scores from before the push until Kain's next one-click rescore.
