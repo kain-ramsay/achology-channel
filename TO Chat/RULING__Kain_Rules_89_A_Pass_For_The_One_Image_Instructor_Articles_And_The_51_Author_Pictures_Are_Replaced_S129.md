@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home in DSRD 6 section 5 item 11 (Version 20). The escaped accents on Brene Brown and Gabor Mate sent to Code as a record fix (`REPLY__Your_S126_To_S131..._S381` section 6).
+
 # RULING: 89 is a pass for the one-image instructor articles; and the 51 author biography pictures are replaced with Kain's upgraded set, search details included
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.

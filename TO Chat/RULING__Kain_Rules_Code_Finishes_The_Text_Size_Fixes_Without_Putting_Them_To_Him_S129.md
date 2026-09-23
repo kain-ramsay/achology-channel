@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** written home. DSRD 7 section 3.0 (the two named exceptions; Kain sees only what moves; S270 closed). Kain's wish to work through each built page for copy and layout goes on the Retrofit Signed Specs for Built Pages card as its sittings.
+
 # RULING: Code finishes the text size fixes and verifies them by machine, without putting them to Kain; the type size half of the sweep is complete at 0.643.0
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.
