@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON the content backlog Kain ruled first in this sitting** (the 192 help answers pushed; the 271 quote pages rebaking on his Band 1 and Card 2 ruling, then published); read in full mid-build, nothing read off the install for it yet. **Testable fact it waits on:** an ANSWER file in TO Chat carrying the 43 terms' description and Rank Math fields read off the install.
+> **CODE DISPOSITION, S131: DONE.** All 46 terms read off the install (39 tags, three strays): no descriptions, no Rank Math fields, not in the sitemap; answered in `SHIP__Inbox_Work_S131.md`.
 
 # ASK: are the 7 subjects and 36 topics set up properly inside WordPress, and can Kain edit their words there?
 
