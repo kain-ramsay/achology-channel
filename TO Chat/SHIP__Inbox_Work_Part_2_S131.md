@@ -1311,3 +1311,14 @@ Read from `pull_demand_candidates.py` (lines 233 to 274); nothing run, nothing c
 ### BRIEF__Set_The_Seven_Subject_Pages_Search_Descriptions_S381: DONE
 
 Set in Rank Math's own description field (term meta `rank_math_description`) on all seven `kh_category` terms, copied character for character from DSRD 9 section 20.12; the WordPress term description left empty; SEO titles left as they are. **Read back from each live page's meta description tag, 7 of 7 exact:** psychology, helping-people, mental-wellness, motivation, personal-growth, general-interest, wisdom-for-life (its apostrophe arrives HTML-encoded in the source, as every apostrophe does). The subject sitemap was switched on earlier tonight, so the seven go into it with their descriptions in place.
+
+### ASK__What_SearchWP_On_The_Install_Can_Actually_Do_S366: DONE (answer below)
+
+Read off the install and the plugin's own code, S131.
+
+1. **Misspellings: yes, on.** SearchWP 4.6.1.1, Standard licence (valid to 26 August 2027), no extensions installed. `searchwp_partial_matches` is on, and with it the fuzzy matching in the core (`includes/Logic/FuzzyMatches.php`, similarity threshold 70 by default, filterable); "Did you mean" suggestions are on (`searchwp_do_suggestions` = 1, the same class's `did_you_mean()`). Quoted phrase search is off; result highlighting is off.
+2. **Synonyms and word endings: both available in the core on this licence.** Stemming ("keyword stems") is on in both engines. Synonyms are a core feature (`includes/Logic/Synonyms.php`) that handles multi-word sources and replacements, so "can't stop worrying" can map to anxiety and worry. **No synonyms are set yet.**
+3. **Weighting the focus keyword: yes.** Every source already indexes all post meta at weight 1 (`meta: {"*": 1}`); the field to weight separately is `rank_math_focus_keyword`, added as its own meta attribute at a higher weight. Title and slug sit at 300 today, content and excerpt at 1.
+4. **What can be indexed:** one engine can index every post type. **Two engines exist and neither covers everything:** "Default" indexes articles, book notes, quotes and workbooks; "Help" indexes help answers only. **Ordinary WordPress pages are in neither**, and there are no course or school pages on the install to index yet. Registration excludes only `review` (`exclude_from_search` true, in `reviews-setup.php`) and WordPress's own internal types; every Knowledge Hub type, help answers and pages are searchable by registration. The index holds 929 items: 269 articles, 139 book notes, 250 help answers, 271 quotes.
+5. **The header control: not on the live site.** The live header carries no search field, form or button (read off the homepage's HTML), and `header.php` has no search; the S321 control exists only in its render. The theme has no `search.php`, so there is no search results page either (the S375 brief for it waits on a theme session).
+6. **Engines:** two, as in 4.
