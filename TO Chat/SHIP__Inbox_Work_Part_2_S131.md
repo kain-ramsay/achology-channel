@@ -1406,3 +1406,16 @@ achology-vs-university-psychology, achology-lifetime-access-explained, achology-
 
 **Records failing the floor: 466 of 855.** Published pages were not measured separately in this pass: most published bodies were pushed from these same records this session, but that is not a separate reading, so no second total is claimed.
 
+| type | records | failing the floor | short paragraphs | 'not just X' flagged | rule-of-three flagged |
+|---|---|---|---|---|---|
+| field-authority-article | 118 | 117 | 1570 | 5 | 115 |
+| instructor-article | 102 | 47 | 291 | 3 | 83 |
+| author-biography | 51 | 51 | 358 | 3 | 51 |
+| hub-question-article | 5 | 0 | 0 | 0 | 3 |
+| hub-guide | 1 | 0 | 0 | 0 | 1 |
+| book-note | 150 | 28 | 49 | 7 | 134 |
+| quote-page | 428 | 223 | 725 | 4 | 171 |
+
+Worst 25, by breaches (all short paragraphs): the-stages-of-change-model (34), understanding-the-layers-of-identity (32), the-origin-of-cognitive-therapy (31), the-truth-about-active-listening (30), finding-purpose-how-human-values-shape-your-lifes-direction (30), Jordan B. Peterson biography (29), the-truth-about-eloquence (28), then 18 more field-authority articles and I11 at 19 to 27. The full per-record list is in Code's scratch output and is re-run by the same command on demand.
+
+**The S361 re-run, per set:** book notes, 122 of 150 pass and 28 fail (all 150 are now published or imported, so the old "50 unpublished" set no longer exists): a-treatise-of-human-nature, as-a-man-thinketh, awaken-the-giant-within, childhood-and-society, civilization-and-its-discontents, cognitive-behavior-therapy-second-edition, counseling-the-culturally-diverse, crucial-conversations-mcmillan, discipline-equals-freedom, emotional-intelligence-goleman, extreme-ownership-willink, frames-of-mind, make-your-bed, the-history-of-philosophy, the-nicomachean-ethics, the-perennial-philosophy, the-philosophy-of-freedom, the-power-of-now, the-prince-machiavelli, the-problems-of-philosophy, the-road-less-travelled, the-selfish-gene, the-six-pillars-of-self-esteem, the-social-animal-aronson, the-tao-te-ching, thinking-fast-and-slow, thus-spoke-zarathustra, words-that-change-minds. **I04, I14 and I18 all pass** (0 breaches each). The 24 DSM articles went live at S119, so their route is done. Nothing was rewritten; the fixes are Cowork's on Chat's brief.
