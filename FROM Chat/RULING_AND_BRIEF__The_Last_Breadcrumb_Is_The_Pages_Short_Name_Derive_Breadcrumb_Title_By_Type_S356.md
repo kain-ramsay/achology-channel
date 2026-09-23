@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S110: WAITS ON `breadcrumb_title` deriving and backfilling on the install, which is importer work and belongs to a factory session.** Read in full on arrival, mid-session, under the channel wall, and it cancels nothing in the theme sitting it landed in. **Part 4 is the only half that is a theme sitting's:** the breadcrumb's size is Kain's on a render, and this page is the one the brief names. Held rather than taken up on his instruction in the same sitting, that the quote page's design is finished first so that it can set the pattern for the other page types. Testable when a published Knowledge Hub page carries a non-empty `breadcrumb_title` and its rendered last crumb reads it.
+> **CODE DISPOSITION, S131: WAITS ON a theme session.** The field, its derivation and the rendered crumb go together, and the crumb size is Kain's on a render; this session is backlog only.
 
 # RULING_AND_BRIEF: the last breadcrumb is the page's short name, never its H1. Derive `breadcrumb_title` by type at import; render the size for Kain in Safari
 
