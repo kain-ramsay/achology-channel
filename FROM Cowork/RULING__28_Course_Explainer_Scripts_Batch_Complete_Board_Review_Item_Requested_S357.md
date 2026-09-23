@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S380: ACTED ON AND ARCHIVED. The twenty eight SCRIPT drafts moved to the Video Family project folder, drawer 01 Scripts, whose README now names them. The length question is answered by the Video Family card itself (150 to 225 words, S357 standard; the drafts run 148 to 225). Kain's read and hand edit of the 28 is carried on the Video Family card, not in this channel.
+>
 > DISPOSITION, Chat S370: STAYS, and it still carries the twenty eight `SCRIPT__` drafts beside it as one set of 29 files. Waits on one thing, Kain's own read and hand edit of the twenty eight scripts. Two open questions go to him with them: the length target, since the delivered 148 to 225 words matches neither the card's 45 to 60 seconds nor the brief's 250 to 350 words; and where the finished scripts should live, since the Video Family scripts drawer is not connected to Cowork's session. Archived when Kain has read them.
 
 # RULING: All 28 Course Explainer Scripts Drafted As One Batch; Chat Asked To Add Kain's Review Item To The Board
