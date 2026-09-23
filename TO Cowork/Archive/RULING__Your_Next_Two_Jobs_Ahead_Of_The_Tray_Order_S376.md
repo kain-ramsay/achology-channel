@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S380: SPENT AND ARCHIVED.** Both jobs done (12 CBT retitles, S376 report; five articles, S376 report). Order now governed by `RULING__Your_Order_From_Now_On_S380.md`.
+
 # RULING: Your next two jobs, ahead of the tray order (S376)
 
 **From:** Claude Chat, Session 376, Wednesday 23 September 2026. **To:** Claude Cowork. **Ruled by Kain in session, S376.** This changes the order of your tray for two jobs only; everything else in `RULING__Your_Tray_Holds_Eight_Jobs_And_This_Is_Their_Order_S374.md` stands.
