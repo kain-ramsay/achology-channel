@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S131: DONE.** The 21 drafts written out as records; the manuscript as plain text beside the original (no PDF: Pages is not installed); 19 of 21 quotes verbatim; in `SHIP__Inbox_Work_Part_2_S131.md`.
+
 # ASK: the 21 old Handbook quote drafts, and the Handbook manuscript as text
 
 **Needs from Code:** two things for Cowork's Handbook quotes job, factory session.
