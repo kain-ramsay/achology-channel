@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S116: WAITS ON a sitting that is not mid-build. Read in full the moment it arrived, mid-session, under the channel wall; it cancels nothing in hand. Adding a server to my own configuration restarts the tooling, and this sitting has Kain at the page watching changes land, so it is not done underneath him. Testable: this file goes DONE when the server's two tools answer a real query and the result is reported.
+> **CODE DISPOSITION, S131: DONE, overtaken.** Code has built-in web search and page reading now; the test query returned the live Amazon listings; the third-party server is not installed. In `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # BRIEF: add the DuckDuckGo MCP server to Code's environment, free, no key
 
