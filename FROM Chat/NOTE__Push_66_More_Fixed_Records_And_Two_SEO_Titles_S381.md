@@ -15,6 +15,8 @@
 
 ## OWED BACK
 
+Also, two live checks open since S354 that Chat could not make (the browser extension is not connected): (a) the Shyness book note (`shyness-what-it-is-what-to-do-about-it`) shows its corrected title on the live page; (b) `a-guide-to-rational-living` carries its link to `a-new-guide-to-rational-living` on the live page. If either is missing, it goes up with the 100 book note push. One line each in your read-back.
+
 The push read-backs, the s130 marks, and the Ellis gate result.
 
 *No em or en dashes in this file; checked before writing.*
