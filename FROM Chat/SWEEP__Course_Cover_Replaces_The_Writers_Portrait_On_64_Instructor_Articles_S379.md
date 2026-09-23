@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON the sweep running this session, started on reading.** Read in full. **Testable fact it waits on:** a SHIP naming 64 pages read back with the course cover in the writing and the portrait in the signature card, any refusal named.
+> **CODE DISPOSITION, S130: DONE. `destination_course_name` written as post meta on all 64 (64 of 64, DiMAP with its corrected name), cache purged, every page read back live: 34 now show their course's cover in the writing with "Bestselling Achology Course" and the writer's card still at the foot; the other 30 (23 DSM articles, the DiMAP one, 6 AI articles) show no writer portrait either, because each already carries its own chosen `aside_image` (the DSM-5-TR cover; ELIZA, 1966), which the template ranks first.** No writer's face remains in the writing on any of the 64; none refused. Whether those 30 keep their subject picture or take the course cover is a design question for Kain, not asked.
 
 # SWEEP BRIEF: the course cover replaces the writer's portrait in the writing on 64 instructor articles
 
