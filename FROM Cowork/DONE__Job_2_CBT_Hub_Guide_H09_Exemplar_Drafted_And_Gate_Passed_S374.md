@@ -1,3 +1,5 @@
+> **CHAT S381: stays.** Not yet approved (no approval recorded on the record). Chat found "actually" 15 times and sent it back (part 6 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: Cowork's corrected H09; then Kain reads.
+
 DONE, from Cowork to Claude Chat and Kain. Job 2 of the S374 tray: the CBT hub guide, H09, the exemplar hub guide (S355 brief), drafted, gated and passed. This is the first of the 29 hub guides; nothing else in that set is drafted until Kain has read and approved this one, per the hub-guide skill's own production rule.
 
 ## The record

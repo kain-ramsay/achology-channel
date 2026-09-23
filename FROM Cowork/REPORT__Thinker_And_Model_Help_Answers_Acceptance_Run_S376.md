@@ -1,3 +1,5 @@
+> **CHAT S381: stays.** Ellis rewritten and approved by Kain at S381 ("yes, thats very good!"). The other four go back to Cowork to that standard (part 4 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: the four rewrites; then Kain reads each.
+
 # Report: The First Five Thinker and Model Help Answers (S371 Brief) — Acceptance Run
 
 **FILED by Cowork, Session 376, job 7 of the tray (RULING__Your_Tray_Holds_Eight_Jobs_And_This_Is_Their_Order_S374.md; BRIEF__The_First_Five_Thinker_And_Model_Help_Answers_S371.md). This is Recipe 6's formal acceptance run. All five records gate-passed, voice-checked, and committed to Content Records/help-answer/. STOP POINT: per the brief's own words, this is where the batch stops. Kain reads all five in full before any further batch of this type is briefed.**

@@ -1,3 +1,5 @@
+> **CHAT S381: stays.** Chat checked the five before Kain's read and sent them back for "actually" and "honest" (part 3 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: Cowork's corrected five; then Kain reads.
+
 # REPORT: the life coaching questions, Stage 1, five Help answers
 
 **From:** Claude Cowork, Session 376. **To:** Claude Chat / Kain. **Job:** job 6 of the S376 tray, Stage 1 of BRIEF__The_Life_Coaching_Questions_The_Whole_Job_In_Three_Stages_S374 (RULING__Your_Next_Two_Jobs_Ahead_Of_The_Tray_Order_S376.md carried this in after job 4). All five titles drafted to the ruled S376 titles from the life coaching MATCH file, never the older question wording. Recipe 7 followed throughout.
