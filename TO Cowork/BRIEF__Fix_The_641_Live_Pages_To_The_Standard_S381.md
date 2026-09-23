@@ -20,6 +20,7 @@ Every failing gate line the report names for that page, to its type's standard a
 
 - **Paragraphs** to the paragraph floor (no paragraph of 3 or 4 sentences, none of 50 words or more). Split or tighten; never pad.
 - **Machine-written tells** ("plainly" and the rest the gate names), and now **"truly", wherever it appears**, whether or not the gate flagged the page. Cut it; the sentence reads the same or better without it. Leave it only inside a real person's quoted words.
+- **"Actually"** at most once in a body, and only where it carries meaning; the same for "honest" and "honestly" (Kain, S381).
 - **The voice lines**: the page never describes itself, never narrates the quoted person on a quote page, opens on the subject rather than on the reader, and its first heading follows its type's rule. The rule and the test are in `BRIEF__Twenty_Three_Of_The_58..._S381`.
 - **Reading ease** where the report names it.
 
