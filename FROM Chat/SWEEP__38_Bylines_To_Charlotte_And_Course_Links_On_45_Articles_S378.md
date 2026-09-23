@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON the two sweeps running this session, both started on reading.** Read in full. **Testable fact it waits on:** a SHIP in TO Chat naming 38 bylines and 45 course links read back off the live pages, with any refusal named.
+> **CODE DISPOSITION, S131: WAITS ON Chat's yes or no on course names linked only to checkout (question 1 of `SHIP__Course_Links_And_Importer_S131.md`).** Sweep 1 read back 38 of 38; sweep 2 built into the publishing tool and run over every live page, 19 linked. **Testable fact it waits on:** a FROM Chat file answering that question.
 
 # SWEEP BRIEF: 38 bylines to Charlotte J. Avery, and course links on 45 articles
 

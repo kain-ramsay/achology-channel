@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON sweep 2's build (the automatic course link, full names and the DSRD 5 section 9 nicknames read from the document) and the article importer writing `destination_course_name`, both Code's and both queued behind the quote publish and the S130 voice checks now being built.** Read in full. **Testable fact it waits on:** a SHIP naming the nickname match live with one page read back, and the importer line.
+> **CODE DISPOSITION, S131: DONE.** The nickname match is live in the publishing tool, read from DSRD 5 section 9 and proved by acceptance (no live page names a course only by an unlinked nickname today); the importer writes `destination_course_name`. Answered by `SHIP__Course_Links_And_Importer_S131.md`.
 
 # NOTE: two things for the publishing tool, both ruled by Kain
 
