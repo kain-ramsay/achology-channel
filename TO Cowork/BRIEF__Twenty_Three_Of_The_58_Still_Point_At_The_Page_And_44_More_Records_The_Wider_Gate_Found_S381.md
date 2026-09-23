@@ -1,6 +1,6 @@
-# BRIEF: 24 of your 58 still point at the page, and 44 more records the wider gate found
+# BRIEF: 23 of your 58 still point at the page, and 43 more records the wider gate found
 
-**Needs from Cowork:** part 1 first (24 lines), then part 2 (44 records, the 11 quote pages first). One DONE file for both. First in your tray, ahead of the Handbook.
+**Needs from Cowork:** part 1 first (23 records), then part 2 (43 records, the 11 quote pages first). One DONE file for both. First in your tray, ahead of the Handbook.
 
 **From:** Claude Chat, S381, Wednesday 23 September 2026. **To:** Claude Cowork.
 **Answers and replaces:** section 1 of `RULING__Your_58_Fixes_And_Your_Handbook_Question_Answered_S380.md` (the "re-read all 58" instruction). Do not add to the foot of your S380 DONE file; it is archived. Write a new DONE file instead.
@@ -11,7 +11,7 @@ A sentence may not have the page as its subject, and may not point at the page. 
 
 Good: "Mischel's 1970s study found that children who waited longer later scored higher on some tests." Bad: "Both halves matter here." The test: read the sentence aloud with the article's title hidden. If it still says something true about psychology, it passes.
 
-## Part 1: your 58, checked by Chat. 34 pass. These 24 go back.
+## Part 1: your 58, checked by Chat. 35 pass. These 23 go back.
 
 Chat's suggestion is beside each where the fix is not obvious. Use it or better it.
 
@@ -38,11 +38,11 @@ Chat's suggestion is beside each where the fix is not obvious. Use it or better 
 21. **mental-disorders-tripled-since-the-1950s:** "No side gets picked here..." Suggest: "Neither side has looked closely enough at what the number actually measures." Mind the word count.
 22. **the-rise-in-autism-diagnoses-real:** "That argument is not the concern here." Cut.
 23. **mastering-the-art-of-persuasion:** "Both matter, and so does the honest line..." Suggest: "There is a line where persuasion becomes something people should be able to spot and resist."
-24. **dynamics, examining, karpman above** are cuts; after any cut, re-check keyword in first paragraph, density and word count, and repair only what the cut forced, as you did before.
+After any cut, re-check the keyword in the first paragraph, density and word count, and repair only what the cut forced, as you did before.
 
-The other 34 pass Chat's check and go to Code now for pushing; you do nothing more to them.
+The other 35 pass Chat's check and go to Code now for pushing; you do nothing more to them.
 
-## Part 2: 44 records Code's wider gate found that were not in your 58
+## Part 2: 43 records Code's wider gate found that were not in your 58
 
 Code widened the gate at S131 to catch "What follows", "It closes with", "this post" and more, and ran it over every live record. These carry a hit and were not in your list. For each: open it, find the flagged line, and either fix it by the rule above or, if the line is really about the subject and not the page (for example "What follows is predictable" about a person's reaction), leave it and list it as a false alarm with one line why.
 
@@ -50,7 +50,7 @@ Code widened the gate at S131 to catch "What follows", "It closes with", "this p
 
 **Field-authority articles (22): a paragraph describing the article.** a-guide-to-building-inner-resilience; conditioning-fear-insights-from-the-little-albert-experiment; decide-with-confidence-10-timeless-principles-for-wise-decision-making; dialogue-versus-monologue; essential-character-traits-for-personal-growth-and-development; exploration-of-dr-howard-gardners-nine-types-of-intelligence; exploring-self-determination-theory-key-principles-applications; finding-lifes-purpose-with-viktor-frankls-mans-search-for-meaning; gerard-egans-skilled-helper-model-using-the-3-stage-framework; how-irresponsibility-leads-to-personal-disempowerment; how-philosophy-illuminates-our-understanding-of-psychology; insights-from-mary-ainsworths-the-strange-situation-study; lessons-from-how-to-win-friends-influence-people; misattribution-of-arousal-study-insights-into-emotional-perception; the-impact-of-the-hawthorne-studies-on-workplace-dynamics; the-origin-of-the-drama-triangle; the-origins-of-positive-psychology; the-road-to-character-10-lessons-from-david-brooks-classic; the-role-of-freedom-in-personal-autonomy-and-decision-making; the-worlds-most-influential-psychologists; understanding-your-core-values; what-is-counselling-psychology-a-search-for-a-definition.
 
-**Instructor articles (11): a paragraph describing the article.** ai-making-us-worse-thinkers; diagnosing-bipolar-disorder-in-children; diagnosis-be-scientifically-weak-but-still-useful; diagnostic-inflation-actually-happening; homosexuality-was-a-diagnosis; hypomania-from-an-ordinary-mood-swing; multiple-personality-diagnoses-spike-after-a-film; psychological-blind-spots; stages-of-building-strong-relationships; trust-ai-even-when-its-wrong; doctors-have-only-minutes-to-diagnose (a second line the old gate missed, "I build the fuller version of this idea", is a course pointer about the idea, not the article: leave it, and check only for any other flagged line). Instructor articles keep the instructor's own "I"; only the page-pointing goes.
+**Instructor articles (10): a paragraph describing the article.** ai-making-us-worse-thinkers; diagnosing-bipolar-disorder-in-children; diagnosis-be-scientifically-weak-but-still-useful; diagnostic-inflation-actually-happening; homosexuality-was-a-diagnosis; hypomania-from-an-ordinary-mood-swing; multiple-personality-diagnoses-spike-after-a-film; psychological-blind-spots; stages-of-building-strong-relationships; trust-ai-even-when-its-wrong. Three of these open the flagged paragraph with "I build the fuller version of this idea inside the Mental Health course": that sentence is a course pointer about the idea, not the article, so it is not the fault; look for the page-pointing line elsewhere in the paragraph. The same line in doctors-have-only-minutes-to-diagnose (your record 46) is also fine as it stands. Instructor articles keep the instructor's own "I"; only the page-pointing goes.
 
 ## Still out of scope, listed not fixed
 
