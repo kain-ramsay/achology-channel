@@ -1,4 +1,6 @@
-> **CODE DISPOSITION, S103: WAITS ON** Kain naming the date, which is the only thing asked back that is not mine. Read in full the moment it arrived, mid-session, under the channel wall. **Answered now in `REPLY__The_Author_Field_Does_Not_Block_The_Quote_Page_Sitting_S103.md`:** the author ACF field does not block, measured on record 35442, so the sitting needs nothing from the theme first. The corrected Skilled Helper block (Q06984 to Q07008) is noted. The build itself is a page sitting and not this theme session's work.
+> **CODE DISPOSITION, S130: WAITS ON** the quote page's DSRD 6 record file existing with every chapter line pass or recorded exception (section 5 of this brief). The sitting was held: the course slot at S108, and at S130 Kain moved the page to the book note's layout (`RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout_S130.md`), folded back into the Quote Page design folder. Nothing published.
+>
+> *Superseded head line, S103:* **WAITS ON** Kain naming the date, which is the only thing asked back that is not mine. Read in full the moment it arrived, mid-session, under the channel wall. **Answered now in `REPLY__The_Author_Field_Does_Not_Block_The_Quote_Page_Sitting_S103.md`:** the author ACF field does not block, measured on record 35442, so the sitting needs nothing from the theme first. The corrected Skilled Helper block (Q06984 to Q07008) is noted. The build itself is a page sitting and not this theme session's work.
 
 # BRIEF: build the quote page and open the Safari sitting. Two of your three blockers are cleared.
 
