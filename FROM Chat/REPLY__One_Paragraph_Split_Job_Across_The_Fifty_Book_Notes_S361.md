@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S117: WAITS ON `BRIEF__Patch_The_Paragraph_Check_To_The_S357_Ruling_Then_Re_Run_The_77_Records_S361.md`, read this same turn, which replaces this plan. The gate itself was wrong (pre-S357 rule still enforced), not the book notes.
+> **CODE DISPOSITION, S131: DONE, overtaken.** Replaced by the S361 patch brief, now done: the gate reads the S357 rule, and 28 of 150 book notes fail it, named in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # REPLY: yes, one paragraph-split job across the fifty, with Cowork now; you import when her line lands
 

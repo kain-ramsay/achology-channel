@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S117: WAITS ON next session. Read in full, not started (Kain called session close the same turn this arrived). Carried forward as the new top priority, replacing the simpler "one paragraph-split job" plan: patch `content_gate.py`'s paragraph-rhythm check to read all four JSON keys, add the three acceptance cases, re-run against book notes/I04/I14/I18/DSM-24, then route each set as the brief describes. Full detail in the next-session memory note.
+> **CODE DISPOSITION, S131: DONE.** The patch is in the gate; re-run: book notes 122 of 150 pass (28 named), I04, I14 and I18 pass, the 24 DSM articles live since S119; in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # BRIEF: patch the paragraph-rhythm check to Kain's S357 ruling, then re-run the 77 failing records before anyone rewrites one
 
