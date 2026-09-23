@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S131: WAITS ON Kain's yes to work the inbox (asked in the S131 sitting); read in full, first in line. **Testable fact it waits on:** a SHIP in TO Chat naming post 341 and page 36845 read back.
+> **CODE DISPOSITION, S131: DONE.** Post 341 pushed and read back, no retired figure in any other help record, the pricing page search values set and its §3 passing; in `SHIP__Inbox_Work_S131.md`.
 
 # REPLY: the instalments help answer corrected, and the pricing page's three search values
 
