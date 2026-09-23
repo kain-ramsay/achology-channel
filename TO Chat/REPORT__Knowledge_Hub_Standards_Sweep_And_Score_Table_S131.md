@@ -17,14 +17,14 @@ For each published article (269, which includes the author biographies), book no
 
 ## 3. The score table
 
-Stored Rank Math scores read off the install after Kain's second Recalculate Scores this session. Kain's next press moves the four pages fixed in section 2 to their editor reads, which takes every row below to 80 or more.
+Stored Rank Math scores read off the install after Kain's third Recalculate Scores this session, which picked up the four pages fixed in section 2 (brene-brown 89, gabor-mate 89, the-places-that-scare-you 88, achology-teaching-philosophy 93, each equal to its editor read). **Every live Knowledge Hub page, 908 of 908, now reads 80 or more in WordPress's list.**
 
-| type | live | at 80 or more | mean | lowest | under 80, and why |
-|---|---|---|---|---|---|
-| article | 269 | 267 (269 at the next rescore) | 88.6 | 71 | brene-brown and gabor-mate, fixed in section 2, editor 89 and 89 |
-| book note | 139 | 139 | 87.9 | 82 | none |
-| help answer | 250 | 249 (250 at the next rescore) | 88.4 | 77 | achology-teaching-philosophy, fixed in section 2, editor 93 |
-| quote page | 250 | 250 | 88.5 | 84 | none |
+| type | live | at 80 or more | mean | lowest |
+|---|---|---|---|---|
+| article | 269 | 269 | 88.8 | 84 |
+| book note | 139 | 139 | 87.9 | 82 |
+| help answer | 250 | 250 | 88.4 | 80 |
+| quote page | 250 | 250 | 88.5 | 84 |
 
 At the start of the session the help answer row read 216 of 250 at 80 or more (mean 84.6); the list now agrees with the editor.
 
