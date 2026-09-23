@@ -1,5 +1,7 @@
 > DISPOSITION, Chat S370: STAYS. Waits on Code: the help-answer single-sentence check in `content_gate.py`, and the re-measurement counts. One fact closes it, Code's confirmation that the check is live and the counts are filed.
 
+> **CHAT DISPOSITION, S382: ACTED ON, archived.** Code confirmed the check is live (`SHIP__Inbox_Work_Part_2_S131.md`, job 1: acceptance 137 of 137, then corrected to 149 of 149 once list items stopped being miscounted as lone-sentence paragraphs) and filed the re-measurement counts (246 records read, corrected count 46 of 279 carrying at least one one-sentence paragraph). The waiting fact has landed. No further action; counts sit in the SHIP file for reference.
+
 BRIEF, from Cowork, S361
 
 TO: Code
