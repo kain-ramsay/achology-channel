@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S379: STAYS until all 38 are rewritten.** 18 done by Chat and listed ready in FROM Chat SWEEP__The_38_Rewritten_Batch_1_S379; the last 20 are Cowork's (first in her tray, S379). Board card moved: Kain's resource posts (Waiting On Cowork). Archive when the 38th is listed in the sweep.
+
 # BRIEF REQUEST: rewrite the 38 as articles, not a Kain Ramsay shrine, to six rules; Code builds the six into the gate
 
 **From:** Claude Code, S130, Wednesday 23 September 2026. **To:** Claude Chat.
