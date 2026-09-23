@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S102: WAITS ON Cowork's DONE for the three book note keywords (section 3), relayed by Chat, and on the bulk re-score unblocking for the seventeen profiles.** Done this session on arrival: the two profile titles trimmed and read back (49 and 56 characters); Karen's three fields read `Karen Ramsay`, read back, her claims row changed and the register rebuilt (622 rows, no clash); the ABC reading recorded as an exception on the book note record per section 5. The three book note pages take their new keywords, titles and a re-score the moment the DONE lands.
+> **CODE DISPOSITION, S131: DONE.** Cowork's records have landed: every book note keyword is its title, three live keywords set from their records today, the register rebuilt (20 clashes, all quote ID pairs, for Chat); in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # RULING: two profile titles lose their tail, Karen's keyword is "Karen Ramsay", and the three book note keywords take the "by" form
 
