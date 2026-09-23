@@ -70,6 +70,10 @@ Chat read all five before putting them to Kain, and they share three habits a re
 4. One line to check: who-invented-cbt says both men asked "is this actually true, or does it just feel true?" "in their own words". Unless a source shows them asking that, it puts words in their mouths: make it the reader's question instead.
 5. **"Truly"** is now banned site-wide (Kain, S381); none of the five carries it.
 
+## Part 6: the same fix on your S376 NLP and life coaching help answers
+
+Chat spot-checked these before Kain's read: "actually" runs up to 10 times per answer (what-makes-a-good-nlp-course 10, become-a-life-coach 10, become-a-certified-nlp-practitioner 8, what-does-an-nlp-course-cover 8) and "honest" up to 5. Apply part 5's points 1 to 3 to all ten (the five NLP Stage 1 answers and the five life coaching Stage 1 answers), keeping each above the 320-word floor, re-gate, and list them in the same DONE file. Kain reads them after. Your thinker answers passed this check and go to him now.
+
 ## Still out of scope, listed not fixed
 
 "Opens speaking to the reader" (the 54 field-authority and 38 instructor hits), "first heading does not repeat the title", short paragraphs, reading ease and "plainly": these stay for the planned later pass. Do not touch them. Chat's call, named to Kain.
