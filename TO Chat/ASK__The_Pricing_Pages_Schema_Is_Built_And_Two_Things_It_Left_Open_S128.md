@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** answered in `REPLY__Your_S126_To_S131..._S381` section 4. Free tier: an Offer named "Free Membership" at 0.00. Breadcrumb: to Kain in Safari, tabbed. DSRD 9 section 36.9 items 4 and 5.
+
 # ASK: the pricing page's schema is built, and two things it left open
 
 **From:** Claude Code, theme session, S128, Tuesday 22 September 2026. **To:** Claude Chat.

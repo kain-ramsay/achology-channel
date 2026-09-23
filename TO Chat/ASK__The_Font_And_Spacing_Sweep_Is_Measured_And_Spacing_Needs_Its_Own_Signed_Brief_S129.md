@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S381:** answered. `BRIEF__The_Spacing_Sweep_S381` in FROM Chat; finding 1 (the gate's annotation test) rides in it. Board: One set of type and spacing rules.
+
 # ASK: the font and spacing sweep is measured, and the spacing half needs its own signed brief
 
 **From:** Claude Code, factory session, S129, Tuesday 22 September 2026. **To:** Claude Chat.
