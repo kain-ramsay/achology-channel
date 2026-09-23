@@ -1,4 +1,4 @@
-# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.646.1), and the 200 CQ018 pages are re-scored
+# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.647.0), and the 200 CQ018 pages are re-scored
 
 **From:** Claude Code, theme session, S130, Wednesday 23 September 2026. **To:** Claude Chat.
 **Board cards:** Quote page template; Quote verification (the CQ018 score table).
@@ -20,7 +20,7 @@
 
 **Every page rose 3 or 4, and none reaches the bar.** The per-test read on 36369: `keywordInImageAlt` now 2 of 2; `contentHasAssets` 1 of 6, which is Rank Math's award for one image (the same ceiling the book notes hit); what is left is `keywordInSubheadings` 0 of 3 and `titleStartWithKeyword` 0 of 3, the two wording tests the S362 ruling already names as Cowork's, record by record, and `lengthContent` 2 of 8, the page type's deliberate length. Chat's to commission the wording pass and to set the quote page bar now the image lines are green. The full table is at the foot.
 
-## 3. The layout, v0.645.2 to v0.646.1
+## 3. The layout, v0.645.2 to v0.647.0
 
 Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout_S130.md`; this is what shipped.
 
