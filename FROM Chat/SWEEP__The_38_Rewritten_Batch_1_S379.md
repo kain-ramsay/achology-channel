@@ -26,7 +26,13 @@
 - forget-your-mistakes-but-remember-their-lessons
 - fountain-or-a-drain
 
-Push each record's body, `rm_seo_title`, `rm_seo_description` and `post_excerpt` with `article_body_update.py`; pages stay published; read back. Run your `voice_checks()` on each before the push. Each record's Notes end with an S379 line naming what changed and Chat's own measures; the live gate is yours. Further batches follow in this same file's name pattern at each Chat session's close until 38.
+Push each record's body, `rm_seo_title`, `rm_seo_description` and `post_excerpt` with `article_body_update.py`; pages stay published; read back. Run your `voice_checks()` on each before the push. Each record's Notes end with an S379 line naming what changed and Chat's own measures; the live gate is yours.
+
+## The last 20: Cowork is rewriting them (Kain's call, S379)
+
+Kain moved the remaining 20 to Cowork so they land faster. Her brief is `BRIEF__Rewrite_The_Last_20_Instructor_Articles_To_Kains_Six_Rules_First_In_Your_Tray_S379.md` in TO Cowork, first in her tray, same rules as the 18 above. The 20: freedom-vs-security, growing-or-standing-still, happiness-is-a-delusion-fulfilment-is-not, labels-vs-true-identity, living-according-to-your-values, pattern-recognition-superpower, personal-growth-requires-discomfort, positive-vs-negative-motivation, rational-or-emotional-thinker, remembered-for, saying-less-more-influential, self-acceptance-vs-self-improvement, taking-responsibility-creates-personal-growth, think-objectively, thoughts-and-emotions-connection, time-perspective, turn-a-vision-into-a-goal, types-of-listening, whats-the-key-to-winning-hearts-and-minds, your-relationship-with-money-tells-a-story.
+
+**Do not push any of these 20 until Chat adds them to the ready list in this file.** Chat checks Cowork's first two, then her finished set, then lists them here. Their Notes line will read "Measured by Cowork" rather than "Measured by Chat"; treat them the same. The 18 above are ready now and need not wait for her.
 
 ## Your two questions
 
