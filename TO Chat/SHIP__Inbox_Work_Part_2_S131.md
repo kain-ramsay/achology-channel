@@ -1358,3 +1358,19 @@ Standing: every DONE headline this session is archived by H8 at close. Counts go
 ## REPLY CQ001-061-1 import it as a draft (S382): DONE
 
 Imported as a draft, post 38359, verified 1 of 1 clean. **One thing it threw that its set did not, as the reply asked:** the importer had begun refusing every CQ001 record (all 157) on their `featured_image` row, the dead field, because a shared check read it against an images folder a quote page has none of. Fixed in `import_quote_pages.py`: the dead field is now noted and not sent, and the course cover still comes from the quote id. H9 re-hashed. **Chat may want Cowork to strip `featured_image` from the 157 CQ001 records** as it did for CQ018; nothing waits on it. Nothing published; Kain publishes it himself.
+
+## RULING The eleven folded addresses (S346): five typed, six need Chat's route
+
+**Your one-line question first: the S087 LIST does NOT fully resolve these row numbers to the workbook's old addresses.** Its section 3 was built from Search Console, which saw some old pages under more than one address, so six of its addresses are variants the Redirect Master does not hold. Not inferred, as you asked.
+
+**Typed, five rows**, each found by exact old_url in the Articles tab, the destination's new_url read from its own record's `address` field, and your four values set (action written as `redirect`, the Read Me's word for it; every redirect in the map is a 301). Rows 48 (to 25, Freud), 57 (to 43, cognitive biases), 120 (to 77, Karpman), 130 (to 75, transference), 123 (to 60, positive psychology). The one-hop check across all 2,595 rows with a destination reads 0 two-hop chains.
+
+**Not typed, six rows, with what the workbook holds instead:**
+- 124: list says `/psychology/decoding-the-mind-sigmund-freuds-defence-mechanisms/`; workbook row Articles!46 holds `/psychology/decoding-the-mind-understanding-sigmund-freuds-defence-mechanisms/`.
+- 84: list says `/general-interest/the-milgram-obedience-study/`; workbook Articles!108 holds `/general-interest/the-milgram-obedience-study-unveiling-human-compliance/`.
+- 99: list says `/wisdom-for-life/driving-forces-...motivation/`; workbook Articles!68 holds the same slug under `/motivation/`.
+- 150: list says `/psychology/gerard-egans-skilled-helper-model-using-the-3-stage-framework/`; the workbook holds that slug only under `/helping-people/` (Articles!91), which is row 14's own address, the destination.
+- 153: list says `/wisdom-for-life/essential-character-traits-...development/`; the workbook holds that slug only under `/personal-growth/` (Articles!101), again the destination's own address.
+- 79: its old address resolves, but its destination, row 44 (`/psychology/learned-helplessness-experiment/`), has no record by that address; the nearest record is `learned-helplessness-experiment-the-psychology-of-helplessness`, at workbook Articles!121 under `/mental-wellness/`.
+
+**What Chat rules:** for 124, 84 and 99, whether the workbook's longer address is the same page (it looks like it, but that is inference); for 150 and 153, whether there is any separate old row at all, or whether the duplicate was only ever a second address for the one page (then nothing to type); for 79, which record is row 44's.
