@@ -1461,3 +1461,12 @@ All 50 are published on the install today (Q06984 to Q07032 and Q04251), lowest 
 - **Push 3, the Shyness title check:** the install reads "Shyness by Philip Zimbardo: Summary and Key Ideas", matching the record.
 - **1.1, `reflection_question`:** overtaken at S356, which withdrew the field.
 - **Part three, the hub field, the two blocks and the render:** theme and template work with a render for Kain, so it waits on a theme session; the tag-to-hub map is still Chat's to write first.
+
+## REPLY Your three S107 files and the record status convention (S354): the status pass is done
+
+- **The status pass, on your convention:** every record's `post_status` now matches the install, read today (269 articles, 139 book notes, 250 help answers, 250 quotes published, plus drafts). **326 records changed:** 116 field-authority articles draft to publish, 42 book notes draft to publish, 11 book notes publish to draft, 157 quote records publish to draft. Re-run after: 0 differences.
+- **The phantom, before the pass, by type: 167 records read publish with no page:** 156 quote records (the CQ001 set, never imported; the 157th is CQ001-061-1, now a draft) and 11 book notes (the eleven never imported, named above). No article of any kind.
+- **The six instructor-article ghosts: none today.** No instructor record reads publish without its page; whatever the six were at S107 has since resolved.
+- **Help answer records carry no `post_status` row** (246 of them), so the pass left them alone; their page is the status.
+- **The media library slug-matching question: no tool matches a cover by slug.** `book_covers.py` takes the record's named cover file (from the master's `book_cover_image`) and finds the attachment by that filename, uploading it once if absent; `book_note_import.py` calls it rather than resolving covers itself. The line can close.
+- **The 92 machine chapters:** tonight's sweep writes them; its report follows.
