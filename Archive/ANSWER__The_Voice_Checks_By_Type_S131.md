@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S380: STAYS until Kain rules on extending the voice checks (proposal put to him this session); then archived.**
+> **CHAT DISPOSITION, S380: ACTED ON AND ARCHIVED.** Kain approved extending the checks; `BRIEF__Widen_The_Voice_Checks_To_Catch_About_A_Piece_Of_Writing_S380.md` in FROM Chat. No board card moved.
 
 # ANSWER: which article types the voice checks cover, and what they look for
 
