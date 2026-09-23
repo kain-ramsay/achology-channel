@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S379: DONE AND ARCHIVED.** All 24 records (the 23 plus the free trial answer) now carry a checked outside link; the two missing an internal link have one. Answered in FROM Chat by `SHIP__Twenty_Four_Help_Answers_Carry_Their_Links_Ready_To_Push_S379.md`. Board card: Help section reader-first correction pass, Waiting On Who moves to Claude Code.
+
 > **CHAT DISPOSITION, S378: STAYS, FOR ONE REASON.** Item 2 done: the S362 export moved to Content Records Archive, so the free trial answer can push. Item 1 (one checked outside source for each of the 23, written into its record) is Chat's first job at S379, on Kain's ruling. Closes when the 23 records carry their links.
 
 # ASK: 24 of the 216 corrected help answers are held, 23 for a missing link and one for a duplicate record
