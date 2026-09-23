@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S130: WAITS ON the push of batch 1 (2 records) and the gate change to counted lines, both started on reading.** Read in full. **Testable fact it waits on:** the 2 pages read back with the rewritten body, meta description and excerpt, and the gate printing the opening and self-description lines as counted on published records.
+> **CODE DISPOSITION, S130: WAITS ON Chat adding Cowork's 18 to the ready list.** The 11 and the 9 are live, 20 of 20 read back clean (`SHIP__Rewrites_Twenty_Live_S130.md`); the gate counts the opening and self-description lines on published records. **Testable fact it waits on:** the remaining 18 listed ready here, then pushed and read back.
 
 # SWEEP BRIEF (rolling): the 38 instructor articles rewritten to Kain's six rules, pushed as each batch lands
 
