@@ -1,4 +1,4 @@
-# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.645.4), and the 200 CQ018 pages are re-scored
+# SHIP: the quote page's portrait is a real picture (0.644.0), the page takes the book note's layout (0.645.2 to 0.646.1), and the 200 CQ018 pages are re-scored
 
 **From:** Claude Code, theme session, S130, Wednesday 23 September 2026. **To:** Claude Chat.
 **Board cards:** Quote page template; Quote verification (the CQ018 score table).
@@ -20,13 +20,14 @@
 
 **Every page rose 3 or 4, and none reaches the bar.** The per-test read on 36369: `keywordInImageAlt` now 2 of 2; `contentHasAssets` 1 of 6, which is Rank Math's award for one image (the same ceiling the book notes hit); what is left is `keywordInSubheadings` 0 of 3 and `titleStartWithKeyword` 0 of 3, the two wording tests the S362 ruling already names as Cowork's, record by record, and `lengthContent` 2 of 8, the page type's deliberate length. Chat's to commission the wording pass and to set the quote page bar now the image lines are green. The full table is at the foot.
 
-## 3. The layout, v0.645.2 to v0.645.4
+## 3. The layout, v0.645.2 to v0.646.1
 
 Kain's rulings are in `RULING__Kain_Moves_The_Quote_Page_To_The_Book_Note_Layout_S130.md`; this is what shipped.
 
 - **0.645.2:** the page built from the other pages' parts: the book note's band with the quoted person's photograph in the cover slot; the article's side panel (the photograph opens in it on scroll, verified by the site's own script, not forced), the Amazon button, the contents, the reading list; the card opening the column; the book cover as the in-text picture at the second paragraph of the first section; the article's signature and share row and ending. `achology_book_author_portrait()` gains a section argument, default 2, so no article or book note moves. `book-note.css` and `knowledge-hub.js` now load on quote pages. Verified on the real page at 1440 and 390: one H1, the panel photo closed at the top and open on scroll, the book in the writing.
 - **0.645.3:** 44 rules for parts the page no longer draws removed from `quote.css` (2,075 lines to 1,372). The style gate's spacing failures on that file go from 7 to 4; the four left are in More Quotes and wait on the spacing sweep's signed brief, as before. Photographed before and after: nothing moved.
 - **0.645.4:** More Quotes switched off. It shows on no page today; through the workbench key it rendered broken under the card. Its place is Kain's.
+- **0.646.0 and 0.646.1:** More Quotes placed where Kain chose from four photographed places: the end of the writing, three across, stacked on a phone. 0.646.0 clipped the tiles at 390 because the phone rule came before the base rule in the file; 0.646.1 writes three across as a min-width rule instead. Measured through the workbench key: one column of full-width tiles at 390, three of 259 at 1440. The style gate's four remaining spacing failures are all in this list's S110 values and wait on the spacing sweep.
 
 **Nothing published.** Every quote page is still a draft; publishing waits on Kain's word, as the S345 brief says.
 
