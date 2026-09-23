@@ -1,3 +1,5 @@
+> **CHAT S381: stays.** Chat read all five before putting them to Kain and sent them back for three shared habits (part 5 of `BRIEF__Twenty_Three_Of_The_58..._S381`). Waits on one fact: Cowork's corrected five, re-gated; then they go to Kain.
+
 # Report: First Five Articles Of Job 5, CBT Questions 27, 28, 29, 33, 38
 
 **Filed by Cowork, Session 376, per RULING__Your_Next_Two_Jobs_Ahead_Of_The_Tray_Order_S376.md's second job. Job 5 is BRIEF__All_Twenty_Subject_Question_Articles_CBT_And_NLP_As_One_Task_S374.md. All five drafted to the S376 ruled titles, gated to GATE: PASS, and stopped here as instructed. Nothing further on job 5's remaining fourteen articles starts until Kain has read these five and said yes.**

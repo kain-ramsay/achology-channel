@@ -60,6 +60,16 @@ Code widened the gate at S131 to catch "What follows", "It closes with", "this p
 
 Code's S131 sweep found these live with descriptions too long. Rewrite each to 155 or fewer, keyword kept, meaning kept, re-gate, list old and new: gerard-egan, howard-gardner, john-dewey, malcolm-gladwell, sigmund-freud (articles, 156 to 157, trim a word); achologist-led-tutorials-alts, achology-certificates-recognised-internationally, achology-invite-link-not-working, achology-password-reset-email-not-arriving, achology-refund-policy-explained, do-achology-courses-get-updated, does-achology-offer-a-money-back-guarantee, download-achology-community-app, how-much-does-achology-cost, is-achology-accredited-somap, is-achology-therapy-counselling-or-coaching, what-does-achology-membership-include, who-is-achology-designed-for (help answers). Two of the help answers (achology-certificates-recognised-internationally, achology-invite-link-not-working) have no record yet; Code is exporting one for each, so do those two last.
 
+## Part 5: the five CBT question articles (S376), before Kain reads them
+
+Chat read all five before putting them to Kain, and they share three habits a reader would notice. Fix them in all five, then re-gate, and Chat brings them to Kain.
+
+1. **"Actually"** runs 4 to 10 times per article (best-cbt-books 10, cbt-techniques-and-exercises 7). Keep it only where it carries meaning, as in the title "Does CBT actually work?", and at most once in a body otherwise.
+2. **"Honest" and "honestly"** run up to 7 times (does-cbt-actually-work, cbt-techniques-and-exercises). Say the true thing instead of announcing that it is honest.
+3. **Sentences written to reach the word count.** Example, who-invented-cbt: "Beck and Ellis never planned it as one project, and neither man knew exactly where the other's work would eventually lead, or how often their names would end up said in the same breath", and "Neither man waited for the other's permission, and neither needed it." Where cutting drops a body under 850, add a real fact from the sources already read, never more padding.
+4. One line to check: who-invented-cbt says both men asked "is this actually true, or does it just feel true?" "in their own words". Unless a source shows them asking that, it puts words in their mouths: make it the reader's question instead.
+5. **"Truly"** is now banned site-wide (Kain, S381); none of the five carries it.
+
 ## Still out of scope, listed not fixed
 
 "Opens speaking to the reader" (the 54 field-authority and 38 instructor hits), "first heading does not repeat the title", short paragraphs, reading ease and "plainly": these stay for the planned later pass. Do not touch them. Chat's call, named to Kain.
