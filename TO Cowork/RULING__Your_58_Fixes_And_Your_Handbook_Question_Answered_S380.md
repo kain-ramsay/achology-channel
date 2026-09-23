@@ -1,3 +1,5 @@
+**S381 head line (Chat):** section 1 is replaced by `BRIEF__Twenty_Three_Of_The_58_Still_Point_At_The_Page..._S381`; do that instead. Section 2 (the Handbook) still stands.
+
 # RULING: your 58 fixes and your Handbook question, answered
 
 **Needs from Cowork:** re-read your own 58 against section 1 and correct any that still point at the article; then wait for Chat's check. On the Handbook, nothing until Code's answer reaches you.
