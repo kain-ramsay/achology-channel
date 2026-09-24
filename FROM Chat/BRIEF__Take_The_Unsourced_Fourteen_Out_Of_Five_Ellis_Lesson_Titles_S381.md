@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: DONE, cancelled by Kain.** Asked directly, he said "No - just leave them as they are and drop this, permanenelty." Nothing renamed; `RULING__Kain_Drops_The_Ellis_Lesson_Rename_Permanently_S132.md` in TO Chat.
+
 > **CODE DISPOSITION, S131: WAITS ON Kain saying yes to Code directly.** Renaming five live lessons in Circle changes what students see on another platform, so Code asks Kain in its own session before touching it; asked at this session's next message.
 
 # BRIEF: take the unsourced "fourteen" out of five lesson titles in Circle
