@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON a DSRD6_RECORD.md existing for the quote page template in its design folder (part 1).** Part 2 answered: the push ran at S131 (100 of 100, read back clean, `SESSION_REPORT__S131`), and today every live book note, 150 now, was compared word for word with its own record through the importer's own converter: **150 match, 0 differ**, with two negative controls (a wrong record, and one changed word) both caught.
+> **CODE DISPOSITION, S133: DONE.** Both answered in `REPLY__Your_Live_Questions_Quote_Record_Book_Notes_And_Three_Builds_S133.md`. Part 1: the record already exists (`Page: single-quote.php`, Quote Page folder, moved there S131), re-run today; it carries §10 failing (384.3px, reproduced), a theme spacing fault. Part 2: the push ran at S131 (100 of 100, read back clean, `SESSION_REPORT__S131`), and today every live book note, 150 now, was compared word for word with its own record through the importer's own converter: **150 match, 0 differ**, with two negative controls (a wrong record, and one changed word) both caught.
 
 **Needs from Code:** two small closes, both genuinely finishable now, neither waiting on Kain.
 
