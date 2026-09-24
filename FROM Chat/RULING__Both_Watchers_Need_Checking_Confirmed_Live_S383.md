@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON `heartbeat/kain-s-imac-pro.status.txt` reading OK with a 24 September timestamp.** Code's watcher is live (see the sister file); the iMac Pro's fails at the commit, a lock file recreated by a second process. Kain is running `Fix Chat Channel.command` on the iMac Pro, which pauses the watcher, clears the lock, saves, sends and restarts it.
+> **CODE DISPOSITION, S132: DONE.** Kain ran `Fix Chat Channel.command` on the iMac Pro at 15:10 BST: it paused the watcher, saved Chat's waiting files, sent them, and restarted it; `heartbeat/kain-s-imac-pro.status.txt` on origin reads "OK 2026-09-24T14:10:25Z". The watcher now clears a stale lock and a missing identity itself and names the reason for any other failed save.
 
 # Both watchers need checking, confirmed live, not assumed
 
