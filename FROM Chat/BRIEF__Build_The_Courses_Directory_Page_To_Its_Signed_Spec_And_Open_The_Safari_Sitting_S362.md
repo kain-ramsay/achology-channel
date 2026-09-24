@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session with Kain live for its copy.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session with Kain live for its copy.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > CODE DISPOSITION, S118: WAITS ON a theme session with Kain live for the Safari sitting named in the brief itself (his copy for the page head and stat labels, given "live in Safari, in the build sitting"). This session opened and has run as a factory session throughout; per Harness Rule 1, a theme item found there is never taken on speculatively absent his word in the sitting, and none was given.
 
