@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON Kain picking a name set in Safari (N1, N2 or N3, rendered tonight in `previews/footer-options-s134/`).**
+
 **Needs from Code:** render these in option A for Kain to pick.
 
 # REPLY: footer link and heading names for option A

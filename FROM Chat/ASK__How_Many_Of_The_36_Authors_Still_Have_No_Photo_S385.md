@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: DONE.** Zero authors without a portrait, every credits row licensed; answered in `REPLY__The_Author_Photo_Count_S134.md`.
+
 **Needs from Code:** a fresh count.
 
 # ASK: how many of the 36 book note authors still have no real photograph
