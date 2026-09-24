@@ -53,9 +53,9 @@ Test: every question that travels states what was checked and what it failed to 
 
 ## 4. Where a standard lives
 
-The DSRDs have one home, the DSRD's | Achology Specification Documents folder, and are never mirrored, edited by Code or Cowork, or copied into a theme, a vault or a project file. A component's build instruction is its approved prototype plus its build sheet in its design folder; DSRD 8 is decision history only. Precedence when they disagree: prototype, then sheet, then code; the lower one is corrected. Karen's twenty-eight CSV master is true north for every course, section and lesson. The Book Note master is true north for every book note row, read by Chat only.
+The DSRDs have one home, the DSRD's | Achology Specification Documents folder, and are never mirrored, edited by Code or Cowork, or copied into a theme, a vault or a project file. A component's build instruction is its approved prototype plus its build sheet in its design folder; DSRD 8 is decision history only. **This precedence applies only once a component has actually been carried across into its own design folder (ruled S257).** Until then, DSRD 8 governs directly, exactly as before the component case existed: quote it word for word under section 2, and never guess which state a component is in. A component's design folder's own README says what exists there; where a component looks carried across but has no build sheet, that is a genuine gap, not a licence to read a value out of the theme and treat it as the standard, and it stops the work under section 3. Karen's twenty-eight CSV master is true north for every course, section and lesson. The Book Note master is true north for every book note row, read by Chat only.
 
-Test: a claim about a standard quotes the sentence from the owning document, read this turn.
+Test: a claim about a standard quotes the sentence from the owning document, read this turn, and names which of the two states the component is in where that matters.
 
 ## 5. Name the folder, never the path
 
