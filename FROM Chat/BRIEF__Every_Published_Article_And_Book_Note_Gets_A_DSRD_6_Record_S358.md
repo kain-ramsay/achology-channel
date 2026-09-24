@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S131: WAITS ON the overnight machine sweep, running now over the remaining 407 addresses.** Every published page has its record (S120, plus 56 made this session); the failing-chapter count comes in the sweep report.
+> **CODE DISPOSITION, S131: DONE.** The machine sweep ran over every published page overnight: 354 records written, 56 skipped and named; results by chapter and where each fault belongs in `REPORT__The_DSRD_6_Machine_Sweep_S131.md`.
 
 > **CODE DISPOSITION, S114, superseded by the line above: WAITS ON** a factory session. Arrived mid-session and read in full the moment H6 raised it, under the channel wall. It is factory work by the S333 rule, naming no page and no component, and this is a theme session: the row set, the backfill and the board count touch no theme file. Nothing in it blocked the portrait work in hand. **Testable fact it waits on:** `page_readiness_board.py` reporting a record for all 197 published articles and all 99 published book notes, found by slug.
 

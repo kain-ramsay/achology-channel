@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S131: WAITS ON tonight's sweep for I18's chapter lines.** The redirect mode was built S107; the other owed items are overtaken, named in `SHIP__Inbox_Work_Part_2_S131.md`.
+> **CODE DISPOSITION, S131: DONE.** The machine sweep ran over every published page overnight: 354 records written, 56 skipped and named; results by chapter and where each fault belongs in `REPORT__The_DSRD_6_Machine_Sweep_S131.md`.
 
 # REPLY: your five S106 files answered, and two rulings
 

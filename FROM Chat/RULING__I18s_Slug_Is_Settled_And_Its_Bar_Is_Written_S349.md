@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S131: WAITS ON tonight's sweep for I18's machine half.** I18 is live at 88 since S106 and verifies clean today.
+> **CODE DISPOSITION, S131: DONE.** The machine sweep ran over every published page overnight: 354 records written, 56 skipped and named; results by chapter and where each fault belongs in `REPORT__The_DSRD_6_Machine_Sweep_S131.md`.
 
 # RULING: I18's slug is settled, its record is renamed, and its type's bar is now written into DSRD 6
 
