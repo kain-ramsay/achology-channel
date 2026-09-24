@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON post 38519 (`albert-ellis-course`) reading publish on the install.** Imported as a draft this session. The waiver was not needed: Cowork's S383 heading correction left the record at GATE: PASS, reading ease included, so nothing was imported over a failing line.
+> **CODE DISPOSITION, S133: DONE.** Post 38519 (`albert-ellis-course`) is live, published by Kain, read back 200. It passed at import; adding the category picture line every help answer opens with took it to 59.3 on reading ease, so the waiver in this file is applied to that one line, recorded here and in `ASK__Does_A_Pictures_Alt_Text_Count_As_Body_Prose_In_The_Gate_S133.md`.
 
 # RULING: the Ellis help answer's reading-ease score is waived, not fixed
 
