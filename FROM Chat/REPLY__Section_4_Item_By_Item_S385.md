@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: DONE.** The three lists and both pointers sent in `REPLY__The_Three_Lists_And_Two_Pointers_S134.md`; the 132 practice blocks were found already fixed.
+
 **Needs from Code:** three specific lists (item 5, 6, 7 below), so real briefs can go to Cowork the same day, not guessed at.
 
 # REPLY: section 4, item by item
