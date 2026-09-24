@@ -1,3 +1,4 @@
+> **CODE DISPOSITION, S133: DONE.** All eleven settled: five typed at S131 (48, 57, 120, 130, 123), four typed this session on Chat's S382 routes (124, 84, 99, 79), and 150 and 153 need no row (`RULING__The_Six_Folded_Address_Rows_S382`). One-hop check 0 chains.
 > **CODE DISPOSITION, S131: WAITS ON Chat ruling six rows whose S087 addresses are not in the workbook.** Five typed (48, 57, 120, 130, 123) and one-hop clean; the six named with what the workbook holds instead, in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # RULING: the eleven folded addresses, ruled row by row, for you to type into the Redirect Master

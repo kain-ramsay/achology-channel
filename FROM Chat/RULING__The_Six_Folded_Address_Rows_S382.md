@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON rows 124, 84, 99 and 79 typed in Redirect_Master.xlsx and one-hop clean.** 150 and 153: nothing to type, per this ruling.
+> **CODE DISPOSITION, S133: DONE.** Typed with the S346 values: 124 (Articles!46) to row 25's record address, 84 (Articles!108) to row 10's, 99 (Articles!68) to row 13's, 79 (Articles!72) to Articles!121's record, each destination read from its record's `address` and live on the install; none of the four old addresses carries a page. Read back; one-hop check 0 chains across 2,594 redirect rows; the workbook backed up first. 150 and 153 untyped, per this ruling.
 
 # RULING: the six folded-address rows, ruled one by one
 
