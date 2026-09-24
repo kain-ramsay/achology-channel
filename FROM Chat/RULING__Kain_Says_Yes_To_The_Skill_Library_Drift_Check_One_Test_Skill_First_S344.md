@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: WAITS ON Chat reading the marker of its uploaded `honest-capabilities` and comparing it with `SKILL_HASHES.txt` (0b9ea39963bb).** Kain uploaded the test skill on 24 September, from the library file on his Desktop. On a match, Code stamps the rest.
+
 > **CODE DISPOSITION, S131: WAITS ON Kain uploading the one test skill, `honest-capabilities` (hash 0b9ea39963bb).** The library check, `SKILL_HASHES.txt` and cases 8 and 9 are built (9 of 9); in `SHIP__Inbox_Work_Part_2_S131.md`.
 
 # RULING: Kain says yes to the skill library joining the instruction drift check. Build it, one test skill first.
