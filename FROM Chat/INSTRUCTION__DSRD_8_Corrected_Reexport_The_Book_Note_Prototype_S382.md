@@ -1,3 +1,4 @@
+> **CODE DISPOSITION, S133: WAITS ON `Book_Note_Page_S250_FINAL.html` in the Book Note Page folder carrying a re-export line dated S132 or later, which a theme session makes.** Queued in `000__THE_THEME_QUEUE.md` this session: the instruction names a page, so it is the theme session's by Harness Rule 1. The stale-check's pointer to the Breadcrumb folder was read: that approval is the breadcrumb component's (`COMPONENT_DATA__breadcrumb.json`), not this page's re-export, so the wait stands.
 > **CODE DISPOSITION, S132: WAITS ON `Book_Note_Page_S250_FINAL.html` in the Book Note Page folder carrying a re-export line dated S132 or later.** The book note hero changed again today on Kain's rulings in the sitting (cover level with the breadcrumb, the tablet button under the cover, no Know Your Psychology mark), so one re-export captures those and the column together.
 
 # INSTRUCTION: DSRD 8 sections 31 and 32 are corrected, re-export the book note prototype now
