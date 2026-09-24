@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON the number-to-words step in the run-book (factory, needs nobody); its proof on the next audio run.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+
 > **CODE DISPOSITION, S131: WAITS ON the next audio run.** The number-to-words step goes into the voice audio run-book and proves itself on a real body; no audio ran this session.
 
 # RULING_AND_BRIEF: the audio pipeline converts digits to spoken words before any body is recorded. Build the step; the page keeps its numbers

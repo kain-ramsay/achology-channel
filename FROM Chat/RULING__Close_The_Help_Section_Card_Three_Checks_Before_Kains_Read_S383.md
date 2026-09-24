@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON DSRD 6 records on the 250 help answers, then one reply with the three confirmations; items 1 and 2 are answered in the S134 files.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+
 > **CODE DISPOSITION, S133: WAITS ON a REPLY in TO Chat giving the three confirmations (the 24 held answers pushed and read back, the single-sentence check live, DSRD 6 records on all 250).** Read mid-sitting; queued behind Kain's live requests and the 42 articles.
 
 **Needs from Code:** confirm three things, today, same priority as the 42-articles card.

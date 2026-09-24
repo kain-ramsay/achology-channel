@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON a theme session; the pricing sitting it waited on finished at S380.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+
 > **CODE DISPOSITION, S122: WAITS ON the pricing page sitting finishing, which is this file's own Order line and Kain's stream ruling for this session: the pricing page is the only work until he rules it finished.** Read in full the moment it arrived, at H6's block. Nothing in it cancels the work in hand. **Testable fact it waits on:** a RULING file in TO Chat naming Kain's approval of the pricing page.
 
 # BRIEF: Build the workbook page on the Karpman workbook and show it to Kain in Safari

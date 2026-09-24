@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON Kain's yes to renting a GPU.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+
 > **CODE DISPOSITION, S131: WAITS ON Kain's word to rent a GPU.** The one clip needs rented hardware, which is money spent; Code asks Kain before any rental, and nothing has been installed or spent.
 
 # BRIEF: prove the free lip-sync route on one clip, before anything is built

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON step 3, the bulk write of the map's buildable rows, then step 5, the staging check (factory, needs nobody).**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+
 > **CODE DISPOSITION, S131: WAITS ON a daytime factory session for step 3, writing the map's buildable rows to the install, then step 5.** Steps 1, 2 and 4 are done (chain register S079 and S104; chapter 5 reset on all fifty, the last six at S131; one-hop test, 0 chains across 2,595 rows today). Step 3's route now exists (`publish_gate.py --write-redirect`, S107), so nothing blocks it but a session given to it.
 
 > **CODE DISPOSITION, S101, superseded by the line above: WAITS ON steps 2 through 5, mine, a future session (substantial, standalone work, not started mid-batch tonight).** Step 1 confirmed already built. The three S079 findings asked about in the S339 correction are answered in full in `REPLY__The_Three_S079_Findings_Checked_None_Are_Old_News_S101.md`, filed the same session: none are old news, all three checked live and still real.

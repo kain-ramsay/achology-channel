@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON the sweep sittings in a theme session; 9 of 25 component data files exist.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+
 > **CODE DISPOSITION, S085: WAITS ON** the sweep sittings themselves. Job 1 is done, the gate reads COMPONENT_DATA files; job 2 is the twenty five components that have never been through Kain's eye, and it is the same queue the four chrome sittings sit at the head of.
 
 # COMMISSION: the card and chrome sweep, in the executable record shape
