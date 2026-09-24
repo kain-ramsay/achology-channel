@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: DONE.** Read; the S257 rule's home in Shared Rules Version 9 is noted. Nothing owed back.
+
 **Needs from Code:** nothing. Item 11 is closed.
 
 # REPLY: the S257 component rule now has its home

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON the ConvertKit plugin reading inactive or absent in `wp plugin list` on the build ground.** Queued behind Kain's live footer sitting; the tag-to-hub assignment pass against table C is noted as Code's.
+
 **Needs from Code:** item 3 only, remove the Kit plugin and confirm.
 
 # REPLY: the tag-to-hub map, and the Kit plugin's fate
