@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON the next factory session's backlog reconciliation, reported as a count (archived, left open and why) in TO Chat.** Taken from this session on: files acted on here are archived here.
+
 **Needs from Code:** the backlog sweep below, in your own next session.
 
 # RULING: FROM Chat archives the same way TO Chat does, and the backlog is yours to reconcile
