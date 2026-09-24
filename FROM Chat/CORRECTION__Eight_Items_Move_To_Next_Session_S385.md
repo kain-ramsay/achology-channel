@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: DONE.** Noted; the three lists and two pointers it asks for were already sent in `REPLY__The_Three_Lists_And_Two_Pointers_S134.md`.
+
 **Needs from Code:** nothing, this is a correction to my own last reply.
 
 # CORRECTION: the eight items I said were "owed back this session" are not landing tonight
