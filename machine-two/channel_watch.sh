@@ -290,9 +290,34 @@ fi
 # THE ABORT ON FAILURE IS THE POINT OF VERSION 2. Without it the failure is
 # permanent: the half-done rebase blocks every later cycle, so one bad minute
 # takes the road down until a person unwinds it by hand.
-if ! git pull -q --rebase --autostash origin main; then
-  git rebase --abort 2>/dev/null
-  write_status FAIL "Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears.$recovered"
+#
+# FETCH, THEN REBASE ONTO origin/main BY NAME, S134. `git pull origin main`
+# rebases onto whatever FETCH_HEAD says, and FETCH_HEAD is one scratch file
+# every fetch in this folder rewrites. Code's own session hooks fetch here on
+# every turn, so when the two landed together the watcher read the hook's
+# FETCH_HEAD and stopped with "Cannot rebase onto multiple branches": 1,344
+# times in this Mac's log by S134. origin/main is a named ref, never shared
+# scratch, so the race has nothing left to trip on.
+#
+# AND THE REASON IS KEPT. Until S134 a failed pull wrote only "Pull failed",
+# so the far side read the fact and never the cause. The first line of git's
+# own complaint now goes into the status.
+sync_pull() {
+  local out
+  if ! out=$(git fetch -q origin main 2>&1); then
+    pull_why=$(printf '%s' "$out" | grep -v '^\s*$' | head -1 | cut -c1-160)
+    return 1
+  fi
+  if ! out=$(git rebase -q --autostash origin/main 2>&1); then
+    git rebase --abort 2>/dev/null
+    pull_why=$(printf '%s' "$out" | grep -v -E '^\s*$|^hint:|autostash' | head -1 | cut -c1-160)
+    return 1
+  fi
+  return 0
+}
+pull_why=""
+if ! sync_pull; then
+  write_status FAIL "Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: ${pull_why:-nothing}.$recovered"
   exit 1
 fi
 
@@ -320,8 +345,7 @@ push_ok=0
 for delay in 0 3 8 20; do
   if [ "$delay" -gt 0 ]; then
     sleep "$delay"
-    if ! git pull -q --rebase --autostash origin main 2>/dev/null; then
-      git rebase --abort 2>/dev/null
+    if ! sync_pull; then
       continue
     fi
   fi
