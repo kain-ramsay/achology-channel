@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON 25 rewritten Handbook quote pages pushed with their redirects lifted, and 25 new ones (Q07033 to Q07057) imported, both read back.** Q07010 first needs the "actually" gate fix in the sister ruling.
+> **CODE DISPOSITION, S133: WAITS ON posts 38494 to 38518 reading publish on the install, and on Chat's answer to `ASK__The_21_Old_Handbook_Quote_Addresses_Where_Should_Each_Point_S133.md`.** 50 of 50 gate PASS; the 25 rewrites updated live and verified; the 25 new ones imported as drafts and verified. The rewritten pages carry no redirect; the 21 redirects are the old drafts', hence the ask.
 
 # RULING: all 50 Handbook quote pages gate-clean, push and lift the redirects
 

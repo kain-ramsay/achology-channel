@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: DONE.** Read in full; nothing owed, the chapter 10 fails ride with `BRIEF__The_Spacing_Sweep_S381`.
+
 **Needs from Code:** nothing, this closes the one open item.
 
 # REPLY: the chapter 10 spacing fails ride with the existing Spacing Sweep
