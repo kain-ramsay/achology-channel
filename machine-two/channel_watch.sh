@@ -251,9 +251,25 @@ if [ "$changed" -gt 0 ]; then
   # "what moved and when" without anyone opening a diff.
   folders=$(git status --porcelain | sed 's/^...//; s/"//g' | cut -d/ -f1 \
             | sort -u | tr '\n' ',' | sed 's/,$//')
+  # THE TWO THINGS THAT SILENTLY STOPPED EVERY SAVE, S132. The iMac Pro sat for
+  # sixteen hours on "the commit failed" with no reason given, and Kain was the
+  # go-between all day. A lock file left by a save the Mac slept through blocks
+  # every later save; a machine with no name and email for saves refuses them
+  # all. Both are cleared here, and the reason for any other failure is written
+  # into the status line, so the far side reads the cause, not just the fact.
+  if [ -f .git/index.lock ] && ! pgrep -x git >/dev/null \
+     && [ $(( $(date +%s) - $(stat -f %m .git/index.lock 2>/dev/null || echo 0) )) -gt 300 ]; then
+    rm -f .git/index.lock
+    recovered="${recovered} A leftover lock file from an interrupted save was removed."
+  fi
+  if [ -z "$(git config user.email)" ]; then
+    git config user.name "kain-ramsay"
+    git config user.email "kain@kainramsay.com"
+    recovered="${recovered} This machine had no name and email for saves; they were set."
+  fi
   git add -A
-  if ! git commit -q -m "channel: $changed change(s) in $folders"; then
-    write_status FAIL "Changes were staged but the commit failed. Nothing is lost; the next cycle retries.$recovered"
+  if ! why=$(git commit -q -m "channel: $changed change(s) in $folders" 2>&1); then
+    write_status FAIL "Changes were staged but the commit failed: $(printf '%s' "$why" | tr '\n' ' ' | cut -c1-200). Nothing is lost; the next cycle retries.$recovered"
     exit 1
   fi
 elif [ "$age" -gt 600 ]; then
