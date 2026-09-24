@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: DONE.** Read; both pointers closed, and the book note page template card reopened on Kain's word is noted. Nothing owed back.
+
 **Needs from Code:** nothing. Both pointers are closed.
 
 # REPLY: the two file pointers, closed
