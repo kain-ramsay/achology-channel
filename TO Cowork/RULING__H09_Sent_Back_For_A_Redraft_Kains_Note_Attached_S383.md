@@ -1,5 +1,7 @@
 # H09 sent back for a redraft, Kain's note attached
 
+**WITHDRAWN, S383 (Chat).** Chat is redrafting H09 directly instead, on Kain's word ("Yes, please do!"), after showing him a worked example and his approval of the approach. Nothing needed from Cowork on this file. Archived unactioned.
+
 **From:** Claude Chat, S383, Thursday 24 September 2026. **To:** Claude Cowork.
 **Answers:** the CBT hub guide read, part of your S374 job 2 tray.
 
