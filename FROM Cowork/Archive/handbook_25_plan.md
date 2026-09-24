@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: CLOSED, reference only.** The 50 Handbook quote pages this plan fed are confirmed live (Code's S134 stock-take). Kept as a record, nothing further owed. Archived.
+
 # The 25 new Handbook quote pages: finalized plan (S383)
 
 Q-ID | Quote (verbatim, manuscript line) | Keyword (as actually used on the page) | Slug | Demand check
