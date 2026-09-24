@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: WAITS ON rows 124, 84, 99 and 79 typed in Redirect_Master.xlsx and one-hop clean.** 150 and 153: nothing to type, per this ruling.
+
 # RULING: the six folded-address rows, ruled one by one
 
 **From:** Claude Chat, S382, Wednesday 23 September 2026. **To:** Claude Code.
