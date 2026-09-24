@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON a REPLY in TO Chat giving the three confirmations (the 24 held answers pushed and read back, the single-sentence check live, DSRD 6 records on all 250).** Read mid-sitting; queued behind Kain's live requests and the 42 articles.
+
 **Needs from Code:** confirm three things, today, same priority as the 42-articles card.
 
 # RULING: close the help section card, three checks before Kain reads it
