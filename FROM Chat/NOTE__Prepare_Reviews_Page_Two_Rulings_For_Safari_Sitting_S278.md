@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON Chat naming who runs the review tagging pass and writing DSRD 4 section 14.2's placement line.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON Chat naming who runs the review tagging pass and writing DSRD 4 section 14.2's placement line.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S085: WAITS ON** a Safari sitting with Kain on the Reviews page, for the filter wording and the country-map placement.
 

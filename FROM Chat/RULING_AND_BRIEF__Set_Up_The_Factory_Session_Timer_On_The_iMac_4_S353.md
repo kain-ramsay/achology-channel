@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON Kain at the keyboard for the permission prompts and run zero.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON Kain at the keyboard for the permission prompts and run zero.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S131: WAITS ON Kain at the keyboard.** The setup needs him to answer each permission prompt and watch run zero; nothing else blocks it.
 

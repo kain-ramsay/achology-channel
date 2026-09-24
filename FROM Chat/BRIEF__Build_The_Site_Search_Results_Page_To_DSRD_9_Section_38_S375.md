@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON search.php existing in the theme (a theme session).**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON search.php existing in the theme (a theme session).** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S128: WAITS ON `search.php` existing in the theme.** The brief arrived mid-session, during the pricing page's schema change set, and H6 stopped the work so it was read in full before the next edit: it cancels nothing in hand. It is a theme sitting of its own and is not started here, because a page spec of this size taken on at the tail of another page's change set is the "while I am in here anyway" Rule 3 exists to stop. Its superseded predecessor, `BRIEF__Render_The_Search_Results_Page_For_Kain_In_Safari_S366.md`, is archived at S128 on this file's own instruction.
 

@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session for the practice field and Kain's panel.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session for the practice field and Kain's panel.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S131: WAITS ON a theme session for the field on the install and the panel for Kain.** Book note named at S110; the gate check built today (158 of 158); 132 CQ001 blocks too short, for Cowork. In `SHIP__Inbox_Work_Part_2_S131.md`.
 

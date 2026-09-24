@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session with Kain for items 1 and 3 to 7; items 2, 8 and 9 are built.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session with Kain for items 1 and 3 to 7; items 2, 8 and 9 are built.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S127: WAITS ON a Safari sitting with Kain on a book note page, which is the only place its nine items can be ruled.** It arrived mid-session at H6's wall and was read in full there, inside a theme session whose whole subject was the pricing page. Nothing in it touches that page, so nothing was cancelled by it. Its item 8 is the one piece that is Code's alone and needs no sitting, the responsive layer below 1200 agreed in shape with Kain at S115 and never built, and the file itself says to build it first so the sitting rules it built. The rest, with the whole-page prototype export and the missing side column ruling files owed from S360, waits on the sitting.
 

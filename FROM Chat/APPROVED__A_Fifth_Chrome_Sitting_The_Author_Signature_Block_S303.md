@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session with Kain for the author signature block sitting; its prototype, data file and DSRD 8 section follow.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session with Kain for the author signature block sitting; its prototype, data file and DSRD 8 section follow.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S091: WAITS ON Kain, and it is now the front of its own queue.** The four sittings ahead of it are all closed, sitting 1 at S080 and sittings 2, 3 and 4 at S090, checked this turn against their folders: each holds its prototype beside its `COMPONENT_DATA__*.json`. So the thing this file waited on has happened and the block is gone. **What it waits on now is Kain's eye in Safari on the author signature block**, which is his and cannot be gated. Not archived: the work it commissions has not been done.
 

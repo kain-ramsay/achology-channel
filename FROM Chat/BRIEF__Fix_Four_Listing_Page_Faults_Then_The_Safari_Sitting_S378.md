@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session for part 1, then the Safari sitting.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session for part 1, then the Safari sitting.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S130: WAITS ON the content backlog Kain ruled first in this sitting** ("I just want to get this all out of the way right now before we get on to building anything else"). Read in full mid-sitting; nothing on the listing page started. **Testable fact it waits on:** the four Part 1 fixes shipped under a theme version and the listing page's DSRD6_RECORD.md carrying the re-run gate lines.
 

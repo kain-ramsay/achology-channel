@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session for the field, its derivation and the rendered crumb.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session for the field, its derivation and the rendered crumb.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S131: WAITS ON a theme session.** The field, its derivation and the rendered crumb go together, and the crumb size is Kain's on a render; this session is backlog only.
 

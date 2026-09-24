@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON push 2, the rational living sentence (factory, unblocked since S133), and a theme session for part three once Chat's tag-to-hub map exists.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON push 2, the rational living sentence (factory, unblocked since S133), and a theme session for part three once Chat's tag-to-hub map exists.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S131: WAITS ON a theme session for part three (the hub field, two blocks, render), and on the new rational living book note for one push.** Prefixes, the Canva answer, the cap sweep (nothing left), the twelve biographies (12 of 12 clean) and the Shyness check are in `SHIP__Inbox_Work_Part_2_S131.md`.
 

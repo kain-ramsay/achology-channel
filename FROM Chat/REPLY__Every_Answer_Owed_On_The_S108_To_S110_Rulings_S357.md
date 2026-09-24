@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session for the foundations sitting, builds 1 to 5, 8 and 9; the mid grey count is filed.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session for the foundations sitting, builds 1 to 5, 8 and 9; the mid grey count is filed.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S131: WAITS ON the foundations sitting for builds 1 to 5, 8 and 9.** The mid grey count is filed: 57 uses, 32 on text, listed by file in `SHIP__Inbox_Work_Part_2_S131.md`.
 

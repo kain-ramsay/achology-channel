@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session; Karen's two reply window lines come through Chat.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON a theme session; Karen's two reply window lines come through Chat.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > CODE DISPOSITION, S118: WAITS ON a theme session. This session opened and has run as a factory session throughout; per Harness Rule 1, a theme item found there is never taken on speculatively absent Kain's word given live in the sitting, and none was given for this page.
 

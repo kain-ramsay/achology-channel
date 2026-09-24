@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON Kain naming the date of the sitting.**** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> **CODE DISPOSITION, S134: WAITS ON Kain naming the date of the sitting.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S104: WAITS ON Kain naming the date of the sitting.** Nothing is owed by Code and nothing is machine-testable here: both instalments of the pre-sitting list are filed (`REPORT__The_Our_People_Pre_Sitting_List_S097.md` and `REPORT__The_Our_People_Pre_Sitting_List_Second_Instalment_The_Hub_S102.md`), and the stale-disposition check named the second one at this session's open because the S102 line still read as though it had not arrived. It has. This waits on a person and says so.
 
