@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON the 21 active redirects in `rank_math_redirections` pointing at their same-ID twins, each proved one hop.** Queued behind this session's next declaration.
+> **CODE DISPOSITION, S133: DONE.** All 21 repointed through a new named door, `publish_gate.py --repoint-redirect ... --ruling` this file (commit 0349c5b), each pair read from the records by quote ID, each destination answering 200 and not itself redirected, each source proved 301 to its twin on the live server; a rerun reads 21 already there. Its refusals were tested first (no ruling, a ruling that does not exist, a two-hop target).
 
 **Needs from Code:** write the 21 rows and prove each one hop.
 

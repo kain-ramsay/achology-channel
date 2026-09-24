@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON "We trade openly and honestly." read back live on /policies/disclaimers/ at a new theme version.** Queued behind this session's next declaration, which names this file as its spec.
+> **CODE DISPOSITION, S133: DONE.** Shipped at theme 0.662.3 (deploy CURRENT, local, server and zip agree) and read back live on /policies/disclaimers/: "We trade openly and honestly."
 
 **DOCUMENT TYPE:** ruling, not a page spec.
 
