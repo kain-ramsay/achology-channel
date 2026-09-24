@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON the thinker and model map carrying no question-mark rows: 30 promoted, 3 tentative, 64 examples, 42 dropped, 6 merges applied.**
+> **CODE DISPOSITION, S133: DONE.** Applied to both map files (commit bf805e8): every one of the 139 classified, none left over, no ruled name missing from the map. 30 rows now `thinker` (the 3 tentative among them), 64 `example`, 42 dropped (289 lesson rows), six merges folded, 5 lessons held by both halves of a merge collapsed into one row. The summary was recounted from the full file after its derivation reproduced all 211 old summary rows exactly. Result: 74 thinkers, 28 models, 61 examples, 0 question marks, your own numbers. Wundt reads 11 lessons, not 12, because one lesson named him both ways.
 
 # RULING: the 139 question-mark rows, classified
 
