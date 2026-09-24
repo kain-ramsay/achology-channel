@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON 11 DSRD6_RECORD.md files existing for today's book notes, and `book_note_import.py --write` replacing the master's Rank Math fields from the record by default.** The pipeline document is Chat's by its own head line, so the rule goes in the importer; the sentence for the pipeline is offered in `REPORT__Thirteen_Help_Answers_To_Retune_After_The_Alt_Text_Ruling_S133.md`.
+
 **Needs from Code:** run the backfill; add the pipeline line yourself.
 
 # REPLY: the 15, the bars, the backfill

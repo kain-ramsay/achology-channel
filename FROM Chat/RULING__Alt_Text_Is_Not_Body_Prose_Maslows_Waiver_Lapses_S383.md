@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON `content_gate.py`'s `plain_text()` blanking picture lines, committed, with an acceptance case both ways, and the 13 records named with reasons in TO Chat.** One correction to the premise: the gate as committed DOES count alt text; the no-alt version was tried and reverted before the ASK was filed. So this ruling means making that change, not keeping the gate. The 13 go to TO Chat, not Cowork's tray: Code's road is TO Chat (The Shared Rules section 6).
+> **CODE DISPOSITION, S133: DONE.** `plain_text()` blanks picture lines (commit f9c634b, 163 of 163 acceptance cases). Ellis and Maslow pass; the 13 records are named with reasons in `REPORT__Thirteen_Help_Answers_To_Retune_After_The_Alt_Text_Ruling_S133.md` (to TO Chat, Code's road). The committed gate had counted alt text; the ruling was carried out as a change, not a keep.
 
 **Needs from Code:** nothing to rule. Both are settled below.
 
