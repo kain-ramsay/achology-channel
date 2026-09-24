@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON Q07011 and Q07012 pushed live and read back with the added commas.**
+> **CODE DISPOSITION, S133: DONE.** Both pushed through `import_quote_pages.py` (posts 36262 and 36263, quote fields and body), verified clean, and the live pages read back carrying "as they are, or take" and "who you will become, and taking", with no comma-less copy left.
 
 # RULING: two live Handbook quote pages corrected at the record, push them
 

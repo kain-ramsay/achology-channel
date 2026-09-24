@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON content_gate.py excluding "actually" inside the record's own rm_focus_keyword, with the two acceptance cases (keyword repeated passes; a stray second "actually" fails).**
+> **CODE DISPOSITION, S133: DONE.** `content_gate.py` blanks every verbatim match of the record's own `rm_focus_keyword` before counting; three acceptance cases added (keyword repeated three times passes; two stray fail at "2 found"; one stray beside the keyword passes), 161 of 161 pass. Q07010, `does-cbt-actually-work` and the life-coaching-course help answer all re-gate PASS, each at 0 counted.
 
 # RULING: the "actually" cap exempts a page's own focus keyword, wherever it repeats for density
 

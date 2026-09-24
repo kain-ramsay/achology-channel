@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON `where-can-i-learn-about-albert-ellis` imported with the waiver recorded against this file.** It travels with the four corrected thinker answers in the S383 push ruling.
+> **CODE DISPOSITION, S133: WAITS ON post 38519 (`albert-ellis-course`) reading publish on the install.** Imported as a draft this session. The waiver was not needed: Cowork's S383 heading correction left the record at GATE: PASS, reading ease included, so nothing was imported over a failing line.
 
 # RULING: the Ellis help answer's reading-ease score is waived, not fixed
 

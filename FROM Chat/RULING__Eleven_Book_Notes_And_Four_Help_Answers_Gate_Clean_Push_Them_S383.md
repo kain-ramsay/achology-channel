@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S132: WAITS ON the eleven book notes imported and the four help answers pushed, all fifteen read back live.** The Cowork Production Harness question gets its answer in the reply filed when these land.
+> **CODE DISPOSITION, S133: WAITS ON 13 drafts reading publish on the install (book notes 38451 to 38467, help answers 38519 to 38522), and on two cover files existing in Book Cover Images (`a-new-guide-to-rational-living.jpg`, `the-tao-of-fully-feeling.jpg`), which waits on Kain's yes to download them.** All fifteen re-gated PASS this session. Nine book notes imported as drafts and verified 9 of 9; the two without covers are held (DSRD 8 section 20.2). The four help answers were never on the install (251 live, none of these), so they went in as new drafts. The harness path question is answered in `ASK__The_21_Old_Handbook_Quote_Addresses_Where_Should_Each_Point_S133.md`.
 
 # RULING: eleven book notes and four help answers, gate-clean, push them
 
