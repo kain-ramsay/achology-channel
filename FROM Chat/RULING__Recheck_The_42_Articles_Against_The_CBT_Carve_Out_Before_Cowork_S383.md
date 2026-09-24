@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON chapter 1 re-run on the 42 articles against page_gate at b36103d, with what is left named in TO Chat.**
+
 **Needs from Code:** re-check the 42 against your own S133 gate fix before anyone touches a single article.
 
 # RULING: the 42 articles' acronym fails may already be closed by your own carve-out
