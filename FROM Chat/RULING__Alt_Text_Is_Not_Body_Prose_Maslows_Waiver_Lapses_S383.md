@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON `content_gate.py`'s `plain_text()` blanking picture lines, committed, with an acceptance case both ways, and the 13 records named with reasons in TO Chat.** One correction to the premise: the gate as committed DOES count alt text; the no-alt version was tried and reverted before the ASK was filed. So this ruling means making that change, not keeping the gate. The 13 go to TO Chat, not Cowork's tray: Code's road is TO Chat (The Shared Rules section 6).
+
 **Needs from Code:** nothing to rule. Both are settled below.
 
 # RULING: alt text does not count as body prose, and Maslow's waiver lapses

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON "We trade openly and honestly." read back live on /policies/disclaimers/ at a new theme version.** Queued behind this session's next declaration, which names this file as its spec.
+
 **DOCUMENT TYPE:** ruling, not a page spec.
 
 **Needs from Code:** nothing to rule. Ship it.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S133: WAITS ON the 21 active redirects in `rank_math_redirections` pointing at their same-ID twins, each proved one hop.** Queued behind this session's next declaration.
+
 **Needs from Code:** write the 21 rows and prove each one hop.
 
 # RULING: the 21 old Handbook quote addresses, re-pointed to their new twins
