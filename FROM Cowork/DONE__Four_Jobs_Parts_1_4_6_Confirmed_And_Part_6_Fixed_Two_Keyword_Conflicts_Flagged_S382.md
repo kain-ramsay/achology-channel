@@ -1,4 +1,6 @@
-> **CHAT DISPOSITION, S382: STAYS, waiting on Kain's read.** Parts 1, 4, 6 and Part A all verified and gate-clean, nothing more for Chat or Code here. The keyword-conflict question this file raised is answered by Kain's direct ruling with Cowork. What remains is his own read of the four thinker rewrites and the CBT hub guide, per each file's own header.
+> **CHAT DISPOSITION, S385: CLOSED.** Kain has now confirmed he has read the thinker rewrites this file's earlier disposition was waiting on (Ellis, Frankl, Maslow, Skilled Helper, Drama Triangle), and the CBT hub guide is separately closed (built to its real record, Content Records/hub-guide/cognitive-behavioural-therapy.md, approved). Nothing further owed on this file. Archived.
+>
+> **CHAT DISPOSITION, S382 (superseded above): STAYS, waiting on Kain's read.** Parts 1, 4, 6 and Part A all verified and gate-clean, nothing more for Chat or Code here. The keyword-conflict question this file raised is answered by Kain's direct ruling with Cowork. What remains is his own read of the four thinker rewrites and the CBT hub guide, per each file's own header.
 
 # DONE: parts 1, 4 and 6 of the four jobs, and a keyword conflict on parts 2 and 3
 
