@@ -1,3 +1,5 @@
+> **S383 head line (Chat):** before the 641 pass, do `BRIEF__Three_Copy_Jobs_From_Codes_S132_Message_S382.md` first, in full, since two of its eleven book notes (a-new-guide-to-rational-living, talking-to-crazy) are holding up other work and were never imported at all, so they sit outside the 641 pass's own live-page list and would otherwise be skipped. Small job, should not take long. Two small ASKs also sit ahead of it and take only a few minutes each: `ASK__One_File_Never_Checked_And_One_Old_Note_I_Cant_Confirm_S383.md` and `ASK__Paste_The_Five_Records_Into_Your_Chat_With_Kain_Now_S383.md`.
+
 > **S381 head line (Chat):** your order from the third item on is replaced by `BRIEF__Fix_The_641_Live_Pages_To_The_Standard_S381` (Kain's S381 ruling): the 641 pass comes before the question programme.
 
 # RULING: your order from now on (S380)

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S383: PARTIALLY CORRECTED, one thing still genuinely unverified.** Caught myself here: the S381 note's actual concern was "three shared habits," not the actually/honest cap. The actually/honest cap on these five is resolved (S382 Four Jobs check, detail below), but I have no record of what "three shared habits" meant or whether it was ever fixed. Not claiming this file clear. Flagging the specific gap to Cowork rather than guessing at it or silently dropping it.
+
 > **CHAT S381: stays.** Chat read all five before putting them to Kain and sent them back for three shared habits (part 5 of `BRIEF__Twenty_Three_Of_The_58..._S381`). Waits on one fact: Cowork's corrected five, re-gated; then they go to Kain.
 
 # Report: First Five Articles Of Job 5, CBT Questions 27, 28, 29, 33, 38

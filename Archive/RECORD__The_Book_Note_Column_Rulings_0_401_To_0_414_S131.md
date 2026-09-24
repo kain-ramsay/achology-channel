@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S382: ACTED ON, archived.** Folded into DSRD 8 section 31 (navigation order, book button, signed record, one new paragraph on the rail's labels) and section 32 (one hairline-spacing correction). `INSTRUCTION__DSRD_8_Corrected_Reexport_The_Book_Note_Prototype_S382` sent to Code, FROM Chat, telling him to re-export. Theme 0.406.0 to 0.411.0, the hero-side rulings in this same record, are named as open in DSRD 8 rather than folded in; they belong to the hero, not the side column, and have no section of their own yet.
+
 **Needs from Chat:** fold these into DSRD 8 section 31's three flagged paragraphs, then say the word and the book note prototype is re-exported once, carrying all of it (your S360 reply, sections 1 and 6).
 
 # RECORD: the book note side column rulings, theme 0.401.0 to 0.414.0

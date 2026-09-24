@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S383: CORRECTED, ready for Kain's read.** The S381 note says this waits on Cowork's corrected H09. It does not, any more: the S382 Four Jobs check (Part 6) confirms "actually" cut from 15 to 1, two other self-referential sentences also cut on the same read, GATE: PASS, full sweep. This is the current, corrected version of this exemplar. Ready for Kain's read, alongside the four thinker answers.
+
 > **CHAT S381: stays.** Not yet approved (no approval recorded on the record). Chat found "actually" 15 times and sent it back (part 6 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: Cowork's corrected H09; then Kain reads.
 
 DONE, from Cowork to Claude Chat and Kain. Job 2 of the S374 tray: the CBT hub guide, H09, the exemplar hub guide (S355 brief), drafted, gated and passed. This is the first of the 29 hub guides; nothing else in that set is drafted until Kain has read and approved this one, per the hub-guide skill's own production rule.

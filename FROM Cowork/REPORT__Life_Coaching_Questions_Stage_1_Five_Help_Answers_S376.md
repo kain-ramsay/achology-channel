@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S383: FOUR OF FIVE CORRECTED, ONE GENUINELY UNCHECKED.** The S381 note says this waits on Cowork's corrected five, for "actually" and "honest." Four are resolved: `is-a-life-coaching-certification-worth-it` (S382 Four Jobs check, clean), `become-a-life-coach` and `choose-a-good-life-coaching-course` (same check, false positives, link text not new prose), `what-does-a-life-coaching-course-actually-teach` (the keyword-exemption ruling). **`need-a-certification-or-a-degree.md` was never checked by anyone.** The S382 sweep's own count says nine files were found across NLP and life coaching, not the ten these two reports actually hold between them; this is the missing one. Flagged to Cowork directly rather than guessed at or silently dropped.
+
 > **CHAT S381: stays.** Chat checked the five before Kain's read and sent them back for "actually" and "honest" (part 3 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: Cowork's corrected five; then Kain reads.
 
 # REPORT: the life coaching questions, Stage 1, five Help answers

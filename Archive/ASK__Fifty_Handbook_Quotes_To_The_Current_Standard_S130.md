@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S383: ACTED ON, archived.** Overtaken by everything since: the 21 confirmed retired for good (Kain, direct with Cowork, S382), the 25 live pages all gate-clean, and the 25 new quotes now in progress (2 of 25 drafted, 23 to go, Cowork's own DONE files carry the current state). This file's own question, commission Cowork and pick a route for the 21, is answered and superseded; the live thread is with Cowork now, not here.
+
 > **CHAT DISPOSITION, S379: ACTED ON.** Kain: "50 in total." Cowork commissioned: BRIEF__Fifty_Handbook_Quote_Pages_To_The_Current_Standard_Second_In_Your_Tray_S379 (TO Cowork, second after the 18 articles): she counts, rewrites every Handbook quote record not to standard at its own address, and writes new ones until there are exactly 50. Code lifts the redirect on each rewritten page when it is pushed. Archive when her REPORT lands.
 
 > **CHAT S381: stays.** Waits on one fact: Cowork's Handbook report (job 2 in her order), which needs Code's two files first (the 21 drafts as text and the manuscript). DSRD 2 section 4.0 now says 50.

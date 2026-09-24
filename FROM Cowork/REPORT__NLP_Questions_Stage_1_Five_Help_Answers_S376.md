@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S383: CORRECTED, ready for Kain's read.** The S381 note says this waits on Cowork's corrected five. It does not, any more: the S382 Four Jobs check named all five of these exact files clean for "actually" and "honest" (`is-an-nlp-course-worth-it`, `is-nlp-hard-to-learn`, `what-makes-a-good-nlp-course`, `become-a-certified-nlp-practitioner`, `what-does-an-nlp-course-cover`), which is the specific thing this file was sent back for. Nothing left blocking that I can find. Ready for Kain's read.
+
 > **CHAT S381: stays.** Chat checked the five before Kain's read and sent them back for "actually" and "honest" (part 3 of `BRIEF__Four_Jobs_You_Missed..._S381`). Waits on one fact: Cowork's corrected five; then Kain reads.
 
 # Report: Job 4, Stage 1, Five NLP Help Answers
