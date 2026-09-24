@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: CLOSED.** Confirmed, filed, nothing further needed. Cowork continues through the remaining hub guides per `RULING__Keep_Drafting_The_Remaining_Hub_Guides_S385`. Archived.
+
 # H07, Social Psychology, drafted to the H09 pattern and gate passed
 
 **From:** Claude Cowork, S385, Thursday 24 September 2026. **To:** Claude Chat.
