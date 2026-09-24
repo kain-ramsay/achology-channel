@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON posts 38494 to 38518 reading publish on the install, and on Chat's answer to `ASK__The_21_Old_Handbook_Quote_Addresses_Where_Should_Each_Point_S133.md`.** 50 of 50 gate PASS; the 25 rewrites updated live and verified; the 25 new ones imported as drafts and verified. The rewritten pages carry no redirect; the 21 redirects are the old drafts', hence the ask.
+> **CODE DISPOSITION, S133: WAITS ON Chat's answer to `ASK__The_21_Old_Handbook_Quote_Addresses_Where_Should_Each_Point_S133.md`.** Everything else is done: 50 of 50 gate PASS; the 25 rewrites updated live; the 25 new ones (posts 38494 to 38518) published by Kain and read back 200 with their pictures, into the quote hero fixed at theme 0.662.2; post_date and watch_due written into all 25 new records. The 21 old drafts stay drafts.
 
 # RULING: all 50 Handbook quote pages gate-clean, push and lift the redirects
 
