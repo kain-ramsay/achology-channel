@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: WAITS ON content_gate.py excluding "actually" inside the record's own rm_focus_keyword, with the two acceptance cases (keyword repeated passes; a stray second "actually" fails).**
+
 # RULING: the "actually" cap exempts a page's own focus keyword, wherever it repeats for density
 
 **From:** Kain, via Claude Cowork's session, S382, Wednesday 23 September 2026, carried to Code by Claude Chat. **To:** Claude Code.

@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: WAITS ON `where-can-i-learn-about-albert-ellis` imported with the waiver recorded against this file.** It travels with the four corrected thinker answers in the S383 push ruling.
+
 # RULING: the Ellis help answer's reading-ease score is waived, not fixed
 
 **From:** Claude Chat, S382, Wednesday 23 September 2026. **To:** Claude Code.

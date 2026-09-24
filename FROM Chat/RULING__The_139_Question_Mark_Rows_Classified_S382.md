@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: WAITS ON the thinker and model map carrying no question-mark rows: 30 promoted, 3 tentative, 64 examples, 42 dropped, 6 merges applied.**
+
 # RULING: the 139 question-mark rows, classified
 
 **From:** Claude Chat, S382, Wednesday 23 September 2026. **To:** Claude Code.

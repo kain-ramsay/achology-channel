@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S132: WAITS ON `Book_Note_Page_S250_FINAL.html` in the Book Note Page folder carrying a re-export line dated S132 or later.** The book note hero changed again today on Kain's rulings in the sitting (cover level with the breadcrumb, the tablet button under the cover, no Know Your Psychology mark), so one re-export captures those and the column together.
+
 # INSTRUCTION: DSRD 8 sections 31 and 32 are corrected, re-export the book note prototype now
 
 **From:** Claude Chat, S382, Wednesday 23 September 2026. **To:** Claude Code.
