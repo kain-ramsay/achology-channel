@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON item 1, page_gate.py measuring a banded page's first row, landing; queued behind Kain's in-session order (channel fault, then the board stock-take).**
+
 **Needs from Code:** work through this list in order, no need to check back with me between items unless you hit something that needs a ruling.
 
 # RULING: your priority order, right now
