@@ -1,6 +1,11 @@
 # Cognitive Behavioural Therapy (CBT)
 
-**A note before the guide itself:** this version replaces the two earlier drafts. It is built from the real Standardised Descriptions of all 111 lessons across the hub's six real spoke groups (courses 006, 007 and 008), not from an invented structure. Body word count: 3,581, against the 3,500 minimum. The hand-written contents list has been dropped, since the theme's own contents table now does that job. The gathering block, the course cards block and the source line are marked below as their own pieces, not folded into the prose, per the skill's structure. Checked clean against the house bar's vocabulary caps and no em or en dashes. Paragraphs split to the two-to-four-sentence, under-120-word rule at S385, after the first delivery ran over it.
+**A note before the guide itself:** this version replaces the two earlier drafts. It is built from the real Standardised Descriptions of all 111 lessons across the hub's six real spoke groups (courses 006, 007 and 008), not from an invented structure. Body word count: 3,581, against the 3,500 minimum. The hand-written contents list has been dropped, since the theme's own contents table now does that job. The gathering block, the course cards block and the source line are marked below as their own pieces, not folded into the prose, per the skill's structure. Checked clean against the house bar's vocabulary caps and no em or en dashes. Paragraphs split to the two-to-four-sentence, under-120-word rule at S385, after the first delivery ran over it. Demand check run against the CBT SUBJECT export and the CBT/cognitive-behavioural-therapy RAW exports in Demand Exports: the dominant real phrase is "cognitive behavioural therapy," matching this title exactly, and it is already claimed in the keyword register under hub-guide, so no change was needed here. The source line above is now filled in.
+
+**Proposed SEO title (46 chars):** Cognitive Behavioural Therapy (CBT) | Achology
+**Proposed meta description (129 chars):** Cognitive Behavioural Therapy (CBT) shows how your thoughts, feelings and actions connect, so changing one changes the other two.
+**Address:** /learn/psychology/articles/cognitive-behavioural-therapy/
+Both are Claude's proposal, not yet ruled on.
 
 ---
 
@@ -131,7 +136,7 @@ The next time a single moment tips you into a spiral, the useful question is not
 
 ## Source line
 
-*(Not filled in. The skill asks for "the instructor credited as the source," and I have not confirmed, this session, which named instructor DSRD 5 credits for courses 006, 007 and 008. Likely you, but I am not stating that as confirmed until I have checked DSRD 5 against it.)*
+**Kain Ramsay**, credited as instructor across the CBT Toolkit, the CBT Practitioner Course and CBT for Mental Health and Wellness, confirmed by you directly this session for all Achology courses.
 
 ---
 

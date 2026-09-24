@@ -1,10 +1,10 @@
-# Psychoanalytic Psychology
+# Psychoanalysis
 
 **A note before the guide itself:** this is hub H03, built the same way as the approved CBT exemplar (H09): full read of the real Standardised Descriptions, no invented sections. H03 has only one spoke group, course 001 (the Diploma Course in Modern Applied Psychology), section 3, 20 lessons, so the body below is one section, broken into five readable movements with H3 headings rather than the six separate H2 sections CBT needed. Body word count and house-bar check are noted at the foot, and this note itself sits outside that count.
 
 ---
 
-Psychoanalytic psychology is the study of what happens in your mind below the level you can see into directly. Sigmund Freud gave the idea its most famous shape with the iceberg: the small part of the mind you are consciously aware of sits above the waterline, and a much larger part, holding repressed desire, unresolved conflict and instinct you never examine directly, sits beneath it, quietly shaping what you think, feel and do. Freud split that hidden territory further into the id, the ego and the superego. The id is the part that wants what it wants, immediately, with no interest in consequence.
+Psychoanalysis is the study of what happens in your mind below the level you can see into directly. Sigmund Freud gave the idea its most famous shape with the iceberg: the small part of the mind you are consciously aware of sits above the waterline, and a much larger part, holding repressed desire, unresolved conflict and instinct you never examine directly, sits beneath it, quietly shaping what you think, feel and do. Freud split that hidden territory further into the id, the ego and the superego. The id is the part that wants what it wants, immediately, with no interest in consequence.
 
 The superego is the part that holds your inherited sense of right and wrong, absorbed from parents and culture long before you could question it. The ego sits between the two, the part of you that actually deals with the real world, weighing what the id wants against what the superego permits and what reality will allow.
 
@@ -14,7 +14,7 @@ And it explains why the version of yourself you show other people is so often no
 
 This school of Achology's teaching draws on one course section, twenty lessons, and works through four connected ideas: the structure of the mind itself, where your beliefs and your sense of self first took shape, the gap between the face you show and the self underneath it, and how the past keeps reaching into your present relationships without your permission. What follows works through all four in order.
 
-It is worth being plain about what psychoanalytic psychology is not claiming, before working through what it is. It does not claim that every decision is secretly irrational, or that a person is powerless against their own unconscious. What it claims is narrower and more useful: that a meaningful share of what shapes your reaction, your relationship and your sense of who you are was decided somewhere you were not consciously paying attention, usually a long time ago, and that the decision still holds unless something brings it back into view. Bringing it back into view, repeatedly and without flinching from what is found there, is what every lesson in this section is doing, in one form or another.
+It is worth being plain about what psychoanalysis is not claiming, before working through what it is. It does not claim that every decision is secretly irrational, or that a person is powerless against their own unconscious. What it claims is narrower and more useful: that a meaningful share of what shapes your reaction, your relationship and your sense of who you are was decided somewhere you were not consciously paying attention, usually a long time ago, and that the decision still holds unless something brings it back into view. Bringing it back into view, repeatedly and without flinching from what is found there, is what every lesson in this section is doing, in one form or another.
 
 ## The Psychoanalytic School of Psychological Thought
 *(Diploma Course in Modern Applied Psychology, section 3)*
@@ -123,4 +123,8 @@ Pierre Janet's own line stands as its fairest warning: the unconscious sees past
 
 ---
 
-**Body word count: 3,507**, against the 3,500 minimum. Checked clean against the house bar's vocabulary caps and no em or en dashes. Paragraphs split to the two-to-four-sentence, under-120-word rule at S385, after the first delivery ran over it. Every name, model and quotation traces to one of the 20 lessons read this session.
+**Body word count: 3,507**, against the 3,500 minimum. Checked clean against the house bar's vocabulary caps and no em or en dashes. Paragraphs split to the two-to-four-sentence, under-120-word rule at S385, after the first delivery ran over it. Every name, model and quotation traces to one of the 20 lessons read this session. Demand check run: no export existed for "psychoanalytic psychology" (the plan's internal name for this hub), so it had no real search demand behind it. Of the real exports on file, "psychoanalysis" carries more keywords (1,156) than "psychoanalytic theory" (913), and it is the single word people actually search, so it becomes the title, the H1 and the claimed keyword. Claimed in the register: psychoanalysis, hub-guide, address /learn/psychology/articles/psychoanalysis/.
+
+**Proposed SEO title (25 chars):** Psychoanalysis | Achology
+**Proposed meta description (130 chars):** Psychoanalysis is the study of what happens in your mind below the level you can see into directly, and how it quietly shapes you.
+Both are Claude's proposal, not yet ruled on.
