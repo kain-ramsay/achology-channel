@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON chapter 1 re-run on the 42 articles against page_gate at b36103d, with what is left named in TO Chat.**
+> **CODE DISPOSITION, S133: DONE.** Re-run on all 42: 36 pass, 5 fail on the articles' own short forms (named for Cowork), 1 is a gate reading fault; in `REPORT__The_42_Articles_Chapter_1_Rerun_And_The_Spacing_Fail_Is_The_Gate_S133.md`.
 
 **Needs from Code:** re-check the 42 against your own S133 gate fix before anyone touches a single article.
 

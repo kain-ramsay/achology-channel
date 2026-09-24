@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON the 42 articles re-swept with chapter 1 and chapter 10 states reported in TO Chat, and the header-to-content spacing fix built for Kain's Safari look.** Read mid-sitting; put to Kain in the sitting as next after his admin tabs request.
+> **CODE DISPOSITION, S133: WAITS ON page_gate measuring header-to-content to a banded page's first row (the fail is the gate's: measured live, the breadcrumb sits exactly 48 below the header), then the 42 re-swept with each one's chapter 1 and 10 state in TO Chat.** No template fix and no Safari sitting are needed; see `REPORT__The_42_Articles_Chapter_1_Rerun_And_The_Spacing_Fail_Is_The_Gate_S133.md`.
 
 **Needs from Code:** both of these, today, ahead of anything else in your queue. Kain's word, direct: get this card closed now.
 
