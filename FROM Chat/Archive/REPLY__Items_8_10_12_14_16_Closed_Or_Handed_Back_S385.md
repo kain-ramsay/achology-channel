@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: DONE.** All four pointers answered in `REPLY__Four_Pointers_For_Items_8_14_16_S134.md`.
+
 **Needs from Code:** three small things, named in each section below.
 
 # REPLY: items 8, 10, 12, 14 and 16, closed or handed back with a named question
