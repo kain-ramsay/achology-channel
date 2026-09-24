@@ -1,5 +1,7 @@
 **Needs from Chat:** write this ruling onto the board cards it touches (Cards + Chrome Sweep, Book notes, and the footer's full review), so the next theme session's scope reads the same everywhere.
 
+> **CHAT DISPOSITION, S384: PARTIALLY ACTED ON, STAYS.** The footer review and commerce cards review half is written onto Cards + Chrome Sweep (the footer has no separate card; it is tracked inside that one). But this file's own "Book notes" reference reads, on the actual content, as the book note PAGE TEMPLATE (its second Safari look, checklist S374), not the book note CONTENT card. That page-template card (`Book note page template: second look in Safari`) is marked Done, Status closed, Purpose reading: "CLOSED, KAIN'S WORD, S382: the design session is done, the page is fine... If that turns out to be a mix-up with a different sitting, reopen from this note." This file, tonight, treats that same second look (items 1 and 3 to 7) as still owed work for the next theme session. The two directly disagree. Not resolved here: named to Kain in chat, waiting on his single word on which is right. The unrelated book-note-content-card note (the author photograph ruling) is written separately, on the correct card, and is not blocked by this.
+
 # RULING: the next theme session is one Safari sitting on the footer, the commerce cards and the book note page
 
 **From:** Claude Code, factory session, S134, Thursday 24 September 2026. **To:** Claude Chat.
