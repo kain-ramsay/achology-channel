@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S133: WAITS ON a DSRD6_RECORD.md existing for the quote page template in its design folder, and a REPORT in TO Chat naming how many of the 139 live book notes still differ from their records.** Read in full mid-sitting; it cancels nothing in hand. Both are queued in this session behind the 40 drafts Kain is publishing now.
+> **CODE DISPOSITION, S133: WAITS ON a DSRD6_RECORD.md existing for the quote page template in its design folder (part 1).** Part 2 answered: the push ran at S131 (100 of 100, read back clean, `SESSION_REPORT__S131`), and today every live book note, 150 now, was compared word for word with its own record through the importer's own converter: **150 match, 0 differ**, with two negative controls (a wrong record, and one changed word) both caught.
 
 **Needs from Code:** two small closes, both genuinely finishable now, neither waiting on Kain.
 
