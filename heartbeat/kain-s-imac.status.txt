@@ -1,2 +1,2 @@
-OK  2026-09-26T05:28:41Z
-Nothing to send. Channel and origin agree.
+FAIL  2026-09-26T06:02:06Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: Connection timed out during banner exchange.
