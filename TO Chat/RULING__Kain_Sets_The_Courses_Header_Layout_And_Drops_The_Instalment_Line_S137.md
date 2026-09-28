@@ -74,6 +74,10 @@ The words, Code's proposal accepted by Kain ("yes"), theme 0.686.1 (they replace
 | Status line, after a tick | N goals selected. Your six best matches are ready. (1 goal selected, for one) |
 | The button | See my recommended courses |
 
+## 9. One line in place of the lede and the question (replaces the lede, question and hint in section 6)
+
+Kain: "How can this ... incorporate this ... I think if we can do this we can simplify the hero even further". Code's proposal, accepted ("Yes, build it"), theme 0.687.0: beside the title, one line: "What learning goals would you like to achieve? Select all that apply, and we'll find your starting point among our 28 on-demand training courses." The visible question and hint under the hairline are removed; the answers follow the hairline directly (48, 32 on phones). The fieldset keeps a visually hidden legend, "What learning goals would you like to achieve? Select all that apply.", so a screen reader hears the question at the answers.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
