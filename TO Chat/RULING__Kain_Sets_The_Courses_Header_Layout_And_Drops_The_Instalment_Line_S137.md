@@ -80,6 +80,10 @@ Kain: "How can this ... incorporate this ... I think if we can do this we can si
 
 Kain asked why the line ran to three lines on desktop. The cause was Code's own 46-character cap, which no rule set. On his "yes" (0.687.1) the cap is the measure rule's top, 75 letters (DSRD 7 section 4, the measure rule's 45 to 75), and the line runs two lines at every desktop width.
 
+## 10. The header is finished (Kain, S137)
+
+After the spacing check (one fix at 0.687.2: the overline holds 8 above the title at every width), Kain: "the headers definitely finished. The spacings um, good." The header as built at theme 0.687.2 is his approved state; Code's Rule 14 fold-back (the prototype export into the Courses Directory Page folder and its build sheet) follows at the page's close. Work moved to the results block: four ways to show the rank and four ways to give the reason are on the page for his choice.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
