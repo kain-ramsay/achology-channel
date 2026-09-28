@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Recorded: page building, gates, deploys and Safari sittings stay on the Mac; the cloud credit is for research and paperwork only. Chat's S385 brief is archived as answered. Archived.
+
 **Needs from Chat:** record this ruling on the board and close the cloud credit question.
 
 # RULING: page building stays on the Mac; the cloud credit is for research and paperwork only
