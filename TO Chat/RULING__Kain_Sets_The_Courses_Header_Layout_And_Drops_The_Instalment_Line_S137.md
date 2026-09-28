@@ -62,6 +62,10 @@ Then Kain replaced three lines himself, typed in as given at 0.684.3:
 
 Kain: "put the small orange text back in ... 28 COURSES. 7 SCHOOLS. 1 ACADEMY. - and make the orange colour more suitable for the dark background". Back above the title at 0.684.4, 8 above the H1, in the light orange #F5A05C (`--color-orange-footer`), DSRD 7 section 1's "small-text orange for the dark footer #354149", 5.0:1 on the band. The withdrawal of the overline in section 5 is reversed.
 
+## 8. The orange strip becomes an action row
+
+Kain kept "Select all that apply to you." on its own line under the question (Code's recommendation, per DSRD 7 5.5's hint line), then: "the large orange button seems rather intrusive". Four finishes were built on the page (a quiet strip that fills on a tick, an action row, a plain line, a framed glass panel). Kain: "I think action row works best". Theme 0.686.0: no strip; under the answers, the status line in soft white on the left and the site's primary button (DSRD 7 5.1) on the right, "See my courses" with the registry's `arrow-down` scroll-to mark (DSRD 7 5.2.1). The S136 orange strip is superseded. Kain asked for the row's words to be tweaked next.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
