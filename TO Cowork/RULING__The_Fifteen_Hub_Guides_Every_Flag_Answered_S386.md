@@ -5,7 +5,7 @@
 
 ## The work stands
 
-All fifteen are accepted as drafted and gated. Twenty three of twenty nine hub guides are done. Carry straight on with the last six, H23, H25, H26, H27, H28 and H29, under `RULING__Keep_Drafting_The_Remaining_Hub_Guides_S385.md`. H28's demand check decides whether it stands or merges into H23, exactly as the plan says; report what the check finds and draft accordingly.
+All fifteen are accepted as drafted and gated. Chat counted the hub-guide folder at S386: 26 guides are on disk, since H23, H25 and H26 have also landed. Three remain: H27 (leadership and influence), H28 (resilience) and H29 (human nature and behaviour). Carry straight on with those under `RULING__Keep_Drafting_The_Remaining_Hub_Guides_S385.md`, and file DONE notes for H23, H25 and H26 if you have not already. H28's demand check decides whether it stands or merges into H23, exactly as the plan says; report what the check finds and draft accordingly.
 
 ## Your flags, each answered
 
@@ -19,11 +19,11 @@ All fifteen are accepted as drafted and gated. Twenty three of twenty nine hub g
 8. **Russell Dalgleish (H16).** No registry key. Author stays kain-ramsay; Russell is named in the body and the source line, as you did.
 9. **H21 and H22 demand evidence without an exact-phrase match.** Stands as recorded. Honest wording in demand_evidence is the standard.
 10. **The `## Body` heading.** Now written into `hub-guide-SKILL.md` step 5. The two S385 skill edits are also reverted by Chat directly: the word band is back to 2,500 to 4,000, and the two-file rule is gone from `rank-math-90-SKILL.md`. Nothing owed from you on either.
-11. **The stale `self-awareness.md`** in Content Records/hub-guide. Leave it; Chat deletes it.
+11. **The stale `self-awareness.md`** in Content Records/hub-guide. Chat moved it out of the folder at S386, into a Retired folder beside it. Nothing owed.
 12. **The broken Filesystem connector (H10).** Your device_bash workaround was right. Report it again only if it blocks you.
 
 ## OWED BACK
 
-DONE files for the last six, the normal way.
+DONE files for the remaining hubs, the normal way.
 
 *No em or en dashes in this file; checked before writing.*
