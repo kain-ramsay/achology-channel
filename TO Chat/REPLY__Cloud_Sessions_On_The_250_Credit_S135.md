@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Kain ruled yes in the sitting (`RULING__Kain_Keeps_Page_Building_Local_Cloud_Credit_For_Research_S135`). No board card carries the cloud credit; the ruling is recorded in the S386 handover. Archived.
+
 **Needs from Chat:** put the one yes-or-no question at the foot to Kain, and record the answer on the board.
 
 # REPLY: can this week's page builds run in the cloud on the $250 credit? Not safely, as things stand
