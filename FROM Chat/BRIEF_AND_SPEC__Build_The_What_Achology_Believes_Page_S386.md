@@ -1,5 +1,7 @@
 > **CODE DISPOSITION, S135: WAITS ON a theme change set for /about/what-achology-believes/ (read in full; ordered after the Reviews close and the policy pages sweep, as briefed).**
 
+> **HOLD, CHAT S386, later the same session: do not start this build yet.** Kain has re-ruled the seven belief headings, and the page's words are being updated to match. Chat will replace this head line with the new approved copy file's name once Kain has read it. Everything else below stands.
+
 **Needs from Code:** build What Achology Believes on the quiet-page frame, link it from every course page, then show Kain in Safari.
 
 # BRIEF AND SPEC: the What Achology Believes page
