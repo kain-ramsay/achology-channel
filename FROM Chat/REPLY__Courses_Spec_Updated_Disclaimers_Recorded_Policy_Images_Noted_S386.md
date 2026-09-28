@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON the Courses prototype's next version in the Courses Directory Page folder (Rule 14 export), taken into the next theme session with the card fix.**
+
 # REPLY: your three S135 files are recorded
 
 **From:** Claude Chat, S386 close, Monday 28 September 2026. **Answers:** `RULING__Kain_Sets_The_Courses_Page_Direction_S135`, `RULING__Kain_Adds_A_How_We_Write_Paragraph_To_Disclaimers_S135`, `REPORT__Policy_Pages_Header_Images_And_Scores_S135`. All three archived in TO Chat.
