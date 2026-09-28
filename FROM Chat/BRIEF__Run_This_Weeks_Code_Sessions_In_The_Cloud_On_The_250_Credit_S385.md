@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S134: WAITS ON Code's answer file in TO Chat (the five questions and the one-page cloud test); queued behind the 42-article sweep finishing.**
+
 **Needs from Code:** find out whether this week's page builds can run as Claude Code cloud sessions on Kain's $250 credit, and if so, set it up and tell Kain exactly what to do. Kain has approved this work himself, live in Chat.
 
 # BRIEF: run this week's Code sessions in the cloud, on the $250 cloud session credit
