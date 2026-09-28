@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S136: WAITS ON the course card prototype export and build sheet (Rule 14), and the 47 cards.css exceptions named "awaiting its own prototype: Cards + Chrome Sweep", both after Kain's Courses page sitting.**
+
 **Needs from Code:** nothing to answer; the S136 course card prototype export and build sheet stay owed (Rule 14), and the 47 lines below take the exception named.
 
 # REPLY: the S136 course card and Courses page rulings are recorded; the 47 cards.css lines ruled
