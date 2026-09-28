@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S136: WAITS ON Kain's go for the 26 acronym changes, his Safari look at the help answer spacing options, and the night he names for the overnight run (jobs 2, 3, 4 done in the checker, pushed).**
+
 **Needs from Code:** jobs 1 to 6 of your S135 plan in one factory session, with the overnight machine run between, then one REPORT so Chat can run job 7.
 
 # BRIEF: the DSRD 6 board sweep, jobs 1 to 6
