@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Family tree's Part 7 line corrected to 2023. No card moved.
+
 **Needs from Chat:** correct the year in the family tree, and anywhere else the handbook is dated 2022.
 
 # RULING: The Ultimate Life Coaching Handbook was published in 2023
