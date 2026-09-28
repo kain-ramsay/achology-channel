@@ -37,6 +37,15 @@ Kain, later the same sitting: "What do we want to achieve? We want people to set
 
 The tick instruction now appears once, and the strip states the result rather than repeating it. Of ChatGPT's seven suggestions, Code assessed and Kain accepted the direct question and the route to the full list; the card, artwork, page colour and photo suggestions were set aside as site-wide, and the membership and $7 trial wording question stays open.
 
+## 5. The hero, designed (replaces the layout in 3; the words in 4 stand)
+
+Kain: the header "looks effortless ... not a cohesive hero banner", naming MasterClass as the model, then sending two reference designs of his own. Four designed heroes were built on the page (his two references, "Immersive" and "Guided split", and two from the course artwork, "Wall of heads" and "Question on the dark"). Kain chose a blend, and confirmed it read back point by point ("yes, build it"). Theme 0.684.1.
+
+- **Top, from "Immersive":** H1 "Achology Courses" on the left, a thin upright rule, and his line from the references on the right: "Explore 28 courses across seven schools. Find the right starting point for your goals." A faint hairline beneath.
+- **Below, from "Question on the dark" without its image:** the question drawn on the dark band itself (no white panel), "What would you like to work on?" large with "Tick as many as you like." beneath; twelve answers three across (rounded chips on phones); the orange strip along the bottom, white on the action orange, with "See my courses".
+- **Removed from the hero:** the overline "28 COURSES. 7 SCHOOLS. 1 ACADEMY." (the lede now says it), the "Browse all 28 courses" link (the full list stays at the page's foot), and every image. The S136 band treatments are withdrawn (Kain: "not appropriate for this").
+- The white question panel of S136 is superseded by the question on the dark; the orange strip is kept.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
