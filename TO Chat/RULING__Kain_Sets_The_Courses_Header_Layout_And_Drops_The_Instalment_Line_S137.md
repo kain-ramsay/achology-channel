@@ -46,6 +46,18 @@ Kain: the header "looks effortless ... not a cohesive hero banner", naming Maste
 - **Removed from the hero:** the overline "28 COURSES. 7 SCHOOLS. 1 ACADEMY." (the lede now says it), the "Browse all 28 courses" link (the full list stays at the page's foot), and every image. The S136 band treatments are withdrawn (Kain: "not appropriate for this").
 - The white question panel of S136 is superseded by the question on the dark; the orange strip is kept.
 
+## 6. The hero on the written rules, and Kain's own words (the words replace those in 4 and 5)
+
+Kain: "Please fix those as per our font and spacing rules ... No making things up." Applied at theme 0.684.2, each value from its row: title H1 Page Title (DSRD 7 3.1, 28 on phones per 4.1); question H2 Section 24/600/1.25 (3.1); lede Lead Paragraph 18/500/1.55 (3.2); hint Mulish 12 and answers 14 (5.5 hint line and option row); 48 above and below the hairline, 32 on phones (4.3); 24 under the title on phones (4.3).
+
+Then Kain replaced three lines himself, typed in as given at 0.684.3:
+
+| Place | Kain's words |
+|---|---|
+| Lede beside the title | Explore our 28 on-demand training courses. Find the right starting point for your learning journey. |
+| The question | What learning goals would you like to achieve? |
+| The hint beneath it | Select all that apply to you. |
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
