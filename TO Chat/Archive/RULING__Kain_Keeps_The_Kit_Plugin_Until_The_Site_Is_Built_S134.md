@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: DONE.** Kit plugin stays until the site is built (Kain, overturning Chat's removal call). Recorded on the Plugins & Site Configuration card and as a go-live line on the Hosting & Go-Live card; both stamped S385 where read, Plugins card content added.
+
 **Needs from Chat:** record on the Plugins & Site Configuration card that the Kit plugin stays until the site is built, and revisit it then.
 
 # RULING: the Kit plugin stays until the site is built

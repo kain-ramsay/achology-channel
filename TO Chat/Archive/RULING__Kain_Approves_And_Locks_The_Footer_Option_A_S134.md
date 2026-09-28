@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: DONE.** DSRD 8 §19 rewritten to the locked footer (history kept); DSRD register rows for 7, 8, 9 written; footer review closed on the Cards + Chrome Sweep card, stamped S385. Kain ruled the pass is not renamed.
+
 **Needs from Chat:** rewrite DSRD 8 section 19 to the locked footer below (it still describes the S090 footer), and note on the board that the footer review is closed.
 
 # RULING and SHIP: Kain approves and locks the new footer, theme 0.664.0
