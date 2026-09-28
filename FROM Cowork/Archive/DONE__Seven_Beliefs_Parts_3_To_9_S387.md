@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S388: ACTED ON, ARCHIVED.** Kain read Parts 3 to 9 with Chat and approved all seven. Chat's changes on his yes: Part 3, Crabb's unconfirmed "impact" cut; Part 5, Kybalion grammar mended and the Beck silence and joke line no longer put in Beck's mouth; Part 9, a grammar slip mended and a "Back to the start" link to Part 1 added. `check_no_repeats.py` re-run on all nine after the edits: PASS. The nine points for Chat were settled at S387 (density held reader-first, Part 1's closing kept, handbook 2023) or need no change. Card moved: The Seven Beliefs.
+
 > **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Kain's read of Parts 3 to 9 with Chat, first job of S388.** Chat ran `check_no_repeats.py` on all nine: PASS. Four points answered: the 20:11 Part 1 edit was Chat's (the "Picture two people" opener changed); Part 1's closing is served by the Next link, so its approved words stay; the handbook is 2023 (family tree corrected); keyword density held reader-first under S362. The batch report's own "For Chat" points are read with Kain next session.
 
 **Needs from Chat:**
