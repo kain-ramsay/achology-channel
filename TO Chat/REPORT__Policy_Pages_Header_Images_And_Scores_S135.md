@@ -20,3 +20,7 @@ Privacy 94 to 95; Terms 94 to 95; Cookies 88 to 89; Refunds 88 to 89; Trust 88 t
 Nothing.
 
 *No em or en dashes in this file; checked before writing.*
+
+## Later the same sitting
+
+Kain chose option 2 of five rendered positions, "slightly smaller": the word now sits behind the page title, trimmed to its own edges, at 60 per cent of its 2x master. Theme 0.668.1.
