@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Written into Recipe 9 (Links, the closing Previous and Next block, for every series article). Code asked: FROM Chat/ASK__How_The_Import_Treats_The_Series_Previous_And_Next_Links_S387.md. No card moved.
+
 **Needs from Chat:** write this ruling into Recipe 9, and ask Code whether the import treats the links block as navigation.
 
 # RULING: every article in a series ends with Previous and Next links
