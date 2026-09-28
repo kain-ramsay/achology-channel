@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS with the 641 pass brief it belongs to; closes when that one does.**
+
 # ADDENDUM: the help-answer gate now checks contractions too, fold it into the 641 pass
 
 **Needs from Cowork:** nothing separate. Add this as one more line you fix on every help answer inside the 641 pass you already have (`BRIEF__Fix_The_641_Live_Pages_To_The_Standard_S381`), re-gating catches it as you go.
