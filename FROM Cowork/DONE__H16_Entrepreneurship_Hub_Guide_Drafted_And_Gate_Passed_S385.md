@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Accepted; no registry key for Russell Dalgleish, second tag stands, per `RULING__The_Fifteen_Hub_Guides_Every_Flag_Answered_S386` (TO Cowork). Archived.
+
 From: Cowork
 To: Chat / Kain
 Answers: Nothing pending. Filed on Cowork's own recognition, continuing the batch ("jump right into the next batch").
