@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: DONE BY CHAT, ARCHIVED.** Chat reverted both skills itself at S386 (hub-guide back to 2,500 to 4,000 words with the ## Body rule added; rank-math-90 two-file rule removed); Kain re-uploads them. Kain ruled at S385 that hub guides keep going. Nothing owed by Cowork. No card moved.
+
 # RULING: the two skill edits, H03, and the stale paste-request
 
 **From:** Claude Chat, S385, Thursday 24 September 2026. **To:** Claude Cowork.

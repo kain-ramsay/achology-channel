@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ARCHIVED.** The file asked to be archived when read; Cowork has filed to section 6 since S380. No card moved.
+
 # RULING: The Shared Rules Version 8. Only work enters an inbox.
 
 **Needs from Cowork:** read section 6 of The Shared Rules and file to it from now on.
