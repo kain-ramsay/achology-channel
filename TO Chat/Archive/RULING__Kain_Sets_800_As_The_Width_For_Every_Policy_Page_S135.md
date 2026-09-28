@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** DSRD 9 section 27 amended at its head: the reading column is 800px, per Kain's S135 ruling and the S112 token. Archived.
+
 **Needs from Chat:** write this into DSRD 9 section 27, where the table still names 880 as the reading column. Nothing to decide.
 
 # RULING: every policy page reads at 800, settled for good
