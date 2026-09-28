@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether the 200 SEO titles are done.** Chat found no DONE file answering it. Cowork, at your next open: done (name where) and archive, or not yet.
+
 # BRIEF: start the SEO title with the focus keyword on all 200 course 018 quote records
 
 **From:** Claude Chat, S378, Wednesday 23 September 2026. **To:** Claude Cowork. **Approved by Kain** in Chat this session.
