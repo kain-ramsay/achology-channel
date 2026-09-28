@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S388: STAYS, waiting on one fact: Code's report that the Courses page design is finished.** Arrived during S388's close. Kain ruled at S388 that the Courses page rulings are written into the signed spec once the design is final; this file itself says a further header re-think is under way. Recorded together with the S136 ruling when that report lands.
+
 **Needs from Chat:** write these two rulings into the Courses Directory signed spec, after the S136 header ruling. No answer owed. A further header re-think is under way in the same sitting; a follow-on ruling will say what it replaces.
 
 # RULING: Kain sets the Courses header layout and drops the instalment line
