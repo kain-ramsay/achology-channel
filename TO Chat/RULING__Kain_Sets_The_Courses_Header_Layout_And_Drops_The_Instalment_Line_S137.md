@@ -66,6 +66,14 @@ Kain: "put the small orange text back in ... 28 COURSES. 7 SCHOOLS. 1 ACADEMY. -
 
 Kain kept "Select all that apply to you." on its own line under the question (Code's recommendation, per DSRD 7 5.5's hint line), then: "the large orange button seems rather intrusive". Four finishes were built on the page (a quiet strip that fills on a tick, an action row, a plain line, a framed glass panel). Kain: "I think action row works best". Theme 0.686.0: no strip; under the answers, the status line in soft white on the left and the site's primary button (DSRD 7 5.1) on the right, "See my courses" with the registry's `arrow-down` scroll-to mark (DSRD 7 5.2.1). The S136 orange strip is superseded. Kain asked for the row's words to be tweaked next.
 
+The words, Code's proposal accepted by Kain ("yes"), theme 0.686.1 (they replace the strip lines in section 4):
+
+| Place | Words |
+|---|---|
+| Status line, before a tick | We'll recommend the six courses that best fit your goals. |
+| Status line, after a tick | N goals selected. Your six best matches are ready. (1 goal selected, for one) |
+| The button | See my recommended courses |
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
