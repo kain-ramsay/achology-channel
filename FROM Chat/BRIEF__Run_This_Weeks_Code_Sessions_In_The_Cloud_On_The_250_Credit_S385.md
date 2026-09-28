@@ -12,7 +12,7 @@ Kain is running low on his weekly plan allowance. Anthropic has given him a one-
 
 - A cloud session runs Claude Code on Anthropic's machines. It starts from a fresh clone of a GitHub repository (or an uploaded bundle of a local repo with no GitHub remote, under 100MB, and results cannot then be pushed back to a non-GitHub host). It does not get the personal setup files on Kain's Mac.
 - Ways in: claude.ai/code, the Claude mobile app, the desktop app with Cloud chosen instead of Local, and `claude --cloud` in the terminal.
-- Reported credit terms: one per account, cloud sessions only, applies automatically once a cloud session starts, spent first and then normal plan limits apply again. Routine runs are reported as excluded. Reported claim deadline 7 October, credit expiry 4 November, claimed by link or `/claim-credit`. Please confirm all of that and confirm Kain has claimed it.
+- Reported credit terms: one per account, cloud sessions only, applies automatically once a cloud session starts, spent first and then normal plan limits apply again. Routine runs are reported as excluded. Reported claim deadline 7 October, credit expiry 4 November, claimed by link or `/claim-credit`. Please confirm all of that. **Kain confirmed in Chat that he has already claimed the credit (S385), so you do not need to ask him.**
 - Cloud Cowork exists but is not covered by this credit as far as I can find, and local folder projects are desktop only, so Cowork stays where it is.
 
 ## What you need to find out
