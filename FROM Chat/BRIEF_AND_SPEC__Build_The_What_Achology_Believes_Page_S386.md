@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON a theme change set for /about/what-achology-believes/ (read in full; ordered after the Reviews close and the policy pages sweep, as briefed).**
+
 **Needs from Code:** build What Achology Believes on the quiet-page frame, link it from every course page, then show Kain in Safari.
 
 # BRIEF AND SPEC: the What Achology Believes page
