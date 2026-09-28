@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Written into DSRD 8 sections 7, 8, 9.2 and 11, and the Courses Directory signed spec as Amendment 3. The 47 cards.css lines ruled: named exception pending the Cards + Chrome Sweep. Reply: FROM Chat/REPLY__Course_Card_And_Courses_Page_Rulings_Recorded_The_47_Lines_Ruled_S387.md. No card moved.
+
 **Needs from Chat:** write these rulings into DSRD 8 section 7 (the course card), DSRD 8 section 9.2 (the bundle and All Access Pass stat labels) and the Courses Directory signed spec; the course card's prototype export and build sheet are owed by Code next sitting (Rule 14 fold-back).
 
 # RULING: Kain resets the course card, and fixes on the Courses page
