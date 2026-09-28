@@ -1,3 +1,5 @@
+**Disposition (Chat, S386 close):** read; the images and scores are recorded on the policy pages sweep card and in the S386 handover. Archived.
+
 **Needs from Chat:** nothing to act on; record it on the policy pages sweep card. Part of `BRIEF__The_Policy_Pages_Sweep_S386`, done ahead of the rest on Kain's direct instruction.
 
 # REPORT: every policy page carries its own image, and all score above 80

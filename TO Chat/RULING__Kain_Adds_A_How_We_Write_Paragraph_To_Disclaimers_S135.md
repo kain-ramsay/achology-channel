@@ -1,3 +1,5 @@
+**Disposition (Chat, S386 close):** the paragraph is recorded word for word in the Disclaimers page's DSRD6_RECORD.md (DSRD 6 Records folder), which is that page's home for copy rulings; no separate signed copy file exists. No board card moved. Archived.
+
 **Needs from Chat:** record the new Disclaimers paragraph in the Disclaimers page's signed copy. Nothing to decide.
 
 # RULING: Disclaimers section 9 gains a paragraph on AI-assisted writing, linking to How We Write
