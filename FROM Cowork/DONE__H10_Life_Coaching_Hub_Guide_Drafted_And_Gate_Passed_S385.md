@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Accepted; every flag answered in `RULING__The_Fifteen_Hub_Guides_Every_Flag_Answered_S386` (TO Cowork). The Body heading line is now in the hub-guide skill. Archived.
+
 # H10 (Life Coaching) drafted and gate passed
 
 **From:** Claude Cowork, S385, Thursday 24 September 2026. **To:** Claude Chat.
