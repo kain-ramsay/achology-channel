@@ -2,11 +2,11 @@
 
 # DONE: the Seven Beliefs back-links, 42 existing records
 
-**From:** Claude Cowork, Monday 28 September 2026. **Answers:** BRIEF__The_Seven_Beliefs_Back_Links_Forty_Two_Existing_Records_S387, run whole on Kain's standing permission. **Full report, with every record's gate printout:** `Batch_Report__Seven_Beliefs_Back_Links_S387.md` in Content Records, seven-beliefs-series. **Export:** `EXPORT__Seven_Beliefs_Back_Links_38_Pages_S387.csv`, this tray.
+**From:** Claude Cowork, Monday 28 September 2026. **Answers:** BRIEF__The_Seven_Beliefs_Back_Links_Forty_Two_Existing_Records_S387, run whole on Kain's standing permission. **Full report, with every record's gate printout:** `Batch_Report__Seven_Beliefs_Back_Links_S387.md` in Content Records, seven-beliefs-series. **Export:** `EXPORT__Seven_Beliefs_Back_Links_39_Pages_S387.csv`, this tray.
 
 ## In one view
 
-- **38 of 42 records now link back** to every Seven Beliefs part the map gives them: 21 author biographies, 16 book notes, 1 field-authority article.
+- **39 of 42 records now link back** (38 in the run, plus A Way of Being by Kain's ruling in the addendum) to every Seven Beliefs part the map gives them: 21 author biographies, 16 book notes, 1 field-authority article.
 - **4 left untouched:** a-way-of-being (body 1,395 words against a 1,400 ceiling), and the three help answers, all already at or over their ceiling of eight links.
 - **Help-answer parts left out:** Albert Ellis, Parts 4 and 5; Carl Rogers, Parts 1, 2, 3 and 9; Johari window, Part 3.
 - **Pre-standard records that earned their Search and Citation Brief: 21** (every author biography on the map). Pre-draft checks 5a to 5f pass on all 21.
@@ -332,4 +332,16 @@ Before is the paragraph as it stood; after is the same paragraph with the new se
 
 *No em or en dashes in this file; checked before writing.*
 
-COWORK | Batch: Seven Beliefs back-links, 42 records on the map | Drafted: 38 of 42 | Gate and evaluator: 38 re-gated at source, no new FAIL from any sentence; 20 biographies show keyword density newly switched on by the brief standard; fresh grader 32 of 38 first read, 6 revised | Skipped: 4 (a-way-of-being, 3 help answers) | Outside brief: none
+## Addendum: Kain's ruling on A Way of Being
+
+Kain ruled in the session that the A Way of Being book note may go over its 1,400-word cap, so that Carl Rogers, whose two pages were both skipped, gets a link back to Part 2. Placed in "Where the Author is Coming From", at the end of the paragraph on how widely the book was read. The only new FAIL is total body words, 1,440 against 1,400, which is the one Kain approved. Gate FAIL (2) before, FAIL (3) after. The export is now `EXPORT__Seven_Beliefs_Back_Links_39_Pages_S387.csv`; the 38-page file is moved to this tray's Archive.
+
+### A Way of Being (`a-way-of-being`, Part 2)
+
+**Before:** The book was read widely when it appeared. It remains one of his two most read works, alongside the earlier On Becoming a Person. Many counselling and coaching courses still teach its three conditions today, sometimes without even naming Rogers.
+
+**After:** The book was read widely when it appeared. It remains one of his two most read works, alongside the earlier On Becoming a Person. Many counselling and coaching courses still teach its three conditions today, sometimes without even naming Rogers. The book also sits behind [Part 2 of our Seven Beliefs series, Every Human Being Can Grow And Mature](/learn/psychology/articles/can-people-change/), which draws on its argument that the drive to grow belongs to every living thing and survives even in conditions that seem to have crushed it.
+
+**Gate:** GATE: FAIL (2) before, GATE: FAIL (3) after (total body words, approved by Kain).
+
+COWORK | Batch: Seven Beliefs back-links, 42 records on the map | Drafted: 39 of 42 | Gate and evaluator: 39 re-gated at source, no new FAIL from any sentence except a-way-of-being's length, over its cap by Kain's ruling; 20 biographies show keyword density newly switched on by the brief standard; fresh grader 32 of 38 first read, 6 revised | Skipped: 3 (the help answers) | Outside brief: none
