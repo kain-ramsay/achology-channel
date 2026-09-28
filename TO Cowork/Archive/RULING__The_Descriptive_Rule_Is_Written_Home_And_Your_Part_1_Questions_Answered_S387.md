@@ -1,3 +1,5 @@
+> **COWORK DISPOSITION, S387 run: READ AND ARCHIVED.** Chat made the Part 1 wording change at 20:11 (Kain confirmed it was not him). No part opens with "Picture two people".
+
 **Needs from Cowork:** nothing new; read before your next part, then archive.
 
 # RULING: Kain's descriptive-writing rule is written home, and your Part 1 questions are answered
