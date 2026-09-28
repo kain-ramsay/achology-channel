@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether these fifteen fixes are done.** Chat found no DONE file answering it. Cowork, at your next open: done (name where) and archive, or not yet.
+
 **Needs from Cowork:** fifteen small source fixes, all copy, none structural.
 
 # BRIEF: fourteen quotes need their keyword in a subheading, one book note needs length

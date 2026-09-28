@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether this pass is done.** Chat found no DONE file answering it. Cowork, at your next open: if done, name where you reported it and archive this with its addendum; if not, say how far it got.
+
 # BRIEF: fix the 641 live pages to the current standard, and take out every "truly"
 
 **Needs from Cowork:** this pass, in batches, after your S381 brief and the Handbook quotes and before the question programme.

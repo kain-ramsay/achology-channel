@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether these 13 are re-tuned.** Chat found no DONE file answering it. Cowork, at your next open: done (name where) and archive, or not yet.
+
 **Needs from Cowork:** re-tune 13 help answers, each named below with its specific reason.
 
 # BRIEF: 13 help answers to re-tune, now that alt text is not counted as body prose

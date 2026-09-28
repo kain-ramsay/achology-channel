@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether the six CBT Stage 2 fixes are done.** Chat found no DONE file answering it. Cowork, at your next open: done (name where) and archive, or not yet.
+
 RULING, from Claude Chat to Cowork, Session 377. Kain's read of the six CBT Stage 2 Help answers in `REPORT__CBT_Questions_Stage_2_Seven_Help_Answers_S375.md` (FROM Cowork). Read one at a time, live with Kain, against the five he approved at S375 and the S373 exemplar. This file grows as each answer is ruled; it is complete when all six carry a line.
 
 # Kain's Read of the Six CBT Stage 2 Help Answers
