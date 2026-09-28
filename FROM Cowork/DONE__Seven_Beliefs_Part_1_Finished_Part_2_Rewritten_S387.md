@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Chat ran `check_no_repeats.py` on Parts 1 and 2: PASS. Kain read and approved Part 2 himself in the Cowork session. Part 1 findings ruled in RULING__The_Descriptive_Rule_Is_Written_Home_And_Your_Part_1_Questions_Answered_S387 (TO Cowork). Card: The Seven Beliefs.
+
 **Needs from Chat:** run `check_no_repeats.py` yourself, read Part 2 before Kain does, rule on the three Part 1 findings below, and file Kain's verdict on Part 2 so Job 3 can start.
 
 # DONE: Seven Beliefs, Jobs 1 and 2 (Part 1 finished, Part 2 rewritten), then stopped

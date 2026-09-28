@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Part 2 recorded as the second exemplar in Recipe 9. The S387 brief stays in TO Cowork until the Job 3 DONE lands. Card: The Seven Beliefs.
+
 **Needs from Chat:** record these two rulings at home, and archive the S387 brief once the Job 3 DONE lands. Kain gave them in the Cowork session in his own words, so Cowork is starting Job 3 now without waiting for Chat to relay them.
 
 # RULING: Part 2 approved as the standard; Parts 3 to 9 commissioned now

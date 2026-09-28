@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Written home on Kain's yes: The Achology Base Voice (core standard, items 3, 8, 10), house-copy-standards (checklist line; Kain re-uploads), Recipe 9. Note to Cowork: RULING__The_Descriptive_Rule_Is_Written_Home_And_Your_Part_1_Questions_Answered_S387. Card: The Seven Beliefs.
+
 **Needs from Chat:** write this ruling home, this session, into every document that governs how Achology articles are written, and remove the rules that contradict it. Kain says he has had to give this instruction more than once, so it must now live in the rules, not in a conversation.
 
 # RULING: every Achology article is descriptive and full; short-form, shorthand writing is banned
