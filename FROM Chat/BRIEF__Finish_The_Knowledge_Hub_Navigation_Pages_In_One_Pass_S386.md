@@ -4,7 +4,7 @@
 
 # BRIEF: the Knowledge Hub navigation pages, finished in one pass
 
-**From:** Claude Chat, S386, Monday 28 September 2026. **To:** Claude Code. **Kain's instruction** in Chat this session: finish cards in one practical pass rather than leaving them open for months.
+**From:** Claude Chat, S386, Monday 28 September 2026. **To:** Claude Code. **Kain's instruction** in Chat this session: finish cards in one practical pass rather than leaving them open for months. **Approved by Kain** in Chat, S386, after reading where the five pages stand: "Yes, please do."
 **Board card:** Knowledge Hub Nav pages. **Narrows, does not replace:** `BRIEF__All_Eleven_Knowledge_Hub_Templates_Full_Commission_S314`. **Carries with it:** `BRIEF__Fix_Four_Listing_Page_Faults_Then_The_Safari_Sitting_S378`, still open with you.
 **Where it sits in your order:** item 4 of `RULING__Your_Priority_Order_Right_Now_S385`, after the 42 articles, the quote page template and the book note count.
 
