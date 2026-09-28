@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE, APPROVED.** Kain read all five and approved them ("very, very good"), S386, with one standing check: appropriate internal and external links. Counted at S386 from the bodies: each carries 6 internal and 2 or 3 external links. NLP Stage 2 is unlocked (`RULING__The_Five_NLP_Help_Answers_Are_Approved_Stage_2_Is_Unlocked_S386`, TO Cowork). Archived.
+
 > **CHAT DISPOSITION, S385: STAYS, waiting on one named fact: Kain's own read.** Nothing else blocks this one.
 
 > **CHAT DISPOSITION, S383 (superseded above): CORRECTED, ready for Kain's read.** The S381 note says this waits on Cowork's corrected five. It does not, any more: the S382 Four Jobs check named all five of these exact files clean for "actually" and "honest" (`is-an-nlp-course-worth-it`, `is-nlp-hard-to-learn`, `what-makes-a-good-nlp-course`, `become-a-certified-nlp-practitioner`, `what-does-an-nlp-course-cover`), which is the specific thing this file was sent back for. Nothing left blocking that I can find. Ready for Kain's read.
