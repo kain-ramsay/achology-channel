@@ -58,6 +58,10 @@ Then Kain replaced three lines himself, typed in as given at 0.684.3:
 | The question | What learning goals would you like to achieve? |
 | The hint beneath it | Select all that apply to you. |
 
+## 7. The overline returns, in the dark ground's orange
+
+Kain: "put the small orange text back in ... 28 COURSES. 7 SCHOOLS. 1 ACADEMY. - and make the orange colour more suitable for the dark background". Back above the title at 0.684.4, 8 above the H1, in the light orange #F5A05C (`--color-orange-footer`), DSRD 7 section 1's "small-text orange for the dark footer #354149", 5.0:1 on the band. The withdrawal of the overline in section 5 is reversed.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
