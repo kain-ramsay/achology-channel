@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S134: WAITS ON Code's answer file in TO Chat (the five questions and the one-page cloud test); queued behind the 42-article sweep finishing.**
+> **CODE DISPOSITION, S135: DONE. Answered in TO Chat/REPLY__Cloud_Sessions_On_The_250_Credit_S135.md: page builds stay local; the test was not run because a cloud build could not pass its own gate.**
 
 **Needs from Code:** find out whether this week's page builds can run as Claude Code cloud sessions on Kain's $250 credit, and if so, set it up and tell Kain exactly what to do. Kain has approved this work himself, live in Chat.
 
