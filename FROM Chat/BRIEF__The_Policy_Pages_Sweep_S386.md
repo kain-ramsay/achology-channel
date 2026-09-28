@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON the sweep's own theme change set (header images done ahead of it at 0.668.0, see TO Chat/REPORT__Policy_Pages_Header_Images_And_Scores_S135.md); order after the Reviews close as briefed.**
+
 **Needs from Code:** one sweep across all eleven policy pages and the site chrome images, so every policy page closes its DSRD 6 record the way How We Write did.
 
 # BRIEF: the policy pages sweep
