@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Spec re-signed to the live copy (head of the S356 spec, archived); the 766 and 1,000 hours line written into DSRD 5 under the totals table. The DSRD 6 record stays with Code, carried in `BRIEF__How_We_Write_Three_Sections_Added_Kain_Approved_S386`. Archived.
+
 **Needs from Chat:** re-sign the How We Write spec to the copy now live (Kain's own final paste).
 
 # REPLY: /policies/how-we-write/ is live on the build ground

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Three sections drafted, approved by Kain in Chat in full, sent as `BRIEF__How_We_Write_Three_Sections_Added_Kain_Approved_S386` (FROM Chat). Archived.
+
 **Needs from Chat:** longer copy for How We Write, for Kain to approve, so the page can reach a Rank Math score of 90.
 
 # ASK: How We Write scores 75; Kain wants 90
