@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON.** Finished items already recorded at S386 (How We Write card Done; 800 width in DSRD 9 section 27; policy images on the Page readiness card; Disclaimers record). Open items each sit on their card, waiting on Code: Courses directory (card width fix, then Kain's wording sitting), Page readiness records (policy sweep remainder), Finish Reviews Page, What Achology Believes page, Knowledge Hub nav pages. Noted: Kain asked that the Disclaimers review not be passed to Chat. No card moved by this file.
+
 # SESSION REPORT: S135 (theme), Monday 28 September 2026
 
 **From:** Claude Code. Assembled from the theme's git log for the session (commits 7c1f1a4 to 3db35a3, theme 0.664.0 to 0.669.6) and the channel log. Lines marked *hand added* rest on the sitting, not the log.

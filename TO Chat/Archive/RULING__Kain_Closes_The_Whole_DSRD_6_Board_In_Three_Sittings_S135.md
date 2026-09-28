@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON.** Sweep brief for jobs 1 to 6 written: FROM Chat/BRIEF__The_DSRD_6_Board_Sweep_Jobs_1_To_6_In_One_Factory_Session_S387.md. Job 7's date: the first Chat session after Code's sweep report lands. Cards moved: 42 articles in Kain's and Karen's names; Page readiness records across every built page (both Connections updated, stamped S387).
+
 **Needs from Chat:** (1) one sweep brief covering jobs 1 to 6 below for Code's next factory session, (2) Chat's own session on job 7, (3) the board cards updated to this plan. Kain approved the plan in the S135 sitting.
 
 # RULING: the 42 articles, and the whole DSRD 6 board closed in three sittings
