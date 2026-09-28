@@ -8,7 +8,7 @@
 
 The answers are written well, but they frame the legal question as the UK and the US only. Achology's learners come from every country. Kain's stance, in his words and to be carried faithfully:
 
-**Life coaching is unregulated on a global scale.** Dozens of organisations around the world each claim to be the world's number one authority. None of them is. No training organisation, and no self-proclaimed accrediting organisation, has ever been or will ever be the world's number one authority on life coaching. This holds for every country whose citizens want to train and become competent life coaches, not only the UK and the US.
+**Life coaching is unregulated on a global scale.** Dozens of organisations around the world each claim to be the world's number one authority. None of them is. No training organisation, and no self-proclaimed accrediting organisation, has ever been or will ever be the world's number one authority on life coaching. No organisation has been endorsed as the world authority by anyone else, so any that claims the title is self-proclaimed, nothing more. This holds for every country whose citizens want to train and become competent life coaches, not only the UK and the US.
 
 ## What to change, record by record
 

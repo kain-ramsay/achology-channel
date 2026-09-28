@@ -5,7 +5,7 @@
 
 ## NLP: the full stance applies
 
-NLP is unregulated worldwide. Many organisations present themselves as the authority on NLP (the Society of NLP, the American Board of NLP, ANLP and others). None of them is. Every NLP help answer and article speaks to a learner in any country, never to the UK and US alone.
+NLP is unregulated worldwide. Many organisations present themselves as the authority on NLP (the Society of NLP, the American Board of NLP, ANLP and others). None of them is. No organisation has been endorsed as the world authority by anyone else, so any that calls itself the world's number one authority is self-proclaimed, nothing more (Kain, S386). Every NLP help answer and article speaks to a learner in any country, never to the UK and US alone.
 
 - The five approved Stage 1 answers already say no single body governs the practitioner title. Check each for any line that limits the legal picture to one or two countries, and widen it. Change nothing else; Kain approved them.
 - The eight Stage 2 answers and the NLP articles in job 5 are written this way from the start.
@@ -16,7 +16,7 @@ Chat checked before writing this. **Hypnotherapy is not unregulated everywhere.*
 
 What does hold, and what they say:
 - Most countries have no law governing the title, and where rules exist they differ from place to place, so a learner checks the rules where they live before practising for a fee. Name Washington as the one sourced example (link the state's own law or Department of Health page, live-verified); do not list other countries unless you find and source them.
-- Many organisations claim to be the authority on hypnotherapy. None of them is the world authority.
+- Many organisations claim to be the authority on hypnotherapy. None of them is the world authority. No organisation has been endorsed as the world authority by anyone else, so any that calls itself the world's number one authority is self-proclaimed, nothing more (Kain, S386). This holds whatever the local laws say, and it is said as plainly as the NLP and life coaching answers say it.
 
 If a hypnotherapy answer is already drafted, fix it to this. If not, write it this way from the start.
 
