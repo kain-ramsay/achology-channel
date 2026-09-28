@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON a theme change set for /reviews/ (not started; this sitting is on the Courses page at Kain's direction) and TO Chat/REPORT__Reviews_Page_Card_Closed with the returned DSRD 6 record.**
+
 **Needs from Code:** one theme change set and one gate run that close the Reviews page card for good.
 
 # BRIEF: close the Reviews page card
