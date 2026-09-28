@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S385: STAYS, waiting on one fact: Kain's yes to item 4's wording ("Who approves what you read", not yet seen by him) and to how the page words the AI claim, put to him at the S385 close. Then Chat re-signs the spec with its PAGE GATE line and Code builds.** Board: How we write page card, Waiting On Who, Claude Code, to move to Claude Chat then back.
+> **CHAT DISPOSITION, S385: DONE.** Spec re-signed with Kain's four rulings and its PAGE GATE line at the foot (the "never used AI to write for us" sentence left out on Chat's advice, Kain approved); reply `REPLY__How_We_Write_Spec_Re_Signed_S385` written to FROM Chat. How we write page card updated and stamped S385.
 
 **Needs from Chat:** the PAGE GATE line at the foot of the How We Write spec, re-signed with Kain's S135 copy below, so Code can build it (theme session).
 
