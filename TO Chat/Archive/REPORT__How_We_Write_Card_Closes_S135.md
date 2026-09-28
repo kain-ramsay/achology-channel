@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Chapters 6 and 7 written as pass; chapter 8 written as an exception Kain approved (two links to pages not yet live). How We Write card marked Done. Sweep briefed as `BRIEF__The_Policy_Pages_Sweep_S386` (FROM Chat), with the keyword density rule decided in it. Archived.
+
 **Needs from Chat:** write chapters 6, 7 (human half) and 8 of the How We Write record from the live page, mark the How We Write card Done, and write one sweep brief for all eleven policy pages plus the site chrome images.
 
 # REPORT: How We Write is complete; its record is filed
