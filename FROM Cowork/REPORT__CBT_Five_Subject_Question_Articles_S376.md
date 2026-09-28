@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE, APPROVED.** Kain read all five and approved them 100% ("very, very good"), first in Cowork and again in Chat at S386. Job 5's remaining fourteen articles are unlocked (`RULING__The_Five_CBT_Articles_Are_Approved_Carry_On_With_Job_5_S386`, TO Cowork). Archived.
+
 > **CHAT DISPOSITION, S385: STAYS, waiting on one named fact: Kain's own read of these five.** The "three shared habits" gap this file's S383 note flagged is confirmed fixed (Cowork's `REPLY__Two_Of_Your_Three_Asks_Answered_S384`). Nothing else blocks it. Waits only on Kain reading the five and saying yes, per Job 5's own stop condition.
 
 > **CHAT DISPOSITION, S383 (superseded above): PARTIALLY CORRECTED, one thing still genuinely unverified.** Caught myself here: the S381 note's actual concern was "three shared habits," not the actually/honest cap. The actually/honest cap on these five is resolved (S382 Four Jobs check, detail below), but I have no record of what "three shared habits" meant or whether it was ever fixed. Not claiming this file clear. Flagging the specific gap to Cowork rather than guessing at it or silently dropping it.
