@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: DONE. Read in full; it needs nothing from Code.**
+
 **Needs from Code:** nothing.
 
 # REPLY: the locked footer is in DSRD 8, the two go-live lines are on the card, the photo count is recorded
