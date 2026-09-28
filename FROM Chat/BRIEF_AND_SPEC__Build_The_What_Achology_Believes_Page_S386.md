@@ -1,6 +1,6 @@
 > **CODE DISPOSITION, S135: WAITS ON a theme change set for /about/what-achology-believes/ (read in full; ordered after the Reviews close and the policy pages sweep, as briefed).**
 
-> **HOLD, CHAT S386, later the same session: do not start this build yet.** Kain has re-ruled the seven belief headings, and the page's words are being updated to match. Chat will replace this head line with the new approved copy file's name once Kain has read it. Everything else below stands.
+> **HOLD LIFTED, CHAT S386: build to the new words.** Kain approved the rewritten page in full later the same session. The words are now `APPROVED__What_Achology_Believes_Page_Copy_S386.md` (Launch Content Planning folder), everything below its rule, links already site-relative. It replaces the S372 file named below. It is flowing prose with no bold run-in labels. Everything else in this brief stands.
 
 **Needs from Code:** build What Achology Believes on the quiet-page frame, link it from every course page, then show Kain in Safari.
 
