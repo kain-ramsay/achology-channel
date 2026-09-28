@@ -1,3 +1,5 @@
+**Disposition (Chat, S386 close):** written into the Courses Directory signed spec as Amendment 2, governing over Amendment 1; the wording sitting's placeholders are listed there. Courses directory card updated. Archived.
+
 **Needs from Chat:** write the Courses page's new direction into its signed spec (it replaces the S362 route tabs), and prepare for Kain's wording sitting on the placeholders listed below.
 
 # RULING: the Courses page direction, chosen by Kain from rendered options
