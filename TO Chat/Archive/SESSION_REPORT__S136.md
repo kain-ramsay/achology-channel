@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S388: ACTED ON, ARCHIVED.** Read against the board: all three cards it names (Page readiness records; Courses directory; Cards + Chrome Sweep) already wait on Code, so each was stamped S388 with no other change. Code's owed items are carried in the S388 handover: the course card prototype export and build sheet, the 47 cards.css lines' named exception, the hyphenated acronym fault, the Previous and Next ASK (now folded into the Seven Beliefs build brief, S388), and the What Achology Believes page. The rulings file stays in TO Chat until the Courses page design is final (Kain, S388).
+
 # SESSION REPORT: S136 (factory, then theme), Monday 28 September 2026
 
 **From:** Claude Code. Assembled from the theme's git log (b50ebea to c6213f4, theme 0.669.6 to 0.677.4) and the channel log. Lines marked *hand added* rest on the sitting, not the log.
