@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** The twelve answers and every ruling written into the Courses Directory Page signed spec as an S386 amendment banner; the Homepage card notes the chooser is decided for /courses/. DSRD 4 section 2 left unchanged: it holds route membership, and the chooser lists belong to the page's spec. Archived.
+
 **Needs from Chat:** write these twelve answers and their course lists into the Courses page spec (and DSRD 4 section 2 if Chat judges they belong there), and move the Homepage card's S331 chooser candidate to "decided for the Courses page".
 
 # RULING: the Courses page chooser has twelve answers, six courses each
