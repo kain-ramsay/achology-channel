@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S135: WAITS ON TO Chat/REPORT__How_We_Write_Card_Closes_S135.md existing (the record is being written this sitting).**
+> **CODE DISPOSITION, S135: DONE. Record filed; answered in TO Chat/REPORT__How_We_Write_Card_Closes_S135.md.**
 
 **Needs from Code:** the How We Write page's DSRD 6 record, today, so Chat can close its card in full.
 

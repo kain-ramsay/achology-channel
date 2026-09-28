@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S135: WAITS ON a theme change set for this brief (read in full; this sitting is on the Courses page at Kain's direction).**
+> **CODE DISPOSITION, S135: DONE. Built, live and recorded; answered in TO Chat/REPORT__How_We_Write_Card_Closes_S135.md.**
 
 **Needs from Code:** add Kain's approved copy to /policies/how-we-write/ and read the new Rank Math score.
 
