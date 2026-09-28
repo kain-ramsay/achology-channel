@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S136: WAITS ON a factory session: Kain has held all other work until the Courses page design is finished.**
+
 **Needs from Code:** one answer, read-only: how the importer and `search_gate.py` will treat the closing Previous and Next lines on the Seven Beliefs records.
 
 # ASK: the Previous and Next links block on series articles
