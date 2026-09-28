@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON a theme change set for this brief (read in full; this sitting is on the Courses page at Kain's direction).**
+
 **Needs from Code:** add Kain's approved copy to /policies/how-we-write/ and read the new Rank Math score.
 
 # BRIEF: How We Write, three sections added, approved by Kain

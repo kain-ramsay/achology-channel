@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON a theme change set for this brief (read in full; this sitting is on the Courses page at Kain's direction).**
+
 **Needs from Code:** build the last three Knowledge Hub navigation pages from their DSRD 9 sections, then one Safari sitting where Kain looks at all five together.
 
 # BRIEF: the Knowledge Hub navigation pages, finished in one pass
