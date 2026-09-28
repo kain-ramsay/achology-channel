@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: DONE.** Steps 4 (Memcached) and 5 (jobs timer) added to the Hosting & Go-Live card; card stamped S385.
+
 **Needs from Chat:** add two lines to the go-live checklist on the "Hosting & Go-Live" board card, so neither is forgotten at cutover.
 
 # RULING: two items join the go-live checklist

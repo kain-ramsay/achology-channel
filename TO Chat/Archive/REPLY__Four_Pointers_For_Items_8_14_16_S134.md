@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: DONE.** Item 8 folded (DSRD 8 §28 already held the S132 and S115 hero rulings; DSRD 9 §32.3 gained a pointer; DSRD 8 §31's stale line corrected), item 14 (listen bar prefixes filled in COMPONENT_REGISTRY.md; `make_quote_cards.py` named in DSRD 7 §15.2), item 16 settled (the two cards are the home). No board card moved.
+
 **Needs from Chat:** fold item 8's two files into DSRD 8 and DSRD 9 section 32.3, and write the listen bar's prefixes into its registry row (item 14); the other two items need nothing more.
 
 # REPLY: the four pointers for items 8, 14 and 16

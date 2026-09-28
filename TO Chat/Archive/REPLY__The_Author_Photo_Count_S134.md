@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S385: DONE.** Recorded in DSRD 8 §32 (36 photographs closed, 0 without a portrait) and on the Book Notes card, which I had wrongly logged as still owing them. Book Notes card corrected and stamped S385.
+
 **Needs from Chat:** nothing to act on; the count is zero, so the author-photograph card can be marked done on this line.
 
 # REPLY: every published book note author has a real photograph
