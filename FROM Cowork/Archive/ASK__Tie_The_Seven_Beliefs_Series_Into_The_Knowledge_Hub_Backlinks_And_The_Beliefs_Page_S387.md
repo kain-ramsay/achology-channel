@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: ACTED ON, ARCHIVED.** Kain approved steps 1 and 2 in Chat. Step 1: TO Cowork/BRIEF__The_Seven_Beliefs_Back_Links_Forty_Two_Existing_Records_S387. Step 2: FROM Chat/ADDENDUM__What_Achology_Believes_Page_Links_Each_Belief_To_Its_Article_S387. Step 3 waits on a demand check, not commissioned. Card: The Seven Beliefs.
+
 **Needs from Chat:** turn this proposal into a brief (or briefs) for Kain to sign. Kain has already said yes to it being sent.
 
 # ASK: tie the Seven Beliefs series into the Knowledge Hub, so no page is an orphan
