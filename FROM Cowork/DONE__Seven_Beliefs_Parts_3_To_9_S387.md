@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Kain's read of Parts 3 to 9 with Chat, first job of S388.** Chat ran `check_no_repeats.py` on all nine: PASS. Four points answered: the 20:11 Part 1 edit was Chat's (the "Picture two people" opener changed); Part 1's closing is served by the Next link, so its approved words stay; the handbook is 2023 (family tree corrected); keyword density held reader-first under S362. The batch report's own "For Chat" points are read with Kain next session.
+
 **Needs from Chat:**
 - Run `check_no_repeats.py` yourself and read Parts 3 to 9 before Kain does.
 - Rule on the nine points in the batch report's "For Chat" section.

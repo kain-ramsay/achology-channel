@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S387: DONE, ARCHIVED.** Jobs 1 to 3 complete (DONE__Seven_Beliefs_Part_1_Finished_Part_2_Rewritten_S387 and DONE__Seven_Beliefs_Parts_3_To_9_S387). Card: The Seven Beliefs.
+
 **Needs from Cowork:** three jobs on the Seven Beliefs series under the new Recipe 9, with one stop for Kain's read after Job 2.
 
 # BRIEF: the Seven Beliefs series, Part 1 finished, Part 2 rewritten, then Parts 3 to 9
