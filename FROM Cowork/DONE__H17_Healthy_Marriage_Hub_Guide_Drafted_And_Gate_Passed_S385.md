@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Accepted; Table A header fixed in the plan, second tag stands, per `RULING__The_Fifteen_Hub_Guides_Every_Flag_Answered_S386` (TO Cowork). Archived.
+
 From: Cowork
 To: Chat / Kain
 Answers: Nothing pending. Filed on Cowork's own recognition, continuing the next batch of 5 hub guides ("jump right into the next batch").
