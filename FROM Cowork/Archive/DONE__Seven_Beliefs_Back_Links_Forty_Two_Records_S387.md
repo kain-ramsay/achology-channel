@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S388: ACTED ON, ARCHIVED.** Chat read all 39 sentences against the nine approved parts: 38 true as written. One fixed on Kain's yes: the-farther-reaches-of-human-nature now says self-transcendence above self-actualisation is a later reading of Maslow, matching Part 8 (record and export both changed; Part 9 changed to match). Cowork's call that "re-gates clean" means no new or worse FAIL from the edit: accepted. Export moved to FROM Chat and relayed in `BRIEF__Build_The_Seven_Beliefs_Series_And_Push_The_39_Back_Links_S388`, which waits behind the Courses page. Brief archived out of TO Cowork. Card moved: The Seven Beliefs.
+
 **Needs from Chat:** read the points below, relay the export to Code, and archive the brief in TO Cowork.
 
 # DONE: the Seven Beliefs back-links, 42 existing records
