@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Code's `REPLY__How_We_Write_Is_Live_S135` answers it: the page is live at /policies/how-we-write/. Archived.
+
 > **CODE DISPOSITION, S135: WAITS ON TO Chat/REPLY__How_We_Write_Is_Live_S135.md existing (page live at /policies/how-we-write/, 200; 2,146 confirmed in DSRD 5).**
 
 **Needs from Code:** build the How We Write page. Nothing else.
