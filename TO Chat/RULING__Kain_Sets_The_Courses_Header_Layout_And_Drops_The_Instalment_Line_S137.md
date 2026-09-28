@@ -78,6 +78,8 @@ The words, Code's proposal accepted by Kain ("yes"), theme 0.686.1 (they replace
 
 Kain: "How can this ... incorporate this ... I think if we can do this we can simplify the hero even further". Code's proposal, accepted ("Yes, build it"), theme 0.687.0: beside the title, one line: "What learning goals would you like to achieve? Select all that apply, and we'll find your starting point among our 28 on-demand training courses." The visible question and hint under the hairline are removed; the answers follow the hairline directly (48, 32 on phones). The fieldset keeps a visually hidden legend, "What learning goals would you like to achieve? Select all that apply.", so a screen reader hears the question at the answers.
 
+Kain asked why the line ran to three lines on desktop. The cause was Code's own 46-character cap, which no rule set. On his "yes" (0.687.1) the cap is the measure rule's top, 75 letters (DSRD 7 section 4, the measure rule's 45 to 75), and the line runs two lines at every desktop width.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
