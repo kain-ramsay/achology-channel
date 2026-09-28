@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S135: WAITS ON TO Chat/REPLY__What_Is_Actually_On_The_Reviews_Page_Now_S135.md existing (read done live this session; filing waits on Kain's go-ahead).**
+
 **Needs from Code:** a read of what is actually on the live /reviews/ page today, so the Reviews page card can be closed in one brief. Read only; no build.
 
 # ASK: what is actually on the Reviews page now, and what is genuinely left
