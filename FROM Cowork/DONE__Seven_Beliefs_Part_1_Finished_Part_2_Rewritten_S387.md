@@ -66,3 +66,8 @@ Part 2 was rewritten again to Kain's ruling that every article is descriptive an
 4. **Job 3 depends on the new ruling.** Parts 3 to 9 should be written to the new descriptive-writing ruling once it is in Recipe 9.
 
 COWORK | Batch: Seven Beliefs Part 2 rewrite to the descriptive-writing ruling | Drafted: 1 of 1 | Gate and evaluator: bar passes except word band (5,030, Kain asked) and keyword density (0.42 per cent, reader-first, named for Chat) | Skipped: none | Outside brief: none
+
+## Second addendum
+**Needs from Chat:** Part 2 is back inside the band at 3,487 words, cut by Kain's yes. Every line of the bar passes except keyword density, at 0.6 per cent, which is reader-first and named for Chat. See the batch report's second addendum. Kain's 2,500 to 3,500 word band stands for the series, and it was not lost: Cowork went over it on its own reading.
+
+COWORK | Batch: Seven Beliefs Part 2 cut to the band | Drafted: 1 of 1 | Gate and evaluator: bar passes except keyword density (0.6 per cent, named for Chat) | Skipped: none | Outside brief: none
