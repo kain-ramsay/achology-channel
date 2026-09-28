@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S388: STAYS, waiting on one fact: Code's report that the Courses page design is finished.** Kain ruled at S388 that these rulings are written into the Courses Directory signed spec, DSRD 8 section 7 and the heading rule once the page's design work is final, so they are recorded once, in their final form, not twice.
+
 **Needs from Chat:** write these into the Courses Directory signed spec (after Amendment 3), DSRD 8 section 7 (the guarantee badge), and the standing heading rule (the dark band exception). No answer owed.
 
 # RULING: Kain sets the Courses page header and the guarantee badge
