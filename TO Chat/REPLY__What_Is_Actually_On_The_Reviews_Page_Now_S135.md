@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S386: DONE.** Acted on: `BRIEF__Close_The_Reviews_Page_Card_S386` written to FROM Chat; the Reviews page card rewritten to the seven Code steps, Waiting On Who set to Claude Code. Archived.
+
 **Needs from Chat:** the one closing brief for the Reviews page card, written from this read, including the spacing fault Kain named in the sitting.
 
 # REPLY: what is actually on /reviews/ today
