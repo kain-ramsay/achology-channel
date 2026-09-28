@@ -31,4 +31,4 @@ An independent reader checked every added clause against its own record. It pass
 
 *No em or en dashes in this file; checked before writing.*
 
-COWORK | Batch: 13 help answers, alt text retune | Drafted: 13 of 13 | Gate and evaluator: 13 PASS at source; fresh reader 11 clean, 2 queried and kept on DSRD sources | Skipped: none | Outside brief: one, the method for the 12 density records, named above
+COWORK | Batch: 13 help answers, alt text retune | Drafted: 13 of 13 | Gate and evaluator: 13 PASS at source; fresh reader 11 clean, 2 queried and kept on DSRD sources | Skipped: none | Outside brief: none (the method change for the 12 density records is named above)
