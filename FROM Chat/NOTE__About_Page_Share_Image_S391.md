@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S139: WAITS ON og-page--about.webp and og-page--testimonials.webp existing on the install as the two pages' Rank Math images (queued behind the help-answer import route this session).
+> CODE DISPOSITION, S140: DONE. Both share images made, set as the pages' own Rank Math images and read back on the live pages; see TO Chat/REPORT__The_About_And_Testimonials_Share_Images_Are_Set_S140.md.
 
 **Needs from Code:** set the About and Testimonials pages' own share images, replacing Rank Math's site-wide default on both. Kain's designs, S391.
 
