@@ -114,6 +114,7 @@ Beside "Your six best matches", after a tick: "Best Match Recommended First · C
 ## 15. The two results headings (Kain's words, 0.693.3)
 
 Before a tick: "Where Many of Our Students Begin" (was "Where most students start"). After a tick: "Courses Best Aligned With Your Goals" (was "Your six best matches"). The bar's status line after a tick still reads "N goals selected. Your six best matches are ready." (section 8's words), unchanged.
+- The note beside the heading before a tick (Kain's words, 0.693.4): "Six of Our Most Popular Courses", replacing "Our six most popular courses".
 
 OWED BACK: nothing.
 
