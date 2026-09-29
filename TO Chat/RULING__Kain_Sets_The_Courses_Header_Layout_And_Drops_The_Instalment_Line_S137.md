@@ -116,6 +116,17 @@ Beside "Your six best matches", after a tick: "Best Match Recommended First · C
 Before a tick: "Where Many of Our Students Begin" (was "Where most students start"). After a tick: "Courses Best Aligned With Your Goals" (was "Your six best matches"). The bar's status line after a tick still reads "N goals selected. Your six best matches are ready." (section 8's words), unchanged.
 - The note beside the heading before a tick (Kain's words, 0.693.4): "Six of Our Most Popular Courses", replacing "Our six most popular courses".
 
+## 16. Phone and tablet (0.694.1)
+
+Kain: "have you done your best work possible on responsive ... tablet ... I know you definitely haven't ... on mobile ... these tabs ... extend the full width of the screen ... so they meet in the middle somewhere so it looks balanced, which obviously switches off when the viewer goes from mobile to tablet". Built on his direction and Code's own pass:
+
+- **Phones (below 768):** the answer chips stretch to fill each row edge to edge, 42 tall; one full width answer per row on a small phone, two in equal halves meeting in the middle where they fit.
+- **Tablet (768 to 1023):** answers two across (three across wrapped all twelve at 768); from 1024 three across as before.
+- **Tablet lists:** "Also a good fit" and "Browse all 28 courses" rows keep title, price and link below 1024, as phones did, so titles hold one line.
+- **Tablet results head:** the note sits under the heading, as on phones, instead of squeezed beside the longer heading.
+
+Measured at 360, 390, 430, 520, 600, 700, 768, 900, 1024 and 1440: every row of answers ends level on both sides, no answer wraps, nothing runs off the screen.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
