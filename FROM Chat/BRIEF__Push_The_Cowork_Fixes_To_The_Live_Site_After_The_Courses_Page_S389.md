@@ -43,6 +43,12 @@ Kain read and approved all twenty-one: "They've been written to a very, very, ve
 
 All 51 carry a new `demand_evidence` field; 18 also have body edits for keyword density. Push all 51, read back, re-score. 47 print GATE PASS at source. Four carry older record-field fails outside Cowork's brief: `kh_tag_order carries the same tags as kh_tag` on Brendon Burchard, Charles Duhigg and Steven Pinker, and `keyword in address slug` on Brené Brown (accent in the keyword against an unaccented address). Push them as they are and report; Chat fixes those four records. Report: `DONE__Demand_Evidence_On_The_51_Author_Biographies_S389`. This is also the fresh push the twelve biography records fixed at S354 need.
 
+## 9. Four biography record fixes and two free tier renames (Chat, S391)
+
+Chat fixed the four records item 8 names. Burchard, Duhigg and Pinker: `kh_tag_order` now carries exactly the same tags as `kh_tag` (the extra category slugs are removed). Brené Brown: the record is right and is not changed; an address can never carry an accent, so `content_gate.py`'s "keyword in address slug" check should compare with accents removed (Chat's call). Fix the check, re-gate the record, and push all four with item 8.
+
+Two help answers now say Achology Gateway for the free tier (Kain, S390): `HELP__become-a-life-coach-for-free` (with the life coaching Stage 2 batch, after Kain reads it) and `HELP__nlp-certification-free` (push now). The published help answers and the DSRD 2 section 2.24 term register still say "free membership tier" in places; Chat corrects the register, then sends one list of pages for you to sweep.
+
 ## Also owed, already flagged at S354
 
 The twelve author biography records fixed at S354 (Maslow, Schopenhauer, Burchard, Newport, Ariely, Goleman, Fromm, Haidt, Jordan B. Peterson, Tolstoy, Gladwell, Cialdini) need a fresh push, not a skip, if the earlier push ran before the fix.
