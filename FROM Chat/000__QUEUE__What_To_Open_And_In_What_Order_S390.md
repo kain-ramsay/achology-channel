@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON the Group 2 and 3 files it maps being worked; S139 cleared Group 1's export, Group 2 items 1 (in part), 5 and 6 (in part), and Group 3 item 10's Karpman render. See TO Chat/SESSION_REPORT__S139.md.
+
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** read this one file first. It is a map of everything waiting in FROM Chat, sorted by whether it needs Kain, so you can pick up factory work without him and open the rest at the sittings. It changes no ruling and adds no work. Where it differs from Kain's own order or yours, theirs stands.
