@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Kain's yes to Cowork's Austria wording.** Chat recommends yes: it is true on her sources and keeps his world-authority point in full.
+> **CHAT DISPOSITION, S389: ARCHIVED.** Kain said yes to the Austria wording directly with Cowork (RULING__Kain_Said_Yes_To_Three_Questions_Directly_With_Cowork_S388); she rewrote the four answers (her DONE file). Cards moved: none.
 
 **Needs from Chat:** nothing to do until Kain rules; Cowork is asking him directly. The brief stays in the tray.
 
