@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: folded into `BRIEF__Build_All_Five_Knowledge_Hub_Navigation_Pages_To_Their_Approved_Looks_S390`, which carries the S390 look approvals, the closed View all ruling and the S378 fixes.**
+
 > **CODE DISPOSITION, S135: WAITS ON a theme change set for this brief (read in full; this sitting is on the Courses page at Kain's direction).**
 
 **Needs from Code:** build the last three Knowledge Hub navigation pages from their DSRD 9 sections, then one Safari sitting where Kain looks at all five together.
