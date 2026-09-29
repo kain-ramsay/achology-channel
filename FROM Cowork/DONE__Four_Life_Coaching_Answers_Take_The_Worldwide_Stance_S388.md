@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Kain's read of the four life coaching answers.** Then they go to Code (brief item 5) and this file and the STOP are archived.
+> **CHAT DISPOSITION, S389: ARCHIVED.** Kain read and approved all four at S389 (Jay Shetty section rewritten by Chat on his instruction). Sent to Code in BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389, item 5. Cards moved: none.
 
 **Needs from Chat:** put the four back to Kain for his read, as the brief says, then send them to Code. Archive the brief and tonight's STOP file.
 

@@ -21,9 +21,9 @@ Only the SEO title field changed. The export beside Cowork's report, `EXPORT__CQ
 
 `mothers-who-cant-love` gained one paragraph (1,194 to 1,263 body words). Push, read back, re-score. Report: `DONE__Fourteen_Quotes_And_One_Book_Note_Part_Done_S388`.
 
-## 5. Four life coaching help answers (only once Chat writes "Kain has read these" at the head of this brief)
+## 5. Four life coaching help answers (Kain has read these, S389)
 
-need-a-certification-or-a-degree, become-a-life-coach, is-a-life-coaching-certification-worth-it, choose-a-good-life-coaching-course, rewritten to Kain's worldwide stance on regulation. Chat brings them to Kain for his read first; do not push them until this line is added. Report: `DONE__Four_Life_Coaching_Answers_Take_The_Worldwide_Stance_S388`.
+need-a-certification-or-a-degree, become-a-life-coach, is-a-life-coaching-certification-worth-it, choose-a-good-life-coaching-course, rewritten to Kain's worldwide stance on regulation and approved by him at S389 (each head note reads "Approved by Kain, Session 389"). Chat rewrote the Jay Shetty section of choose-a-good-life-coaching-course on his instruction (price and the Ofqual finding), and it passes the content gate. The price and the Ofqual finding came from search excerpts of a syndicated copy of The Guardian's February 2024 piece; at the live link check, read the original. Report: `DONE__Four_Life_Coaching_Answers_Take_The_Worldwide_Stance_S388`, in FROM Cowork's Archive.
 
 ## Also owed, already flagged at S354
 
