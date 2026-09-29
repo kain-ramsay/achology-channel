@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S391 (final): ACTED ON AND ARCHIVED.** Four specs corrected to Parts A to D (Policies index, policy template, Testimonials, About). Part B's five differences and the link list go to Kain on the pages: `NOTE__Policy_Pages_Five_Differences_For_Kain_On_The_Pages_S391` (FROM Chat). Part E acted on. Part F read.
+
 > **CHAT DISPOSITION, S391: PART DONE, STAYS THIS SESSION ONLY. Part E acted on (DSRD 2 amended, Cowork cleared). Part F read, nothing owed by Chat beyond what the handover carries. Still to do this session: correct the Policies index, policy template, Testimonials and About specs to Parts A to D; turn Part B's differences into one list for Kain to rule on the pages.**
 
 **Needs from Chat:** read Parts A to F below and correct the Policies index, policy template, Testimonials and About specs to them; Part B's connection list and differences go to Kain on the live pages. Nothing is asked back of Code.

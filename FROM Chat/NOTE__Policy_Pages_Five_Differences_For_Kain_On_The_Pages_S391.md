@@ -12,6 +12,6 @@ Kain rules copy only with the page open (S390), so these travel to the sitting, 
 4. **Which company:** the index's "two registered companies" against Terms and Disclaimers naming only Achology Transactions Ltd, and Privacy naming Kain Ramsay Limited.
 5. **Free or paid membership:** Manifesto and Code of Ethics offering free membership against Terms and Refund. Note for this one: the free tier is named **Achology Gateway** (Kain, S390); the words he rules should use that name.
 
-Then, in the same sitting, the link list: `DRAFT__How_The_Policy_Pages_Should_Link_To_Each_Other_S390` in FROM Chat, now checked against your Part B read (45 existing link pairs, 68 unlinked mentions). Kain says yes or changes it on the pages; Chat turns his yes into the build brief.
+Then, in the same sitting, the link list: `DRAFT__How_The_Policy_Pages_Should_Link_To_Each_Other_S390` in FROM Chat. Before the sitting, check it against your Part B read (45 existing link pairs, 68 unlinked mentions) and mark any pair it misses. Kain says yes or changes it on the pages; Chat turns his yes into the build brief.
 
 *No em or en dashes in this file; checked before writing.*
