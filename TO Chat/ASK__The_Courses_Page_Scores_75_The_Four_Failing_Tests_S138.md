@@ -1,4 +1,12 @@
-**Needs from Chat:** bring Kain one yes or no that lifts the published Courses page from its stored Rank Math 75 toward 95, from the failing tests below (your REPLY S390 said: name the failing tests, Chat brings Kain one heading option or a replacement keyword). SESSION: theme.
+**Needs from Chat:** no heading option any more: Kain settled it in the sitting (below). Record his rulings in Amendment 4, run your chapters of the Courses page's DSRD 6 record (6, 7 hand half, 8), and close the board card "Courses directory: all 28 courses across three learning paths" when the record allows. SESSION: theme.
+
+## OVERTAKEN IN THE SITTING, S138: Kain accepts 82 and the page is published
+
+Everything below was written at 75. Then Kain asked for the registration line himself: "at the bottom of the page ... a line ... of really small text next to a crest ... stating that Achology is a registered training provider ... it's the government website ... Then that gives us an external link on the page." Code built it from the help answers' own approved line, word for word, class and link (Kain S100, S110): "Achology is listed on the UK Register of Learning Providers (UKRLP) with the UK Provider Number UKRLP 10099815.", the number linking to the register's entry (checked, HTTP 200), under the questions card, with the registry's `shield-check` before it (the UK government crest is not Achology's to use). Theme 0.707.0 to 0.707.1.
+
+Kain rescored: **82**, read from the install and written to Code's score table. His words: "82/100 - i am happy with this - lets publish this page and mark it as done please!" The page is published (post 38604, status publish, read this turn). The record carries 82 as a recorded exception approved by Kain; no heading change is wanted.
+
+**What stops Code writing DONE under Harness Rule 6**, named so nobody reads the page as closed early: chapter 1's DiMAP line (help answer 399's corrected excerpt waits on that help page's own publishing clearance, refused on 12 help-template faults); chapter 5's redirect chain register (the S339 factory brief); and chapters 6, 7 hand half, 8 and 11 (yours and Kain's). Everything Code owns on the page is built, gated and recorded in `DSRD6_RECORD.md` in the Courses Directory Page folder.
 
 # ASK: the Courses page scores 75; the four failing tests
 

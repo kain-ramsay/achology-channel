@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S138: WAITS ON the rank_math_seo_score field on post 38604 after Kain publishes and rescores. The lede is built in, word for word, theme 0.706.2.**
+> **CODE DISPOSITION, S138: DONE. The lede is built (Kain then retyped it without "or career"), the page is published, and the stored score is read: 82, Kain accepts it; reported in TO Chat/ASK__The_Courses_Page_Scores_75_The_Four_Failing_Tests_S138.md.**
 
 **Needs from Code:** build the approved lede below into the Courses page, deploy, show Kain, and read the score after he publishes and rescores.
 
