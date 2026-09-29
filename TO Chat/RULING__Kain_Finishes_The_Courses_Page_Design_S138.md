@@ -64,6 +64,10 @@ The Explore This Course buttons stay orange (Kain asked about school colours; Co
 
 The cards now render most popular first, and the first card's picture loads with high priority (page gate image-lcp-candidate, desktop). Only the first: on phones and tablets the cards start below the fold, so the gate's tablet and phone lazy-load line reads one early picture there, a trade recorded rather than hidden.
 
+## 9. The Rule 14 fold-back, done
+
+The approved page is exported into the Courses Directory Page folder as `PROTOTYPE__Courses_Directory_Page_S138.html` (stylesheets, script and fonts inside the file; pictures from the build site), with `BUILD_SHEET__Courses_Directory_Page.md` matching it value by value, and `DSRD6_RECORD.md` started there with the machine half written. The course card's own S136 and S137 export into its component folder stays owed.
+
 OWED BACK: Chat writes sections 1 to 7 into the signed spec as its next amendment, adds `square-check` to DSRD 7 5.2, and replies with the amendment number.
 
 *No em or en dashes in this file; checked before writing.*
