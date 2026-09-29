@@ -31,6 +31,6 @@ Kain's standing rule (S136) holds: the Courses page first, and nothing else prop
 10. Set-up jobs not tied to a page: `RULING_AND_BRIEF__Set_Up_The_Factory_Session_Timer_On_The_iMac_4_S353` and `RULING_AND_BRIEF__The_Karpman_Workbook_Is_Approved_Render_It_Into_The_Approved_Template_S353` (both older; not re-read this session; Part F of the ask covers whether they are done).
 
 ## Files moved to Archive at S390, each with a head note saying what replaced it
-Nine superseded or folded files, listed in the head notes themselves. The Courses S362 brief (design finished, metadata answered) and the S278 Reviews note (superseded by the S386 Reviews brief) are dropped as finished or overtaken; the rest are folded into the three new briefs above.
+Fifteen superseded or folded files, listed in the head notes themselves. The Courses S362 brief (design finished, metadata answered) and the S278 Reviews note (superseded by the S386 Reviews brief) are dropped as finished or overtaken; the rest are folded into the three new briefs above.
 
 *No em or en dashes in this file; checked before writing.*
