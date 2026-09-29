@@ -22,7 +22,48 @@
 
 | Article | Chapter 1 | Chapter 10 |
 |---|---|---|
-PLACEHOLDER_TABLE
+| hypomania-from-an-ordinary-mood-swing | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| diagnosing-bipolar-disorder-in-children | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| is-my-grief-normal | fail, 2026-09-23, [machine] 5 acronyms used before being spelled out: DSM | not run  |
+| mental-disorders-tripled-since-the-1950s | fail, 2026-09-23, [machine] 6 acronyms used before being spelled out: DSM | not run  |
+| multiple-personality-diagnoses-spike-after-a-film | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| homosexuality-was-a-diagnosis | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| five-symptoms-mean-depression | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| everyone-agreeing-on-a-diagnosis | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: NIMH | not run  |
+| does-a-diagnosis-do-to-the-person | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| doctors-have-only-minutes-to-diagnose | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| diagnostic-inflation-actually-happening | fail, 2026-09-23, [machine] 5 acronyms used before being spelled out: DSM | not run  |
+| diagnosis-be-scientifically-weak-but-still-useful | fail, 2026-09-23, [machine] 5 acronyms used before being spelled out: DSM | not run  |
+| bmi-decide-who-gets-eating-disorder-treatment | fail, 2026-09-23, [machine] 7 acronyms used before being spelled out: BMI | not run  |
+| blood-test-for-depression | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| a-psychiatric-diagnosis-simply-wrong | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: EPIC | not run  |
+| a-false-epidemic-happen-without-anyone-lying | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| a-diagnosis-actually-describing | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| what-is-stepped-care | fail, 2026-09-23, [machine] 6 acronyms used before being spelled out: NICE | not run  |
+| what-is-concept-creep | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| self-report-decide-a-diagnosis | fail, 2026-09-23, [machine] 3 acronyms used before being spelled out: DSM | not run  |
+| the-definition-of-mental-disorder | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| the-dsm-5-cost-five-times-more | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: DSM | not run  |
+| the-dsm-call-its-own-categories-porous | fail, 2026-09-23, [machine] 2 acronyms used before being spelled out: TRFifth | not run  |
+| the-rise-in-autism-diagnoses-real | fail, 2026-09-23, [machine] 5 acronyms used before being spelled out: UC | not run  |
+| ai-give-you-a-second-opinion | fail, 2026-09-23, [machine] 2 acronyms used before being spelled out: AI | not run  |
+| trust-ai-even-when-its-wrong | fail, 2026-09-23, [machine] 2 acronyms used before being spelled out: AI | not run  |
+| does-ai-actually-understand | fail, 2026-09-23, [machine] 1 acronym used before being spelled out: AI | not run  |
+| ai-making-us-worse-thinkers | fail, 2026-09-23, [machine] 4 acronyms used before being spelled out: AI | not run  |
+| ai-conversations-get-worse | fail, 2026-09-23, [machine] 1 acronym used before being spelled out: ELIZA | not run  |
+| ai-agree-with-everything-you-say | fail, 2026-09-23, [machine] 1 acronym used before being spelled out: ELIZA | not run  |
+| what-employees-want-from-their-managers | fail, 2026-09-23, [machine] 1 acronym used before being spelled out: SESCO | not run  |
+| authentic-leadership | not run  | not run  |
+| consistency-in-leadership | not run  | not run  |
+| meet-people-where-they-are | not run  | not run  |
+| telling-people-what-to-do | not run  | not run  |
+| trust-in-the-workplace | not run  | not run  |
+| respect-is-earned-not-given | not run  | not run  |
+| kind-without-being-a-pushover | not run  | not run  |
+| growth-mindset-at-work | not run  | not run  |
+| entrepreneurial-mindset | not run  | not run  |
+| people-first-leadership | not run  | not run  |
+| what-makes-a-good-leader | fail, 2026-09-23, [machine] 1 acronym used before being spelled out: NLP | not run  |
 
 OWED BACK: the Cowork brief for the 31; I fix the "TRFifth" reading in page_gate and re-run that one page.
 
