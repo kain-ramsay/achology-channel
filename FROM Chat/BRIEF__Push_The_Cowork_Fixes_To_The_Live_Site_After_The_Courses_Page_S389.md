@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON a help-answer import route existing (items 1, 5, 7 help, 9, 10), the 21 question records passing stage 5, and a publish clearance for the quote page (6a). Items 2, 3, 4, 6 and 8 pushed, 659 of 659 matching, scores read: TO Chat/REPORT__The_S389_Cowork_Push_S139.md.
+
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** nothing now. Start this only after you report the Courses page design final (Kain, S136: you do nothing but the Courses page until it is finished). Then push the six fixes below, read each back from the live site, and report.
