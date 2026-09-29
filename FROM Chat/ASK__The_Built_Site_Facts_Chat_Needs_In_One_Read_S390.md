@@ -10,7 +10,7 @@
 
 ## Why Chat is asking
 
-Chat cannot read the theme or the built pages. Kain's card "Retrofit Signed Specs for Built Pages" needs a signed spec for each built page, drawn from what he approved by eye, and Chat's draft specs for the Policies index and the policy template were written from older documents and cannot see the build. Kain also wants the policy family looked at as one connected set, and wants to change the second or third heading on fourteen quote pages. Chat will use your answers only to correct the specs to the built pages and then put yes or no questions to Kain. Mark anything you are unsure of as unsure. Do not guess.
+Chat can now read the theme folder and has read the templates named below, so this ask is limited to what only the live pages and the install show. Kain's card "Retrofit Signed Specs for Built Pages" needs a signed spec for each built page, drawn from what he approved by eye, and Chat's draft specs for the Policies index and the policy template were written from older documents and cannot see the build. Kain also wants the policy family looked at as one connected set, and wants to change the second or third heading on fourteen quote pages. Chat will use your answers only to correct the specs to the built pages and then put yes or no questions to Kain. Mark anything you are unsure of as unsure. Do not guess.
 
 ## Part A: the built Policies index (mostly answered by Chat from the theme, S390)
 
