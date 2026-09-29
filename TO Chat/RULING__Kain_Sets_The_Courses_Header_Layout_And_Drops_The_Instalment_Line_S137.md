@@ -107,6 +107,10 @@ Kain: "there's a lot of empty space in this part of the page". A first answer of
 - Once a goal is ticked, a slim brand dark bar rides at the foot of the screen, 1104 wide, carrying the status line and the "See My Course Recommendations" button, and hides as soon as the courses' heading is on screen (so on a large desktop, where the courses already show, it rarely appears). On phones it carries the button alone, full width.
 - Before any tick nothing shows: the courses beneath already update the moment a goal is ticked.
 
+## 14. The results note (Kain's words, 0.693.2)
+
+Beside "Your six best matches", after a tick: "Best Match Recommended First · Clear", replacing "Closest match first · Clear".
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
