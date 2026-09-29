@@ -16,6 +16,13 @@
 - **The logos, the same way every time:** the Know Your Psychology logo in the source course's school colour at the top of both covers, the Achology Publications logo at the foot, from the website assets' logo folders.
 - **The Karpman workbook is re-rendered** with image 1 and both logos: `RENDER__The_Karpman_Workbook_S139.html` in TO Chat.
 
+## Two more rulings, same sitting, on the rendered covers
+
+1. **A white panel behind the cover text.** Kain: the image behind the text blocks "clashes ... ideally we'd have some sort of semi-transparent block behind the blocks of text that just makes the text on the page more readable". Built: the front cover's title and description, and the back cover's block, sit on white at 86% with a 10px corner; the back cover's two boxes are solid white. Kain had approved the image itself: "I love how you've built that image in. It looks really, really neat."
+2. **Every workbook ships as a locked PDF whose writing spaces can be typed in.** Kain: "people can edit the space that we give them for jotting notes. But they can't ... edit the actual handbooks and put their own names or their own logos ... So they're kind of locked but they're editable ... with the links within pointing ... to the correct places." Built: `RENDER__The_Karpman_Workbook_S139.pdf` in TO Chat, printed from the render; a typeable multi-line field over every block of writing lines and a two-digit field beside each 1 to 10 score (9 fields); links live and absolute (the course page on achology.com, the membership checkout); permissions allow opening, printing, copying text and filling the fields, and nothing else (RC4-128, owner password random and not kept). **Honest limit:** PDF permissions are honoured by normal readers (Preview, Acrobat, browsers) but can be stripped by someone determined with the right tool; they stop casual editing, not a determined one.
+
+Chat: DSRD 2 section 3.4 and The Workbook Design Standard gain both (the panel as part of the cover; the PDF as the delivered format).
+
 ## For the record
 
 Section 8's "the image is chosen by a person" and "one default image" are superseded; the default is no longer needed, since the rotation always yields a number.
