@@ -99,6 +99,14 @@ Kain on the first versions (orange circles 1 to 6, and "Matches:" listing every 
 
 "See My Course Recommendations" (title case, as he gave it), replacing "See my recommended courses" in section 8. On phones the action row now stacks, the status line over a full width button, because the longer label ran the page 18 wider than a 390 screen; measured clear at 360, 390, 768, 1024 and 1440.
 
+## 13. The follow-along bar replaces the action row (0.693.1)
+
+Kain: "there's a lot of empty space in this part of the page". A first answer of four rearrangements he judged a quick response; four designed options followed (a preview of the six as round artworks, the seven schools lighting up, a bridge button on the band's edge, a follow-along bar), each critiqued and fixed first. Kain: "I like 4, the follow along bar - it's the simplest option that demands the least from a website visitor".
+
+- The hero now ends at the answers; the action row of section 8 no longer shows in the band.
+- Once a goal is ticked, a slim brand dark bar rides at the foot of the screen, 1104 wide, carrying the status line and the "See My Course Recommendations" button, and hides as soon as the courses' heading is on screen (so on a large desktop, where the courses already show, it rarely appears). On phones it carries the button alone, full width.
+- Before any tick nothing shows: the courses beneath already update the moment a goal is ticked.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
