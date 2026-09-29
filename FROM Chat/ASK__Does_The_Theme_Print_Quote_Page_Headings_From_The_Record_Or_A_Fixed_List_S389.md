@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** one read-only answer, no work. It can wait until the Courses page is finished.
 
 # ASK: does the theme print the three quote page headings from the record, or from a fixed list?

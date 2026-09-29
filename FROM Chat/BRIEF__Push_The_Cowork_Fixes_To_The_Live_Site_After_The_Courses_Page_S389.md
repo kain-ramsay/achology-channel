@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** nothing now. Start this only after you report the Courses page design final (Kain, S136: you do nothing but the Courses page until it is finished). Then push the six fixes below, read each back from the live site, and report.
 
 # BRIEF: push six sets of Cowork fixes to the live site

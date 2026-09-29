@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** nothing until the Courses page is finished and published. Then: the nine Seven Beliefs parts built as Knowledge Hub articles, and the 39 back-links pushed to live pages, each page with its DSRD 6 record. Kain ruled at S136 that no other work is proposed until the Courses page is done; this brief waits behind it and does not jump the queue.
 
 # BRIEF: build the Seven Beliefs series and push its 39 back-links

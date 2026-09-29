@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 # Population: the 39 published Knowledge Hub pages that gained a Seven Beliefs back-link at S387 (21 author biographies, 17 book notes, 1 field-authority article), and none of the other 3 records on the map: the three help answers were left untouched.
 # post_id is blank on every row: no record carries one and no install export came with the brief, so this file keys on post_name. Code fills post_id from the install by post_name before rollout.
 # One change per page: one sentence (two on three pages) inserted in the body. body_insert_after_sentence is the exact sentence it follows; on 38 rows it ends that paragraph, on emotional-intelligence-goleman it sits mid-paragraph before 'The real limit is one specific claim.'

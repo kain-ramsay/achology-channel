@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** one read-only report. No changes to any page. It can wait until the Courses page is finished.
 
 # ASK: what does the built Policies index list, and where do the policy pages need to link to each other?
