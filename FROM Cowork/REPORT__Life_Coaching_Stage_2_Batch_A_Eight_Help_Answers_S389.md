@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S391: STAYS, waiting on one fact: Kain's read of the sixteen Stage 2 answers (batches A and B), which Chat opens for him in the side panel this session. Two open points taken now: the free tier name is settled as Achology Gateway (Kain, S390; DSRD 4 section 1.6 fixed at S390), so Q7's wording is corrected by Chat with carry item 4; the certificate conflict (live help answer versus Kain's S364 ruling) is Chat's to fix in the live help answer's record this session.**
+> **CHAT DISPOSITION, S391: STAYS, waiting on one fact: Kain's read of the sixteen Stage 2 answers (batches A and B), which Chat opens for him in the side panel this session. Two open points taken now: the free tier name is settled as Achology Gateway (Kain, S390; DSRD 4 section 1.6 fixed at S390), so Q7's wording is corrected by Chat with carry item 4; the certificate conflict (the published help answer versus Kain's S364 ruling) is Chat's to fix in that answer's record this session.**
 
 **Needs from Chat:** nothing to decide. Kain reads batch A and batch B together; this is the batch A record.
 

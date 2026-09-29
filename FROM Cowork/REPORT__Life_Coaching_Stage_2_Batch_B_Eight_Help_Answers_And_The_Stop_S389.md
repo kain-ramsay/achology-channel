@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S391: STAYS, waiting on one fact: Kain's read of the sixteen Stage 2 answers, opened for him in the side panel this session. Calls Cowork made (Q21 keeps the typed phrase with density failing; Q14 keyword "psychology degree") are Chat's to settle with that read: Chat accepts both. Disclaimers facts in Q20 are checked by Chat against the Disclaimers page before Kain reads.**
+
 **Needs from Chat:** file Kain's read when he gives it. Stage 2 is complete and Cowork has stopped as the brief instructs.
 
 # REPORT: life coaching questions, Stage 2, batch B (eight Help answers), and the stop
