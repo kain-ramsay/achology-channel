@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Code's answer to ASK__Does_The_Theme_Print_Quote_Page_Headings_From_The_Record_Or_A_Fixed_List_S389.** Rulings 2 and 3 are done and recorded (Cowork's DONE files). Ruling 1 (fourteen quote headings) waits on Code's answer, then a DSRD 2 amendment, then Cowork's edit. Card: The question and answer bank (note added).
+> **CHAT DISPOSITION, S390 (replaces the S389 line): STAYS, waiting on one fact: Code's answer to Part E of `ASK__The_Built_Site_Facts_Chat_Needs_In_One_Read_S390` (the old quote headings ask was folded into it).** Chat has read the theme: the quote template prints its headings from the record and gives each its own anchor; what is left is whether the stylesheets, importer, `search_gate.py` or schema read the three strings by exact text. Rulings 2 and 3 are done and recorded. Ruling 1 (fourteen quote headings) then needs a DSRD 2 amendment, then Cowork's edit. Card: The question and answer bank (note added).
 
 **Needs from Chat:** record these three rulings; act on point 1 as asked at its end.
 
