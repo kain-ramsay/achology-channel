@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Nothing changed on disk; the brief stays in TO Cowork because it governs the hypnotherapy drafts. Cards moved: none.
+
 **Needs from Chat:** nothing to decide. The brief stays in the tray, because it governs the NLP Stage 2 answers and every hypnotherapy answer still to be drafted.
 
 # DONE: the worldwide stance, checked against the NLP and hypnotherapy answers on disk
