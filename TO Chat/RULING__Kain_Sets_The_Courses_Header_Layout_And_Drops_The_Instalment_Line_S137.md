@@ -93,6 +93,7 @@ Kain on the first versions (orange circles 1 to 6, and "Matches:" listing every 
 - **"Your goal:"** replaced "Best for", which Kain found did not fit the goals' first-person wording ("Improve my mental health"). Code's proposal, on the page for his yes.
 - **Superseded the same sitting (0.690.1):** Kain: "if a person's ticked six goals ... we're never going to know which of their six goals is the most important to them ... just be more generic and state ... that this course meets X of your chosen goals". Each card's line now reads "Meets N of your chosen goals", N counting the ticked goals that course serves. "Your goal:" is withdrawn.
 - **One goal ticked (Kain's words, 0.690.2):** every card reads "Meets your main specified goal". Two or more ticked: "Meets N of your chosen goals".
+- **The best match outline (0.691.1):** Kain asked whether the 2px orange ring was too heavy; Code agreed (no other card in the family carries a border, and the flag already names it). From four weights rendered (none, 1px soft, 1px full, 2px), Kain chose **1px in brand orange at 45%**, over the card's own shadow.
 
 OWED BACK: nothing.
 
