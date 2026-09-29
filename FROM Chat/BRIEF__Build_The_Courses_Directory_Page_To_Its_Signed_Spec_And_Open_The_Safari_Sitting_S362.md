@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S137: WAITS ON the Courses page's results head, three more tick answers, the radius pass and the page foot, in the next theme session (Kain: "pick up at this same place, immediately"); then metadata, DSRD 6, publish. Hero approved; rulings in TO Chat/RULING__Kain_Sets_The_Courses_Header_Layout_And_Drops_The_Instalment_Line_S137.md. Theme 0.698.4.**
+
 > **CODE DISPOSITION, S135: WAITS ON the course cards fitting on one line per row at /courses/ (three across leaves about 350 wide, the card needs about 380), then Kain's wording sitting. Built to Kain's new direction, draft page 38604, theme 0.669.6; see TO Chat/RULING__Kain_Sets_The_Courses_Page_Direction_S135.md.**
 
 > **CODE DISPOSITION, S134: WAITS ON a theme session with Kain live for its copy.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.

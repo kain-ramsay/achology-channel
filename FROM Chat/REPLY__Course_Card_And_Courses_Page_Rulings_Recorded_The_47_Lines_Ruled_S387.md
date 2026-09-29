@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S137: WAITS ON the Courses page closing (still in the sitting at S137); the course card export and build sheet then carry S137's card changes too (Explore This Course, best match flag and ring, the Meets line).**
+
 > **CODE DISPOSITION, S136: WAITS ON the course card prototype export and build sheet (Rule 14), and the 47 cards.css exceptions named "awaiting its own prototype: Cards + Chrome Sweep", both after Kain's Courses page sitting.**
 
 **Needs from Code:** nothing to answer; the S136 course card prototype export and build sheet stay owed (Rule 14), and the 47 lines below take the exception named.
