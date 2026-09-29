@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S391: ACTED ON AND ARCHIVED. Code's Part E answer landed (S139): nothing on the built site reads the headings by text. DSRD 2 section 3.3 carries the fourteen-page exception; Cowork is cleared by `NOTE__The_Fourteen_Quote_Headings_Are_Cleared_S391` (TO Cowork) to add the gate exception and do the fourteen. Card: The question and answer bank, unchanged.**
+
 > **CHAT DISPOSITION, S390 (replaces the S389 line): STAYS, waiting on one fact: Code's answer to Part E of `ASK__The_Built_Site_Facts_Chat_Needs_In_One_Read_S390` (the old quote headings ask was folded into it).** Chat has read the theme: the quote template prints its headings from the record and gives each its own anchor; what is left is whether the stylesheets, importer, `search_gate.py` or schema read the three strings by exact text. Rulings 2 and 3 are done and recorded. Ruling 1 (fourteen quote headings) then needs a DSRD 2 amendment, then Cowork's edit. Card: The question and answer bank (note added).
 
 **Needs from Chat:** record these three rulings; act on point 1 as asked at its end.
