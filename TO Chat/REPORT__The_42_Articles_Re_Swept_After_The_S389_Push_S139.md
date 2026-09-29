@@ -15,7 +15,7 @@
 
 - **10 of 42 carry no failing chapter:** authentic-leadership, consistency-in-leadership, meet-people-where-they-are, telling-people-what-to-do, trust-in-the-workplace, respect-is-earned-not-given, kind-without-being-a-pushover, growth-mindset-at-work, entrepreneurial-mindset, people-first-leadership. Their chapter 1 reads not run: the machine half passes, the human reader has not run.
 - **31 fail chapter 1 only:** a short form used in the article's own words before it is spelled out (DSM on most of the DSM series, AI on the AI series, BMI, NICE, NIMH, EPIC, ELIZA, SESCO, UC, NLP on what-makes-a-good-leader). Each is Cowork's at source. The record's date on these lines is the date the failure was first written (23 September); today's run confirmed each one still fails.
-- **1 fails chapters 1 and 11:** the-dsm-call-its-own-categories-porous. Chapter 1's "TRFifth" is the gate's reading, not the article: "DSM-5-TR" runs into the next word with no space when the gate reads the page (the same shape as the S133 "ThisNLP"), so it is mine to fix in page_gate. Chapter 11 is the Chrome and Firefox page height difference (170px), which waits on the tolerance DSRD 6 board job 4 sets.
+- **1 fails chapters 1 and 11:** the-dsm-call-its-own-categories-porous. Chapter 1's "TRFifth" was the gate's reading, not the article: the book cover caption sets "DSM-5-TR" and "Fifth Edition" in two spans the stylesheet displays as separate lines, and the gate ran them together. **Fixed this session in page_gate** (an inline tag the live page displays as a block now ends its line in the copy the acronym scan reads); checked on this page and on two controls (turn-a-vision-into-a-goal still fails on its real "SPARQ", authentic-leadership still passes). With the run-on gone, the page still fails chapter 1 on two things that are wording, for Chat: "TR" inside the manual's own title in the caption ("DSM-5-TR Fifth Edition, Text Revision", the expansion following the short form), and "DiMAP" introduced as "the Diploma Course in Modern Applied Psychology, DiMAP," with commas where the rule reads brackets. The record's chapter 1 line keeps its first-written wording ("TRFifth") while the chapter still fails, which is how the board tool writes a continuing fail. Chapter 11 is the Chrome and Firefox page height difference (170px), which waits on the tolerance DSRD 6 board job 4 sets.
 - **Chapter 10 on all 42:** the machine half passes; the chapter reads not run until Kain's eye.
 
 ## Per page, chapter 1 and chapter 10
@@ -65,6 +65,6 @@
 | people-first-leadership | not run  | not run  |
 | what-makes-a-good-leader | fail, 2026-09-23, [machine] 1 acronym used before being spelled out: NLP | not run  |
 
-OWED BACK: the Cowork brief for the 31; I fix the "TRFifth" reading in page_gate and re-run that one page.
+OWED BACK: the Cowork brief for the 31, and Chat's reading of the two wording questions on the-dsm-call-its-own-categories-porous. The gate fix is done.
 
 *No em or en dashes in this file; checked before writing.*

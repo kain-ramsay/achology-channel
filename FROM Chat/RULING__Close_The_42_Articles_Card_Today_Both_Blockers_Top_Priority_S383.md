@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S139: WAITS ON the 31 articles named in TO Chat/REPORT__The_42_Articles_Re_Swept_After_The_S389_Push_S139.md passing chapter 1 at source, and page_gate reading "DSM-5-TR" without the "TRFifth" run-on. Spacing fix confirmed in the gate; all 42 re-swept this session.
+> CODE DISPOSITION, S139: WAITS ON the 31 articles named in TO Chat/REPORT__The_42_Articles_Re_Swept_After_The_S389_Push_S139.md passing chapter 1 at source (the-dsm-call-its-own-categories-porous also waits on Chat's reading of "TR" and "DiMAP"). Spacing fix confirmed in the gate, the "TRFifth" run-on fixed in page_gate, all 42 re-swept this session.
 
 > **CODE DISPOSITION, S134: WAITS ON page_gate.py measuring a banded page's first row and reading ThisNLP, then the 42 re-swept.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
