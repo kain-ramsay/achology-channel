@@ -27,9 +27,9 @@ In every case the title and (but for 341) the description carry the keyword; the
 - The four instructor pages: the person's name as the page itself writes it (the Frost page may say "Jon Frost"; check against Our People and the DSRD 6 record's note on the three names that differ) in the opening line and one heading; "Gerard Egan" and "Kain Ramsay" rather than the forced "... Achology" pairs. Code does not recommend padding the two short pages.
 - Help answer 341: a natural keyword such as the question's own words ("pay for Achology courses in instalments"), placed in its opening line and description, under the help answer standard. Note its page, like 399, may meet the publish gate's help-template faults when pushed.
 
-## Not in this batch: /cards/ (10903), score 4
+## Not in this batch: /cards/ (10903), score 4, CORRECTED
 
-A leftover component review page, still published, answering 404 on the live address, with no keyword. It should come off the site; creating and deleting pages is Kain's alone, so Code only names it. Kain has been told.
+Code first called this a leftover to delete, and was wrong. It is the card sheet and the card review page (`card-review.php`, `/cards/?view=review`, Kain S279 and S060), kept on purpose behind the workbench guard (functions.php), which answers 404 to anyone not signed in: that is why it read 404. The Card and Chrome Sweep uses it. It must stay. Its score is irrelevant because the public and search engines never reach it; if the scoreboard should skip it, that is a question for you. Kain has been told not to delete it.
 
 ## What Code does with the answers
 
