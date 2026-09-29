@@ -32,6 +32,12 @@ Kain's standing rule (S136) holds: the Courses page first, and nothing else prop
 9. `COMMISSION__The_Card_And_Chrome_Sweep_S273` with `APPROVED__A_Fifth_Chrome_Sitting_The_Author_Signature_Block_S303`; `CHECKLIST__The_Book_Note_Page_Second_Safari_Look_Nine_Rulings_And_How_The_Card_Closes_S374`; `CHECKLIST__Seven_Cards_Close_To_Done_What_Closes_Each_And_The_Line_That_Marks_It_S374`; `COMMISSION__A_Safari_Sitting_On_The_Our_People_Pages_S333` (waits on Kain naming a date).
 10. Set-up jobs not tied to a page: `RULING_AND_BRIEF__Set_Up_The_Factory_Session_Timer_On_The_iMac_4_S353` and `RULING_AND_BRIEF__The_Karpman_Workbook_Is_Approved_Render_It_Into_The_Approved_Template_S353` (both older; not re-read this session; Part F of the ask covers whether they are done).
 
+## Added at S391 (Kain, at the S391 close: this week Code clears his backlog; Chat sends nothing new beyond these)
+11. `BRIEF__Six_Pages_Under_80_The_Keyword_Changes_To_Build_For_Kain_S391` (answers your S138 ask).
+12. `BRIEF__Who_Speaks_In_The_Fourteen_Testimonial_Videos_S391` (Kain's yes; already under way in your session).
+13. Small notes: `NOTE__About_Page_Share_Image_S391` (both pages' share images), `NOTE__Courses_Page_Chapters_6_To_8_What_Chat_Found_S391`, `NOTE__Policy_Pages_Five_Differences_For_Kain_On_The_Pages_S391` (for your next policy sitting with Kain).
+14. The push brief (item 2 above) gained items 9 and 10 at S391; item 10's sixteen answers are now approved by Kain.
+
 ## Files moved to Archive at S390, each with a head note saying what replaced it
 Fourteen superseded or folded files, listed in the head notes themselves. The Courses S362 brief (design finished, metadata answered) and the S278 Reviews note (superseded by the S386 Reviews brief) are dropped as finished or overtaken; the rest are folded into the three new briefs above.
 
