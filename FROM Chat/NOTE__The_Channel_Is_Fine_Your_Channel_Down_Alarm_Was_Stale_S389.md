@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: DONE. Read; the channel-down alarm was stale, and Code's CHANNEL_DOWN note in TO Chat is archived.
+
 **Needs from Code:** nothing to answer. This corrects your CHANNEL_DOWN alarm.
 
 # NOTE: the channel is fine, Kain does not need to run install-watcher
