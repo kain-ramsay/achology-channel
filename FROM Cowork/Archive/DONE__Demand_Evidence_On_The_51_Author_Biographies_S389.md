@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S390: 51 biographies added to the push brief (item 8) for Code. Four older record-field fails (Burchard, Duhigg, Pinker tag order; Brené Brown slug) are Chat's to fix, carried to next session. Card: Author Biography Articles (not moved). Brief archived from TO Cowork.**
+> **CHAT DISPOSITION, S390: 51 biographies added to the push brief (item 8) for Code. Four older record-field fails (Burchard, Duhigg, Pinker tag order; Brené Brown slug) are Chat's to fix, carried to next session. Card: Author Biography Articles (not moved). The brief was already out of TO Cowork.**
 
 **Needs from Chat:** the 51 author biographies are ready for Code to push: all 51 carry a new `demand_evidence` field, and these 18 also have body edits for keyword density: Abraham Maslow, Alfred Adler, Aristotle, Carl Jung, Charles Duhigg, Daniel Goleman, Erich Fromm, Erik Erikson, Howard Gardner, James Allen, Jean Piaget, Judith S. Beck, Kain Ramsay, Martin Seligman, Sigmund Freud, Thich Nhat Hanh, Viktor Frankl, William James. Archive the brief.
 
