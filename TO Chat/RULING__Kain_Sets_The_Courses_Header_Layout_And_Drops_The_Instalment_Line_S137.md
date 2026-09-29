@@ -158,6 +158,10 @@ Beside the title, typed as given (his comma kept): "Choose the areas of your lif
 
 Kain, on tablet: "add a little bit of space under the hairline ... to balance things out". Rendered three ways (today, A more below, B less above); Kain chose **A**: 48 below the in-hero hairline on tablet and desktop, where the answer boxes crowd the line optically, with 32 above as in section 19. Phones unchanged at 24 and 24, where the answers are light chips.
 
+## 23. An instruction under the answers (Kain's words, 0.697.0)
+
+Kain asked for a centred line in one of the smaller fonts, as an instruction, under the answers: "Select all the options that apply to you, and we’ll recommend the best courses directly below." Set as DSRD 7 5.5's hint line (Mulish 12) in the band's soft white, 24 below the answers. **Centred on his direct instruction: a recorded exception to DSRD 7 4.4a's one text line**, which says any centred block is Kain's to rule, one at a time.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
