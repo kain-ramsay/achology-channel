@@ -127,6 +127,10 @@ Kain: "have you done your best work possible on responsive ... tablet ... I know
 
 Measured at 360, 390, 430, 520, 600, 700, 768, 900, 1024 and 1440: every row of answers ends level on both sides, no answer wraps, nothing runs off the screen.
 
+## 17. The follow-along bar is the button alone (0.694.3)
+
+Kain did not recognise the bar's status line ("N goals selected. Your six best matches are ready.") as part of the agreed design; it showed only on laptop-sized screens after a tick, and Code had hidden it on phones. Removed on every screen: the bar now carries the "See My Course Recommendations" button alone, fitted to the button and centred on laptops and tablets, full width on phones. The line's words in sections 4, 8 and 15 are withdrawn.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
