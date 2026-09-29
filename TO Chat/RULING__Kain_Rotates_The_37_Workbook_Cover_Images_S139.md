@@ -23,7 +23,11 @@
 
 3. **No one-word last line, anywhere in a workbook.** Kain, on the cover description ending on "it." alone: "is there a way you can set some kind of standard? ... prevent a minimum number of characters from making their way onto and forming a new line of text." Built: the last two words of every paragraph, list item and heading are joined by a non-breaking space, and the text wraps with `text-wrap: pretty`; every render then measures the last line of every block and fails any that holds one word or fewer than 12 characters. Proved both ways this session: with the fix off the check named 6 such lines (the cover's "it." among them); with it on, 0. Kain approved the panel balance at 55%: "this is definitely the right balance ... very neat indeed."
 
-Chat: DSRD 2 section 3.4 and The Workbook Design Standard gain all three (the panel as part of the cover; the PDF as the delivered format).
+4. **The Achology Publications logo links to the homepage**, on the front and back covers: `https://achology.com/` (Kain: "link these logos through to the Achology homepage. Even though it's not been created yet"). Built and read back from the PDF: page 1 and page 9 each carry the link.
+
+**Kain's verdict on the finished workbook, S139:** "this looks absolutely phenomenal ... I'm totally happy with this workbook. I think it's very, very very good work."
+
+Chat: DSRD 2 section 3.4 and The Workbook Design Standard gain all four (the panel as part of the cover; the PDF as the delivered format).
 
 ## For the record
 
