@@ -135,6 +135,17 @@ Kain did not recognise the bar's status line ("N goals selected. Your six best m
 
 Before a tick the heading reads "Start With One of Our Popular Courses", replacing "Where Many of Our Students Begin" (section 15). The note beside it stays "Six of Our Most Popular Courses".
 
+## 19. The hero's spacing tightened (0.695.0)
+
+Kain asked for an objective look at the page's spacing ("tell me where you've got way too much spacing in this block"). Every gap measured to DSRD 7 4.3's 48, including gaps inside the hero where the rule does not bind (it governs separators between page-level blocks). On his "yes, please go ahead":
+
+- **Breadcrumb to overline:** 48 to 24 (DSRD 9 sets the sibling hub and listing heroes at 12 and 20).
+- **The in-hero hairline:** 48 above and below to 32 (24 on phones); section 6's 48 is superseded for this line, which sits inside one block.
+- **Answer boxes:** 58 to 42 tall at every width (padding 8), matching phones.
+- Unchanged, because the rule binds them: the band's own 48 top and foot, 48 between the band and the courses, the "Browse all 28 courses" separator, and the course card's own spacing.
+
+At 1440 the band is 480 tall (600 before) and the first course card starts at 659 (779 before).
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
