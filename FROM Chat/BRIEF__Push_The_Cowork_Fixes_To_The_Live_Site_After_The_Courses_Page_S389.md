@@ -1,3 +1,5 @@
+> CHAT UPDATE, S392: item 11 added (eleven counselling help answers and eleven life coaching articles, all approved by Kain directly with Cowork). Your S139 session report corrects the help import route: it exists (WP All Import, saved help import id 3), so items 1, 5, 7 help, 9, 10 and 11 help no longer wait on a route. This is routing into this brief, not a new job; it runs in its turn in your queue, after the article backlog, as Kain directs.
+
 > CODE DISPOSITION, S139: WAITS ON a help-answer import route existing (items 1, 5, 7 help, 9, 10), the 21 question records passing stage 5, and a publish clearance for the quote page (6a). Items 2, 3, 4, 6 and 8 pushed, 659 of 659 matching, scores read: TO Chat/REPORT__The_S389_Cowork_Push_S139.md.
 
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
@@ -54,6 +56,16 @@ Two help answers now say Achology Gateway for the free tier (Kain, S390): `HELP_
 ## 10. Sixteen life coaching help answers (Cowork Stage 2, S389): APPROVED, push them
 
 **Updated S391 at close:** Kain approved all sixteen directly with Cowork (`RULING__Kain_Approved_The_Sixteen_Life_Coaching_Stage_2_Answers_S389`, FROM Cowork), so no Safari read is needed; push them. The rest of this item stands as the S391 record. Kain rules copy only with the page open (S390), so these are read on the build site, not in chat. Push the sixteen `HELP__` records listed in Cowork's two Stage 2 reports (batch A and batch B, in FROM Cowork) and show them to Kain in Safari. Q21 (`will-life-coaches-be-replaced-by-ai`) fails keyword density at 2.27% by Cowork's choice to keep the phrase people type; Chat accepts that, so push it. Before Kain reads Q20 (`can-a-life-coach-help-with-anxiety`), read the published Disclaimers page and check its when-to-get-help section says nothing the Disclaimers page does not; there is no Disclaimers record in Content Records for Chat to check it against. Write Kain's read into a RULING for Chat; Cowork's Stage 3 starts on it.
+
+## 11. Eleven counselling help answers and eleven life coaching articles (Cowork, S389): APPROVED, push them (added S392)
+
+Kain read every one in the side panel and approved them directly with Cowork; the RULING files are in FROM Cowork. No Safari read is needed before the push.
+
+**Eleven counselling help answers**, in Content Records `help-answer`, home course 014. Stage 1 (`RULING__Kain_Approved_The_Five_Counselling_Stage_1_Answers_S389`): how-to-become-a-counsellor, counsellor-without-a-degree, counselling-qualification-levels, are-counsellors-in-demand, counselling-courses-online. Stage 2 (`RULING__Kain_Approved_The_Six_Counselling_Stage_2_Answers_S389`): counselling-or-psychology, are-counsellors-regulated, will-counsellors-be-replaced-by-ai, best-counselling-courses, cheap-counselling-courses, counselling-placements. All eleven print GATE PASS at source. Push, read back from the build site, re-score.
+
+**Eleven life coaching articles**, in Content Records `hub-question-article`, bylined Evelyn Montgomery, at `/learn/helping-people/articles/{slug}/`. First five (`RULING__Kain_Approved_The_First_Five_Life_Coaching_Articles_S389`): what-does-a-life-coach-do, life-coach-vs-therapist, life-coaching-vs-mentoring, does-life-coaching-work, why-life-coaching-is-bad. Six more (`RULING__Kain_Approved_Six_Life_Coaching_Articles_And_Held_The_History_Article_S389`): life-coach-yourself, who-is-life-coaching-for, life-coaching-models, life-coaching-questions, best-life-coaching-books, should-i-be-a-life-coach. Import as drafts on the build site with their scores, as item 7 does. `featured_image` is named but not supplied: import without it and list the eleven for Kain. **Do not import `HELD__where-did-life-coaching-come-from.md`**: Kain held it so its facts go into the existing history article.
+
+**Your S139 list of 14 help answers "needing their approval checked":** the eleven counselling answers above are approved. Any other help record in that 14 that no item of this brief names is not approved: leave it and list it in your report.
 
 ## Also owed, already flagged at S354
 
