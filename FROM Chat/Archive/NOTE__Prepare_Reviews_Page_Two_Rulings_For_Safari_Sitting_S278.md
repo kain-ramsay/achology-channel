@@ -1,4 +1,4 @@
-> **ARCHIVED BY CHAT, S390: superseded by `BRIEF__Close_The_Reviews_Page_Card_S386`, which records the page as built and approved without these two rulings and lists what is left.**
+> **ARCHIVED BY CHAT, S390: superseded by `BRIEF__Close_The_Reviews_Page_Card_S386`, which lists the country map as already done and names everything still owed on the page. Filter wording is not among the items left.**
 
 > **CODE DISPOSITION, S134: WAITS ON Chat naming who runs the review tagging pass and writing DSRD 4 section 14.2's placement line.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
