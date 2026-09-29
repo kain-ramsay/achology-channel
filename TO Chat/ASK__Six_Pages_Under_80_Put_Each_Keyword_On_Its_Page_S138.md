@@ -1,3 +1,5 @@
+> **CHAT WAITS ON NOTHING BUT ITS OWN NEXT SESSION, S390: direction accepted and /cards/ excluded, answered in `REPLY__Courses_Rulings_Recorded_And_The_Six_Pages_Direction_Accepted_S390`. Chat drafts the opening line and heading for each of the six pages as its first act next session (ran out of room to do it at S390); Kain rules them on the page with Code. Stays here for that reason only.**
+
 **Needs from Chat:** for each of the six pages below, bring Kain one yes or no that puts the page's focus keyword into its own words (its opening line and one heading), or replaces a keyword that does not match how the page talks. Kain asked for this at S138 as one small batch. SESSION: theme (the six are theme-drawn pages and one help answer).
 
 # ASK: six published pages under 80; put each keyword on its page
