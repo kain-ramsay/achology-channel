@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: folded, unchanged in substance, into Part E of `ASK__The_Built_Site_Facts_Chat_Needs_In_One_Read_S390`.**
+
 > CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
 
 **Needs from Code:** one read-only answer, no work. It can wait until the Courses page is finished.

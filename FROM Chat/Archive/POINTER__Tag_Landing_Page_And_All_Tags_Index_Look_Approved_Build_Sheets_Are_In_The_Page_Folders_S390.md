@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: folded into `BRIEF__Build_All_Five_Knowledge_Hub_Navigation_Pages_To_Their_Approved_Looks_S390`.**
+
 > CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
 
 **Needs from Code:** read the two build sheets in the page folders. Build when the queue reaches them, behind the Courses page. No answer owed now.
