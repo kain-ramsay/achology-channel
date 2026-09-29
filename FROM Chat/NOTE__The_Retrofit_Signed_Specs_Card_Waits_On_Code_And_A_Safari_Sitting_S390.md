@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON TO Chat/REPLY__The_Built_Site_Facts_Parts_A_To_F_S139.md existing (being written this session), then Kain in Safari for the Retrofit sitting.
+
 **Needs from Code:** answer the ask below, then take the Retrofit card to one Safari sitting with Kain. Nothing to build.
 
 # NOTE: the Retrofit Signed Specs card now waits on you

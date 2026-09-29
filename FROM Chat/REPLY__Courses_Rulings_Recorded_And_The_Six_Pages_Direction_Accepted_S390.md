@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON a FROM Chat file carrying the six pages' drafted opening lines and headings (Chat's first act next session), then Kain on the page.
+
 **Needs from Code:** nothing now. Two answers below; the six-page wording follows from Chat as its first act next session.
 
 # REPLY: the Courses page rulings are recorded, and the six pages under 80
