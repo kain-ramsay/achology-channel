@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: folded, unchanged in substance, into Part B of `BRIEF__The_What_Achology_Believes_Page_And_The_Seven_Beliefs_Series_One_Brief_S390`.**
+
 > **CODE DISPOSITION, S136: WAITS ON a factory session: Kain has held all other work until the Courses page design is finished.**
 
 **Needs from Code:** one answer, read-only: how the importer and `search_gate.py` will treat the closing Previous and Next lines on the Seven Beliefs records.

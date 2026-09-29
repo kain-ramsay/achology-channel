@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: folded into Part A of `BRIEF__The_What_Achology_Believes_Page_And_The_Seven_Beliefs_Series_One_Brief_S390` (the links table is carried over in full).**
+
 > **CODE DISPOSITION, S136: WAITS ON the What Achology Believes build, which Kain has held behind finishing the Courses page.**
 
 **Needs from Code:** add the links below to the What Achology Believes page, as an addendum to `BRIEF_AND_SPEC__Build_The_What_Achology_Believes_Page_S386`, switched on when the Seven Beliefs series is published.
