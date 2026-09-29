@@ -51,3 +51,5 @@ OWED BACK: one heading option for Kain's yes or no, or your view that 75 stands 
 - The UKRLP line is centred under the card, the shield before it, so the page closes as it opens on its centred instruction line (Kain: yes).
 
 The stored score will move when Kain next rescores; Code reads it then.
+
+**Rescored after both changes: 86**, read from the install and written to Code's score table (S138).
