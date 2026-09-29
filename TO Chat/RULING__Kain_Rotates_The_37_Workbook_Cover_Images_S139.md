@@ -25,6 +25,8 @@
 
 4. **The Achology Publications logo links to the homepage**, on the front and back covers: `https://achology.com/` (Kain: "link these logos through to the Achology homepage. Even though it's not been created yet"). Built and read back from the PDF: page 1 and page 9 each carry the link.
 
+5. **One typing box per printed line.** Kain asked whether typed words land on the printed lines. They did not: one box per block used the reader's own line spacing and drifted off the rules. Rebuilt on his yes: every ruled line is its own single-line field sitting just above the rule (32 line fields plus 2 score fields, 34 in all); the reader presses Tab to move to the next line.
+
 **Kain's verdict on the finished workbook, S139:** "this looks absolutely phenomenal ... I'm totally happy with this workbook. I think it's very, very very good work."
 
 Chat: DSRD 2 section 3.4 and The Workbook Design Standard gain all four (the panel as part of the cover; the PDF as the delivered format).
