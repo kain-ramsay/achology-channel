@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S140: DONE. Read; nothing to build, the 39 sentences stay live as Kain ruled, and Kain's S140 answer to Code agreed the nine articles are the way forward.
+
 **Needs from Code:** nothing. Kain's ruling, S392: the 39 Seven Beliefs back-link sentences stay where they are.
 
 # NOTE: the 39 Seven Beliefs back-links stay
