@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S140: WAITS ON the article field's demand-question choice reaching the install and the question articles being imported as drafts; read this session.
+> CODE DISPOSITION, S140: WAITS ON the book notes still owed (the gap between 150 live and the records on disk that print GATE PASS); the choice list, 30 question articles and 44 help answers are done and read back.
 
 **Needs from Code:** nothing to answer. Kain's confirmation, S392: everything listed under "Cleared" is approved and ready, so import it now, in your article backlog turn, before template work.
 
