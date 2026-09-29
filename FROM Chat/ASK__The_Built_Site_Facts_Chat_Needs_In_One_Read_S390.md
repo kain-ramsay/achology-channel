@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** one read-only REPLY in TO Chat answering Parts A to F below. No building, no changes to any page. It can wait until the Courses page is finished.
 
 # ASK: the built site facts Chat needs, in one read

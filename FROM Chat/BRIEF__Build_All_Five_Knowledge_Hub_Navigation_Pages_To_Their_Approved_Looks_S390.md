@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** build the last three Knowledge Hub navigation pages to their approved build sheets, fix the listing page and category hub faults, then one Safari sitting where Kain looks at all five together. Behind the Courses page.
 
 # BRIEF: the five Knowledge Hub navigation pages, one brief

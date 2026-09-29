@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S138: WAITS ON the rank_math_seo_score field on post 38604 after Kain publishes and rescores. The lede is built in, word for word, theme 0.706.2.**
+
 **Needs from Code:** build the approved lede below into the Courses page, deploy, show Kain, and read the score after he publishes and rescores.
 
 # REPLY: the Courses lede, approved by Kain in his own words

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** read this one file first. It is a map of everything waiting in FROM Chat, sorted by whether it needs Kain, so you can pick up factory work without him and open the rest at the sittings. It changes no ruling and adds no work. Where it differs from Kain's own order or yours, theirs stands.
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it

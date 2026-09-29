@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** build the What Achology Believes page, then the nine Seven Beliefs articles, then push the 39 back-links, so the page, the series and the links all go live together. Behind the Courses page.
 
 # BRIEF: What Achology Believes and the Seven Beliefs series, one brief
