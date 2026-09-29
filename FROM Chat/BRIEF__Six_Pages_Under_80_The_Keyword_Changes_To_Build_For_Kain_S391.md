@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON a theme session with Kain in Safari (template and people-setup edits, his words ruled on the page); not started in this factory session, per his S139 standing go.
+
 **Needs from Code:** build these six changes on the build site, show each page to Kain in Safari, and let him rule the words there. Answers `ASK__Six_Pages_Under_80_Put_Each_Keyword_On_Its_Page_S138`. After his rescore, read each stored score into the score table and each page's DSRD 6 record.
 
 # BRIEF: the six pages under 80, what to change on each
