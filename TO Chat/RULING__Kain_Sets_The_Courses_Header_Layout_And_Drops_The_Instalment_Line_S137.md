@@ -111,6 +111,10 @@ Kain: "there's a lot of empty space in this part of the page". A first answer of
 
 Beside "Your six best matches", after a tick: "Best Match Recommended First · Clear", replacing "Closest match first · Clear".
 
+## 15. The two results headings (Kain's words, 0.693.3)
+
+Before a tick: "Where Many of Our Students Begin" (was "Where most students start"). After a tick: "Courses Best Aligned With Your Goals" (was "Your six best matches"). The bar's status line after a tick still reads "N goals selected. Your six best matches are ready." (section 8's words), unchanged.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
