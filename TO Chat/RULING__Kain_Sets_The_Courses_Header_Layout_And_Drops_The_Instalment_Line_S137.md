@@ -154,6 +154,10 @@ Kain: "bake some sort of image into the background here that can just show a per
 
 Beside the title, typed as given (his comma kept): "Choose the areas of your life, or career you want to understand better or improve, and we’ll point you towards the most relevant courses." It replaces section 9's line. The answers' screen reader legend follows it: "Choose the areas of your life, or career you want to understand better or improve." Two lines at desktop, four on a phone.
 
+## 22. More room under the hairline (0.696.5)
+
+Kain, on tablet: "add a little bit of space under the hairline ... to balance things out". Rendered three ways (today, A more below, B less above); Kain chose **A**: 48 below the in-hero hairline on tablet and desktop, where the answer boxes crowd the line optically, with 32 above as in section 19. Phones unchanged at 24 and 24, where the answers are light chips.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
