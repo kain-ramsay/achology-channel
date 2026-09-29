@@ -148,7 +148,11 @@ At 1440 the band is 480 tall (600 before) and the first course card starts at 65
 
 ## 20. A person studying behind the hero (0.696.3, on the page for Kain's eye)
 
-Kain: "bake some sort of image into the background here that can just show a person studying an online course ... make the page just feel a little bit more personal". The site already holds one in his own long-exposure Canva style: `images/about/grid-courses.webp` (the About page's courses tile, 900 by 506). On his "yes, go ahead": it sits behind the band's right side at 22% on the brand dark, fading in from the left through a mask so it has no edge; below 1024 it is a 12% texture across the band. The lede moves from 78% to 92% white so every word over the picture keeps AA contrast (worst case, a white pixel in the photo, 4.9:1). No stock image was downloaded and none was generated: photographs on this site are produced in Kain's Canva style, and a larger master from him is the route if the 900 file reads soft. The band's background treatment is Kain's call on this render; DSRD 9's Courses spec does not yet carry it.
+Kain: "bake some sort of image into the background here that can just show a person studying an online course ... make the page just feel a little bit more personal". The site already holds one in his own long-exposure Canva style: `images/about/grid-courses.webp` (the About page's courses tile, 900 by 506). On his "yes, go ahead": it sits behind the band's right side at 22% on the brand dark, fading in from the left through a mask so it has no edge; below 1024 it is a 12% texture across the band. The lede moves from 78% to 92% white so every word over the picture keeps AA contrast (worst case, a white pixel in the photo, 4.9:1). No stock image was downloaded and none was generated: photographs on this site are produced in Kain's Canva style, and a larger master from him is the route if the 900 file reads soft. The band's background treatment is Kain's call on this render; DSRD 9's Courses spec does not yet carry it. **Kain: "yes, i like it, keep it."**
+
+## 21. The hero line (Kain's words, 0.696.4)
+
+Beside the title, typed as given (his comma kept): "Choose the areas of your life, or career you want to understand better or improve, and we’ll point you towards the most relevant courses." It replaces section 9's line. The answers' screen reader legend follows it: "Choose the areas of your life, or career you want to understand better or improve." Two lines at desktop, four on a phone.
 
 OWED BACK: nothing.
 
