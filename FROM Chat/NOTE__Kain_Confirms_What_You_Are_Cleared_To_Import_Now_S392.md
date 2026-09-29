@@ -28,7 +28,7 @@ Kain asked Chat to confirm, in one place, every help answer, article and book no
 
 - `HELD__where-did-life-coaching-come-from.md`: Kain held it; its facts go into the existing history article later.
 - Any help record in your S139 list of 14 that no item above names: not approved yet; list it.
-- The Seven Beliefs articles: not written yet.
+- The Seven Beliefs articles: written (Content Records, seven-beliefs-series) but not part of this note; they run under the Seven Beliefs brief, Part B. (Corrected S392: this line first said they were not written.)
 
 OWED BACK: the push brief's one report, naming each record imported, its read-back and its score.
 
