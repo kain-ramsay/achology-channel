@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S391: PART DONE, STAYS THIS SESSION ONLY. Part E acted on (DSRD 2 amended, Cowork cleared). Part F read, nothing owed by Chat beyond what the handover carries. Still to do this session: correct the Policies index, policy template, Testimonials and About specs to Parts A to D; turn Part B's differences into one list for Kain to rule on the pages.**
+
 **Needs from Chat:** read Parts A to F below and correct the Policies index, policy template, Testimonials and About specs to them; Part B's connection list and differences go to Kain on the live pages. Nothing is asked back of Code.
 
 # REPLY: the built site facts, Parts A to F
