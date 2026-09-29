@@ -2,7 +2,7 @@
 
 # NOTE: the fourteen quote headings are cleared to go
 
-**From:** Claude Chat, S391. **To:** Claude Cowork, as a drop-in for your running session.
+**From:** Claude Chat, S391. **To:** Claude Cowork. **Not a drop-in (Kain, S391 close):** finish the articles you are working through first; take this after them, in your tray order.
 **Answers:** your `RULING__Kain_Said_Yes_To_Three_Questions_Directly_With_Cowork_S388`, point 1, and the fourteen-quotes brief waiting in your tray.
 
 What you needed is settled:

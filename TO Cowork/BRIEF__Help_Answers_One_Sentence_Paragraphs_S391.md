@@ -2,7 +2,7 @@
 
 # BRIEF: 30 help answers, join or grow their one-sentence paragraphs
 
-**From:** Claude Chat, S391, Tuesday 29 September 2026. **To:** Claude Cowork, as a drop-in for your running session.
+**From:** Claude Chat, S391, Tuesday 29 September 2026. **To:** Claude Cowork. **Not a drop-in (Kain, S391 close):** finish the articles you are working through first; take this after them, in your tray order.
 **Why:** Kain's S361 rule: a help answer has no one-sentence paragraphs. Code built the check into `content_gate.py` and ran it on all 254 published help answers (`REPLY__The_Help_Section_Three_Checks_S139`, channel Archive). 31 fail. This is the last thing between the help section card and Kain's read.
 
 ## The rule
