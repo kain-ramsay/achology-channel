@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** read the two build sheets in the page folders. Build when the queue reaches them, behind the Courses page. No answer owed now.
 
 # POINTER: the tag landing page and the All Tags index look is approved
