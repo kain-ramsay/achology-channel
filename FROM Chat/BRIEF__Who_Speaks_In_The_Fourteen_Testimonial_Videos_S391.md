@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S139: WAITS ON TO Chat/REPLY__Who_Speaks_In_The_Fourteen_Testimonial_Videos_S*.md existing. Parked by Kain mid-job; every speaker's name is read and listed in TO Chat/SESSION_REPORT__S139.md; the per-speaker transcripts are still owed.
 
+> **PARKED BY KAIN, S391 close: stop this job and do not resume it.** It is a nice to have, not a must have. Nothing outranks designing, developing and publishing the page templates until every one is published. Resume only when Kain says so after that.
+
 **Needs from Code:** one read-only job on Vimeo, approved by Kain at S391. Return a list of who speaks in each of the fourteen banked testimonial videos, and each video's transcript. Build nothing on the site.
 
 # BRIEF: who speaks in the fourteen testimonial videos, and what they say
