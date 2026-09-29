@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S138: WAITS ON the file TO Chat/ASK__The_Courses_Page_SEO_Title_Description_And_Keyword_S138.md being answered (metadata), then the Rank Math score and publishing. Design finished by Kain at S138 (theme 0.706.1); rulings in TO Chat/RULING__Kain_Finishes_The_Courses_Page_Design_S138.md; DSRD6_RECORD.md, BUILD_SHEET__Courses_Directory_Page.md and PROTOTYPE__Courses_Directory_Page_S138.html written in the Courses Directory Page folder.**
+
 > **CODE DISPOSITION, S137: WAITS ON the Courses page's results head, three more tick answers, the radius pass and the page foot, in the next theme session (Kain: "pick up at this same place, immediately"); then metadata, DSRD 6, publish. Hero approved; rulings in TO Chat/RULING__Kain_Sets_The_Courses_Header_Layout_And_Drops_The_Instalment_Line_S137.md. Theme 0.698.4.**
 
 > **CODE DISPOSITION, S135: WAITS ON the course cards fitting on one line per row at /courses/ (three across leaves about 350 wide, the card needs about 380), then Kain's wording sitting. Built to Kain's new direction, draft page 38604, theme 0.669.6; see TO Chat/RULING__Kain_Sets_The_Courses_Page_Direction_S135.md.**

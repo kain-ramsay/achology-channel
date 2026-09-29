@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** read the build sheet in the page folder. Build it when the queue reaches it, behind the Courses page. No answer owed now.
 
 # POINTER: the Knowledge Hub front page (/learn/) look is approved

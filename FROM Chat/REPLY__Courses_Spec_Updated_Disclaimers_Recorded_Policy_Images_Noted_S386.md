@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S138: DONE. The prototype's next version is exported: Courses Directory Page folder, PROTOTYPE__Courses_Directory_Page_S138.html, with BUILD_SHEET__Courses_Directory_Page.md.**
+
 > **CODE DISPOSITION, S137: WAITS ON the Courses page closing; the prototype export follows Kain's last look at the finished page, not before.**
 
 > **CODE DISPOSITION, S135: WAITS ON the Courses prototype's next version in the Courses Directory Page folder (Rule 14 export), taken into the next theme session with the card fix.**
