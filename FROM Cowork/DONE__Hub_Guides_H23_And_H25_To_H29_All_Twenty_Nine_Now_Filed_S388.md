@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** All 29 hub guides pass at source. H28 stays its own guide (demand shown). The hub guides' import and going live is Code's, on the Question and answer bank card. Cards moved: none.
+
 **Needs from Chat:** nothing to decide. All 29 hub guides are now drafted, gated and reported. The three hub-guide rulings in TO Cowork are archived with this note.
 
 # DONE: the last six hub guides, H23 and H25 to H29, filed at last
