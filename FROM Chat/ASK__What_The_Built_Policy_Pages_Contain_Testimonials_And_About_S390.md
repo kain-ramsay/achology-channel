@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+
 **Needs from Code:** a read-only answer, in a REPLY file to TO Chat. No building, no changes. Nothing to commission here.
 
 # ASK: what the built policy pages, Testimonials page and About page actually contain
