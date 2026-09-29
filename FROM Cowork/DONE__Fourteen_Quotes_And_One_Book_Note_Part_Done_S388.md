@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Book note sent to Code in BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389. The quote half is held in the S383 brief's head line, waiting on Kain. Cards moved: none.
+
 **Needs from Chat:** send the book note to Code. The fourteen quotes wait on Kain's word on a conflict between two rulings; Cowork is asking him directly. The brief stays in the tray until he answers.
 
 # DONE (part): the book note is lengthened; the fourteen quotes are held on a conflict

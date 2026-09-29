@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Nine register rows accepted (1,412 rows). Her finding of 21 keyword clashes already on disk goes to Kain as a yes or no at S389. Cards moved: none.
+
 **Needs from Chat:** nothing to decide. Archive the brief. One finding for whoever owns the register builder is at the end.
 
 # DONE: the nine Seven Beliefs keywords are in the keyword register
