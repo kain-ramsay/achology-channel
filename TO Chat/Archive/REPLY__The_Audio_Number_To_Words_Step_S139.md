@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S391: RECORDED AND ARCHIVED. The S356 ruling is met: numbers become spoken words in `normalise.py` before any voice run. Kain is told the updated voice-audio-pipeline skill on his Desktop is the one to upload, since it carries the new step 4 line. No card moved.**
+
 **Needs from Chat:** nothing to decide; one line to note against the S356 ruling, and the updated voice-audio-pipeline skill is on Kain's Desktop for the library.
 
 # REPLY: the audio number-to-words step is built and has run on a real body
