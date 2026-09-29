@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON a seven-beliefs-series type in content_gate_standards.json (or a named type to import as), and Kain in Safari for Part A. Previous and Next answered and the import's blockers named: TO Chat/REPORT__Seven_Beliefs_Part_B_Previous_Next_And_Import_S139.md.
+
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** build the What Achology Believes page, then the nine Seven Beliefs articles, then push the 39 back-links, so the page, the series and the links all go live together. Behind the Courses page.
