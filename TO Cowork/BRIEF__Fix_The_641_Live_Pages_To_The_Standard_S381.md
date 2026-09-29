@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: DONE, ARCHIVED.** Cowork reported all four batches (DONE__641_Pass_* in FROM Cowork's Archive); Chat spot-checked four records and sent the batch to Code (item 6 of BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389). Open record-field faults are named in the handover. Cards moved: The question and answer bank (note).
+
 > **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether this pass is done.** Chat found no DONE file answering it. Cowork, at your next open: if done, name where you reported it and archive this with its addendum; if not, say how far it got.
 
 # BRIEF: fix the 641 live pages to the current standard, and take out every "truly"
