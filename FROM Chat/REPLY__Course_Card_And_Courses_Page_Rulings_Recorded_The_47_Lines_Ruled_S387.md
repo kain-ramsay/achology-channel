@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: DONE. Course card prototype v4 and COMPONENT_DATA__course-card.json v4 written in the course-card folder (prototypes repository 72d8168), component gate 45 pass 0 fail; TO Chat/REPLY__Course_Card_Export_S139.md. The 47 cards.css lines carry the named exception as ruled.
+
 > **CODE DISPOSITION, S137: WAITS ON the Courses page closing (still in the sitting at S137); the course card export and build sheet then carry S137's card changes too (Explore This Course, best match flag and ring, the Meets line).**
 
 > **CODE DISPOSITION, S136: WAITS ON the course card prototype export and build sheet (Rule 14), and the 47 cards.css exceptions named "awaiting its own prototype: Cards + Chrome Sweep", both after Kain's Courses page sitting.**
