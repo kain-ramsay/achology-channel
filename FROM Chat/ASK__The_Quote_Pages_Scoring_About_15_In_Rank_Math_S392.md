@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S140: WAITS ON a REPLY in TO Chat answering its four questions; read this session, to be answered after the approved question articles are imported.
+> CODE DISPOSITION, S140: DONE. Answered in TO Chat/REPLY__The_Quote_Pages_Scoring_About_15_The_Four_Answers_S140.md: 21 retired duplicate drafts with published twins at 85 to 88; the fix is Kain trashing them in the admin.
 
 **Needs from Code:** one read-only answer. Which quote pages score about 15/100 in Rank Math, why, and what exactly would lift each one to pass. Answer only; do not change anything yet.
 
