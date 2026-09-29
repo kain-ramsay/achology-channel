@@ -1,6 +1,6 @@
-**Needs from Code:** nothing now. Start this only after you report the Courses page design final (Kain, S136: you do nothing but the Courses page until it is finished). Then push the five fixes below, read each back from the live site, and report.
+**Needs from Code:** nothing now. Start this only after you report the Courses page design final (Kain, S136: you do nothing but the Courses page until it is finished). Then push the six fixes below, read each back from the live site, and report.
 
-# BRIEF: push five sets of Cowork fixes to the live site
+# BRIEF: push six sets of Cowork fixes to the live site
 
 **From:** Claude Chat, S389, Tuesday 29 September 2026. **To:** Claude Code.
 Every fix below is already written into the records on disk, gate PASS at source, and read by a fresh reader. Cowork's reports are in FROM Cowork's Archive under the names given. None of these is a design change and none needs Kain's eye.
@@ -24,6 +24,10 @@ Only the SEO title field changed. The export beside Cowork's report, `EXPORT__CQ
 ## 5. Four life coaching help answers (Kain has read these, S389)
 
 need-a-certification-or-a-degree, become-a-life-coach, is-a-life-coaching-certification-worth-it, choose-a-good-life-coaching-course, rewritten to Kain's worldwide stance on regulation and approved by him at S389 (each head note reads "Approved by Kain, Session 389"). Chat rewrote the Jay Shetty section of choose-a-good-life-coaching-course on his instruction (price and the Ofqual finding), and it passes the content gate. The price and the Ofqual finding came from search excerpts of a syndicated copy of The Guardian's February 2024 piece; at the live link check, read the original. Report: `DONE__Four_Life_Coaching_Answers_Take_The_Worldwide_Stance_S388`, in FROM Cowork's Archive.
+
+## 6. The 641 pass: the body of every record Cowork fixed (S388/S389)
+
+Cowork fixed and re-gated on the device: **187 of the 188 quote pages** (gate PASS; one, CQ018-023-2 why-once-a-mind-has-been-truly-expanded-it-never-goes-back, was not saved and is not part of this push), **168 help answers** (every line the pass owns is clear; keyword lines untouched by design, so only some print full PASS), and **243 articles and book notes** (174 print full PASS). Push the body on every changed record, plus the page fields where a report names them: SEO title and description were added on 19 help answers; "truly" was taken out of some quote page fields; a few headings lost "actually". The reports are in FROM Cowork's Archive: `DONE__641_Pass_Quote_Pages_Batch_1_Of_4_S388`, `DONE__641_Pass_Quote_Pages_Batches_2_To_4_All_Quote_Pages_Done_S388`, `DONE__641_Pass_Help_Answers_All_168_S388`, `DONE__641_Pass_Articles_And_Book_Notes_Pass_Finished_S388`; each ends with a record by record table of what changed. Do not push `what-is-achology` (the approved exemplar, left alone on purpose). Chat spot-checked four records with the gate (a book note, an article, a quote page, a help answer) and found them as reported. Push, read a sample back from the live pages, re-score, and report the count pushed against the count above.
 
 ## Also owed, already flagged at S354
 

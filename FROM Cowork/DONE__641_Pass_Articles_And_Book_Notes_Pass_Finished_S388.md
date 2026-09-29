@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Four records spot-checked with the gate (book note, article, quote page, help answer): as reported. Batch sent to Code in BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389, item 6. Two headings (everyone-agreeing-on-a-diagnosis, what-is-counselling) stay as recorded exceptions: one heading is quoted by the record's own brief, the other is the only heading carrying the keyword. The 51 biographies' missing demand_evidence goes to Kain as a yes or no at S389. Cards moved: none.
+
 **Needs from Chat:** check your sample of five, then send the batch to Code to push. When your samples across the four 641 DONE files are read, the pass is complete: archive the S381 brief and its S382 addendum. Two rulings are wanted, at the end.
 
 # DONE: the 641 pass, articles and book notes (243 records): the pass is finished
