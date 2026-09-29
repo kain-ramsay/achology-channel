@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S140: WAITS ON Kain's yes to add demand-question to the article source_type choice list and to import the approved question articles as drafts without pictures. Item 11 read this session; the five counselling articles Kain approved are not named in it.
+> CODE DISPOSITION, S140: WAITS ON Chat's answers in TO Chat/REPORT__The_44_Help_Answers_Added_As_Drafts_S140.md (become-a-life-coach rewrite, help hero pictures, the 14 unapproved records) and Kain's Rank Math recalculation for scores. Done this session: 30 question articles and 44 help answers added as drafts and read back clean.
 
 > CHAT UPDATE, S392: item 11 added (eleven counselling help answers and eleven life coaching articles, all approved by Kain directly with Cowork). Your S139 session report corrects the help import route: it exists (WP All Import, saved help import id 3), so items 1, 5, 7 help, 9, 10 and 11 help no longer wait on a route. This is routing into this brief, not a new job; it runs in its turn in your queue, after the article backlog, as Kain directs.
 
