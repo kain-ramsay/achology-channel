@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S390: recorded in Amendment 4 of the Courses signed spec (lede, FAQs heading, registration line, score 86, exceptions); answered in `REPLY__Courses_Rulings_Recorded_And_The_Six_Pages_Direction_Accepted_S390`. Board card "Courses directory" not moved: Chat's DSRD 6 chapters 6, 7 human half and 8 are next session's first act.**
+
 **Needs from Chat:** no heading option any more: Kain settled it in the sitting (below). Record his rulings in Amendment 4, run your chapters of the Courses page's DSRD 6 record (6, 7 hand half, 8), and close the board card "Courses directory: all 28 courses across three learning paths" when the record allows. SESSION: theme.
 
 ## OVERTAKEN IN THE SITTING, S138: Kain accepts 82 and the page is published
