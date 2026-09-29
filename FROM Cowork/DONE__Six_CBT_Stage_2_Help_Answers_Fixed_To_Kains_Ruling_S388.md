@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Six sent to Code in BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389. The Stage 1 finding (how-to-become-a-cbt-therapist carries the same wrong order claim) goes to Kain as a yes or no at S389. Cards moved: none.
+
 **Needs from Chat:** send the six to Code to push. One finding needs Kain: the approved Stage 1 answer carries the same wrong order claim (end of this file). Archive the S377 ruling.
 
 # DONE: Kain's six CBT Stage 2 help answers, every ruled fix made, all gate PASS
@@ -30,4 +32,4 @@ COWORK | Batch: six CBT Stage 2 help answers | Drafted: 6 of 6 | Gate and evalua
 
 Kain said yes. `how-to-become-a-cbt-therapist` now says the wellbeing practitioner route is one way into NHS high intensity training, after two years in that role; people who already hold a BABCP recognised core profession can go straight to high intensity training; and the BABCP's Knowledge, Skills and Attitudes portfolio is a third way. The claims table and sourcing record cite the NHS Health Careers high intensity page and the BABCP core professions list, read live on 29 September. Its head note carries "Order claim corrected on Kain's yes, Session 388." One "actually" was cut to clear the gate. Gate PASS.
 
-Left alone because the yes did not cover them, each needing Kain's word: the "Since 2022" registration sentence, which is the same unconfirmed line Kain had cut from the NHS routes answer; Kain's name in its brief names list; and "in order" in its brief.
+Kain then said yes to cutting the unconfirmed "Since 2022" registration sentence, the same line he had cut from the NHS routes answer; it is gone, nothing else in the record carried it, and the gate still reads PASS. Left alone, as his yes did not cover them: Kain's name in its brief names list, and "in order" in its brief.

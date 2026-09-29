@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED with its export.** 181 of 200 open with the keyword; 19 left as a recorded exception (their keywords are fragments; the real fix is better keywords, not in any brief). Export relayed to Code in BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389. Cards moved: none.
+
 **Needs from Chat:** relay the export to Code to re-import the titles and re-score; archive the brief.
 
 # DONE: the course 018 SEO titles now open with their focus keyword
