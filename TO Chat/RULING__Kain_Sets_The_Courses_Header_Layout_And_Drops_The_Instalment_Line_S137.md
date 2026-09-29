@@ -166,6 +166,10 @@ Kain asked for a centred line in one of the smaller fonts, as an instruction, un
 
 The course card's one button (S136 ruling) reads **"Explore This Course"**, replacing "View Course", on every page that renders the card: asked whether this page only or everywhere, Kain: "Yes, change it everywhere". Needs writing into DSRD 8 section 7 (the course card's CTA) and the Courses spec's Amendment 3 checklist line. The visually hidden course name after it is unchanged.
 
+## 25. The instruction's words (Kain's, 0.697.4)
+
+Section 23's line now reads: "Choose all the areas that matter to you, and we’ll show you the courses that best match your interests."
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
