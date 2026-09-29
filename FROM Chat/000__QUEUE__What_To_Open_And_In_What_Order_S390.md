@@ -16,7 +16,7 @@ Kain's standing rule (S136) holds: the Courses page first, and nothing else prop
 3. `BRIEF__The_What_Achology_Believes_Page_And_The_Seven_Beliefs_Series_One_Brief_S390`, Part B: build the nine articles and push the 39 back-links. Answer its Previous and Next question first.
 4. Older factory jobs, not re-read this session and listed by title only: `RULING_AND_BRIEF__The_Audio_Pipeline_Converts_Digits_To_Spoken_Words_Before_Recording_S356`, `BRIEF__The_Redirect_Maps_Remaining_Build_Chain_Register_Through_Staging_S339`, `BRIEF__Prove_The_Free_Lip_Sync_Route_On_One_Clip_S355`.
 5. One read-only answer: `ASK__The_Built_Site_Facts_Chat_Needs_In_One_Read_S390` (Parts A to F). Answering it unblocks the Policies index, policy template, About and Testimonials specs and the quote heading change.
-6. Cards from the old S385 order, if not already closed (Part F of the ask asks you): the 42 articles (`RULING__Close_The_42_Articles_Card_Today_Both_Blockers_Top_Priority_S383`), the book notes recount, and the help section three checks (`RULING__Close_The_Help_Section_Card_Three_Checks_Before_Kains_Read_S383`).
+6. Cards from the old S385 order, if not already closed (Part F of the ask asks you): the 42 articles (`RULING__Close_The_42_Articles_Card_Today_Both_Blockers_Top_Priority_S383`), the quote page template section 10 re-run once the banded-row gate fix lands, the book notes recount, and the help section three checks (`RULING__Close_The_Help_Section_Card_Three_Checks_Before_Kains_Read_S383`).
 
 ## Group 3: needs Kain in Safari, in Chat's suggested order
 1. `BRIEF__Close_The_Reviews_Page_Card_S386`
