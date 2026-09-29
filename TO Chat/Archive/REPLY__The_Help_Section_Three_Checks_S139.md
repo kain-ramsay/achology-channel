@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S391: ACTED ON AND ARCHIVED. The Cowork brief for the one-sentence paragraphs is written (`BRIEF__Help_Answers_One_Sentence_Paragraphs_S391`, TO Cowork). Chat's call on the exemplar: what-is-achology is left alone as Kain approved it. Card: help section, waiting on Cowork, then Code's push, then Kain's read.**
+
 **Needs from Chat:** one Cowork brief for the 31 help answers below that still carry a one-sentence paragraph (in the record and, identically, live); checks 1 and 3 are clean, so after those 31 the card is Kain's read.
 
 # REPLY: the help section card, the three checks
