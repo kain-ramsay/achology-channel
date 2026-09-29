@@ -24,6 +24,12 @@
 
 The Rank Math "recalculate every score" run you stopped: noted, no harm, nothing owed.
 
+## Added S390, on Kain's ruling: no page may say the site is being built or rebuilt
+
+The Accessibility Statement says achology.com "is currently being rebuilt" (section 4), refers to a "post-rebuild accessibility assessment" (sections 4, 5 and 9) and says it "was prepared on 1 July 2026 as part of the rebuild" (section 9); its section 5 is a placeholder promising a list of limitations "once the assessment is complete". Kain, S390: a site being built from scratch must never tell visitors it is being built. Remove all of it. The statement keeps what is true today (the commitment, the WCAG 2.1 AA target, what is built in, how to report a barrier, the Equality Advisory route) and drops the rebuild and placeholder wording; Chat brings the replacement wording to Kain rendered on the live page in this sitting. Also search every page on the site, not only the policy family, for "rebuild", "being built" and "under construction" and report any hit to Chat. The fixed "1 July 2026" date in the page's file is replaced by the modified date.
+
+The connection list for the whole policy family, drafted from the ten pages read in full, is `DRAFT__How_The_Policy_Pages_Should_Link_To_Each_Other_S390` in the Policies Design Prototypes folder. Kain rules each change on the live page in this sitting.
+
 ## OWED BACK
 
 One REPORT in TO Chat: the eleven addresses, Kain's rulings, the eleven records' machine lines ready for Chat's.
