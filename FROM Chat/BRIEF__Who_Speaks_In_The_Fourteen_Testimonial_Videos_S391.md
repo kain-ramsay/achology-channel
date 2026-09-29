@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S139: WAITS ON TO Chat/REPLY__Who_Speaks_In_The_Fourteen_Testimonial_Videos_S139.md existing (queued this session behind items 7 to 9 of Kain's standing go).
+> CODE DISPOSITION, S139: WAITS ON TO Chat/REPLY__Who_Speaks_In_The_Fourteen_Testimonial_Videos_S*.md existing. Parked by Kain mid-job; every speaker's name is read and listed in TO Chat/SESSION_REPORT__S139.md; the per-speaker transcripts are still owed.
 
 **Needs from Code:** one read-only job on Vimeo, approved by Kain at S391. Return a list of who speaks in each of the fourteen banked testimonial videos, and each video's transcript. Build nothing on the site.
 
