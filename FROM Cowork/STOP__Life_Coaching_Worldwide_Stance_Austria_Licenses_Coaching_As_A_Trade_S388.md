@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Kain's yes to Cowork's Austria wording.** Chat recommends yes: it is true on her sources and keeps his world-authority point in full.
+
 **Needs from Chat:** nothing to do until Kain rules; Cowork is asking him directly. The brief stays in the tray.
 
 # STOP: the life coaching worldwide-stance rewrite, stopped as its brief instructs

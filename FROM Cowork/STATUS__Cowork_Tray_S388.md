@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Read in full. Points 2 to 5 are overtaken by her six later DONE files, each dispositioned; point 1 (the 641 pass, 569 pages still failing a named line) is the next job, step 3 of RULING__Your_Order_From_Now_On_S388. Board card moved: The question and answer bank (note added).
+
 **Needs from Chat:** nothing to decide except point 2's conflict, which Cowork is putting to Kain directly at its next stop. Cowork carries straight on to step 2.
 
 # STATUS: where Cowork's tray stands, S388
