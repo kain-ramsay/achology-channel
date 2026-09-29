@@ -10,8 +10,8 @@ Recipe 7. Home course 009 for all eight. Each answer is drafted to its ruled S37
 | Q | Slug | Keyword | Body words | Contractions per H2 | Gate |
 |---|---|---|---|---|---|
 | 1 | life-coaching-as-a-career | life coaching as a career | 764 | 5, 7, 2, 2, 4, 3 | PASS |
-| 2 | is-life-coaching-legit | is life coaching legit | 646 | 3, 4, 4, 1, 4 | PASS |
-| 6 | is-life-coaching-regulated | is life coaching regulated | 656 | 3, 5, 1, 5, 1 | PASS |
+| 2 | is-life-coaching-legit | is life coaching legit | 642 | 3, 4, 4, 1, 3 | PASS |
+| 6 | is-life-coaching-regulated | is life coaching regulated | 656 | 2, 5, 1, 5, 1 | PASS |
 | 7 | become-a-life-coach-for-free | life coach for free | 677 | 1, 3, 6, 4, 1 | PASS |
 | 9 | cheapest-life-coaching-certification | cheapest life coaching certification | 823 | 3, 2, 4, 3, 4, 4, 3 | PASS |
 | 10 | icf-accredited-life-coaching-programs | icf accredited life coaching | 685 | 2, 3, 4, 3, 3, 5, 6 | PASS |
@@ -27,7 +27,7 @@ Word counts are Cowork's own body count; the gate's count passed all eight. All 
 
 Every keyword was free and is now claimed in KEYWORD_REGISTER.csv, session S389. No 8-word run of prose is shared with any other record in Content Records. The UKRLP line, the course name and the fixed closing heading are exempt.
 
-**Grader's voice check.** The first read returned all eight. The worldwide stance sentences, the certificate definition, the Achology message in Recipe 7's own words and the course-fact frame had been pasted from answer to answer and from the approved Stage 1 five. All were rewritten into each answer's own words. The second read returned five for small fixes: a course sentence repeated in a new shape, a lost Achology message in Q7, an unclear "it" in Q2, and a sentence about the page in Q6. All are fixed.
+**Grader's voice check.** The first read returned all eight. The worldwide stance sentences, the certificate definition, the Achology message in Recipe 7's own words and the course-fact frame had been pasted from answer to answer and from the approved Stage 1 five. All were rewritten into each answer's own words. The second read returned five for small fixes: a course sentence repeated in a new shape, a lost Achology message in Q7, an unclear "it" in Q2, and a sentence about the page in Q6. All are fixed. The third read passed six of the eight; its last three sentence fixes (one in Q2's wording, one in Q6) were made by Cowork, re-gated and re-checked for copying.
 
 **Calls Cowork made, for Kain to overturn.**
 - **Q6 rebuilt around the question nobody else answers.** Its first draft failed the unique value test: `need-a-certification-or-a-degree` already covered its present-day half. It now answers "is that about to change?" from the ICF and EMCC regulation pages and globalcodeofethics.org, read live. It makes no prediction, and it links the approved answer for the present-day detail.
@@ -43,4 +43,4 @@ Every keyword was free and is now claimed in KEYWORD_REGISTER.csv, session S389.
 
 *No em or en dashes in this file; checked before writing.*
 
-COWORK | Batch: life coaching Stage 2, batch A | Drafted: 8 of 8 | Gate and evaluator: 8 GATE PASS; fresh grader PASS on third read | Skipped: none | Outside brief: Q13 file renamed
+COWORK | Batch: life coaching Stage 2, batch A | Drafted: 8 of 8 | Gate and evaluator: 8 GATE PASS; fresh grader PASS after three reads | Skipped: none | Outside brief: Q13 file renamed

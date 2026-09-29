@@ -9,13 +9,13 @@ Recipe 7, on the same terms as batch A. Question 17 was cut by Kain; question 34
 
 | Q | Slug | Keyword | Courses | Body words | Contractions per H2 | Gate |
 |---|---|---|---|---|---|---|
-| 14 | life-coach-with-psychology-degree | psychology degree | 009 | 692 | 5, 3, 5, 4, 2 | PASS |
+| 14 | life-coach-with-psychology-degree | psychology degree | 009 | 699 | 5, 4, 5, 4, 2 | PASS |
 | 15 | life-coach-or-a-therapist | life coach or a therapist | 009, counselling course named once | 724 | 1, 9, 3, 2, 2 | PASS |
 | 16 | can-life-coaches-use-cbt | can life coaches use cbt | 009, then 008 and 003 | 815 | 8, 4, 4, 6, 1 | PASS |
 | 34 | become-a-certified-life-coach | become a certified life coach | 009 and 010 | 748 | 4, 1, 5, 2, 3, 1 | PASS |
 | 18 | how-do-life-coaches-get-clients-and-set-prices | life coaches get clients | 010 | 769 | 4, 5, 2, 5, 2 | PASS |
 | 19 | what-is-a-life-coaching-niche | life coaching niche | 010 | 669 | 1, 2, 9, 3, 2 | PASS |
-| 20, flagged | can-a-life-coach-help-with-anxiety | life coach help with anxiety | 009 | 730 | 4, 4, 4, 5, 3 | PASS |
+| 20, flagged | can-a-life-coach-help-with-anxiety | life coach help with anxiety | 009 | 759 | 4, 4, 4, 5, 3 | PASS |
 | 21 | will-life-coaches-be-replaced-by-ai | will life coaches be replaced by ai | 009 | 673 | 2, 3, 6, 5, 1 | FAIL (1): keyword density 2.27% |
 
 The counts, the register claims and the copying check are as in batch A. All clean.
@@ -25,7 +25,7 @@ The counts, the register claims and the copying check are as in batch A. All cle
 - a when-to-get-proper-help section, with the four Disclaimers facts in its own sentences;
 - no promise of any kind.
 
-Its line naming a lesson on conditions was cut.
+Its line naming a lesson on conditions was cut. On the third read the grader passed seven of the eight; the psychology degree answer's two sentence fixes, and a rewrite of the anxiety answer's help paragraph so it shares no wording with another record, were made by Cowork, re-gated and re-checked.
 
 **Calls Cowork made, for Kain to overturn.**
 - **Q21 keeps the phrase people type** ("will life coaches be replaced by ai", in the US exports) and leaves the density line failing. At seven words, the opening and one heading already put it at 2.27%. The reader wins under Kain's S362 rule, over forcing a fragment such as "replaced by ai".
