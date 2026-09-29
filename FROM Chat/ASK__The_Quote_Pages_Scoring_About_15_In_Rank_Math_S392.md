@@ -10,6 +10,10 @@
 
 **What Chat will do with the answer.** Write the fix into the right record or standard and route it back to you as one job, in your article backlog turn, before template work (Kain's S391 priority). Nothing new goes to Cowork this week unless Kain says so.
 
+## Added S392, from Kain's screenshot of the Quotes list on the build site
+
+Kain's screenshot of the admin Quotes list shows **21 failing badges in one unbroken run: 20 red and 1 amber, every one a Draft**, in the Helping People category, each with a meta description in the "Kain Ramsay on why..." form. The screenshot is too small to read titles or exact scores; the red badges look like about 15. **Each row shows a keyword under its badge, so Chat's guess of an empty keyword field looks wrong:** please look for the real cause. One more Draft just above the run, in a different category, shows a grey badge (not scored at all); include it. Every other row in the list shows green.
+
 ## Please answer
 
 1. **The list.** Every quote page on the build site scoring under 50: its address, post ID, stored score, and whether its record is on disk in Content Records.
