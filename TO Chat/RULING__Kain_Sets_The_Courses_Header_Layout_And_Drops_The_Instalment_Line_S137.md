@@ -95,6 +95,10 @@ Kain on the first versions (orange circles 1 to 6, and "Matches:" listing every 
 - **One goal ticked (Kain's words, 0.690.2):** every card reads "Meets your main specified goal". Two or more ticked: "Meets N of your chosen goals".
 - **The best match outline (0.691.1):** Kain asked whether the 2px orange ring was too heavy; Code agreed (no other card in the family carries a border, and the flag already names it). From four weights rendered (none, 1px soft, 1px full, 2px), Kain chose **1px in brand orange at 45%**, over the card's own shadow.
 
+## 12. The hero button's words (Kain's, 0.691.3)
+
+"See My Course Recommendations" (title case, as he gave it), replacing "See my recommended courses" in section 8. On phones the action row now stacks, the status line over a full width button, because the longer label ran the page 18 wider than a 390 screen; measured clear at 360, 390, 768, 1024 and 1440.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
