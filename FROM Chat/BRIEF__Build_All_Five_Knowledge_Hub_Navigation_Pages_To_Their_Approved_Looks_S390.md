@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+> CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** build the last three Knowledge Hub navigation pages to their approved build sheets, fix the listing page and category hub faults, then one Safari sitting where Kain looks at all five together. Behind the Courses page.
 

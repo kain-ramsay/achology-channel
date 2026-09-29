@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+> CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** build the What Achology Believes page, then the nine Seven Beliefs articles, then push the 39 back-links, so the page, the series and the links all go live together. Behind the Courses page.
 

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S138: WAITS ON the Courses page closing (Kain's Courses-only stream ruling; draft 38604 published).
+> CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 # Population: the 39 published Knowledge Hub pages that gained a Seven Beliefs back-link at S387 (21 author biographies, 17 book notes, 1 field-authority article), and none of the other 3 records on the map: the three help answers were left untouched.
 # post_id is blank on every row: no record carries one and no install export came with the brief, so this file keys on post_name. Code fills post_id from the install by post_name before rollout.
