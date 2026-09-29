@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S140: WAITS ON the article field's demand-question choice reaching the install and the question articles being imported as drafts; read this session.
+
 **Needs from Code:** nothing to answer. Kain's confirmation, S392: everything listed under "Cleared" is approved and ready, so import it now, in your article backlog turn, before template work.
 
 # NOTE: Kain confirms what you are cleared to import now
