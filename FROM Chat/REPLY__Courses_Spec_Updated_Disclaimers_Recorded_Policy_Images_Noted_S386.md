@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S138: DONE. The prototype's next version is exported: Courses Directory Page folder, PROTOTYPE__Courses_Directory_Page_S138.html, with BUILD_SHEET__Courses_Directory_Page.md.**
+> **CODE DISPOSITION, S138: DONE. The prototype export is made and named in RULING__Kain_Finishes_The_Courses_Page_Design_S138.md (TO Chat), sections 8 and after: the next version and its build sheet are in the Courses Directory Page folder.**
 
 > **CODE DISPOSITION, S137: WAITS ON the Courses page closing; the prototype export follows Kain's last look at the finished page, not before.**
 
