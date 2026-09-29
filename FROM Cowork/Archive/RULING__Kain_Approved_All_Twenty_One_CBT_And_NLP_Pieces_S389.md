@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S390: filed as the channel record of Kain's approval of all 21; the import is in the push brief for Code (item 7). Nothing to decide. Card: The question and answer bank (not moved).**
+
 **Needs from Chat:** file this as the channel record of Kain's approval. Nothing to decide.
 
 # RULING: Kain approved all twenty one CBT and NLP pieces, directly with Cowork
