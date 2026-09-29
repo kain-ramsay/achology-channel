@@ -12,9 +12,9 @@
 
 Chat cannot read the theme or the built pages. Kain's card "Retrofit Signed Specs for Built Pages" needs a signed spec for each built page, drawn from what he approved by eye, and Chat's draft specs for the Policies index and the policy template were written from older documents and cannot see the build. Kain also wants the policy family looked at as one connected set, and wants to change the second or third heading on fourteen quote pages. Chat will use your answers only to correct the specs to the built pages and then put yes or no questions to Kain. Mark anything you are unsure of as unsure. Do not guess.
 
-## Part A: what the built Policies index lists
+## Part A: the built Policies index (mostly answered by Chat from the theme, S390)
 
-Kain believes the index already lists How We Write. Read the live Policies index and tell Chat exactly as it stands: the H1, both header paragraphs word for word, every group heading, every card (name, description line, address, ghost word), and the order. If How We Write is there, say which group holds it and what its card says.
+Chat read `template-policies-index.php` and `functions.php` itself. It found How We Write listed in Our Training Standards with Manifesto and Code of Ethics, the header copy as in the spec, and the description lines as the theme defaults. **What is left for you:** on the live page, does it render those ten cards, and does any page carry an excerpt on the install that overrides the theme's default line? If so, quote each such excerpt. Also, the theme says "Achology member" on the Code of Ethics card; confirm that is what shows.
 
 ## Part B: the policy family, as one connected set
 
@@ -24,7 +24,7 @@ Read every page in the family (the index, the seven legal policies, the Manifest
 3. Every page that no other policy page links to.
 4. The links that already exist between them, so Chat does not ask for what is there.
 
-Then, for every page on the policy template: the live address; whether the header has an overline and what the lead says; the date line and which date each shows; whether any page carries a table of contents, a related-policies strip, a print control or a closing panel; the reading column width actually rendered; the title, description, robots and schema each emits. Also say whether the old machine failure "article-container: 620px is neither 1200 nor 880" still fires.
+Then, for every page on the policy template, Chat read `template-policy.php` and knows the frame: no overline (removed S080), a "Last updated" line from the modified date unless the page's partial overrides it, a lead from the excerpt or the partial, the body from the `policies-content` partial or the editor, a default endnote linking to /help/, an optional "Where next?" grid, no table of contents, no related-policies strip and no print control, and WebPage or AboutPage schema plus a BreadcrumbList. **What is left for you, on the live pages:** which pages set a partial override (meta, endnote, next, document figure or portrait); the reading column width actually rendered (the template's comment says 880 but Kain ruled 800 at S135 and S386); the title, description and robots each emits; and whether the old machine failure "article-container: 620px is neither 1200 nor 880" still fires.
 
 ## Part C: the Testimonials page (/testimonials/)
 
@@ -34,9 +34,9 @@ The block order as built, top to bottom, with each block's heading and copy word
 
 The block order as built, with each block's heading and the copy of any block not fully in DSRD 9 section 23. The five-question selector: its questions, and how desktop differs from phone. The share image the page emits and its source, because Kain is to rule the Testimonials and About preview images together. The schema emitted. Template file and theme version.
 
-## Part E: the three quote page headings
+## Part E: the three quote page headings (mostly answered by Chat from the theme, S390)
 
-Kain ruled at S378 that quote pages keep three fixed headings ("What the Quote Might Be Saying", "What Can We Take Away From It?", "A Question Worthy of an Honest Answer"). Fourteen quote pages have a focus keyword that appears in none of them, and Kain has now said yes to changing the second or third heading on those fourteen so it carries the keyword. Cowork's gate refuses that today, because `content_gate_standards.json` requires the three headings verbatim and in order.
+Chat read `single-quote.php`, `functions.php`, `shared-parts.php`, `knowledge-hub-parts.php` and `page_gate.py`. **Answers found:** the template prints the body from the record with `the_content`, not from a fixed list; `achology_article_anchors()` gives every H2 its own anchor from its own text, so a changed heading renders and gets its own anchor; and none of the five files contains the three heading strings. **What is left for you, because Chat did not read them:** does anything in the stylesheets, scripts, the importer, `search_gate.py` or the schema code read those three strings by exact text, and does the page gate pass a quote page whose second or third heading differs? One line each. ("What the Quote Might Be Saying", "What Can We Take Away From It?", "A Question Worthy of an Honest Answer"). Fourteen quote pages have a focus keyword that appears in none of them, and Kain has now said yes to changing the second or third heading on those fourteen so it carries the keyword. Cowork's gate refuses that today, because `content_gate_standards.json` requires the three headings verbatim and in order.
 1. Does the quote page template print its three headings from the record's own body text, or from a fixed list in the theme?
 2. If from the record, does a changed heading on one page still render, still get its own anchor, and still pass the page gate?
 3. Does anything else (schema, a table of contents, an internal link, the reading bar) read those three heading strings by their exact text?
