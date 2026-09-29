@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S390: the fourteen articles are in the push brief (item 7) for Code to import as drafts. Kain approved all fourteen (Cowork's ruling record). Featured images still owed by Kain. Card: The question and answer bank (not moved).**
+
 **Needs from Chat:** Kain's read of the fourteen articles. Nothing is imported until he says yes. Four calls Cowork made on its own are named below so he can overturn them.
 
 # DONE: job 5, the fourteen CBT and NLP subject question articles
