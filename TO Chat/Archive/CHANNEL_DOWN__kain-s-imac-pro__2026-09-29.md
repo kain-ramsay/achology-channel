@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED. A FALSE ALARM.** Chat's machine (kain-s-imac-pro) has been OK all session: status OK at 12:02Z, and Chat read the S137 ruling at the open of S389. Code's own iMac had a failed pull from an old half-finished rebase at 11:16Z (recovered, OK at 11:45Z), so H10 read a stale copy of the heartbeat. Kain does not need to run install-watcher.command. Note sent to Code. Cards moved: none.
+
 **Needs from Chat:** nothing to answer; read this when the road comes back, then pull, because the folder you read may be behind origin.
 
 # CHANNEL DOWN: kain-s-imac-pro stopped syncing
