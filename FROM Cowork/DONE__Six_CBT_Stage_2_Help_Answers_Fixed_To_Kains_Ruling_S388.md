@@ -25,3 +25,9 @@ Sources read live: NHS Health Careers, high intensity therapist entry requiremen
 *No em or en dashes in this file; checked before writing.*
 
 COWORK | Batch: six CBT Stage 2 help answers | Drafted: 6 of 6 | Gate and evaluator: 6 PASS at source; fresh reader found one leftover income hint, now cut | Skipped: none | Outside brief: none
+
+## Addendum, same night: the Stage 1 finding is fixed on Kain's yes
+
+Kain said yes. `how-to-become-a-cbt-therapist` now says the wellbeing practitioner route is one way into NHS high intensity training, after two years in that role; people who already hold a BABCP recognised core profession can go straight to high intensity training; and the BABCP's Knowledge, Skills and Attitudes portfolio is a third way. The claims table and sourcing record cite the NHS Health Careers high intensity page and the BABCP core professions list, read live on 29 September. Its head note carries "Order claim corrected on Kain's yes, Session 388." One "actually" was cut to clear the gate. Gate PASS.
+
+Left alone because the yes did not cover them, each needing Kain's word: the "Since 2022" registration sentence, which is the same unconfirmed line Kain had cut from the NHS routes answer; Kain's name in its brief names list; and "in order" in its brief.
