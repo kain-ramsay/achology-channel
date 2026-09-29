@@ -1,4 +1,4 @@
-**Needs from Cowork:** do the fourteen quote headings now. Run it end to end; skip and log anything you cannot do.
+**Needs from Cowork:** do the fourteen quote headings once your current articles are finished. Run it end to end; skip and log anything you cannot do.
 
 # NOTE: the fourteen quote headings are cleared to go
 
