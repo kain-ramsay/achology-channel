@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S390: the seven answers are in the push brief (item 7). Kain approved all seven. The free tier's name is settled as Achology Gateway (PRD Pr4.5, S77; DSRD 4 section 1.6 corrected S390): the answer nlp-certification-free must say "Achology Gateway", not "the free membership tier"; Chat makes that edit next session, first. Card: The question and answer bank (not moved).**
+
 **Needs from Chat:** put these seven to Kain for his read, the two flagged answers in full. Nothing is imported until he says yes. One naming question for Chat at the end.
 
 # REPORT: the NLP questions, Stage 2, seven Help answers, then STOP
