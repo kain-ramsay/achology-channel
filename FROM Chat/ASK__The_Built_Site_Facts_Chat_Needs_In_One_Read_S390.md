@@ -50,6 +50,7 @@ Several older files in FROM Chat carry only "waits on" dispositions and may alre
 - `CHECKLIST__Seven_Cards_Close_To_Done_What_Closes_Each_And_The_Line_That_Marks_It_S374`
 - `CHECKLIST__The_Book_Note_Page_Second_Safari_Look_Nine_Rulings_And_How_The_Card_Closes_S374`
 - `COMMISSION__The_Card_And_Chrome_Sweep_S273` and `APPROVED__A_Fifth_Chrome_Sitting_The_Author_Signature_Block_S303`
+- `RULING_AND_BRIEF__Set_Up_The_Factory_Session_Timer_On_The_iMac_4_S353` and `RULING_AND_BRIEF__The_Karpman_Workbook_Is_Approved_Render_It_Into_The_Approved_Template_S353`
 - `REPLY__Every_Answer_Owed_On_The_S108_To_S110_Rulings_S357`, `REPLY__Courses_Spec_Updated_Disclaimers_Recorded_Policy_Images_Noted_S386`, `REPLY__Course_Card_And_Courses_Page_Rulings_Recorded_The_47_Lines_Ruled_S387` (replies from Chat to you, likely already read)
 
 ## What Chat will do with the answers

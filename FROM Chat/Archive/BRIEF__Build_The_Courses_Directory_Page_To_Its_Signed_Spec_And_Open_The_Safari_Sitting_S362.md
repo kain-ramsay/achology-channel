@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: finished and overtaken. Kain finished the Courses page design at S138 (Amendment 4 in the signed spec) and the metadata ask was answered in `REPLY__Courses_Page_Amendment_4_Metadata_And_The_Corrected_Excerpt_S390`. Only Rank Math and publishing remain, which are yours and need no brief.**
+
 > **CODE DISPOSITION, S138: WAITS ON the file TO Chat/ASK__The_Courses_Page_SEO_Title_Description_And_Keyword_S138.md being answered (metadata), then the Rank Math score and publishing. Design finished by Kain at S138 (theme 0.706.1); rulings in TO Chat/RULING__Kain_Finishes_The_Courses_Page_Design_S138.md; DSRD6_RECORD.md, BUILD_SHEET__Courses_Directory_Page.md and PROTOTYPE__Courses_Directory_Page_S138.html written in the Courses Directory Page folder.**
 
 > **CODE DISPOSITION, S137: WAITS ON the Courses page's results head, three more tick answers, the radius pass and the page foot, in the next theme session (Kain: "pick up at this same place, immediately"); then metadata, DSRD 6, publish. Hero approved; rulings in TO Chat/RULING__Kain_Sets_The_Courses_Header_Layout_And_Drops_The_Instalment_Line_S137.md. Theme 0.698.4.**
