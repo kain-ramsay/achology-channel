@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: WAITS ON publish_gate.py minting a clearance for /help/getting-started/first-course-complete-beginner/, to push help answer 399's corrected excerpt. The course card export is done (TO Chat/REPLY__Course_Card_Export_S139.md).
+
 > **CODE DISPOSITION, S138: WAITS ON publish_gate.py minting a clearance for /help/getting-started/first-course-complete-beginner/ (refused S138 on 12 pre-existing help page faults, the Help section card's), to push the 399 excerpt; and on the course card export into its component folder. Metadata entered on draft 38604 and read back; keyword claimed in SITE_PAGES__CLAIMS.csv and the register rebuilt (one older clash, self-awareness, not this page's).**
 
 **Needs from Code:** publish the Courses page metadata below (Rank Math), push the corrected excerpt for help answer 399, and read the amendment number. Then file the two exports still owed. SESSION: theme.
