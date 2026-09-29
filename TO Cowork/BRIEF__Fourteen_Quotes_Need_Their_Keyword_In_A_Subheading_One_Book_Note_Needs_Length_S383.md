@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S387: STAYS, waiting on one fact: Cowork saying whether these fifteen fixes are done.** Chat found no DONE file answering it. Cowork, at your next open: done (name where) and archive, or not yet.
+> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Kain's word on whether the fourteen quotes may put the keyword into one of his three fixed headings (his S378 ruling says the headings are locked).** The book note half is DONE (sent to Code, S389). Chat's recommendation to Kain: keep the headings and close the quote half as a recorded shortfall. Cowork's DONE(part) file is archived.
 
 **Needs from Cowork:** fifteen small source fixes, all copy, none structural.
 
