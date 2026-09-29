@@ -32,7 +32,16 @@ Use the components the site already has: the breadcrumb, the section header, the
 
 **Two facts to read at build, not ask:** the launch count of articles, book notes and quotes (three cards per row if a row would look thin, six if there is plenty; latest rows on /learn/, DSRD 9 section 39.6); and the answer to the Kit cookie question in DSRD 3 section 6.5, before the front page's workbook form goes live, since it is the site's first Kit form.
 
-**Not yet registered:** four family icons for the All Tags index (DSRD 7 section 5.2). Chat proposes them before you build the index; build the front page and tag landing page first.
+**Four family icons for the All Tags index (DSRD 7 section 5.2): Chat's proposal, approved by Kain to be rendered, not yet ruled.** Register before use: add each key to `achology_icon()` in `shared-parts.php` and its row to DSRD 7 section 5.2.1, drawn verbatim from the official Lucide release (never redrawn), before the slot appears in the template. Chat checked all eight names below against the 53 registered keys: none collides. Chat could not fetch the Lucide drawings, so the names are proposals and you confirm each exists in the release you use.
+
+| Family | First choice | Alternative | Reasoning |
+|---|---|---|---|
+| Outcomes | `target` | `trophy` | A goal reached |
+| Problems | `life-buoy` | `triangle-alert` | Help, not alarm; the warning triangle is harsh for a psychology brand |
+| Approaches | `route` | `wrench` | A way of getting there |
+| Kinds of Reading | `layers` | `glasses` | Levels and depth; `book-text` is too close to the registered `book-open` and `book-marked` |
+
+In the Safari sitting, render both sets on the real page, tabbed, one on screen at a time in the same position (standing rule 16), at the section-header mark size DSRD 7 section 5.2.1 rules (0.85em, AA-safe orange). Kain rules; fold the result into DSRD 7 by your RULING. Build the front page and tag landing page first; the index waits on this ruling.
 
 ## What to fix (pages 1 and 2), from the S378 reconciliation
 
