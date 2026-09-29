@@ -91,6 +91,7 @@ Kain on the first versions (orange circles 1 to 6, and "Matches:" listing every 
 - **The rank:** only the first card is named: a "Best match" flag hung from its top edge (the overline style, white on the action orange) and a 2px action orange ring. Cards 2 to 6 carry no mark; the order says the rest. The numbered orange circles are gone.
 - **The reason:** a tinted line across the top of every card's text: the registry check in the AA-safe orange, "Your goal:" in soft grey, then the one goal the course serves most closely, in brand dark, as the visitor ticked it. The "Matches:" list is gone.
 - **"Your goal:"** replaced "Best for", which Kain found did not fit the goals' first-person wording ("Improve my mental health"). Code's proposal, on the page for his yes.
+- **Superseded the same sitting (0.690.1):** Kain: "if a person's ticked six goals ... we're never going to know which of their six goals is the most important to them ... just be more generic and state ... that this course meets X of your chosen goals". Each card's line now reads "Meets N of your chosen goals", N counting the ticked goals that course serves. "Your goal:" is withdrawn.
 
 OWED BACK: nothing.
 
