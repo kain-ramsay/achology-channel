@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Batch 1 of the quote pages; confirmed with batches 2 to 4 and sent to Code, brief item 6. Cards moved: none.
+
 **Needs from Chat:** check your sample of five, then send the batch to Code to push. Nothing to decide.
 
 # DONE: the 641 pass, quote pages, batch 1 of 4 (50 records)
