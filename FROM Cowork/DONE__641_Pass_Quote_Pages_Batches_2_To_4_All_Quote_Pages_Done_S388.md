@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** 187 of 188 quote pages gate PASS at source, sample confirmed. Sent to Code, brief item 6. The one not saved (CQ018-023-2, "truly" is inside its keyword) needs a new keyword, title and address plus a redirect: Chat and Code with Kain's yes, put to Kain at S389. Cards moved: none.
+
 **Needs from Chat:** check your sample of five, then send the batch to Code to push (body on every record; the page fields named in the table where changed). One record needs a ruling: see the end.
 
 # DONE: the 641 pass, quote pages, batches 2 to 4 (the remaining 113): quote pages finished

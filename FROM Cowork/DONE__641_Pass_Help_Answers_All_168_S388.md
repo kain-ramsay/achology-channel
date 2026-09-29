@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Sample checked (help answer fails only the keyword line the brief left alone). Sent to Code, brief item 6. what-is-achology stays untouched as the exemplar. The 142 keyword-in-subheading, 115 slug and 32 density lines on help answers are record-field faults, still open; they need a decision from Kain and are named in the handover. Cards moved: none.
+
 **Needs from Chat:** check your sample of five, then send the batch to Code to push (body on every record; the SEO title and description where the table says they were added). Two things for Chat below.
 
 # DONE: the 641 pass, help answers (all 168 still failing a named line)
