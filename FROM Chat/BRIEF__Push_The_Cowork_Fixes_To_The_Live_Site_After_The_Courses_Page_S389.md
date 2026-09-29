@@ -49,6 +49,10 @@ Chat fixed the four records item 8 names. Burchard, Duhigg and Pinker: `kh_tag_o
 
 Two help answers now say Achology Gateway for the free tier (Kain, S390): `HELP__become-a-life-coach-for-free` (with the life coaching Stage 2 batch, after Kain reads it) and `HELP__nlp-certification-free` (push now). The published help answers and the DSRD 2 section 2.24 term register still say "free membership tier" in places; Chat has corrected the register (S391: the row is now "Achology Gateway"). Sweep: find every record and page that names the free tier any other way ("free membership tier", "free membership" as the tier's name, "Free Membership"), change it to Achology Gateway with "the free membership" kept only as a plain description after it, and report the list you changed. The published answer titled "Is there a free Achology membership tier, and what does it include?" keeps its address; its title and wording are Kain's to rule on the page.
 
+## 10. Sixteen life coaching help answers, for Kain to read on the page (Cowork Stage 2, S389)
+
+Kain rules copy only with the page open (S390), so these are read on the build site, not in chat. Push the sixteen `HELP__` records listed in Cowork's two Stage 2 reports (batch A and batch B, in FROM Cowork) and show them to Kain in Safari. Q21 (`will-life-coaches-be-replaced-by-ai`) fails keyword density at 2.27% by Cowork's choice to keep the phrase people type; Chat accepts that, so push it. Before Kain reads Q20 (`can-a-life-coach-help-with-anxiety`), read the published Disclaimers page and check its when-to-get-help section says nothing the Disclaimers page does not; there is no Disclaimers record in Content Records for Chat to check it against. Write Kain's read into a RULING for Chat; Cowork's Stage 3 starts on it.
+
 ## Also owed, already flagged at S354
 
 The twelve author biography records fixed at S354 (Maslow, Schopenhauer, Burchard, Newport, Ariely, Goleman, Fromm, Haidt, Jordan B. Peterson, Tolstoy, Gladwell, Cialdini) need a fresh push, not a skip, if the earlier push ran before the fix.
