@@ -84,6 +84,14 @@ Kain asked why the line ran to three lines on desktop. The cause was Code's own 
 
 After the spacing check (one fix at 0.687.2: the overline holds 8 above the title at every width), Kain: "the headers definitely finished. The spacings um, good." The header as built at theme 0.687.2 is his approved state; Code's Rule 14 fold-back (the prototype export into the Courses Directory Page folder and its build sheet) follows at the page's close. Work moved to the results block: four ways to show the rank and four ways to give the reason are on the page for his choice.
 
+## 11. How the six results show their rank and their reason
+
+Kain on the first versions (orange circles 1 to 6, and "Matches:" listing every goal ticked): "you just haven't thought that through well ... it needs to be simpler". A quick second round he judged "lazy"; the third round was researched (Amazon's best seller flag, Airbnb's guest favourite label, Netflix's match line, Coursera's "because you chose"), built on the course card's own structure, and critiqued and fixed before he saw it. Kain: "yes, build 2 and 1". Theme 0.690.0:
+
+- **The rank:** only the first card is named: a "Best match" flag hung from its top edge (the overline style, white on the action orange) and a 2px action orange ring. Cards 2 to 6 carry no mark; the order says the rest. The numbered orange circles are gone.
+- **The reason:** a tinted line across the top of every card's text: the registry check in the AA-safe orange, "Your goal:" in soft grey, then the one goal the course serves most closely, in brand dark, as the visitor ticked it. The "Matches:" list is gone.
+- **"Your goal:"** replaced "Best for", which Kain found did not fit the goals' first-person wording ("Improve my mental health"). Code's proposal, on the page for his yes.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
