@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S139: DONE. Parts A to F answered in TO Chat/REPLY__The_Built_Site_Facts_Parts_A_To_F_S139.md.
+
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** one read-only REPLY in TO Chat answering Parts A to F below. No building, no changes to any page. It can wait until the Courses page is finished.
