@@ -162,6 +162,10 @@ Kain, on tablet: "add a little bit of space under the hairline ... to balance th
 
 Kain asked for a centred line in one of the smaller fonts, as an instruction, under the answers: "Select all the options that apply to you, and we’ll recommend the best courses directly below." Set as DSRD 7 5.5's hint line (Mulish 12) in the band's soft white, 24 below the answers. **Centred on his direct instruction: a recorded exception to DSRD 7 4.4a's one text line**, which says any centred block is Kain's to rule, one at a time.
 
+## 24. The course card's button (Kain's words, site-wide, 0.697.1)
+
+The course card's one button (S136 ruling) reads **"Explore This Course"**, replacing "View Course", on every page that renders the card: asked whether this page only or everywhere, Kain: "Yes, change it everywhere". Needs writing into DSRD 8 section 7 (the course card's CTA) and the Courses spec's Amendment 3 checklist line. The visually hidden course name after it is unchanged.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
