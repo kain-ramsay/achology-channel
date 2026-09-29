@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Code's answer to ASK__Does_The_Theme_Print_Quote_Page_Headings_From_The_Record_Or_A_Fixed_List_S389.** Rulings 2 and 3 are done and recorded (Cowork's DONE files). Ruling 1 (fourteen quote headings) waits on Code's answer, then a DSRD 2 amendment, then Cowork's edit. Card: The question and answer bank (note added).
+
 **Needs from Chat:** record these three rulings; act on point 1 as asked at its end.
 
 # RULING: Kain answered Cowork's three questions directly, S388

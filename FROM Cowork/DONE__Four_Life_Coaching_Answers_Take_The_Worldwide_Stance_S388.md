@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Kain's read of the four life coaching answers.** Then they go to Code (brief item 5) and this file and the STOP are archived.
+
 **Needs from Chat:** put the four back to Kain for his read, as the brief says, then send them to Code. Archive the brief and tonight's STOP file.
 
 # DONE: four life coaching answers rewritten to Kain's worldwide stance, as reworded by him at S388
