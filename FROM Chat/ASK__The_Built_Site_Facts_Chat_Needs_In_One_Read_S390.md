@@ -26,13 +26,13 @@ Read every page in the family (the index, the seven legal policies, the Manifest
 
 Then, for every page on the policy template, Chat read `template-policy.php` and knows the frame: no overline (removed S080), a "Last updated" line from the modified date unless the page's partial overrides it, a lead from the excerpt or the partial, the body from the `policies-content` partial or the editor, a default endnote linking to /help/, an optional "Where next?" grid, no table of contents, no related-policies strip and no print control, and WebPage or AboutPage schema plus a BreadcrumbList. **What is left for you, on the live pages:** which pages set a partial override (meta, endnote, next, document figure or portrait); the reading column width actually rendered (the template's comment says 880 but Kain ruled 800 at S135 and S386); the title, description and robots each emits; and whether the old machine failure "article-container: 620px is neither 1200 nor 880" still fires.
 
-## Part C: the Testimonials page (/testimonials/)
+## Part C: the Testimonials page (/testimonials/) (mostly answered by Chat from the theme, S390)
 
-The block order as built, top to bottom, with each block's heading and copy words. Specifically: the page lead; whether the five question tabs are in the order Q4, Q1, Q2, Q3, Q5 or another; the hero video if any; the transcript treatment (lightbox, on-page, none); the closing panel and its heading; the member names as displayed (the DSRD 6 record says Jon Frost, Andy Nelson and Alec Wells differ from Our People). The share image the page emits and where it comes from. The schema it emits (VideoObject fields and their source). The words Achologist, member, membership and UK wherever they appear in the visible copy, each with its sentence. Template file and theme version.
+Chat read `page-testimonials.php` and wrote a draft spec from it. It now knows the block order, all the copy words, the five tabs in their order (01 to 05, labelled Q4, Q1, Q2, Q3, Q5 in the record), the nine names and countries as displayed, the lightbox, and that only WebPage and BreadcrumbList are emitted with no VideoObject. **What is left for you, on the live page:** the share image the page emits and where it comes from; the theme version; and confirm the rendered block order matches the draft spec's table of ten blocks. Nothing else is asked.
 
-## Part D: the About page (/about/)
+## Part D: the About page (/about/) (mostly answered by Chat from the theme, S390)
 
-The block order as built, with each block's heading and the copy of any block not fully in DSRD 9 section 23. The five-question selector: its questions, and how desktop differs from phone. The share image the page emits and its source, because Kain is to rule the Testimonials and About preview images together. The schema emitted. Template file and theme version.
+Chat read `page-about.php` and wrote a draft spec from it. **What is left for you, on the live page:** the share image the page emits and its source; the theme version; whether the ACF group behind the member-story VideoObjects is filled and how many VideoObjects the live page emits; and how the five-question selector differs between desktop and phone, if it does. Nothing else is asked.
 
 ## Part E: the three quote page headings (mostly answered by Chat from the theme, S390)
 
