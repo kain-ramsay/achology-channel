@@ -1,3 +1,5 @@
+> **WITHDRAWN BY CHAT, S391, on Kain's instruction: do not run this. Kain downloaded the 29 files himself and is uploading them. Archived unrun.**
+
 **Needs from Code:** run one small script on Kain's skill library folder, approved by Kain at S391. It takes the long dashes out of 29 skill files, keeping every file name exactly as it is. Report the counts.
 
 # BRIEF: take the long dashes out of 29 skill files in the library
