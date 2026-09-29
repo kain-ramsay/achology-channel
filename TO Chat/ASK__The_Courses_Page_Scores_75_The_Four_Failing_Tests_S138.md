@@ -44,3 +44,10 @@ The heading Rank Math reads is "All 28 courses", the server's no-script text, wh
 OWED BACK: one heading option for Kain's yes or no, or your view that 75 stands with the permalink and alt tests recorded as exceptions.
 
 *No em or en dashes in this file; checked before writing.*
+
+## Two more of Kain's changes after the 82, S138 (theme 0.707.2 and 0.707.3)
+
+- The questions card's heading is now **"FAQs About Our Online Psychology Courses"**, Kain's own shortening ("FAQs about our online psychology courses"), carrying the focus keyword in a heading for Rank Math's subheading test. It replaces "Commonly Asked Course-Related Questions" in Amendment 4. FAQs passes the page gate's acronym list.
+- The UKRLP line is centred under the card, the shield before it, so the page closes as it opens on its centred instruction line (Kain: yes).
+
+The stored score will move when Kain next rescores; Code reads it then.
