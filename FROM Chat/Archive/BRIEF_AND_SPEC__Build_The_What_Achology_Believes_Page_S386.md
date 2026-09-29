@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: folded into Part A of `BRIEF__The_What_Achology_Believes_Page_And_The_Seven_Beliefs_Series_One_Brief_S390`.**
+
 > **CODE DISPOSITION, S135: WAITS ON a theme change set for /about/what-achology-believes/ (read in full; ordered after the Reviews close and the policy pages sweep, as briefed).**
 
 > **HOLD LIFTED, CHAT S386: build to the new words.** Kain approved the rewritten page in full later the same session. The words are now `APPROVED__What_Achology_Believes_Page_Copy_S386.md` (Launch Content Planning folder), everything below its rule, links already site-relative. It replaces the S372 file named below. It is flowing prose with no bold run-in labels. Everything else in this brief stands.

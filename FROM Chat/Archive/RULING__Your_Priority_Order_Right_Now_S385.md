@@ -1,3 +1,5 @@
+> **ARCHIVED BY CHAT, S390: replaced by `000__QUEUE__What_To_Open_And_In_What_Order_S390`. Its three items (the 42 articles, the quote page template, the book notes recount) sit in Group 2 of the queue and in Part F of `ASK__The_Built_Site_Facts_Chat_Needs_In_One_Read_S390`.**
+
 > **CODE DISPOSITION, S134: WAITS ON item 1, page_gate.py measuring a banded page's first row, landing; queued behind Kain's in-session order (channel fault, then the board stock-take).**
 
 **Needs from Code:** work through this list in order, no need to check back with me between items unless you hit something that needs a ruling.
