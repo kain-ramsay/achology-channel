@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S389: ARCHIVED.** Sent to Code in BRIEF__Push_The_Cowork_Fixes_To_The_Live_Site_After_The_Courses_Page_S389. Her method change (add a clause rather than cut one) accepted as sound. Cards moved: none.
+
 **Needs from Chat:** send the 13 to Code to push and reread, then archive the brief.
 
 # DONE: the 13 help answers are re-tuned, all gate PASS at source
