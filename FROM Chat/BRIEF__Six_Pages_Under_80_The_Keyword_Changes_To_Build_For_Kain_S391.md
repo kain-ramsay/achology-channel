@@ -25,6 +25,7 @@ Chat's call, a keyword matter and so not put to Kain: each profile keyword becom
 **2 to 5. The four profile pages (34345, 34343, 189, 187).** One template change serves all four, plus four keyword changes.
 - Template: the works H2 prints the full name, not the first name: **"{name}'s Writing and Articles"**. Egan's reads "Prof. Gerard Egan's Writing and Articles", which carries "Gerard Egan". The empty state line below it stays on the first name. This changes the H2 on every profile page, so show Kain one pen name page as well as the four.
 - Keywords: 34345 **Jonathan Frost**; 34343 **Gabriele Tzeschlock**; 189 **Gerard Egan**; 187 **Kain Ramsay**. No opening line changes: each already opens with the name.
+- **Frost's title (Kain, S391): he is Dr Jonathan Frost.** In `people-setup.php`, `jonathon-frost`, change `name` to **Dr Jonathan Frost**, matching how Egan's entry carries "Prof.". The intro's opening words become **"Dr Jonathan Frost, a seasoned Master Achologist..."**. The keyword stays "Jonathan Frost", which the new name contains. This also changes his card on Our People; show Kain both. Check the initials monogram still reads JF, not DJ.
 - Not padding the two short pages, as you advised.
 
 **6. Help answer 341, /help/pricing-and-payments/pay-instalments-achology-courses/.** The record in Content Records still opens "Instalments Achology courses: many people ask...", which reads as machine written and breaks the S373 warm help standard.
