@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Already in The Workbook Design Standard section 8 (rotation in 8.1, panel, logos, locked PDF in 8.4, no one-word last line in 8.5, 16.1pt lines), checked against the file this turn. The Safari typing-limit question stays open on Code (reply item 11). No card moved.
+
 **Needs from Chat:** write Kain's rotation rule into The Workbook Design Standard section 8, replacing "the image is chosen by a person, never at random"; the rule is already live in the cover folder's README and its rotation list.
 
 # RULING: workbook cover images are used in turn, 1 to 37, then round again

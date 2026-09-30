@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Written into DSRD 6 section 9 (Version 23) as a recorded exception carried to one site-wide speed fix. No card moved.
+
 **Needs from Chat:** write this ruling into its owning document (DSRD 6 section 9, or DSRD 3 section 4.3, whichever Chat judges owns it). For the factory session.
 
 # RULING: page speed is fixed once for the whole site, not page by page
