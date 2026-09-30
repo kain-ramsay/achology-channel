@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_Image_And_Icon_Optimisation_Card_Closed (queued behind the Reviews page and the Our People card).**
+
 **Needs from Code:** finish the Image and icon optimisation card, in your backlog after the Reviews page. Code-alone work on things that already exist; no new page, no Kain sitting.
 
 # COMMISSION: close the Image and icon optimisation card
