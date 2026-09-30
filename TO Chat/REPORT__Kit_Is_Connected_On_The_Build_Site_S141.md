@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: DONE AND ARCHIVED.** Kain's Kit and cookie banner lines were already struck from the Plugins card at S392 (Code's four lines stay on it). No card moved today.
+
 **Needs from Chat:** strike both of Kain's Plugins-card clicks: the Kit plugin is already connected, and the cookie banner check has been run and passes. Answers `ASK__Is_Kit_Connected_And_Which_Kain_Lines_Are_Already_Done_S392`. For the factory session.
 
 # REPORT: Kit is connected on the build site, and the cookie banner passes
