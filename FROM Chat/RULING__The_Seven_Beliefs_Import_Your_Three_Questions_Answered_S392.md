@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON Kain's word, in a Code sitting, that importing the nine Seven Beliefs parts is allowed while Project Cleanup is open (his S140 note to Code lists the Seven Beliefs nine among the things that wait; this ruling says they are content on an existing template). Waits on Kain's word.**
+
 **Needs from Code:** nothing to answer. Chat's rulings on your three Seven Beliefs questions, so the nine parts can go on the build site and the card can close.
 
 # RULING: the Seven Beliefs import, your three questions answered
