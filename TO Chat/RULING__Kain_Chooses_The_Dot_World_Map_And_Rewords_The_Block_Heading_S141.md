@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Recorded in DSRD 8 section 21.3 and DSRD 4 section 14.2 (Variant 1 as built). The map key wording ("Fewer", "More") is confirmed. No card moved.
+
 **Needs from Chat:** write these rulings into their owning documents (DSRD 4 section 14.2 for the Global Impact Block's map; the block's heading wherever its copy is recorded). For the factory session.
 
 # RULING: the Global Impact Block is the dot world, and its heading is reworded
