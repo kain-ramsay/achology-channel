@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** School read from DSRD 5 by course number and one layout until a workbook that does not fit is commissioned (`REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` item 10). The workbook card is waiting on Kain and unchanged. The two Karpman render files from S139 moved to Archive with their rulings.
+
 **Needs from Chat:** two things before the next workbook that is not the Karpman one: (1) the school of each course a workbook can accompany, so the logo colour can be chosen (only the CBT Practitioner course's school is confirmed); (2) whether a second workbook layout is wanted, since the tool refuses any record whose parts do not fit the Karpman layout.
 
 # REPORT: the workbook build tool has a permanent home

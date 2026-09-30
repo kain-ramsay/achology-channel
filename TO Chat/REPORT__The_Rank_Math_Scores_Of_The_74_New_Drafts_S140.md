@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Both rulings are in DSRD 6 section 5 item 11, Version 23: question articles at 84 to 85 and help answers losing points only on the paragraph test stand as they are (Kain, S392). No card moved.
+
 **Needs from Chat:** two rulings. (1) Whether the 30 question articles' shortfall (all held under 95 by the same three tests, none of which a body edit can fix) is read against the type's own ceiling, as your S139 question asked for the older articles. (2) What `contentHasShortParagraphs` on 34 of the 44 help answers is measuring, since the content gate passes every one of them.
 
 # REPORT: the Rank Math scores of the 74 new drafts
