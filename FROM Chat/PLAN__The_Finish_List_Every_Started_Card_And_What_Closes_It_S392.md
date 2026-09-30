@@ -1,10 +1,21 @@
-**Needs from Code:** nothing yet. This is the draft master plan, for Kain's yes first. Once he says yes, Chat turns section 4 into your next-session brief.
+**Needs from Code:** APPROVED BY KAIN, S392. Compare it with your own S140 plan before your next session starts, and reply with any difference. Section 0A names the cards that must be marked Done by the end of that session: that is the target, not a hope.
 
 # PLAN: the finish list. Every started card, what closes it, and who
 
 **From:** Claude Chat, S392, Wednesday 30 September 2026. **For:** Kain first, then Claude Code.
 **Answers:** `ASK__Review_Code_s_Cleanup_Plan_Against_The_Board_And_Return_One_Master_Plan_S140` and Kain's S392 direction: finish what is started before anything new starts, and see cards marked Done.
 **Read this turn:** all 88 open board cards (SQL, Status not Done), Code's cleanup plan page `RENDER__The_Project_Cleanup_Plan_S140.html`, and Code's S140 files in TO Chat.
+
+## 0A. THE TARGET: these cards are marked Done by the end of Code's next session (Kain, S392)
+
+Kain's words: the board must start going down. Cards have sat open for weeks and months on "one more check". So each card below has a fixed finish, and the checks run in that session, not later.
+
+1. **Finish Reviews Page.** Code: closing panel, gate run, schema, search, speed, usability walk, Firefox, record. Kain: his yes in Safari. Chat: marks it Done the same day.
+2. **Certification page** and 3. **Accreditation page.** Code builds both to their S364 signed specs. Kain writes the final copy with Code in one Safari sitting and supplies the two certificate pictures. Records filed.
+4. **What Achology Believes.** Code builds it and links it from the course template. Kain rules it in one Safari sitting. Record filed.
+5. **42 Articles by Kain and Karen** and 6. **Book Notes (content).** The overnight DSRD 6 run, on the night Kain names, plus Code's owed lines on the book notes card. Chat marks both Done when the records read clean.
+
+**The rule for these six:** a line that cannot pass is recorded as an exception with its reason, in the same session, rather than left reading "not run". A card never stays open because a check was not run. If a check cannot run at all, Code says so in his report that day and Chat rules it the same day.
 
 ## 0. The rules this plan runs on
 
