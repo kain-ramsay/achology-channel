@@ -1,10 +1,10 @@
 # What Achology Means By Mindfulness
 
-Draft for Kain's signature, S389. Every mindfulness article and Help answer is written from this page and checked against it. Nothing has been rewritten yet.
+Signed by Kain, S389, with his additions below. Every mindfulness article and Help answer is written from this page and checked against it. Nothing has been rewritten yet.
 
 ## What mindfulness is at Achology
 
-Mindfulness is the discipline of looking inward. It is being aware of yourself in the present moment: how you are conducting yourself, and the reasons behind it. It is a blend of self-awareness, self-reflection, self-knowledge and self-understanding, and it exists for one purpose: to understand yourself well enough to take greater responsibility for living a mature, productive and responsible life.
+Mindfulness is the discipline of looking inward. It is being aware of yourself in the present moment: how you are conducting yourself, and the reasons behind it. It is a blend of self-awareness, self-reflection, self-knowledge and self-understanding, and it exists for one purpose: to understand yourself well enough to take a greater degree of mental, emotional and behavioural responsibility for living a mature, productive and responsible life. This is Achology's primary purpose in teaching mindfulness the way it does, and it is what sets Achology apart from most mindfulness teaching.
 
 ## Where this comes from in the courses
 
@@ -14,7 +14,7 @@ The Achology Stance On Self Responsibility gives the purpose: nobody can grow fo
 
 ## What Achology does not teach as mindfulness
 
-Breathing practices, meditation, body scans, tasting or savouring food, relaxation, and being at peace or zoning out. Meditation appears in the courses only as a contrast: lesson 13 of the Diploma Course and lesson 12 of Mindfulness for Mental Health both set mindfulness against meditation and describe them as different things. Two passing phrases (lesson 4 of the Diploma Course lists "physical sensations" among the things to notice, and lesson 21 of Mindfulness for Mental Health says "take a deep breath") are not teaching of a breathing or body practice, so no article builds on them.
+Breathing practices (people have breathed since the day they were born, so breathing is not a technique or a skill to be taught, only an ordinary part of being human), meditation, body scans, tasting or savouring food, relaxation, and being at peace or zoning out. Meditation appears in the courses only as a contrast: lesson 13 of the Diploma Course and lesson 12 of Mindfulness for Mental Health both set mindfulness against meditation and describe them as different things. Two passing phrases (lesson 4 of the Diploma Course lists "physical sensations" among the things to notice, and lesson 21 of Mindfulness for Mental Health says "take a deep breath") are not teaching of a breathing or body practice, so no article builds on them.
 
 ## How it differs from most mindfulness teaching
 
