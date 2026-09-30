@@ -9,13 +9,17 @@
 
 | Q | Slug | Keyword | Body words |
 |---|---|---|---|
-| 5 | mindfulness-without-religion | mindfulness without religion | about 990 |
-| 6 | is-mindfulness-evidence-based | is mindfulness evidence based | about 1,070 |
-| 7 | can-mindfulness-meditation-be-harmful | can mindfulness meditation be harmful | about 1,160 |
-| 8 | mindfulness-therapy | mindfulness therapy | about 880 |
+| 5 | mindfulness-without-religion | mindfulness without religion | about 1,130 |
+| 6 | is-mindfulness-evidence-based | is mindfulness evidence based | about 1,130 |
+| 7 | can-mindfulness-meditation-be-harmful | can mindfulness meditation be harmful | about 1,230 |
+| 8 | mindfulness-therapy | mindfulness therapy | about 1,020 |
 | 9 | what-is-mindfulness-based-stress-reduction | what is mindfulness based stress reduction | about 1,180 |
 
 Each passed the full gate, shares8 (0), the dash check, and a fresh grader after the final fix (Q7 passed on its first regrade; Q5, Q6, Q8 and Q9 needed a second small round). The five keywords are claimed in the register. The four Help answers were approved by Kain (RULING filed).
+
+## Warmth pass (Kain's ruling, S389)
+
+Kain read the first version and said it read robotic and wanted more heart. All five bodies were rewritten warmer, with every sourced fact and limit kept, under the warm-line rule (an invitation, a permission or a plain everyday scene, never a claim about people, feelings, sources or outcomes). Each was re-graded by its fresh grader after the last edit and passed; gate PASS, shares8 0, no dashes on all five.
 
 ## Judgement calls Kain can overturn (all mine, named)
 
