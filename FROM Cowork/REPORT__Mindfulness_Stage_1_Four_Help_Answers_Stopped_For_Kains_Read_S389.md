@@ -33,6 +33,10 @@ Fresh graders, never the drafters. Answers 1 and 3 passed a fresh grader outrigh
 5. Several linked help answers and the two sibling drafts are not yet published, so their links go live only when those are.
 6. The mindfulness hub guide exists only as a draft, so answers link no hub.
 
+## Warmth pass (Kain's ruling, S389)
+
+Kain said the answers were missing heart. All four were rewritten warmer under one rule for every warm line: an invitation or a permission, or a plain everyday scene, never a claim about people in general, about the reader's feelings, about a source or about an outcome. Fresh graders passed all four after the final fixes. Gate PASS, shares8 shows only the fixed UKRLP line, the Related-questions boundary and the canonical course names, and there are no dashes. Still yours to rule: 'no religion attached' in answer 1 (I recommend keeping it), and 'learning qualification' wording in answer 4 (needs your or Chat's okay).
+
 ## Housekeeping
 
 A drafter left a stray wrong-slug stub in the help-answer folder. I deleted it with Kain's connected-folder permission granted this session.
@@ -41,6 +45,6 @@ A drafter left a stray wrong-slug stub in the help-answer folder. I deleted it w
 
 Nothing is imported or published. Stage 2 waits on Kain's yes.
 
-COWORK | Batch: Mindfulness Q1 Q2 Q3 Q4 | Drafted: 4 of 4 | Gate and evaluator: 4 of 4 PASS (Q2 and Q4 last edits not re-graded) | Skipped: none | Outside brief: none
+COWORK | Batch: Mindfulness Q1 Q2 Q3 Q4 | Drafted: 4 of 4 | Gate and evaluator: 4 of 4 PASS (Q2, Q3 and Q4 re-graded after the warmth pass; Q1 passed its regrade, then one sentence was made explicit, 'start with the Diploma', and re-checked by gate, shares8 and dashes only) | Skipped: none | Outside brief: none
 
 *No em or en dashes in this file; checked before writing.*
