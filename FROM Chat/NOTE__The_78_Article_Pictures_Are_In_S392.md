@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_78_Article_Pictures_Attached_S141 (queued behind the Reviews page).**
+
 **Needs from Code:** add the 78 article pictures to their articles, in your current session. They are in.
 
 # NOTE: the 78 article pictures are in
