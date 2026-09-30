@@ -1,4 +1,4 @@
-**Needs from Cowork:** draft ONE exemplar article (Alec Wells, article 1), then stop for Kain's read. Take it after the help one-sentence fixes and your current mindfulness articles. Run the exemplar end to end without stopping to ask; skip and log anything you cannot do.
+**Needs from Cowork:** draft ONE exemplar article (Alec Wells, article 1), then stop for Kain's read. Take it straight after the help one-sentence fixes, before the next mindfulness article: it has a Friday 2 October deadline. Run the exemplar end to end without stopping to ask; skip and log anything you cannot do.
 
 # BRIEF: the elders' articles, six each, one exemplar first
 
