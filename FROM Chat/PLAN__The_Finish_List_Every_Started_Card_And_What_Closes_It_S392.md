@@ -14,6 +14,8 @@
 
 The target is six cards, all about things that already exist:
 
+**UPDATE, later in S392: five of the six are already closed on the board with Kain's yes** (42 Articles, Book Notes, the 154 old articles, Quote page template, Book Notes Page Template). Their leftover checks now live on "Page readiness records across every built page"; the old addresses on "Redirect Strategy"; the quote picture slot and course slot question on "Quote Pages". Code's work on them is unchanged, it simply lives on those cards now. The Reviews page stays the next session's first card to close.
+
 1. **Finish Reviews Page.** Code: closing panel, gate run, schema, search, speed, usability walk, Firefox, record. Kain: his yes in Safari.
 2. **42 Articles by Kain and Karen.** The overnight DSRD 6 run fills the records; any line that cannot pass is written as an exception that day.
 3. **Book Notes (content).** The same overnight run, plus Code's owed lines in item 3 of the card.
