@@ -8,14 +8,18 @@
 **Answers:** `ASK__Review_Code_s_Cleanup_Plan_Against_The_Board_And_Return_One_Master_Plan_S140` and Kain's S392 direction: finish what is started before anything new starts, and see cards marked Done.
 **Read this turn:** all 88 open board cards (SQL, Status not Done), Code's cleanup plan page `RENDER__The_Project_Cleanup_Plan_S140.html`, and Code's S140 files in TO Chat.
 
-## 0A. THE TARGET: these cards are marked Done by the end of Code's next session (Kain, S392)
+## 0A. THE TARGET: these cards are marked Done by the end of Code's next session (Kain, S392, corrected)
 
-Kain's words: the board must start going down. Cards have sat open for weeks and months on "one more check". So each card below has a fixed finish, and the checks run in that session, not later.
+**Kain's correction, S392: NO NEW PAGES.** Code builds nothing new until the started cards are finished. Certification, Accreditation, What Achology Believes, the three unbuilt Knowledge Hub navigation pages, the workbook page and site search all wait. A new page takes days of fine tuning (the Courses page took two and a half), so it never belongs in a finishing session. Section 3 is withdrawn for now, and job 8 of section 4 is struck.
 
-1. **Finish Reviews Page.** Code: closing panel, gate run, schema, search, speed, usability walk, Firefox, record. Kain: his yes in Safari. Chat: marks it Done the same day.
-2. **Certification page** and 3. **Accreditation page.** Code builds both to their S364 signed specs. Kain writes the final copy with Code in one Safari sitting and supplies the two certificate pictures. Records filed.
-4. **What Achology Believes.** Code builds it and links it from the course template. Kain rules it in one Safari sitting. Record filed.
-5. **42 Articles by Kain and Karen** and 6. **Book Notes (content).** The overnight DSRD 6 run, on the night Kain names, plus Code's owed lines on the book notes card. Chat marks both Done when the records read clean.
+The target is six cards, all about things that already exist:
+
+1. **Finish Reviews Page.** Code: closing panel, gate run, schema, search, speed, usability walk, Firefox, record. Kain: his yes in Safari.
+2. **42 Articles by Kain and Karen.** The overnight DSRD 6 run fills the records; any line that cannot pass is written as an exception that day.
+3. **Book Notes (content).** The same overnight run, plus Code's owed lines in item 3 of the card.
+4. **The 154 old articles.** The same overnight run for the records, and the stage 6 inbound link run. Its last step, the redirects, happens at cutover by nature, so Chat proposes moving it onto the Redirect Strategy card, where every other redirect already lives, so this card can close.
+5. **Quote page template.** Built already. One Safari sitting on the real page, Code folds the rulings back, record filed.
+6. **Book Notes Page Template.** Built already. One Safari sitting on its listed items, the responsive fix below 1200px on the existing page, record filed.
 
 **The rule for these six:** a line that cannot pass is recorded as an exception with its reason, in the same session, rather than left reading "not run". A card never stays open because a check was not run. If a check cannot run at all, Code says so in his report that day and Chat rules it the same day.
 
@@ -75,7 +79,7 @@ Confirmed, in this order:
 5. **Plugins card, the Code-only lines:** Tag Manager and the ten events, WP Mail SMTP, the sitemap gap, the crawler rules.
 6. **Schema:** the /testimonials/ defect and Person entities on /about/instructors/.
 7. **The smaller jobs Code listed:** the accent check in content_gate.py, four biography tag fixes, the course-link tool's gap for question articles, the Disclaimers check before the anxiety help answer.
-8. **Build to signed spec:** Certification with Accreditation, then What Achology Believes, then the three unbuilt nav pages. Each returned for one Safari look.
+8. ~~**Build to signed spec**~~ STRUCK by Kain, S392: no new pages until the started cards are finished.
 
 Struck from Code's list for now: the lip-sync proof and the factory session timer. Neither closes a card.
 
