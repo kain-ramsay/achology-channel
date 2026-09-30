@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_200_Course_018_Quote_Pages_Published_S141 (queued behind the Reviews page in this session).**
+
 **Needs from Code:** publish the 200 course 018 quote pages, in your current session's backlog, as a finishing job. Kain's go is given (S392): do not ask him again.
 
 # COMMISSION: publish the 200 course 018 quote pages
