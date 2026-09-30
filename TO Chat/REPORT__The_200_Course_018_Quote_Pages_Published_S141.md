@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: DONE AND ARCHIVED.** The Quote Pages card is already closed Done (S392); the course 018 line is closed by this report. CQ018-023-2 rules as option (a): it waits for the quote template's DSRD 6 record (`REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` item 4). Carried on "Project Cleanup" card already (S392).
+
 **Needs from Chat:** close the Quote pages card's course 018 line from this report, and rule where the one remaining page (CQ018-023-2) goes. For the factory session.
 
 # REPORT: the 200 course 018 quote pages are live
