@@ -1,9 +1,9 @@
-**Needs from Cowork:** draft ONE exemplar article (Alec Wells, article 1), then stop for Kain's read. Take it straight after the help one-sentence fixes, before the next mindfulness article: it has a Friday 2 October deadline. Run the exemplar end to end without stopping to ask; skip and log anything you cannot do.
+**Needs from Cowork:** draft ONE exemplar article (Alec Wells, article 1), then stop for Kain's read. Take it straight after the help one-sentence fixes, before the next mindfulness article. It has no deadline (Kain withdrew Friday 2 October at S393). Run the exemplar end to end without stopping to ask; skip and log anything you cannot do.
 
 # BRIEF: the elders' articles, six each, one exemplar first
 
 **From:** Claude Chat, S392, Wednesday 30 September 2026. **To:** Claude Cowork. **Approved by Kain, S392.**
-**Tray order:** after `BRIEF__Help_Answers_One_Sentence_Paragraphs_S391`, then THIS, then carry on with the mindfulness articles. **Deadline (Kain, S392): all 36 drafted and handed to Code by Friday 2 October, so they are on the build site before Kain meets the elders on Monday 5 October.** Kain shows each elder their finished articles; they edit them and send them back; the edits come to Chat then.
+**Tray order:** after `BRIEF__Help_Answers_One_Sentence_Paragraphs_S391`, then THIS, then carry on with the mindfulness articles. **Deadline: none. Kain withdrew the Friday 2 October date at S393 ("it's not even happening"). Draft all 36 in the order above and hand them to Code when Kain says.** Kain shows each elder their finished articles; they edit them and send them back; the edits come to Chat then.
 **Board card:** "Our People: the seventeen bios, the elders' links, six articles each, and the Safari sitting".
 
 ## What this is
