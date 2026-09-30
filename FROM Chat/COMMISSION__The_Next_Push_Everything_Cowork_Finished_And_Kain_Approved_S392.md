@@ -23,7 +23,7 @@
 
 ## 4. The elders: one registry job
 
-`REPORT__Elders_Exemplar_Alec_Wells_Article_1_For_Kains_Read_S392`: the gate fails the exemplar only because the six elders are not in the people registry. Add their six author keys (Alec Wells, Andrew Nelson, Erika Nadeau, Gabriele Tzeschlock, Gary Kennedy, Dr Jonathan Frost; spellings as on the Our People page). Do not import the article yet: Kain reads it first, and the other 35 follow by Friday 2 October.
+`REPORT__Elders_Exemplar_Alec_Wells_Article_1_For_Kains_Read_S392`: the gate fails the exemplar only because the six elders are not in the people registry. Add their six author keys (Alec Wells, Andrew Nelson, Erika Nadeau, Gabriele Tzeschlock, Gary Kennedy, Dr Jonathan Frost; spellings as on the Our People page). Do not import the article yet: Kain reads it first, and the other 35 follow when Kain says so (no date; the Friday 2 October deadline is withdrawn, Kain S393).
 
 ## To report
 
