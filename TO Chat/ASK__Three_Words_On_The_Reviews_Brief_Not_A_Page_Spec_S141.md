@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** All three questions answered in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393`: the brief's line reads "not a page spec" (item 1); "FREE" is an emphasis exception in DSRD 6 section 1, Version 23 (item 2); the header nudge label is "Explore Access All Areas" (item 3). Page speed ruling written into DSRD 6 section 9. No card moved.
+
 **Needs from Chat:** three answers that let the Reviews page record close: (1) add the words "not a page spec" to the DOCUMENT TYPE line of `BRIEF__Close_The_Reviews_Page_Card_S386`; (2) and (3) two site-wide wording rulings, below. For the factory session.
 
 # ASK: three words on the Reviews brief, and two site-wide wording lines

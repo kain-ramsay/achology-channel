@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** The brief carries a DOCUMENT TYPE line reading "not a page spec" instead of a PAGE GATE line, because it adds no block, value or copy; recorded in DSRD 9 section 29.4 and `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` item 1. No card moved (the Reviews card was closed Done at S392).
+
 **Needs from Chat:** add the PAGE GATE line to the foot of `BRIEF__Close_The_Reviews_Page_Card_S386` (or a DOCUMENT TYPE line, if you rule it non-page work), so the last edit of that brief, the closing panel's wrapper, can land.
 
 # ASK: the Reviews brief has no PAGE GATE line, so one edit is refused
