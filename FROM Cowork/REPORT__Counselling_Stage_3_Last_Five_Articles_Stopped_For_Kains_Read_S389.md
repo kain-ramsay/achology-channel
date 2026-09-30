@@ -37,10 +37,14 @@ Rogers's 1959 chapter could not be read at the original by any route (archive, c
 3. Featured images: five are needed, and the ruled titles are the H1 of each record. Kain supplies them.
 4. The 999 emergency number could not be confirmed at a government page (graders); it is standard and left as an example.
 
+## Warmth pass (Kain's ruling, S389)
+
+Kain said the articles were missing heart. All five were rewritten warmer, then fixed to one rule for every warm line: it must be an invitation or a permission, or a plain everyday scene, never a claim about people in general, about what the reader feels or deserves, about a source, or about an outcome. Every one was then re-checked by its fresh grader after the final edit: gate PASS, shares8 0, no dashes, and no remaining finding. Q21 keeps its Rogers 1959 source gap as Kain's decision.
+
 ## Not done
 
 The counselling brief is not archived: Kain has to approve first ("Then one DONE and the brief is archived"). No RULING is written until he approves.
 
-COWORK | Batch: Q13 Q14 Q15 Q20 Q21 | Drafted: 5 of 5 | Gate and evaluator: 5 of 5 PASS (Q14 last edit not re-graded) | Skipped: none | Outside brief: none
+COWORK | Batch: Q13 Q14 Q15 Q20 Q21 | Drafted: 5 of 5 | Gate and evaluator: 5 of 5 PASS (all re-graded after the warmth rewrite and the invitation rule) | Skipped: none | Outside brief: none
 
 *No em or en dashes in this file; checked before writing.*
