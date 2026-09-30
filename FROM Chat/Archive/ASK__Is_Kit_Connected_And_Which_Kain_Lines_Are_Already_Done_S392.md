@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: DONE. Kit read connected on the install and the cookie banner check run and passed; see TO Chat/REPORT__Kit_Is_Connected_On_The_Build_Site_S141.md.**
+
 **Needs from Code:** read-only answers from the install, in your current session. Chat asked Kain to do something that may already be done; before Chat asks him for anything on the install again, it comes to you first.
 
 # ASK: is Kit connected, and which of Kain's "open" lines are already done
