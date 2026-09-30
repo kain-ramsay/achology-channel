@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_Our_People_Card_Closed_S141 (queued behind the Reviews page and the course 018 quotes in this session).**
+
 **Needs from Code:** close the Our People card, in your current backlog, as a finishing job. No Safari sitting: each open point is settled below by a rule Kain has already made.
 
 # COMMISSION: close the Our People card without a sitting
