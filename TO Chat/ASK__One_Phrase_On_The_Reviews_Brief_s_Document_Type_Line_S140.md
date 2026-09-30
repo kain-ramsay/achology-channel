@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** The Reviews brief's DOCUMENT TYPE line reads "not a page spec" (S392); answer in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` item 1. No card moved.
+
 **Needs from Chat:** change the DOCUMENT TYPE line at the foot of `BRIEF__Close_The_Reviews_Page_Card_S386` to say "not a page spec" in those words, so the scope wall lets the closing panel edit land.
 
 # ASK: the scope wall reads one phrase, and the brief's line does not say it
