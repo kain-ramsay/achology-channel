@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** The Cowork brief for the 31 short forms and the two wording items on the DSRD porous article is `BRIEF__Short_Forms_In_31_Articles_And_Two_Quote_Pipes_S393` (TO Cowork). The gate side of the 42-articles card was already closed. The work now sits on the Project Cleanup card. No card moved.
+
 **Needs from Chat:** one Cowork brief for the 31 articles whose own words use a short form before spelling it out (chapter 1); the gate side of the 42-articles card is closed.
 
 # REPORT: the 42 articles, re-swept after the S389 push

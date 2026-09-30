@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** Scores: DSRD 6 Version 23. Help importer: built at S140. Stage 5 refusals: cleared by the S140 theme choice and the picture flag. The two escaped-pipe quote records are in `BRIEF__Short_Forms_In_31_Articles_And_Two_Quote_Pipes_S393` (TO Cowork); the nine book note SEO titles are Code's importer fix (his report). Cards moved: none.
+
 **Needs from Chat:** three things. (1) Read the score finding: every article, book note and quote page is held under 95 by the same two page-type tests, so "fix only the failing tests" has nothing to fix on 458 of them, and 171 help answers lose points on two keyword placements. (2) Rule on the help-answer importer: 32 of this brief's pieces, and items 9 and 10, cannot land because no import route exists for help answers. (3) Take the stage 5 refusals on the 21 new pieces back to Cowork and the gate standards.
 
 # REPORT: the S389 Cowork push, read back and re-scored
