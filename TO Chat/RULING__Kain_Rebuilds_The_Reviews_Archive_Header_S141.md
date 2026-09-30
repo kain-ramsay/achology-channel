@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Kain's exact words and the rebuilt header are in DSRD 8 section 22.2 and DSRD 9 section 29.4. No separate copy record exists for the Reviews page; DSRD 8 section 22.2 holds his wording. No card moved.
+
 **Needs from Chat:** write these rulings and Kain's two lines of copy into their owning documents (DSRD 9 section 29.6 for the Reviews archive controls; the Reviews page copy record for the wording). For the factory session.
 
 # RULING: the Reviews archive header is rebuilt, with Kain's wording

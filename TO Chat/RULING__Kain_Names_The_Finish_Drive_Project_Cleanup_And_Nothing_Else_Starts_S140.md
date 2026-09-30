@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Written into The Shared Rules as a standing state ("Project Cleanup is open"). The board card is the renamed "Page readiness records" card, now "Project Cleanup: every built page's readiness record, closed one page at a time"; no new card was added. Cards moved: that card (renamed, stamped S393) and Fit Check (merged into it, Done).
+
 **Needs from Chat:** write this ruling into the document that owns it (The Shared Rules, so all three Claudes read it at every open) and use the name "Project Cleanup" for the finish drive on the board and in every plan; and confirm that no session proposes a new page while it is open.
 
 # RULING: the finish drive is named Project Cleanup, and nothing else starts until it is 100% delivered
