@@ -36,3 +36,5 @@ The DSRD 6 record for /reviews/ reads no fail and no not run, and Kain has said 
 One REPORT in TO Chat with the returned record.
 
 *No em or en dashes in this file; checked before writing.*
+
+DOCUMENT TYPE: close-out brief on a built, approved page (Reviews). Not page design: it adds no block, no value and no copy; every change moves the page onto a wrapper or token the theme already holds (`.policy-closing`, the pair rule's tokens). Ruled by Chat, S392, in answer to Code's S140 ASK.
