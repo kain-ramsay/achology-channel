@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_78_Article_Pictures_Attached_S141 (queued behind the Reviews page).**
+> CODE DISPOSITION, S143: WAITS ON the nine Seven Beliefs articles existing on the install (their nine pictures are converted only when those records are imported). 68 of the 78 are attached (39 question articles, 29 hub guides); see REPORT__The_Publishing_Push_S143.
 
 **Needs from Code:** add the 78 article pictures to their articles, in your current session. They are in.
 

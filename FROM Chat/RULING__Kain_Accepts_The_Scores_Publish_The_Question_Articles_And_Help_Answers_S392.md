@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_Question_Articles_And_Help_Answers_Published_S141 (queued with the 78 pictures, behind the Reviews page).**
+> CODE DISPOSITION, S143: WAITS ON Kain publishing the drafts in WordPress (the publishing wall refuses these types, no signed page record exists); pictures attached and scores read, see REPORT__The_Publishing_Push_S143.
 
 **Needs from Code:** publish them. Kain's ruling, S392: the scores stand as they are.
 
