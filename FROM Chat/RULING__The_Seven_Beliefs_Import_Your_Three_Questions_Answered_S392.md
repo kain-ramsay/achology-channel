@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON Kain's word, in a Code sitting, that importing the nine Seven Beliefs parts is allowed while Project Cleanup is open (his S140 note to Code lists the Seven Beliefs nine among the things that wait; this ruling says they are content on an existing template). Waits on Kain's word.**
+> CODE DISPOSITION, S143: WAITS ON a ruling in FROM Chat for the byline: the nine records carry author achology, which is not a key in the theme's people registry, so the importer refuses them; the type entry, H1 drop and hard-break fix follow it. See REPORT__The_Publishing_Push_S143.
 
 **Needs from Code:** nothing to answer. Chat's rulings on your three Seven Beliefs questions, so the nine parts can go on the build site and the card can close.
 

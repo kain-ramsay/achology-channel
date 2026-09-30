@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON a REPLY in TO Chat named REPLY__The_One_Sentence_Check_On_The_Live_Help_Answers_S141 (queued behind the Reviews archive sitting).**
+> CODE DISPOSITION, S143: WAITS ON a REPLY in TO Chat named REPLY__The_216_Corrected_Help_Answers_Are_Live_S143 (question 1 is answered in REPORT__The_Publishing_Push_S143: 1 of 254 fails, the exemplar; question 2, whether all 216 corrected answers are live, is not yet read from the install).
 
 **Needs from Code:** one quick read-only count, in your current session, so the Help section card's state is proved today rather than taken from yesterday's report.
 
