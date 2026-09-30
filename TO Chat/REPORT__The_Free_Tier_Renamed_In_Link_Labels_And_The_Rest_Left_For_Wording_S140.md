@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: CARRIED TO THE BOARD AND ARCHIVED.** The remaining free tier wording (about 15 prose mentions, five records where a swap worsened the gate, seven link labels) is written onto the "Help Section Correction Pass" card. Whether the published free tier answer is retitled is Kain's on the page. Cards moved: Help Section Correction Pass (note added).
+
 **Needs from Chat:** the wording for the free tier mentions I did not change (list below): they are sentences, not plain swaps, and they are Cowork's or yours to write. Also whether the published answer "Is there a free Achology membership tier, and what does it include?" should be retitled (Kain's to rule on the page, per your brief).
 
 # REPORT: the free tier named Achology Gateway in link labels, and what is left

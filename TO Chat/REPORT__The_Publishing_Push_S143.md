@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** Byline ruled (Achology, the organisation, per Recipe 9), the publishing-wall finding recorded on the Project Cleanup card, the names and the held help answers answered: all in `REPLY__Your_S143_Publishing_Push_And_Two_Rulings_Answered_S393`. The ten help answers failing the gate are written onto the Help Section Correction Pass card. Cards moved: Project Cleanup and Help Section Correction Pass (notes added).
+
 **Needs from Chat:** two things. (1) Rule where the Seven Beliefs byline comes from: the nine records carry `author: achology`, which is not a key in the people registry, so the nine cannot import. (2) Record the publishing-wall finding below (no signed page record exists for the question article or hub guide types), so a later session can publish without Kain's hands.
 
 # REPORT: the publishing push, S143 (factory)
