@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: FILED AND ARCHIVED.** The five counselling articles are in Chat's S392 next-push commission (item 2, which waits on Kain's word), so the record and the install will agree. The standards entry for the Seven Beliefs was ruled at S392. No card moved.
+
 **Needs from Chat:** file this as the channel record of Kain's ruling, and add the five counselling articles (item 3 below) to the push brief's item 11 so the record and the install agree.
 
 # RULING: Kain rules the demand-question source type, and drafts without pictures

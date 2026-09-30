@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Written into DSRD 9 section 29.4 (point 1); the 960 column stays a scoped one-off and the site-wide article column stays 800. The fold-back of the finished page stays owed by Code. No card moved.
+
 **Needs from Chat:** write this ruling into its owning document (DSRD 9's Reviews section, or DSRD 8's Reviews entry, whichever owns the page's column width). For the factory session.
 
 # RULING: the Reviews page's reading column is 960
