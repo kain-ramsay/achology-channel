@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S142: WAITS ON Kain's word to start the push, after the gateway block he has Code on now is finished.
+
 **Needs from Code:** the next finishing push, once the work Kain has you on now is done. Every piece below is already approved by Kain; do not ask him again.
 
 # COMMISSION: the next push, everything Cowork has finished and Kain has approved
