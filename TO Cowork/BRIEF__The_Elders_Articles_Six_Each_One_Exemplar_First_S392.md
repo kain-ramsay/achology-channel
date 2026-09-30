@@ -3,7 +3,7 @@
 # BRIEF: the elders' articles, six each, one exemplar first
 
 **From:** Claude Chat, S392, Wednesday 30 September 2026. **To:** Claude Cowork. **Approved by Kain, S392.**
-**Tray order:** after `BRIEF__Help_Answers_One_Sentence_Paragraphs_S391` and the mindfulness articles you are working through. Not a drop-in.
+**Tray order:** after `BRIEF__Help_Answers_One_Sentence_Paragraphs_S391`, then THIS, then carry on with the mindfulness articles. **Deadline (Kain, S392): all 36 drafted and handed to Code by Friday 2 October, so they are on the build site before Kain meets the elders on Monday 5 October.** Kain shows each elder their finished articles; they edit them and send them back; the edits come to Chat then.
 **Board card:** "Our People: the seventeen bios, the elders' links, six articles each, and the Safari sitting".
 
 ## What this is
@@ -23,7 +23,7 @@ Draft **Alec Wells, article 1: "What does it mean to take responsibility when no
 
 ## Care points
 
-- These carry real people's names. Nothing publishes until that elder has okayed their six titles and their drafts; Kain handles that with them.
+- These carry real people's names. Kain shows each elder their articles on Monday 5 October and they send back their edits; that is the elders' approval, so nothing needs their okay before you draft.
 - No health claims, no diagnosis, nothing that reads as therapy advice (Gary and Erika's topics sit near grief and helping; keep them in the growth frame).
 - No em or en dashes.
 
