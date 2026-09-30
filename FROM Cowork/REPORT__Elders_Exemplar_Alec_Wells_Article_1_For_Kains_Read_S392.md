@@ -10,7 +10,7 @@ Replaces the earlier single-exemplar report.
 
 **Left out for Kain to rule:** Alec's medical and treatment history (AW01 now says only that he stepped back from work), and the esoteric material in his Article 3.
 
-**For Alec to confirm on Monday:** "lead paramedic" (his biography says emergency services professional); the anthology-chapter opening of AW05 (keep or open from his thirty years of service); each Notes block lists the hedged connective lines.
+**For Alec to confirm on Monday:** Paramedic confirmed by Kain; the anthology-chapter opening of AW05 (keep or open from his thirty years of service); each Notes block lists the hedged connective lines.
 
 **Owed:** the six elder keys in the people registry and the real gate's standards file; featured_image, hub and inbound_from on each record; Alec's Our People biography to link to his articles once approved.
 
