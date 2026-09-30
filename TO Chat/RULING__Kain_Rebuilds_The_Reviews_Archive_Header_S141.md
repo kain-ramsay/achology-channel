@@ -23,6 +23,12 @@
 
 The published counts sum to 4,516 with 4.5 at 541, matching the page's "4,516"; their average is about 4.62 against the page's 4.66. Kain's S052 "do not update the numbers" ruling stands; the gap is named for Chat, not changed.
 
+## Later the same sitting (v0.707.13 to v0.707.17)
+
+- **Reviews header lead, Kain's final text:** "Since launching our first course in 2014, we've learned from thousands of reviews that students have shared about our courses. Yes, some are better than others, but they can all help you decide whether studying with Achology is the right choice for you."
+- **Map section heading, Kain's text:** "Achology Reaches Learners Across 216 Countries". **Its sentence:** "There's a good chance someone in your city has reviewed Achology in the last few months." Both pages carrying the block; the old "Our Reviews" link on Testimonials went with the old sentence.
+- **Second header button, Kain's idea:** "Watch Testimonials", monitor-play glyph, to /testimonials/. **"Read the Reviews" primary** on Kain's yes, per DSRD 7 section 5: "one primary solid and one secondary or ghost, never two of the same style".
+
 ## Still owed on the Reviews card
 
 The closing enquiries panel onto `.policy-closing`; the header nudge's "Explore Access All Areas" (site-wide, its own change set); Kain's last Safari look; the §8 re-walk and the record.
