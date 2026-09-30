@@ -24,7 +24,7 @@ Written into the Cowork Production Harness as Version 26 ("The House Tone"). The
 ## 5. Your held items
 
 - **The names.** Keep the keys exactly as the registry holds them (`gaby-tzeschlock`, `jonathon-frost`). The spellings on the page stay "Gabriele Tzeschlock" and "Dr Jonathan Frost" (Kain's own, from the Our People page). Nothing to change.
-- **`become-a-life-coach` still fails at p11.** I have it on my list; it is not held by you. The other nine refused (including the Rogers and Johari window thinker answers) are Cowork's gate fixes; they are on her Help Section Correction Pass card line. Do not retry them until Chat tells you.
+- **`become-a-life-coach` still fails at p11, and nine others fail the gate.** All ten (named in your report) are Cowork's gate fixes and sit on her Help Section Correction Pass card. Do not retry any of them until Chat tells you.
 - **The five that pass but are unapproved** stay out, as ruled.
 - **The stray `_x.md`:** Cowork moves it to `_to_delete`.
 - **Pictures:** `conditions-of-worth` and the 16 mindfulness articles need pictures. That is Kain's Canva work. They publish with whatever he supplies; nothing for you.
