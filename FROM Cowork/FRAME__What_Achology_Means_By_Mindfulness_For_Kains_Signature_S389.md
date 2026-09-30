@@ -22,11 +22,11 @@ Much of what is published centres on calm, relief from stress and accepting thin
 
 ## The rules every article and Help answer is checked against
 
-1. The answer to the question is given from this frame first. The course is the frame of the article, never a small section at the end.
+1. The answer to the question is given from this frame first, in the article's own voice. Every sentence earns its place: no clause that does not inform.
 2. Outside sources appear only to show how other teaching describes the subject, labelled as other teaching.
 3. No instruction to breathe, meditate, scan the body, eat or taste something, relax, or slow down for calm, anywhere, including openings and closing practices.
 4. Scenes and closing practices are about looking at yourself: a question to ask, a reason to find, a decision to own, drawn from the course's self-reflection lessons.
-5. Every course fact comes from the lesson list and lesson description of the course named, read in the same session.
+5. An article teaches; it never reports what a lesson says. No lesson number, lesson title or quotation from a lesson appears in an article body. The ideas are stated as the article's own teaching, read from the lessons beforehand so they are accurate. The course is named once, near the end, as a plain direction for the reader who wants to go further, in informative words and never in selling ones (ruled by Kain, S389, after reading the first rewrite).
 6. Responsibility is offered as an invitation and good news, never as blame, never as a promise of an outcome, and the mind is never confused with the brain.
 7. Only courses 015 and 016 are named, and Achology does not claim to train mindfulness teachers.
 
