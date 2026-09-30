@@ -29,6 +29,12 @@ The S052 bubble markers and their bloom, and the frosted country panel with its 
 
 The approved state exported into the Global Impact Block's design folder as the next prototype version with its build sheet. Not done in this change set; carried in the S141 session report as not finished.
 
+## Second ruling, same sitting: the block's type and depth (v0.707.8 to v0.707.10)
+
+**Kain's words:** "the fonts just seem a little bit all over the place ... not particularly balanced ... there's quite a lot of dead space ... the bar on the bottom, with three different layers, that's just, it's not quite right either", then, of four rendered options and two refinements: "I prefer the one compact bar option ... look at the padding or spacing from the edge of the block inwards ... the font could be a little bit smaller ... centralized ... a little vertical hairline in between each of the four ... the sentence ... positioned to the right hand column as a mini disclaimer ... in the bottom corner", and on the render: "Yeah, that's perfect, Claude. Please put it live."
+
+**What shipped:** one type rule for the block (Como for the heading and every number, Mulish for every word; heading 24, lead 16, figures 28, labels and captions 12, sentence case); inside padding --sp-2xl; figure bar without icons, each figure centred over its label with a hairline between; country labels one line, number only (the key says what it counts; "students" kept for screen readers); the honest line in the map's empty bottom-right ocean, dropping just under the map's corner where the map is narrower than 880 (Testimonials, tablet). Panel 598 tall at 1200 on /reviews/ (was 685 at v0.707.7). Measured live at 1200, 768 and 390 on /reviews/ and at 1200 and 390 on /testimonials/: no label off its pin or outside the panel, no sideways scroll.
+
 ## A number Chat may want to rule
 
 The old marker tooltips said the United States had 204,910 students; the panel (and now the labels) say 202,893. The same gap runs through the five. The labels keep the panel's figures, per Kain's S052 "do not update" ruling on the numbers. Which set is the record is Chat's to confirm.
