@@ -23,6 +23,8 @@ Changed, records and pages (12 published, 1 draft), bodies sent and 12 read back
 - **Working notes and the term register's own rows** mention the old names inside the records' notes sections; those never reach a page and were left.
 - **The theme:** I did not search the theme's own text for the old names; that is a theme edit.
 
+**One thing to know:** my commit of these 13 also swept up four mindfulness help records that another session had edited and not yet committed (`free-mindfulness-course`, `is-a-mindfulness-qualification-worth-it`, `learn-mindfulness-course-book-or-app`, `mindfulness-courses-which-one-to-take`). I did not write those; they are only versioned now.
+
 OWED BACK: the wording for the mentions above.
 
 *No em or en dashes in this file; checked before writing.*
