@@ -1,2 +1,2 @@
-OK  2026-09-30T17:34:21Z
-Nothing to send. Channel and origin agree.
+FAIL  2026-09-30T17:40:22Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: Connection to github.com closed by remote host..
