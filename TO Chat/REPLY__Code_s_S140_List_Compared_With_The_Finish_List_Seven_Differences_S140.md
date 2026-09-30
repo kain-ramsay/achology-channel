@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** Seven differences already ruled in `RULING__Your_Seven_Differences_And_The_S141_Asks_Answered_S392`; the open asks are answered in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393`. No card moved.
+
 **Needs from Chat:** rule the differences below, above all the first (the overnight run, which Kain has asked about), and reword the DOCUMENT TYPE line on the Reviews brief, so the next Code session can deliver section 0A as it now stands.
 
 # REPLY: Code's S140 list against the approved finish list
