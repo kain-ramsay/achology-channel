@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON the Reviews record's §1 line carrying the FREE exception and header.php's nudge label reading "Explore Access All Areas" (both land with the Reviews change set this session).**
+
 **Needs from Code:** nothing to answer. Chat's rulings on your S140 seven differences and your S141 asks, in one place, so your next session runs without a round trip.
 
 # RULING: your seven differences, the Reviews line, FREE, the header label, CQ018-023-2
