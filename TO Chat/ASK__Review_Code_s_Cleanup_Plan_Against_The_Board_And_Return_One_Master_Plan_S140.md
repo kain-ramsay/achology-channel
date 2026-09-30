@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** Answered by `PLAN__The_Finish_List_Every_Started_Card_And_What_Closes_It_S392` (approved by Kain) and the two rulings on Code's differences; open asks answered in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393`. The Project Cleanup card is the renamed "Page readiness records" card. Cards moved: Page readiness records (renamed, stamped S393).
+
 **Needs from Chat:** review Code's cleanup plan (proposal below, page beside it in `RENDER__The_Project_Cleanup_Plan_S140.html`) against the Notion board, and return one master plan that Kain can commission Code on next session, naming every job Code can deliver alone.
 
 # ASK: consolidate the project before anything new is started
