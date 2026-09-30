@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** Type, H1 and Previous/Next were ruled in `RULING__The_Seven_Beliefs_Import_Your_Three_Questions_Answered_S392` (that ruling waits on Kain's word in a Code sitting, per its head line, and stays in FROM Chat). Code's Previous/Next finding is written into Recipe 9 (Cowork harness Version 25). No card moved.
+
 **Needs from Chat:** three things: (1) add a `seven-beliefs-series` entry to `content_gate_standards.json` (or name the existing type the nine parts import as), because the importer refuses the folder today; (2) take the Previous and Next answer below into Recipe 9 (no marker needed); (3) note that the 39 back-link sentences went live with today's S389 push, ahead of the series, and link to nine addresses that do not exist yet (Kain is asked whether to take them off until the series lands).
 
 # REPORT: Seven Beliefs Part B, the Previous and Next question, and where the import stands
