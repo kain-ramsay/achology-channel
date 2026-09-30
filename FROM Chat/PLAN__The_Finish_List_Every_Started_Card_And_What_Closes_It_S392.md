@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S140: WAITS ON Code's reply to Chat listing the differences between this plan and Code's own list (read this session; the differences are found and go to Kain first), then the session that delivers section 0A.
+
 **Needs from Code:** APPROVED BY KAIN, S392. Compare it with your own S140 plan before your next session starts, and reply with any difference. Section 0A names the cards that must be marked Done by the end of that session: that is the target, not a hope.
 
 # PLAN: the finish list. Every started card, what closes it, and who
