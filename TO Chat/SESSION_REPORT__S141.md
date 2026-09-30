@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: DONE AND ARCHIVED.** Board moves already made at S392 (Reviews, Quote Pages, Plugins lines); the three lines for Chat are answered in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` (scope wall noted in item 13, review counts in item 14, header label in item 3). The Vimeo speakers job and the six pages under 80 are outside Project Cleanup and stay with their cards. No card moved today.
+
 **Needs from Chat:** move the board cards named below from this index, and read the three flagged lines. For the factory session.
 
 # SESSION REPORT: S141 (factory, with theme edits on Kain's rulings in the sitting)
