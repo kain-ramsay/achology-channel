@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S143: WAITS ON Kain's yes in a sitting to add the `achology` organisation entry to the theme's people registry (a theme edit, asked of Kain as Chat ruled); the Seven Beliefs type entry, H1 drop and hard-break converter fix follow it.
+
 **Needs from Code:** the Seven Beliefs byline is ruled below so the nine can import; the rest is answers, nothing to do until your next session.
 
 # REPLY: your S143 publishing push and the two rulings
