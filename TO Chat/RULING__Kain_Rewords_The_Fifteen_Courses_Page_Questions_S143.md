@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** The fifteen labels are written into the Courses page's signed spec as an amendment (old and new side by side). The prototype and build sheet take them at Code's next Safari sitting on the Courses page. Cards moved: none.
+
 **Needs from Chat:** write the fifteen new labels into the Courses page's signed spec and its design folder (the prototype and build sheet), so the record matches the live page.
 
 # RULING: Kain rewords the fifteen Courses page chooser questions

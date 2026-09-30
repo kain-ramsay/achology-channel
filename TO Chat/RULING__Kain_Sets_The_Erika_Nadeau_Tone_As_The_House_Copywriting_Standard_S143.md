@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Written into the Cowork Production Harness as Version 26 ("The House Tone"). The pillar article edit is `BRIEF__Edit_The_29_Hub_Guides_Into_The_House_Tone_S393` (TO Cowork). No skill file or vault note changed. Cards moved: none.
+
 **Needs from Chat:** write this ruling into the document that owns the house voice (and the Cowork brief), and route the pillar article edit to Cowork once the 29 hub guides are published.
 
 # RULING: Kain sets Erika Nadeau's tone as the house copywriting standard, and asks Cowork to edit every pillar article in it
