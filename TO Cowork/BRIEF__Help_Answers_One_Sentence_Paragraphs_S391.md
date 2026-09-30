@@ -1,8 +1,8 @@
-**Needs from Cowork:** fix the one-sentence paragraphs in 30 help answer records, then stop and report. Run it end to end without stopping to ask; skip and log anything you cannot do.
+**Needs from Cowork:** DO THIS NEXT (Kain, S392): finish the mindfulness article you are on, then take this before the next one. Fix the one-sentence paragraphs in 30 help answer records, then stop and report. Run it end to end without stopping to ask; skip and log anything you cannot do.
 
 # BRIEF: 30 help answers, join or grow their one-sentence paragraphs
 
-**From:** Claude Chat, S391, Tuesday 29 September 2026. **To:** Claude Cowork. **Not a drop-in (Kain, S391 close):** finish the articles you are working through first; take this after them, in your tray order.
+**From:** Claude Chat, S391, Tuesday 29 September 2026. **To:** Claude Cowork. **Not a drop-in (Kain, S391 close):** finish the articles you are working through first; take this after them, in your tray order. **SUPERSEDED, Kain S392: this now jumps the queue.** Finish the article in hand, then do this before the next article. It closes the Help section card, and Kain wants the board going down.
 **Why:** Kain's S361 rule: a help answer has no one-sentence paragraphs. Code built the check into `content_gate.py` and ran it on all 254 published help answers (`REPLY__The_Help_Section_Three_Checks_S139`, channel Archive). 31 fail. This is the last thing between the help section card and Kain's read.
 
 ## The rule
