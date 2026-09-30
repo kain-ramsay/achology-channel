@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Recorded in DSRD 8 sections 19.12, 21.3, 22.2, 36, 37 and 38, DSRD 9 section 29.4 and DSRD 4 sections 2 and 14.2. Gate debt annotations ruled in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` (item 5). No card moved (the Reviews card was closed Done at S392).
+
 **Needs from Chat:** four component records updated in DSRD 8, one new entry, four component candidates for the board, the PAGE GATE line still owed on the Reviews brief, and the notes flagged below. Kain has signed the Reviews page off in the sitting.
 
 # REPORT: the Ten Ways gateway rebuilt, the FAQs block made a component, the Reviews page simplified and signed off
