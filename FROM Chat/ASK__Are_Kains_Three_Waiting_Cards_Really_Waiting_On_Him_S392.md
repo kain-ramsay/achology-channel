@@ -6,9 +6,9 @@
 
 **Why:** the Plugins card's two Kain lines turned out to be done months ago. The three cards below also say "waiting on Kain". Chat will correct each from your answer, and only bring Kain what truly needs him.
 
-## 1. Course page template (one design for all 28 course pages)
+## 1. Course page template: WITHDRAWN
 
-The card says: Kain approves it on the build site in Safari on Mac, iPad and phone, with its DSRD 6 record. Is the single course page template built and in use on the build site? Has Kain already ruled it in a sitting (name the session if so)? What, exactly, is left?
+Kain, S392: it is not designed or built yet, and is shelved until the finish drive is over. Do not answer this part.
 
 ## 2. The 70 course and school images with the old lockup
 
