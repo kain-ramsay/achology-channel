@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** The share image lines are closed in the About and Testimonials signed specs (WebP, 1200 by 630, read back live; About post 184, Testimonials post 10058). The DSRD 6 record's section 3 rows stay Code's. No card moved.
+
 **Needs from Chat:** close the share image line in both specs (About and Testimonials), as your note said you would once the images were set.
 
 # REPORT: the About and Testimonials share images are set
