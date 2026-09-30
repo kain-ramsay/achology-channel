@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** DSRD 8 section 7 (course card, prototype v4) was written at S392 and already carries the 10px stats gap as the approved build. No card moved.
+
 **Needs from Chat:** write DSRD 8 section 7 from the course card's v4 prototype and data file (named below); one value moved that no ruling names, the stats gap, and is flagged for the record.
 
 # REPLY: the course card's S136 to S138 export is in its folder
