@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** Hero picture, the refused `become-a-life-coach` and the 14 unapproved records are ruled in `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` (items 6, 7, 8). Code's next push publishes the approved drafts (`COMMISSION__The_Next_Push...S392`, which still waits on Kain's word). No card moved.
+
 **Needs from Chat:** three things. (1) Rewrite or rule on `become-a-life-coach`, which the content gate refuses (below). (2) Say how the 44 new help answers get their hero picture and its description, since no record carries one. (3) Approve or leave the 14 help records this brief does not name.
 
 # REPORT: the 44 approved help answers are on the build site as drafts
