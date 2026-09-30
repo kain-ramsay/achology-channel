@@ -1,6 +1,6 @@
 # Erika Nadeau, six articles: report for Kain's read (S392)
 
-**Status.** Six `instructor-article` records, ER01 to ER06, drafted, graded twice by fresh graders, fixed, and gated on the private gate copy (all PASS, zero dashes, no shared six-word run with any other elder body except course-name and link-label boilerplate). Reader page published.
+**Status.** Six `instructor-article` records, ER01 to ER06, drafted, graded three times by fresh graders (the last two rounds after the voice rewrite), fixed, and gated on the private gate copy (all PASS, zero dashes, no shared six-word run with any other elder body except course-name and link-label boilerplate). Reader page published.
 
 | # | Keyword | Title | Category | Course close |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@
 Body lengths 1,214 to 1,291 words. Demand evidence, claims and Rank Math fields are in each record.
 
 **For Kain.**
-- Erika's voice is my reading of her bio and her one article (warm, frank, grief-informed, honest about getting it wrong). Kain has not described it. Correct it if it differs.
+- Voice: rewritten to Kain's description (strong, authentic, loving, never harsh; heart for women and mothers; helps people understand themselves). The raising-a-child-alone line comes from his description, used lightly in ER02 and ER06 only; mother asides in ER02 and ER04 only.
 - "Spectacularly wrong" (her bio phrase) appears once, in ER01 only.
 - Grief and identity are health-adjacent: kept non-clinical, no loss of health, a signpost sentence to a qualified person in ER03 and ER06.
-- Her material is thin. Every line that is mine, not hers, is hedged and listed in each record's Notes under "What Erika should confirm". A second-round grade found further unlisted lines; the last round hedged, cut or listed them, and that final round was not graded again.
+- Her material is thin. Every line that is mine, not hers, is hedged and listed in each record's Notes under "What Erika should confirm". A second-round grade found further unlisted lines; the last round hedged, cut or listed them, and the final fix round was not graded again.
 - Course closes were chosen by Cowork; duplicates across elders tolerated.
 
 **Open, unchanged.** Real gate's course-link check never run (private gate lacks the module); course facts checked by hand against DSRD 5 and DSRD 4. `featured_image`, `hub`, `inbound_from` unset. Real gate's author registry needs `erika-nadeau`.
