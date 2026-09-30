@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_200_Course_018_Quote_Pages_Published_S141 (queued behind the Reviews page in this session).**
+> **CODE DISPOSITION, S141: DONE. All 200 were already live since S130; 199 read live today with cover and share card, CQ018-023-2's rewrite waits at the wall; see TO Chat/REPORT__The_200_Course_018_Quote_Pages_Published_S141.md.**
 
 **Needs from Code:** publish the 200 course 018 quote pages, in your current session's backlog, as a finishing job. Kain's go is given (S392): do not ask him again.
 
