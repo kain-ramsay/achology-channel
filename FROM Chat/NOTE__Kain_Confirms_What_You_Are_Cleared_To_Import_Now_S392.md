@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S140: WAITS ON the book notes still owed (the gap between 150 live and the records on disk that print GATE PASS); the choice list, 30 question articles and 44 help answers are done and read back.
+> CODE DISPOSITION, S140: DONE. Choice list added, 30 question articles and 44 help answers on the site as drafts and read back, book notes checked (150 records, 150 live, no gap); see TO Chat/SESSION_REPORT__S140.md.
 
 **Needs from Code:** nothing to answer. Kain's confirmation, S392: everything listed under "Cleared" is approved and ready, so import it now, in your article backlog turn, before template work.
 
