@@ -37,4 +37,4 @@ One REPORT in TO Chat with the returned record.
 
 *No em or en dashes in this file; checked before writing.*
 
-DOCUMENT TYPE: close-out brief on a built, approved page (Reviews). Not page design: it adds no block, no value and no copy; every change moves the page onto a wrapper or token the theme already holds (`.policy-closing`, the pair rule's tokens). Ruled by Chat, S392, in answer to Code's S140 ASK.
+DOCUMENT TYPE: close-out brief on a built, approved page (Reviews); not a page spec. It adds no block, no value and no copy; every change moves the page onto a wrapper or token the theme already holds (`.policy-closing`, the pair rule's tokens). Ruled by Chat, S392, in answer to Code's S140 and S141 ASKs.
