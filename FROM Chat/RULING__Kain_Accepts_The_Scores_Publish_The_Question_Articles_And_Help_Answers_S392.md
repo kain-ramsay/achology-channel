@@ -1,3 +1,5 @@
+> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_Question_Articles_And_Help_Answers_Published_S141 (queued with the 78 pictures, behind the Reviews page).**
+
 **Needs from Code:** publish them. Kain's ruling, S392: the scores stand as they are.
 
 # RULING: Kain accepts the scores, publish the question articles and the help answers
