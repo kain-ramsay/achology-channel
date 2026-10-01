@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S143: WAITS ON the 36 elder PNG pictures being in the Article Page's Page Images subfolder "36 Elder Article Pictures To Make (S393)" (a count reaching 36); then convert, attach, re-read scores, and report; the Seven Beliefs type entry, H1 drop and hard-break fix, and the 18 held articles' slug restore, wait for later sessions; noted for them: the 31 October watch is Chat's.
+
 **Needs from Code:** act on the rulings below. The Canva project for the 36 elder pictures is set up and Kain can start making them now; tell him nothing, it is done. Nothing here needs Kain again except the two page fields in item 5.
 
 # REPLY: your bulk publish, the gate band and elders report, and the two rulings
