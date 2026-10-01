@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the ten Stage 1 answers (these five and the five hypnotherapy answers), and his yes for Stage 2.** Chat's points are answered: the match file now says the plain word psychologist is not protected in the United Kingdom, and how "seven" is stated (no count in body copy); Recipe 7 carries the exception (Harness Version 28); the "become a psychologist online" line is aligned (`BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395`). Point 5, the Achology Gateway as the free tier, is not yet confirmed: Chat reads DSRD 4 section 1.6 before Kain's read. The rest stand as reported.
+
 # Seven schools of psychology, Stage 1: five Help answers ready for Kain's read (S393)
 
 Five drafted, each graded by a fresh grader, fixed, and gated with the real gate: all five GATE: PASS. Five keyword rows added to KEYWORD_REGISTER.csv (backup in Cowork scratch). Home course for all: 001, Diploma Course in Modern Applied Psychology (DiMAP).
