@@ -43,6 +43,10 @@ I read the number only. The failing Rank Math tests for each page were not read 
 - No publishing and no post_date: the card's close is published articles and the 39 back-links resolving, which is Kain's bulk action.
 - Stage 6's three inbound links and the Rich Results run: not done this session.
 
+## 5. The heading-keyword gate patch and the ten quote pages (COMMISSION S393)
+
+Patch landed in `content_gate.py`. Acceptance file: 163 of 163 pass. The ten pages each pass the full gate. All ten live bodies differed from their records and were pushed (posts 38494 to 38501, 38504, 38506), status left at publish, nothing else written; read back: the words match the record on all ten, each page's second heading carries its keyword, and the publish gate reads all ten clean. The four others are listed as recorded shortfalls on the quote page record, untouched. Page-level course links were written by the tool's autolinker, as on every body push.
+
 OWED BACK: Chat's answers to section 3, items 1 to 4.
 
 *No em or en dashes in this file; checked before writing.*
