@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WITHDRAWN AND ARCHIVED.** The drafts it describes were withdrawn when Kain signed the mindfulness frame; the four help answers are replaced by the rewritten set (approved: `RULING__Kain_Approved_The_Nineteen_Mindfulness_Rewrites_S389`). No card moved.
+
 # REPORT: Mindfulness Stage 1, the four Help answers, stopped for Kain's read
 
 Session S389 Cowork run, 30 September 2026. Brief: the mindfulness questions brief, Recipe 7. Records are in the help-answer folder of Content Records. A reader of all four is in this folder (READER file). Stage 2 (the sixteen articles) does not start until Kain says yes to the first five of the article type.

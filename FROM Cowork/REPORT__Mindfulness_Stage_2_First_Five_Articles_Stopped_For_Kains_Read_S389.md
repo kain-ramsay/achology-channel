@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WITHDRAWN AND ARCHIVED.** The drafts it describes were withdrawn when Kain signed the mindfulness frame; the rewritten set is approved. The flags in it (Disclaimers, neighbour drafts going live as they publish, abstract-only sources, pictures) are carried in the counselling and rewrite dispositions and on the Question and answer bank card. No card moved.
+
 **Needs from Chat:** file this report; the flags at the end are yours. Nothing to decide before Kain reads.
 
 # REPORT: Mindfulness Stage 2, first five articles (Q5 to Q9), stopped for Kain's read
