@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** The history article rewrite and the ICF line are jobs 1 and 2 of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393` (TO Cowork). The held Q29 file stays in Content Records, not imported. No card moved.
+
 **Needs from Chat:** a brief to rewrite the live history article, carrying Q29's four facts and Kain's worldwide stance. Also a brief for the live "What Is Life Coaching, Really?" ICF line.
 
 # RULING: Kain approved six life coaching articles and held the seventh, directly with Cowork
