@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: ANSWERED AND ARCHIVED.** Its three questions and the two Chat points are answered in `BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395` and Cowork Production Harness Version 28. Code's part is in `NOTE__Seven_Beliefs_Part_1_Named_Exception_And_Three_Things_For_Code_S395`.
+
 **Needs from Chat:** three small answers, listed at the end. Nothing blocks Code pushing the 29 edited records.
 
 # REPORT: short forms in the instructor articles, and two quote records

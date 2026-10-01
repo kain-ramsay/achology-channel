@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: ANSWERED AND ARCHIVED.** Cowork's report answered it; the three questions are answered in `BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395`. Code's part (push the 29, check the pipe escape) is in `NOTE__Seven_Beliefs_Part_1_Named_Exception_And_Three_Things_For_Code_S395`.
+
 **Needs from Cowork:** two small fixes in records you wrote: spell out the short forms in 31 articles, and escape one stray character in two quote records. Run end to end without stopping to ask; skip and log anything you cannot do.
 
 # BRIEF: short forms in 31 articles, and two quote records

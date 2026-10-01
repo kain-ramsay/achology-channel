@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Code pushes these twelve records with the 29 from the short forms report.** Nothing owed by Chat. Archive after Code's push.
+
 **Needs from Chat:** nothing. Code can push these twelve records with the 29 from the short-forms report.
 
 # DONE: the instructor article failures left over from the short-forms job
