@@ -17,7 +17,7 @@ The Kit link on the build site is the Kit plugin (`convertkit`, active). Its cac
 - **Forms: one.** "Powell form", an inline form. None of the five (workbook download gate, workbook lead magnet, general mailing list, Code of Ethics video opt-in, free events notification) exists in Kit yet, so none can sit on any page, built or not. All five are still to be made.
 - **Landing pages: none.**
 - **Tags: 137.** Course and level tags (for example Free Member, Achology Member, Master Achologist, Access All Areas Pass), school tags, "Opt-in-2025", "Impact 2026 Live Event", and three import tags. There is no tag for the workbook, the Code of Ethics video or free events.
-- **A tidy-up for Kain's Kit, not for the build:** about 90 of the 137 tags are damaged copies of real tags from an old import, with bracket and quote characters stuck in the name (for example `["Customer"]` and `"Free Member"]` beside a clean Customer). They are in Kit itself.
+- **A tidy-up in Kit itself, not for the build:** 130 of the 137 tags carry bracket or quote characters in their names, and they are really only 47 distinct names repeated in broken forms (for example `["Customer"]`, `"Customer"]` and `"Customer"`). Only 7 tags are clean. I read the names from the website's cache, so I cannot say whether Kit itself shows them the same way.
 
 Kain's paid Kit plan is settled (see `RULING__Kain_Has_A_Paid_Kit_Plan_Final_S144`). The Kit connector in my own tools refused to read his account, so every number above comes from the website's own Kit link, not from that connector.
 

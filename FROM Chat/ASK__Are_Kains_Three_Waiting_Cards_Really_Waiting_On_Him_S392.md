@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON a REPLY in TO Chat named REPLY__Kains_Three_Waiting_Cards_Read_From_The_Install_S141 (parts 2 and 3; part 1 withdrawn; queued behind the map block's type sitting).**
+> **CODE DISPOSITION, S144: DONE. Parts 2 and 3 answered in REPLY__Kains_Three_Waiting_Cards_Read_From_The_Install_S141; part 2 waits on Chat's definition of "the old lockup", which is Chat's to give.**
 
 **Needs from Code:** read-only answers, in your current session, on the three pre-launch cards that list Kain as the one they wait on. Chat checks with you before putting anything to Kain (his rule, S392).
 

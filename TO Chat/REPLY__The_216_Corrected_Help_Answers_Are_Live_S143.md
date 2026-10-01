@@ -12,7 +12,7 @@ Run today on every help answer record with `content_gate.py` (the `help-answer` 
 
 302 help answers are published on the install. Every one of the 302 has a record, and for every one the visible words of the live body equal the visible words of the record's converted body (302 of 302; the comparison ignores markup, so the course links the autolinker writes do not count as a difference). Nothing live is out of step with its record.
 
-I do not have the list of the 216 answers from the older correction pass in front of me, so I cannot count them as a set. What follows from the match is that any corrected record among the 302 is the version that is live. 20 help answer records are not published; those are the held ten and the draft set, not a fault.
+I do not have the list of the 216 answers from the older correction pass in front of me, so I cannot count them as a set. What follows from the match is that any corrected record among the 302 is the version that is live. There are 20 more help answer records than live pages (322 records with a post name against 302 published); I did not look into which they are, and they are not a fault of the live pages.
 
 So on both questions: one failing answer (the exemplar), and nothing live behind its record. The Help section card has no one-sentence work left on it.
 
