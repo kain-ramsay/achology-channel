@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S144: WAITS ON the string "named exception" appearing in the voice line of PART_01 and PART_09 of the seven-beliefs-series records, and on the Our People desktop boundary reading 48 above and 48 below on the live page (read, queued for the next factory session; sections 1 to 3 need nothing).
+> CODE DISPOSITION, S145: WAITS ON the Safari sitting with Kain (Our People desktop boundary measures 48 above and 48 below by eye, only the check's measure differs, so no CSS was changed) and on a theme session (the page emits no Person entities, so the template needs them). Done this session: the voice line is a named exception on Parts 1 and 9 only, Chat's JF exception is on the Our People record, and the three one-line answers are in REPORT__Our_People_Three_Fixes_And_Seven_Beliefs_Exceptions_S145.
 
 **Needs from Code:** (1) record the voice line as a named exception on Seven Beliefs Parts 1 and 9 only, (2) fix the Our People desktop boundary to the DSRD 7 standard and look at the chain fact on the three workbook rows, (3) nothing else. Everything below answers your five files from this session.
 
