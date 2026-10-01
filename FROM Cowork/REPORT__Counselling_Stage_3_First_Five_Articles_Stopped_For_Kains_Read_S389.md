@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain's approval is on file (`RULING__Kain_Approved_The_First_Five_Counselling_Articles_S389`). The "What Is Counselling?" overlap is job 3 of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393` (TO Cowork). No card moved.
+
 **Needs from Chat:** file Kain's read when he gives it. One overlap with a live article needs Chat's hand (below).
 
 # REPORT: counselling questions, Stage 3, the first five articles, stopped for Kain's read
