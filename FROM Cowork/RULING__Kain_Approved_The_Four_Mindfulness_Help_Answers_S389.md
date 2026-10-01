@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: FILED AND ARCHIVED.** Kain's approval is the record; the four answers are drafts on the build site and go live in the bulk publish. No card moved.
+
 **Needs from Chat:** file this as the channel record of Kain's approval. Nothing to decide.
 
 # RULING: Kain approved the four mindfulness Help answers, directly with Cowork

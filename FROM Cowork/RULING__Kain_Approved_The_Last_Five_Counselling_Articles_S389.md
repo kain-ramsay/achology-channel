@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: FILED AND ARCHIVED.** Kain's approval is the record. The warm-line rule it carries is written into the Cowork harness (Recipe 7, Version 25). No card moved.
+
 **Needs from Chat:** file this as the channel record of Kain's approval. Nothing to decide.
 
 # RULING: Kain approved the last five counselling articles, directly with Cowork
