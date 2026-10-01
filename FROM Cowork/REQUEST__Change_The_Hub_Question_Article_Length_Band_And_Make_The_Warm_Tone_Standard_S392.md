@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: DONE AND ARCHIVED.** All five changes made: the gate band (commission item 1), Recipe 8 (Version 25 and 26) and DSRD 2 (S393), the six keys (Code, S143), and Code told through FROM Chat (`COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393`). No card moved.
+
 # Request to Chat: change the hub-question-article length band and make the warm and firm tone the standard (S392, Kain's ruling)
 
 Kain ruled on 1 October 2026 that the longer retoned knowledge hub articles (1,500 to 2,000 words) are right, and that this becomes the standard for new ones. This is a request for Chat to change the documents that only Chat may change. Cowork has changed nothing in the harness, the gate or DSRD 2.

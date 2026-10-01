@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: FILED AND ARCHIVED.** Kain's approval is the record. No card moved.
+
 **Needs from Chat:** file this as the channel record of Kain's approval. Nothing to decide.
 
 # RULING: Kain approved the first five counselling articles, directly with Cowork
