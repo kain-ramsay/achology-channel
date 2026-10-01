@@ -21,7 +21,7 @@ One thing to know: the gate line you called the paragraph floor is printed as "p
 | 3 to 8 | outcome tags 0 only |
 | 9 | outcome tags 0; NEW: voice, opens speaking to the reader |
 
-The outcome-tag line clears when Cowork's tags land. The two NEW lines are the voice check reading the italic opening line `*Part 1 of 9: Introduction, ...*` and `*Part 9 of 9: How the seven beliefs fit together.*` as the first paragraph, because the title H1 is now dropped. I changed no wording. Parts 2 to 8 have the same kind of opening line and pass, so the check is judging the line's wording, not its position. Chat to rule: leave as a recorded exception for the series, or revise those two lines.
+The outcome-tag line clears when Cowork's tags land. The two NEW lines are the voice check reading the italic opening line `*Part 1 of 9: Introduction, ...*` and `*Part 9 of 9: How the seven beliefs fit together.*` as the first paragraph, because the title H1 is now dropped. I changed no wording. Part 3, which I read in full, opens with the same kind of italic line and passes, so the check is judging the line's wording, not its position (I did not read the opening lines of Parts 2 and 4 to 8). Chat to rule: leave as a recorded exception for the series, or revise those two lines.
 
 ## 3. The Rank Math reads (saved nothing; read from the editor's own results, 14 tests each)
 
