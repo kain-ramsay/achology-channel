@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: DONE AND ARCHIVED.** Code added the six keys to the real gate at S143 (his report). The `jonathon-frost` against `jonathan-frost` mismatch is ruled: both become `jonathan-frost` (commission item 4). No card moved.
+
 # Request to Chat: add the six elders' author keys to the real gate (S392, 1 October 2026)
 
 **Why.** All 36 elder articles (AW, GK, AN, ER, GT, JF records in Content Records/instructor-article) pass my private copy of the gate only because I added their author keys there. The real gate will fail all 36 on the author check until the keys are in `content_gate_standards.json` (shared author_keys).

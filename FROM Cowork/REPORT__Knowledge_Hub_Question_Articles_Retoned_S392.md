@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** The retoned bodies are checked against the live drafts and pushed by Code (`COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393` item 2); the length band is widened in the same commission (item 1). The `_x.md` files are moved to `_to_delete` by Cowork (job 4 of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`). The NLP hypnotherapy regulation check is not yet briefed; it stays as a line on the Question and answer bank card. No card moved.
+
 # Knowledge hub question articles retoned to the warm and firm tone (S392, Kain's ruling)
 
 Scope: the 55 records in hub-question-article that are not the approved exemplar, the held article or how-to-practice-mindfulness. Edited in place. Pristine pre-retone copies are in cw_scratch/hub_backup_S392 on Kain's machine.
