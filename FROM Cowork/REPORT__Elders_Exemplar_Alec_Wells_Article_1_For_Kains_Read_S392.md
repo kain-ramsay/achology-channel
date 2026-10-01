@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain read the exemplar (AW01) with Cowork at S392; the other five Alec articles and the rest of the 36 publish once they clear the gates (Kain, S393), per `COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393` item 3. No card moved.
+
 # REPORT: Alec Wells, six articles, for Kain's read (S392)
 
 Replaces the earlier single-exemplar report.
