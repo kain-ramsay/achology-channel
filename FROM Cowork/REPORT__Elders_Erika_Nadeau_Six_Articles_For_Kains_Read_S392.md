@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain ruled the six publish once they clear the gates, and the elders correct afterwards (S393). Import, publishing and the Our People page check are `COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393` item 3. No card moved.
+
 # Erika Nadeau, six articles: report for Kain's read (S392)
 
 **Status.** Six `instructor-article` records, ER01 to ER06, drafted, graded three times by fresh graders (the last two rounds after the voice rewrite), fixed, and gated on the private gate copy (all PASS, zero dashes, no shared six-word run with any other elder body except course-name and link-label boilerplate). Reader page published.

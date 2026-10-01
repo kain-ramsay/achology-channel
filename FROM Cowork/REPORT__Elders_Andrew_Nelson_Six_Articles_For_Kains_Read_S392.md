@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain ruled the six publish once they clear the gates, and the elders correct afterwards (S393). Import, publishing and the Our People page check are `COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393` item 3. No card moved.
+
 # REPORT: Andrew Nelson, six articles, for Kain's read (S392)
 
 Records AN01 to AN06 in Content Records/instructor-article. Each passes the private gate copy (1,209 to 1,251 body words, reading ease under 70, zero dashes, no shared 6-word runs across the eighteen Alec, Gary and Andrew bodies). Each was graded by a fresh grader and fixed until it passed; the last tiny edits (punctuation, one question, Notes counts) were made by Cowork without a re-grade.
