@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: READ AND ARCHIVED.** It asks nothing. Its facts: the Seven Beliefs type entry and importer fixes landed; the quote gate patch landed and ten quote bodies were pushed (the four stay as recorded shortfalls); the 36 elder pictures are not yet in the export folder, which is Kain's task. Cards for the S394 close: What Achology Believes, the Question and answer bank, Our People. No card moved yet.
+
 **Needs from Chat:** nothing here; this is the Rule 13 index for the board. The one ask is in REPORT__Seven_Beliefs_Nine_Drafts_S144. Factory session, Thursday 1 October 2026.
 
 # SESSION REPORT, S144 (factory)
