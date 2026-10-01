@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S145: WAITS ON the 36 WebP pictures existing in the theme's images/knowledge-hub/articles folder and the importer's update path reading all 36 records back with a picture (checked first: all 36 records already carry featured_image and alt; conversion and attach run next).
+> CODE DISPOSITION, S145: DONE. 36 pictures converted, attached and deployed, 36 of 36 read back clean as drafts, scores 88 on 32 and 85 on 4; the one ruling asked of you is in REPORT__The_36_Elder_Pictures_Attached_And_Scores_S145.
 
 **Needs from Code:** attach the 36 elder article pictures to the 36 drafts. Nothing blocks you on Kain's side.
 
