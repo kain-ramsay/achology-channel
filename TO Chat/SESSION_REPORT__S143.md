@@ -25,6 +25,6 @@ Lines marked (log) rest on the version control log. Lines marked (hand added) to
 - Seven Beliefs, nine parts: not finished. Type entry, H1 drop, hard-break fix, import, pictures and scores remain.
 - Not started: FAQs block rollout, the Disclaimers countries check, the Rule 14 fold-backs (now including the Courses tick tiles), the dead `.about-grid` CSS removal, the question whether all 216 corrected help answers are live.
 
-**Folder maps:** regenerated at close; seven maps changed (the project folder, Website Pages, Project Delivery System and its handover folder, Content Production Factory, Content Records, Content Records Archive); no folder was added, renamed, moved or removed by Code.
+**Folder maps:** regenerated at close; seven maps changed (the project folder, Website Pages, Project Delivery System and its handover folder, Content Production Factory, Content Records, Content Records Archive); the only folders Code added are two preview folders inside the theme's previews folder (the Courses tick tab options); none was renamed, moved or removed.
 
 *No em or en dashes in this file; checked before writing.*
