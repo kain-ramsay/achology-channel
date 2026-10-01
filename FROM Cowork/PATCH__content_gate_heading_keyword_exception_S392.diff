@@ -1,0 +1,38 @@
+--- "/sessions/rcw-013qg7wxuhwpacbsnsy53hxk/mnt/0001. Achology Website Upgrade 2026/04. Content Production Factory + COWORK/content_gate.py"	2026-09-24 16:10:05.000000000 +0000
++++ content_gate.py	2026-10-01 11:18:23.025498287 +0000
+@@ -703,6 +703,25 @@
+ 
+     secs = split_sections(body)
+     expected = std.get("sections") or {}
++    # HEADING KEYWORD EXCEPTION, S391 (Kain's S388 yes; DSRD 2 section 3.3).
++    # On the named pages only, the second or third heading may carry the
++    # focus keyword. Such a heading is read as the fixed heading in that
++    # position, so the order and section-guide checks below stay unchanged.
++    # The keyword-in-a-subheading line is then run for real, further down.
++    _hx = std.get("heading_keyword_exception") or {}
++    _slug = ((read_fields(text) or {}).get("post_name") or "").strip()
++    _kwx = ((read_fields(text) or {}).get("rm_focus_keyword") or "").strip().lower()
++    if _hx and _slug in _hx.get("slugs", []) and _kwx and expected:
++        _std_heads = list(expected.keys())
++        _fixed = [h for h in _hx.get("headings_that_may_carry_the_keyword", [])]
++        _secs2 = []
++        for _i, (_h, _t) in enumerate(secs):
++            if (_i > 0 and _i < len(_std_heads) and _h not in _std_heads
++                    and _std_heads[_i] in _fixed and _kwx in _h.lower()):
++                _secs2.append((_std_heads[_i], _t))
++            else:
++                _secs2.append((_h, _t))
++        secs = _secs2
+     if expected:
+         # Headings may carry the subject's own name, per DSRD 2 section 3.9 as
+         # ruled by Kain at S304. The standard stores them with a {name}
+@@ -1225,7 +1244,8 @@
+             # is stood down, and only where the standard says the headings are
+             # locked. Rank Math marks the page down slightly for it, which is
+             # the price of keeping headings Kain ruled by eye on a real page.
+-            if std.get("headings_locked"):
++            _hx2 = std.get("heading_keyword_exception") or {}
++            if std.get("headings_locked") and fields.get("post_name", "").strip() not in _hx2.get("slugs", []):
+                 r.note("keyword in a subheading",
+                        "NOT APPLICABLE: headings locked by design ruling "
+                        "(%d read)" % len(heads))
