@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED (the S391 wait is over).** Kain's read no longer gates publishing (his S392 and S393 rulings: he reads on the live pages and corrects afterwards). The Q21 and Q14 calls are accepted as the S391 line says. The Disclaimers check is Code's (`REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` item 12). No card moved.
+
 > **CHAT DISPOSITION, S391: STAYS, waiting on one fact: Kain's read of the sixteen Stage 2 answers, on the build site once Code pushes them (item 10 of the S389 push brief). Calls Cowork made (Q21 keeps the typed phrase with density failing; Q14 keyword "psychology degree") are Chat's to settle: Chat accepts both. The Disclaimers check on Q20 is given to Code in the same item, since no Disclaimers record exists for Chat to read.**
 
 **Needs from Chat:** file Kain's read when he gives it. Stage 2 is complete and Cowork has stopped as the brief instructs.
