@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S143: WAITS ON Kain's go-ahead in the sitting to start it (asked of him after the Courses tick tabs shipped); none of the four items is begun. Items: gate band 850 to 2,000 words and 3 to 8 sections and retire the mindfulness overlay; push the retoned bodies where the live draft differs; import the 36 elder articles and publish those that clear their gates; change the key jonathon-frost to jonathan-frost.
+> CODE DISPOSITION, S143: WAITS ON Kain's word on whether the 36 elder drafts (post IDs 39652 to 39687, Rank Math 81 to 85, no pictures) publish in his bulk publish, and on the post dates being written into the records afterwards. Items 1, 2 and 4 are done and read back; item 3 is imported and gated, not published (the wall refuses the type); see REPORT__The_Gate_Band_The_Retoned_Articles_And_The_36_Elders_S143.
 
 **Needs from Code:** (1) widen the hub question article gate, (2) push Cowork's retoned bodies, (3) import and publish the 36 elder articles, (4) fix one name key. Run it end to end; skip and log anything you cannot do. Items 1 to 3 are inside Kain's rulings; item 4 is Chat's call.
 
