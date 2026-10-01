@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: ANSWERED AND ARCHIVED.** Points 5 and 8 are answered (the "psychologist" line is aligned in `BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395`; Recipe 7 carries the exception in Harness Version 28). Points 1 to 4 and 6 stand as sourced. Point 7, the warm filler lines, is Kain's to confirm when he reads the ten answers.
+
 # Ten Help answers: warmer voice, and international title wording on the five psychology answers (S393)
 
 Kain's rulings this session: (1) the answers should be warmer and more human; (2) the audience is international (United States, Canada, Australia, Europe, India), so the psychology answers must not lean on the United Kingdom alone.

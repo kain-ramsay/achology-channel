@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the ten Stage 1 answers (these five and the five seven schools answers), and his yes for Stage 2.** Chat's points are answered: Recipe 7 exception (Harness Version 28); Mindvalley and American Hypnosis Association lines cut (`BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395`). The other points stand as reported; point 6 (the course link check could not run here) is for Code to run when the answers are imported.
+
 # Hypnotherapy questions, Stage 1: five Help answers ready for Kain's read (S393)
 
 Five answers drafted, graded by a fresh grader each, fixed, and gated with the real gate. All five print GATE: PASS. Five keyword rows added to KEYWORD_REGISTER.csv (backup in Cowork scratch). Stage 2 (Q5, Q7, Q8) and Stage 3 (13 articles) wait for Kain's yes.
