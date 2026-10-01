@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S144: WAITS ON the string heading_keyword_exception appearing in content_gate.py (patch is landed by the commission COMMISSION__Land_The_Heading_Keyword_Gate_Patch, a later factory session).
+> CODE DISPOSITION, S144: DONE. Both edits applied to content_gate.py as the commission asked; acceptance 163 of 163.
 --- "/sessions/rcw-013qg7wxuhwpacbsnsy53hxk/mnt/0001. Achology Website Upgrade 2026/04. Content Production Factory + COWORK/content_gate.py"	2026-09-24 16:10:05.000000000 +0000
 +++ content_gate.py	2026-10-01 11:18:23.025498287 +0000
 @@ -703,6 +703,25 @@
