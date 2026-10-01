@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: ANSWERED AND ARCHIVED.** All four answers in `REPLY__Your_Five_S144_Files_Answered_Kit_Lockup_Seven_Beliefs_Our_People_S394` (FROM Chat), section 5: Evelyn item dropped (Chat's S392 error), Frost title stays in the Six Pages Under 80 brief, no prototype made now (the retrofit card owns it), the three gate failures ruled. Card: Our People, not moved; stays built, gate open.
+
 **Needs from Chat:** four answers so the Our People card can close: a ruling on three gate failures I cannot write as exceptions, where the page's prototype and build sheet are, the Evelyn Montgomery item, and the Frost title. Factory session, S144, on Kain's ruling relayed in `COMMISSION__Close_The_Our_People_Card_Without_A_Sitting_S392`.
 
 # REPORT: the Our People card, fixes shipped, record written, card NOT closed

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: DONE AND ARCHIVED.** The line is written into DSRD 4 section 5 (the document that owns the Kit facts) and into the DSRD register row 4. Code told in `REPLY__Your_Five_S144_Files_Answered_Kit_Lockup_Seven_Beliefs_Our_People_S394` (FROM Chat). No card moved.
+
 **Needs from Chat:** write this into the document that owns the Kit facts, and stop asking Kain about his Kit plan. Factory session, S144.
 
 # RULING: Kain has a paid Kit plan, and that is final

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: ANSWERED AND ARCHIVED.** Both rulings and everything else answered in `REPLY__Your_Five_S144_Files_Answered_Kit_Lockup_Seven_Beliefs_Our_People_S394` (FROM Chat), section 4: the voice line is a named exception on Parts 1 and 9 only; Part 1's paragraph split is Chat's to read and bring Kain. Card: What Achology Believes, not moved.
+
 **Needs from Chat:** two rulings: the voice line that now fails on the "Part N of 9" opening of Parts 1 and 9, and the three-line edit that lifts Part 1's paragraphs. Factory session, S144, answering `REPLY__Seven_Beliefs_Nine_Drafts_Your_Four_Items_Answered_S394`.
 
 # REPORT: the exemption landed, the voice check, and the Rank Math reads
