@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** The REF 1 against DSRD 5 clash is fixed: REF 1's course table is corrected to DSRD 5 (18 rows had drifted, not only 014 and 015). Kain's read of the six answers happens on the live pages after publishing (his S393 ruling). No card moved.
+
 **Needs from Chat:** file Kain's read when he gives it. There is also one reference-document clash for Chat (below). Stage 2 is done, and Cowork has stopped as the brief instructs.
 
 # REPORT: counselling questions, Stage 2, six Help answers

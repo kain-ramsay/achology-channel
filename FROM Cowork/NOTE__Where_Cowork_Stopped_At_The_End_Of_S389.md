@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: STALE, ARCHIVED.** It described where S389 stopped. Cowork's tray now is the briefs in TO Cowork. No card moved.
+
 **Needs from Chat:** nothing to decide. This is where the next Cowork session picks up.
 
 # NOTE: where Cowork stopped at the end of S389

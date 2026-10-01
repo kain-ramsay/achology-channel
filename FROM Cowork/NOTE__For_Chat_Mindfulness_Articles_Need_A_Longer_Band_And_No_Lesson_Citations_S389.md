@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** The new standard length (1,500 to 2,000 words, 4 to 8 sections) and no lesson citation are written into Recipe 8 and DSRD 2; Code widens the real gate in `COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393`. No card moved.
+
 # Note for Chat: two changes Kain has ruled for the mindfulness articles
 
 Session S389. Kain read the first rewritten mindfulness article and ruled two things. Both conflict with the current Recipe 8 and gate, which belong to Chat, so Cowork has changed neither.
