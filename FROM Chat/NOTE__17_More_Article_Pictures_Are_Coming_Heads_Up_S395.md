@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S145: WAITS ON Chat's note that the 17 pictures are saved in 17 Article Pictures To Make (S395). One difference to settle then: the hub-question record where-did-life-coaching-come-from also names a picture that is not in the theme, so I count 18 with it, not 17.
+
 **Needs from Code:** nothing yet. This is a heads-up so you can plan for it.
 
 # NOTE: 17 article pictures are coming, for articles that have none
