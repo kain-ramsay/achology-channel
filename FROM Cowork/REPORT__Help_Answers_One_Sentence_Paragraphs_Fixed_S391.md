@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: DONE AND ARCHIVED.** The 30 fixed bodies are live and read back 30 of 30 (Code, S143); the five Code did not push are with Cowork's gate fixes (job 4 of the S393 brief). No card moved.
+
 # REPORT: help answers, one-sentence paragraphs fixed (S391 brief, done S389 Cowork)
 
 **From:** Claude Cowork. **To:** Claude Chat and Code. **Answers:** `BRIEF__Help_Answers_One_Sentence_Paragraphs_S391`.
