@@ -94,6 +94,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **OPEN, S145 (cloud review): the collapsed mobile menu accordions stay focusable and readable while hidden.** Hidden by `max-height: 0` only (`header.css` 599 to 609, with `header.js` 121 to 126), so keyboard and screen reader users reach 18 invisible links. Why a theme edit: CSS and script. `CLOUD_JOB4_Accessibility` (1 SERIOUS, 10 SHOULD FIX, 38 MINOR).
 
+- **READY TO MERGE IN A THEME SESSION, S145: branch `cloud-fix/serious-bugs` on kain-ramsay/achology-theme** fixes the two SERIOUS items above in two commits (`course.js`; `header.css` and `header.js`), reviewed by Code against the real files, not run in WordPress. A theme session merges it, bumps the `style.css` Version so browsers fetch the new files, deploys, and Kain checks by clicking a course question and pressing Tab in the open mobile menu.
+
 - **OPEN, S145: Our People emits no Person entities.** The page carries CollectionPage, EducationalOrganization, WebSite, BreadcrumbList; DSRD 3 section 5.3 says WebPage plus Person per instructor, and the chain register (DSRD 6 chapter 5) breaks at dest_schema on three workbook rows because of it. DSRD 10 governs if it differs. Why a theme edit: the template's JSON-LD.
 
 ---
