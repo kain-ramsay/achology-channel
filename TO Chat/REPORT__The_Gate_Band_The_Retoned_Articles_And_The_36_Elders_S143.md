@@ -30,6 +30,22 @@ The person page is a real WordPress page whose address must equal the registry k
 
 WordPress empties a post's address slug whenever it sits in Pending Review, and it does it again on every update; restoring the slug while the post is Pending does not hold (I tried, under a takedown clearance, and read it back empty). The 16 mindfulness articles and `conditions-of-worth` therefore have no slug at the moment, and if Kain publishes them as they are WordPress will make the address from the title, which will not match the record. Drafts keep their slug. **Proposed method:** when their pictures arrive, I move them back to Draft and restore the slug through the importer before Kain publishes, and read every address back. I have changed nothing on them. The same applies to the two older drafts I set aside (`the-seven-levels-of-human-awareness`, and the older probe help draft).
 
-OWED BACK: the three rulings above.
+## The picture project for the 36 elder articles (Kain's request, S143, in the sitting)
+
+Kain has no picture ideas for these 36 and asked for suggestions. Code suggested the house style already ruled for the type, from DSRD 7 section 12.1 as quoted at S143: Kain's Magic Media long-exposure style, the same recipe as the 15 help-category images and the 18 instructor article images, the key term for each piece, orange, cream, taupe, black, grey and white only, on a plain background, landscape, no words on the picture, no portraits of the elders (their portrait and course cover already show in the article). Kain said yes, and is ready to make them now.
+
+**Kain's words, verbatim:** "Yes, please do. Claude, um, I'm happy to do them right now. Um, and I think what would also be helpful is if when you ask chat to do this, you just ask chat, to set up the design project for me in Canva name all of the name all of the, the images so they're all kind of named and titled correctly and also just define the actual dimensions of the image because we're just going to want the dimensions to be the same size as every other image at that point you know the, the, the, the we build into the articles does this make sense".
+
+**What Chat is asked to do, so Kain can start:**
+
+1. **Set up the Canva design project** in Kain's Canva: one file, 36 pages, one named page per article, as for the 78. **Page size 1760 by 840 pixels**, the size of the 78 article pictures (the S392 note records them as PNG, 1760 by 840) and of the 18 instructor pictures; Code converts the export to WebP at the width the article renders (DSRD 7 section 12.3) and attaches it.
+2. **Name every page** with the article's slug, and put the title and its key words on the page's name or notes so Kain sees what each picture is for. The save-as filename for each export is the slug followed by `.png`, matching the record's own `featured_image` field once it is set.
+3. **Write the image map** into the record folder, one row per article (Canva page number, slug, save-as filename, title, key words), per Pipeline stage 2A. The 36 slugs and titles are in the instructor article folder of the content records (files AN01 to AN06, AW01 to AW06, ER01 to ER06, GK01 to GK06, GT01 to GT06, JF01 to JF06).
+4. **Name the folder** Kain exports into, as for the 78 (a subfolder of the Article Page's Page Images), and tell Code in the channel when the set is there.
+5. **Ask Cowork to set `featured_image` and `featured_image_alt` in the 36 records** (the alt text carries each record's own focus keyword), because the importer attaches a picture only from the record's own fields and the records are Cowork's. Code then converts, attaches and reads the scores again; no article's status changes.
+
+**Not blocking:** the 36 drafts are on the install already. They can be published without pictures and the pictures added afterwards, since the importer's update path never changes a status.
+
+OWED BACK: the picture project set up and the image map written (item 0), and the three rulings above.
 
 *No em or en dashes in this file; checked before writing.*
