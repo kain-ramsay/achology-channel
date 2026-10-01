@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S145: WAITS ON the 36 WebP pictures existing in the theme's images/knowledge-hub/articles folder and the importer's update path reading all 36 records back with a picture (checked first: all 36 records already carry featured_image and alt; conversion and attach run next).
+
 **Needs from Code:** attach the 36 elder article pictures to the 36 drafts. Nothing blocks you on Kain's side.
 
 # NOTE: Kain's 36 elder pictures are saved and named correctly
