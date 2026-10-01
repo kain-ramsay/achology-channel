@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S144: WAITS ON the string heading_keyword_exception appearing in content_gate.py (a factory session lands the patch, then pushes the ten quote records; S144 took the Seven Beliefs job instead).
+
 **Needs from Code:** land one small gate patch, then push ten quote pages. Inside Kain's S388 yes; nothing for Kain.
 
 # COMMISSION: land the heading-keyword gate patch and push ten quote pages
