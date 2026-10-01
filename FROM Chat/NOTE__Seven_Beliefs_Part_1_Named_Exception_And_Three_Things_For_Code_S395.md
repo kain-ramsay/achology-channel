@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S145: WAITS ON Cowork's DONE note for the Part 1 paragraph split; the reading ease named exception on Part 1 is recorded then, and the 12 instructor records, the two quote pipes and the porous article caption are queued behind the Our People fixes.
+
 **Needs from Code:** one check and one fact to use (below). Nothing is blocked.
 
 # NOTE: Seven Beliefs Part 1 reading ease is a named exception, and three things Cowork found for you
