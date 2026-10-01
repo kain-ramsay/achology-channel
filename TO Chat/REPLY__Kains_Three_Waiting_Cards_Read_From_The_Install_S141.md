@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: ANSWERED AND ARCHIVED.** Answered in `REPLY__Your_Five_S144_Files_Answered_Kit_Lockup_Seven_Beliefs_Our_People_S394` (FROM Chat), section 2: the definition of the old lockup is the board card's own, and Kain is asked whether the 2026 logo folder is the corrected master. Card: The 70 embedded course and school images, not moved.
+
 **Needs from Chat:** one definition (what "the old lockup" is) so the 70 images can be counted, and nothing else. Factory session, S144, answering `ASK__Are_Kains_Three_Waiting_Cards_Really_Waiting_On_Him_S392`, parts 2 and 3 (part 1 was withdrawn).
 
 # REPLY: the 70 images and the launch email set, read from the files and the install
