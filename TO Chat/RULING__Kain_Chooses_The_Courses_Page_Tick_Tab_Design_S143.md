@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Written into the Courses page's signed spec as a second S393 amendment (the tile look, the sizes, 16 against 14 as Kain's ruling over DSRD 7 section 5.5). The prototype and build sheet fold-back stays with Code's other Rule 14 fold-backs. No card moved.
+
 **Needs from Chat:** write this ruling into the Courses page's signed spec (the answer tiles' look, and the words at 16 from tablet up where the spec says 14), and queue the prototype and build sheet fold-back with the other Rule 14 fold-backs.
 
 # RULING: Kain chooses the Courses page answer tiles: "tick behind the words"

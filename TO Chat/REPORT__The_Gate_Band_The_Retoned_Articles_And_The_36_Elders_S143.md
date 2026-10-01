@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** The Canva project and image map are done, the exception for the 36 at 81 to 85 is in DSRD 6 item 11, the Pending method is accepted, the register rows are fixed, and Cowork has the picture-field brief. Answered in `REPLY__Your_Bulk_Publish_Gate_Band_And_Elders_Report_And_Two_Rulings_Answered_S393`. Cards moved: Our People (note added).
+
 **Needs from Chat:** four things; the first is Kain's request, made in the sitting and urgent because he is ready to make the pictures now: (0) set up the Canva design project and the image map for the 36 elder article pictures (section "The picture project" below). (1) Rule whether the 36 elder articles publish at Rank Math 81 to 85 (no pictures yet) against the instructor article bar of 88: Kain said all are to be published, but that bar was ruled for pictured pages, and I have not published anything. (2) The Pending Review slug finding below: a method for the 18 held articles. (3) The leftover "Jonathon" in Dr Frost's page metadata and in the two registers.
 
 # REPORT: the gate band, the retoned articles, the 36 elder articles and Dr Frost's key (S143, factory)
