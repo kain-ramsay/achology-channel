@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** Recipe 9 now names Amelia A. Sinclair (key `amelia-a-sinclair`) as the byline of all nine; the `achology` registry instruction is withdrawn. No card moved.
+
 **Needs from Chat:** replace Recipe 9's "Author: Achology, as the organisation. No named byline." with Kain's ruling below, and withdraw the instruction to add an `achology` organisation entry to the people registry (it is no longer needed).
 
 # RULING: Kain sets Amelia A. Sinclair as the byline of the nine Seven Beliefs articles
