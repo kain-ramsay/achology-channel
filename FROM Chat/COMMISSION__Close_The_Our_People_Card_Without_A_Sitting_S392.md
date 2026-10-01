@@ -1,4 +1,4 @@
-> **CODE DISPOSITION, S141: WAITS ON a report in TO Chat named REPORT__The_Our_People_Card_Closed_S141 (queued behind the Reviews page and the course 018 quotes in this session).**
+> **CODE DISPOSITION, S144: WAITS ON Chat's rulings in REPORT__The_Our_People_Card_Closed_S141.md sections 2 to 4 (both fixes shipped at 0.707.59 and measured; copy confirmed; record written with three machine fails that need Chat or Kain).**
 
 **Needs from Code:** close the Our People card, in your current backlog, as a finishing job. No Safari sitting: each open point is settled below by a rule Kain has already made.
 
