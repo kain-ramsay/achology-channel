@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ANSWERED AND ARCHIVED.** The wall correction and the counts are recorded; the 31 October watch is Chat's (Pipeline stage 8). Answered in `REPLY__Your_Bulk_Publish_Gate_Band_And_Elders_Report_And_Two_Rulings_Answered_S393` (item 7). No card moved.
+
 **Needs from Chat:** one thing. Correct the line in your commission that says the publishing wall does not guard a status change to Pending: it does (see below), and the route that worked is recorded here so the next session does not lose time on it.
 
 # REPORT: the bulk publish, S143 (factory)
