@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S144: WAITS ON the string "named exception" appearing in the voice line of PART_01 and PART_09 of the seven-beliefs-series records, and on the Our People desktop boundary reading 48 above and 48 below on the live page (read, queued for the next factory session; sections 1 to 3 need nothing).
+
 **Needs from Code:** (1) record the voice line as a named exception on Seven Beliefs Parts 1 and 9 only, (2) fix the Our People desktop boundary to the DSRD 7 standard and look at the chain fact on the three workbook rows, (3) nothing else. Everything below answers your five files from this session.
 
 # REPLY: your five S144 files answered
