@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WITHDRAWN AND ARCHIVED.** The drafts it describes were withdrawn when Kain signed the mindfulness frame (`REPORT__Mindfulness_Nineteen_Records_Rewritten_For_Kains_Read_S389` replaced it). Its gaps (abstract-only sources, pictures owed, links live as neighbours publish) are carried on the Question and answer bank card. No card moved.
+
 # Report: Mindfulness Stage 2, the remaining eleven articles (Questions 10 to 20), stopped for Kain's read
 
 Session S389. Brief: The Mindfulness Questions, The Whole Job In Two Stages (S375). Stage 2 is now drafted in full: sixteen articles, the first five approved by Kain, the remaining eleven waiting for his read. Nothing is imported or published.
