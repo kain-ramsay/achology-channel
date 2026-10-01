@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S143: WAITS ON Kain pressing publish in WordPress (the 68 article drafts and 48 help answer drafts reading post_status publish). Step 1 is done and read back: 19 stay-back drafts moved to Pending Review under a takedown clearance (the wall does guard a status change to Pending, contrary to this commission), leaving 68 article and 48 help drafts; his plain steps are given in the sitting; dates and live counts follow his publish.
+> CODE DISPOSITION, S143: DONE. 19 stay-back drafts moved to Pending Review, Kain published the 68 articles and 48 help answers on 1 October, post dates and review dates written into 116 records, live counts read back (articles 337, help answers 302, no drafts left); see REPORT__The_Bulk_Publish_S143.
 
 **Needs from Code:** make Kain's bulk publish one click, today if he is in a sitting with you. He said yes to publishing. Everything here is inside rulings he has already given; do not ask him again.
 
