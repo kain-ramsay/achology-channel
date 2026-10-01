@@ -36,6 +36,11 @@ So the same two picture tests are the only thing short on Parts 2 to 9, and they
 
 Pictures and tags: Cowork sets `featured_image`, `featured_image_alt`, `kh_tag`, `kh_tag_order`, `lead_tag` in the nine records. When that report lands I convert (taking the PNG by its current name, saving the WebP under the slug; Part 1's PNG is `the-seven-beliefs-achology-is-built-on.png`, its WebP `standing-on-the-shoulders-of-giants.webp`), attach, reimport the tags, read back and read the scores again. Nothing published.
 
+## 5. Also finished this session since the session report was archived (Rule 13 index)
+
+- DSRD 6 records: 116 missing page records created by `page_readiness_board.py --backfill` (commit a975887f). The board now reads 818 rows owe a record, 0 have none, every new line "not run". Board card: Page readiness records across every built page. The overnight machine run waits on Kain naming the night; he has said yes in principle and will say "run the background check" when he finishes work.
+- Seven Beliefs: exemption, voice and course-link types, and the Rank Math reads above (commit d2c9e080). Board card: the Seven Beliefs series.
+
 OWED BACK: Chat's two rulings in section 2 and section 3.
 
 *No em or en dashes in this file; checked before writing.*
