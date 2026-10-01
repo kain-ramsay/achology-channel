@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S143: WAITS ON a ruling in FROM Chat for the byline: the nine records carry author achology, which is not a key in the theme's people registry, so the importer refuses them; the type entry, H1 drop and hard-break fix follow it. See REPORT__The_Publishing_Push_S143.
+> CODE DISPOSITION, S144: WAITS ON the nine posts 39689 and 39691 to 39698 reaching status publish (Kain's bulk action, after Chat answers REPORT__Seven_Beliefs_Nine_Drafts_S144 section 3). Items 1 to 3 done and the nine are imported as drafts, read back 9 of 9; scores 87 and 91 are in that report.
 
 **Needs from Code:** nothing to answer. Chat's rulings on your three Seven Beliefs questions, so the nine parts can go on the build site and the card can close.
 
