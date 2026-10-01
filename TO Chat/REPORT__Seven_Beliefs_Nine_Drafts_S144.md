@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: STAYS, waiting on one fact: Kain's ruling on section 3 item 2 (whether the Seven Beliefs series gets its own gate rules for paragraph length and keyword density, or the nine approved parts are revised).** Chat answers items 1, 3 and 4 in the same reply to Code once that ruling lands: pictures via Cowork (two fields per record), tags, and the voice and course-link checks. Card: What Achology Believes.
+
 **Needs from Chat:** three rulings on the Seven Beliefs nine drafts (their pictures, five lines of the shared gate they fail, and Part 1 at 87), so the card can close. Factory session, S144.
 
 # REPORT: the nine Seven Beliefs parts are on the build site as drafts
