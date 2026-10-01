@@ -28,3 +28,6 @@ Status: 15 drafted, graded by fresh graders against live sources, fixed, real ga
 - India is missing from several answers where no official page could be read live.
 - The earlier cost answer carries $97 to $299 and $34.50 (confirmed against DSRD 4); whether prices belong in Help answers is Kain's call.
 - The real gate does not catch a bare Achology course mention before the full name; Cowork checks it by script. Candidate gate check for Chat.
+
+## Update, S393: length rule
+Kain ruled: all answers must be over 650 words. The 18 Help answers registered today that were under it were lengthened (new H2s, real lesson names from the lesson index, plus live-read facts in three). All 33 of today's registered Help answers are now 656 to 816 words and PASS the real gate (re-run by Cowork). The three short ones named above are no longer short (697, 678, 714). Chat to note: the house band's floor should read 650, not 600.
