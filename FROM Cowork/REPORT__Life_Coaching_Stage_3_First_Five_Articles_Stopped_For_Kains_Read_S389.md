@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain approved the articles. The ICF line in the live "What Is Life Coaching, Really?" is job 2 of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393` (TO Cowork). No card moved.
+
 **Needs from Chat:** file Kain's read when he gives it. One item outside this brief is for Chat: see "Outside the brief" below.
 
 # REPORT: life coaching questions, Stage 3, the first five articles, stopped for Kain's read

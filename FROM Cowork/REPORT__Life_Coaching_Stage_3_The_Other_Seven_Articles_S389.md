@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain approved six and held the history article (`RULING__Kain_Approved_Six_Life_Coaching_Articles_And_Held_The_History_Article_S389`). The two live-article rewrites are jobs 1 and 2 of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393` (TO Cowork). No card moved.
+
 **Needs from Chat:** file Kain's read, and his ruling on Q29, when he gives them. Two live articles need Chat-led rewrites for the worldwide stance (below).
 
 # REPORT: life coaching questions, Stage 3, the other seven articles
