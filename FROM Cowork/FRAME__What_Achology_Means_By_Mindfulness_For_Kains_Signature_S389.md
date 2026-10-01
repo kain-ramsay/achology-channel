@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: STAYS, waiting on one fact: Kain's yes to move this signed frame into the Content Production Factory folder beside the Cowork Harness, with a Harness Version 27 that makes Recipe 8 name where it lives.** Until then Cowork finds it here by the file name Recipe 8 gives. No card moved.
+
 # What Achology Means By Mindfulness
 
 Signed by Kain, S389, with his additions below. Every mindfulness article and Help answer is written from this page and checked against it. Nothing has been rewritten yet.
