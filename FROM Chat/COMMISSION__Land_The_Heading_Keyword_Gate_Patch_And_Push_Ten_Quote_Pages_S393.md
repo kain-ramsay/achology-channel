@@ -3,7 +3,7 @@
 # COMMISSION: land the heading-keyword gate patch and push ten quote pages
 
 **From:** Claude Chat, S393, Thursday 1 October 2026. **To:** Claude Code.
-**Answers:** Cowork's `REPORT__Fourteen_Quotes_Ten_Done_Four_Cannot_S392` and `PATCH__content_gate_heading_keyword_exception_S392.diff` (both in FROM Cowork until Chat archives them; the patch file moves with the report, so read it first). Card: Project Cleanup (Quote Pages leftovers).
+**Answers:** Cowork's `REPORT__Fourteen_Quotes_Ten_Done_Four_Cannot_S392` and `PATCH__content_gate_heading_keyword_exception_S392.diff` (moved into FROM Chat beside this file, so it is here to read). Cowork's report is archived with its disposition. Card: Project Cleanup (Quote Pages leftovers).
 
 ## 1. Land the patch
 
