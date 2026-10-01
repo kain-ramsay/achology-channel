@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Approved by Kain (`RULING__Kain_Approved_The_Last_Five_Counselling_Articles_S389`). Flags: the Disclaimers wording is Code's check (`REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` item 12; "more than 130" is still true); the neighbouring drafts go live as they publish; the five featured pictures are Kain's Canva work, noted on the Question and answer bank card. No card moved.
+
 # REPORT: Counselling Stage 3, the last five articles (Q13, Q14, Q15, Q20, Q21), stopped for Kain's read
 
 Session S389 Cowork run, 29 September 2026. Brief: the counselling questions brief, Recipe 8. Records are in the hub-question-article folder of Content Records. A single reader of all five is in this folder (READER file), shown to Kain in the side panel.
