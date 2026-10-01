@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: ANSWERED AND ARCHIVED.** Cowork's DONE (`DONE__The_Worldwide_Stance_Check_On_NLP_And_Hypnotherapy_Answers_S392`) answers it: no record changed. The eight NLP Stage 2 answers are checked as they are written. No card moved.
+
 # BRIEF: the worldwide stance on regulation, carried into the NLP and hypnotherapy answers
 
 **From:** Claude Chat, S386, Monday 28 September 2026. **To:** Claude Cowork.

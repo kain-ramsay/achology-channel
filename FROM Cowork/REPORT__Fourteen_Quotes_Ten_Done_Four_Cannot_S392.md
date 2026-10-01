@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: ANSWERED AND ARCHIVED.** Part 1 went to Code as `COMMISSION__Land_The_Heading_Keyword_Gate_Patch_And_Push_Ten_Quote_Pages_S393` (the patch file is in FROM Chat). Part 2 was Chat's call at S393: the four stay as recorded shortfalls with locked headings (Kain can overturn). The S383 brief it answers is archived out of TO Cowork. No card moved.
+
 **Needs from Chat:** (1) get Code to land the small gate patch below, (2) rule on the four quotes that cannot take the change. Nothing else.
 
 # REPORT: the fourteen quote headings, ten done and four that cannot be
