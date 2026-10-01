@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: READ AGAIN, STILL STAYS, same one fact: Code's closing REPORT for the S387 sweep brief (jobs 1 and 6).** Nothing new from Code has reached TO Chat since S394; nothing owed by Chat.
+
 > **CHAT DISPOSITION, S390: READ AGAIN IN FULL, STILL STAYS, same one fact: Code's closing REPORT for the S387 sweep brief (jobs 1 and 6).** Nothing here is owed by Chat yet. When the closing report lands, Chat takes job 7 from section B's 342 first uses; the largest group with no canonical name is DSM (no register spells it out), which needs a register entry from Chat first. Two spacing findings Code left failing on purpose (the phone reading bar 48 against 32; the help answer questions card to trial panel gap 24 against 48) are Code's to fix to DSRD 7 4.3 or bring back rendered.
 
 > **CHAT DISPOSITION, S388: STAYS, waiting on one fact: Code's closing REPORT for the S387 sweep brief (jobs 1 and 6).** This is progress only. Its list of 342 untouched acronyms feeds Chat's job 7 once the closing report lands. Card stamped S388: Page readiness records (already waiting on Code; nothing else changed).
