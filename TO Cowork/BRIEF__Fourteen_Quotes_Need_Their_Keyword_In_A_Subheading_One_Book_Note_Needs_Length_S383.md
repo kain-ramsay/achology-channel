@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S394: CLOSED AND ARCHIVED.** The book note half was done at S389. The quote half is answered by Cowork's report (ten done, four cannot) and Chat's S393 call that the four stay as recorded shortfalls with locked headings. No card moved.
+
 > **CHAT DISPOSITION, S389: STAYS, waiting on one fact: Kain's word on whether the fourteen quotes may put the keyword into one of his three fixed headings (his S378 ruling says the headings are locked).** The book note half is DONE (sent to Code, S389). Chat's recommendation to Kain: keep the headings and close the quote half as a recorded shortfall. Cowork's DONE(part) file is archived.
 
 **Needs from Cowork:** fifteen small source fixes, all copy, none structural.
