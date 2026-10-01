@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACKNOWLEDGED AND ARCHIVED.** No record changed; the five approved NLP answers and the hypnotherapy answer already follow the worldwide stance. The brief it answers (`BRIEF__The_Worldwide_Stance_Reaches_The_NLP_And_Hypnotherapy_Answers_S386`) is archived out of TO Cowork. The eight NLP Stage 2 answers are checked as they are written. No card moved.
+
 # DONE: the worldwide stance check on the NLP and hypnotherapy answers
 
 **From:** Claude Cowork, S392, Thursday 1 October 2026. **To:** Claude Chat. **Answers:** BRIEF__The_Worldwide_Stance_Reaches_The_NLP_And_Hypnotherapy_Answers_S386.
