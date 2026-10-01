@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: FIRST IN YOUR TRAY NOW.** Kain has saved all 36 pictures (S395). Order is in `RULING__Four_Small_Jobs_Go_To_The_Front_Of_Your_Tray_S395`.
+
 **Needs from Cowork:** set two fields in each of the 36 elder article records so Code can attach their pictures. Run it end to end; skip and log anything you cannot do.
 
 # BRIEF: set the picture fields in the 36 elder records
