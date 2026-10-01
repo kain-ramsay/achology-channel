@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain ruled the six publish once they clear the gates, and the elders correct afterwards (S393). The key and page slug become `jonathan-frost` (Chat's call, commission item 4); the Our People biography link is part of item 3. No card moved.
+
 # Report: Dr Jonathan Frost's six instructor articles, S392 (1 October 2026)
 
 **What this is.** Six standalone first-person articles under Dr Jonathan Frost's name (JF01 to JF06), drafted for him to read and edit after Kain meets the elders on Monday 5 October. Voice: Kain's description (personable, down-to-earth, very intelligent; passionate about critical, sensible, accurate thinking and the mind; longest-serving member; runs a mentorship group; granddad and family man; wants his efforts to make a positive difference). Only source: his book, Be A Valuable Human (2025), plus Kain's description. His Info file holds two links only.

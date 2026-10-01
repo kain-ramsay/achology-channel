@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain ruled the six publish once they clear the gates, and the elders correct afterwards (S393). Import, publishing and the Our People page check are `COMMISSION__The_Gate_Band_The_Retoned_Articles_And_The_36_Elder_Articles_S393` item 3. No card moved.
+
 # REPORT: Gary Kennedy, six articles, for Kain's read (S392)
 
 Records GK01 to GK06 in Content Records/instructor-article. Each passes the private gate copy (1,218 to 1,330 body words, density 1.1 to 1.3 percent, reading ease under 70, zero dashes, no shared 6-word runs across the twelve Alec and Gary bodies). Each was graded by a fresh grader and fixed until it passed; GK05's last two cuts were not re-graded after the final edit.

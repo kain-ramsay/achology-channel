@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: ACTED ON AND ARCHIVED.** Kain ruled the six publish once they clear the gates, and the elders correct afterwards (S393). The six author keys are in the gate; the Our People biography link is part of the Code commission (item 3). The Gaby name key matches. No card moved.
+
 # Report: Gaby Tzeschlock's six instructor articles, S392 (1 October 2026)
 
 **What this is.** Six standalone first-person articles under Gaby Tzeschlock's name (GT01 to GT06), drafted for her to read and edit after Kain meets the elders on Monday 5 October. Voice: Erika's warm and firm register plus Gaby's own agenda, saying what you mean and meaning what you say (Kain's description, 1 October). Sources: her Info file and her small talk article, plus Kain's description for her expertise and priorities.
