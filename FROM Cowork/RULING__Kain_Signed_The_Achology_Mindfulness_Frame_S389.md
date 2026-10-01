@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S393: WRITTEN HOME AND ARCHIVED.** The signed frame is a standing source named in Recipe 8; its file moves to the Content Production Factory folder root so it is not lost in a tray. The "Breathing is not taught" point and the primary purpose are the frame's own text. No card moved.
+
 # Ruling: Kain signed the Achology mindfulness frame
 
 Session S389. Kain read the page "What Achology Means By Mindfulness" and signed it, saying it is much better and adding four points, all now in the page.
