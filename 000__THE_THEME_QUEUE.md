@@ -90,6 +90,12 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **The article `source_type` choice list gains `legacy-page`.** Found S102 by the new importer's plan run (eighty records carried ten invented values against four choices). Kain ruled through `BRIEF__Add_Legacy_Page_To_The_Article_Source_Type_Choice_List_S341.md` that the list grows by one honest value and the records take it. Shipped S102 at v0.167.12, in the factory session that found it, on that ruling, named in the theme commit.
 
+- **OPEN, S145 (cloud review): the course page questions block cannot open.** `about.js` is not enqueued on course pages (`functions.php` lines 727 to 730), so the block's script never loads there. Why a theme edit: a script enqueue. Found by the cloud code review, `CLOUD_JOB3_Code_Review` in TO Chat Archive (1 SERIOUS, 68 SHOULD FIX, 144 MINOR).
+
+- **OPEN, S145 (cloud review): the collapsed mobile menu accordions stay focusable and readable while hidden.** Hidden by `max-height: 0` only (`header.css` 599 to 609, with `header.js` 121 to 126), so keyboard and screen reader users reach 18 invisible links. Why a theme edit: CSS and script. `CLOUD_JOB4_Accessibility` (1 SERIOUS, 10 SHOULD FIX, 38 MINOR).
+
+- **OPEN, S145: Our People emits no Person entities.** The page carries CollectionPage, EducationalOrganization, WebSite, BreadcrumbList; DSRD 3 section 5.3 says WebPage plus Person per instructor, and the chain register (DSRD 6 chapter 5) breaks at dest_schema on three workbook rows because of it. DSRD 10 governs if it differs. Why a theme edit: the template's JSON-LD.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
