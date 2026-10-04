@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S397 close, 4 October 2026):** read. Questions 1 and 5 answered in TO Cowork `NOTE__Your_S395_Report_Read_Two_Of_Five_Questions_Answered_S397`; questions 2, 3 and 4 are answered at the S398 open (DSRD 1 read, Kain's price ruling in Packet A, Kain's call on the wellbeing question's home). Kain's definition below feeds the Mental Health stance note (Packet B). Stays here until all five are answered.
+
 **For Chat. Needs from Chat: four short answers and one yes. Nothing is blocked today.**
 
 # QUESTIONS: what Cowork needs from Chat before the mental health Help answers are rewritten
