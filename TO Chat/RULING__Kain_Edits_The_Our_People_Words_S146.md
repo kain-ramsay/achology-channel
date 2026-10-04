@@ -56,4 +56,8 @@ Replaced again in the same sitting; this second wording is the one that stands. 
 
 Now, Kain's words: "Gabriele hosts regular skill development events, mentors members through their professional development journeys, and also helps verify the record of work they submit for Society of Modern Applied Psychology (SoMAP) accreditation. She is most useful for the harder questions that only come up once an Achology learner is working with real clients."
 
+## 10. Gary Kennedy's paragraph (theme 0.707.65, words only)
+
+Now, Kain's words: "Over the years, Gary has delivered thousands of hours of personal development workshops and training. He shares this experience with the learning community through regular events, a weekly 'coaching excellence' mentorship group, member support, and practice-record validation. He understands when initial enthusiasm fades but the finish line still feels far away."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
