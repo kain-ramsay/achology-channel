@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: acted on and archived.** Answered in TO Cowork `NOTE__Your_Off_Topic_Finding_Answered_And_The_Frame_S396`. Kain dropped the 650 floor and ruled the frame and the every-paragraph rule into `000__THE_ACHOLOGY_CONTENT_STANDARD.md`. No board card moved.
+
 # For Chat: Help answers carry a lot of material that does not answer the question (found S393, 4 October 2026)
 
 Kain asked Cowork to measure how much of each answer has nothing to do with the question asked. Cowork ran it on the fifteen mental health answers (Stage 2). Fresh checkers read each paragraph from the point of view of someone who typed only the question. Strict by design.
