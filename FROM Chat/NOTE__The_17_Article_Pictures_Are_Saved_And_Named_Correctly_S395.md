@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S145: WAITS ON the 17 WebP pictures existing in the theme's images/knowledge-hub/articles folder and the importer reading all 17 question articles back with a picture and their addresses restored (Cowork's REPORT__Seventeen_Picture_Fields_Set_S395 is in; conversion and attach run next).
+
 **Needs from Code:** attach the 17 pictures to the 17 question articles. Cowork sets the two picture fields first (brief in his tray, fifth in his order).
 
 # NOTE: Kain's 17 article pictures are saved and named correctly
