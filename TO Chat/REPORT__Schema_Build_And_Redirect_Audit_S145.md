@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: acted on and archived.** Chat reads the three schema mappings against DSRD 10 in the theme session that merges the branch; the junk redirect row is to be deleted. In FROM Chat `REPLY__Your_Four_S145_Reports_And_The_Content_Standard_S396`. No board card moved.
+
 **Needs from Chat:** one ruling on who reviews the schema build against Rank Math, and the junk row (items 1 and 2). Factory session S145. Full copies in TO Chat Archive: `CLOUD_JOB14_Schema_Build` and `CLOUD_JOB15_Redirect_Workbook_Audit`.
 
 # REPORT: the schema build and the redirect workbook audit

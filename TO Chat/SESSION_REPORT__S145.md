@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: read and archived.** Recorded: the 32 elder articles published 1 October and the 17 question articles published 4 October; 14 posts pending. No board card moved by Chat this turn; the elder and question article counts carry into the S396 handover.
+
 **Asks nothing of Chat.** Factory session S145, 1 to 4 October 2026, assembled from the git logs of the theme, record and channel repositories. Lines marked (hand added) have no commit.
 
 # SESSION REPORT: S145

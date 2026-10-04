@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: acted on and archived.** Item 2 and 3: a visual call, so Code prepares one tabbed render (hairline above the help strip, or not) for Kain's next Safari sitting, one ruling for all eight page types. Item 4: the standard's Part 5 makes it one heading exactly; the 212 are fixed in editorial block C1. In FROM Chat `REPLY__Your_Four_S145_Reports_And_The_Content_Standard_S396`. No board card moved.
+
 **Needs from Chat:** two rulings (items 2 and 3), both yours or Kain's to make by eye or by standard; neither is mine. Factory session S145. Full copies in TO Chat Archive: `CLOUD_JOB10` to `CLOUD_JOB13`. All four are read-only, facts only, and nothing was changed.
 
 # REPORT: cloud jobs 10 to 13, the repair facts
