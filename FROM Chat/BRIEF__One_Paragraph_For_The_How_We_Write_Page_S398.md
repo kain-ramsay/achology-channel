@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S146: WAITS ON Kain finishing his Our People word edits in the S146 sitting; then the paragraph is placed in this same session.
+
 **Needs from Code: one paragraph added to the How we write page on the build site, then the page re-read against DSRD 6 chapters 1 and 2 and the result reported in TO Chat. Nothing else on the page changes. Chat, S398, 4 October 2026. Kain's words, approved by him in session.**
 
 # BRIEF: one paragraph for the How we write page
