@@ -90,6 +90,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **The article `source_type` choice list gains `legacy-page`.** Found S102 by the new importer's plan run (eighty records carried ten invented values against four choices). Kain ruled through `BRIEF__Add_Legacy_Page_To_The_Article_Source_Type_Choice_List_S341.md` that the list grows by one honest value and the records take it. Shipped S102 at v0.167.12, in the factory session that found it, on that ruling, named in the theme commit.
 
+- **OPEN, S145 (wording, Chat's or Kain's call before any edit): the Disclaimers page says findahelpline.com "lists verified helplines in over 130 countries".** Read live on 4 October: the directory's home page says "1,700 helplines in over 175 countries" and "175+". "Over 130" is not false but is stale and understated. Why it is a theme item: the words are baked into `policies-content/disclaimers.php`, section 2. Found S145 (the old "130 versus 175" check from S143). No change made.
+
 - **OPEN, S145 (cloud review): the course page questions block cannot open.** `about.js` is not enqueued on course pages (`functions.php` lines 727 to 730), so the block's script never loads there. Why a theme edit: a script enqueue. Found by the cloud code review, `CLOUD_JOB3_Code_Review` in TO Chat Archive (1 SERIOUS, 68 SHOULD FIX, 144 MINOR).
 
 - **OPEN, S145 (cloud review): the collapsed mobile menu accordions stay focusable and readable while hidden.** Hidden by `max-height: 0` only (`header.css` 599 to 609, with `header.js` 121 to 126), so keyboard and screen reader users reach 18 invisible links. Why a theme edit: CSS and script. `CLOUD_JOB4_Accessibility` (1 SERIOUS, 10 SHOULD FIX, 38 MINOR).
