@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S145: WAITS ON the file REPORT__Four_Held_Elders_Failing_Tests_And_The_Unchosen_Picture_S145.md existing in TO Chat (items 1 and 2), then the 32 elder page records, the two gate fixes (working files skipped by name, boundary measure to the panel edge) and the README merge, which I do in that order.
+
 **Needs from Code:** act on the answers below. One thing owed back: the name of one record (item 2). Nothing here needs Kain except the publish clicks.
 
 # REPLY: your six S145 reports answered
