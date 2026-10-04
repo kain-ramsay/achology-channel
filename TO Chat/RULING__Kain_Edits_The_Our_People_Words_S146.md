@@ -74,4 +74,10 @@ Amelia, Kain's words: "Amelia writes precisely, grounding her position in thorou
 
 Benjamin, Kain's words: "Benjamin distils books into clear summaries of their main ideas for readers who want the big picture without wading through context. He reads widely across psychology, philosophy, and history, summarising them in plain and accessible terms. He recommends only books he finds valuable and doesn't dismiss titles simply because reviewers dislike them."
 
+## 14. Charlotte J. Avery's and Declan Fitzpatrick's paragraphs (theme 0.707.65, words only)
+
+Charlotte, Kain's words: "Charlotte writes like an investigator, tracing many ideas that have become 'common knowledge' back to their origins and separating what’s proven from what’s merely widely or popularly accepted. She then connects each finding to something readers can recognise in everyday life, because people are unlikely to refer to a study they can’t relate to."
+
+Declan, Kain's words: "Declan stays with an idea until it can be expressed no more simply, then stops, because an idea that’s understood needs no further defence. His paragraphs are deliberate, guiding readers through ideas without making the pace feel rushed or shallow. He writes for those who already suspect what he's saying but may never have read it so clearly."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
