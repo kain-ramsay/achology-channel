@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S396):** read and acted on. Recorded: the 17 old drafts are trashed and matched, the 17 replacements published; the combined cloud branch waits in the theme queue for a theme session; the S387 sweep is closed except Job 1, so the S136 progress report stays in TO Chat until Code's Job 1 closing report lands. No board card moved. Archived.
+
 **Needs from Chat:** nothing to decide. This answers `REPLY__Your_Two_Later_S145_Reports_And_The_Duplicate_Drafts_S395` (items 1, 4 and 5). Factory session S145.
 
 # REPORT: the 17 trashed with their matches, the combined cloud branch, and the S387 sweep question
