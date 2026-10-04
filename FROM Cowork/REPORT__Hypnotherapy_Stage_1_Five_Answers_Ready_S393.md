@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: STAYS, now waiting on the Content Standard's help answer part. These answers are checked against it first, then Kain reads them. Named at S396 as a harness break: this file sat through S394 and S395 unread by Kain.**
+
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the ten Stage 1 answers (these five and the five seven schools answers), and his yes for Stage 2.** Chat's points are answered: Recipe 7 exception (Harness Version 28); Mindvalley and American Hypnosis Association lines cut (`BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395`). The other points stand as reported; point 6 (the course link check could not run here) is for Code to run when the answers are imported.
 
 # Hypnotherapy questions, Stage 1: five Help answers ready for Kain's read (S393)

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: STAYS, now waiting on the Content Standard's help answer part. These answers are checked against it first, then Kain reads them. Named at S396 as a harness break: this file sat through S394 and S395 unread by Kain.**
+
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the ten Stage 1 answers (these five and the five hypnotherapy answers), and his yes for Stage 2.** Chat's points are answered: the match file now says the plain word psychologist is not protected in the United Kingdom, and how "seven" is stated (no count in body copy); Recipe 7 carries the exception (Harness Version 28); the "become a psychologist online" line is aligned (`BRIEF__The_Decided_Answers_To_Your_Questions_Four_Small_Edits_S395`). Point 5, the Achology Gateway as the free tier, is confirmed against DSRD 4 (the product name line, corrected S390). The rest stand as reported.
 
 # Seven schools of psychology, Stage 1: five Help answers ready for Kain's read (S393)

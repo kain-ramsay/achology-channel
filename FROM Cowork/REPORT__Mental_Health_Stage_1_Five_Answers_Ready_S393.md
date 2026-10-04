@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: STAYS, now waiting on the Content Standard's help answer part. These answers are checked against it first, then Kain reads them. Named at S396 as a harness break: this file sat through S394 and S395 unread by Kain.**
+
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the Help answers.** Chat has not read these five answers' text, only the report.
 
 # Job 13, mental health, Stage 1: five Help answers ready for Kain's read (S393)
