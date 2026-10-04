@@ -13,7 +13,7 @@ Answers FROM Chat BRIEF__One_Paragraph_For_The_How_We_Write_Page_S398.md (C23).
 **DSRD 6 after the edit** (page_gate.py, 2026-10-04):
 - Chapter 1, copy standards: pass. 0 em, 0 en dashes; every acronym introduced before bare use.
 - Chapter 2, page structure and headings: pass. One H1 "How We Write"; H2 sections unchanged; the new paragraph is a plain paragraph in its section.
-- Both lines are owed into the page's DSRD6_RECORD.md with today's date. Code's first write was refused by its own scope wall over a path detail and is done on the next turn.
+- Both lines written into the page's DSRD6_RECORD.md with today's date.
 
 **Seen in passing, not acted on.** The same run reads Rank Math 82 (was 79; still under 90). The older chapter 5, 9 and 11 lines are unchanged and remain with the policy pages sweep.
 
