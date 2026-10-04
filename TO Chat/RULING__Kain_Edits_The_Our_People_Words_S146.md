@@ -90,7 +90,7 @@ Isabella, Kain's words: "Isabella is transparent in her analysis. She puts each 
 
 Jackson, Kain's words: "Jackson starts by defining what it means to be 'stuck' in a way that helps readers feel understood rather than judged. Only then does he explore what a way forward might look like for that person. His tone is warm, conveying the care of someone who has encountered this challenge many times and still takes the time to describe it clearly and relatably."
 
-Placed verbatim, including "achology" in lower case in Frederick's paragraph; Kain was asked in the sitting whether to capitalise it.
+Placed verbatim; then, on Kain's yes in the sitting, "achology" in Frederick's paragraph was capitalised to "Achology".
 
 All 18 paragraphs on Our People (the header and 17 people) now carry Kain's S146 words.
 
