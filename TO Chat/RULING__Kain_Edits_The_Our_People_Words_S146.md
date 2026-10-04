@@ -34,4 +34,8 @@ Now, Kain's words: "Kain is Achology's Chief Technical Officer and leads a mento
 
 Now, Kain's words: "Gerard developed the three-stage helping model taught in counselling courses worldwide, refining it across eleven editions over more than forty years. His work reflects the clarity of experience. He firmly believed that helping relies on learnable skills, not innate talent, and devoted the later part of his career to teaching these skills to people outside the professional helping fields."
 
+## 6. Alec Wells's paragraph (theme 0.707.65, words only)
+
+Now, Kain's words: "Alec has thousands of hours of personal development workshops and training behind him, and he brings all of that experience to the Achology learning community. He hosts weekly skill development events, mentors members through practical learning, and verifies practice records for those pursuing accreditation, often helping graduates apply what they learned in Achology courses."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
