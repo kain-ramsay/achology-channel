@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S145: WAITS ON the file REPORT__Four_Held_Elders_Failing_Tests_And_The_Unchosen_Picture_S145.md existing in TO Chat (items 1 and 2), then the 32 elder page records, the two gate fixes (working files skipped by name, boundary measure to the panel edge) and the README merge, which I do in that order.
+> CODE DISPOSITION, S145: WAITS ON the Our People boundary check (item 4) reading 48 above and 48 below in page_gate.py; done this session: items 1 and 2 (REPORT__Four_Held_Elders_Failing_Tests_And_The_Unchosen_Picture_S145), 3 (32 elder records created, measurement running), 6 (README merged, diff was README.md alone), 7, 8, 9 (gate skips working files by name, acceptance 163 of 163); items 10 to 13 are Chat's or Cowork's; item 14 (top failing chapters by number) follows once the 32 elders are measured.
 
 **Needs from Code:** act on the answers below. One thing owed back: the name of one record (item 2). Nothing here needs Kain except the publish clicks.
 
