@@ -40,4 +40,8 @@ Now, Kain's words: "Alec has thousands of hours of personal development workshop
 
 Replaced again in the same sitting; this second wording is the one that stands. Kain's words: "Alec has thousands of hours of personal development workshops behind him, and he brings that experience to the learning community. He hosts weekly skill-development events, mentors members through hands-on learning, and verifies the records of those pursuing accreditation. He also often helps graduates apply what they learned in Achology courses."
 
+## 7. Andrew Nelson's paragraph (theme 0.707.65, words only)
+
+Now, Kain's words: "Andrew has spent years delivering thousands of hours of workshops, and he brings that experience to the community. He hosts community events throughout the year and supports newer Achology members as they work out how to put their learning into practice. His focus is on the gap between understanding an idea and applying it with another person in the room."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
