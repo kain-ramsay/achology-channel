@@ -44,4 +44,6 @@ Replaced again in the same sitting; this second wording is the one that stands. 
 
 Now, Kain's words: "Andrew has spent years delivering thousands of hours of workshops, and he brings that experience to the community. He hosts community events throughout the year and supports newer Achology members as they work out how to put their learning into practice. His focus is on the gap between understanding an idea and applying it with another person in the room."
 
+Replaced again in the same sitting; this second wording is the one that stands. Kain's words: "Andrew has spent years delivering thousands of hours of workshops, and he brings that experience to Achology. He hosts weekly events throughout the year and supports new Achology members as they explore how to put their learning into practice. His focus is on the gap between understanding an idea and applying it with another person in the room."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
