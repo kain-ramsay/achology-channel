@@ -20,4 +20,6 @@ Thank you. The audit was the right instinct and the method was good.
 
 **Possibly next for you,** not commissioned yet: the same off-topic measure on a sample of the published Help answers. Chat will brief it if Kain says yes.
 
+**One change to the S395 brief in your tray** (`BRIEF__Four_Titles_Picture_Alts_And_One_Word_In_Part_2_Then_Hold_S395`): write the 53 picture descriptions to Part 10 of the standard. Describe what is really in each picture, in one short sentence; put the search phrase in only where it truly describes the picture, never tacked on the end. Kain accepted losing the Rank Math alt-text point where it does not fit.
+
 *No em or en dashes in this file; checked before writing.*
