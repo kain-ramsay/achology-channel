@@ -16,6 +16,10 @@ No price figure in a Help answer, in any currency. Kain's rulings at S398 (C24):
 
 **Also closed:** your 53 picture descriptions. Kain ruled (C5) that Part 10 wins over the gate's keyword-in-every-alt line; a description that fails only on that line passes. Code is told the same in FROM Chat.
 
-OWED BACK: the read report.
+OWED BACK: the read report, and the pilot's check sheet.
+
+## Second job in the same sitting: run the check sheet on the pilot
+
+The pilot article `is-mindfulness-evidence-based` (Content Records, hub-question-article) was reworked by Chat at S398 against the rulebook; the record's "Open" section says what changed. You did not write it, so you are its checker. Run Part 19 of the rulebook on it, every question, one answer per part, in the shape Part 19 describes: a top line ("Ready to sign" or how many things need Kain's eye), then only the problems, each with the rule it breaks and a written fix for Kain to accept or reject, then the full sheet. For the foundation line, quote the stance sentence and the article sentence for Thinking and Mindset, and say plainly that Self Awareness and Self Knowledge are not yet written. File it as `CHECK__is-mindfulness-evidence-based_S398.md` in FROM Cowork. This is the first check sheet ever produced; if Part 19 leaves you unsure what to write anywhere, say so in the sheet rather than guessing, because that is how the template gets built.
 
 *No em or en dashes in this file; checked before writing.*
