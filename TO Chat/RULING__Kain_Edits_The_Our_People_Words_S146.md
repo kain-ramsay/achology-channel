@@ -64,4 +64,8 @@ Now, Kain's words: "Over the years, Gary has delivered thousands of hours of per
 
 Now, Kain's words: "Jonathan has spent thousands of hours at self-development events and critical thinking discussion groups. He mentors members in their practice and co-leads a weekly mentorship group for Achology students looking to refine their coaching skills. If you're seeking insights on a topic you're studying in an Achology course, you can often find Jonathan in the forums." This settles the S145 note that his introduction's opening words were left for Kain or Chat.
 
+## 12. Dr Jonathan Frost's photo restored (theme 0.707.65, picture only)
+
+Kain: "Jonathan Frost's picture is missing from his card; go into the file system and extract that and build it to the page." Cause: the photo was still filed as jonathon-frost.webp after his key was corrected to jonathan-frost at 0.707.58, so the page fell back to the JF monogram. Fix: the same photo renamed to jonathan-frost.webp, nothing else changed. Read back live: the photo loads (400 by 400) on the Our People page and on his own page, and the JF monogram no longer shows. The chapter 1 "JF" named exception on the Our People record no longer has anything to cover; Chat may retire it.
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
