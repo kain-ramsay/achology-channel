@@ -68,4 +68,10 @@ Now, Kain's words: "Jonathan has spent thousands of hours at self-development ev
 
 Kain: "Jonathan Frost's picture is missing from his card; go into the file system and extract that and build it to the page." Cause: the photo was still filed as jonathon-frost.webp after his key was corrected to jonathan-frost at 0.707.58, so the page fell back to the JF monogram. Fix: the same photo renamed to jonathan-frost.webp, nothing else changed. Read back live: the photo loads (400 by 400) on the Our People page and on his own page, and the JF monogram no longer shows. The chapter 1 "JF" named exception on the Our People record no longer has anything to cover; Chat may retire it.
 
+## 13. Amelia A. Sinclair's and Benjamin Lockwood's paragraphs (theme 0.707.65, words only)
+
+Amelia, Kain's words: "Amelia writes precisely, grounding her position in thorough research. Her standards are high: if a line gives readers nothing useful or debatable, she cuts it. She favors clarity over grammatical correctness and isn't afraid to remove context when it weakens a piece. Other writers may excel in specific styles, but Amelia sets the standard for everyone."
+
+Benjamin, Kain's words: "Benjamin distils books into clear summaries of their main ideas for readers who want the big picture without wading through context. He reads widely across psychology, philosophy, and history, summarising them in plain and accessible terms. He recommends only books he finds valuable and doesn't dismiss titles simply because reviewers dislike them."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
