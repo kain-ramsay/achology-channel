@@ -80,4 +80,18 @@ Charlotte, Kain's words: "Charlotte writes like an investigator, tracing many id
 
 Declan, Kain's words: "Declan stays with an idea until it can be expressed no more simply, then stops, because an idea that’s understood needs no further defence. His paragraphs are deliberate, guiding readers through ideas without making the pace feel rushed or shallow. He writes for those who already suspect what he's saying but may never have read it so clearly."
 
+## 15. Evelyn Montgomery's, Frederick S. Martin's, Isabella S. Whitmore's and Jackson P. Hartley's paragraphs (theme 0.707.65, words only)
+
+Evelyn, Kain's words: "Evelyn opens with a relatable moment or experience from an ordinary week. She explains it, then connects it to a broader theme. She treats readers as wise adults, clarifying complex ideas and difficult points rather than glossing over them. She neither oversimplifies in a way that distorts the truth nor makes anything seem more impressive than it is."
+
+Frederick, Kain's words: "Frederick writes with discipline, showing where a quote becomes compelling or confusing and guiding the reader straight to that point. He then ends with a question that proves sharper than it first appears. His writing is often the most concise on the achology website; every word serves a purpose, a skill harder to master than writing at length."
+
+Isabella, Kain's words: "Isabella is transparent in her analysis. She puts each question in context, using relevance and credentials instead of idealised promotional bumf stories. She stays neutral, avoids defensiveness and promotion, and recognises both Achology’s strengths and limits. This gives readers a clear overview to help them decide whether it meets their needs."
+
+Jackson, Kain's words: "Jackson starts by defining what it means to be 'stuck' in a way that helps readers feel understood rather than judged. Only then does he explore what a way forward might look like for that person. His tone is warm, conveying the care of someone who has encountered this challenge many times and still takes the time to describe it clearly and relatably."
+
+Placed verbatim, including "achology" in lower case in Frederick's paragraph; Kain was asked in the sitting whether to capitalise it.
+
+All 18 paragraphs on Our People (the header and 17 people) now carry Kain's S146 words.
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
