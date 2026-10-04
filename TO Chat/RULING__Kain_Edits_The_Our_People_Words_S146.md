@@ -46,4 +46,8 @@ Now, Kain's words: "Andrew has spent years delivering thousands of hours of work
 
 Replaced again in the same sitting; this second wording is the one that stands. Kain's words: "Andrew has spent years delivering thousands of hours of workshops, and he brings that experience to Achology. He hosts weekly events throughout the year and supports new Achology members as they explore how to put their learning into practice. His focus is on the gap between understanding an idea and applying it with another person in the room."
 
+## 8. Erika Nadeau's paragraph (theme 0.707.65, words only)
+
+Now, Kain's words: "Erika has led thousands of hours of discussion groups, online workshops, and training at Achology. Each week, she shares her professional experience with the learning community by hosting personal growth events and mentorship groups, and by verifying members’ submitted learning activities. Her reviews support each member's learning record."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
