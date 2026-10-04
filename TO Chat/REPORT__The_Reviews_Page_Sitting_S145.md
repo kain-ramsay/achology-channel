@@ -28,10 +28,6 @@ Small text on the dark panel raised for contrast; star rows 24 tall; the unit bu
 
 So the card can close once the three section 8 blockers are re-walked and you read the record; I have not marked anything done.
 
-## The 24 hours' other fixes not on this page
-
-None.
-
 OWED BACK: your reading of the record, and the closing of the card if you agree.
 
 *No em or en dashes in this file; checked before writing.*
