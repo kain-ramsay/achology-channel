@@ -60,4 +60,8 @@ Now, Kain's words: "Gabriele hosts regular skill development events, mentors mem
 
 Now, Kain's words: "Over the years, Gary has delivered thousands of hours of personal development workshops and training. He shares this experience with the learning community through regular events, a weekly 'coaching excellence' mentorship group, member support, and practice-record validation. He understands when initial enthusiasm fades but the finish line still feels far away."
 
+## 11. Dr Jonathan Frost's paragraph (theme 0.707.65, words only)
+
+Now, Kain's words: "Jonathan has spent thousands of hours at self-development events and critical thinking discussion groups. He mentors members in their practice and co-leads a weekly mentorship group for Achology students looking to refine their coaching skills. If you're seeking insights on a topic you're studying in an Achology course, you can often find Jonathan in the forums." This settles the S145 note that his introduction's opening words were left for Kain or Chat.
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
