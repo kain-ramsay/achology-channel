@@ -22,4 +22,6 @@ Now, Kain's words: "Karen shapes the learning environment’s tone and direction
 
 Read back live on the Our People page and on her own page; the old wording is gone from both.
 
+Replaced again in the same sitting; this second wording is the one that stands. Kain's words: "Karen shapes the learning environment’s tone and direction, keeping it honest, human, and caring as it grows. She built the academy from the ground up with Kain and still makes decisions as she did from the start: by considering how each change affects people, rather than how it drives business growth. Achology members can hear from her directly at regular welcoming events."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
