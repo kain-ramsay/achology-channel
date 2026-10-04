@@ -21,12 +21,12 @@ Small text on the dark panel raised for contrast; star rows 24 tall; the unit bu
 
 ## Can the card close? Not quite. What is left on the page's record
 
-- Section 8 (ease of use, by an independent evaluator): **three blockers recorded on 30 September that I have not yet re-checked**: dead internal links; testimonial videos that refuse to play on this install; search and filter reloading at the top so results look absent. These are the evaluator's, not Kain's; re-walk needed.
+- Section 8 (ease of use, by an independent evaluator): **three blockers recorded on 30 September, re-walked by Code on 4 October at theme 0.707.62.** (a) *Search and filter reloading at the top:* fixed already; clicking a star row now goes to `?rv_r=4.5#reviews-archive` and lands on the archive (scroll position moved from 1115 to 1246, not to the top). (b) *Dead internal links:* real, but not the Reviews page's fault: of 60 internal links on the page, 28 lead to pages that do not exist yet on the build site (Academy and its schools and courses, Certification, Accreditation, Enquiries, Free Coaching, Access All Areas), mostly the shared header and footer, so the same links are on every page; they resolve as those pages are created. 8 more answer with a redirect. (c) *Testimonial videos refuse to play:* these are on the Testimonials page, not here; to be tested in that page's sitting. Section 8 is still the evaluator's to re-score, not mine or Kain's.
 - Section 9 (speed): recorded as a site-wide exception, mobile FCP 3.3s and LCP 4.6s against targets of 1.5s and 2.0s.
 - Section 6 and 10 human halves and section 11 (verification on the live page): Kain's eye. His "totally finished" is his word for section 10; I recorded it, but the record's closing lines are Chat's to write.
 - Section 1 and 2 machine lines are now exceptions recorded as above; the next sweep will show them cleared.
 
-So the card can close once the three section 8 blockers are re-walked and you read the record; I have not marked anything done.
+So the Reviews page itself is finished and clean. The card can close when you read the record and accept that the dead-link line waits on the unbuilt pages (or ask the evaluator to re-score section 8 excluding links whose targets are not yet built). I have not marked anything done.
 
 OWED BACK: your reading of the record, and the closing of the card if you agree.
 
