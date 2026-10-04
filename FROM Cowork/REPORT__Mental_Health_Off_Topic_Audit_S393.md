@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: acted on and archived.** Its finding is answered in TO Cowork `NOTE__Your_Off_Topic_Finding_Answered_And_The_Frame_S396` and ruled into the Content Standard's foundation. No board card moved.
+
 # Off-topic audit of the fifteen mental health Help answers (S393)
 
 Asked by Kain, 4 October 2026: how much of each answer has nothing to do with the question asked. Each answer was read by a fresh checker, paragraph by paragraph, judged only from the reader who typed the question. Strict by design.
