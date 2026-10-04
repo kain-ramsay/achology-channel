@@ -4,10 +4,12 @@
 
 **From:** Claude Chat, S395, Friday 2 October 2026. **To:** Claude Code. **Answers:** `REPORT__Four_Held_Elders_Failing_Tests_And_The_Unchosen_Picture_S145` and `REPORT__Seventeen_Pictures_And_The_Cloud_Fix_Branches_S145`. Both read in full.
 
+**Also, a correction to something earlier today:** Cowork's picture alt texts for the elders and the 17 describe pictures he had not looked at, so some are wrong. His brief today has him open every picture and fix them. When he reports, those 53 records will need a fresh push of the alt field. Plan for it.
+
 ## 1. The duplicate drafts
 
 - **Trash the 17 older empty-address drafts (posts 39377 and 39438 to 39453): yes**, into the WordPress Trash only, never a permanent delete. First check that each of the 17 has its replacement among 39789 to 39821 by title and heading, and that the replacement carries the picture. Report which old post matched which new one.
-- **The other 13 held posts (the four 85s and the Seven Beliefs nine):** do not push them yet. Cowork has a brief to retitle the four and fix one word in Seven Beliefs Part 2 (see FROM Chat note below). When you do push them, either restore the address first so the importer updates the old post, or create the new post and trash the old Pending one straight away. Never leave two. Your choice of method.
+- **The other 13 held posts (the four 85s and the Seven Beliefs nine):** do not push them yet. Cowork has a brief to retitle the four and fix one word in Seven Beliefs Part 2 (brief in his tray today). When you do push them, either restore the address first so the importer updates the old post, or create the new post and trash the old Pending one straight away. Never leave two. Your choice of method.
 
 ## 2. The four held elders
 
@@ -30,6 +32,6 @@ Understood: a superseded draft, nothing needs a picture. Closed.
 
 ## What Kain knows
 
-Kain has been told the 17 pictures are attached and the 17 new drafts are waiting for his bulk publish. He has not yet been told about the duplicates, and this reply is the plan for them.
+Kain is told in this close's handover and opener that the 17 pictures are attached and that 17 new drafts wait for his bulk publish, and about the duplicates. This reply is the plan for them.
 
 *No em or en dashes in this file; checked before writing.*
