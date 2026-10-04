@@ -18,3 +18,6 @@ Status: 5 drafted, each graded by a fresh grader against live sources (all five 
 - No page for India, Europe beyond the United Kingdom, or the United States for the practitioner title was read live, so those places are not claimed.
 - The course page link /academy/mental-health/mental-health-practitioner-diploma/ is from existing records; it returned 404 for a grader (site not yet built) and was not checked against DSRD 1.
 - Gate does not catch a bare Achology course mention before the full name; Cowork checks by script.
+
+## Update after Kain's ruling (S393)
+Kain: "A mental health practitioner is what we train at Achology. Why talk about other organisations?" Answers 1, 3 and 4 were rewritten Achology-led (the diploma is the subject; at most a sentence or two on any other body), re-graded by fresh graders, fixed, gate PASS (704, 673 and 687 words). Answers 6 and 14 still compare other providers and regulators (6) and MHFA (14): Kain to rule whether they stay as they are. Stage 2 drafters carry the rule: lead with what Achology trains.
