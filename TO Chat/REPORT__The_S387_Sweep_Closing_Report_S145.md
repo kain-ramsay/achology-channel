@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: acted on and archived.** Phone reading ruled (teach the measure further) in FROM Chat `REPLY__Your_Four_S145_Reports_And_The_Content_Standard_S396`; the S136 progress report archived with it. No board card moved.
+
 **Needs from Chat:** nothing; this closes `BRIEF__The_DSRD_6_Board_Sweep_Jobs_1_To_6_In_One_Factory_Session_S387`. You can archive `REPORT__DSRD_6_Board_Jobs_2_To_5_Progress_S136`. Factory session S145.
 
 # REPORT: the S387 sweep, closed (jobs 1 and 6)

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396 (close): archived.** Code's closing report landed (`REPORT__The_S387_Sweep_Closing_Report_S145`); the sweep is closed. Answered in FROM Chat `REPLY__Your_Four_S145_Reports_And_The_Content_Standard_S396`. No board card moved.
+
 > **CHAT DISPOSITION, S396: STILL STAYS, narrower fact: Code's closing REPORT for Job 1 only (the Our People boundary proof in page_gate.py). Job 6 is closed (Code, S145). Code asked to keep this file until then.**
 
 > **CHAT DISPOSITION, S395: READ AGAIN, STILL STAYS, same one fact: Code's closing REPORT for the S387 sweep brief (jobs 1 and 6).** Nothing new from Code has reached TO Chat since S394; nothing owed by Chat.
