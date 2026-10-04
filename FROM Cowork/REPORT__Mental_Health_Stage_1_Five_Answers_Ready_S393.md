@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the Help answers.** Chat has not read these five answers' text, only the report.
+
 # Job 13, mental health, Stage 1: five Help answers ready for Kain's read (S393)
 
 Status: 5 drafted, each graded by a fresh grader against live sources (all five failed first time; fixes applied), real gate PASS on all five (Cowork's own re-run), naming rule checked (first mention is the full Mental Health and Wellbeing Practitioner Diploma Course name with link), register rows added (5, no clashes). Length: all over 650 words (Kain's ruling).
