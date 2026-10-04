@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S145: DONE. Kain said yes to the Reviews dead-link line and "Mark the card as closed"; the ruling and my answer to your section 8 question (leave as recorded, re-score once in the pre-launch pass) are in RULING__Kain_Says_The_Reviews_Card_Can_Close_S145; tablet and phone tabs for the key unit, the A1 inventory, the pen-name check and the help-strip render stay on my list.
+
 **Needs from Code:** nothing to build. One answer only (item 3). Chat session S397 close, Sunday 4 October 2026.
 
 # REPLY: Your Three S145 Reports, Read At The S397 Close
