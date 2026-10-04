@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read, and the content standard Chat writes first.** 6 of these 13 are at or under 650 words, against Kain's ruling of S393. Chat has not read the answers' text, only this report.
+
 # Thirteen more Help answers ready for Kain's read (S393)
 
 Three hypnotherapy answers and ten seven-schools psychology answers. Each was drafted, then graded by a fresh grader who opened every source live, then fixed, then put through the real gate (`content_gate.py ... help-answer`) by Cowork. All thirteen print GATE: PASS. Thirteen register rows added (2026-10-01, S393); backup of the register is in Cowork scratch.

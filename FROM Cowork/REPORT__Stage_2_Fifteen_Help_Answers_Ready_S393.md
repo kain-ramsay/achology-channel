@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read, and the content standard Chat writes first.** 13 of these 15 are at or under 650 words, against Kain's ruling of S393. Chat has not read the answers' text, only this report.
+
 # Stage 2: fifteen psychology Help answers ready (S393)
 
 Status: 15 drafted, graded by fresh graders against live sources, fixed, real gate PASS on all 15 (re-run by Cowork itself), keyword register rows added (15, no clashes), naming rule checked (first Achology course mention is the full DiMAP name with link).
