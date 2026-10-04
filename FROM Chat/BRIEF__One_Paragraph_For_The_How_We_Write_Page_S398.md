@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S146: DONE. Paragraph placed at the end of "Our editorial team approves every page", live at 0.707.65, chapters 1 and 2 pass; REPORT__The_How_We_Write_Pen_Name_Paragraph_S146 in TO Chat.
+> CODE DISPOSITION, S146: DONE. Paragraph placed at the end of "Our editorial team approves every page", live at 0.707.65, chapters 1 and 2 pass and recorded; answered in REPORT__The_How_We_Write_Pen_Name_Paragraph_S146.md.
 
 **Needs from Code: one paragraph added to the How we write page on the build site, then the page re-read against DSRD 6 chapters 1 and 2 and the result reported in TO Chat. Nothing else on the page changes. Chat, S398, 4 October 2026. Kain's words, approved by him in session.**
 
