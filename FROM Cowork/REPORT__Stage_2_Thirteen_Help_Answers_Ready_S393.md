@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: STAYS, now waiting on the Content Standard's help answer part. These answers are checked against it first, then Kain reads them. Named at S396 as a harness break: this file sat through S394 and S395 unread by Kain.**
+
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read, and the content standard Chat writes first.** 6 of these 13 are at or under 650 words, against Kain's ruling of S393. Chat has not read the answers' text, only this report.
 
 # Thirteen more Help answers ready for Kain's read (S393)
