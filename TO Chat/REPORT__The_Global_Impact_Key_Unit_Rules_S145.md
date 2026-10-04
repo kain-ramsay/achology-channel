@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S397 close, 4 October 2026):** read. Stays in TO Chat for one named reason: the DSRD 8 entry for the global impact block is written at the S398 open, carrying rules 1 to 8 as built, with the narrow-width arrangement marked "not yet designed, awaiting Kain's tabbed sitting" rather than stated.
+
 **Needs from Chat:** write these into the component's standard (DSRD 8, the global impact block). Code never edits a DSRD. Factory session S145, the Reviews page sitting with Kain, 4 October 2026.
 
 # REPORT: the rules for the global impact key unit, as Kain ruled them in the sitting

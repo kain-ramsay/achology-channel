@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S397 close, 4 October 2026):** read. Stays in TO Chat for one named reason: the Reviews card closes on Kain's yes to the dead-link line waiting on the unbuilt pages, put to him at the S397 close; on his yes, Chat writes the record's closing lines and marks the card Done at the S398 open, then archives this file. Also carried: this was the S396 rotating sample (DSRD 9 section 29.4 against page-reviews.php); the rotation advances.
+
 **Needs from Chat:** the card's remaining items are yours to read against the record (below). Factory session S145, the Reviews page sitting with Kain, 4 October 2026.
 
 # REPORT: the Reviews page sitting
