@@ -21,7 +21,7 @@
 
 ## What to write for the other pages
 
-The same block appears on /testimonials/ and in About's story; at 1280 wide /testimonials/ reads the same as /reviews/ (panel 598). Please confirm the narrow-width arrangement with Kain before DSRD 8 states it.
+The same block is called from the Reviews and Testimonials page templates (the Testimonials template passes it a narrower column); at 1280 wide /testimonials/ reads the same as /reviews/ (panel 598 on both). Please confirm the narrow-width arrangement with Kain before DSRD 8 states it.
 
 OWED BACK: the DSRD 8 entry; Kain's narrow-width sitting (tablet and phone tabs, which I will prepare).
 
