@@ -30,4 +30,8 @@ Then, on Kain's word "please remove - tone and - from Karens": the opening now r
 
 Now, Kain's words: "Kain is Achology's Chief Technical Officer and leads a mentorship group for its members. An experienced practitioner, he draws on decades of work in applied psychology, coaching, and counselling, alongside a deep understanding of the wider field. His work brings together philosophy, theology, and psychological insights to help readers understand themselves better."
 
+## 5. Prof. Gerard Egan's paragraph (theme 0.707.65, words only)
+
+Now, Kain's words: "Gerard developed the three-stage helping model taught in counselling courses worldwide, refining it across eleven editions over more than forty years. His work reflects the clarity of experience. He firmly believed that helping relies on learnable skills, not innate talent, and devoted the later part of his career to teaching these skills to people outside the professional helping fields."
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
