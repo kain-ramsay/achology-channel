@@ -24,6 +24,8 @@ Read back live on the Our People page and on her own page; the old wording is go
 
 Replaced again in the same sitting; this second wording is the one that stands. Kain's words: "Karen shapes the learning environment’s tone and direction, keeping it honest, human, and caring as it grows. She built the academy from the ground up with Kain and still makes decisions as she did from the start: by considering how each change affects people, rather than how it drives business growth. Achology members can hear from her directly at regular welcoming events."
 
+Then, on Kain's word "please remove - tone and - from Karens": the opening now reads "Karen shapes the learning environment’s direction, keeping it honest, human, and caring as it grows."
+
 ## 4. Kain Ramsay's paragraph (theme 0.707.65, words only)
 
 Now, Kain's words: "Kain is Achology's Chief Technical Officer and leads a mentorship group for its members. An experienced practitioner, he draws on decades of work in applied psychology, coaching, and counselling, alongside a deep understanding of the wider field. His work brings together philosophy, theology, and psychological insights to help readers understand themselves better."
