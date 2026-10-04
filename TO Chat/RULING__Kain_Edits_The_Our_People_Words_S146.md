@@ -50,6 +50,8 @@ Replaced again in the same sitting; this second wording is the one that stands. 
 
 Now, Kain's words: "Erika has led thousands of hours of discussion groups, online workshops, and training at Achology. Each week, she shares her professional experience with the learning community by hosting personal growth events and mentorship groups, and by verifying members’ submitted learning activities. Her reviews support each member's learning record."
 
+Replaced again in the same sitting; this second wording is the one that stands. Kain's words: "Erika has hosted thousands of hours of discussion groups, online workshops, and group learning events at Achology. Each week, she shares her professional experience with the learning community by hosting personal growth events and mentorship groups, and by verifying members’ submitted learning activities. Her reviews support each member's learning record."
+
 ## 9. Gabriele Tzeschlock's paragraph (theme 0.707.65, words only)
 
 Now, Kain's words: "Gabriele hosts regular skill development events, mentors members through their professional development journeys, and also helps verify the record of work they submit for Society of Modern Applied Psychology (SoMAP) accreditation. She is most useful for the harder questions that only come up once an Achology learner is working with real clients."
