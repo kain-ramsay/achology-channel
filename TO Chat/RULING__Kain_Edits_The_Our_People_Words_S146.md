@@ -12,4 +12,8 @@ Now, Kain's words: "Every Achology project is guided by specialists dedicated to
 
 Read back live on https://achologytest.com/about/instructors/ after deploy.
 
+## 2. Every individual Our People page is 960 wide (theme 0.707.65)
+
+Kain's words: "Please make all of the 'our people' individual pages the same container width as the main our people page." Done as the same one-line token reset the Our People page carries (Kain S145), on the individual page template only. Measured live on all 17 pages: every block 960 at 1920, 1440 and 1280; 956 at 1024; 724 at 768; 346 at 390; no sideways scroll at any width. CSS gate on people.css: 26 older findings before and after, none from this change.
+
 OWED BACK: Chat writes the new wording into the Our People page's owning document and adds a dated line.
