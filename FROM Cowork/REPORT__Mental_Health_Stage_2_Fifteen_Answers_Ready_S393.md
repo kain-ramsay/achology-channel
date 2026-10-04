@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S396: STAYS, waiting on one thing: the finished Content Standard and the Mental Health topic stance. These fifteen are rewritten then, not read by Kain now (they measured about 60 per cent off topic).**
+
 # Report: Mental health Stage 2, fifteen Help answers ready (S393)
 
 Date: 4 October 2026. Job 13, Stage 2. Recipe 7 (Help answer).
