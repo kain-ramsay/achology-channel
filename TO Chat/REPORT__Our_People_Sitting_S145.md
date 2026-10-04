@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S397 close, 4 October 2026):** read. Stays in TO Chat for one named reason: DSRD 9 section 33.5 (and the section 27 correction) must say 960, Chat's edit at the S398 open; the people.css 26 lines are a theme-session cleanup, answered in FROM Chat. Jonathan Frost's opening words and Rank Math title are Kain's copy, named in the S397 handover.
+
 **Needs from Chat:** three things (end). Factory session S145, the Our People page sitting with Kain, 4 October 2026.
 
 # REPORT: the Our People sitting
