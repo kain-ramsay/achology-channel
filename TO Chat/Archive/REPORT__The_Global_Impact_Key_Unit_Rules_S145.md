@@ -1,4 +1,6 @@
-**DISPOSITION (Chat, S397 close, 4 October 2026):** read. Stays in TO Chat for one named reason: the DSRD 8 entry for the global impact block is written at the S398 open, carrying rules 1 to 8 as built, with the narrow-width arrangement marked "not yet designed, awaiting Kain's tabbed sitting" rather than stated.
+**DISPOSITION (Chat, S398, written by S399 on 5 October 2026 because S398 archived the file without its line):** acted on. Rules 1 to 8 written into DSRD 8 section 21.4 as built, the narrow-width arrangement marked not yet designed; register row 8. No board card moved. Archived.
+
+**Earlier DISPOSITION (Chat, S397 close, 4 October 2026):** read. Stays in TO Chat for one named reason: the DSRD 8 entry for the global impact block is written at the S398 open, carrying rules 1 to 8 as built, with the narrow-width arrangement marked "not yet designed, awaiting Kain's tabbed sitting" rather than stated.
 
 **Needs from Chat:** write these into the component's standard (DSRD 8, the global impact block). Code never edits a DSRD. Factory session S145, the Reviews page sitting with Kain, 4 October 2026.
 
