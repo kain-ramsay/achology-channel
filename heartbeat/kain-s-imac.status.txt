@@ -1,2 +1,2 @@
-FAIL  2026-10-05T08:35:26Z
+FAIL  2026-10-05T09:03:28Z
 Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: fatal: It seems that there is already a rebase-merge directory, and.A rebase left in progress by an earlier run was aborted.
