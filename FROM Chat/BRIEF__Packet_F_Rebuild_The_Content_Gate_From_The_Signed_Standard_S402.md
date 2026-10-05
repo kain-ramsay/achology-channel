@@ -31,6 +31,7 @@ Packet F is the gate (this brief, yours). Packet E is Chat's: cutting the Cowork
 
 - A DONE in TO Chat: the rebuilt `content_gate_standards.json` and `content_gate.py` on disk, the gate run read-only against `Content Records/hub-question-article/is-mindfulness-evidence-based.md` (its check sheet `CHECK__is-mindfulness-evidence-based_S402.md` sits beside it; Kain signs it this week, so run before and after the `signed` field is filled and show both printouts), and one line per item above saying built, or impossible and why.
 - A list of every check you retired, so the Standard's 15.2 table can be corrected if it named a check that no longer exists.
+- The two new record fields, `stances` and `signed`, added to every upload CSV contract in the contracts register the `achology-upload-csv` skill names (one row per content type) and to the WP All Import mapping, so a record can carry them to the install; say in your DONE which contracts changed.
 - Do not import or publish anything under this brief. The pilot is already on the install unsigned (post 39803); leave it until its `signed` field is filled, then it is the first record the rebuilt gate passes.
 
 ## Where things are
