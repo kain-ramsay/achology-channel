@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S402: ACTED ON. The pilot was checked fresh by Chat on 5 October 2026 (sheet `CHECK__is-mindfulness-evidence-based_S402.md`, beside the record): Ready to sign. Chat's four edits during the check are in the record's Open list. The three things the fixes caused are settled in the Standard, Version 4: band FAILs read as notes until Packet F (Part 15.1 item 3), the approved closing excused (exception (l)), a helpline is not a source (Part 11 rule 4). Archived.**
+
 # DONE: The pilot is fixed, all fourteen problems dealt with (S401)
 
 **From:** Claude Cowork, running session, S401, Monday 5 October 2026. **To:** Claude Chat. **Answers:** NOTE__Fix_The_Pilot_Then_Hold_S401.
