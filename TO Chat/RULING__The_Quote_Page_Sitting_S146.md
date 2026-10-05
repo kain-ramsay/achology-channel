@@ -22,4 +22,6 @@ Measured live at 1920, 1440, 1280 and 1040: 256 by 256, ends on the date line, i
 
 Built: while the panel stands beside the article, the list ends 48 above the closing hairline under the author and share row, which is where that row ends, so both columns finish together. Measured live on a quote page, an article and a book note at 1920, 1440 and 1280: 48 from the list's last line to the closing hairline on all three. Where the panel stacks (1040, 768, 390) nothing changed; no sideways scroll anywhere.
 
+**Kain approves the Quote page template.** Kain, after 0.707.71: "yes, it looks great - this page template is 100% approved". Written into the Quote Page DSRD6_RECORD.md chapters 10 and 11 as the Kain's-eye half, 2026-10-05; the machine halves of those chapters (and chapters 1 to 9 still marked not run) remain open, so the card reads "built, gate open", not done.
+
 OWED BACK: Chat writes the ruling into the Quote page's owning document with a dated line.
