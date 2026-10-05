@@ -1,0 +1,16 @@
+Needs from Chat: write home four more S147 book note rulings made after RULING__The_Book_Note_Page_Sitting_S147 was archived (DSRD 9 section 32 for the book note, and the shared course block wherever its words are held), each with a dated line; theme session.
+
+# RULING: Goodreads link, course block words, section numbers above, author photo bubbles (S147, theme session)
+
+Items 11e and 11f were appended to the S147 sitting file after Chat had archived it, so they are restated here, with two later rulings.
+
+1. **View on Goodreads in the book note date line, 0.707.93.** Kain asked for options to link to Goodreads "as just another layer of credibility". Code proposed four; he chose a link only, then tab 1 of four. "View on Goodreads" is the third fact after the date and the reading time, in the date line's grey, orange on hover, opening the book's own Goodreads page in a new tab. The address is built from the book's ISBN (the same sameAs the schema carries; checked live, it lands on the right book). 142 of 150 published book notes hold an ISBN; a book without one shows nothing. No Goodreads score is shown (only 32 are stored, some reading "Pending, not verified live"), and a third-party score never enters the page's own rating markup.
+2. **The course block's words on every reading page, 0.707.93** (Kain's text, replacing "Want to Take Your Interest Further?"): "Ready to Take Your Learning Further?" / "Explore related courses to deepen your knowledge and build on the insights introduced in this article." Kain kept "this article" for book notes and quote pages too. Read back live on a book note and an article.
+3. **The section numbers sit above the headings, 0.707.94.** 0.707.87 drew the small orange label beside the heading words; Kain: "You've put small numbers in. That's just not what we agreed." Tab 1 had been described as a small orange label above each heading; it now sits on its own line, 8 above the heading words. Measured live at 1440.
+4. **The author photograph in the writing carries the hero's three bubbles in miniature, 0.707.95 and 0.707.96.** Kain found the photo "a little bit bland" beside the bubbled hero and asked for a surround to soften it; from four rendered tabs he chose tab 1: "very, very strong ... it really brings the page to life." The photo steps in from the top and right of its 240 box (28 above, 32 at the right, 20 below) and three bubbles sit in that room (104 at 0.9 over the top right corner, 52 at 0.7 by the lower right turned, 24 at 0.45 between), all inside the figure's own box (the S146 container rule). Book notes only, portraits only, from 768 up; on a phone the photo keeps its plain, centred look. Measured live at 1440, 768 and 375; no sideways scroll.
+
+**Gate notes:** the page gate reads 48 passed, 11 failed. One fail is new and is Kain's own wording: block-heading flags "Book" and "Note" as mid-sentence capitals in his approved line under Explore More Book Notes ("Each Book Note highlights ..."); his capitals are kept, "Book Note" being a name. Chat: record it as a named exception. The rest are the page's earlier content and image lines.
+
+OWED BACK: Chat writes the four rulings home and records the block-heading exception.
+
+*No em or en dashes in this file; checked before writing.*
