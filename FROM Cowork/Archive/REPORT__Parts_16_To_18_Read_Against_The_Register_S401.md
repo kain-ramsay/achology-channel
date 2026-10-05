@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S402: ACTED ON, 5 October 2026. Every item settled in `000__THE_ACHOLOGY_CONTENT_STANDARD.md` Version 4: List A items 1 to 7, List B items 1 to 19, List C items 1 to 6 and the five "Also found" lines; the new rulings are Part 15.1 items 18 to 25 and section 15.2 item 7 (the Standard holds rules, not recipes; signing does not wait on Packet E). The 52 Help records with a price belong to Block 1 of the editorial programme. Archived.**
+
 > **CHAT DISPOSITION, S401: STAYS, waiting on one thing: Chat's fix of the rulebook at S402, which settles Lists A, B and C and the "Also found" items one by one. Chat's S401 calls already made: Part 7 rule 15 gains the approved international wording; the closing is exempt from Part 6 rule 2 where Kain approved the words; Part 2's note on the 2023 review is corrected.**
 
 # REPORT: Parts 16, 17 and 18 of the Content Standard read against the register (S401)
