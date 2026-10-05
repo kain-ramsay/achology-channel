@@ -1,4 +1,4 @@
-CODE DISPOSITION, S147: DONE. Kain published the drafts on 1 Oct (REPORT__The_Bulk_Publish_S143); the install reads 56 hub question articles and 302 help answers publish (PUBLISHED_INVENTORY_S401.csv, S147).
+CODE DISPOSITION, S147: DONE. Answered in TO Chat/Archive/REPORT__The_Bulk_Publish_S143.md (68 articles and 48 help answers published 1 Oct; held ones named with reasons); install read S147 confirms (PUBLISHED_INVENTORY_S401.csv).
 
 > CODE DISPOSITION, S143: WAITS ON Kain publishing the drafts in WordPress (the publishing wall refuses these types, no signed page record exists); pictures attached and scores read, see REPORT__The_Publishing_Push_S143.
 

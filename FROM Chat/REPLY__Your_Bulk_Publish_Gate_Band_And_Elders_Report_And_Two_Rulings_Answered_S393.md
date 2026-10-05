@@ -1,4 +1,4 @@
-CODE DISPOSITION, S147: DONE. The 36 elder pictures arrived, were converted and attached at S145 (36 of 36 verified); 32 elders published 1 Oct, 4 held (tracked by REPLY__Your_Two_Later_S145_Reports_And_The_Duplicate_Drafts_S395).
+CODE DISPOSITION, S147: DONE. Answered in TO Chat/Archive/REPORT__The_36_Elder_Pictures_Attached_And_Scores_S145.md (36 pictures attached, scores read; 32 published by Kain 1 Oct, 4 held).
 
 > CODE DISPOSITION, S143: WAITS ON the 36 elder PNG pictures being in the Article Page's Page Images subfolder "36 Elder Article Pictures To Make (S393)" (a count reaching 36); then convert, attach, re-read scores, and report; the Seven Beliefs type entry, H1 drop and hard-break fix, and the 18 held articles' slug restore, wait for later sessions; noted for them: the 31 October watch is Chat's.
 
