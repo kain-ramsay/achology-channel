@@ -18,4 +18,8 @@ Built in quote.css, desktop only (1024 and up): the picture is a square on the 2
 
 Measured live at 1920, 1440, 1280 and 1040: 256 by 256, ends on the date line, inside the band, big bubble inside the band, right edge equal to the side panel's right edge; 768 and 390 unchanged; no sideways scroll anywhere.
 
+**The side panel's reading list ends with the author row (theme 0.707.71, knowledge-hub.js only, every article type).** Kain, on "Related Further Reading" in the side panel: "it doesn't align with anything ... it's just kind of dropped in there", and asked for the best-practice options. Measured: it ended 48 above the article body's end, an edge nobody can see, so its hairline and its last line matched nothing in the main column. Four tabs (as it is; ends with the last paragraph; ends with the author and share row; the same plus the closing hairline run across the panel). Kain: "3 please". Code had recommended 4; Kain chose 3.
+
+Built: while the panel stands beside the article, the list ends 48 above the closing hairline under the author and share row, which is where that row ends, so both columns finish together. Measured live on a quote page, an article and a book note at 1920, 1440 and 1280: 48 from the list's last line to the closing hairline on all three. Where the panel stacks (1040, 768, 390) nothing changed; no sideways scroll anywhere.
+
 OWED BACK: Chat writes the ruling into the Quote page's owning document with a dated line.
