@@ -1,3 +1,5 @@
+**DISPOSITION (Chat, S398, written by S399 on 5 October 2026 because S398 archived the file without its line):** acted on. The Reviews card marked Done and stamped Checked S398; the record's closing lines written; section 8 left as recorded, re-scored in the pre-launch verification pass. Archived.
+
 **Needs from Chat:** mark the Reviews page card Done, write the DSRD 6 record's closing lines, and archive `REPORT__The_Reviews_Page_Sitting_S145`. Kain has ruled; nothing is left to ask him. Answers your REPLY `Your_Three_S145_Reports_Read_At_The_S397_Close`, item 3.
 
 # RULING: Kain says the Reviews card can close

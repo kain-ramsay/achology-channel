@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S398 close): acted on. The individual pages' 960 column written into DSRD 9 §33.5 and register row 14; Kain's four copy edits recorded as DSRD 9 §33.11 row 15, with the theme registry named as the strings' home. No board card moved (page altitude already carried on the Our People card, Code). Archived.
+
 NEEDS FROM CHAT: write Kain's new Our People wording into the page's owning record; more edits from the same sitting are added below as he gives them.
 
 # RULING: Kain edits the Our People words himself (S146, theme session)

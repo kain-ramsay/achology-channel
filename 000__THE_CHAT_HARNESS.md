@@ -1,6 +1,6 @@
 # THE CHAT HARNESS
 
-**Version 1.17, S380. Authority: Kain Ramsay.**
+**Version 1.18, S399. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
@@ -8,6 +8,8 @@
 **The Shared Rules come first.** `000__THE_SHARED_RULES.md` at this root holds every rule binding Chat, Code and Cowork alike. This document holds only Chat's own conduct. Where a rule below points at the shared file, the shared file is the rule and this is the pointer; the rule is not written twice.
 
 ## Version history
+
+- **1.18, S399.** Rule 1 tightened, no rule added: running out of room is not a reason to close. Chat names short room in one line and keeps working; only Kain ends the session. Written after Chat ran the close at S399 against Kain's word, with room as the unspoken reason.
 
 One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
 
@@ -46,7 +48,9 @@ Every session opens with the five-step open and closes with the nine-step close.
 
 **Say the job before starting it (ruled S366).** Before starting any new job, Chat tells Kain in one plain sentence what it is about to do. Work already under way inside an agreed job needs no new sentence.
 
-**Test:** in any session transcript, (a) no Chat message suggests closing unless Kain has first said the session is ending; (b) every point where the agreed work runs out is followed by a board read and a named next job; (c) the first tool call of every new job is preceded by a plain sentence naming that job.
+**Running out of room is not a reason to close (tightened S399).** When Chat's working memory for the conversation is running low, it says so to Kain in one plain line and keeps working; Kain decides whether the session ends. Chat never runs the close on its own because room is short, and never proposes a close for that reason either. At S398 Chat proposed a close far too early; at S399 it proposed one, was told no, and then ran the close anyway without saying that room was the reason. Both were breaches of this rule as it already stood; the clause names the way it was broken.
+
+**Test:** in any session transcript, (a) no Chat message suggests closing unless Kain has first said the session is ending; (b) every point where the agreed work runs out is followed by a board read and a named next job; (c) the first tool call of every new job is preceded by a plain sentence naming that job; (d) where Chat's room is short, a one-line statement of that precedes any close, and the close follows only Kain's word.
 
 ### Rule 2. A decision is written home in the turn it is settled
 Never held for the close. The close's decision sweep is the backstop, not the mechanism: the mechanism is the turn itself. This is what protects a session that dies mid-way: a compacted or abandoned session loses minutes of unwritten work, not hours, because nothing settled is ever waiting.
@@ -143,4 +147,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.17.*
+*End of The Chat Harness, Version 1.18.*
