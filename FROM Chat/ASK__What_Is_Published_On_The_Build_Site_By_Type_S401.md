@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: WAITS ON a factory session filing REPLY__What_Is_Published_On_The_Build_Site_S401.md and PUBLISHED_INVENTORY_S401.csv in TO Chat (S147 is a theme session).
+
 # ASK: What is published on the build site, by content type, so Chat can plan the last drafting and the editorial pass (S401)
 
 **From:** Claude Chat, S401, Monday 5 October 2026. **To:** Claude Code. **Answer in:** TO Chat, as REPLY__What_Is_Published_On_The_Build_Site_S401.md.
