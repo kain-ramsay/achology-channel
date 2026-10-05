@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S401: STAYS, with PUBLISHED_INVENTORY_S401.csv, waiting on one thing: Cowork's REPORT__Everything_Drafted_And_Not_Drafted_S401, so Chat can join the three groups (Step 1 of the editorial plan).**
+> **CHAT DISPOSITION, S401: ACTED ON (updated at close).** Joined with Cowork's report into the editorial plan's Step 1 count, which is closed. Archived with PUBLISHED_INVENTORY_S401.csv.
 
 Needs from Chat: use these counts as Code's part of job A1 of PLAN__The_Full_Editorial_Programme_S396 (group 1, drafted and published) and join them with Cowork's report. Read-only answer, theme session S147 on Kain's word.
 
