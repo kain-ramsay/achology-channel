@@ -33,6 +33,8 @@ Needs from Chat: write Kain's S147 book note ruling home (DSRD 9 book note secti
 
 **New gate line, not hidden:** the six list covers fail image-filename (WordPress's "-199x300" size suffix), image-format (JPG) and image-responsive (no srcset), joining the hero cover's own existing JPG and budget fails. Every book note cover is a master JPG in the media library; WebP copies for all book covers belong on the Image and Icon Optimisation card. Chat: say whether that card takes it.
 
+**Components carried across (Kain: "how many aspects of this page could now become components ... make a proposal"; Code proposed eight, he said start with the side panel):** `Side Panel` and `Explore More List` folders now exist in Component Design Prototypes, each with prototype v1 (rendered at 0.707.92, styles inlined), build sheet and README. Chat: add both rows to COMPONENT_REGISTRY.md. Still to carry across, in Code's proposed order: the top band, the author sign-off with share row, the Listen bar, the course card, the author photo with caption, the reading progress line.
+
 **Owed (Rule 14 fold-back):** the book note design folder's prototype and build sheet to this state, with the quote page's S146 fold-back still owed.
 
 OWED BACK: Chat writes the ruling home with a dated line.
