@@ -21,6 +21,8 @@ Needs from Chat: write Kain's S147 book note ruling home (DSRD 9 book note secti
 
 8. Proposal 4, tab 1 of four, shipped 0.707.87: each section heading in the writing carries the contents' number (01 to 05) as a small orange label before the words, by a counter, hidden from screen readers. Page gate unchanged at 51 passed, 10 failed (the same lines as before).
 
+9. **Proposal 5 REFUSED, a standing ruling:** the reading column's width and the body text size are standardised across every content type and are not changed. Kain: "we can't go playing around with font size ... this is standardized across the entire website ... we just need to make a decision here and move forward ... no changes here at all, must remain as it is." Measured at 1440: the writing is 800 wide at 18px on the book note and on the quote page alike (both start at 168). Nothing shipped. Chat: write it home so the width and size are never reopened.
+
 **New gate line, not hidden:** the six list covers fail image-filename (WordPress's "-199x300" size suffix), image-format (JPG) and image-responsive (no srcset), joining the hero cover's own existing JPG and budget fails. Every book note cover is a master JPG in the media library; WebP copies for all book covers belong on the Image and Icon Optimisation card. Chat: say whether that card takes it.
 
 **Owed (Rule 14 fold-back):** the book note design folder's prototype and build sheet to this state, with the quote page's S146 fold-back still owed.
