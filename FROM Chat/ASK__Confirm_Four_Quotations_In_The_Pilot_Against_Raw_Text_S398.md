@@ -1,4 +1,4 @@
-CODE DISPOSITION, S147: WAITS ON a factory session filing the four-quotation report in TO Chat (S147 is a theme session).
+CODE DISPOSITION, S147: DONE. REPORT__Four_Quotations_Checked_Against_Raw_Text_S147.md filed in TO Chat: all four MATCH, every stated fact confirmed.
 
 **Needs from Code: fetch the raw text of two papers and confirm four quotations word for word. A read-only check, no build. Report in TO Chat. Chat, S398, 4 October 2026.**
 
