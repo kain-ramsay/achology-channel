@@ -34,10 +34,10 @@ Gate result is `content_gate.py` on the finished file. "Old guides only" means t
 22. `how-to-improve-mental-wellbeing` : How do you improve your mental wellbeing, day to day?. Body about 1506 words. Left on the gate: headed sections, counted not named; keyword density; keyword in image alt text.
 23. `mental-health-without-therapy-or-medication` : Can mental health improve without therapy or medication?. Body about 1487 words. Left on the gate: keyword in image alt text; heal/cure/treat/fix words in body; brain mentioned (only to set apart from the mind).
 24. `is-mental-health-genetic` : Is mental health genetic, or is it shaped by how you live?. Body about 1554 words. Left on the gate: keyword in image alt text; brain mentioned (only to set apart from the mind).
-25. `is-mental-health-an-illness` : Is mental health an illness, a spectrum or a continuum?. Body about 1361 words. Left on the gate: keyword in image alt text.
+25. `is-mental-health-an-illness` : Is mental health an illness, a spectrum or a continuum?. Body about 1433 words. Left on the gate: keyword in image alt text.
 26. `why-mental-health-is-important-in-everyday-life` : Why does mental health matter so much in everyday life?. Body about 1569 words. Left on the gate: headed sections, counted not named; paragraphs of 3 to 4 sentences, or 50+ words; keyword density; keyword in image alt text.
 27. `should-mental-health-be-taught-in-schools` : Should mental health be taught in schools, and how?. Body about 1554 words. Left on the gate: headed sections, counted not named; paragraphs of 3 to 4 sentences, or 50+ words; machine-written tells; keyword density; keyword in image alt text.
-28. `how-does-mental-health-affect-sleep` : Can mental health affect your body, sleep and energy?. Body about 1383 words. Left on the gate: headed sections, counted not named; keyword density; keyword in image alt text.
+28. `how-does-mental-health-affect-sleep` : Can mental health affect your body, sleep and energy?. Body about 1443 words. Left on the gate: headed sections, counted not named; keyword density; keyword in image alt text.
 29. `is-mental-health-getting-worse` : Is mental health getting worse, and if so, why?. Body about 1593 words. Left on the gate: headed sections, counted not named; paragraphs of 3 to 4 sentences, or 50+ words; keyword density; no paragraph over 120 words; keyword in image alt text.
 
 
@@ -58,7 +58,7 @@ I followed the Standard in every case and say here what each recipe line wanted 
 - **Gate, Help answers:** paragraph ceiling on all 20; density band (old guide) on answers 5, 6, 13 to 17, 19 and others; keyword-in-subheading on 13 only.
 - **Gate, articles:** alt text on all 9 (no picture exists yet, "to be made"); headed-section count (item 2 above); density; Sources-list paragraph shape on 26, 27 and 29; one paragraph over 120 words on 29 (it is the Sources list, 157 words).
 - **mh_check (Mental Health word list):** answer 9 and articles 23 and 24 mention "brain" once, only to say Achology teaches the mind and not the brain, which is the allowed shape. Article 23 prints "treatment" because it sits inside an exact quotation from the World Health Organization ("treatment gaps are wide all over the world"), kept as quoted. Article 27 prints "myriad" because it is inside the exact title of the MYRIAD trial source. Both left as written, not paraphrased.
-- **Length:** articles 25 and 28 read 1,473 and 1,455 words on the gate's count, under the brief's 1,500 and inside the Standard's guide band. I did not pad them. Overturn if 1,500 is hard.
+- **Length:** the nine articles now read 1,509, 1,571, 1,565, 1,665, 1,544, 1,587, 1,677, 1,515 and 1,760 on the gate's count, all inside the pilot sheet's aim of 1,500 to 2,000. Articles 25 and 28 were each a little under, so I added one short paragraph to each after reading the pilot's check sheet.
 
 ## Judgement calls Kain could overturn
 
@@ -79,5 +79,9 @@ Nine rows appended to `KEYWORD_REGISTER.csv`, dated 2026-10-05, session S402, co
 ## Scratch left in the Factory folder
 
 `_cowork_scratch_S402/` holds the agent instructions, the two checkers, the overlap scan, the final gate printout (`final_printout.txt`) and the pre-S402 Help drafts. Delete when Chat has checked.
+
+## Version 5 and the pilot's check sheet
+
+I had read Version 4 whole before drafting. For Version 5 I re-read its header and 15.2 item 8, and Parts 3, 9 and 11 again; the header says it differs from Version 4 in that one item (the defect register), and I did not re-diff the rest of the file myself, so that is the document's word, not my check. I also read the pilot's S402 check sheet and held the 29 to the same checks with a small script (`_cowork_scratch_S402/std_check.py`): opening 120 to 220 words in three paragraphs with the keyword once and inside the first 150 words (all nine articles pass), keyword in no more than one heading, link labels of 2 to 5 words, one link per paragraph, no page linked twice, no link in a heading, no helpline in Sources, and every outside link in the text matching a Sources entry and the reverse. It found four link labels over five words; I shortened them (Ofqual in answer 13, and the World Health Organization fact sheet links in articles 21, 26 and 27) and fixed one clumsy link lead-in in article 25. Teaching sections by the pilot's count are 5 to 8 per article (limit 8). The only thing I did not do is fill in any check sheet.
 
 Chat's check is next. Nothing further will be done on these 29 until it comes back.
