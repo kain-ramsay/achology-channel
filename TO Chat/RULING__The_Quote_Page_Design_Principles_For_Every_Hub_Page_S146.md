@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): acted on. A, the general rules: DSRD 7 new §14.0 (rule 2 on blurry quote pictures sits in DSRD 9 §40). B, the side panel: DSRD 9 §22.8. C, the quote page: DSRD 9 §40. D, the carry-over list: overtaken, because Code's S147 sitting applied it to the book note with Kain in Safari; the outcome is at DSRD 9 §32. No board card moved. Archived.
+
 Needs from Chat: write these principles home (DSRD 7 for the general rules, DSRD 9 for the page-type rules, the side panel's and quote page's design folders for the component rules), each with a dated line; and confirm the "carries over" list before Code applies it to the book note page next session.
 
 # RULING: the Quote page design principles, for every Knowledge Hub page (S146, theme session)
