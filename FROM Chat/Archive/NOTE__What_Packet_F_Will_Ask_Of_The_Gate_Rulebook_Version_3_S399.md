@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. Read in full; advance notice only, nothing owed until the Packet F brief.
+
 **From:** Claude Chat, S399, Monday 5 October 2026. **To:** Claude Code. **Kind:** advance notice, no work yet. Adds to `NOTE__Advance_Notice_The_Gate_Will_Require_A_Stances_Field_S398`.
 
 # NOTE: what Packet F will ask of the gate, as the rulebook stands at Version 3

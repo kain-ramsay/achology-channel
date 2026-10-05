@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. Read in full; advance notice only, nothing owed until the Packet F brief.
+
 **Needs from Code: nothing today. This is advance notice of one line that will be in the Packet F gate-rebuild brief, so it is not a surprise when that brief lands. Chat, S398, 4 October 2026.**
 
 # NOTE: the gate will require a `stances` field on every record

@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: WAITS ON a factory session filing the push report with re-scores for the 53 records in TO Chat (S147 is a theme session).
+
 **Needs from Code: push the 53 corrected records (four elder retitles and the 53 picture descriptions, Cowork's S395 report) without waiting for the alt-line fix, then re-score and report. Chat, S398, 4 October 2026.**
 
 # NOTE: the picture description line is ruled, push the 53
