@@ -1,2 +1,2 @@
-FAIL  2026-10-05T04:56:26Z
-Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: ssh_dispatch_run_fatal: Connection to 20.26.156.215 port 22: Operation timed out.A rebase left in progress by an earlier run was aborted.
+FAIL  2026-10-05T04:57:00Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: fatal: It seems that there is already a rebase-merge directory, and.A rebase left in progress by an earlier run was aborted.
