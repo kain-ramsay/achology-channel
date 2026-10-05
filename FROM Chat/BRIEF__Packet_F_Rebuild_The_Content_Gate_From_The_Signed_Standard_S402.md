@@ -1,0 +1,39 @@
+# BRIEF: Packet F, rebuild the content gate from THE ACHOLOGY CONTENT STANDARD (S402)
+
+**From:** Claude Chat, S402, Monday 5 October 2026. **To:** Claude Code. **Approved by Kain:** yes, in Chat, S402, on the signed Standard. **Standing permission from Kain:** build it end to end; where something is impossible as written, log it in your DONE and carry on.
+
+## What this is, in one paragraph
+
+Kain signed `000__THE_ACHOLOGY_CONTENT_STANDARD.md` (Version 4, S402; root of the Content Production Factory folder) today. It is now the one home of every writing rule. `content_gate.py` and `content_gate_standards.json` (same folder) still measure the rules of September; they are copies that have drifted. This brief is Packet F of `PLAN__The_Writing_Rules_Consolidation_Job_S397.md` (same folder): rebuild the gate so it is a copy of the Standard and nothing else, and so it refuses to let a record publish without Kain's signature. Kain's words on why: guesswork and promises are not a mechanism; the mechanism is that nothing reaches the site unless it was held to this standard. Read the Standard whole before touching the gate; Part 15 section 15.2 item 3 is the table that says, part by part, which rules the machine measures and which a human reads for. That table is the order; the gate is the copy.
+
+## The split Kain ruled at S402
+
+Packet F is the gate (this brief, yours). Packet E is Chat's: cutting the Cowork Production Harness and DSRD 2 to pointers at the Standard. The skill files are **not** touched before launch (Kain, S391: no tokens on skills before launch); they are cut to pointers after launch. Nothing in this brief asks you to edit a skill.
+
+## What the rebuilt gate must do
+
+1. **The `signed` field (Part 19 rule 7).** Every record gains a required field `signed`, carrying three values copied from the article's check sheet: signed by, date, Standard version. The gate FAILS any record whose `signed` field is empty, and FAILS one whose Standard version is older than the version in force when a rule marked hard last changed (today every hard rule dates from S398 or earlier, so Version 2 or later passes). This is the line Kain asked for: nothing imports or publishes on the install without it. Nothing you build may set this field; Chat or Cowork writes it from the sheet, never the checker, never a script.
+2. **The `stances` field (foundation, "How the stance is made to be used", item 2).** Required. FAIL if empty, if it names a stance the stance map in the foundation does not give that record's subject, or if it names a stance that does not exist in the vault's `02-Achology` folder. The map is in the Standard; read it from there, not from a copy.
+3. **Guide bands print notes, never FAILs (Part 15.1 item 3).** Every word band and section count is a guide unless the Standard's type section says hard. The only hard limits: the quote page's closing question at 79 to 89 characters, the workbook landing page's 750 to 900 words, and locked headings (book note, author biography, quote page). Everything else prints `NOTE`, not `FAIL`, and a NOTE never fails the gate. Keyword density is retired as a FAIL (it has no home in the Standard); print it as a note or drop it.
+4. **Dated checks (section 15.2 item 2).** Every check carries the session its rule entered (the Standard marks them: "ruled S398", "homed S399", "S402"; unmarked rules are S396). Your `field_introduced` mechanism already does this for fields; extend it to every new check, so a record written before a rule's date is not failed on it. The hundreds of older records are brought up by the editorial programme, not failed in bulk.
+5. **Part 6, the body.** Paragraphs three to four sentences, 50 to 120 words, every type, Help answers included; the Help entry's 60-word, three-sentence ceiling retires (Part 15.1 item 1). The Sources list is not a paragraph: do not count it (today the gate reads it as one; the pilot shows "Sources p1=5"). The named exceptions in section 15.2 item 4 are excused: the provenance formula, the practice block, the short close of the knowledge-derived article and the hub guide, and a closing paragraph Kain approved word for word (carry that last one as a per-record exemption field, the way `seven-beliefs-series.line_exemptions` works today, so a record names which paragraphs Kain approved).
+6. **Part 5, headings.** The search phrase in exactly one heading: FAIL on zero and FAIL on two or more. Count teaching headings only; the practice block, Sources and course mention headings are the foot, not sections (today the gate counts 11 on the pilot where the Standard counts 8).
+7. **Part 9, links.** New checks: link text two to five words, except a course's full DSRD 5 name (exception (m)); at most one link per paragraph; each destination linked once per article; no link inside a heading; the banned labels list from Part 16 rule 16. Keep the one-internal, one-external minimums.
+8. **Part 10, the picture.** The keyword-in-alt check retires as a FAIL (Part 15.1 item 17): print a note where the keyword is absent, nothing more. Alt text present stays a FAIL.
+9. **Part 11, Sources.** Where a record carries a Sources list, every outside source named in the body appears in it and every entry appears in the body. A helpline or service the page points to is not a source (Part 11 rule 4, S402). This check waits on the Sources block in the article template; build the record-level check now and leave the template to the signed spec Kain gives you later.
+10. **Part 13, the course.** The full DSRD 5 name present and linked at first mention; FAIL on any currency figure (`$`, `£`, `€` before a digit) in an article or Help answer body.
+11. **Part 16, the words.** Replace the gate's `banned_always`, `flag_in_context`, `machine_tells_always`, `machine_tells_flag`, `machine_tell_structures`, `banned_proper_nouns` and `banned_word_exempt_quotes` lists with copies of Part 16 as it stands: note that "plainly" and "truly" now live in rules 7 and 8, not the machine-tell list, and still fail; the quote exemption applies on quote pages only (rule 10, S402); "actually" at most once with the page's own keyword exempt; contractions: FAIL a Help answer with none, note only on other types.
+12. **Part 17, the types.** Bands and section counts exactly as 17.1 to 17.7 give them (section counts were entered into the Standard from your gate at S402, so these should already match; confirm and say so). The elder article takes the instructor-attributed entry. There is no buyer-intent type; no salvage type.
+13. **Part 1 and Part 2.** Add the question-title allowance to `banned_always`: a title may ask "is X scientifically proven?" (the "proven" ruling, Part 1); the body still fails on the phrase outside a title or a quote.
+
+## What you return
+
+- A DONE in TO Chat: the rebuilt `content_gate_standards.json` and `content_gate.py` on disk, the gate run read-only against `Content Records/hub-question-article/is-mindfulness-evidence-based.md` (its check sheet `CHECK__is-mindfulness-evidence-based_S402.md` sits beside it; Kain signs it this week, so run before and after the `signed` field is filled and show both printouts), and one line per item above saying built, or impossible and why.
+- A list of every check you retired, so the Standard's 15.2 table can be corrected if it named a check that no longer exists.
+- Do not import or publish anything under this brief. The pilot is already on the install unsigned (post 39803); leave it until its `signed` field is filled, then it is the first record the rebuilt gate passes.
+
+## Where things are
+
+Content Production Factory folder: the Standard, the plan, the gate files, the check-sheet template, `Content Records/`. Vault: `02-Achology/`, the twenty stance notes and `The Achology Stance.md`. The S147 report confirming the pilot's four quotations is in TO Chat's Archive.
+
+*No em or en dashes in this file; checked before writing.*
