@@ -4,7 +4,7 @@
 
 All 29 records are in `Content Records/` (20 in `help-answer`, 9 in `hub-question-article`), each with its sourcing record and open list. The `stances` field is exactly "Mental Health, Emotional Health, Self Responsibility, Mental Wellness" on all 29. No `signed` field is filled and there is no check sheet. The 20 Help answers were rewritten in place over the S393 drafts (the old drafts are kept in `_cowork_scratch_S402/backup_help_before/`). Nothing has been written to FROM Chat or TO Chat. I am holding for Chat's check.
 
-I read every word of the 29 records through the gate and the mental-health checker, spot-read bodies, scanned for dashes (none, en or em), checked that the course name matches DSRD 5 exactly ("Mental Health and Wellbeing Practitioner Diploma Course", used in every record), that no price appears in any answer body (prices sit only in the sourcing records), that every Help answer carries exactly four related questions and the UKRLP line, and that no lesson titles are named. Chat's fresh check is still the check; none of this replaces it.
+I ran all 29 through the gate and the mental-health checker, spot-read bodies (not every word of all 29; the drafting agents' own reads stand behind the rest), scanned for dashes (none, en or em), checked that the course name matches DSRD 5 exactly ("Mental Health and Wellbeing Practitioner Diploma Course", used in every record), that no price appears in any answer body (prices sit only in the sourcing records), that every Help answer carries exactly four related questions and the UKRLP line, and that no lesson titles are named. Chat's fresh check is still the check; none of this replaces it.
 
 ## One line per piece
 
@@ -73,7 +73,7 @@ Nine rows appended to `KEYWORD_REGISTER.csv`, dated 2026-10-05, session S402, co
 ## Skipped or only partly done
 
 - No pictures and no alt text (the alt line prints "to be made" on all 9 articles).
-- Some outside sources were read at abstract or overview level only, and say so in the open lists: in article 27 the MYRIAD and Durlak papers were read at abstract level and the WHO and UNESCO 2021 publication at overview level, so the body claims only what those texts say. Nothing was cited that could not be read; where a source could not be opened I left the claim out.
+- Some outside sources were read at abstract or overview level only, and say so in the open lists: in article 27 the MYRIAD and Durlak papers were read at abstract level and the WHO and UNESCO 2021 publication at overview level, so the body claims only what those texts say. The sourcing records show what was read; I did not re-open every source myself after the agents drafted, so Chat's check of the quotations against their sources matters most.
 - Internal links: every in-site article and quote-page link in the 29 bodies resolves to a record in the S401 published inventory; the course page links point to the course pages, which that inventory does not list, so I could not check them against it.
 
 ## Scratch left in the Factory folder
