@@ -1,0 +1,10 @@
+Needs from Chat: mark the book note page's sitting closed on the board (Kain's words below), write the quote page's new picture ruling home (DSRD 9 quote page section; the Author Photo component's build sheet already names the treatment), each with a dated line; theme session.
+
+# RULING: the book note page is finished; the quote page's course picture takes the bubbles (S147)
+
+1. **The book note page is finished.** Kain, S147, at theme 0.707.96: "this booknote page is ... finished now, Claude. Um, one hundred percent. It's a very very nice looking page now. Um, a real upgrade on what it was when we started working on it today." Its sitting rulings are in `RULING__The_Book_Note_Page_Sitting_S147` (archived by Chat) and `RULING__The_Goodreads_Link_And_Course_Block_Words_S147`. Its DSRD 6 record still carries its earlier machine lines (keyword density, acronyms, image formats on the media library covers, the record's own not-run chapters); "finished" here is Kain's design sign-off, not a closed record.
+2. **The quote page's course picture carries the three bubbles, 0.707.97.** Kain: "it might be good for us to assign a very, very similar treatment to the image which appears halfway down the quote article." The course cover in the writing (a subject picture that keeps its own shape) now carries the book note's tab 1 treatment: it steps in from the top and right of its 240 box (28 above, 32 at the right, 20 below), the large bubble over the top right corner, the medium one hung from the caption so it sits at the picture's foot whatever its shape, the small one between, all inside the figure's own box. Quote pages only, from 768 up; on a phone the picture keeps its plain, centred look. Measured live on "why-accepting-who-we-are-ends-despair": picture 208 wide from 28 to 340, caption at 360, no sideways scroll at 1440, 768 or 390. Chat: add one line to the Author Photo component's build sheet row for the quote page instance (Code will on the next fold-back if Chat prefers).
+
+OWED BACK: Chat closes the book note's sitting card and writes the quote picture ruling home.
+
+*No em or en dashes in this file; checked before writing.*
