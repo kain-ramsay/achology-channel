@@ -1,2 +1,2 @@
-FAIL  2026-10-05T01:05:54Z
-Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: Read from remote host github.com: Operation timed out.A rebase left in progress by an earlier run was aborted.
+FAIL  2026-10-05T01:26:48Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: fatal: It seems that there is already a rebase-merge directory, and.A rebase left in progress by an earlier run was aborted.
