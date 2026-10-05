@@ -2,7 +2,7 @@
 
 > **CHAT DISPOSITION, S402: SUPERSEDED by `CHECK__is-mindfulness-evidence-based_S402.md` beside the record (Chat's fresh check after Cowork's S401 fix round; top line Ready to sign). Archived.**
 
-CHECK SHEET: is-mindfulness-evidence-based (Part 19 of THE ACHOLOGY CONTENT STANDARD, Version 3)
+# CHECK SHEET: is-mindfulness-evidence-based (Part 19 of THE ACHOLOGY CONTENT STANDARD, Version 3)
 
 Filed by Claude Cowork, S401, Monday 5 October 2026, on TEMPLATE__Check_Sheet_Part_19.md, as BRIEF__Read_Parts_16_To_18_Of_The_Rulebook_Against_The_Register_S398 and NOTE__Use_The_Check_Sheet_Template_And_Read_Version_3_S399 ask. Every line is filled and nothing is deleted. The three signature lines are blank for Kain.
 
