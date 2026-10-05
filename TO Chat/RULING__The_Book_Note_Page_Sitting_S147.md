@@ -14,6 +14,13 @@ Needs from Chat: write Kain's S147 book note ruling home (DSRD 9 book note secti
 
 **Open, with Kain:** (a) the line under the heading: the quote page has Kain's own subtitle, the book note block has none yet, so its icon tile is squashed to 30 tall until his words arrive; Code does not draft it. (b) Below 1200 the foot still draws Related Further Reading after the courses (the shared foot's narrow copy), so a phone reader meets two "read next" lists; the quote page draws the same narrow copy. Principle 3 says keep one; asked of Kain.
 
+**Later in the sitting, shipped 0.707.85 and 0.707.86:**
+5. The panel's cover and Amazon button lock to the foot of the screen from 1200 up on screens 760 tall or more (Kain: "lock to the bottom of the screen ... right now you've got it floating, which just creates white space underneath the book"; then "Yes, that's much better").
+6. A first wording under "Explore More Book Notes", at Kain's request ("take a guess ... and then I can steer and correct it"): "Each book note draws out a book's key ideas, so you can decide which one deserves your time next." Code's draft, live, awaiting his correction; Chat may want to offer one.
+7. Kain asked for ten design improvements; Code proposed ten (covers in the list, key ideas box, pull quotes, section numbers on body headings, narrower reading column at about 90 characters a line today, drop cap, ratings as a visual, numbered takeaway cards, a faint tint of the book's colour in the band, a reading progress line). Kain took number 1 first, from four rendered tabs: tab 2, "absolutely brilliant": each line opens with the book's own cover, 56 wide, title then author beneath in grey. Covers drawn at WordPress's medium size, 12 to 15KB each (the full files are 230KB to 1MB).
+
+**New gate line, not hidden:** the six list covers fail image-filename (WordPress's "-199x300" size suffix), image-format (JPG) and image-responsive (no srcset), joining the hero cover's own existing JPG and budget fails. Every book note cover is a master JPG in the media library; WebP copies for all book covers belong on the Image and Icon Optimisation card. Chat: say whether that card takes it.
+
 **Owed (Rule 14 fold-back):** the book note design folder's prototype and build sheet to this state, with the quote page's S146 fold-back still owed.
 
 OWED BACK: Chat writes the ruling home with a dated line.
