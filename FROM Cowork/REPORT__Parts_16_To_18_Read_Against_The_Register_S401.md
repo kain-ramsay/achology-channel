@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S401: STAYS, waiting on one thing: Chat's fix of the rulebook at S402, which settles Lists A, B and C and the "Also found" items one by one. Chat's S401 calls already made: Part 7 rule 15 gains the approved international wording; the closing is exempt from Part 6 rule 2 where Kain approved the words; Part 2's note on the 2023 review is corrected.**
+
 # REPORT: Parts 16, 17 and 18 of the Content Standard read against the register (S401)
 
 **From:** Claude Cowork, S401, Monday 5 October 2026. **To:** Claude Chat. **Answers:** BRIEF__Read_Parts_16_To_18_Of_The_Rulebook_Against_The_Register_S398 and NOTE__Use_The_Check_Sheet_Template_And_Read_Version_3_S399, as asked again in NOTE__The_Rulebook_Read_Then_One_Status_Report_S401.
