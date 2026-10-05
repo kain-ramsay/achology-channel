@@ -1,0 +1,1130 @@
+type,article_type,post_id,title,slug,status_on_install,record_file,record_body_words
+article,field-authority,39789,"What does it mean to be present, and why is it so hard?",being-present-in-the-moment,publish,hub-question-article/being-present-in-the-moment.md,2872
+article,field-authority,39791,"What are the real benefits of mindfulness, and the limits?",benefits-of-mindfulness,publish,hub-question-article/benefits-of-mindfulness.md,2584
+article,field-authority,39793,Which mindfulness books are worth reading first?,best-mindfulness-books,publish,hub-question-article/best-mindfulness-books.md,3158
+article,field-authority,39795,"Can mindfulness be harmful, and who should be careful?",can-mindfulness-meditation-be-harmful,publish,hub-question-article/can-mindfulness-meditation-be-harmful.md,2806
+article,field-authority,39797,"Can self-awareness be learned, and how do you develop it?",can-self-awareness-be-learned,publish,hub-question-article/can-self-awareness-be-learned.md,2871
+article,field-authority,39799,What are conditions of worth in person-centred counselling?,conditions-of-worth,publish,hub-question-article/conditions-of-worth.md,1965
+article,field-authority,39801,"How do you start practising mindfulness, and how often?",how-to-practice-mindfulness,publish,hub-question-article/how-to-practice-mindfulness.md,2903
+article,field-authority,39803,Is mindfulness scientifically proven? What the research says,is-mindfulness-evidence-based,publish,hub-question-article/is-mindfulness-evidence-based.md,3454
+article,field-authority,39805,"Is self-criticism ever useful, and how do you quieten it?",is-self-criticism-good,publish,hub-question-article/is-self-criticism-good.md,3059
+article,field-authority,39807,"How do you know if you lack self-awareness, and what helps?",lack-of-self-awareness,publish,hub-question-article/lack-of-self-awareness.md,3053
+article,field-authority,39809,"What are mindfulness skills, and how do you practise them?",mindfulness-skills,publish,hub-question-article/mindfulness-skills.md,2454
+article,field-authority,39811,"Is mindfulness part of CBT or DBT, or something else?",mindfulness-therapy,publish,hub-question-article/mindfulness-therapy.md,2604
+article,field-authority,39813,"Is mindfulness religious, and can anyone practise it?",mindfulness-without-religion,publish,hub-question-article/mindfulness-without-religion.md,3293
+article,field-authority,39815,"MBSR and MBCT: what are they, and how are they different?",what-is-mindfulness-based-stress-reduction,publish,hub-question-article/what-is-mindfulness-based-stress-reduction.md,2695
+article,field-authority,39817,"What is self-understanding, and why does it matter so much?",what-is-self-understanding,publish,hub-question-article/what-is-self-understanding.md,2655
+article,field-authority,39819,"What is stress management, and do the techniques work?",what-is-stress-management,publish,hub-question-article/what-is-stress-management.md,3061
+article,field-authority,39821,"Mindfulness, Zen or meditation: what is the real difference?",zen-vs-mindfulness,publish,hub-question-article/zen-vs-mindfulness.md,2989
+article,instructor-attributed,39652,What Makes a Good Teacher Beyond the Lesson Plan?,what-makes-a-good-teacher-beyond-the-lesson-plan,publish,instructor-article/AN01__what-makes-a-good-teacher-beyond-the-lesson-plan.md,2312
+article,instructor-attributed,39653,"What Do Students Really Want, and How Do You Find Out?",what-do-students-really-want-and-how-do-you-find-out,publish,instructor-article/AN02__what-do-students-really-want-and-how-do-you-find-out.md,2068
+article,instructor-attributed,39654,Why Does the Character of a Good Teacher Matter More Than Method?,why-does-the-character-of-a-good-teacher-matter-more-than-method,publish,instructor-article/AN03__why-does-the-character-of-a-good-teacher-matter-more-than-method.md,2116
+article,instructor-attributed,39655,How Do You Keep Your Purpose as a Teacher?,how-do-you-keep-your-purpose-as-a-teacher,publish,instructor-article/AN04__how-do-you-keep-your-purpose-as-a-teacher.md,2329
+article,instructor-attributed,39656,"How Can a Coach Build Character in Sports, Not Just Win Games?",how-can-a-coach-build-character-in-sports-not-just-win-games,publish,instructor-article/AN05__how-can-a-coach-build-character-in-sports-not-just-win-games.md,2377
+article,instructor-attributed,39657,"What Is the Purpose of a Teacher? Why Every Educator Should Ask ""For What Purpose?""",what-is-the-purpose-of-a-teacher-and-why-ask-for-what-purpose,publish,instructor-article/AN06__what-is-the-purpose-of-a-teacher-and-why-ask-for-what-purpose.md,1985
+article,instructor-attributed,39658,What Does It Mean to Take Responsibility When No One Is Making You?,what-does-it-mean-to-take-responsibility,publish,instructor-article/AW01__what-does-it-mean-to-take-responsibility.md,2746
+article,instructor-attributed,39659,How Do You Stop Letting the Past Control You?,stop-letting-the-past-control-you,publish,instructor-article/AW02__stop-letting-the-past-control-you.md,2335
+article,instructor-attributed,39660,How Do You Talk to Your Teenager as an Equal Without Giving Up Being a Parent?,how-do-you-talk-to-your-teenager-as-an-equal,publish,instructor-article/AW03__how-do-you-talk-to-your-teenager-as-an-equal.md,2249
+article,instructor-attributed,39661,What Does Leading Under Pressure Actually Teach You?,what-does-leading-under-pressure-teach-you,publish,instructor-article/AW04__what-does-leading-under-pressure-teach-you.md,2377
+article,instructor-attributed,39662,Why Am I Here? Finding Purpose in Life After Thirty Years of Service,finding-purpose-in-life-after-thirty-years-of-service,publish,instructor-article/AW05__finding-purpose-in-life-after-thirty-years-of-service.md,2529
+article,instructor-attributed,39663,"What Is Self-Leadership, and How Do You Practise It?",what-is-self-leadership,publish,instructor-article/AW06__what-is-self-leadership.md,2236
+article,instructor-attributed,39664,What Is the Difference Between Healthy Pride and Arrogance?,what-is-the-difference-between-healthy-pride-and-arrogance,publish,instructor-article/ER01__what-is-the-difference-between-healthy-pride-and-arrogance.md,2235
+article,instructor-attributed,39665,How Do You Set Boundaries Without Ruining a Relationship?,how-do-you-set-boundaries-without-ruining-a-relationship,publish,instructor-article/ER02__how-do-you-set-boundaries-without-ruining-a-relationship.md,2198
+article,instructor-attributed,39666,"What Is Grief When No One Has Died, and What Does It Look Like?",what-is-grief-when-no-one-has-died-and-what-does-it-look-like,publish,instructor-article/ER03__what-is-grief-when-no-one-has-died-and-what-does-it-look-like.md,2068
+article,instructor-attributed,39667,"Why Do People Pleasers Abandon Themselves, and How Do They Stop?",why-do-people-pleasers-abandon-themselves-and-how-do-they-stop,publish,instructor-article/ER04__why-do-people-pleasers-abandon-themselves-and-how-do-they-stop.md,2130
+article,instructor-attributed,39668,How Do You Tell Someone the Truth Kindly?,how-do-you-tell-someone-the-truth-kindly,publish,instructor-article/ER05__how-do-you-tell-someone-the-truth-kindly.md,2245
+article,instructor-attributed,39669,How Do You Rebuild Your Identity After a Big Life Change?,how-do-you-rebuild-your-identity-after-a-big-life-change,publish,instructor-article/ER06__how-do-you-rebuild-your-identity-after-a-big-life-change.md,2289
+article,instructor-attributed,39670,"What Is a Saviour Complex, and How Do Helpers Get Caught in It?",what-is-a-saviour-complex,publish,instructor-article/GK01__what-is-a-saviour-complex.md,2096
+article,instructor-attributed,39671,"What Is Jung's Shadow, and Why Does It Matter to Anyone Who Helps People?",what-is-jungs-shadow,publish,instructor-article/GK02__what-is-jungs-shadow.md,2395
+article,instructor-attributed,39672,Why Do We Give Up So Easily Halfway Through Learning Something?,why-do-we-give-up-so-easily-halfway-through-learning-something,publish,instructor-article/GK03__why-do-we-give-up-so-easily-halfway-through-learning-something.md,2247
+article,instructor-attributed,39675,How Can Faith and Psychology Work Together?,how-can-faith-and-psychology-work-together,publish,instructor-article/GK06__how-can-faith-and-psychology-work-together.md,2365
+article,instructor-attributed,39676,Why Is Small Talk Important?,why-is-small-talk-important,publish,instructor-article/GT01__why-is-small-talk-important.md,2132
+article,instructor-attributed,39677,How Do Everyday Conversations Create a Sense of Belonging?,how-do-everyday-conversations-create-a-sense-of-belonging,publish,instructor-article/GT02__how-do-everyday-conversations-create-a-sense-of-belonging.md,2334
+article,instructor-attributed,39678,How Do You Ask Good Questions in a Conversation?,how-do-you-ask-good-questions-in-a-conversation,publish,instructor-article/GT03__how-do-you-ask-good-questions-in-a-conversation.md,2294
+article,instructor-attributed,39679,How Do You Say What You Mean Clearly and Concisely?,how-do-you-say-what-you-mean-clearly-and-concisely,publish,instructor-article/GT04__how-do-you-say-what-you-mean-clearly-and-concisely.md,2228
+article,instructor-attributed,39681,How Do You Stay Sincere When You Speak in Public?,how-do-you-stay-sincere-when-you-speak-in-public,publish,instructor-article/GT06__how-do-you-stay-sincere-when-you-speak-in-public.md,2223
+article,instructor-attributed,39682,Why Do We Make Emotional Decisions and Then Justify Them With Logic?,why-do-we-make-emotional-decisions-and-then-justify-them-with-logic,publish,instructor-article/JF01__why-do-we-make-emotional-decisions-and-then-justify-them-with-logic.md,2158
+article,instructor-attributed,39683,How Do You Question Assumptions Without Being Stubborn?,how-do-you-question-assumptions-without-being-stubborn,publish,instructor-article/JF02__how-do-you-question-assumptions-without-being-stubborn.md,2462
+article,instructor-attributed,39684,How Do You Think Critically About What You Read and Hear?,how-do-you-think-critically-about-what-you-read-and-hear,publish,instructor-article/JF03__how-do-you-think-critically-about-what-you-read-and-hear.md,2358
+article,instructor-attributed,39685,How Do You Pause Before You React?,how-do-you-pause-before-you-react,publish,instructor-article/JF04__how-do-you-pause-before-you-react.md,2411
+article,instructor-attributed,39686,Is It Too Late to Learn Something New in Your Fifties?,is-it-too-late-to-learn-something-new-in-your-fifties,publish,instructor-article/JF05__is-it-too-late-to-learn-something-new-in-your-fifties.md,2434
+article,instructor-attributed,39673,How Do You Keep Going When You've Lost Motivation?,,pending,,
+article,instructor-attributed,39674,What Does It Mean to Listen Without Fixing?,,pending,,
+article,instructor-attributed,39680,What Does It Mean to Mean What You Say?,,pending,,
+article,instructor-attributed,39687,How Can One Person Make a Positive Difference?,,pending,,
+article,(none),39689,The Seven Beliefs Achology Is Built On,,pending,,
+article,(none),39691,Every Human Being Can Grow And Mature,,pending,,
+article,(none),39692,Self-Knowledge Comes Before Personal Growth,,pending,,
+article,(none),39693,Wisdom Begins With Accurate Thinking,,pending,,
+article,(none),39694,Emotions Can Be Understood And Managed,,pending,,
+article,(none),39695,Your Emotional State Is Your Responsibility,,pending,,
+article,(none),39696,Personal Growth Comes Before A Better Life,,pending,,
+article,(none),39697,Personal Growth Always Serves A Purpose,,pending,,
+article,(none),39698,"Seven Beliefs, One Attitude To Life",,pending,,
+faq_article,,34357,Achology membership benefits probe S097,,pending,,
+faq_article,,39300,"Who certifies NLP training, and does accreditation matter?",accredited-nlp-certification,publish,help-answer/HELP__accredited-nlp-certification.md,1370
+faq_article,,39301,"Is becoming a counsellor worth it, and is it in demand?",are-counsellors-in-demand,publish,help-answer/HELP__are-counsellors-in-demand.md,1546
+faq_article,,39302,Do you need a licence to be a counsellor in the UK or US?,are-counsellors-regulated,publish,help-answer/HELP__are-counsellors-regulated.md,1510
+faq_article,,39303,How long does it take to become a certified life coach?,become-a-certified-life-coach,publish,help-answer/HELP__become-a-certified-life-coach.md,1333
+faq_article,,39305,How do you choose a counselling course you can trust?,best-counselling-courses,publish,help-answer/HELP__best-counselling-courses.md,1362
+faq_article,,39306,Can a life coach help with anxiety or mental health?,can-a-life-coach-help-with-anxiety,publish,help-answer/HELP__can-a-life-coach-help-with-anxiety.md,1342
+faq_article,,39307,"Can a life coach use CBT or NLP, and where is the line?",can-life-coaches-use-cbt,publish,help-answer/HELP__can-life-coaches-use-cbt.md,1338
+faq_article,,39308,CBT levels and diplomas: which one do you actually need?,cbt-course-levels-and-diplomas,publish,help-answer/HELP__cbt-course-levels-and-diplomas.md,1108
+faq_article,,39309,Is a cheap or quick counselling course ever a good idea?,cheap-counselling-courses,publish,help-answer/HELP__cheap-counselling-courses.md,1154
+faq_article,,39310,Is a quick or cheap life coaching certification a good idea?,cheapest-life-coaching-certification,publish,help-answer/HELP__cheapest-life-coaching-certification.md,1311
+faq_article,,39311,How do you choose a good life coaching course?,choose-a-good-life-coaching-course,publish,help-answer/HELP__choose-a-good-life-coaching-course.md,1704
+faq_article,,39312,"Can you study counselling online, and is it taken seriously?",counselling-courses-online,publish,help-answer/HELP__counselling-courses-online.md,1468
+faq_article,,39313,Counselling or psychology: which should you study?,counselling-or-psychology,publish,help-answer/HELP__counselling-or-psychology.md,1532
+faq_article,,39314,How do trainee counsellors get real counselling experience?,counselling-placements,publish,help-answer/HELP__counselling-placements.md,1294
+faq_article,,39315,Counselling levels 2 to 5: what do they mean for you?,counselling-qualification-levels,publish,help-answer/HELP__counselling-qualification-levels.md,1372
+faq_article,,39316,Can you become a counsellor without a degree?,counsellor-without-a-degree,publish,help-answer/HELP__counsellor-without-a-degree.md,1413
+faq_article,,39317,How do life coaches find clients and set their prices?,how-do-life-coaches-get-clients-and-set-prices,publish,help-answer/HELP__how-do-life-coaches-get-clients-and-set-prices.md,1275
+faq_article,,39318,"How much do CBT therapists earn, and what affects their pay?",how-much-do-cbt-therapists-earn,publish,help-answer/HELP__how-much-do-cbt-therapists-earn.md,1588
+faq_article,,39319,"What is CBT coaching, and how do you become a CBT coach?",how-to-become-a-cbt-coach,publish,help-answer/HELP__how-to-become-a-cbt-coach.md,1273
+faq_article,,39320,"How do you become a CBT therapist, and do you need a degree?",how-to-become-a-cbt-therapist,publish,help-answer/HELP__how-to-become-a-cbt-therapist.md,1507
+faq_article,,39321,"How do you become a counsellor, and how long does it take?",how-to-become-a-counsellor,publish,help-answer/HELP__how-to-become-a-counsellor.md,1366
+faq_article,,39322,Do you need an ICF accredited life coaching course?,icf-accredited-life-coaching-programs,publish,help-answer/HELP__icf-accredited-life-coaching-programs.md,1253
+faq_article,,39323,"Is a life coaching certification worth it, and for whom?",is-a-life-coaching-certification-worth-it,publish,help-answer/HELP__is-a-life-coaching-certification-worth-it.md,1290
+faq_article,,39324,"Is life coaching legit, or is the whole industry a scam?",is-life-coaching-legit,publish,help-answer/HELP__is-life-coaching-legit.md,1224
+faq_article,,39325,"Is life coaching regulated, and is that about to change?",is-life-coaching-regulated,publish,help-answer/HELP__is-life-coaching-regulated.md,1184
+faq_article,,39326,"Is NLP certification legit, and what does it actually prove?",is-nlp-certification-legit,publish,help-answer/HELP__is-nlp-certification-legit.md,1339
+faq_article,,39327,"Can you learn CBT for free, and what do you miss out on?",learn-cbt-for-free,publish,help-answer/HELP__learn-cbt-for-free.md,1011
+faq_article,,39328,Should you become a life coach or a therapist?,life-coach-or-a-therapist,publish,help-answer/HELP__life-coach-or-a-therapist.md,1233
+faq_article,,39329,Can you become a life coach without a psychology degree?,life-coach-with-psychology-degree,publish,help-answer/HELP__life-coach-with-psychology-degree.md,1156
+faq_article,,39330,"Is life coaching a good career, and can it be a real job?",life-coaching-as-a-career,publish,help-answer/HELP__life-coaching-as-a-career.md,1292
+faq_article,,39304,"Can you become a life coach for free, and should you try?",become-a-life-coach-for-free,publish,help-answer/HELP__become-a-life-coach-for-free.md,1453
+faq_article,,39331,"Can you train as a life coach online, and does it hold up?",life-coaching-certification-online,publish,help-answer/HELP__life-coaching-certification-online.md,1209
+faq_article,,39332,What experience do you need before training as a life coach?,life-coaching-experience,publish,help-answer/HELP__life-coaching-experience.md,1225
+faq_article,,39333,Do you need a certification or a degree to be a life coach?,need-a-certification-or-a-degree,publish,help-answer/HELP__need-a-certification-or-a-degree.md,1345
+faq_article,,39334,How do you get into CBT through the NHS training routes?,nhs-routes-into-cbt,publish,help-answer/HELP__nhs-routes-into-cbt.md,1308
+faq_article,,39335,"Can you get NLP certification free, and is it worth having?",nlp-certification-free,publish,help-answer/HELP__nlp-certification-free.md,1366
+faq_article,,39336,NLP certification levels: which one do you actually need?,nlp-certification-levels,publish,help-answer/HELP__nlp-certification-levels.md,1379
+faq_article,,39337,"Can you do NLP certification online, and is it respected?",nlp-certification-online,publish,help-answer/HELP__nlp-certification-online.md,1441
+faq_article,,39338,"Can you learn CBT online, and which course suits you?",study-cbt-online,publish,help-answer/HELP__study-cbt-online.md,857
+faq_article,,39339,"Can you train in NLP and hypnosis together, and should you?",train-in-nlp-and-hypnosis-together,publish,help-answer/HELP__train-in-nlp-and-hypnosis-together.md,1632
+faq_article,,39340,"What is a life coaching niche, and do you really need one?",what-is-a-life-coaching-niche,publish,help-answer/HELP__what-is-a-life-coaching-niche.md,1099
+faq_article,,39341,"What is an NLP coach, and how do you become one?",what-is-an-nlp-coach,publish,help-answer/HELP__what-is-an-nlp-coach.md,1322
+faq_article,,39342,"Will AI replace counsellors, or can it never do the job?",will-counsellors-be-replaced-by-ai,publish,help-answer/HELP__will-counsellors-be-replaced-by-ai.md,1426
+faq_article,,39343,"Will AI replace life coaches, or make good ones matter more?",will-life-coaches-be-replaced-by-ai,publish,help-answer/HELP__will-life-coaches-be-replaced-by-ai.md,1115
+faq_article,,39512,"Can you learn mindfulness online, or even for free?",free-mindfulness-course,publish,help-answer/HELP__free-mindfulness-course.md,1696
+faq_article,,39513,Is a mindfulness course or qualification really worth it?,is-a-mindfulness-qualification-worth-it,publish,help-answer/HELP__is-a-mindfulness-qualification-worth-it.md,1731
+faq_article,,39514,"Course, book or app: how should you learn mindfulness?",learn-mindfulness-course-book-or-app,publish,help-answer/HELP__learn-mindfulness-course-book-or-app.md,1585
+faq_article,,39515,"Which mindfulness course should you take, and why?",mindfulness-courses-which-one-to-take,publish,help-answer/HELP__mindfulness-courses-which-one-to-take.md,1305
+article,field-authority,39270,"Which life coaching books are worth reading, and why?",best-life-coaching-books,publish,hub-question-article/best-life-coaching-books.md,1700
+article,field-authority,39271,"Which NLP books are worth reading, from beginner up?",books-to-learn-nlp,publish,hub-question-article/books-to-learn-nlp.md,1583
+article,field-authority,39272,"CBT or DBT: what is the difference, and how do they overlap?",cbt-vs-dbt,publish,hub-question-article/cbt-vs-dbt.md,1604
+article,field-authority,39273,What are the most useful CBT worksheets and tools?,cbt-worksheets,publish,hub-question-article/cbt-worksheets.md,1622
+article,field-authority,39274,Can an app or AI do CBT as well as a person can?,cognitive-behavioural-therapy-app,publish,hub-question-article/cognitive-behavioural-therapy-app.md,1452
+article,field-authority,39275,Is CBT the same as counselling or psychotherapy?,counselling-vs-cbt,publish,hub-question-article/counselling-vs-cbt.md,1600
+article,field-authority,39276,Counselling or psychotherapy: what is the real difference?,counselling-vs-psychotherapy,publish,hub-question-article/counselling-vs-psychotherapy.md,1605
+article,field-authority,39277,Does CBT work for anxiety and worry? What the evidence says,does-cbt-work-for-anxiety,publish,hub-question-article/does-cbt-work-for-anxiety.md,1550
+article,field-authority,39278,Does life coaching work? What the research really shows,does-life-coaching-work,publish,hub-question-article/does-life-coaching-work.md,1912
+article,field-authority,39279,Does person-centred counselling work? What the evidence says,does-person-centred-counselling-work,publish,hub-question-article/does-person-centred-counselling-work.md,1705
+article,field-authority,39280,Is NLP backed by science? What the research really shows,is-nlp-backed-by-science,publish,hub-question-article/is-nlp-backed-by-science.md,1624
+article,field-authority,39281,"Is NLP dangerous, and is it still relevant today?",is-nlp-dangerous,publish,hub-question-article/is-nlp-dangerous.md,1600
+article,field-authority,39282,"Is person-centred therapy humanistic, and what is different?",is-person-centred-therapy-humanistic,publish,hub-question-article/is-person-centred-therapy-humanistic.md,1368
+article,field-authority,39283,Life coach or therapist: what is the real difference?,life-coach-vs-therapist,publish,hub-question-article/life-coach-vs-therapist.md,1669
+article,field-authority,39284,"Can you life coach yourself, and how would you begin?",life-coach-yourself,publish,hub-question-article/life-coach-yourself.md,1683
+article,field-authority,39285,"What are the main life coaching models, from GROW onwards?",life-coaching-models,publish,hub-question-article/life-coaching-models.md,1987
+article,field-authority,39286,"What questions does a good life coach ask, and why?",life-coaching-questions,publish,hub-question-article/life-coaching-questions.md,1765
+article,field-authority,39287,Coaching or mentoring: what is the difference?,life-coaching-vs-mentoring,publish,hub-question-article/life-coaching-vs-mentoring.md,1638
+article,field-authority,39359,"Which CBT books are worth reading, from beginner up?",best-cbt-books,publish,hub-question-article/best-cbt-books.md,1113
+article,field-authority,39361,Which counselling and person-centred therapy books are best?,best-counselling-books,publish,hub-question-article/best-counselling-books.md,2111
+article,field-authority,39367,Can you combine CBT and person-centred counselling?,cbt-and-person-centered-therapy,publish,hub-question-article/cbt-and-person-centered-therapy.md,2096
+article,field-authority,39369,Which CBT techniques and exercises can you try for yourself?,cbt-techniques-and-exercises,publish,hub-question-article/cbt-techniques-and-exercises.md,1106
+article,field-authority,39382,"What are the criticisms of CBT, and are any of them fair?",criticisms-of-cbt,publish,hub-question-article/criticisms-of-cbt.md,1083
+article,field-authority,39384,Does CBT actually work? What the research really shows,does-cbt-actually-work,publish,hub-question-article/does-cbt-actually-work.md,1151
+article,field-authority,39288,"How does CBT compare with ACT, REBT and mindfulness?",mindfulness-vs-cbt,publish,hub-question-article/mindfulness-vs-cbt.md,1637
+article,field-authority,39289,Which NLP techniques can you try for yourself?,nlp-techniques-you-can-try,publish,hub-question-article/nlp-techniques-you-can-try.md,1827
+article,field-authority,39290,"What is person-centred therapy trying to achieve, and why?",person-centred-therapy-goals,publish,hub-question-article/person-centred-therapy-goals.md,1721
+article,field-authority,39291,How do you actually do person-centred therapy in practice?,person-centred-therapy-techniques,publish,hub-question-article/person-centred-therapy-techniques.md,1559
+article,field-authority,39292,"What makes a good life coach, and could you be one?",should-i-be-a-life-coach,publish,hub-question-article/should-i-be-a-life-coach.md,1397
+article,field-authority,39293,"What are the types of CBT, and how do they differ?",types-of-cbt,publish,hub-question-article/types-of-cbt.md,1751
+article,field-authority,39294,"Can you use NLP on yourself, and where do you start?",use-nlp-on-yourself,publish,hub-question-article/use-nlp-on-yourself.md,1568
+article,field-authority,39295,"What is life coaching, and what does a life coach really do?",what-does-a-life-coach-do,publish,hub-question-article/what-does-a-life-coach-do.md,1421
+article,field-authority,39296,NLP or natural language processing: what is the difference?,what-is-nlp-natural-language-processing,publish,hub-question-article/what-is-nlp-natural-language-processing.md,1507
+article,field-authority,39297,"Who is CBT really for, and when is it not the right fit?",who-is-cognitive-behavioural-therapy-for,publish,hub-question-article/who-is-cognitive-behavioural-therapy-for.md,1452
+article,field-authority,39298,"Who is life coaching for, and when should you get a coach?",who-is-life-coaching-for,publish,hub-question-article/who-is-life-coaching-for.md,1478
+article,field-authority,39299,Why do some people say life coaching is bad? Are they right?,why-life-coaching-is-bad,publish,hub-question-article/why-life-coaching-is-bad.md,1906
+article,field-authority,39426,"Who invented CBT, and how did it change modern psychology?",who-invented-cbt,publish,hub-question-article/who-invented-cbt.md,1125
+article,field-authority,39432,"Who is person-centred counselling for, and when is it used?",who-is-person-centred-therapy-for,publish,hub-question-article/who-is-person-centred-therapy-for.md,2487
+article,field-authority,39434,"Why do counsellors need theory, and their own counselling?",why-do-counsellors-need-theory,publish,hub-question-article/why-do-counsellors-need-theory.md,2571
+article,hub-guide,39454,Applied Psychology Explained,applied-psychology,publish,hub-guide/applied-psychology.md,2611
+article,hub-guide,39456,Behavioural Psychology Explained,behavioural-psychology,publish,hub-guide/behavioural-psychology.md,2562
+article,hub-guide,39458,Cognitive Behavioural Therapy (CBT),cognitive-behavioural-therapy,publish,hub-guide/cognitive-behavioural-therapy.md,2857
+article,hub-guide,39460,Cognitive Psychology Explained,cognitive-psychology,publish,hub-guide/cognitive-psychology.md,2673
+article,hub-guide,39462,Communication Skills and Language Patterns,communication-skills-and-language-patterns,publish,hub-guide/communication-skills-and-language-patterns.md,2597
+article,hub-guide,39464,Developmental Psychology Explained,developmental-psychology,publish,hub-guide/developmental-psychology.md,2642
+article,hub-guide,39466,Emotional Intelligence and Social Skills,emotional-intelligence-and-social-skills,publish,hub-guide/emotional-intelligence-and-social-skills.md,2762
+article,hub-guide,39468,Entrepreneurship Explained,entrepreneurship,publish,hub-guide/entrepreneurship.md,2593
+article,hub-guide,39470,Goal Setting and Action Planning,goal-setting-and-action-planning,publish,hub-guide/goal-setting-and-action-planning.md,2746
+article,hub-guide,39472,How To Grow Self-Awareness,grow-self-awareness,publish,hub-guide/grow-self-awareness.md,2765
+article,hub-guide,39474,Healthy Marriage Explained,healthy-marriage,publish,hub-guide/healthy-marriage.md,2702
+article,hub-guide,39476,Human Nature and Behaviour,human-nature-and-behaviour,publish,hub-guide/human-nature-and-behaviour.md,2669
+article,hub-guide,39478,Humanistic Psychology Explained,humanistic-psychology,publish,hub-guide/humanistic-psychology.md,2630
+article,hub-guide,39480,Hypnotherapy Explained,hypnotherapy,publish,hub-guide/hypnotherapy.md,2601
+article,hub-guide,39482,Leadership and Influence,leadership-and-influence,publish,hub-guide/leadership-and-influence.md,2747
+article,hub-guide,39484,Life Coaching Explained,life-coaching,publish,hub-guide/life-coaching.md,2689
+article,hub-guide,39486,Limiting Beliefs and Mindset,limiting-beliefs-and-mindset,publish,hub-guide/limiting-beliefs-and-mindset.md,2630
+article,hub-guide,39488,Mental Wellbeing Explained,mental-wellbeing,publish,hub-guide/mental-wellbeing.md,2599
+article,hub-guide,39490,Mindfulness Explained,mindfulness,publish,hub-guide/mindfulness.md,2631
+article,hub-guide,39492,Neuro-Linguistic Programming Explained,neuro-linguistic-programming,publish,hub-guide/neuro-linguistic-programming.md,2652
+article,hub-guide,39494,Person-Centred Counselling Explained,person-centred-counselling,publish,hub-guide/person-centred-counselling.md,2574
+article,hub-guide,39496,Psychoanalysis Explained,psychoanalysis,publish,hub-guide/psychoanalysis.md,2604
+article,hub-guide,39498,Purpose and Direction,purpose-and-direction,publish,hub-guide/purpose-and-direction.md,2783
+article,hub-guide,39500,Resilience and Mental Toughness,resilience-and-mental-toughness,publish,hub-guide/resilience-and-mental-toughness.md,2694
+article,hub-guide,39502,Self-Confidence Explained,self-confidence,publish,hub-guide/self-confidence.md,2569
+article,hub-guide,39504,Self-Discipline and Mind Management,self-discipline-and-mind-management,publish,hub-guide/self-discipline-and-mind-management.md,2689
+article,hub-guide,39506,The Skilled Helper Model Explained,skilled-helper,publish,hub-guide/skilled-helper.md,2649
+article,hub-guide,39508,Social Psychology Explained,social-psychology,publish,hub-guide/social-psychology.md,2565
+article,hub-guide,39510,Values and Decision Making,values-and-decision-making,publish,hub-guide/values-and-decision-making.md,2790
+quote,,38494,Why Every Coaching Relationship Begins With A Goal,every-coaching-relationship-begins-with-a-goal,publish,quote-page/Q07033__every-coaching-relationship-begins-with-a-goal.md,895
+quote,,38495,Why Trust Is The Key Ingredient Of A Coaching Relationship,trust-is-the-key-ingredient,publish,quote-page/Q07034__trust-is-the-key-ingredient.md,713
+quote,,38496,Why Wisdom Is Not The Same As Intelligence,wisdom-is-not-the-same-as-intelligence,publish,quote-page/Q07035__wisdom-is-not-the-same-as-intelligence.md,702
+quote,,38497,Why A Good Coach Will Ask Probing Questions,a-good-coach-will-ask-probing-questions,publish,quote-page/Q07036__a-good-coach-will-ask-probing-questions.md,710
+quote,,38498,Why Purpose Is The Cumulative Outcome Of Meaningful Goals,purpose-is-the-cumulative-outcome,publish,quote-page/Q07037__purpose-is-the-cumulative-outcome.md,721
+quote,,38499,Why Vision Is Always Future Oriented,vision-is-always-future-oriented,publish,quote-page/Q07038__vision-is-always-future-oriented.md,707
+quote,,38500,Why We Often Listen With A Goal Of Responding,listen-with-a-goal-of-responding,publish,quote-page/Q07039__listen-with-a-goal-of-responding.md,700
+quote,,38501,"Why Most People Don't Dialogue, They Monologue",most-people-dont-dialogue,publish,quote-page/Q07040__most-people-dont-dialogue.md,694
+quote,,38502,How Fear Distorts The Future,how-fear-distorts-the-future,publish,quote-page/Q07041__how-fear-distorts-the-future.md,704
+quote,,38503,Why Change Never Happens Overnight,why-change-never-happens-overnight,publish,quote-page/Q07042__why-change-never-happens-overnight.md,704
+quote,,38504,Why Every Major Breakthrough In History Required A Risk,every-major-breakthrough-in-history,publish,quote-page/Q07043__every-major-breakthrough-in-history.md,726
+quote,,38505,Why Responsibility Makes You More Free,responsibility-makes-you-more-free,publish,quote-page/Q07044__responsibility-makes-you-more-free.md,723
+quote,,38506,What Your Values Really Are,what-your-values-really-are,publish,quote-page/Q07045__what-your-values-really-are.md,705
+quote,,38507,How Principles Shape Decisions,how-principles-shape-decisions,publish,quote-page/Q07046__how-principles-shape-decisions.md,680
+quote,,38508,Why You Need Clear Priorities In Life,why-you-need-clear-priorities-in-life,publish,quote-page/Q07047__why-you-need-clear-priorities-in-life.md,684
+quote,,38509,What Is A Life Coaching Breakthrough Session,what-is-a-life-coaching-breakthrough-session,publish,quote-page/Q07048__what-is-a-life-coaching-breakthrough-session.md,689
+quote,,38510,Why People Invest In Life Coaching,why-people-invest-in-life-coaching,publish,quote-page/Q07049__why-people-invest-in-life-coaching.md,835
+quote,,38511,Coaching Is Learning And Action Toward A Goal,coaching-is-learning-and-action-toward-a-goal,publish,quote-page/Q07050__coaching-is-learning-and-action-toward-a-goal.md,679
+quote,,38512,How Your Thoughts Form Your Reality,how-your-thoughts-form-your-reality,publish,quote-page/Q07051__how-your-thoughts-form-your-reality.md,831
+quote,,38513,What Is Emotional Perception,what-is-emotional-perception,publish,quote-page/Q07052__what-is-emotional-perception.md,691
+quote,,38514,What Time Freedom Really Means,what-time-freedom-really-means,publish,quote-page/Q07053__what-time-freedom-really-means.md,709
+quote,,38515,Why A Good Coach Listens Without An Agenda,why-a-good-coach-listens-without-an-agenda,publish,quote-page/Q07054__why-a-good-coach-listens-without-an-agenda.md,685
+quote,,38516,Why Consider Your Values Before Deciding,why-you-should-consider-your-values-before-deciding,publish,quote-page/Q07055__why-you-should-consider-your-values-before-deciding.md,704
+quote,,38517,Why People Resist Change Until They Have To,why-people-resist-change-until-they-have-to,publish,quote-page/Q07056__why-people-resist-change-until-they-have-to.md,719
+quote,,38518,Why We Misinterpret What People Say,why-we-misinterpret-what-people-say,publish,quote-page/Q07057__why-we-misinterpret-what-people-say.md,829
+faq_article,,38519,Where can I learn about Albert Ellis?,albert-ellis-course,publish,help-answer/HELP__where-can-i-learn-about-albert-ellis.md,1337
+faq_article,,38520,Where can I learn about Viktor Frankl?,viktor-frankl-course,publish,help-answer/HELP__where-can-i-learn-about-viktor-frankl.md,1131
+faq_article,,38521,Where can I learn about Abraham Maslow's hierarchy of needs?,maslows-hierarchy-of-needs-course,publish,help-answer/HELP__where-can-i-learn-abraham-maslow.md,1266
+faq_article,,38522,Where can I learn about the Drama Triangle?,drama-triangle-training,publish,help-answer/HELP__where-can-i-learn-drama-triangle.md,1158
+book_note,,38451,Talking to Crazy: Summary and Key Ideas,talking-to-crazy,publish,book-note/talking-to-crazy.md,1189
+book_note,,38453,Born for Love: Summary and Key Ideas,born-for-love,publish,book-note/born-for-love.md,1286
+book_note,,38455,Come Together: Summary and Key Ideas,come-together,publish,book-note/come-together.md,1221
+book_note,,38457,Critique of Practical Reason: Summary and Key Ideas,critique-of-practical-reason,publish,book-note/critique-of-practical-reason.md,1442
+book_note,,38459,Meditations for Mortals: Summary and Key Ideas,meditations-for-mortals,publish,book-note/meditations-for-mortals.md,1230
+book_note,,38461,Mothers Who Can't Love: Summary and Key Ideas,mothers-who-cant-love,publish,book-note/mothers-who-cant-love.md,1306
+book_note,,38463,On the Tranquility of Mind: Summary and Key Ideas,on-the-tranquility-of-mind,publish,book-note/on-the-tranquility-of-mind.md,1286
+book_note,,38465,Originals: Summary and Key Ideas,originals,publish,book-note/originals.md,1246
+book_note,,38467,The Quick and Easy Way to Effective Speaking: Summary and Key Ideas,the-quick-and-easy-way-to-effective-speaking,publish,book-note/the-quick-and-easy-way-to-effective-speaking.md,1241
+book_note,,38527,A New Guide to Rational Living: Summary and Key Ideas,a-new-guide-to-rational-living,publish,book-note/a-new-guide-to-rational-living.md,1197
+book_note,,38529,The Tao of Fully Feeling: Summary and Key Ideas,the-tao-of-fully-feeling,publish,book-note/the-tao-of-fully-feeling.md,1424
+quote,,38359,Why We Transfer Old Feelings Onto New People,why-we-transfer-old-feelings-onto-new-people,draft,quote-page/CQ001-061-1__why-we-transfer-old-feelings-onto-new-people.md,1373
+quote,,36234,What Decides Your Self-Esteem In The Moment,self-esteem-in-the-moment,publish,quote-page/Q04251__self-esteem-in-the-moment.md,1018
+quote,,36235,"Why Helping Is About The Person, Not The Method",helping-is-about-the-person,publish,quote-page/Q06984__helping-is-about-the-person.md,1427
+quote,,36236,"Why Helping Is Not About Fixing, It Is About Redesigning",helping-is-not-about-fixing,publish,quote-page/Q06985__helping-is-not-about-fixing.md,1121
+quote,,36237,"Resources Clients Are Not Using, Not Resources They Lack",resources-clients-are-not-using,publish,quote-page/Q06986__resources-clients-are-not-using.md,1060
+quote,,35454,Maturity In Decision Making Sets Your Own Ceiling,maturity-in-decision-making,publish,quote-page/Q07020__maturity-in-decision-making.md,910
+quote,,35456,"Reading For Insight, Not Just For Information",reading-for-insight,publish,quote-page/Q07022__reading-for-insight.md,918
+quote,,35460,What It Means That Life Comes With No Rulebook,life-comes-with-no-rulebook,publish,quote-page/Q07026__life-comes-with-no-rulebook.md,1865
+quote,,35463,Self-Awareness And Change: What Actually Has To Come First,self-awareness-and-change,publish,quote-page/Q07029__self-awareness-and-change.md,923
+quote,,36238,Why Helping People Help Themselves Is The Real Goal,helping-people-help-themselves,publish,quote-page/Q06987__helping-people-help-themselves.md; field-authority-article/helping-people-help-themselves.md,1065; 1802
+quote,,36239,Why Clients With Hope Achieve Goals More Often,clients-with-hope-achieve-goals,publish,quote-page/Q06988__clients-with-hope-achieve-goals.md,1062
+quote,,36240,"Clients As Agents Of Change, Not Its Subject",clients-as-agents-of-change,publish,quote-page/Q06989__clients-as-agents-of-change.md,1043
+quote,,36241,Why The Quality Of Client Participation Decides The Outcome,quality-of-client-participation,publish,quote-page/Q06990__quality-of-client-participation.md,1032
+quote,,36242,Why Respect Is The Foundation Every Helping Method Needs,respect-is-the-foundation,publish,quote-page/Q06991__respect-is-the-foundation.md,1048
+quote,,36243,"Respect Gracious And Tough-Minded, Never Only One",respect-gracious-and-tough-minded,publish,quote-page/Q06992__respect-gracious-and-tough-minded.md,1021
+quote,,36244,Why Empathy Means Understanding Dissonance Too,empathy-means-understanding-dissonance,publish,quote-page/Q06993__empathy-means-understanding-dissonance.md,986
+quote,,36245,Why Clients Who Are Never Challenged Are Being Shortchanged,clients-who-are-never-challenged,publish,quote-page/Q06994__clients-who-are-never-challenged.md,1030
+quote,,36246,Why Rules We Invent Are Not Life's Own Rules,rules-we-invent,publish,quote-page/Q06995__rules-we-invent.md,1159
+quote,,36247,Why Being Skilled Means More Than Being A Technician,more-than-a-technician,publish,quote-page/Q06996__more-than-a-technician.md,1103
+quote,,36248,Why Helping Others Becomes More Than A Job,more-than-a-job,publish,quote-page/Q06997__more-than-a-job.md,1019
+quote,,36249,"Why Success Is Defined As Outcomes, Not Good Sessions",success-is-defined-as-life-enhancing-outcomes,publish,quote-page/Q06998__success-is-defined-as-life-enhancing-outcomes.md,1006
+quote,,36250,Why Support Without Challenge Can Be Hollow,without-challenge-can-be-hollow,publish,quote-page/Q06999__without-challenge-can-be-hollow.md,1060
+quote,,36251,Why Blind Spots Are Part Of Being Human,blind-spots-are-part,publish,quote-page/Q07000__blind-spots-are-part.md,1087
+quote,,36252,Why You Should Challenge Only After You Have Earned Trust,challenge-only-after-you,publish,quote-page/Q07001__challenge-only-after-you.md,1093
+quote,,36253,Why Empathy Is Not An Amenity In Helping,empathy-is-not-an-amenity,publish,quote-page/Q07002__empathy-is-not-an-amenity.md,1104
+quote,,36254,Why Active Listening Is Wasted Without A Real Response,active-listening-is-wasted-without,publish,quote-page/Q07003__active-listening-is-wasted-without.md,1119
+quote,,36255,Why Listening At Its Best Needs No Bias,listening-at-its-best,publish,quote-page/Q07004__listening-at-its-best.md,1026
+quote,,36256,Why A Helper Needs A Set Of Working Values,a-set-of-working-values,publish,quote-page/Q07005__a-set-of-working-values.md,1034
+quote,,36257,Why Vague Goals Won't Be Accomplished At All,wont-be-accomplished-at-all,publish,quote-page/Q07006__wont-be-accomplished-at-all.md,1031
+quote,,36258,How Hope Plays A Key Role In Real Change,hope-plays-a-key-role,publish,quote-page/Q07007__hope-plays-a-key-role.md,1017
+quote,,36259,Why So Little Help Comes From Helping Professionals,comes-from-helping-professionals,publish,quote-page/Q07008__comes-from-helping-professionals.md,1003
+quote,,36260,"What Makes A Good Life Coach, Not A Technique",what-makes-a-good-life-coach,publish,quote-page/Q07009__what-makes-a-good-life-coach.md,1011
+quote,,36261,"What A Life Coach Actually Does, Not A Fixer",what-a-life-coach-actually-does,publish,quote-page/Q07010__what-a-life-coach-actually-does.md,1011
+quote,,36262,Why Taking Responsibility For Your Circumstances Is A Choice,taking-responsibility-for-your-circumstances,publish,quote-page/Q07011__taking-responsibility-for-your-circumstances.md,915
+quote,,36263,Why Progress Starts With Deciding Who You Want To Become,deciding-who-you-want-to-become,publish,quote-page/Q07012__deciding-who-you-want-to-become.md,1016
+quote,,36264,"Taking Responsibility For Consequences, Not Just For Choices",taking-responsibility-for-consequences,publish,quote-page/Q07013__taking-responsibility-for-consequences.md,870
+quote,,36265,Why Quick Fixes Do Not Work For Problems That Matter,why-quick-fixes-do-not-work,publish,quote-page/Q07014__why-quick-fixes-do-not-work.md,1053
+quote,,36266,Why We Struggle In Some Areas Of Life More Than Others,why-we-struggle-in-some-areas,publish,quote-page/Q07015__why-we-struggle-in-some-areas.md,1005
+quote,,36267,"Ready To Change, Not Just Wanting To",ready-to-change,publish,quote-page/Q07016__ready-to-change.md,941
+quote,,36268,Knowing Who You Are Is Only Half The Picture,knowing-who-you-are,publish,quote-page/Q07017__knowing-who-you-are.md,970
+quote,,36269,There Are No Experts On Life,there-are-no-experts-on-life,publish,quote-page/Q07018__there-are-no-experts-on-life.md,997
+quote,,36270,Teaching Versus Coaching: Two Different Jobs Entirely,teaching-versus-coaching,publish,quote-page/Q07019__teaching-versus-coaching.md,935
+quote,,36272,Resourcefulness When Facing Challenges Sets Your Limit,resourcefulness-when-facing-challenges,publish,quote-page/Q07021__resourcefulness-when-facing-challenges.md,931
+quote,,36274,What Sits At The Heart Of A Healthy Coaching Relationship,healthy-coaching-relationship,publish,quote-page/Q07023__healthy-coaching-relationship.md,943
+quote,,36275,"Why Communication In Relationships Is The Material, Not A Skill",communication-in-relationships,publish,quote-page/Q07024__communication-in-relationships.md,910
+quote,,36276,Two Signs Of Low Self-Esteem Worth Telling Apart,signs-of-low-self-esteem,publish,quote-page/Q07025__signs-of-low-self-esteem.md,879
+quote,,36278,"What A Coach Is Responsible For, And What Is Not Theirs To Give",what-a-coach-is-responsible-for,publish,quote-page/Q07027__what-a-coach-is-responsible-for.md,1006
+quote,,36279,Is Coaching Just Techniques? What The Toolkit Leaves Out,is-coaching-just-techniques,publish,quote-page/Q07028__is-coaching-just-techniques.md,900
+quote,,36281,"What Encouragement Means In Coaching, According To Ramsay",what-encouragement-means-in-coaching,publish,quote-page/Q07030__what-encouragement-means-in-coaching.md,938
+quote,,36282,"Decisions That Align With Your Priorities, Not Just Feel Sensible",decisions-that-align-with-your-priorities,publish,quote-page/Q07031__decisions-that-align-with-your-priorities.md,1035
+quote,,36283,"Everyone Has Self-Awareness, But How Accurate Is Yours",accurate-self-awareness,publish,quote-page/Q07032__accurate-self-awareness.md,930
+quote,,36308,Why We Take Courses To Be Challenged Not Soothed,why-we-take-courses-to-be-challenged-not-soothed,publish,quote-page/CQ018-001-1__why-we-take-courses-to-be-challenged-not-soothed.md,1006
+quote,,36309,Why unmet expectations hurt more than results,why-unmet-expectations-hurt-more-than-results,publish,quote-page/CQ018-002-1__why-unmet-expectations-hurt-more-than-results.md,1283
+quote,,36310,Why wanting what you lack can lead to sadness,why-wanting-what-you-lack-can-lead-to-sadness,publish,quote-page/CQ018-002-2__why-wanting-what-you-lack-can-lead-to-sadness.md,1172
+quote,,36311,Why Maturity Means Severing Our Dependency On Other People,why-maturity-means-severing-our-dependency-on-other-people,publish,quote-page/CQ018-002-3__why-maturity-means-severing-our-dependency-on-other-people.md,1115
+quote,,36312,Why Life Is A Constant Process Of Deciding,why-life-is-a-constant-process-of-deciding,publish,quote-page/CQ018-002-4__why-life-is-a-constant-process-of-deciding.md,1022
+quote,,36313,Why We End Up Going Round And Round In Circles,why-we-end-up-going-round-and-round-in-circles,publish,quote-page/CQ018-003-1__why-we-end-up-going-round-and-round-in-circles.md,1072
+quote,,36314,Why Unawareness In Life Is Slavery,why-unawareness-in-life-is-slavery,publish,quote-page/CQ018-004-1__why-unawareness-in-life-is-slavery.md,941
+quote,,36315,Why We Become Masters Of Our Own Destiny,why-we-become-masters-of-our-own-destiny,publish,quote-page/CQ018-004-2__why-we-become-masters-of-our-own-destiny.md,968
+quote,,36316,Why thinking like a winner is where it starts,why-thinking-like-a-winner-is-where-it-starts,publish,quote-page/CQ018-005-1__why-thinking-like-a-winner-is-where-it-starts.md,1178
+quote,,36317,Why We Must Stay Committed To The Process Of Personal Growth,why-we-must-stay-committed-to-the-process-of-personal-growth,publish,quote-page/CQ018-005-2__why-we-must-stay-committed-to-the-process-of-personal-growth.md,970
+quote,,36318,Why We Behave Out Of What We Believe,why-we-behave-out-of-what-we-believe,publish,quote-page/CQ018-005-3__why-we-behave-out-of-what-we-believe.md,962
+quote,,36319,Why Emotions Are Not Illnesses To Be Fixed,why-emotions-are-not-illnesses-to-be-fixed,publish,quote-page/CQ018-006-1__why-emotions-are-not-illnesses-to-be-fixed.md,1071
+quote,,36320,Why Fulfillment Is Better Than Happiness,why-fulfillment-is-better-than-happiness,publish,quote-page/CQ018-006-2__why-fulfillment-is-better-than-happiness.md,1024
+quote,,36321,Why Happiness Is Not A Strong Motivator,why-happiness-is-not-a-strong-motivator,publish,quote-page/CQ018-007-1__why-happiness-is-not-a-strong-motivator.md,1121
+quote,,36322,Why The Wisest Response Is To Consider And Reflect,why-the-wisest-response-is-to-consider-and-reflect,publish,quote-page/CQ018-007-2__why-the-wisest-response-is-to-consider-and-reflect.md,981
+quote,,36323,Why Making No Decision Is Still A Decision,why-making-no-decision-is-still-a-decision,publish,quote-page/CQ018-008-1__why-making-no-decision-is-still-a-decision.md,963
+quote,,36324,Why You Have To Let Go Of What You're Holding Onto,why-you-have-to-let-go-of-what-youre-holding-onto,publish,quote-page/CQ018-008-2__why-you-have-to-let-go-of-what-youre-holding-onto.md,997
+quote,,36325,Why There's A Limit To How Much Change People Can Handle,why-theres-a-limit-to-how-much-change-people-can-handle,publish,quote-page/CQ018-009-1__why-theres-a-limit-to-how-much-change-people-can-handle.md,1117
+quote,,36326,Why People Respond To Assumptions Not Your Intentions,why-people-respond-to-assumptions-not-your-intentions,publish,quote-page/CQ018-009-2__why-people-respond-to-assumptions-not-your-intentions.md,1020
+quote,,36327,Why You Are Not Obligated To Give Your Time,why-you-are-not-obligated-to-give-your-time,publish,quote-page/CQ018-010-1__why-you-are-not-obligated-to-give-your-time.md,1113
+quote,,36328,Why The People We Let Into Our Lives Matter Most,why-the-people-we-let-into-our-lives-matter-most,publish,quote-page/CQ018-010-2__why-the-people-we-let-into-our-lives-matter-most.md,1112
+quote,,36329,Why Saying Yes Or No Is Determined By Us,why-saying-yes-or-no-is-determined-by-us,publish,quote-page/CQ018-011-1__why-saying-yes-or-no-is-determined-by-us.md,977
+quote,,36330,Why You Cannot Counsel What You Haven't Taught,why-you-cannot-counsel-what-you-havent-taught,publish,quote-page/CQ018-011-2__why-you-cannot-counsel-what-you-havent-taught.md,1016
+quote,,36331,Why There's A Consequence For Every Action Or Inaction,why-theres-a-consequence-for-every-action-or-inaction,publish,quote-page/CQ018-012-1__why-theres-a-consequence-for-every-action-or-inaction.md,1104
+quote,,36332,Why We Don't Need Anything Magical Or Mystical To Transform Our Lives,why-we-dont-need-anything-magical-or-mystical-to-transform-our-lives,publish,quote-page/CQ018-012-2__why-we-dont-need-anything-magical-or-mystical-to-transform-our-lives.md,985
+quote,,36333,Why people are moved by fear or by freedom,why-people-are-moved-by-fear-or-by-freedom,publish,quote-page/CQ018-013-1__why-people-are-moved-by-fear-or-by-freedom.md,1216
+quote,,36334,Why We Relate To Other Imperfect Human Beings,why-we-relate-to-other-imperfect-human-beings,publish,quote-page/CQ018-013-2__why-we-relate-to-other-imperfect-human-beings.md,1117
+quote,,36335,Why We Can Listen To Someone Without Hearing Them,why-we-can-listen-to-someone-without-hearing-them,publish,quote-page/CQ018-013-3__why-we-can-listen-to-someone-without-hearing-them.md,1116
+quote,,36336,Why We Can Grow In Intellect Without Growing In Character,why-we-can-grow-in-intellect-without-growing-in-character,publish,quote-page/CQ018-014-1__why-we-can-grow-in-intellect-without-growing-in-character.md,979
+quote,,36337,Why No One Intends To Be An Emotional Train Wreck,why-no-one-intends-to-be-an-emotional-train-wreck,publish,quote-page/CQ018-014-2__why-no-one-intends-to-be-an-emotional-train-wreck.md,988
+quote,,36338,Why Self-Awareness Precedes All Personal Growth,why-self-awareness-precedes-all-personal-growth,publish,quote-page/CQ018-015-1__why-self-awareness-precedes-all-personal-growth.md,1010
+quote,,36339,Why Profound Personal Growth Happens In Private,why-profound-personal-growth-happens-in-private,publish,quote-page/CQ018-015-2__why-profound-personal-growth-happens-in-private.md,981
+quote,,36340,Why We Keep Looking One Level Deeper Than You Need,why-we-keep-looking-one-level-deeper-than-you-need,publish,quote-page/CQ018-016-1__why-we-keep-looking-one-level-deeper-than-you-need.md,984
+quote,,36341,Why change is only one new habit away,why-change-is-only-one-new-habit-away,publish,quote-page/CQ018-017-1__why-change-is-only-one-new-habit-away.md,1190
+quote,,36342,Why most of your thoughts are not true,why-most-of-your-thoughts-are-not-true,publish,quote-page/CQ018-017-2__why-most-of-your-thoughts-are-not-true.md,1250
+quote,,36343,Why We Miss The Inner Dialogues That Go On Inside,why-we-miss-the-inner-dialogues-that-go-on-inside,publish,quote-page/CQ018-017-3__why-we-miss-the-inner-dialogues-that-go-on-inside.md,1116
+quote,,36344,Why Change Becomes Greater Than The Desire To Remain The Same,why-change-becomes-greater-than-the-desire-to-remain-the-same,publish,quote-page/CQ018-018-1__why-change-becomes-greater-than-the-desire-to-remain-the-same.md,1119
+quote,,36345,Why Self-Pity Is Powerless,why-self-pity-is-powerless,publish,quote-page/CQ018-018-2__why-self-pity-is-powerless.md,975
+quote,,36346,Why The Only Control We Have Is How We Choose To Respond,why-the-only-control-we-have-is-how-we-choose-to-respond,publish,quote-page/CQ018-019-1__why-the-only-control-we-have-is-how-we-choose-to-respond.md,1032
+quote,,36347,Why Anxiety Comes About When We Are Scared,why-anxiety-comes-about-when-we-are-scared,publish,quote-page/CQ018-019-2__why-anxiety-comes-about-when-we-are-scared.md,983
+quote,,36348,Why We Are Not Creating Space For People To Grow,why-we-are-not-creating-space-for-people-to-grow,publish,quote-page/CQ018-020-1__why-we-are-not-creating-space-for-people-to-grow.md,991
+quote,,36349,Why All Growth Is Relational,why-all-growth-is-relational,publish,quote-page/CQ018-021-1__why-all-growth-is-relational.md,978
+quote,,36350,Why Something Being Called Therapy Doesn't Make It Helpful,why-something-being-called-therapy-doesnt-make-it-helpful,publish,quote-page/CQ018-021-2__why-something-being-called-therapy-doesnt-make-it-helpful.md,986
+quote,,36351,Why Applying What You Learn Is What Learning Means,why-applying-what-you-learn-is-what-learning-means,publish,quote-page/CQ018-022-1__why-applying-what-you-learn-is-what-learning-means.md,1019
+quote,,36352,Why We're Not Entitled To Anything,why-were-not-entitled-to-anything,publish,quote-page/CQ018-023-1__why-were-not-entitled-to-anything.md,1007
+quote,,36353,Why Once A Mind Has Been Truly Expanded It Never Goes Back,why-once-a-mind-has-been-truly-expanded-it-never-goes-back,publish,,
+quote,,36354,Why Techniques Are The Lazy Person's Sport,why-techniques-are-the-lazy-persons-sport,publish,quote-page/CQ018-024-1__why-techniques-are-the-lazy-persons-sport.md,1116
+quote,,36355,Why Our Thoughts Create Feelings,why-our-thoughts-create-feelings,publish,quote-page/CQ018-024-2__why-our-thoughts-create-feelings.md,986
+quote,,36356,Why hard times make us push ourselves and grow,why-hard-times-make-us-push-ourselves-and-grow,publish,quote-page/CQ018-025-1__why-hard-times-make-us-push-ourselves-and-grow.md,1191
+quote,,36357,Why unwillingness disguised as inability holds people back,why-unwillingness-disguised-as-inability,publish,quote-page/CQ018-025-2__why-unwillingness-disguised-as-inability.md,1188
+quote,,36358,Why Congruency Means Being Reflective Of Our Values,why-congruency-means-being-reflective-of-our-values,publish,quote-page/CQ018-025-3__why-congruency-means-being-reflective-of-our-values.md,966
+quote,,36359,Why Mistakes Are Not The Most Effective Way,why-mistakes-are-not-the-most-effective-way,publish,quote-page/CQ018-025-4__why-mistakes-are-not-the-most-effective-way.md,963
+quote,,36360,Why We Don't Know We Have A Choice,why-we-dont-know-we-have-a-choice,publish,quote-page/CQ018-026-1__why-we-dont-know-we-have-a-choice.md,941
+quote,,36361,Why The Desire To Change Must Outweigh Staying,why-the-desire-to-change-must-outweigh-staying,publish,quote-page/CQ018-027-1__why-the-desire-to-change-must-outweigh-staying.md,950
+quote,,36363,Why Every Emotion Is Triggered By A Thought,why-every-emotion-is-triggered-by-a-thought,publish,quote-page/CQ018-029-1__why-every-emotion-is-triggered-by-a-thought.md,920
+quote,,36364,Why We Interpret Our Life Events The Way We Do,why-we-interpret-our-life-events-the-way-we-do,publish,quote-page/CQ018-030-1__why-we-interpret-our-life-events-the-way-we-do.md,994
+quote,,36365,Why The Pattern Of Thinking Determines Our Emotional State,why-the-pattern-of-thinking-determines-our-emotional-state,publish,quote-page/CQ018-031-1__why-the-pattern-of-thinking-determines-our-emotional-state.md,950
+quote,,36366,Why We Won't Experience Yesterday Again Tomorrow,why-we-wont-experience-yesterday-again-tomorrow,publish,quote-page/CQ018-031-2__why-we-wont-experience-yesterday-again-tomorrow.md,942
+quote,,36367,Why The Caliber Of The Relationships We Build Is A Choice,why-the-caliber-of-the-relationships-we-build-is-a-choice,publish,quote-page/CQ018-032-1__why-the-caliber-of-the-relationships-we-build-is-a-choice.md,924
+quote,,36368,Why We Build The Foundations Of Our Life On Facts,why-we-build-the-foundations-of-our-life-on-facts,publish,quote-page/CQ018-033-1__why-we-build-the-foundations-of-our-life-on-facts.md,946
+quote,,36369,Why Congruence Gives Us A Basis For Trust,why-congruence-gives-us-a-basis-for-trust,publish,quote-page/CQ018-034-1__why-congruence-gives-us-a-basis-for-trust.md,977
+quote,,36370,Why We Can't Occupy Two Spaces At The Same Time,why-we-cant-occupy-two-spaces-at-the-same-time,publish,quote-page/CQ018-035-1__why-we-cant-occupy-two-spaces-at-the-same-time.md,1007
+quote,,36371,Why Our Degree Of Relatability Depends On Objectivity,why-our-degree-of-relatability-depends-on-objectivity,publish,quote-page/CQ018-035-2__why-our-degree-of-relatability-depends-on-objectivity.md,954
+quote,,36372,Why every war begins in the mind first,why-every-war-begins-in-the-mind,publish,quote-page/CQ018-036-1__why-every-war-begins-in-the-mind.md,1285
+quote,,36373,Why the brain can change what it learned,why-the-brain-can-change-what-it-learned,publish,quote-page/CQ018-036-2__why-the-brain-can-change-what-it-learned.md,1168
+quote,,36374,Why We're Clean Slates When We Enter The World,why-were-clean-slates-when-we-enter-the-world,publish,quote-page/CQ018-037-1__why-were-clean-slates-when-we-enter-the-world.md,1056
+quote,,36375,Understanding The Dialogue Inside Of Our Minds,understanding-the-dialogue-inside-of-our-minds,publish,quote-page/CQ018-038-1__understanding-the-dialogue-inside-of-our-minds.md,965
+quote,,36376,Why “I Can't Do This” Is Usually Just A Choice,why-i-cant-do-this-is-usually-just-a-choice,publish,quote-page/CQ018-039-1__why-i-cant-do-this-is-usually-just-a-choice.md,945
+quote,,36377,Why People Determine The Rules That They Live By,why-people-determine-the-rules-that-they-live-by,publish,quote-page/CQ018-039-2__why-people-determine-the-rules-that-they-live-by.md,965
+quote,,36378,"Until Problems Have Owners, They Never Go Away",until-problems-have-owners-they-never-go-away,publish,quote-page/CQ018-040-1__until-problems-have-owners-they-never-go-away.md,923
+quote,,36379,Why Everything Comes Back To Taking Responsibility For Your Life,why-everything-comes-back-to-taking-responsibility-for-your-life,publish,quote-page/CQ018-040-2__why-everything-comes-back-to-taking-responsibility-for-your-life.md,975
+quote,,36380,The Desire To Change Becomes Greater,the-desire-to-change-becomes-greater,publish,quote-page/CQ018-041-1__the-desire-to-change-becomes-greater.md,951
+quote,,36381,Being Completely Honest About Ourselves,being-completely-honest-about-ourselves,publish,quote-page/CQ018-041-2__being-completely-honest-about-ourselves.md,959
+quote,,36382,Why truth is rarely convenient for anyone,why-truth-is-rarely-convenient-for-anyone,publish,quote-page/CQ018-042-1__why-truth-is-rarely-convenient-for-anyone.md,1218
+quote,,36383,Why personal responsibility comes first,why-personal-responsibility-comes-first,publish,quote-page/CQ018-042-2__why-personal-responsibility-comes-first.md,1413
+quote,,36384,Why Your Own Future Results Depend On Your Choices,why-your-own-future-results-depend-on-your-choices,publish,quote-page/CQ018-043-1__why-your-own-future-results-depend-on-your-choices.md,1017
+quote,,36385,Why Being At Peace With Other People Starts Within,why-being-at-peace-with-other-people-starts-within,publish,quote-page/CQ018-044-1__why-being-at-peace-with-other-people-starts-within.md,983
+quote,,36386,Why Self-Acceptance Has Got To Be Our Goal In Life,why-self-acceptance-has-got-to-be-our-goal-in-life,publish,quote-page/CQ018-044-2__why-self-acceptance-has-got-to-be-our-goal-in-life.md,986
+quote,,36387,"Why labels are for tin cans, not people",why-labels-are-for-tin-cans,publish,quote-page/CQ018-045-1__why-labels-are-for-tin-cans.md,1449
+quote,,36388,Why identity is the mask people wear,why-identity-is-the-mask-people-wear,publish,quote-page/CQ018-045-2__why-identity-is-the-mask-people-wear.md,1180
+quote,,36389,Seeing Yourself As Being Better Than Another,what-it-means-to-see-yourself-as-being-better-than-another,publish,quote-page/CQ018-046-1__what-it-means-to-see-yourself-as-being-better-than-another.md,963
+quote,,36390,It's Wise To Cut Out The Unhealthy Relationships,why-its-wise-to-cut-out-the-unhealthy-relationships,publish,quote-page/CQ018-046-2__why-its-wise-to-cut-out-the-unhealthy-relationships.md,994
+quote,,36391,How We Become Unrelatable To Others,how-we-become-unrelatable-to-others,publish,quote-page/CQ018-047-1__how-we-become-unrelatable-to-others.md,946
+quote,,36392,The Difference You Can Actually Make,the-difference-you-can-actually-make,publish,quote-page/CQ018-047-2__the-difference-you-can-actually-make.md,947
+quote,,36393,Something That We Already Have Cannot Motivate Us,why-we-cant-be-motivated-by-something-that-we-already-have,publish,quote-page/CQ018-048-1__why-we-cant-be-motivated-by-something-that-we-already-have.md,949
+quote,,36394,Why So Few Transcend Beyond Self-Actualization,why-so-few-people-transcend-beyond-self-actualization,publish,quote-page/CQ018-048-2__why-so-few-people-transcend-beyond-self-actualization.md,972
+quote,,36395,Why you cannot guide others beyond your own stage,why-you-cannot-guide-others-beyond-your-own-stage,publish,quote-page/CQ018-049-1__why-you-cannot-guide-others-beyond-your-own-stage.md,1243
+quote,,36396,Why Personal Growth Is Rarely A Joyous Process,why-personal-growth-is-rarely-a-joyous-process,publish,quote-page/CQ018-050-1__why-personal-growth-is-rarely-a-joyous-process.md,960
+quote,,36397,Why Doing Your Best Matters More Than The Outcome,why-doing-your-best-matters-more-than-the-outcome,publish,quote-page/CQ018-052-1__why-doing-your-best-matters-more-than-the-outcome.md,1196
+quote,,36398,Why Your Character Shows Most When No One Watches,why-your-character-shows-most-when-no-one-watches,publish,quote-page/CQ018-053-1__why-your-character-shows-most-when-no-one-watches.md,1150
+quote,,36399,Why what simmers beneath the surface undermines us,why-what-simmers-beneath-the-surface-undermines-us,publish,quote-page/CQ018-054-1__why-what-simmers-beneath-the-surface-undermines-us.md,1165
+quote,,36400,Why The Future Is Not Simply A Repeat Of The Past,why-the-future-is-not-simply-a-repeat-of-the-past,publish,quote-page/CQ018-054-2__why-the-future-is-not-simply-a-repeat-of-the-past.md,1006
+quote,,36401,Why Our Beliefs Are Based Upon Our Past Experiences,why-our-beliefs-are-based-upon-our-past-experiences,publish,quote-page/CQ018-054-3__why-our-beliefs-are-based-upon-our-past-experiences.md,996
+quote,,36402,The Only Area With Any Freedom Whatsoever,the-only-area-with-any-freedom-whatsoever,publish,quote-page/CQ018-055-1__the-only-area-with-any-freedom-whatsoever.md,966
+quote,,36403,One Decision Away From Transforming Everything,one-decision-away-from-transforming-everything,publish,quote-page/CQ018-055-2__one-decision-away-from-transforming-everything.md,986
+quote,,36404,Why Responsibility Starts With You,why-responsibility-starts-with-you,publish,quote-page/CQ018-056-1__why-responsibility-starts-with-you.md,950
+quote,,36405,Nothing Happens Without Our Full Consent,nothing-happens-without-our-full-consent,publish,quote-page/CQ018-056-2__nothing-happens-without-our-full-consent.md,924
+quote,,36406,Why Managing Your Emotions Is Work That Never Ends,why-managing-your-emotions-is-work-that-never-ends,publish,quote-page/CQ018-059-1__why-managing-your-emotions-is-work-that-never-ends.md,1321
+quote,,36407,Why Your Life Runs On Fumes Without Giving Back,why-your-life-runs-on-fumes-without-giving-back,publish,quote-page/CQ018-060-1__why-your-life-runs-on-fumes-without-giving-back.md,1035
+quote,,36408,Why Staying Angry At Others Costs You So Much,why-staying-angry-at-others-costs-you-so-much,publish,quote-page/CQ018-061-1__why-staying-angry-at-others-costs-you-so-much.md,1099
+quote,,36409,Why Everyone Has A Choice To Change,why-everyone-has-a-choice-to-change,publish,quote-page/CQ018-062-1__why-everyone-has-a-choice-to-change.md,928
+quote,,36410,Why Our Beliefs Are Just Guesses Or Ideas At Best,why-our-beliefs-are-just-guesses-or-ideas-at-best,publish,quote-page/CQ018-063-1__why-our-beliefs-are-just-guesses-or-ideas-at-best.md,933
+quote,,36411,Why So Few Of Us Actually Know What We Believe,why-so-few-of-us-actually-know-what-we-believe,publish,quote-page/CQ018-063-2__why-so-few-of-us-actually-know-what-we-believe.md,934
+quote,,36412,Why We Assume That What We Think Is True,why-we-assume-that-what-we-think-is-true,publish,quote-page/CQ018-064-1__why-we-assume-that-what-we-think-is-true.md,940
+quote,,36413,Why We Have A Problem With Our Sad Memories,why-we-have-a-problem-with-our-sad-memories,publish,quote-page/CQ018-064-2__why-we-have-a-problem-with-our-sad-memories.md,928
+quote,,36414,Why perception is not reality,why-perception-is-not-reality,publish,quote-page/CQ018-065-1__why-perception-is-not-reality.md,1171
+quote,,36415,Why emotions reflect our perception,why-emotions-reflect-our-perception,publish,quote-page/CQ018-065-2__why-emotions-reflect-our-perception.md,1182
+quote,,36416,Why You're Only One Mind Change Away From Feeling Different,why-youre-only-one-mind-change-away-from-feeling-different,publish,quote-page/CQ018-066-1__why-youre-only-one-mind-change-away-from-feeling-different.md,920
+quote,,36417,Why Changing Perception Will Change How We Relate To It,why-changing-perception-will-change-how-we-relate-to-it,publish,quote-page/CQ018-066-2__why-changing-perception-will-change-how-we-relate-to-it.md,944
+quote,,36418,What It Means When They Say They Don't Like You,what-it-means-when-they-say-they-dont-like-you,publish,quote-page/CQ018-067-1__what-it-means-when-they-say-they-dont-like-you.md,960
+quote,,36419,Why Contribution Brings About Fulfillment,why-contribution-brings-about-fulfillment,publish,quote-page/CQ018-068-2__why-contribution-brings-about-fulfillment.md,968
+quote,,36420,Why Maturity Comes Down To Acceptance Of Responsibility,why-maturity-comes-down-to-acceptance-of-responsibility,publish,quote-page/CQ018-069-1__why-maturity-comes-down-to-acceptance-of-responsibility.md,923
+quote,,36421,Why Life Eventually Becomes About Other People,why-life-eventually-becomes-about-other-people,publish,quote-page/CQ018-069-2__why-life-eventually-becomes-about-other-people.md,909
+quote,,36422,Why Taking Time To Reflect Brings You Real Insight,why-taking-time-to-reflect-brings-you-real-insight,publish,quote-page/CQ018-070-1__why-taking-time-to-reflect-brings-you-real-insight.md,1089
+quote,,36423,Living Life Defined By Labels That They Assign,living-life-defined-by-labels-that-they-assign,publish,quote-page/CQ018-071-2__living-life-defined-by-labels-that-they-assign.md,919
+quote,,36424,"What It Means To Be Human Beings, Not Human Doings",what-it-means-to-be-human-beings-not-human-doings,publish,quote-page/CQ018-072-1__what-it-means-to-be-human-beings-not-human-doings.md,929
+quote,,36425,How They Live Their Life Reveals What They Believe,how-they-live-their-life-reveals-what-they-believe,publish,quote-page/CQ018-072-2__how-they-live-their-life-reveals-what-they-believe.md,956
+quote,,36426,Why accepting who we are ends despair,why-accepting-who-we-are-ends-despair,publish,quote-page/CQ018-073-1__why-accepting-who-we-are-ends-despair.md,1280
+quote,,36427,Why a low opinion of yourself causes offence,why-a-low-opinion-of-yourself-causes-offence,publish,quote-page/CQ018-073-2__why-a-low-opinion-of-yourself-causes-offence.md,1196
+quote,,36428,Why We Must Make Peace With Our Flaws,why-we-must-make-peace-with-our-flaws,publish,quote-page/CQ018-073-3__why-we-must-make-peace-with-our-flaws.md,1031
+quote,,36429,Why We Are One Decision Away From Making Complete Peace With Ourselves,why-we-are-one-decision-away-from-making-complete-peace-with-ourselves,publish,quote-page/CQ018-073-4__why-we-are-one-decision-away-from-making-complete-peace-with-ourselves.md,1025
+quote,,36430,Why It's Easier to Diagnose People Than to Understand Them,why-its-easier-to-diagnose-people-than-to-understand-them,publish,quote-page/CQ018-074-1__why-its-easier-to-diagnose-people-than-to-understand-them.md,977
+quote,,36431,Why Being Real Starts With Understanding Yourself,why-being-real-starts-with-understanding-yourself,publish,quote-page/CQ018-075-1__why-being-real-starts-with-understanding-yourself.md,1116
+quote,,36432,Why People-Pleasing Is False Friendliness,why-people-pleasing-is-false-friendliness,publish,quote-page/CQ018-076-1__why-people-pleasing-is-false-friendliness.md,1012
+quote,,36433,Why Peace Must Be The Umpire Of Every Decision,why-peace-must-be-the-umpire-of-every-decision,publish,quote-page/CQ018-077-1__why-peace-must-be-the-umpire-of-every-decision.md,1077
+quote,,36434,Why Self Control Has To Precede Our Own Growth,why-self-control-has-to-precede-our-own-growth,publish,quote-page/CQ018-077-2__why-self-control-has-to-precede-our-own-growth.md,1054
+quote,,36435,Why We're All Perfectly Imperfect,why-were-all-perfectly-imperfect,publish,quote-page/CQ018-078-1__why-were-all-perfectly-imperfect.md,957
+quote,,36436,Why You're Not Determined By Anyone Else,why-youre-not-determined-by-anyone-else,publish,quote-page/CQ018-078-2__why-youre-not-determined-by-anyone-else.md,938
+quote,,36437,Why What You Do Always Outweighs What You Say,why-what-you-do-always-outweighs-what-you-say,publish,quote-page/CQ018-079-1__why-what-you-do-always-outweighs-what-you-say.md,1007
+quote,,36438,Why not everyone wants you to grow,why-not-everyone-wants-you-to-grow,publish,quote-page/CQ018-080-1__why-not-everyone-wants-you-to-grow.md,1241
+quote,,36439,"Growing together or growing apart, and why it matters",growing-together-or-growing-apart,publish,quote-page/CQ018-080-2__growing-together-or-growing-apart.md,1204
+quote,,36440,Why Real Control Means Taking Responsibility For The Parts Of Our Life,why-real-control-means-taking-responsibility-for-the-parts-of-our-life,publish,quote-page/CQ018-080-3__why-real-control-means-taking-responsibility-for-the-parts-of-our-life.md,1004
+quote,,36441,Why belief drives your wellbeing,why-belief-drives-your-wellbeing,publish,quote-page/CQ018-081-1__why-belief-drives-your-wellbeing.md,1283
+quote,,36442,Why Being Positively Influential Over Other People Requires Nothing In Return,why-being-positively-influential-over-other-people-requires-nothing-in-return,publish,quote-page/CQ018-081-2__why-being-positively-influential-over-other-people-requires-nothing-in-return.md,1001
+quote,,36443,Why You Are Your Own Harshest Critic,why-you-are-your-own-harshest-critic,publish,quote-page/CQ018-082-1__why-you-are-your-own-harshest-critic.md,980
+quote,,36444,Choosing To Be Part Of The Solution,choosing-to-be-part-of-the-solution,publish,quote-page/CQ018-082-2__choosing-to-be-part-of-the-solution.md,1090
+quote,,36445,Why Not Every Thought Is A Universal Truth,why-not-every-thought-is-a-universal-truth,publish,quote-page/CQ018-083-1__why-not-every-thought-is-a-universal-truth.md,909
+quote,,36446,Why Maturity Is Not Associated With Age,why-maturity-is-not-associated-with-age,publish,quote-page/CQ018-084-1__why-maturity-is-not-associated-with-age.md,927
+quote,,36447,What It Means To Keep Going Round In Circles,what-it-means-to-keep-going-round-in-circles,publish,quote-page/CQ018-084-2__what-it-means-to-keep-going-round-in-circles.md,1081
+quote,,36448,Why Every Choice You Make Will Cost You Something,why-every-choice-you-make-will-cost-you-something,publish,quote-page/CQ018-085-1__why-every-choice-you-make-will-cost-you-something.md,1050
+quote,,36449,Why Mutual Respect Decides If A Relationship Survives,why-mutual-respect-decides-if-a-relationship-survives,publish,quote-page/CQ018-086-1__why-mutual-respect-decides-if-a-relationship-survives.md,962
+quote,,36450,Why You Can't Trust A Scared Person,why-you-cant-trust-a-scared-person,publish,quote-page/CQ018-086-2__why-you-cant-trust-a-scared-person.md,931
+quote,,36451,Why Trust Is The Foundation Of Every Relationship,why-trust-is-the-foundation-of-every-relationship,publish,quote-page/CQ018-087-1__why-trust-is-the-foundation-of-every-relationship.md,912
+quote,,36452,How Learning From Mistakes Makes You More Valuable,how-learning-from-mistakes-makes-you-more-valuable,publish,quote-page/CQ018-087-2__how-learning-from-mistakes-makes-you-more-valuable.md,988
+quote,,36453,Why Assumptions Are The Killer Of Human Connectedness,why-assumptions-are-the-killer-of-human-connectedness,publish,quote-page/CQ018-088-1__why-assumptions-are-the-killer-of-human-connectedness.md,1058
+quote,,36454,What Happens When Dialogue Becomes Disrespectful,what-happens-when-dialogue-becomes-disrespectful,publish,quote-page/CQ018-088-2__what-happens-when-dialogue-becomes-disrespectful.md,943
+quote,,36455,Why confiding requires real trust,why-confiding-requires-real-trust,publish,quote-page/CQ018-089-1__why-confiding-requires-real-trust.md,1223
+quote,,36456,Why Life Hangs In The Balance Of Our Judgments,why-life-hangs-in-the-balance-of-our-judgments,publish,quote-page/CQ018-089-2__why-life-hangs-in-the-balance-of-our-judgments.md,992
+quote,,36457,Why Relationships Are The Cornerstone Of Our Life,why-relationships-are-the-cornerstone-of-our-life,publish,quote-page/CQ018-089-3__why-relationships-are-the-cornerstone-of-our-life.md,984
+quote,,36458,What Is The Real Mark Of Maturity,what-is-the-real-mark-of-maturity,publish,quote-page/CQ018-090-1__what-is-the-real-mark-of-maturity.md,914
+quote,,36459,What It Means To Let Dead Things Stay Dead,what-it-means-to-let-dead-things-stay-dead,publish,quote-page/CQ018-090-2__what-it-means-to-let-dead-things-stay-dead.md,963
+quote,,36460,Why It Is Easier To Spot Flaws In Others,why-it-is-easier-to-spot-flaws-in-others,publish,quote-page/CQ018-091-1__why-it-is-easier-to-spot-flaws-in-others.md,1005
+quote,,36461,Why We Compromise Our Integrity To Keep The Peace,why-we-compromise-our-integrity-to-keep-the-peace,publish,quote-page/CQ018-091-2__why-we-compromise-our-integrity-to-keep-the-peace.md,1084
+quote,,36462,What Real Intolerance For Difference Looks Like,what-real-intolerance-for-difference-looks-like,publish,quote-page/CQ018-092-1__what-real-intolerance-for-difference-looks-like.md,944
+quote,,36463,Why No Single Label Can Define Who You Are,why-no-single-label-can-define-who-you-are,publish,quote-page/CQ018-092-2__why-no-single-label-can-define-who-you-are.md,1035
+quote,,36464,Why Being Right Is Not The Point At All,why-being-right-is-not-the-point-at-all,publish,quote-page/CQ018-093-1__why-being-right-is-not-the-point-at-all.md,1024
+quote,,36465,Why Needing To Be A Hero Hides Your Insecurity,why-needing-to-be-a-hero-hides-your-insecurity,publish,quote-page/CQ018-094-1__why-needing-to-be-a-hero-hides-your-insecurity.md,1037
+quote,,36466,What One Shift In Perspective Can Actually Change,what-one-shift-in-perspective-can-actually-change,publish,quote-page/CQ018-095-1__what-one-shift-in-perspective-can-actually-change.md,904
+quote,,36467,Why You Are More Than Your Past,why-you-are-more-than-your-past,publish,quote-page/CQ018-095-2__why-you-are-more-than-your-past.md,981
+quote,,36468,Why We Become the Relationships That We Keep,why-we-become-the-relationships-that-we-keep,publish,quote-page/CQ018-096-1__why-we-become-the-relationships-that-we-keep.md,908
+quote,,36469,Why Experience Gives Us Authority in Life,why-experience-gives-us-authority-in-life,publish,quote-page/CQ018-096-2__why-experience-gives-us-authority-in-life.md,929
+quote,,36470,Why Change In Your Life Belongs To You Alone,why-change-in-your-life-belongs-to-you-alone,publish,quote-page/CQ018-097-1__why-change-in-your-life-belongs-to-you-alone.md,905
+quote,,36471,Why No Teacher Can Make You Learn,why-no-teacher-can-make-you-learn,publish,quote-page/CQ018-097-2__why-no-teacher-can-make-you-learn.md,1006
+quote,,36472,Why Self-Regulation Precedes Social Awareness,why-self-regulation-precedes-social-awareness,publish,quote-page/CQ018-098-1__why-self-regulation-precedes-social-awareness.md,987
+quote,,36473,What Responsibility Actually Breeds,what-responsibility-actually-breeds,publish,quote-page/CQ018-099-1__what-responsibility-actually-breeds.md,962
+quote,,36474,Why A Blamer Hides Loneliness Behind A Tough Mask,why-a-blamer-hides-loneliness-behind-a-tough-mask,publish,quote-page/CQ018-100-1__why-a-blamer-hides-loneliness-behind-a-tough-mask.md,1043
+quote,,36475,Why No Mountain Gives You The Fulfillment You Seek,why-no-mountain-gives-you-the-fulfillment-you-seek,publish,quote-page/CQ018-101-1__why-no-mountain-gives-you-the-fulfillment-you-seek.md,1084
+quote,,36476,How Your Values Shape Your Priorities,how-your-values-shape-your-priorities,publish,quote-page/CQ018-102-1__how-your-values-shape-your-priorities.md,961
+quote,,36477,Why You Are Not What You Do,why-you-are-not-what-you-do,publish,quote-page/CQ018-102-2__why-you-are-not-what-you-do.md,1129
+quote,,36478,Why Telling The Truth Is What Leads To Trust,why-telling-the-truth-is-what-leads-to-trust,publish,quote-page/CQ018-103-1__why-telling-the-truth-is-what-leads-to-trust.md,1030
+quote,,36479,Why To Honor Someone Is To Assume Their Best,why-to-honor-someone-is-to-assume-their-best,publish,quote-page/CQ018-103-2__why-to-honor-someone-is-to-assume-their-best.md,1017
+quote,,36480,Why Real Peace Begins Once You Accept Each Other,why-real-peace-begins-once-you-accept-each-other,publish,quote-page/CQ018-104-1__why-real-peace-begins-once-you-accept-each-other.md,989
+quote,,36481,Why Hardship Produces Growth When Nothing Else Does,why-hardship-produces-growth-when-nothing-else-does,publish,quote-page/CQ018-105-1__why-hardship-produces-growth-when-nothing-else-does.md,989
+quote,,36482,Why Trust Plus Time Is The Real Intimacy Formula,why-trust-plus-time-is-the-real-intimacy-formula,publish,quote-page/CQ018-105-2__why-trust-plus-time-is-the-real-intimacy-formula.md,944
+quote,,36483,Why Wrestling With Hard Ideas Is How We Grow,why-wrestling-with-hard-ideas-is-how-we-grow,publish,quote-page/CQ018-106-1__why-wrestling-with-hard-ideas-is-how-we-grow.md,1040
+quote,,36484,Why We Can Never Fully Understand Anyone Else,why-we-can-never-fully-understand-anyone-else,publish,quote-page/CQ018-107-1__why-we-can-never-fully-understand-anyone-else.md,950
+quote,,36485,What Wisdom Says Is Worth Your Time,what-wisdom-says-is-worth-your-time,publish,quote-page/CQ018-107-2__what-wisdom-says-is-worth-your-time.md,1012
+quote,,36486,Why More Effort Now Means Better Results Later On,why-more-effort-now-means-better-results-later-on,publish,quote-page/CQ018-108-1__why-more-effort-now-means-better-results-later-on.md,989
+quote,,36487,Why How You Respond Matters More Than What Occurs,why-how-you-respond-matters-more-than-what-occurs,publish,quote-page/CQ018-108-2__why-how-you-respond-matters-more-than-what-occurs.md,1055
+quote,,36489,Why vulnerability is not weakness but strength,why-vulnerability-is-not-weakness-but-strength,publish,quote-page/CQ018-110-1__why-vulnerability-is-not-weakness-but-strength.md,1272
+quote,,36488,Why Anything Can Be Learned And Mastered,why-anything-can-be-learned-and-mastered,publish,quote-page/CQ018-109-1__why-anything-can-be-learned-and-mastered.md,1075
+quote,,36490,Why Knowing Facts Is Not The Same As Understanding,why-knowing-facts-is-not-the-same-as-understanding,publish,quote-page/CQ018-110-2__why-knowing-facts-is-not-the-same-as-understanding.md,1075
+quote,,36491,Why You're Not Entitled to People's Trust,why-youre-not-entitled-to-peoples-trust,publish,quote-page/CQ018-111-1__why-youre-not-entitled-to-peoples-trust.md,937
+quote,,36492,"The Moment We Assume, We Break Rapport",the-moment-we-assume-we-break-rapport,publish,quote-page/CQ018-111-2__the-moment-we-assume-we-break-rapport.md,1003
+quote,,36493,Why Focusing On The Positive Is How You Influence,why-focusing-on-the-positive-is-how-you-influence,publish,quote-page/CQ018-112-1__why-focusing-on-the-positive-is-how-you-influence.md,1099
+quote,,36494,Why Power Struggle Always Reveals A Lack Of Trust,why-power-struggle-always-reveals-a-lack-of-trust,publish,quote-page/CQ018-114-1__why-power-struggle-always-reveals-a-lack-of-trust.md,1036
+quote,,36495,Why Simply Having Clarity Is What Makes People Act,why-simply-having-clarity-is-what-makes-people-act,publish,quote-page/CQ018-115-1__why-simply-having-clarity-is-what-makes-people-act.md,1070
+quote,,36496,Why How You Use Today Must Always Be Purposeful,why-how-you-use-today-must-always-be-purposeful,publish,quote-page/CQ018-116-1__why-how-you-use-today-must-always-be-purposeful.md,980
+quote,,36497,Why You Get Distressed By What You Focus On,why-you-get-distressed-by-what-you-focus-on,publish,quote-page/CQ018-117-1__why-you-get-distressed-by-what-you-focus-on.md,988
+quote,,36498,Why Freedom Is Always Simply A Choice You Make,why-freedom-is-always-simply-a-choice-you-make,publish,quote-page/CQ018-118-1__why-freedom-is-always-simply-a-choice-you-make.md,1009
+quote,,36499,Why Real Understanding Ends All Tension In A Bond,why-real-understanding-ends-all-tension-in-a-bond,publish,quote-page/CQ018-119-1__why-real-understanding-ends-all-tension-in-a-bond.md,991
+quote,,36500,Why Simplicity Is Key To A Highly Effective Life,why-simplicity-is-key-to-a-highly-effective-life,publish,quote-page/CQ018-120-1__why-simplicity-is-key-to-a-highly-effective-life.md,1028
+quote,,36501,Why You Cannot Work Harder Than Someone Else Will,why-you-cannot-work-harder-than-someone-else-will,publish,quote-page/CQ018-121-1__why-you-cannot-work-harder-than-someone-else-will.md,1018
+quote,,36502,Why Practice Does Not Make Perfect,why-practice-does-not-make-perfect,publish,quote-page/CQ018-124-1__why-practice-does-not-make-perfect.md,938
+quote,,36503,Why How People Feel Is Always Their Real Problem,why-how-people-feel-is-always-their-real-problem,publish,quote-page/CQ018-125-1__why-how-people-feel-is-always-their-real-problem.md,1096
+quote,,36504,Why Discipline Is What Turns A Plan Into Action,why-discipline-is-what-turns-a-plan-into-action,publish,quote-page/CQ018-126-1__why-discipline-is-what-turns-a-plan-into-action.md,1052
+quote,,36505,Why Giving Our Time To Others Teaches Us Ourselves,why-giving-our-time-to-others-teaches-us-ourselves,publish,quote-page/CQ018-127-1__why-giving-our-time-to-others-teaches-us-ourselves.md,1087
+quote,,36506,The relief in not having it all together,the-relief-in-not-having-it-all-together,publish,quote-page/CQ018-128-1__the-relief-in-not-having-it-all-together.md,1195
+quote,,36507,Why We Never Get Around To Doing Anything,why-we-never-get-around-to-doing-anything,publish,quote-page/CQ018-130-1__why-we-never-get-around-to-doing-anything.md,930
+quote,,36362,Why Complete Control Of Our Lives Begins With Awareness,why-complete-control-of-our-lives-begins-with-awareness,publish,quote-page/CQ018-028-1__why-complete-control-of-our-lives-begins-with-awareness.md,963
+book_note,,37026,Before Happiness: Summary and Key Ideas,before-happiness,publish,book-note/before-happiness.md,1298
+book_note,,37028,Bittersweet: Summary and Key Ideas,bittersweet,publish,book-note/bittersweet.md,1249
+book_note,,37030,Embracing Uncertainty: Summary and Key Ideas,embracing-uncertainty,publish,book-note/embracing-uncertainty.md,1274
+book_note,,37032,Further Along the Road Less Travelled: Summary and Key Ideas,further-along-the-road-less-travelled,publish,book-note/further-along-the-road-less-travelled.md,1280
+book_note,,37034,Leader Effectiveness Training: Summary and Key Ideas,leader-effectiveness-training,publish,book-note/leader-effectiveness-training.md,1201
+book_note,,37036,Necessary Endings: Summary and Key Ideas,necessary-endings,publish,book-note/necessary-endings.md,1276
+book_note,,37038,Notes on a Nervous Planet: Summary and Key Ideas,notes-on-a-nervous-planet,publish,book-note/notes-on-a-nervous-planet.md,1346
+book_note,,37040,Quit: Summary and Key Ideas,quit,publish,book-note/quit.md,1382
+book_note,,37042,Running on Empty No More: Summary and Key Ideas,running-on-empty-no-more,publish,book-note/running-on-empty-no-more.md,1325
+book_note,,37044,Shift: Summary and Key Ideas,shift,publish,book-note/shift.md,1353
+book_note,,37046,Surrounded by Psychopaths: Summary and Key Ideas,surrounded-by-psychopaths,publish,book-note/surrounded-by-psychopaths.md,1345
+book_note,,37048,The High 5 Habit: Summary and Key Ideas,the-high-5-habit,publish,book-note/the-high-5-habit.md,1202
+book_note,,37050,The Stoic Challenge: Summary and Key Ideas,the-stoic-challenge,publish,book-note/the-stoic-challenge.md,1234
+book_note,,37052,The Way to Love: Summary and Key Ideas,the-way-to-love,publish,book-note/the-way-to-love.md,1405
+article,instructor-attributed,36847,Why Is Progress Impossible Without Change?,all-progression-is-impossible-without-change,publish,instructor-article/all-progression-is-impossible-without-change.md,2791
+article,instructor-attributed,36849,How Do Assumptions Damage Your Relationships?,assumptions-damage-relationships,publish,instructor-article/assumptions-damage-relationships.md,2740
+article,instructor-attributed,36851,How Do You Build Genuine Rapport With Someone?,build-genuine-rapport,publish,instructor-article/build-genuine-rapport.md,2321
+article,instructor-attributed,36853,How Do You Build Self-Control?,build-self-control,publish,instructor-article/build-self-control.md,2677
+article,instructor-attributed,36855,Can You Be Too Self-Aware?,can-you-be-too-self-aware,publish,instructor-article/can-you-be-too-self-aware.md,2357
+article,instructor-attributed,36857,Can You Really Choose to Be More Introverted or Extroverted?,can-you-choose-to-be-more-introverted-or-extroverted,publish,instructor-article/can-you-choose-to-be-more-introverted-or-extroverted.md,2629
+article,instructor-attributed,36859,Why Is Change the Only True Constant in Life?,change-is-the-only-constant,publish,instructor-article/change-is-the-only-constant.md,2648
+article,instructor-attributed,36861,Why Do We Confuse Our Opinions With Facts?,confuse-opinions-with-facts,publish,instructor-article/confuse-opinions-with-facts.md,2484
+article,instructor-attributed,36863,How Connected Are You to Your Future Self?,connected-to-your-future-self,publish,instructor-article/connected-to-your-future-self.md,2467
+article,instructor-attributed,36865,Why Doesn't Knowing More Make You More Competent?,cover-up-incompetence-with-head-knowledge,publish,instructor-article/cover-up-incompetence-with-head-knowledge.md,2529
+article,instructor-attributed,36867,"Disagreements Are Inevitable, But Is Division a Choice?",disagreement-vs-division,publish,instructor-article/disagreement-vs-division.md,2928
+article,instructor-attributed,36869,Why Is Every Decision You Make Really a Trade-Off?,every-decision-is-a-trade-off,publish,instructor-article/every-decision-is-a-trade-off.md,2283
+article,instructor-attributed,36871,Why Does Everyone Experience the Same Reality Differently?,everyone-experiences-reality-differently,publish,instructor-article/everyone-experiences-reality-differently.md,2215
+article,instructor-attributed,36873,What to Do When You Feel Stuck in Life?,feeling-stuck-in-life,publish,instructor-article/feeling-stuck-in-life.md,3266
+article,instructor-attributed,36875,Do You Have a Fixed or Growth Mindset?,fixed-or-growth-mindset,publish,instructor-article/fixed-or-growth-mindset.md,2490
+article,instructor-attributed,36877,How Do You Learn From Mistakes Without the Shame?,forget-your-mistakes-but-remember-their-lessons,publish,instructor-article/forget-your-mistakes-but-remember-their-lessons.md,2570
+article,instructor-attributed,36879,"Do You Leave People With More Energy Than You Found Them, or Less?",fountain-or-a-drain,publish,instructor-article/fountain-or-a-drain.md,2466
+article,instructor-attributed,36881,Freedom vs Security: What's the Real Trade-Off?,freedom-vs-security,publish,instructor-article/freedom-vs-security.md,2476
+article,instructor-attributed,36883,How Do You Know If You're Growing or Standing Still?,growing-or-standing-still,publish,instructor-article/growing-or-standing-still.md,2779
+article,instructor-attributed,36885,Is the Pursuit of Happiness Actually a Delusion?,happiness-is-a-delusion-fulfilment-is-not,publish,instructor-article/happiness-is-a-delusion-fulfilment-is-not.md,2701
+article,instructor-attributed,36887,Are Labels Holding You Back From Your True Identity?,labels-vs-true-identity,publish,instructor-article/labels-vs-true-identity.md,2965
+article,instructor-attributed,36889,Are You Living According to Your Values?,living-according-to-your-values,publish,instructor-article/living-according-to-your-values.md,2457
+article,instructor-attributed,36891,Why Does Personal Growth Require Discomfort?,personal-growth-requires-discomfort,publish,instructor-article/personal-growth-requires-discomfort.md,2421
+article,instructor-attributed,36893,What's the Difference Between Positive and Negative Motivation?,positive-vs-negative-motivation,publish,instructor-article/positive-vs-negative-motivation.md,3050
+article,instructor-attributed,36895,Are You a Rational or Emotional Thinker?,rational-or-emotional-thinker,publish,instructor-article/rational-or-emotional-thinker.md,2358
+article,instructor-attributed,36897,What Do You Want to Be Remembered For?,remembered-for,publish,instructor-article/remembered-for.md,2432
+article,instructor-attributed,36899,Why Does Saying Less Make You More Influential?,saying-less-more-influential,publish,instructor-article/saying-less-more-influential.md,2379
+article,instructor-attributed,36901,What's the Link Between Self-Acceptance and Self-Improvement?,self-acceptance-vs-self-improvement,publish,instructor-article/self-acceptance-vs-self-improvement.md,2523
+article,instructor-attributed,36903,What Are the 8 Stages of Building Strong Relationships?,stages-of-building-strong-relationships,publish,instructor-article/stages-of-building-strong-relationships.md,2719
+article,instructor-attributed,36905,What Are the 8 Stages of Human Development and Maturity?,stages-of-human-development-and-maturity,publish,instructor-article/stages-of-human-development-and-maturity.md,2839
+article,instructor-attributed,36907,Why Is It So Hard to Step Outside Your Comfort Zone?,step-outside-your-comfort-zone,publish,instructor-article/step-outside-your-comfort-zone.md,2812
+article,instructor-attributed,36909,Why Does Taking Responsibility Create Personal Growth?,taking-responsibility-creates-personal-growth,publish,instructor-article/taking-responsibility-creates-personal-growth.md,2810
+article,instructor-attributed,36911,What Is the Connection Between Your Thoughts and Emotions?,thoughts-and-emotions-connection,publish,instructor-article/thoughts-and-emotions-connection.md,2728
+article,instructor-attributed,36913,"Why Some People Live in the Past, and Others Live for the Future?",time-perspective,publish,instructor-article/time-perspective.md,2836
+article,instructor-attributed,36915,How Do You Turn a Vision Into a Goal You Can Actually Reach?,turn-a-vision-into-a-goal,publish,instructor-article/turn-a-vision-into-a-goal.md,2811
+article,instructor-attributed,36917,What Are the 3 Different Types of Listening?,types-of-listening,publish,instructor-article/types-of-listening.md,2414
+article,instructor-attributed,36919,What Are The Factors That Make People More Influential?,whats-the-key-to-winning-hearts-and-minds,publish,instructor-article/whats-the-key-to-winning-hearts-and-minds.md,3115
+article,instructor-attributed,36921,Why Do We Feel the Need to Prove Ourselves?,why-we-feel-the-need-to-prove-ourselves,publish,instructor-article/why-we-feel-the-need-to-prove-ourselves.md,2809
+article,instructor-attributed,36923,What Does Your Relationship With Money Really Say About You?,your-relationship-with-money-tells-a-story,publish,instructor-article/your-relationship-with-money-tells-a-story.md,2935
+article,instructor-attributed,36978,How Do You Balance the Main Areas of Your Life?,balance-the-main-areas-of-life,publish,instructor-article/balance-the-main-areas-of-life.md,3129
+article,instructor-attributed,36980,Why Is Pattern Recognition a Human Superpower?,pattern-recognition-superpower,publish,instructor-article/pattern-recognition-superpower.md,2960
+article,instructor-attributed,36982,What Does It Mean to Think Objectively?,think-objectively,publish,instructor-article/think-objectively.md,3337
+article,instructor-attributed,36508,Why Does AI Agree With Everything You Say? Sycophancy Bias,ai-agree-with-everything-you-say,publish,instructor-article/ai-agree-with-everything-you-say.md,2922
+article,instructor-attributed,36510,Why Do AI Conversations Get Worse the Longer They Run? Escalation,ai-conversations-get-worse,publish,instructor-article/ai-conversations-get-worse.md,2640
+article,instructor-attributed,36512,Can AI Give You a Second Opinion? Algorithmic Monoculture,ai-give-you-a-second-opinion,publish,instructor-article/ai-give-you-a-second-opinion.md,2970
+article,instructor-attributed,36514,Is AI Making Us Worse Thinkers? Cognitive Offloading,ai-making-us-worse-thinkers,publish,instructor-article/ai-making-us-worse-thinkers.md,2669
+article,instructor-attributed,36516,"Does AI Actually Understand You, Or Just Predict You? The Eliza Effect",does-ai-actually-understand,publish,instructor-article/does-ai-actually-understand.md,2959
+article,instructor-attributed,36518,Why Do We Trust AI Even When It's Wrong? Authority Bias,trust-ai-even-when-its-wrong,publish,instructor-article/trust-ai-even-when-its-wrong.md,3259
+book_note,,36287,A Path through the Jungle: Summary and Key Ideas,a-path-through-the-jungle,publish,book-note/a-path-through-the-jungle.md,1204
+book_note,,36289,Daring to Trust: Summary and Key Ideas,daring-to-trust,publish,book-note/daring-to-trust.md,1277
+book_note,,36291,Have a Little Faith: Summary and Key Ideas,have-a-little-faith,publish,book-note/have-a-little-faith.md,1314
+book_note,,36293,Keeping the Love You Find: Summary and Key Ideas,keeping-the-love-you-find,publish,book-note/keeping-the-love-you-find.md,1295
+book_note,,36295,Open When: Summary and Key Ideas,open-when,publish,book-note/open-when.md,1253
+book_note,,36297,Teacher and Child: Summary and Key Ideas,teacher-and-child,publish,book-note/teacher-and-child.md,1403
+book_note,,36299,The Advantage: Summary and Key Ideas,the-advantage,publish,book-note/the-advantage.md,1282
+book_note,,36301,The Art of the Good Life: Summary and Key Ideas,the-art-of-the-good-life,publish,book-note/the-art-of-the-good-life.md,1261
+book_note,,36303,The Jealousy Cure: Summary and Key Ideas,the-jealousy-cure,publish,book-note/the-jealousy-cure.md,1337
+book_note,,36529,Authentic Happiness: Summary and Key Ideas,authentic-happiness-seligman,publish,book-note/authentic-happiness-seligman.md,1200
+book_note,,36531,Awaken the Giant Within: Summary and Key Ideas,awaken-the-giant-within,publish,book-note/awaken-the-giant-within.md,1220
+book_note,,36533,Childhood and Society: Summary and Key Ideas,childhood-and-society,publish,book-note/childhood-and-society.md,1442
+book_note,,36535,Civilization and Its Discontents: Summary and Key Ideas,civilization-and-its-discontents,publish,book-note/civilization-and-its-discontents.md,1183
+book_note,,36537,Counseling the Culturally Diverse: Summary and Key Ideas,counseling-the-culturally-diverse,publish,book-note/counseling-the-culturally-diverse.md,1279
+book_note,,36539,Difficult Conversations: Summary and Key Ideas,difficult-conversations-patton,publish,book-note/difficult-conversations-patton.md,1179
+book_note,,36541,Stoicism and the Art of Happiness: Summary and Key Ideas,stoicism-and-the-art-of-happiness,publish,book-note/stoicism-and-the-art-of-happiness.md,1211
+book_note,,36543,The Happiness Project: Summary and Key Ideas,the-happiness-project,publish,book-note/the-happiness-project.md,1348
+book_note,,36545,The Open Society and Its Enemies: Summary and Key Ideas,the-open-society-and-its-enemies,publish,book-note/the-open-society-and-its-enemies.md,1287
+book_note,,36547,The Power of Now: Summary and Key Ideas,the-power-of-now,publish,book-note/the-power-of-now.md,1219
+book_note,,36549,The Problems of Philosophy: Summary and Key Ideas,the-problems-of-philosophy,publish,book-note/the-problems-of-philosophy.md,1191
+book_note,,36551,The Republic: Summary and Key Ideas,the-republic-plato,publish,book-note/the-republic-plato.md,1227
+book_note,,36553,The Road Less Travelled: Summary and Key Ideas,the-road-less-travelled,publish,book-note/the-road-less-travelled.md,1216
+book_note,,36555,The Six Pillars of Self-Esteem: Summary and Key Ideas,the-six-pillars-of-self-esteem,publish,book-note/the-six-pillars-of-self-esteem.md,1219
+book_note,,36557,The Time Paradox: Summary and Key Ideas,the-time-paradox,publish,book-note/the-time-paradox.md,1226
+book_note,,36559,Thinking Fast and Slow: Summary and Key Ideas,thinking-fast-and-slow,publish,book-note/thinking-fast-and-slow.md,1299
+book_note,,36561,Utilitarianism: Summary and Key Ideas,utilitarianism,publish,book-note/utilitarianism.md,1176
+article,instructor-attributed,36601,"What Is Stepped Care, and Could It Replace Diagnosis?",what-is-stepped-care,publish,instructor-article/what-is-stepped-care.md,1876
+article,instructor-attributed,36603,"If There's No Biological Cause, What Is a Diagnosis Actually Describing?",a-diagnosis-actually-describing,publish,instructor-article/a-diagnosis-actually-describing.md,1513
+article,instructor-attributed,36605,How Can a False Epidemic Happen Without Anyone Lying?,a-false-epidemic-happen-without-anyone-lying,publish,instructor-article/a-false-epidemic-happen-without-anyone-lying.md,1680
+article,instructor-attributed,36607,How Often Is a Psychiatric Diagnosis Simply Wrong?,a-psychiatric-diagnosis-simply-wrong,publish,instructor-article/a-psychiatric-diagnosis-simply-wrong.md,1752
+article,instructor-attributed,36609,Why Isn't There a Blood Test for Depression?,blood-test-for-depression,publish,instructor-article/blood-test-for-depression.md,1870
+article,instructor-attributed,36611,Why Does BMI Decide Who Gets Eating Disorder Treatment?,bmi-decide-who-gets-eating-disorder-treatment,publish,instructor-article/bmi-decide-who-gets-eating-disorder-treatment.md,2061
+article,instructor-attributed,36613,Why Do Professionals Disagree About Diagnosing Bipolar Disorder in Children?,diagnosing-bipolar-disorder-in-children,publish,instructor-article/diagnosing-bipolar-disorder-in-children.md,1765
+article,instructor-attributed,36615,Can a Diagnosis Be Scientifically Weak but Still Useful?,diagnosis-be-scientifically-weak-but-still-useful,publish,instructor-article/diagnosis-be-scientifically-weak-but-still-useful.md,1879
+article,instructor-attributed,36617,Is Diagnostic Inflation Actually Happening?,diagnostic-inflation-actually-happening,publish,instructor-article/diagnostic-inflation-actually-happening.md,1473
+article,instructor-attributed,36619,Why Do Doctors Have Only Minutes to Diagnose You?,doctors-have-only-minutes-to-diagnose,publish,instructor-article/doctors-have-only-minutes-to-diagnose.md,1935
+article,instructor-attributed,36621,What Does a Diagnosis Do to the Person Who Receives It?,does-a-diagnosis-do-to-the-person,publish,instructor-article/does-a-diagnosis-do-to-the-person.md,2033
+article,instructor-attributed,36623,Does Everyone Agreeing on a Diagnosis Make It True?,everyone-agreeing-on-a-diagnosis,publish,instructor-article/everyone-agreeing-on-a-diagnosis.md,1452
+article,instructor-attributed,36625,Who Decided That Five Symptoms Mean Depression?,five-symptoms-mean-depression,publish,instructor-article/five-symptoms-mean-depression.md,1442
+article,instructor-attributed,36627,How Did a Committee Vote Decide Homosexuality Was a Diagnosis?,homosexuality-was-a-diagnosis,publish,instructor-article/homosexuality-was-a-diagnosis.md,1424
+article,instructor-attributed,36629,How Do You Tell Hypomania From an Ordinary Mood Swing?,hypomania-from-an-ordinary-mood-swing,publish,instructor-article/hypomania-from-an-ordinary-mood-swing.md,1944
+article,instructor-attributed,36631,"Is My Grief Normal, or Is It a Disorder?",is-my-grief-normal,publish,instructor-article/is-my-grief-normal.md,1966
+article,instructor-attributed,36633,Why Have Mental Disorders Tripled Since the 1950s?,mental-disorders-tripled-since-the-1950s,publish,instructor-article/mental-disorders-tripled-since-the-1950s.md,1412
+article,instructor-attributed,36635,Why Did Multiple Personality Diagnoses Spike After a Film?,multiple-personality-diagnoses-spike-after-a-film,publish,instructor-article/multiple-personality-diagnoses-spike-after-a-film.md,1636
+article,instructor-attributed,36637,How Much Does Self-Report Decide a Diagnosis?,self-report-decide-a-diagnosis,publish,instructor-article/self-report-decide-a-diagnosis.md,1432
+article,instructor-attributed,36639,Why Did the Definition of Mental Disorder Change?,the-definition-of-mental-disorder,publish,instructor-article/the-definition-of-mental-disorder.md,1387
+article,instructor-attributed,36641,Why Did the DSM-5 Cost Five Times More Than the DSM-IV?,the-dsm-5-cost-five-times-more,publish,instructor-article/the-dsm-5-cost-five-times-more.md,1465
+article,instructor-attributed,36643,Why Does the DSM Call Its Own Categories Porous?,the-dsm-call-its-own-categories-porous,publish,instructor-article/the-dsm-call-its-own-categories-porous.md,1633
+article,instructor-attributed,36645,Is the Rise in Autism Diagnoses Real?,the-rise-in-autism-diagnoses-real,publish,instructor-article/the-rise-in-autism-diagnoses-real.md,1526
+article,instructor-attributed,36647,"What Is Concept Creep, and Why Does It Matter?",what-is-concept-creep,publish,instructor-article/what-is-concept-creep.md,1418
+book_note,,36206,Resilient: Summary and Key Ideas,resilient,publish,book-note/resilient.md,1217
+book_note,,36208,Shyness by Philip Zimbardo: Summary and Key Ideas,shyness-what-it-is-what-to-do-about-it,publish,book-note/shyness-what-it-is-what-to-do-about-it.md,1304
+book_note,,36210,The Beck Diet Solution: Summary and Key Ideas,the-beck-diet-solution,publish,book-note/the-beck-diet-solution.md,1198
+book_note,,36212,Identity: Youth and Crisis: Summary and Key Ideas,identity-youth-and-crisis,publish,book-note/identity-youth-and-crisis.md,1231
+book_note,,36214,Multiple Intelligences: Summary and Key Ideas,multiple-intelligences-new-horizons,publish,book-note/multiple-intelligences-new-horizons.md,1312
+book_note,,36216,The Origins of Intelligence in Children: Summary and Key Ideas,the-origins-of-intelligence-in-children,publish,book-note/the-origins-of-intelligence-in-children.md,1287
+book_note,,36218,Yes! 50 Scientifically Proven Ways to Be Persuasive: Summary and Key Ideas,yes-50-scientifically-proven-ways-to-be-persuasive,publish,book-note/yes-50-scientifically-proven-ways-to-be-persuasive.md,1275
+book_note,,35932,A Treatise of Human Nature: Summary and Key Ideas,a-treatise-of-human-nature,publish,book-note/a-treatise-of-human-nature.md,1183
+book_note,,35934,As a Man Thinketh: Summary and Key Ideas,as-a-man-thinketh,publish,book-note/as-a-man-thinketh.md,1274
+book_note,,35936,Atomic Habits: Summary and Key Ideas,atomic-habits-clear,publish,book-note/atomic-habits-clear.md,1167
+book_note,,35938,"Best Self Be You, Only Better: Summary and Key Ideas",best-self-be-you-only-better,publish,book-note/best-self-be-you-only-better.md,1297
+book_note,,35940,Boundaries: Summary and Key Ideas,boundaries-cloud,publish,book-note/boundaries-cloud.md,1266
+book_note,,35942,"Cognitive Behavior Therapy, Second Edition: Summary and Key Ideas",cognitive-behavior-therapy-second-edition,publish,book-note/cognitive-behavior-therapy-second-edition.md,1367
+book_note,,35944,Crucial Conversations: Summary and Key Ideas,crucial-conversations-mcmillan,publish,book-note/crucial-conversations-mcmillan.md,1383
+book_note,,35946,Discipline Equals Freedom: Summary and Key Ideas,discipline-equals-freedom,publish,book-note/discipline-equals-freedom.md,1182
+book_note,,35948,Emotional Intelligence: Summary and Key Ideas,emotional-intelligence-goleman,publish,book-note/emotional-intelligence-goleman.md,1388
+book_note,,35950,Extreme Ownership: Summary and Key Ideas,extreme-ownership-willink,publish,book-note/extreme-ownership-willink.md,1304
+book_note,,35952,Feeling Good: Summary and Key Ideas,feeling-good-burns,publish,book-note/feeling-good-burns.md,1349
+book_note,,35954,Frames of Mind: Summary and Key Ideas,frames-of-mind,publish,book-note/frames-of-mind.md,1604
+book_note,,35956,Games People Play: Summary and Key Ideas,games-people-play,publish,book-note/games-people-play.md,1293
+book_note,,35958,Make Your Bed: Summary and Key Ideas,make-your-bed,publish,book-note/make-your-bed.md,1173
+book_note,,35960,The History of Philosophy: Summary and Key Ideas,the-history-of-philosophy,publish,book-note/the-history-of-philosophy.md,1199
+book_note,,35962,The Nicomachean Ethics: Summary and Key Ideas,the-nicomachean-ethics,publish,book-note/the-nicomachean-ethics.md,1253
+book_note,,35964,The Perennial Philosophy: Summary and Key Ideas,the-perennial-philosophy,publish,book-note/the-perennial-philosophy.md,1304
+book_note,,35966,The Philosophy of Freedom: Summary and Key Ideas,the-philosophy-of-freedom,publish,book-note/the-philosophy-of-freedom.md,1248
+book_note,,35968,The Prince: Summary and Key Ideas,the-prince-machiavelli,publish,book-note/the-prince-machiavelli.md,1273
+book_note,,35970,The Selfish Gene: Summary and Key Ideas,the-selfish-gene,publish,book-note/the-selfish-gene.md,1249
+book_note,,35972,The Social Animal: Summary and Key Ideas,the-social-animal-aronson,publish,book-note/the-social-animal-aronson.md,1302
+book_note,,35974,The Tao Te Ching: Summary and Key Ideas,the-tao-te-ching,publish,book-note/the-tao-te-ching.md,1218
+book_note,,35976,Thus Spoke Zarathustra: Summary and Key Ideas,thus-spoke-zarathustra,publish,book-note/thus-spoke-zarathustra.md,1259
+book_note,,35978,Words That Change Minds: Summary and Key Ideas,words-that-change-minds,publish,book-note/words-that-change-minds.md,1224
+book_note,,35980,Words That Work: Summary and Key Ideas,words-that-work,publish,book-note/words-that-work.md,1283
+article,instructor-attributed,35920,How to Persuade Someone Who Disagrees With You,persuade-someone-who-disagrees,publish,instructor-article/I18__persuade-someone-who-disagrees.md,1837
+article,instructor-attributed,35778,What People Actually Need From the Person Directing Them,what-employees-want-from-their-managers,publish,instructor-article/K02__what-employees-want-from-their-managers.md,2289
+article,instructor-attributed,35780,How to Connect With People Without Pretending to Be Someone Else,authentic-leadership,publish,instructor-article/K03__authentic-leadership.md,2166
+article,instructor-attributed,35782,Why Nobody Follows a Leader They Cannot Read,consistency-in-leadership,publish,instructor-article/K04__consistency-in-leadership.md,2043
+article,instructor-attributed,35784,"How to Meet People Where They Are, Not Where You Want Them to Be",meet-people-where-they-are,publish,instructor-article/K05__meet-people-where-they-are.md,2114
+article,instructor-attributed,35786,Why Telling People What to Do Rarely Changes What They Do,telling-people-what-to-do,publish,instructor-article/K06__telling-people-what-to-do.md,2182
+article,instructor-attributed,35788,"What Trust Costs, and Why It Is Worth Paying",trust-in-the-workplace,publish,instructor-article/K07__trust-in-the-workplace.md,2184
+article,instructor-attributed,35790,Why Respect Is Given First and Earned Second,respect-is-earned-not-given,publish,instructor-article/K08__respect-is-earned-not-given.md,2449
+article,instructor-attributed,35792,How to Treat People Well Without Being Walked Over,kind-without-being-a-pushover,publish,instructor-article/K09__kind-without-being-a-pushover.md,2278
+article,instructor-attributed,35794,What a Growth Mindset Looks Like in an Ordinary Working Week,growth-mindset-at-work,publish,instructor-article/K10__growth-mindset-at-work.md,2151
+article,instructor-attributed,35796,Why Every Business Problem Is a Mindset Problem First,entrepreneurial-mindset,publish,instructor-article/K11__entrepreneurial-mindset.md,2415
+article,instructor-attributed,35798,"How Connection, Trust and Mindset Hold a Business Together",people-first-leadership,publish,instructor-article/K12__people-first-leadership.md,2325
+article,instructor-attributed,35776,Why Knowledge Alone Does Not Make Someone Good at Leading People,what-makes-a-good-leader,publish,instructor-article/K01__what-makes-a-good-leader.md,3030
+article,instructor-attributed,35161,The Psychological Blind Spots That Keep Good People Stuck,psychological-blind-spots,publish,instructor-article/I04__blind-spots-that-keep-people-stuck.md,1819
+article,instructor-attributed,35163,Busy but Not Fulfilled: What the Difference Actually Is,busy-but-not-fulfilled,publish,instructor-article/I14__meaningful-life-versus-busy-life.md,1963
+article,field-authority,35296,What Does The Road to Character Actually Argue?,the-road-to-character-10-lessons-from-david-brooks-classic,publish,field-authority-article/the-road-to-character-10-lessons-from-david-brooks-classic.md,1781
+article,field-authority,35298,What Is Personal Autonomy?,the-role-of-freedom-in-personal-autonomy-and-decision-making,publish,field-authority-article/the-role-of-freedom-in-personal-autonomy-and-decision-making.md,2007
+article,field-authority,35300,What Is the SMART Goal-Setting Framework?,the-smart-goal-setting-framework,publish,field-authority-article/the-smart-goal-setting-framework.md,1953
+article,field-authority,35302,Who Are the World's Most Influential Psychologists?,the-worlds-most-influential-psychologists,publish,field-authority-article/the-worlds-most-influential-psychologists.md,1911
+article,field-authority,35304,What Are the Triggers That Lead to Relationship Breakdowns?,triggers-that-lead-to-relationship-breakdowns,publish,field-authority-article/triggers-that-lead-to-relationship-breakdowns.md,1774
+article,field-authority,35306,Psychology's History: What Were Its Real Turning Points?,twenty-pivotal-moments-in-psychologys-history,publish,field-authority-article/twenty-pivotal-moments-in-psychologys-history.md,1799
+article,field-authority,35308,What Are the Layers of Identity?,understanding-the-layers-of-identity,publish,field-authority-article/understanding-the-layers-of-identity.md,1893
+article,field-authority,35310,Does the Bystander Effect Still Prove Relevant Today?,unraveling-apathy-insights-from-the-bystander-effect-study,publish,field-authority-article/unraveling-apathy-insights-from-the-bystander-effect-study.md,1826
+article,field-authority,35312,What Is Behaviorism?,unraveling-behaviorism-psychology-a-historical-perspective,publish,field-authority-article/unraveling-behaviorism-psychology-a-historical-perspective.md,1758
+article,field-authority,35314,What Did Harlow's Monkey Experiments Prove?,unveiling-attachment-insights-from-harlows-monkey-experiments,publish,field-authority-article/unveiling-attachment-insights-from-harlows-monkey-experiments.md,1924
+article,field-authority,35316,What Was the Monster Study?,voices-of-vulnerability-insights-from-the-monster-study-experiment,publish,field-authority-article/voices-of-vulnerability-insights-from-the-monster-study-experiment.md,2154
+article,field-authority,35318,What Habits Are and Why People Get Stuck in Life?,what-habits-are-and-why-people-get-stuck,publish,field-authority-article/what-habits-are-and-why-people-get-stuck.md,1831
+article,field-authority,35320,What Is Counselling?,what-is-counselling,publish,field-authority-article/what-is-counselling.md,1852
+article,field-authority,35322,What Is the Meaning of Life?,what-is-the-meaning-of-life-a-comprehensive-exploration,publish,field-authority-article/what-is-the-meaning-of-life-a-comprehensive-exploration.md,2012
+article,field-authority,35440,What Are Your Core Values?,understanding-your-core-values,publish,field-authority-article/understanding-your-core-values.md,2005
+article,field-authority,35583,"What Is Life Coaching, Really?",the-reality-of-life-coaching,publish,field-authority-article/the-reality-of-life-coaching.md,1829
+article,field-authority,35588,What Are the Stages of Change?,the-stages-of-change-model,publish,field-authority-article/the-stages-of-change-model.md,1813
+article,field-authority,35590,Who Invented Active Listening?,the-truth-about-active-listening,publish,field-authority-article/the-truth-about-active-listening.md,1842
+article,field-authority,35592,Is the 7-38-55 Rule of Communication Real?,the-truth-about-eloquence,publish,field-authority-article/the-truth-about-eloquence.md,1878
+article,field-authority,35595,"Who Was Hans J. Eysenck, and Why Is His Personality Theory Still Taught Today?",timeless-lessons-from-the-life-and-works-of-hans-j-eysenck,publish,field-authority-article/timeless-lessons-from-the-life-and-works-of-hans-j-eysenck.md,1729
+article,field-authority,35599,What Are Two-Factor Models of Personality?,two-factor-models-of-personality,publish,field-authority-article/two-factor-models-of-personality.md,1906
+article,field-authority,35601,"What Is Cognitive Load Theory, and Why Does Some Learning Just Feel Harder?",understanding-the-cognitive-load-theory-experiment,publish,field-authority-article/understanding-the-cognitive-load-theory-experiment.md,1715
+article,field-authority,35604,"What Is the Empowerment Dynamic, and How Does It Replace the Drama Triangle?",unlock-personal-empowerment-with-the-empowerment-dynamic,publish,field-authority-article/unlock-personal-empowerment-with-the-empowerment-dynamic.md; _to_delete/SKIPPED__unlock-personal-empowerment-with-the-empowerment-dynamic.md,1839; 909
+article,field-authority,35606,What Is the GROW Coaching Model?,unlocking-life-coaching-excellence,publish,field-authority-article/unlocking-life-coaching-excellence.md,1775
+article,field-authority,35613,"What Is Counselling Psychology, Really?",what-is-counselling-psychology-a-search-for-a-definition,publish,field-authority-article/what-is-counselling-psychology-a-search-for-a-definition.md,1694
+article,field-authority,35282,What Are the Dynamics of Cognitive Dissonance?,the-dynamics-of-cognitive-dissonance,publish,field-authority-article/the-dynamics-of-cognitive-dissonance.md,1770
+article,field-authority,35284,What Are the Foundational Principles of Person-Centred Counselling?,the-foundational-principles-of-person-centred-counselling,publish,field-authority-article/the-foundational-principles-of-person-centred-counselling.md,1977
+article,field-authority,35286,What Is the Hawthorne Effect?,the-impact-of-the-hawthorne-studies-on-workplace-dynamics,publish,field-authority-article/the-impact-of-the-hawthorne-studies-on-workplace-dynamics.md,1789
+article,field-authority,35288,What Percentage of People Miss the Invisible Gorilla?,the-impact-of-the-invisible-gorilla-experiment-explained,publish,field-authority-article/the-impact-of-the-invisible-gorilla-experiment-explained.md,2029
+article,field-authority,35290,What Is the Difference Between Transference and Counter-Transference?,the-impact-of-transference-and-counter-transference,publish,field-authority-article/the-impact-of-transference-and-counter-transference.md,1718
+article,field-authority,35292,Was the Stanford Prison Experiment Scientifically Sound?,the-lucifer-effect-10-lessons-from-philip-zimbardos-classic,publish,field-authority-article/the-lucifer-effect-10-lessons-from-philip-zimbardos-classic.md,2120
+article,field-authority,35294,Who Founded Positive Psychology?,the-origins-of-positive-psychology,publish,field-authority-article/the-origins-of-positive-psychology.md,1871
+article,field-authority,35436,What Is Self-Awareness?,the-importance-of-self-awareness,publish,field-authority-article/the-importance-of-self-awareness.md,1997
+article,field-authority,35438,Who Founded Humanistic Psychology?,the-origins-of-humanistic-psychology,publish,field-authority-article/the-origins-of-humanistic-psychology.md,1835
+article,field-authority,35562,What Does True Empathy Actually Require?,the-depths-of-empathy,publish,field-authority-article/the-depths-of-empathy.md,1865
+article,field-authority,35565,Did Eisenhower Really Say the Urgent/Important Quote?,the-eisenhower-decision-making-matrix,publish,field-authority-article/the-eisenhower-decision-making-matrix.md,1710
+article,field-authority,35572,Is it Really Possible to 'Have it All' in Life?,the-myth-of-having-it-all,publish,field-authority-article/the-myth-of-having-it-all.md,1710
+article,field-authority,35574,Who Invented Cognitive Therapy?,the-origin-of-cognitive-therapy,publish,field-authority-article/the-origin-of-cognitive-therapy.md,1960
+article,field-authority,35576,Who Created the Drama Triangle?,the-origin-of-the-drama-triangle,publish,field-authority-article/the-origin-of-the-drama-triangle.md,1795
+article,field-authority,35579,"Is Your Thought Useful, or Just True?",the-power-of-useful-thinking,publish,field-authority-article/the-power-of-useful-thinking.md,1694
+article,field-authority,35581,What Does the Psychology of Self-Improvement Actually Say Works?,the-psychology-of-self-improvement,publish,field-authority-article/the-psychology-of-self-improvement.md,1945
+article,field-authority,35262,The Psychology History Timeline and Dates That Withstand Scrutiny,psychology-history-timeline,publish,field-authority-article/psychology-history-timeline.md,1882
+article,field-authority,35264,What Are the Theories of Motivation in Psychology?,psychology-theories-for-motivation,publish,field-authority-article/psychology-theories-for-motivation.md,1874
+article,field-authority,35266,What Was the Blue Eyes Brown Eyes Experiment?,psychology-understanding-the-blue-eyes-brown-eyes-experiment,publish,field-authority-article/psychology-understanding-the-blue-eyes-brown-eyes-experiment.md,2030
+article,field-authority,35268,What Are the Real Qualities of a True Leader?,qualities-of-a-true-leader,publish,field-authority-article/qualities-of-a-true-leader.md,1865
+article,field-authority,35270,What Are Freud's Defence Mechanisms?,sigmund-freuds-defence-mechanisms,publish,field-authority-article/sigmund-freuds-defence-mechanisms.md,1977
+article,field-authority,35272,What Makes an Effective Counsellor?,skills-for-highly-effective-counseling,publish,field-authority-article/skills-for-highly-effective-counseling.md,1777
+article,field-authority,35274,What Did the Asch Conformity Experiment Show?,social-conformity-insights-from-the-asch-conformity-experiment,publish,field-authority-article/social-conformity-insights-from-the-asch-conformity-experiment.md,2069
+article,field-authority,35276,Does Stereotyping Threaten Diversity and Inclusion?,stereotyping-the-unseen-threat-to-diversity-and-inclusion,publish,field-authority-article/stereotyping-the-unseen-threat-to-diversity-and-inclusion.md,1902
+article,field-authority,35278,What Is the History of Life Coaching?,the-complete-history-of-life-coaching-and-its-predecessors,publish,field-authority-article/the-complete-history-of-life-coaching-and-its-predecessors.md,1869
+article,field-authority,35280,What Is the Zimbardo Deindividuation Study?,the-dark-side-of-human-behavior-the-impact-of-the-zimbardo-deindividuation-study,publish,field-authority-article/the-dark-side-of-human-behavior-the-impact-of-the-zimbardo-deindividuation-study.md,1857
+article,field-authority,35548,What Did Rosalynn Carter Do for Mental Health?,rosalynn-carter-and-mental-health-stigma,publish,field-authority-article/rosalynn-carter-and-mental-health-stigma.md,1797
+article,field-authority,35553,What Did Ancel Keys Actually Learn From the Minnesota Experiment?,starvation-insights-from-ancel-keys-the-minnesota-experiment,publish,field-authority-article/starvation-insights-from-ancel-keys-the-minnesota-experiment.md,1672
+article,field-authority,35556,What Are the Four Stages of Human Evolution in a Life Well Lived?,the-4-stages-of-human-evolution,publish,field-authority-article/the-4-stages-of-human-evolution.md,1734
+article,field-authority,35559,What Are the ICF Core Competencies of Coaching?,the-core-competencies-of-coaching,publish,field-authority-article/the-core-competencies-of-coaching.md,1855
+article,field-authority,35232,The History of Counselling Psychology as a Helping Profession,history-and-timeline-of-counselling-psychology,publish,field-authority-article/history-and-timeline-of-counselling-psychology.md,1891
+article,field-authority,35234,Why Do I Feel Powerless in My Own Life?,how-irresponsibility-leads-to-personal-disempowerment,publish,field-authority-article/how-irresponsibility-leads-to-personal-disempowerment.md,1864
+article,field-authority,35236,What Is the Relationship Between Philosophy and Psychology?,how-philosophy-illuminates-our-understanding-of-psychology,publish,field-authority-article/how-philosophy-illuminates-our-understanding-of-psychology.md,2079
+article,field-authority,35238,What Is the Strange Situation Test?,insights-from-mary-ainsworths-the-strange-situation-study,publish,field-authority-article/insights-from-mary-ainsworths-the-strange-situation-study.md,1745
+article,field-authority,35240,What Did Piaget Contribute to Psychology?,jean-piagets-contributions-to-developmental-psychology,publish,field-authority-article/jean-piagets-contributions-to-developmental-psychology.md,1997
+article,field-authority,35242,Who Was Albert Ellis?,learn-about-the-psychologist-dr-albert-ellis,publish,field-authority-article/learn-about-the-psychologist-dr-albert-ellis.md,1839
+article,field-authority,35244,What Is the Learned Helplessness Experiment?,learned-helplessness-experiment-the-psychology-of-helplessness,publish,field-authority-article/learned-helplessness-experiment-the-psychology-of-helplessness.md,1716
+article,field-authority,35246,Is How to Win Friends and Influence People Still Relevant?,lessons-from-how-to-win-friends-influence-people,publish,field-authority-article/lessons-from-how-to-win-friends-influence-people.md,1801
+article,field-authority,35248,Does Maslow's Hierarchy of Needs Still Prove Relevant Today?,maslows-hierarchy-of-needs,publish,field-authority-article/maslows-hierarchy-of-needs.md,1751
+article,field-authority,35250,How Does the Art of Persuasion Actually Work?,mastering-the-art-of-persuasion,publish,field-authority-article/mastering-the-art-of-persuasion.md,1772
+article,field-authority,35252,What Is the Bobo Doll Experiment?,mimicking-aggression-insights-from-the-bobo-doll-experiment,publish,field-authority-article/mimicking-aggression-insights-from-the-bobo-doll-experiment.md,1777
+article,field-authority,35254,What Is Misattribution of Arousal?,misattribution-of-arousal-study-insights-into-emotional-perception,publish,field-authority-article/misattribution-of-arousal-study-insights-into-emotional-perception.md,1760
+article,field-authority,35256,How to Have a Sound Mind,navigating-life-with-a-sound-mind,publish,field-authority-article/navigating-life-with-a-sound-mind.md,1749
+article,field-authority,35258,What Did Milgram's Obedience Experiment Actually Show?,obedience-to-authority-stanley-milgram,publish,field-authority-article/obedience-to-authority-stanley-milgram.md,1823
+article,field-authority,35260,What Is the Halo Effect Experiment?,perceptions-illusion-insights-from-the-halo-effect-experiment,publish,field-authority-article/perceptions-illusion-insights-from-the-halo-effect-experiment.md,1898
+article,field-authority,35432,What Is Immediacy in Counselling?,how-immediacy-shapes-engaging-and-impactful-conversations,publish,field-authority-article/how-immediacy-shapes-engaging-and-impactful-conversations.md,1986
+article,field-authority,35518,What Does It Mean to Help People Help Themselves?,helping-people-help-themselves,publish,quote-page/Q06987__helping-people-help-themselves.md; field-authority-article/helping-people-help-themselves.md,1065; 1802
+article,field-authority,35529,How Can Life Coaches Improve Their Listening Skills?,life-coaching-listening-skills,publish,field-authority-article/life-coaching-listening-skills.md,1924
+article,field-authority,35531,"How Do You Listen to Understand, Not to Reply?",listening-to-understand-not-to-reply,publish,field-authority-article/listening-to-understand-not-to-reply.md,1760
+article,field-authority,35538,Is NLP Pseudoscience?,neuro-linguistic-programming-myths,publish,field-authority-article/neuro-linguistic-programming-myths.md,1726
+article,field-authority,35541,How Do Beliefs Actually Change?,outgrowing-your-limiting-beliefs,publish,field-authority-article/outgrowing-your-limiting-beliefs.md,1777
+article,field-authority,35218,What Did Tolman's Rats Actually Prove?,exploration-of-the-cognitive-maps-experiment-by-edward-tolman,publish,field-authority-article/exploration-of-the-cognitive-maps-experiment-by-edward-tolman.md,1908
+article,field-authority,35220,What Did Elizabeth Loftus's False Memory Experiments Actually Find?,exploration-of-the-false-memory-experiment-by-elizabeth-loftus,publish,field-authority-article/exploration-of-the-false-memory-experiment-by-elizabeth-loftus.md,1796
+article,field-authority,35222,What Did the Split Brain Experiment Actually Prove?,exploration-of-the-split-brain-experiment-by-roger-sperry,publish,field-authority-article/exploration-of-the-split-brain-experiment-by-roger-sperry.md,2144
+article,field-authority,35224,What Is Self-Determination Theory?,exploring-self-determination-theory-key-principles-applications,publish,field-authority-article/exploring-self-determination-theory-key-principles-applications.md,2092
+article,field-authority,35226,What Does Man's Search for Meaning Teach About Purpose?,finding-lifes-purpose-with-viktor-frankls-mans-search-for-meaning,publish,field-authority-article/finding-lifes-purpose-with-viktor-frankls-mans-search-for-meaning.md,1918
+article,field-authority,35228,How Do Human Values Shape Your Life's Direction?,finding-purpose-how-human-values-shape-your-lifes-direction,publish,field-authority-article/finding-purpose-how-human-values-shape-your-lifes-direction.md,1876
+article,field-authority,35230,What Are the Three Stages of Egan's Skilled Helper Model?,gerard-egans-skilled-helper-model-using-the-3-stage-framework,publish,field-authority-article/gerard-egans-skilled-helper-model-using-the-3-stage-framework.md,1878
+article,field-authority,35430,How Did Psychology Find Its Third Force?,from-roots-to-revolution,publish,field-authority-article/from-roots-to-revolution.md,2123
+article,field-authority,35515,What Is Social Psychology?,fundamentals-of-social-psychology,publish,field-authority-article/fundamentals-of-social-psychology.md,1814
+article,field-authority,35186,Who Was Aaron Beck? Did He Revolutionize Cognitive Psychology?,aaron-beck-the-pioneer-who-revolutionized-cognitive-psychology,publish,field-authority-article/aaron-beck-the-pioneer-who-revolutionized-cognitive-psychology.md,1797
+article,field-authority,35188,What Is Bandura's Social Learning Theory?,albert-banduras-social-learning-theory,publish,field-authority-article/albert-banduras-social-learning-theory.md,1951
+article,field-authority,35190,What Is Freud's Psychoanalytic Theory?,an-exploration-of-freuds-psychoanalytic-theory,publish,field-authority-article/an-exploration-of-freuds-psychoanalytic-theory.md,2070
+article,field-authority,35192,What Is the Pygmalion Effect Experiment?,an-exploration-of-the-pygmalion-effect-experiment-on-expectations,publish,field-authority-article/an-exploration-of-the-pygmalion-effect-experiment-on-expectations.md,1976
+article,field-authority,35194,How to Achieve Life Balance,balanced-lifestyle-seven-practical-steps-to-achieve-life-balance,publish,field-authority-article/balanced-lifestyle-seven-practical-steps-to-achieve-life-balance.md,1882
+article,field-authority,35196,What Are the Benefits of Practical Learning?,benefits-of-practical-learning-why-experience-outweighs-academic-knowledge,publish,field-authority-article/benefits-of-practical-learning-why-experience-outweighs-academic-knowledge.md,1863
+article,field-authority,35198,What Are the Best Books About Person-Centred Psychology?,books-about-person-centred-psychology,publish,field-authority-article/books-about-person-centred-psychology.md,1731
+article,field-authority,35200,What Is Person-Centered Counseling?,carl-rogers-person-centered-counseling,publish,field-authority-article/carl-rogers-person-centered-counseling.md,1776
+article,field-authority,35202,What Happened to Little Albert?,conditioning-fear-insights-from-the-little-albert-experiment,publish,field-authority-article/conditioning-fear-insights-from-the-little-albert-experiment.md,1844
+article,field-authority,35204,How to Make Wise Decisions,decide-with-confidence-10-timeless-principles-for-wise-decision-making,publish,field-authority-article/decide-with-confidence-10-timeless-principles-for-wise-decision-making.md,1770
+article,field-authority,35206,What Does the Visual Cliff Experiment Actually Prove?,depth-perception-insights-from-the-visual-cliff-experiment,publish,field-authority-article/depth-perception-insights-from-the-visual-cliff-experiment.md,1771
+article,field-authority,35208,How Do You Lead Effective Diplomatic Discussions?,dynamics-of-leading-effective-diplomatic-discussions,publish,field-authority-article/dynamics-of-leading-effective-diplomatic-discussions.md,1783
+article,field-authority,35210,What Character Traits Actually Help You Grow as a Person?,essential-character-traits-for-personal-growth-and-development,publish,field-authority-article/essential-character-traits-for-personal-growth-and-development.md,2003
+article,field-authority,35212,Was the Robbers Cave Experiment Ethical?,ethically-questionable-insights-from-the-robbers-cave-experiment,publish,field-authority-article/ethically-questionable-insights-from-the-robbers-cave-experiment.md,1935
+article,field-authority,35214,What Did the Doll Test Actually Show?,examining-the-doll-test,publish,field-authority-article/examining-the-doll-test.md,2089
+article,field-authority,35216,How Many Types of Intelligence Did Gardner Actually Identify?,exploration-of-dr-howard-gardners-nine-types-of-intelligence,publish,field-authority-article/exploration-of-dr-howard-gardners-nine-types-of-intelligence.md,1787
+article,field-authority,35426,What Was the Good Samaritan Experiment?,compassions-test-insights-from-the-good-samaritan-experiment,publish,field-authority-article/compassions-test-insights-from-the-good-samaritan-experiment.md,1846
+article,field-authority,35428,What Did the Marshmallow Test Really Predict?,delayed-gratification-insights-from-the-marshmallow-test-study,publish,field-authority-article/delayed-gratification-insights-from-the-marshmallow-test-study.md,1956
+article,field-authority,35482,Can Narcissism Be Cured?,an-antidote-to-narcissism,publish,field-authority-article/an-antidote-to-narcissism.md,2006
+article,field-authority,35490,What Makes a Good Life Coach?,character-traits-of-a-life-coach,publish,field-authority-article/character-traits-of-a-life-coach.md,1744
+article,field-authority,35493,Why Does Authenticity Matter in Coaching?,connection-and-authenticity-in-life-coaching,publish,field-authority-article/connection-and-authenticity-in-life-coaching.md,1702
+article,field-authority,35497,Why Does So Much Communication Advice Teach Monologue Instead of Dialogue?,dialogue-versus-monologue,publish,field-authority-article/dialogue-versus-monologue.md,1863
+article,field-authority,35500,How Do You Find Your Core Values?,embracing-your-innermost-values,publish,field-authority-article/embracing-your-innermost-values.md,1934
+article,field-authority,35502,"What Is Your Shadow Side, and What Did Jung Actually Mean?",embracing-your-shadow-side,publish,field-authority-article/embracing-your-shadow-side.md,1823
+article,field-authority,35176,What Are the Most Ethically Dubious Experiments in Psychology?,10-ethically-dubious-experiments,publish,field-authority-article/10-ethically-dubious-experiments.md,1966
+article,field-authority,35178,What Are the Key Psychological Principles?,12-psychological-principles,publish,field-authority-article/12-psychological-principles.md,1851
+article,field-authority,35180,13 Morally and Ethically Questionable Psychology Experiments,13-morally-dubious-psychology-experiments,publish,field-authority-article/13-morally-dubious-psychology-experiments.md,1952
+article,field-authority,35182,What Are the Cognitive Biases That Influence Your Decisions?,20-common-cognitive-biases-that-influence-your-decisions,publish,field-authority-article/20-common-cognitive-biases-that-influence-your-decisions.md,2255
+article,field-authority,35424,How to Break a Bad Habit,a-guide-to-breaking-bad-habits,publish,field-authority-article/a-guide-to-breaking-bad-habits.md,2189
+article,field-authority,35479,"What Actually Builds Inner Resilience, According to the Research?",a-guide-to-building-inner-resilience,publish,field-authority-article/a-guide-to-building-inner-resilience.md,1792
+article,field-authority,35434,What Is the Karpman Drama Triangle?,karpman-drama-triangle,publish,field-authority-article/karpman-drama-triangle.md,2416
+article,field-authority,35184,"The Seven Levels of Human Awareness, and Where the Model Actually Comes From",,pending,,
+book_note,,35419,The Ultimate Life Coaching Handbook: Summary and Key Ideas,the-ultimate-life-coaching-handbook,publish,book-note/the-ultimate-life-coaching-handbook.md,1249
+book_note,,35418,The Skilled Helper: Summary and Key Ideas,the-skilled-helper,publish,book-note/the-skilled-helper.md,1311
+article,instructor-attributed,34254,"Why People Seek Help, and What They Actually Need From It",why-do-people-seek-counselling,publish,instructor-article/I01__why-people-seek-help.md,2098
+article,instructor-attributed,34256,Listening Is Not Waiting to Speak: The Discipline of Tuning In,active-listening-in-counselling,publish,instructor-article/I02__listening-is-not-waiting-to-speak.md,2080
+article,instructor-attributed,34258,What Clients Hear When a Helper Responds With Real Empathy,empathy-in-counselling,publish,instructor-article/I03__what-clients-hear-real-empathy.md,1979
+article,instructor-attributed,34260,How to Challenge Someone Without Breaking the Relationship,challenging-skills-in-counselling,publish,instructor-article/I05__how-to-challenge-without-breaking-the-relationship.md,1974
+article,instructor-attributed,34262,"Why Resistance in Helping Is Information, Not an Act of Defiance",client-resistance-in-counselling,publish,instructor-article/I06__resistance-in-helping-is-information.md,1943
+article,instructor-attributed,34264,The Difference Between a Told Story and an Understood One,helping-clients-tell-their-story,publish,instructor-article/I07__told-story-and-understood-story.md,2025
+article,instructor-attributed,34266,Hope Does Real Work: Turning Possibilities Into Commitments,the-role-of-hope-in-therapy,publish,instructor-article/I08__hope-does-real-work.md,2067
+article,instructor-attributed,34268,The Quiet Aim of Good Helping: A Client Who Needs No Helper,ending-the-counselling-relationship,publish,instructor-article/I09__the-quiet-aim-of-good-helping.md,2094
+article,instructor-attributed,34270,Why Good Advice Rarely Inspires People to Change Themselves,why-giving-advice-does-not-work,publish,instructor-article/I10__why-good-advice-rarely-inspires-change.md,2163
+article,instructor-attributed,34272,Every Behaviour Makes Sense Once You Know What Motivates It,why-people-behave-the-way-they-do,publish,instructor-article/I11__every-behaviour-makes-sense.md,2181
+article,instructor-attributed,34274,What Failure Actually Means and Why Many People Misinterpret It,how-to-reframe-failure,publish,instructor-article/I12__what-failure-actually-means.md,2112
+article,instructor-attributed,34276,"Self-Awareness Is the Starting Point of All Real, Personal Growth",self-awareness-and-personal-growth,publish,instructor-article/I13__self-awareness-starting-point-of-growth.md,2135
+article,instructor-attributed,34278,The Unconscious Belief Patterns That Quietly Run People's Lives,unconscious-limiting-beliefs,publish,instructor-article/I15__unconscious-belief-patterns.md,2028
+article,instructor-attributed,34280,Who Holds the Master Controls: Living Life From the Inside Out,internal-versus-external-locus-of-control,publish,instructor-article/I16__who-holds-the-master-controls.md,2252
+article,instructor-attributed,34282,Change Happens Inevitably; Transition Is How You Respond to It,difference-between-change-and-transition,publish,instructor-article/I17__change-happens-transition-is-your-response.md,2264
+book_note,,33852,Why Zebras Don't Get Ulcers: Summary and Key Ideas,why-zebras-dont-get-ulcers,publish,book-note/why-zebras-dont-get-ulcers.md,1382
+book_note,,33851,What Life Could Mean to You: Summary and Key Ideas,what-life-could-mean-to-you,publish,book-note/what-life-could-mean-to-you.md,1291
+book_note,,33850,What Do You Say After You Say Hello? Summary and Key Ideas,what-do-you-say-after-you-say-hello,publish,book-note/what-do-you-say-after-you-say-hello.md,1194
+book_note,,33849,Tusculan Disputations: Summary and Key Ideas,tusculan-disputations,publish,book-note/tusculan-disputations.md,1204
+book_note,,33848,Truth and Repair: Summary and Key Ideas,truth-and-repair,publish,book-note/truth-and-repair.md,1253
+book_note,,33847,Toward a Psychology of Being: Summary and Key Ideas,toward-a-psychology-of-being,publish,book-note/toward-a-psychology-of-being.md,1284
+book_note,,33846,Time and Free Will: Summary and Key Ideas,time-and-free-will,publish,book-note/time-and-free-will.md,1227
+book_note,,33845,Thrift: Summary and Key Ideas,thrift,publish,book-note/thrift.md,1442
+book_note,,33844,The Upside of Stress: Summary and Key Ideas,the-upside-of-stress,publish,book-note/the-upside-of-stress.md,1232
+book_note,,33843,The Science of Being Well: Summary and Key Ideas,the-science-of-being-well,publish,book-note/the-science-of-being-well.md,1367
+book_note,,33842,The Relationship Cure: Summary and Key Ideas,the-relationship-cure,publish,book-note/the-relationship-cure.md,1286
+book_note,,33841,The Psychology of Self-Esteem: Summary and Key Ideas,the-psychology-of-self-esteem,publish,book-note/the-psychology-of-self-esteem.md,1223
+book_note,,33840,The Power of Truth: Summary and Key Ideas,the-power-of-truth,publish,book-note/the-power-of-truth.md,1411
+book_note,,33839,The Places That Scare You: Summary and Key Ideas,the-places-that-scare-you,publish,book-note/the-places-that-scare-you.md,1256
+book_note,,33838,The Maine Woods: Summary and Key Ideas,the-maine-woods,publish,book-note/the-maine-woods.md,1306
+book_note,,33837,The Life Cycle Completed: Summary and Key Ideas,the-life-cycle-completed,publish,book-note/the-life-cycle-completed.md,1248
+book_note,,33836,The Honest Truth About Dishonesty: Summary and Key Ideas,the-honest-truth-about-dishonesty,publish,book-note/the-honest-truth-about-dishonesty.md,1366
+book_note,,33835,The Gap and the Gain: Summary and Key Ideas,the-gap-and-the-gain,publish,book-note/the-gap-and-the-gain.md,1390
+book_note,,33834,The Feeling Good Handbook: Summary and Key Ideas,the-feeling-good-handbook,publish,book-note/the-feeling-good-handbook.md,1323
+book_note,,33833,The Farther Reaches of Human Nature: Summary and Key Ideas,the-farther-reaches-of-human-nature,publish,book-note/the-farther-reaches-of-human-nature.md,1391
+book_note,,33832,The Doors of Perception: Summary and Key Ideas,the-doors-of-perception,publish,book-note/the-doors-of-perception.md,1249
+book_note,,33831,The Diet Trap Solution: Summary and Key Ideas,the-diet-trap-solution,publish,book-note/the-diet-trap-solution.md,1268
+book_note,,33830,The Dichotomy of Leadership: Summary and Key Ideas,the-dichotomy-of-leadership,publish,book-note/the-dichotomy-of-leadership.md,1274
+book_note,,33829,The Confidence Gap: Summary and Key Ideas,the-confidence-gap,publish,book-note/the-confidence-gap.md,1380
+book_note,,33828,The Bridge Across Forever: Summary and Key Ideas,the-bridge-across-forever,publish,book-note/the-bridge-across-forever.md,1256
+book_note,,33827,The Brain's Way of Healing: Summary and Key Ideas,the-brains-way-of-healing,publish,book-note/the-brains-way-of-healing.md,1249
+book_note,,33826,The Advice Trap: Summary and Key Ideas,the-advice-trap,publish,book-note/the-advice-trap.md,1273
+book_note,,33825,The 8th Habit: Summary and Key Ideas,the-8th-habit,publish,book-note/the-8th-habit.md,1238
+book_note,,33824,The 4-Hour Body: Summary and Key Ideas,the-4-hour-body,publish,book-note/the-4-hour-body.md,1305
+book_note,,33823,Stillness Speaks: Summary and Key Ideas,stillness-speaks,publish,book-note/stillness-speaks.md,1267
+book_note,,33822,Speak Peace in a World of Conflict: Summary and Key Ideas,speak-peace-in-a-world-of-conflict,publish,book-note/speak-peace-in-a-world-of-conflict.md,1267
+book_note,,33821,Recovering from Emotionally Immature Parents: Summary and Key Ideas,recovering-from-emotionally-immature-parents,publish,book-note/recovering-from-emotionally-immature-parents.md,1243
+book_note,,33820,Radical Compassion: Summary and Key Ideas,radical-compassion,publish,book-note/radical-compassion.md,1213
+book_note,,33819,"Peace, Power and Plenty: Summary and Key Ideas",peace-power-and-plenty,publish,book-note/peace-power-and-plenty.md,1436
+book_note,,33818,Overcoming Depression: Summary and Key Ideas,overcoming-depression,publish,book-note/overcoming-depression.md,1307
+book_note,,33817,On the Origin of Species: Summary and Key Ideas,on-the-origin-of-species,publish,book-note/on-the-origin-of-species.md,1362
+book_note,,33816,Noise: Summary and Key Ideas,noise,publish,book-note/noise.md,1174
+book_note,,33815,Nature: Summary and Key Ideas,nature-emerson,publish,book-note/nature-emerson.md,1437
+book_note,,33814,Money: Master the Game: Summary and Key Ideas,money-master-the-game,publish,book-note/money-master-the-game.md,1409
+book_note,,33813,Mental Efficiency: Summary and Key Ideas,mental-efficiency,publish,book-note/mental-efficiency.md,1371
+book_note,,33812,Maps of Meaning: Summary and Key Ideas,maps-of-meaning,publish,book-note/maps-of-meaning.md,1414
+book_note,,33811,Linchpin: Summary and Key Ideas,linchpin,publish,book-note/linchpin.md,1395
+book_note,,33810,Journey to the Heart: Summary and Key Ideas,journey-to-the-heart,publish,book-note/journey-to-the-heart.md,1250
+book_note,,33809,Internal Family Systems Therapy: Summary and Key Ideas,internal-family-systems-therapy,publish,book-note/internal-family-systems-therapy.md,1239
+book_note,,33808,Humble Inquiry: Summary and Key Ideas,humble-inquiry,publish,book-note/humble-inquiry.md,1232
+book_note,,33807,How to Know a Person: Summary and Key Ideas,how-to-know-a-person,publish,book-note/how-to-know-a-person.md,1413
+book_note,,33806,How to Fix a Broken Heart: Summary and Key Ideas,how-to-fix-a-broken-heart,publish,book-note/how-to-fix-a-broken-heart.md,1212
+book_note,,33805,How the Mighty Fall: Summary and Key Ideas,how-the-mighty-fall,publish,book-note/how-the-mighty-fall.md,1239
+book_note,,33804,Homage to Catalonia: Summary and Key Ideas,homage-to-catalonia,publish,book-note/homage-to-catalonia.md,1356
+book_note,,33803,Getting Past No: Summary and Key Ideas,getting-past-no,publish,book-note/getting-past-no.md,1266
+book_note,,33802,Free Will: Summary and Key Ideas,free-will-sam-harris,publish,book-note/free-will-sam-harris.md,1212
+book_note,,33801,Finding Flow: Summary and Key Ideas,finding-flow,publish,book-note/finding-flow.md,1184
+book_note,,33800,Fierce Self-Compassion: Summary and Key Ideas,fierce-self-compassion,publish,book-note/fierce-self-compassion.md,1298
+book_note,,33799,Emotional: Summary and Key Ideas,emotional-leonard-mlodinow,publish,book-note/emotional-leonard-mlodinow.md,1439
+book_note,,33798,Decisive: Summary and Key Ideas,decisive,publish,book-note/decisive.md,1293
+book_note,,33797,Creating Minds: Summary and Key Ideas,creating-minds,publish,book-note/creating-minds.md,1216
+book_note,,33796,Coming to Our Senses: Summary and Key Ideas,coming-to-our-senses,publish,book-note/coming-to-our-senses.md,1286
+book_note,,33795,Coaching with the Brain in Mind: Summary and Key Ideas,coaching-with-the-brain-in-mind,publish,book-note/coaching-with-the-brain-in-mind.md,1305
+book_note,,33794,Chasing the Scream: Summary and Key Ideas,chasing-the-scream,publish,book-note/chasing-the-scream.md,1270
+book_note,,33793,Brainstorm: Summary and Key Ideas,brainstorm-the-power-and-purpose-of-the-teenage-brain,publish,book-note/brainstorm-the-power-and-purpose-of-the-teenage-brain.md,1279
+book_note,,33792,Awakenings: Summary and Key Ideas,awakenings,publish,book-note/awakenings.md,1266
+book_note,,33791,A Way of Being: Summary and Key Ideas,a-way-of-being,publish,book-note/a-way-of-being.md,1486
+book_note,,33790,A Liberated Mind: Summary and Key Ideas,a-liberated-mind,publish,book-note/a-liberated-mind.md,1196
+book_note,,33788,A Guide to Rational Living: Summary and Key Ideas,a-guide-to-rational-living,publish,book-note/a-guide-to-rational-living.md,1341
+article,author-biography,33589,"Who is A. C. Grayling? His Biography, Ideas and Life Works",a-c-grayling,publish,author-biography/Author_Biography_A_C_Grayling_S304.md,3437
+article,author-biography,33590,"Who is Alain de Botton? His Biography, Ideas and Life Works",alain-de-botton,publish,author-biography/Author_Biography_Alain_de_Botton_S304.md,3522
+article,author-biography,33591,"Who is Alan Watts? His Biography, Ideas and Life Works",alan-watts,publish,author-biography/Author_Biography_Alan_Watts_S304.md,3487
+article,author-biography,33592,"Who is Aristotle? His Biography, Ideas and Life Works",aristotle,publish,author-biography/Author_Biography_Aristotle_S304.md,3942
+article,author-biography,33593,"Who is Arthur Schopenhauer? His Biography, Ideas and Life Works",arthur-schopenhauer,publish,author-biography/Author_Biography_Arthur_Schopenhauer_S304.md,3491
+article,author-biography,33594,"Who is Bertrand Russell? His Biography, Ideas and Life Works",bertrand-russell,publish,author-biography/Author_Biography_Bertrand_Russell_S304.md,3528
+article,author-biography,33595,"Who is Brendon Burchard? His Biography, Ideas and Life Works",brendon-burchard,publish,author-biography/Author_Biography_Brendon_Burchard_S304.md,3509
+article,author-biography,33596,"Who is Brené Brown? Her Biography, Ideas and Life Works",brene-brown,publish,author-biography/Author_Biography_Brene_Brown_S304.md,3015
+article,author-biography,33597,"Who is Cal Newport? His Biography, Ideas and Life Works",cal-newport,publish,author-biography/Author_Biography_Cal_Newport_S304.md,3554
+article,author-biography,33598,"Who is Carl Jung? His Biography, Ideas and Life Works",carl-jung,publish,author-biography/Author_Biography_Carl_Jung_S304.md,3584
+article,author-biography,33599,"Who is Charles Duhigg? His Biography, Ideas and Life Works",charles-duhigg,publish,author-biography/Author_Biography_Charles_Duhigg_S304.md,3402
+article,author-biography,33600,"Who is Daniel Goleman? His Biography, Ideas and Life Works",daniel-goleman,publish,author-biography/Author_Biography_Daniel_Goleman_S304.md,3585
+article,author-biography,33601,"Who is Don Miguel Ruiz? His Biography, Ideas and Life Works",don-miguel-ruiz,publish,author-biography/Author_Biography_Don_Miguel_Ruiz_S304.md,3639
+article,author-biography,33602,"Who is Erich Fromm? His Biography, Ideas and Life Works",erich-fromm,publish,author-biography/Author_Biography_Erich_Fromm_S304.md,3654
+article,author-biography,33603,"Who is Friedrich Nietzsche? His Biography, Ideas and Life Works",friedrich-nietzsche,publish,author-biography/Author_Biography_Friedrich_Nietzsche_S304.md,3055
+article,author-biography,33604,"Who is Gabor Maté? His Biography, Ideas and Life Works",gabor-mate,publish,author-biography/Author_Biography_Gabor_Mate_S304.md,3725
+article,author-biography,33605,"Who is Gerard Egan? His Biography, Ideas and Life Works",gerard-egan,publish,author-biography/Author_Biography_Gerard_Egan_S298.md,3159
+article,author-biography,33606,"Who is Irvin Yalom? His Biography, Ideas and Life Works",irvin-yalom,publish,author-biography/Author_Biography_Irvin_Yalom_S304.md,3763
+article,author-biography,33607,"Who is James Allen? His Biography, Ideas and Life Works",james-allen,publish,author-biography/Author_Biography_James_Allen_S304.md,3865
+article,author-biography,33608,"Who is John C. Maxwell? His Biography, Ideas and Life Works",john-c-maxwell,publish,author-biography/Author_Biography_John_C_Maxwell_S304.md,3472
+article,author-biography,33609,"Who is John Dewey? His Biography, Ideas and Life Works",john-dewey,publish,author-biography/Author_Biography_John_Dewey_S304.md,3138
+article,author-biography,33610,"Who is John Stuart Mill? His Biography, Ideas and Life Works",john-stuart-mill,publish,author-biography/Author_Biography_John_Stuart_Mill_S304.md,3266
+article,author-biography,33611,"Who is Jonathan Haidt? His Biography, Ideas and Life Works",jonathan-haidt,publish,author-biography/Author_Biography_Jonathan_Haidt_S304.md,3581
+article,author-biography,33612,"Who is Joseph Campbell? His Biography, Ideas and Life Works",joseph-campbell,publish,author-biography/Author_Biography_Joseph_Campbell_S304.md,3779
+article,author-biography,33613,"Who is Kain Ramsay? His Biography, Ideas and Life Works",kain-ramsay,publish,author-biography/Author_Biography_Kain_Ramsay_S298.md,2964
+article,author-biography,33614,"Who is Leo Tolstoy? His Biography, Ideas and Life Works",leo-tolstoy,publish,author-biography/Author_Biography_Leo_Tolstoy_S304.md,3518
+article,author-biography,33615,"Who is Malcolm Gladwell? His Biography, Ideas and Life Works",malcolm-gladwell,publish,author-biography/Author_Biography_Malcolm_Gladwell_S304.md,2973
+article,author-biography,33616,"Who is Mark Manson? His Biography, Ideas and Life Works",mark-manson,publish,author-biography/Author_Biography_Mark_Manson_S304.md,3291
+article,author-biography,33617,"Who is Martin Seligman? His Biography, Ideas and Life Works",martin-seligman,publish,author-biography/Author_Biography_Martin_Seligman_S305.md,3059
+article,author-biography,33618,"Who is Nassim Nicholas Taleb? His Biography, Ideas and Life Works",nassim-nicholas-taleb,publish,author-biography/Author_Biography_Nassim_Nicholas_Taleb_S304.md,3527
+article,author-biography,33619,"Who is Plato? His Biography, Ideas and Life Works",plato,publish,author-biography/Author_Biography_Plato_S304.md,3070
+article,author-biography,33620,"Who is Robert Greene? His Biography, Ideas and Life Works",robert-greene,publish,author-biography/Author_Biography_Robert_Greene_S304.md,3512
+article,author-biography,33621,"Who is Ryan Holiday? His Biography, Ideas and Life Works",ryan-holiday,publish,author-biography/Author_Biography_Ryan_Holiday_S304.md,3220
+article,author-biography,33622,"Who is Sigmund Freud? His Biography, Ideas and Life Works",sigmund-freud,publish,author-biography/Author_Biography_Sigmund_Freud_S304.md,3014
+article,author-biography,33623,"Who is Simon Sinek? His Biography, Ideas and Life Works",simon-sinek,publish,author-biography/Author_Biography_Simon_Sinek_S305.md,2855
+article,author-biography,33624,"Who is Steven Pinker? His Biography, Ideas and Life Works",steven-pinker,publish,author-biography/Author_Biography_Steven_Pinker_S304.md,3496
+article,author-biography,33625,"Who is Steven Pressfield? His Biography, Ideas and Life Works",steven-pressfield,publish,author-biography/Author_Biography_Steven_Pressfield_S305.md,2830
+article,author-biography,33626,"Who is Thich Nhat Hanh? His Biography, Ideas and Life Works",thich-nhat-hanh,publish,author-biography/Author_Biography_Thich_Nhat_Hanh_S305.md,3690
+article,author-biography,33627,"Who is Viktor Frankl? His Biography, Ideas and Life Works",viktor-frankl,publish,author-biography/Author_Biography_Viktor_Frankl_S305.md,3775
+article,author-biography,33628,"Who is William James? His Biography, Ideas and Life Works",william-james,publish,author-biography/Author_Biography_William_James_S304.md,3204
+article,author-biography,33708,"Who is Abraham Maslow? His Biography, Ideas and Life Works",abraham-maslow,publish,author-biography/Author_Biography_Abraham_Maslow_S305.md,3871
+article,author-biography,33709,"Who is Alfred Adler? His Biography, Ideas and Life Works",alfred-adler,publish,author-biography/Author_Biography_Alfred_Adler_S305.md,3439
+article,author-biography,33710,"Who is Dan Ariely? His Biography, Ideas and Life Works",dan-ariely,publish,author-biography/Author_Biography_Dan_Ariely_S305.md,3833
+article,author-biography,33711,"Who is Erik Erikson? His Biography, Ideas and Life Works",erik-erikson,publish,author-biography/Author_Biography_Erik_Erikson_S305.md,3645
+article,author-biography,33712,"Who is Howard Gardner? His Biography, Ideas and Life Works",howard-gardner,publish,author-biography/Author_Biography_Howard_Gardner_S305.md,3391
+article,author-biography,33713,"Who is Jean Piaget? His Biography, Ideas and Life Works",jean-piaget,publish,author-biography/Author_Biography_Jean_Piaget_S305.md,3638
+article,author-biography,33714,"Who is Jordan B. Peterson? His Biography, Ideas and Life Works",jordan-b-peterson,publish,author-biography/Author_Biography_Jordan_B_Peterson_S305.md,3297
+article,author-biography,33715,"Who is Judith S. Beck? Her Biography, Ideas and Life Works",judith-s-beck,publish,author-biography/Author_Biography_Judith_S_Beck_S305.md,3413
+article,author-biography,33716,"Who is Philip Zimbardo? His Biography, Ideas and Life Works",philip-zimbardo,publish,author-biography/Author_Biography_Philip_Zimbardo_S305.md,3440
+article,author-biography,33717,"Who is Rick Hanson? His Biography, Ideas and Life Works",rick-hanson,publish,author-biography/Author_Biography_Rick_Hanson_S305.md,3646
+article,author-biography,33718,"Who is Robert Cialdini? His Biography, Ideas and Life Works",robert-cialdini,publish,author-biography/Author_Biography_Robert_Cialdini_S305.md,3687
+book_note,,10901,Man's Search for Meaning: Summary and Key Ideas,mans-search-for-meaning,publish,book-note/mans-search-for-meaning.md,1267
+faq_article,,10878,What happens in a principle-based reflective discussion?,principle-based-reflective-discussion,publish,help-answer/HELP__principle-based-reflective-discussion.md,761
+faq_article,,218,What is Achology?,what-is-achology,publish,help-answer/HELP__what-is-achology.md,825
+faq_article,,219,Do Achology courses get updated?,do-achology-courses-get-updated,publish,help-answer/HELP__do-achology-courses-get-updated.md,443
+faq_article,,220,How much does Achology cost?,how-much-does-achology-cost,publish,help-answer/HELP__how-much-does-achology-cost.md,636
+faq_article,,221,Does Achology offer a money-back guarantee?,does-achology-offer-a-money-back-guarantee,publish,help-answer/HELP__does-achology-offer-a-money-back-guarantee.md,497
+faq_article,,222,How is Achology's approach different from university psychology programmes?,achology-vs-university-psychology,publish,help-answer/HELP__achology-vs-university-psychology.md,635
+faq_article,,223,Can I transfer my Kain Ramsay Udemy course to Achology?,transfer-kain-ramsay-udemy-courses-achology,publish,help-answer/HELP__transfer-kain-ramsay-udemy-courses-achology.md,498
+faq_article,,224,"Is Achology therapy, counselling, or coaching?",is-achology-therapy-counselling-or-coaching,publish,help-answer/HELP__is-achology-therapy-counselling-or-coaching.md,494
+faq_article,,225,"What does ""lifetime access"" actually mean at Achology?",achology-lifetime-access-explained,publish,help-answer/HELP__achology-lifetime-access-explained.md,744
+faq_article,,226,Does Achology offer a free trial or introductory rate?,achology-free-trial-introductory-offer,publish,help-answer/HELP__achology-free-trial-introductory-offer.md,617
+faq_article,,227,What payment methods does Achology accept?,achology-payment-methods,publish,help-answer/HELP__achology-payment-methods.md,568
+faq_article,,228,Are there hidden fees or additional costs at Achology?,hidden-fees-additional-costs-achology,publish,help-answer/HELP__hidden-fees-additional-costs-achology.md,435
+faq_article,,229,Can I upgrade from individual courses to a bundle or Access All Areas Pass?,upgrade-courses-bundle-access-pass,publish,help-answer/HELP__upgrade-courses-bundle-access-pass.md,437
+faq_article,,230,"Does Achology offer discounts, sales, or promotional offers?",achology-discounts-sales-promotions,publish,help-answer/HELP__achology-discounts-sales-promotions.md,431
+faq_article,,231,Is Achology worth the money?,is-achology-worth-the-money,publish,help-answer/HELP__is-achology-worth-the-money.md,646
+faq_article,,232,Why is Achology priced higher than Udemy but lower than universities?,achology-pricing-versus-udemy-universities,publish,help-answer/HELP__achology-pricing-versus-udemy-universities.md,873
+faq_article,,233,How does Achology's pricing reflect its anti-gatekeeping philosophy?,achology-anti-gatekeeping-pricing,publish,help-answer/HELP__achology-anti-gatekeeping-pricing.md,618
+faq_article,,234,Why doesn't Achology promise transformation or guaranteed outcomes?,achology-no-transformation-promises,publish,help-answer/HELP__achology-no-transformation-promises.md,626
+faq_article,,235,What is Achology's refund policy?,achology-refund-policy-explained,publish,help-answer/HELP__achology-refund-policy-explained.md,546
+faq_article,,236,How do I request a refund from Achology?,how-to-request-achology-refund,publish,help-answer/HELP__how-to-request-achology-refund.md,576
+faq_article,,237,How long does an Achology refund take to process?,how-long-achology-refund-process,publish,help-answer/HELP__how-long-achology-refund-process.md,434
+faq_article,,238,What if I change my mind after the 14-day guarantee period?,achology-change-mind-after-14-day-guarantee,publish,help-answer/HELP__achology-change-mind-after-14-day-guarantee.md,464
+faq_article,,239,Can I cancel my Achology membership anytime?,cancel-achology-membership-anytime,publish,help-answer/HELP__cancel-achology-membership-anytime.md,439
+faq_article,,240,Is it possible to obtain a refund for my Achology community subscription?,achology-membership-refund,publish,help-answer/HELP__achology-membership-refund.md,423
+faq_article,,241,Can I get a refund if I disagree with the course content?,achology-refund-disagree-course-content,publish,help-answer/HELP__achology-refund-disagree-course-content.md,437
+faq_article,,242,Can I get a refund if I experience technical issues with my course?,achology-refund-technical-issues,publish,help-answer/HELP__achology-refund-technical-issues.md,427
+faq_article,,243,What does Achology membership include?,what-does-achology-membership-include,publish,help-answer/HELP__what-does-achology-membership-include.md,533
+faq_article,,244,What's the difference between Achology membership and courses?,difference-membership-courses-achology,publish,help-answer/HELP__difference-membership-courses-achology.md,636
+faq_article,,245,What is the Achology Access All Areas Pass?,achology-access-all-areas-pass,publish,help-answer/HELP__achology-access-all-areas-pass.md,479
+faq_article,,246,What are Achology school bundles and how do they work?,achology-school-bundles-how-they-work,publish,help-answer/HELP__achology-school-bundles-how-they-work.md,544
+faq_article,,247,What happens if my Achology membership payment fails?,membership-payment-fails-achology,publish,help-answer/HELP__membership-payment-fails-achology.md,418
+faq_article,,248,Can I share my Achology account or courses with others?,share-achology-account-courses,publish,help-answer/HELP__share-achology-account-courses.md,488
+faq_article,,249,Why does Achology include community access with course purchases?,why-achology-includes-community-course-prices,publish,help-answer/HELP__why-achology-includes-community-course-prices.md,497
+faq_article,,250,What happens to courses if the Achology platform changes?,platform-changes-course-access-achology,publish,help-answer/HELP__platform-changes-course-access-achology.md,492
+faq_article,,251,Can Achology suspend or terminate my access?,can-achology-suspend-terminate-access,publish,help-answer/HELP__can-achology-suspend-terminate-access.md,544
+faq_article,,252,Does Achology provide crisis or mental health support?,does-achology-provide-crisis-support,publish,help-answer/HELP__does-achology-provide-crisis-support.md,493
+faq_article,,253,Is Achology a university or degree provider?,is-achology-a-university,publish,help-answer/HELP__is-achology-a-university.md,517
+faq_article,,254,Is Achology an educational provider or a professional body?,is-achology-educational-provider-or-professional-body,publish,help-answer/HELP__is-achology-educational-provider-or-professional-body.md,487
+faq_article,,255,Who is Kain Ramsay?,who-is-kain-ramsay,publish,help-answer/HELP__who-is-kain-ramsay.md,572
+faq_article,,256,How long has Achology been operating?,how-long-achology-operating,publish,help-answer/HELP__how-long-achology-operating.md,479
+faq_article,,257,Where is Achology based?,where-is-achology-based,publish,help-answer/HELP__where-is-achology-based.md,464
+faq_article,,258,What is Achology's teaching philosophy?,achology-teaching-philosophy,publish,help-answer/HELP__achology-teaching-philosophy.md,604
+faq_article,,259,"What does Achology mean by ""applied psychology""?",what-is-applied-psychology-achology,publish,help-answer/HELP__what-is-applied-psychology-achology.md,456
+faq_article,,260,Who is Achology designed for?,who-is-achology-designed-for,publish,help-answer/HELP__who-is-achology-designed-for.md,481
+faq_article,,261,Who is Achology not designed for?,who-is-achology-not-for,publish,help-answer/HELP__who-is-achology-not-for.md,507
+faq_article,,262,Does Achology follow one school of psychology or multiple traditions?,achology-multiple-psychology-traditions,publish,help-answer/HELP__achology-multiple-psychology-traditions.md,547
+faq_article,,263,"What does Achology mean by ""principle-led education""?",principle-led-education-achology,publish,help-answer/HELP__principle-led-education-achology.md,507
+faq_article,,264,"What does Achology mean by ""personal responsibility"" in learning?",personal-responsibility-achology-learning,publish,help-answer/HELP__personal-responsibility-achology-learning.md,552
+faq_article,,265,Why does Achology emphasise personal responsibility so strongly?,why-achology-emphasises-personal-responsibility,publish,help-answer/HELP__why-achology-emphasises-personal-responsibility.md,620
+faq_article,,266,"What does Achology mean by ""becoming wiser""?",what-does-achology-mean-becoming-wiser,publish,help-answer/HELP__what-does-achology-mean-becoming-wiser.md,473
+faq_article,,267,What does Achology mean by 'psychology as practical wisdom'?,psychology-as-practical-wisdom,publish,help-answer/HELP__psychology-as-practical-wisdom.md,508
+faq_article,,268,Why does Achology treat learners as adults rather than providing hand-holding?,adult-to-adult-learning-no-hand-holding,publish,help-answer/HELP__adult-to-adult-learning-no-hand-holding.md,534
+faq_article,,269,What does Achology expect from its learners?,what-does-achology-expect-from-learners,publish,help-answer/HELP__what-does-achology-expect-from-learners.md,540
+faq_article,,270,Why doesn't Achology teach diagnostic models or psychiatric labelling?,why-achology-avoids-diagnostic-labels,publish,help-answer/HELP__why-achology-avoids-diagnostic-labels.md,414
+faq_article,,271,What manipulative pricing tactics does Achology deliberately avoid?,manipulative-pricing-tactics-achology-avoids,publish,help-answer/HELP__manipulative-pricing-tactics-achology-avoids.md,480
+faq_article,,272,Why doesn't Achology inflate credentials to seem more prestigious?,no-credential-inflation-achology,publish,help-answer/HELP__no-credential-inflation-achology.md,533
+faq_article,,273,Who runs Achology day-to-day?,who-runs-achology,publish,help-answer/HELP__who-runs-achology.md,458
+faq_article,,274,Is Achology a global learning platform?,is-achology-global-platform,publish,help-answer/HELP__is-achology-global-platform.md,522
+faq_article,,275,"Does Achology teach evidence-based models, humanistic models, or both?",achology-evidence-based-humanistic-psychology,publish,help-answer/HELP__achology-evidence-based-humanistic-psychology.md,474
+faq_article,,276,Why does Achology criticise how psychology is typically taught?,why-achology-criticizes-psychology-teaching,publish,help-answer/HELP__why-achology-criticizes-psychology-teaching.md,441
+faq_article,,277,What accessibility support does Achology offer?,achology-accessibility-requirements,publish,help-answer/HELP__achology-accessibility-requirements.md,449
+faq_article,,278,What's the difference between Kain Ramsay's Udemy and Achology courses?,kain-ramsay-udemy-vs-achology-courses,publish,help-answer/HELP__kain-ramsay-udemy-vs-achology-courses.md,469
+faq_article,,279,I bought an Achology course on Udemy: should I also join Achology?,achology-on-udemy-should-i-join-achology,publish,help-answer/HELP__achology-on-udemy-should-i-join-achology.md,468
+faq_article,,280,How does Achology compare to Udemy for psychology courses?,achology-vs-udemy-psychology-courses,publish,help-answer/HELP__achology-vs-udemy-psychology-courses.md,475
+faq_article,,281,What makes Achology different from most online learning platforms?,what-makes-achology-different,publish,help-answer/HELP__what-makes-achology-different.md,491
+faq_article,,282,Why pay for Achology when free psychology content exists on YouTube?,why-pay-achology-when-free-content-exists,publish,help-answer/HELP__why-pay-achology-when-free-content-exists.md,467
+faq_article,,283,How does Achology compare to Mindvalley?,achology-vs-mindvalley-comparison,publish,help-answer/HELP__achology-vs-mindvalley-comparison.md,499
+faq_article,,284,How does Achology compare to Coursera?,achology-vs-coursera-psychology-education,publish,help-answer/HELP__achology-vs-coursera-psychology-education.md,482
+faq_article,,285,How does Achology compare to LinkedIn Learning for psychology courses?,achology-vs-linkedin-learning-comparison,publish,help-answer/HELP__achology-vs-linkedin-learning-comparison.md,596
+faq_article,,286,How does Achology compare to Tony Robbins programmes?,achology-vs-tony-robbins-comparison,publish,help-answer/HELP__achology-vs-tony-robbins-comparison.md,485
+faq_article,,287,How does Achology compare to The School of Life?,achology-vs-school-of-life-comparison,publish,help-answer/HELP__achology-vs-school-of-life-comparison.md,488
+faq_article,,288,How does Achology compare to ICF coaching certification?,achology-vs-icf-coaching-certification,publish,help-answer/HELP__achology-vs-icf-coaching-certification.md,505
+faq_article,,289,Can Achology replace traditional therapy training?,achology-vs-therapy-training-counselling,publish,help-answer/HELP__achology-vs-therapy-training-counselling.md,502
+faq_article,,290,Self-study books vs Achology: which develops competence?,self-study-books-vs-achology-courses,publish,help-answer/HELP__self-study-books-vs-achology-courses.md,481
+faq_article,,291,How do Achology certificates compare to university psychology degrees?,achology-certificates-vs-university-degrees,publish,help-answer/HELP__achology-certificates-vs-university-degrees.md,498
+faq_article,,292,How did psychology become institutionalised and gatekept?,how-psychology-became-institutionalised,publish,help-answer/HELP__how-psychology-became-institutionalised.md,521
+faq_article,,293,What has society lost by gatekeeping psychological knowledge?,society-lost-gatekeeping-psychology,publish,help-answer/HELP__society-lost-gatekeeping-psychology.md,459
+faq_article,,294,What does my Achology certificate actually prove?,what-achology-certificate-proves,publish,help-answer/HELP__what-achology-certificate-proves.md,576
+faq_article,,295,Is Achology accredited?,is-achology-accredited-somap,publish,help-answer/HELP__is-achology-accredited-somap.md,491
+faq_article,,296,Can I use Achology courses for CPD hours?,achology-courses-cpd-hours,publish,help-answer/HELP__achology-courses-cpd-hours.md,468
+faq_article,,297,What does an Achology certification qualify me to do?,what-does-achology-certification-qualify,publish,help-answer/HELP__what-does-achology-certification-qualify.md,442
+faq_article,,298,Can I call myself a therapist after completing Achology courses?,call-myself-therapist-achology-courses,publish,help-answer/HELP__call-myself-therapist-achology-courses.md,447
+faq_article,,299,How do I evidence my CPD and learning progression?,evidence-cpd-learning-progression-achology,publish,help-answer/HELP__evidence-cpd-learning-progression-achology.md,467
+faq_article,,300,How can employers or clients verify an Achology certificate?,verify-achology-certificate,publish,help-answer/HELP__verify-achology-certificate.md,471
+faq_article,,301,What happens to my CPD credits if I leave Achology?,cpd-journey-after-leaving-achology,publish,help-answer/HELP__cpd-journey-after-leaving-achology.md,503
+faq_article,,302,Do I need to join a professional body after Achology?,join-professional-body-after-achology,publish,help-answer/HELP__join-professional-body-after-achology.md,483
+faq_article,,303,Can I put letters after my name with Achology certificates?,post-nominal-letters-achology-certificates,publish,help-answer/HELP__post-nominal-letters-achology-certificates.md,542
+faq_article,,304,Will insurance companies cover me with Achology qualifications?,insurance-coverage-achology-qualifications,publish,help-answer/HELP__insurance-coverage-achology-qualifications.md,449
+faq_article,,305,What's the difference between coaching and counselling training?,coaching-vs-counselling-credentials-difference,publish,help-answer/HELP__coaching-vs-counselling-credentials-difference.md,489
+faq_article,,306,Are Achology certificates recognised internationally?,achology-certificates-recognised-internationally,publish,help-answer/HELP__achology-certificates-recognised-internationally.md,474
+faq_article,,307,How do I explain Achology qualifications to clients who ask?,explain-achology-qualifications-to-clients,publish,help-answer/HELP__explain-achology-qualifications-to-clients.md,580
+faq_article,,308,Can I call myself an Achologist if I'm not a paying member?,achologist-title-without-membership,publish,help-answer/HELP__achologist-title-without-membership.md,447
+faq_article,,309,What can I realistically achieve through Achology courses?,realistic-outcomes-with-achology,publish,help-answer/HELP__realistic-outcomes-with-achology.md,473
+faq_article,,310,What can I actually do after completing Achology courses?,achology-course-outcomes,publish,help-answer/HELP__achology-course-outcomes.md,494
+faq_article,,311,How long does it take to see results from Achology courses?,see-real-results-how-long-achology-takes,publish,help-answer/HELP__see-real-results-how-long-achology-takes.md,445
+faq_article,,312,What if Achology courses don't work for you? What then?,what-if-achology-courses-dont-work,publish,help-answer/HELP__what-if-achology-courses-dont-work.md,431
+faq_article,,313,Can Achology courses replace a university psychology degree?,can-achology-replace-university-degrees,publish,help-answer/HELP__can-achology-replace-university-degrees.md,503
+faq_article,,314,Will employers recognise my Achology certificate?,will-employers-recognise-achology-certificate,publish,help-answer/HELP__will-employers-recognise-achology-certificate.md,433
+faq_article,,315,Will clients take my Achology certificate seriously?,will-clients-take-achology-certificate-seriously,publish,help-answer/HELP__will-clients-take-achology-certificate-seriously.md,452
+faq_article,,316,"Can I legally call myself ""certified"" with Achology credentials?",call-myself-certified-achology-credentials,publish,help-answer/HELP__call-myself-certified-achology-credentials.md,479
+faq_article,,317,Do I need supervision to practise after Achology training?,supervision-after-achology-training,publish,help-answer/HELP__supervision-after-achology-training.md,490
+faq_article,,318,Does Achology supervise peer coaching or practice sessions?,does-achology-supervise-peer-coaching,publish,help-answer/HELP__does-achology-supervise-peer-coaching.md,485
+faq_article,,319,Do I need professional indemnity insurance to practise as an Achologist?,achology-professional-indemnity-insurance,publish,help-answer/HELP__achology-professional-indemnity-insurance.md,481
+faq_article,,320,Do Achology courses actually work? What do success stories look like?,achology-success-stories-do-courses-work,publish,help-answer/HELP__achology-success-stories-do-courses-work.md,509
+faq_article,,321,What's the difference between completing a course and being competent?,course-completion-vs-competence,publish,help-answer/HELP__course-completion-vs-competence.md,570
+faq_article,,322,Why does Achology emphasise character development so much?,achology-character-development,publish,help-answer/HELP__achology-character-development.md,563
+faq_article,,323,Is Achology educational content scientific or ideology-based?,is-achology-content-scientific-or-ideological,publish,help-answer/HELP__is-achology-content-scientific-or-ideological.md,484
+faq_article,,324,Can Achology courses help with personal struggles and challenges?,can-achology-help-personal-struggles,publish,help-answer/HELP__can-achology-help-personal-struggles.md,475
+faq_article,,325,Can Achology help me change career into coaching or mentoring?,achology-career-change-coaching-mentoring,publish,help-answer/HELP__achology-career-change-coaching-mentoring.md,493
+faq_article,,326,How much can I earn as an Achology-trained coach?,how-much-do-achology-coaches-earn,publish,help-answer/HELP__how-much-do-achology-coaches-earn.md,488
+faq_article,,327,How long do Achology courses take to complete?,how-long-achology-courses-take-timelines,publish,help-answer/HELP__how-long-achology-courses-take-timelines.md,572
+faq_article,,328,Can I download the materials from Achology courses?,download-achology-course-materials,publish,help-answer/HELP__download-achology-course-materials.md,459
+faq_article,,329,How do Achology courses work? What's the learning experience like?,how-achology-courses-work-self-paced,publish,help-answer/HELP__how-achology-courses-work-self-paced.md,507
+faq_article,,330,What's inside an Achology course module? What do you get?,inside-achology-course-modules-breakdown,publish,help-answer/HELP__inside-achology-course-modules-breakdown.md,531
+faq_article,,331,Do Achology courses have prerequisites? Can complete beginners start?,achology-course-prerequisites-requirements,publish,help-answer/HELP__achology-course-prerequisites-requirements.md,472
+faq_article,,332,What's the difference between Achology Masterclasses and practitioner courses?,masterclasses-vs-practitioner-courses-differences,publish,help-answer/HELP__masterclasses-vs-practitioner-courses-differences.md,414
+faq_article,,333,Can I revisit Achology courses after completing them?,revisit-achology-courses-after-completion,publish,help-answer/HELP__revisit-achology-courses-after-completion.md,431
+faq_article,,334,Can I study multiple Achology courses at the same time?,study-multiple-achology-courses-simultaneously,publish,help-answer/HELP__study-multiple-achology-courses-simultaneously.md,438
+faq_article,,335,Why does Achology emphasise peer learning alongside expert teaching?,achology-peer-learning-community-teaches,publish,help-answer/HELP__achology-peer-learning-community-teaches.md,487
+faq_article,,336,Why does Achology emphasise deep learning over fast certification?,slow-deep-learning-rejects-fast-certification,publish,help-answer/HELP__slow-deep-learning-rejects-fast-certification.md,477
+faq_article,,337,What etiquette should I follow in live practice sessions?,achology-live-practice-session-etiquette,publish,help-answer/HELP__achology-live-practice-session-etiquette.md,520
+faq_article,,338,What if I find Achology course content offensive or challenging?,achology-content-offensive-emotionally-challenging,publish,help-answer/HELP__achology-content-offensive-emotionally-challenging.md,450
+faq_article,,339,"I've completed a course, but haven't changed: what went wrong?",completed-achology-course-nothing-changed,publish,help-answer/HELP__completed-achology-course-nothing-changed.md,464
+faq_article,,340,Is Achology right for someone who is emotionally vulnerable?,is-achology-right-emotionally-vulnerable,publish,help-answer/HELP__is-achology-right-emotionally-vulnerable.md,470
+faq_article,,341,Can I pay for Achology courses in instalments?,pay-instalments-achology-courses,publish,help-answer/HELP__pay-instalments-achology-courses.md,506
+faq_article,,342,What mentoring opportunities are included with membership?,mentoring-opportunities-achology-membership,publish,help-answer/HELP__mentoring-opportunities-achology-membership.md,495
+faq_article,,343,How do Achology mentorship sessions differ from coaching?,achology-mentorship-vs-coaching-difference,publish,help-answer/HELP__achology-mentorship-vs-coaching-difference.md,510
+faq_article,,344,Are Achology mentorship sessions recorded or replayable?,mentorship-sessions-recorded-achology,publish,help-answer/HELP__mentorship-sessions-recorded-achology.md,470
+faq_article,,345,How do I get the most value from mentorship sessions?,get-value-achology-mentorship-sessions,publish,help-answer/HELP__get-value-achology-mentorship-sessions.md,524
+faq_article,,346,Does Achology membership include free coaching?,achology-membership-free-coaching-included,publish,help-answer/HELP__achology-membership-free-coaching-included.md,559
+faq_article,,347,How do I participate in group discussions and events?,how-to-participate-achology-discussions-events,publish,help-answer/HELP__how-to-participate-achology-discussions-events.md,492
+faq_article,,348,What's the difference between Achology discussion spaces and groups?,achology-discussion-spaces-groups-events,publish,help-answer/HELP__achology-discussion-spaces-groups-events.md,457
+faq_article,,349,What is a case-study based discussion group?,achology-case-study-discussion-groups,publish,help-answer/HELP__achology-case-study-discussion-groups.md,488
+faq_article,,350,What kinds of live events happen inside Achology?,achology-live-events-types,publish,help-answer/HELP__achology-live-events-types.md,562
+faq_article,,351,What are Achologist-Led Tutorials (ALTs)?,achologist-led-tutorials-alts,publish,help-answer/HELP__achologist-led-tutorials-alts.md,519
+faq_article,,352,What are Skill Development Workshops at Achology?,achology-skill-development-workshops,publish,help-answer/HELP__achology-skill-development-workshops.md,499
+faq_article,,353,What are coaching competency review sessions at Achology?,achology-coaching-competency-review-sessions,publish,help-answer/HELP__achology-coaching-competency-review-sessions.md,554
+faq_article,,354,How do I choose the right Achology event for my level?,choose-right-achology-event-level,publish,help-answer/HELP__choose-right-achology-event-level.md,504
+faq_article,,355,Do I need to be enrolled on a course to attend Achology workshops?,achology-course-required-attend-workshops,publish,help-answer/HELP__achology-course-required-attend-workshops.md,565
+faq_article,,356,What is the recommended practice pathway inside Achology?,achology-recommended-practice-pathway,publish,help-answer/HELP__achology-recommended-practice-pathway.md,513
+faq_article,,357,How do I build real competence with Achology?,build-real-competence-achology,publish,help-answer/HELP__build-real-competence-achology.md,486
+faq_article,,358,How does Achology certification relate to competence development?,achology-certification-practice-competence,publish,help-answer/HELP__achology-certification-practice-competence.md,489
+faq_article,,359,Can Achology members host their own workshops or events?,achology-members-host-workshops-events,publish,help-answer/HELP__achology-members-host-workshops-events.md,474
+faq_article,,360,How do I become a Master Achologist?,become-a-master-achologist,publish,help-answer/HELP__become-a-master-achologist.md,632
+faq_article,,361,How do I RSVP to and join Achology live events?,rsvp-join-achology-live-events,publish,help-answer/HELP__rsvp-join-achology-live-events.md,472
+faq_article,,362,Can I download Achology course content for offline viewing?,downloading-achology-content,publish,help-answer/HELP__downloading-achology-content.md,446
+faq_article,,363,Can't log in to the Achology community?,cant-log-in-achology-community,publish,help-answer/HELP__cant-log-in-achology-community.md,529
+faq_article,,364,Achology password reset email not arriving?,achology-password-reset-email-not-arriving,publish,help-answer/HELP__achology-password-reset-email-not-arriving.md,464
+faq_article,,365,"Not getting Achology notifications, or getting too many?",fix-achology-community-notification-problems,publish,help-answer/HELP__fix-achology-community-notification-problems.md,458
+faq_article,,366,Is the audio or the camera not working in an Achology live session?,fix-audio-video-achology-live-sessions,publish,help-answer/HELP__fix-audio-video-achology-live-sessions.md,434
+faq_article,,367,Can't send or receive direct messages in the Achology community?,cant-send-receive-messages-achology-community,publish,help-answer/HELP__cant-send-receive-messages-achology-community.md,490
+faq_article,,368,Can't see your Achology course or community space?,cant-see-achology-course-space-community,publish,help-answer/HELP__cant-see-achology-course-space-community.md,507
+faq_article,,369,Achology invite link not working?,achology-invite-link-not-working,publish,help-answer/HELP__achology-invite-link-not-working.md,478
+faq_article,,370,What should I include in an Achology support request?,what-to-include-achology-support-request,publish,help-answer/HELP__what-to-include-achology-support-request.md,503
+faq_article,,371,Which browsers and devices work best with the Achology community?,best-browsers-devices-achology-community,publish,help-answer/HELP__best-browsers-devices-achology-community.md,541
+faq_article,,372,How do I contact Achology support?,how-to-contact-achology-support,publish,help-answer/HELP__how-to-contact-achology-support.md,437
+faq_article,,373,How do I join a live Achology community event?,how-to-join-live-achology-community-event,publish,help-answer/HELP__how-to-join-live-achology-community-event.md,455
+faq_article,,374,"What is Circle, and why does Achology use it?",what-is-circle-achology-community,publish,help-answer/HELP__what-is-circle-achology-community.md,477
+faq_article,,375,How do I download the Achology community app?,download-achology-community-app,publish,help-answer/HELP__download-achology-community-app.md,444
+faq_article,,376,How do I set up my Achology community profile?,set-up-achology-community-profile,publish,help-answer/HELP__set-up-achology-community-profile.md,495
+faq_article,,377,How do I manage my Achology community notifications?,manage-achology-community-notifications,publish,help-answer/HELP__manage-achology-community-notifications.md,427
+faq_article,,378,How do I create posts in the Achology community?,create-posts-achology-community,publish,help-answer/HELP__create-posts-achology-community.md,516
+faq_article,,379,Can I direct message other Achology members?,direct-message-achology-members,publish,help-answer/HELP__direct-message-achology-members.md,493
+faq_article,,380,Where can I find the resources for my course?,find-achology-course-resources,publish,help-answer/HELP__find-achology-course-resources.md,454
+faq_article,,381,What personal data does Achology collect about me?,what-personal-data-achology-collects,publish,help-answer/HELP__what-personal-data-achology-collects.md,554
+faq_article,,382,Does Achology sell my personal data to third parties?,does-achology-sell-personal-data,publish,help-answer/HELP__does-achology-sell-personal-data.md,457
+faq_article,,383,Who does Achology share my personal data with?,who-does-achology-share-personal-data-with,publish,help-answer/HELP__who-does-achology-share-personal-data-with.md,561
+faq_article,,384,How long does Achology keep my personal data?,how-long-achology-keeps-personal-data,publish,help-answer/HELP__how-long-achology-keeps-personal-data.md,513
+faq_article,,385,Can I request the deletion of my Achology account and data?,delete-achology-account-and-data,publish,help-answer/HELP__delete-achology-account-and-data.md,467
+faq_article,,386,Does Achology use automated decision-making or profiling?,achology-automated-decision-making-profiling,publish,help-answer/HELP__achology-automated-decision-making-profiling.md,567
+faq_article,,387,What are my legal rights as an Achology customer?,achology-customer-legal-rights-uk-consumer-law,publish,help-answer/HELP__achology-customer-legal-rights-uk-consumer-law.md,454
+faq_article,,388,What law governs Achology's terms and conditions?,what-law-governs-achology-terms,publish,help-answer/HELP__what-law-governs-achology-terms.md,436
+faq_article,,389,What happens if Achology updates a course I've bought?,achology-updates-course-already-purchased,publish,help-answer/HELP__achology-updates-course-already-purchased.md,504
+faq_article,,390,How do Achology's trust and legal policies work together?,achology-trust-legal-policies-work-together,publish,help-answer/HELP__achology-trust-legal-policies-work-together.md,493
+faq_article,,391,Is Achology responsible for advice I get from other members?,achology-responsible-community-member-advice,publish,help-answer/HELP__achology-responsible-community-member-advice.md,512
+faq_article,,392,Can I share my Achology account or login with someone else?,share-my-achology-account-login,publish,help-answer/HELP__share-my-achology-account-login.md,429
+faq_article,,393,I found Achology content on a torrent site. Is it legitimate?,achology-course-piracy-copyright,publish,help-answer/HELP__achology-course-piracy-copyright.md,492
+faq_article,,394,Can I share or redistribute Achology course content?,achology-copyright-sharing-course-content,publish,help-answer/HELP__achology-copyright-sharing-course-content.md,438
+faq_article,,395,Does Achology invite guest speakers?,guest-speakers-policy,publish,help-answer/HELP__guest-speakers-policy.md,472
+faq_article,,396,Is Achology suitable for beginners with no background in psychology?,is-achology-suitable-for-beginners,publish,help-answer/HELP__is-achology-suitable-for-beginners.md,492
+faq_article,,397,Where should I start with Achology?,where-should-i-start-with-achology,publish,help-answer/HELP__where-should-i-start-with-achology.md,515
+faq_article,,398,Should I get membership first or buy a course first?,membership-first-or-course-first,publish,help-answer/HELP__membership-first-or-course-first.md,477
+faq_article,,399,Which course should I take first as a complete beginner?,first-course-complete-beginner,publish,help-answer/HELP__first-course-complete-beginner.md,495
+faq_article,,400,I'm overwhelmed by the options. How do I choose?,overwhelmed-by-achology-options,publish,help-answer/HELP__overwhelmed-by-achology-options.md,495
+faq_article,,401,Do I need to complete courses in a specific order?,achology-course-order-sequence,publish,help-answer/HELP__achology-course-order-sequence.md,570
+faq_article,,402,Do I need prior qualifications to study at Achology?,prior-qualifications-needed-achology,publish,help-answer/HELP__prior-qualifications-needed-achology.md,540
+faq_article,,403,Is there homework or assessment in Achology courses?,homework-assessment-achology-courses,publish,help-answer/HELP__homework-assessment-achology-courses.md,454
+faq_article,,404,How do I navigate the Achology community?,navigate-achology-community-guide,publish,help-answer/HELP__navigate-achology-community-guide.md,465
+faq_article,,405,How does Achology approach disagreement and open discussion?,achology-disagreement-open-discussion,publish,help-answer/HELP__achology-disagreement-open-discussion.md,510
+faq_article,,406,What is Achology's peer-learning culture like?,achology-peer-learning-culture,publish,help-answer/HELP__achology-peer-learning-culture.md,642
+faq_article,,407,How do I ask a question in Achology and get useful answers?,ask-questions-achology-community,publish,help-answer/HELP__ask-questions-achology-community.md,503
+faq_article,,408,How do I find Achology members with similar interests?,find-achology-members-similar-interests,publish,help-answer/HELP__find-achology-members-similar-interests.md,477
+faq_article,,409,What are the Achology moderation rules and standards?,achology-community-rules-moderation,publish,help-answer/HELP__achology-community-rules-moderation.md,491
+faq_article,,410,What should I do if an Achology discussion feels unsafe?,achology-discussion-boundary-feels-unsafe,publish,help-answer/HELP__achology-discussion-boundary-feels-unsafe.md,524
+faq_article,,411,What are Achology's seven schools and how do they differ?,seven-schools-achology-curriculum-explained,publish,help-answer/HELP__seven-schools-achology-curriculum-explained.md,562
+faq_article,,412,Are Achology courses available in other languages?,achology-courses-other-languages,publish,help-answer/HELP__achology-courses-other-languages.md,499
+faq_article,,413,Does Achology offer partnerships or collaborations?,does-achology-offer-partnerships-collaborations,publish,help-answer/HELP__does-achology-offer-partnerships-collaborations.md,498
+faq_article,,414,Can I become an instructor or contribute content to Achology?,become-instructor-contribute-content-achology,publish,help-answer/HELP__become-instructor-contribute-content-achology.md,478
+faq_article,,415,Does Achology have an affiliate or referral programme?,become-an-achology-affiliate,publish,help-answer/HELP__become-an-achology-affiliate.md,443
+faq_article,,416,How do I request a media opportunity with Achology?,achology-media-press-interview-requests,publish,help-answer/HELP__achology-media-press-interview-requests.md,420
+faq_article,,417,Can I use Achology content or branding in my own materials?,using-achology-content-branding-materials,publish,help-answer/HELP__using-achology-content-branding-materials.md,550
+faq_article,,10009,What are the six Achology CPD member levels?,six-achology-cpd-statuses,publish,help-answer/HELP__six-achology-cpd-statuses.md,721
+faq_article,,10010,What does it mean to be an Achologist Adept?,achologist-adept,publish,help-answer/HELP__achologist-adept.md,458
+faq_article,,10011,"What is a Senior Achologist, and what are the two levels?",senior-achologist-two-levels,publish,help-answer/HELP__senior-achologist-two-levels.md,452
+faq_article,,10012,How can I advance from Achology Member to Achologist?,progress-member-achologist,publish,help-answer/HELP__progress-member-achologist.md,448
+faq_article,,10013,What are my requirements to maintain Master Achologist status?,have-each-year-keep-master-achologist,publish,help-answer/HELP__have-each-year-keep-master-achologist.md,433
+faq_article,,10014,What are VALTS learning sessions within Achology?,valts-achology,publish,help-answer/HELP__valts-achology.md,644
+faq_article,,10015,"What are PALS in Achology, and how can I earn them?",pals-earn-them,publish,help-answer/HELP__pals-earn-them.md,487
+faq_article,,10016,"What are CIPS in Achology, and when should I obtain them?",cips-when-need-them,publish,help-answer/HELP__cips-when-need-them.md,511
+faq_article,,10017,"Do I get a CPD credit for hosting a session, or just for attending?",earn-cpd-credit-hosting-session-only,publish,help-answer/HELP__earn-cpd-credit-hosting-session-only.md,482
+faq_article,,10018,What is the duration of an Achology VALTS session?,long-achology-valts-session,publish,help-answer/HELP__long-achology-valts-session.md,707
+faq_article,,10019,How many times can I coach the same person for CIPS credit?,many-times-coach-same-person-cips,publish,help-answer/HELP__many-times-coach-same-person-cips.md,504
+faq_article,,10020,How do I offer free coaching to someone outside Achology?,offer-free-coaching-someone-outside-achology,publish,help-answer/HELP__offer-free-coaching-someone-outside-achology.md,539
+faq_article,,10021,Who is responsible for verifying my Achology CPD claims?,who-verifies-achology-cpd-claims,publish,help-answer/HELP__who-verifies-achology-cpd-claims.md,586
+faq_article,,10022,Is my personal progress checklist considered part of my CPD record?,personal-progress-checklist-count-official-cpd,publish,help-answer/HELP__personal-progress-checklist-count-official-cpd.md,493
+faq_article,,10023,Is it necessary to redo the Code of Ethics training annually?,have-retake-code-ethics-training-every,publish,help-answer/HELP__have-retake-code-ethics-training-every.md,543
+faq_article,,10024,How do a certificate of completion and a certificate of achievement differ?,difference-between-certificate-completion-certificate-achievement,publish,help-answer/HELP__difference-between-certificate-completion-certificate-achievement.md,482
+faq_article,,10025,Is Achology listed on the UK Register of Learning Providers?,achology-uk-register-learning-providers,publish,help-answer/HELP__achology-uk-register-learning-providers.md,487
+faq_article,,10026,What is the Achology Code of Character and Conduct (CCaC)?,achology-code-character-conduct-ccac,publish,help-answer/HELP__achology-code-character-conduct-ccac.md,541
+faq_article,,10027,What are Achology's 9 Code of Character and Conduct virtues?,nine-ccac-virtues,publish,help-answer/HELP__nine-ccac-virtues.md,529
+faq_article,,10028,"How do the Code of Ethics, CCaC, and Community Code of Conduct differ?",difference-between-code-ethics-ccac-community,publish,help-answer/HELP__difference-between-code-ethics-ccac-community.md,586
+faq_article,,10029,"How many CCaC sessions do I need to complete, and how often?",many-ccac-sessions-need-complete-often,publish,help-answer/HELP__many-ccac-sessions-need-complete-often.md,526
+faq_article,,10030,What do the green and red CCaC statuses indicate?,ccac-green-red-status-mean,publish,help-answer/HELP__ccac-green-red-status-mean.md,482
+faq_article,,10031,Why does Achology's character code draw from Aristotle?,achology-s-character-code-based-aristotle,publish,help-answer/HELP__achology-s-character-code-based-aristotle.md,544
+faq_article,,10032,What are the five principles of Achology's community?,achology-s-five-community-principles,publish,help-answer/HELP__achology-s-five-community-principles.md,600
+faq_article,,10033,What are the suggested character traits of an Achologist?,character-traits-define-achologist,publish,help-answer/HELP__character-traits-define-achologist.md,490
+faq_article,,10034,What is the Achology Code of Ethics (Ethical Conduct)?,achology-code-ethics,publish,help-answer/HELP__achology-code-ethics.md,554
+faq_article,,10035,What are the ten core value commitments of Achology?,achology-s-ten-value-commitments,publish,help-answer/HELP__achology-s-ten-value-commitments.md,585
+faq_article,,10036,What are Achology's nine value-based principles?,achology-s-nine-value-based-principles,publish,help-answer/HELP__achology-s-nine-value-based-principles.md,652
+faq_article,,10037,What are the seven signs of maturity that Achology teaches?,seven-marks-maturity-achology-teaches,publish,help-answer/HELP__seven-marks-maturity-achology-teaches.md,571
+faq_article,,10038,What are my commitments as a practising Achologist?,commit-practising-achologist,publish,help-answer/HELP__commit-practising-achologist.md,575
+faq_article,,10039,Which professional standards apply to a trainee Achologist?,standards-apply-trainee-achologists,publish,help-answer/HELP__standards-apply-trainee-achologists.md,520
+faq_article,,10040,"Is there a free Achology membership tier, and what does it include?",there-free-achology-membership-include,publish,help-answer/HELP__there-free-achology-membership-include.md,503
+faq_article,,10041,How do monthly and annual Achology memberships differ?,difference-between-monthly-annual-achology-membership,publish,help-answer/HELP__difference-between-monthly-annual-achology-membership.md,612
+faq_article,,10042,My course included free membership. What happens when it ends?,course-included-free-membership-happens-when,publish,help-answer/HELP__course-included-free-membership-happens-when.md,514
+faq_article,,10043,"If I request a refund on a course, will I lose my free membership?",refund-course-complimentary-membership-cancel-too,publish,help-answer/HELP__refund-course-complimentary-membership-cancel-too.md,501
+faq_article,,10044,What is the total number of courses offered by Achology?,many-courses-achology-offer-total,publish,help-answer/HELP__many-courses-achology-offer-total.md,428
+faq_article,,10045,What courses are part of each Achology school bundle?,which-courses-included-each-school-bundle,publish,help-answer/HELP__which-courses-included-each-school-bundle.md,675
+faq_article,,10046,Are there Achology courses that are included in multiple bundles?,any-achology-courses-appear-more-than,publish,help-answer/HELP__any-achology-courses-appear-more-than.md,623
+faq_article,,10047,What are the three learning paths offered by Achology?,achology-s-three-learning-paths,publish,help-answer/HELP__achology-s-three-learning-paths.md,438
+faq_article,,10048,What does the DiMAP course upgrade include?,dimap-course-upgrade,publish,help-answer/HELP__dimap-course-upgrade.md,460
+faq_article,,10049,Which Achology events qualify for accreditation credit?,which-achology-events-earn-accreditation-credit,publish,help-answer/HELP__which-achology-events-earn-accreditation-credit.md,514
+faq_article,,10050,What steps should I follow to organise my own Achology event?,host-own-achology-event,publish,help-answer/HELP__host-own-achology-event.md,421
+faq_article,,10051,What is the process for submitting a CPD claim after participating?,submit-cpd-credit-claim-hosting-attending,publish,help-answer/HELP__submit-cpd-credit-claim-hosting-attending.md,485
+faq_article,,10052,What does the Coaching HOT Seat entail?,coaching-hot-seat,publish,help-answer/HELP__coaching-hot-seat.md,463
+faq_article,,10053,With which Achology company am I formally contracting?,which-achology-company-am-actually-contracting,publish,help-answer/HELP__which-achology-company-am-actually-contracting.md,483
+faq_article,,10054,What are the registered company details of Achology?,achology-s-registered-company-details,publish,help-answer/HELP__achology-s-registered-company-details.md,486
+faq_article,,10055,What are the major milestones in Achology's history?,key-milestones-achology-s-history,publish,help-answer/HELP__key-milestones-achology-s-history.md,489
+faq_article,,10056,What exactly is the Achology Knowledge Hub?,achology-knowledge-hub,publish,help-answer/HELP__achology-knowledge-hub.md,676
+faq_article,,10057,Is the Achology Knowledge Hub available for free to read?,achology-knowledge-hub-free-read,publish,help-answer/HELP__achology-knowledge-hub-free-read.md,509
