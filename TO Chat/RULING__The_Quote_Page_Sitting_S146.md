@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): acted on. Written home: DSRD 9 new §40 Quote Page Layout (hero square and bubbles, the action-row hairline, no Related Further Reading, template approved) and §22.8 (the side panel's rules). No board card moved. Archived.
+
 Needs from Chat: write Kain's Quote page ruling into the quote page's owning record.
 
 # RULING: the Quote page sitting (S146, theme session)

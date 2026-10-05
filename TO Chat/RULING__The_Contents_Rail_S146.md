@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): acted on. Written home: DSRD 9 §22.8 (every contents highlight the same width, with the side panel's rules). No board card moved. Archived.
+
 Needs from Chat: write Kain's ruling on the table of contents into the component's owning record (the right-hand contents card shared by articles, book notes and quote pages).
 
 # RULING: every contents highlight is the same width (S146, theme session)
