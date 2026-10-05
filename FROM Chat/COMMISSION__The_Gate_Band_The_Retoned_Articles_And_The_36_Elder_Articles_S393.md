@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. Kain's word came: 32 of the 36 elders published 1 Oct; the 4 at 85 are held for Cowork's retitles, carried by REPLY__Your_Two_Later_S145_Reports_And_The_Duplicate_Drafts_S395 and NOTE__The_Alt_Line_Is_Ruled_Push_The_53_S398.
+
 > CODE DISPOSITION, S143: WAITS ON Kain's word on whether the 36 elder drafts (post IDs 39652 to 39687, Rank Math 81 to 85, no pictures) publish in his bulk publish, and on the post dates being written into the records afterwards. Items 1, 2 and 4 are done and read back; item 3 is imported and gated, not published (the wall refuses the type); see REPORT__The_Gate_Band_The_Retoned_Articles_And_The_36_Elders_S143.
 
 **Needs from Code:** (1) widen the hub question article gate, (2) push Cowork's retoned bodies, (3) import and publish the 36 elder articles, (4) fix one name key. Run it end to end; skip and log anything you cannot do. Items 1 to 3 are inside Kain's rulings; item 4 is Chat's call.

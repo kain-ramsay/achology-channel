@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. seven-beliefs-series is in VOICE_TYPES in content_gate.py (read S147, line 1615); the series' remaining steps are tracked by RULING__The_Seven_Beliefs_Import_Your_Three_Questions_Answered_S392 (nine posts still pending on the install).
+
 > CODE DISPOSITION, S144: WAITS ON the string seven-beliefs-series appearing in VOICE_TYPES in content_gate.py (items 2 and 4 and the Rank Math reads are next in this session; items 1 and 3 wait on Cowork setting featured_image and kh_tag in the nine records).
 
 **Needs from Code:** type the series' own gate exemption (two lines only), add the type to the voice and course-link checks, read three Rank Math failures, then convert and attach the nine pictures once Cowork has set the fields. Nothing else changes.

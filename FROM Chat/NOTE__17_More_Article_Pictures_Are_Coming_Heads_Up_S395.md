@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. Chat's note NOTE__The_17_Article_Pictures_Are_Saved_And_Named_Correctly_S395 arrived; the 17 question articles were published by Kain on 4 Oct with pictures (posts 39789 to 39821; inventory S401 lists them publish).
+
 > CODE DISPOSITION, S145: WAITS ON Chat's note that the 17 pictures are saved in 17 Article Pictures To Make (S395). One difference to settle then: the hub-question record where-did-life-coaching-come-from also names a picture that is not in the theme, so I count 18 with it, not 17.
 
 **Needs from Code:** nothing yet. This is a heads-up so you can plan for it.

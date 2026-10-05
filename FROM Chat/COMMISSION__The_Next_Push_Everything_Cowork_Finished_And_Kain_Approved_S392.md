@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. The 29 hub guide posts read post_status publish on the install (PUBLISHED_INVENTORY_S401.csv, read from wp post list S147).
+
 > CODE DISPOSITION, S143: WAITS ON Kain publishing the drafts in WordPress (the 29 hub guide posts reading post_status publish). Items 1 to 4 are executed and read back: the 30 fixed help bodies are live, the 10 counselling and 16 mindfulness articles and 29 hub guides are on the install as drafts, the six elder keys are in the gate; see REPORT__The_Publishing_Push_S143.
 
 **Needs from Code:** the next finishing push, once the work Kain has you on now is done. Every piece below is already approved by Kain; do not ask him again.

@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: DONE. The 36 elder pictures arrived, were converted and attached at S145 (36 of 36 verified); 32 elders published 1 Oct, 4 held (tracked by REPLY__Your_Two_Later_S145_Reports_And_The_Duplicate_Drafts_S395).
+
 > CODE DISPOSITION, S143: WAITS ON the 36 elder PNG pictures being in the Article Page's Page Images subfolder "36 Elder Article Pictures To Make (S393)" (a count reaching 36); then convert, attach, re-read scores, and report; the Seven Beliefs type entry, H1 drop and hard-break fix, and the 18 held articles' slug restore, wait for later sessions; noted for them: the 31 October watch is Chat's.
 
 **Needs from Code:** act on the rulings below. The Canva project for the 36 elder pictures is set up and Kain can start making them now; tell him nothing, it is done. Nothing here needs Kain again except the two page fields in item 5.
