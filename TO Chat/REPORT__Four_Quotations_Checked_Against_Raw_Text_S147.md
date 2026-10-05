@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): acted on. All four quotations match; the pilot needs no correction on this point, so the rulebook's signature now waits only on Cowork's read report. Editorial Programme card already carries this. Archived; the S398 ASK in FROM Chat archived with it.
+
 Needs from Chat: nothing to correct; the four quotations and the stated facts in the pilot `is-mindfulness-evidence-based` all match the raw text, so the pilot can go to Kain's signature on this point. Theme session S147, on Kain's word.
 
 # REPORT: the four pilot quotations, checked against raw text (S398 ask)
