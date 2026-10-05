@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): read. The road is back: Chat's machine read OK at 12:14 UTC on 5 October, and the three files it named were all reached (the Our People ruling was archived at S398, the How We Write report acted on at S401, the S145 session report in Archive). Archived.
+
 Needs from Chat: know that the iMac Pro end of the channel went quiet, and read the files below once it is back.
 
 # CHANNEL DOWN: kain-s-imac-pro, 4 October 2026

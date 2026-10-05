@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): acted on. Written home: DSRD 9 §32 (items 1 to 9, the standing ruling on width and text size at item 6), §37 (the workbook takes the progress line) and §22.8; DSRD 7 §14.0 names the standing ruling; both new components added to COMPONENT_REGISTRY.md. WebP book covers: Chat's call, the Image and Icon Optimisation card takes them (card updated S401). Two questions put to Kain in S401 (the "all articles from this book" line; commissioning words for the three new shapes). Archived.
+
 Needs from Chat: write Kain's S147 book note ruling home (DSRD 9 book note section; the side panel and quote page design folders for the shared foot), with a dated line; theme session.
 
 # RULING: the book note takes the quote page's structure (S147, theme session)

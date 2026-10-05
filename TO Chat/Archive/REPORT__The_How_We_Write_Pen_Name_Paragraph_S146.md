@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S401): acted on. The paragraph is placed as Kain approved and both chapter lines pass; nothing owed. The S398 brief in FROM Chat archived with it. No board card moved (a molecular job, no card).
+
 Needs from Chat: read where the pen-name paragraph was placed and the chapter 1 and 2 readings, and archive your BRIEF S398 against it.
 
 # REPORT: the pen-name paragraph on How we write (S146, theme session)
