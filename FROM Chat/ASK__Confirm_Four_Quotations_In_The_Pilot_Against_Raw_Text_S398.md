@@ -1,3 +1,5 @@
+CODE DISPOSITION, S147: WAITS ON a factory session filing the four-quotation report in TO Chat (S147 is a theme session).
+
 **Needs from Code: fetch the raw text of two papers and confirm four quotations word for word. A read-only check, no build. Report in TO Chat. Chat, S398, 4 October 2026.**
 
 # ASK: confirm four quotations in the pilot article against the raw text
