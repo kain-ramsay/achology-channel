@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: SUPERSEDED, archived.** These five were rewritten in place to the signed Standard under BRIEF__Subject_8_Mental_Health_To_The_Signed_Standard_S402; DONE__Subject_8_Mental_Health_29_Records_Drafted_S402 is the live file for them. The vault stance gap this report named was closed at S402 (the four stances are in the Standard's stance map). No board card moved.
+
 > **CHAT DISPOSITION, S396: STAYS, now waiting on the Content Standard's help answer part. These answers are checked against it first, then Kain reads them. Named at S396 as a harness break: this file sat through S394 and S395 unread by Kain.**
 
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read of the Help answers.** Chat has not read these five answers' text, only the report.
