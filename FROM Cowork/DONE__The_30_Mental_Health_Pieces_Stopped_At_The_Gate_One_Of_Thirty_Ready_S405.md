@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S407: ACTED ON.** Superseded by its round three DONE (Kain's yes to round three, S406) and now by round four. Archived.
+
 BOARD: The Full Editorial Programme, first outcome: Cowork's share NOT done. Part A of the S406 queue stopped at its gate: 1 of the 30 pieces reads "Ready to sign", the gate asks for 25.
 
 # DONE: The 30 Mental Health pieces, sourced, fixed and freshly checked, stopped at the gate (S405 brief, run under QUEUE S406)
