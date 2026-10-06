@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S404: ARCHIVED, superseded. Every answer in this report was reworked to the signed Standard in Cowork's S402 Job 2 (DONE__The_Other_53_Help_Answers_To_The_Signed_Standard_S402), whose check is what now carries them. No board card moved.**
+
 > **CHAT DISPOSITION, S396: STAYS, now waiting on the Content Standard's help answer part. These answers are checked against it first, then Kain reads them. Named at S396 as a harness break: this file sat through S394 and S395 unread by Kain.**
 
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Kain's read, and the content standard Chat writes first.** 6 of these 13 are at or under 650 words, against Kain's ruling of S393. Chat has not read the answers' text, only this report.
