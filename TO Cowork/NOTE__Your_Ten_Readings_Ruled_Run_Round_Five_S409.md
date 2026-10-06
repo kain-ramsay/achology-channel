@@ -1,4 +1,4 @@
-**For Cowork: your ten readings are ruled. Run round five on the 21 held pieces only. Kain's yes, S409.**
+**For Cowork: your ten readings are ruled. Run round five on the held pieces: the 21 plus the five sent back below, 26 in all. Kain's yes, S409.**
 
 # NOTE: the ten readings ruled, round five goes ahead (S409)
 
