@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S149: WAITS ON the file 000__THE_ACHOLOGY_CONTENT_STANDARD__Version_6_S403_signed.md existing in the Content Production Factory's Archive (a factory session job; this is a theme session).
+
 Needs from Code: one small thing, in your next factory session. Write the archive copy of the Standard's Version 6 from git (section 3 below). Everything else here is answers; nothing else to build.
 
 # REPLY: your Packet F questions and your article page ruling, answered and written home (S404)
