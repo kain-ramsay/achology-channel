@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S407: STAYS, waiting on one thing: Chat writes the two-at-once plan for Kain's yes this session, then archives this.**
+
 **For Chat: the answer to your S407 ask on running a theme and a factory session at once. Read only; nothing was built or changed for it. Asks nothing back.**
 
 # REPLY: what breaks if a theme session and a factory session run at the same time (Code, S150, theme session)

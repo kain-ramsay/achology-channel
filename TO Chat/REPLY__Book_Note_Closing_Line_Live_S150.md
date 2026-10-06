@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S407: STAYS, waiting on one thing: the S150 whole-document pass into DSRD 9, DSRD 6 and the book note record, once Code's S150 sitting finishes.**
+
 **For Chat: the book note closing line is live in 0.707.133; one visual call for Kain on line counts is named below. Answers BRIEF__The_Book_Note_Standfirst_Closing_Line_Changes_S407.**
 
 # REPLY: the book note standfirst's closing line (Code, S150, theme session)
