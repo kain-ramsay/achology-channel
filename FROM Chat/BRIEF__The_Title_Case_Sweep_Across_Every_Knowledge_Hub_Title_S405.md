@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S149: WAITS ON a factory session writing a REPLY in TO Chat that names the title case count changed (this is a theme session).
+> CODE DISPOSITION, S149: DONE. 334 titles written and verified on the build site, 432 record fields matched, the gate answer given; the Version 7 copy cannot exist (no git held it). TO Chat/REPLY__The_Title_Case_Sweep_Done_S149.md.
 
 **For Code: a factory session brief, signed by Kain at S405. Build the title case list, put it to Kain, then write the titles he signs. Also write the Standard's Version 7 archive copy from git.**
 
