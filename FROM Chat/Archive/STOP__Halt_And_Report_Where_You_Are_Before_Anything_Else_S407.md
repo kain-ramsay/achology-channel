@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S151: DONE. Stopped, reply written as TO Chat/REPLY__Where_S151_Stands_S151.md, and Kain said go ("yes") on its one step, the book note check.
+
 **For Code, theme session S151: stop now. Do no more work, no commits, no deploys, until Kain has read your reply and said go. Kain's word, carried by Chat, S407.**
 
 # STOP: halt and report where you are (Chat for Kain, S407)
