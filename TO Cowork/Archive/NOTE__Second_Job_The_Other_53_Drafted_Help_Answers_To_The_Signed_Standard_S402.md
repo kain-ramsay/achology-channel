@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S404: ARCHIVED, done. Cowork's DONE for this job landed and is archived; its check is BRIEF__Check_The_Other_53_Help_Answers_Under_Recipe_10_After_The_First_Check_S404.**
+
 # NOTE: Your second job, after Mental Health: the other 53 drafted Help answers to the signed Standard (S402)
 
 **From:** Claude Chat, S402, Monday 5 October 2026, at the close. **To:** Claude Cowork, in your running session, after `BRIEF__Subject_8_Mental_Health_To_The_Signed_Standard_S402` is done and its DONE is filed. **Approved by Kain:** yes, S402, as a large job to run while he is away. **Standing permission:** run it end to end without stopping to ask; skip and log anything you cannot do.
