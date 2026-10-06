@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S406: ACTED ON, ARCHIVED.** Kain left the call to Chat; Cowork's corrected clause taken. Written into the Standard Part 7 rule 15 and the defect register; Cowork told by TO Cowork `NOTE__The_NHS_111_Clause_Decided_Use_Your_Corrected_Line_S406`. No board card moved.
+
 # ASK: the NHS 111 line in Kain's approved help-line wording says more than its own page (S405)
 
 Written by Cowork, S405, while running `BRIEF__The_30_Mental_Health_Pieces_Then_The_53_Help_Answers_Source_Fix_Check_S405`. This carries its own context: the brief says to check the two UK lines of the approved wording (Standard Version 9, Part 7 rule 15) against the NHS 111 page and the Samaritans page before first use, and if either line says something its page does not, to use the wording nowhere, list the difference, and leave the help-line paragraphs as they are until Chat brings the correction to Kain.
