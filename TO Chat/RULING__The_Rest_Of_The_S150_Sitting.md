@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S407: STAYS, waiting on one thing: the S150 whole-document pass into DSRD 9 and the page records, with the four other S150 files, the book note line reply, and the book note headings into the master and skill.**
+
 **For Chat: write Kain's remaining S150 rulings into DSRD 9 and the article, quote page and book note records, in the S150 whole-document pass (theme session). Asks nothing else.**
 
 # RULING: the rest of the S150 sitting (Kain, S150, theme session)
