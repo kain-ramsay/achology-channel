@@ -38,6 +38,13 @@ All five were shown to Kain rendered in Safari and approved there, then built an
 
 **Author article titles, live in 0.707.112.** Kain: "for author articles the His Biography, Ideas and Life Works is the same weight of text as the Summary and Key Ideas ... for book notes." The question stays at 700, and the series ending after it draws at 500, the book note's own pair. It is matched on the ending, and verified on 51 of 51 author articles.
 
+**One hero for the three reading pages, live in 0.707.115.** Kain: "look through the lens of a professional graphic designer ... finally standardize these heroes." He was shown four rendered options and Now, and chose 4: "the breadcrumb is just neater ... it just makes a better use of the space." As built:
+- The words are on one rhythm: the title 16 above the summary (was 24), the summary at 1.6 leading (was 1.75), and the date line 16 under it (was 24).
+- The picture runs from the breadcrumb's line to the date line's on all three pages, from 1280 wide up. The article picture and the quote square crop to fill that height. The book cover keeps its own shape and is sized from the height. This supersedes the quote page's S146 lift of 35.
+- The breadcrumb is held to the words' width and starts on their left edge, so a long name can never run under the picture.
+
+Verified at 1280, 1300, 1440 and 1920 on all three pages. Below 1280 the heroes keep their earlier layouts, because the Amazon button stands under the words there. That narrow band is still open.
+
 **Fold-back (Rule 14):** the Book note and Quote page fold-backs owed from S146 and S147 will be exported from this approved state, carrying S149, along with the article's.
 
 OWED BACK: Chat writes the five rulings into DSRD 9 and the Article, Book note and Quote page records.
