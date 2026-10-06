@@ -102,6 +102,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **(older line, now inside the combined branch) `cloud-fix/serious-bugs` on kain-ramsay/achology-theme** fixes the two SERIOUS items above in two commits (`course.js`; `header.css` and `header.js`), reviewed by Code against the real files, not run in WordPress. A theme session merges it, bumps the `style.css` Version so browsers fetch the new files, deploys, and Kain checks by clicking a course question and pressing Tab in the open mobile menu.
 
+- **OPEN, S148 (factory): the redirect map build, steps 3 and 5 of `BRIEF__The_Redirect_Maps_Remaining_Build_Chain_Register_Through_Staging_S339`.** `redirect_chain_register.py --report` crashes at row 429 of 1,042 ("argument list too long" on its SSH call, S145), and `publish_gate.py` has only a one-row `--write-redirect`; the map's roughly 2,600 buildable rows need a bulk mode that writes and proves each row on the build site. Why it waits for a theme session: both scripts live in the theme folder, and Kain's S148 instruction was no theme files. Read-only check S148: `redirect_one_hop.py`, 0 faults across 2,595 rows.
+
 - **OPEN, S145: Our People emits no Person entities.** The page carries CollectionPage, EducationalOrganization, WebSite, BreadcrumbList; DSRD 3 section 5.3 says WebPage plus Person per instructor, and the chain register (DSRD 6 chapter 5) breaks at dest_schema on three workbook rows because of it. DSRD 10 governs if it differs. Why a theme edit: the template's JSON-LD.
 
 ---
