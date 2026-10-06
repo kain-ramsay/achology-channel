@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: ACTED ON.** The 121 problems and 39 cold-read lines were sorted into PLAN__Calibrating_The_Standard_From_The_First_Check_S405 (factory folder): Kain ruled into Standard Version 9; Chat settled the rest in harness Version 31 and the templates; six went to Code (BRIEF__The_Gate_And_Publish_Tool_Brought_To_Standard_Version_9_S405); the sourcing pass went to Cowork (BRIEF__The_Sourcing_Pass_On_The_30_Mental_Health_Pieces_S405). The fixes and the fresh check of the 30 follow the sourcing pass. No board card moved. Archived with its BATCH and its brief.
+
 # DONE: Check the 29 Mental Health records and the pilot under Recipe 10 (S403)
 
 **Opening (Rule 1).** TO Cowork inbox read first. The brief for this job, `BRIEF__Check_The_29_Mental_Health_Records_And_The_Pilot_Under_Recipe_10_S403.md`, was read in full and run. All other files in TO Cowork (including `BRIEF__Check_The_Other_53_Help_Answers_Under_Recipe_10_After_The_First_Check_S404.md`, the Edit and the Whole-Job briefs, the NOTEs and the RULINGs) are not for this job: left in place and untouched, none run, none moved.
