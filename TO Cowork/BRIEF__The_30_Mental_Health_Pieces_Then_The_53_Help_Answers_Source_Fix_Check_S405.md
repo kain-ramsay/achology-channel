@@ -20,13 +20,13 @@ Apply to each piece, under Standard Version 9:
 - the S405 rulings that touch every piece: the course named in full, plain, then its nickname linked once later in the same paragraph (Part 13 rule 3; exception (q) lets the mental health course's nickname run past five words); a Help answer opens on the answer and never describes itself (Part 17.7); no "Many people" opener, the common view written as the belief itself (Part 3 rule 8); the course paragraph written fresh in every piece (Part 6 rule 8); a Kain quotation names its course, never its lesson (Part 8 rule 5); the exemplar's two wrong phrases on findahelpline.com and NHS 111 corrected to what the sources say;
 - the pilot: its "By the end of this page you'll know..." line rewritten to say why the question matters to the reader (Part 3 rule 8).
 
-**Do not touch the help-line paragraphs.** Kain has ruled where the help line sits (Part 7 rule 15), but its new wording is still to be approved. Leave each help-line paragraph exactly as it is and list it in the DONE.
+**The help-line paragraph (approved by Kain, S405).** On every piece that needs a help line, put it as its own short paragraph, once, straight after the answer, in the approved wording written in the Standard, Part 7 rule 15, word for word. Before the first use, open the NHS 111 page and the Samaritans page and check the two UK lines against them; if either line says something its page does not, do not use the wording anywhere, list the difference in the DONE, and leave the help-line paragraphs as they are until Chat brings the correction to Kain.
 
 Re-run the gate on every fixed piece in signing mode if Code has built it, otherwise as it stands, and fix any FAIL that is a real fault.
 
 ## Stage 3. A fresh check of the 30
 
-Dispatch fresh agents that did no sourcing and no fixing in Stages 1 and 2. They run Recipe 10 with the Version 9 check sheet. File the sheets as `CHECK__<slug>_S405.md` beside each record, and the batch list as `BATCH__Mental_Health_And_The_Pilot_S405.md` in FROM Cowork, with every piece whose sheet reads "Ready to sign". A help-line paragraph left untouched is not counted as a problem on this check.
+Dispatch fresh agents that did no sourcing and no fixing in Stages 1 and 2. They run Recipe 10 with the Version 9 check sheet. File the sheets as `CHECK__<slug>_S405.md` beside each record, and the batch list as `BATCH__Mental_Health_And_The_Pilot_S405.md` in FROM Cowork, with every piece whose sheet reads "Ready to sign".
 
 ## The gate between the 30 and the 53
 
@@ -38,7 +38,7 @@ The 53 Help answers named in the archived S404 brief (`BRIEF__Check_The_Other_53
 
 ## What comes back
 
-One DONE file in FROM Cowork when you stop, with: per piece, facts supported and not supported, problems fixed, and its fresh sheet's top line; every help-line paragraph left untouched; every batch list filed; and a cold read of harness Version 31 and Standard Version 9, any line you read two ways. Then hold.
+One DONE file in FROM Cowork when you stop, with: per piece, facts supported and not supported, problems fixed, and its fresh sheet's top line; every help-line paragraph changed, and any line of the wording its source did not support; every batch list filed; and a cold read of harness Version 31 and Standard Version 9, any line you read two ways. Then hold.
 
 ## Boundaries
 
