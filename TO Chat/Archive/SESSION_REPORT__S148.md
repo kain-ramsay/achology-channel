@@ -11,11 +11,21 @@
 5. **The channel clone brought level** (hand added): it had stopped syncing (82 local commits, 79 on the shared copy, the DONE above among the unsent). Merged and pushed, merge fbfc37494; the DONE is on the shared copy.
 6. **A stale git lock removed** (hand added): an empty `index.lock` from 15:51 on 5 October had stopped the project repository's two-hourly autosave; no git process held it. The 21:44 autosave ran once it was gone.
 
+## Finished later, on 6 October, when Kain turned the sitting into a theme session ("let's just do the article now")
+
+7. **The Article page sitting, theme 0.707.99 to 0.707.108** (theme commits from 0.707.99 to 0.707.108, all pushed and deployed): the hero bubbles; "Browse More Achology Articles" in Kain's words under the signature; no Related Further Reading; no section numbers on articles; the panel opening with the Know Your Psychology picture, no hairline, nothing at its foot; contents scrolling in their own box; the course picture in the writing at the second paragraph of the second section. `TO Chat/RULING__The_Article_Page_Sitting_S148.md`. Board card: the Knowledge Hub sweep, Article page.
+8. **The Article page fold-back (Rule 14):** `PROTOTYPE__Article_Page_S148_APPROVED.html` and the build sheet amended (project commit 25662508), with a whole-page export helper, `previews/export_page.py` (theme commit 3796df5).
+9. **Chat's two S403 rulings folded into Packet F:** course links on the short name, exception (m) retired from S403, `course_autolink.py` linking short names only (project commit 0437658b; suites green). Packet F DONE, section 7.
+10. **The channel clone's stuck rebase cleared** on Kain's yes (`git rebase --quit`, autostash kept); this Mac's watcher reads OK.
+
+**Status of the theme work: changed, not verified.** knowledge-hub.css still fails the CSS gate on 42 older spacing lines (544 to 4834), none from this session; every line written this session passes.
+
 ## Not finished
 
 - **The pilot's after-signed gate run:** waits on Kain signing the check sheet and Chat writing `signed` into the record; then one command.
 - **`stances` and `signed` in the other importers** (help, quote, instructor, biography, book note): each its own change with its own H9 review.
 - **Redirect steps 3 and 5:** waits on a theme-folder session (theme queue line, S148).
+- **Next session, agreed with Kain:** the Listing page (four faults, then his look), the Category hub (three defects, then his five questions), the 42 older lines in knowledge-hub.css, the Quote page and Book note fold-backs, and his yes or no on the Know Your Psychology picture at the article foot on tablets and phones.
 
 ## Two findings for the harness
 
