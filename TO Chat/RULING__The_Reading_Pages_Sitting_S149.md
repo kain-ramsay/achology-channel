@@ -29,6 +29,13 @@ All five were shown to Kain rendered in Safari and approved there, then built an
 
 **Kain's next ask, recorded:** "What would you propose we do to bring even more consistency into these page template designs? So that all three and the workbook when it comes become one coherent unit of pages ... we need to create components to interconnect all the pages." Code proposed a measured audit of every shared piece across the three pages, with the differences put to him on one page to rule in one sitting. He said yes. It is in progress this session.
 
+**The consistency audit, live in 0.707.111.** Every piece the three pages share was measured live. Almost everything already matched. Three findings were shown in Safari, now and proposed, and Kain ruled: "Yes, i want all three changes please Claude."
+1. Book note links take the article's quiet underline: 32% orange, 3 below the words, full strength on hover.
+2. The panel's line beside the contents, on book notes and quote pages, is drawn in the site hairline with 48 either side. This supersedes Kain's S115 32 for the 256 column. Articles keep no line there (S148).
+3. The panel's own grey, #E1E5E5, becomes the site hairline. That covers the contents' lines, its open and close ring, and the share circles.
+
+**Also found and fixed:** quote pages still drew Related Further Reading on phones and tablets, although Kain ruled at S146 to "remove this block completely". It is now gone at every width, as on articles and book notes.
+
 **Fold-back (Rule 14):** the Book note and Quote page fold-backs owed from S146 and S147 will be exported from this approved state, carrying S149, along with the article's.
 
 OWED BACK: Chat writes the five rulings into DSRD 9 and the Article, Book note and Quote page records.
