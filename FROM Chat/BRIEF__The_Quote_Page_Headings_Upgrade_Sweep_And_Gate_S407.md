@@ -14,7 +14,7 @@ Kain, S407, in Chat, upgraded the quote page's headings. The page now carries fo
 4. **A Question That Deserves an Honest Answer** (fixed words; replaces "A Question Worthy of an Honest Answer")
 5. **Explore More Quote Articles** (the heading of the related reading block at the page's foot; DSRD 2 section 1.1 item 13 called it Related Further Reading)
 
-The apostrophes and quote marks are the curly ones shown. "to" is small by the Content Standard Part 1 rule 9 (Chat's call, overturnable). Written into DSRD 2 sections 1.1 and 3.3, the Content Standard Part 17.5 (now Version 10, awaiting Kain's signature) and the defect register's S407 line. Read those, not this summary, if they ever differ.
+The apostrophes and quote marks are the curly ones shown. "to" is small by the Content Standard Part 1 rule 9 (Chat's call, overturnable). Written into DSRD 2 sections 1.1 and 3.3, the Content Standard Part 17.5 (now Version 10, signed by Kain at S407) and the defect register's S407 line. Read those, not this summary, if they ever differ.
 
 ## The order of the whole job
 
