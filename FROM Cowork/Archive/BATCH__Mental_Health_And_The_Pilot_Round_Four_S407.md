@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S409: the record of round four, travelling with its DONE. The nine Ready pieces are not signed; four go back under reading S11 and one under S16, and Kain reads the schools piece himself. Archived.**
+
 # BATCH: the 30 Mental Health pieces, round four, S407
 
 Written by Cowork, 6 October 2026, under `NOTE__Your_Five_Readings_Ruled_Run_Round_Four_S407` and `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part A. Version 11 of the Standard, harness Version 32, readings S1 to S9 written into every fixer's and checker's instructions. Fixers and checkers were new agents, never the writers, and no checker opened an earlier sheet.
