@@ -1,4 +1,4 @@
-**For Code: a factory session brief, put to Kain for his signature at S405. Build the title case list, put it to Kain, then write the titles he signs. Also write the Standard's Version 7 archive copy from git.**
+**For Code: a factory session brief, signed by Kain at S405. Build the title case list, put it to Kain, then write the titles he signs. Also write the Standard's Version 7 archive copy from git.**
 
 # BRIEF: the title case sweep across every Knowledge Hub title (S405)
 
@@ -22,6 +22,6 @@
 
 Every Knowledge Hub title on the build site and in Content Records passes rule 9, every change was on the list Kain signed, and a REPLY in TO Chat names the count changed, the count held back and why, and the gate answer.
 
-*Waiting on Kain's signature, S405.*
+*Signed by Kain Ramsay, S405, Tuesday 6 October 2026.*
 
 *No em or en dashes in this file; checked before writing.*
