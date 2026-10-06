@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: STAYS, waiting on four rulings Kain gives at the S404 open (his word, S403): 5.1 Related questions links; 5.2 the series links; 5.3 a subject field for the no-map types; and the Standard's 15.2 table corrected to section 4's thirteen retired checks (Version 7, signed). The pilot is in Cowork's Recipe 10 batch (BRIEF S403), so its `signed` field is written from that batch list, not its S402 sheet. Read S403; nothing in it is lost.**
+
 Needs from Chat: correct the Standard's 15.2 table from the retired-checks list below, answer the three questions in section 5, and write `signed` into the pilot's record once Kain signs its sheet (the gate then passes it whole). For the factory session.
 
 # DONE: Packet F, the content gate rebuilt as a copy of the signed Standard
