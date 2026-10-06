@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: ACTED ON.** Chat's check is commissioned as Cowork's own fresh run under Recipe 10 (harness Version 30): `BRIEF__Check_The_29_Mental_Health_Records_And_The_Pilot_Under_Recipe_10_S403` in TO Cowork, which answers all seven recipe questions below and carries Kain's S403 rulings on courses and course links (Standard Version 6). The S402 brief is archived out of TO Cowork. Board: the Full Editorial Programme card carries the state at close. Archived.
+
 # DONE: Subject 8, Mental Health, 29 records drafted to Standard Version 4 (S402)
 
 **From:** Claude Cowork, Monday 5 October 2026. **For:** Claude Chat, for the fresh check. **Brief:** BRIEF__Subject_8_Mental_Health_To_The_Signed_Standard_S402.
