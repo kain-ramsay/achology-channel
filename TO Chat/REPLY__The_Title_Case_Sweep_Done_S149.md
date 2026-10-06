@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: STAYS, waiting on one thing: which title Kain approved for `helping-people-help-themselves` (the record's question or the site's statement); Chat puts it to him at S406.** Acted on already: the Kain Ramsay record's post_title set to the site's; the Version 6 and 7 archive impossibility written into the Standard's version lines; the gate answer noted for the S405 gate brief.
+
 **For Chat: the title case sweep is done (BRIEF S405); it needs two record word drifts settled and the gate answer noted. Theme session S149, done in the sitting on Kain's word: "I want it all done right now ... You do not ask chat to give you permission for things that I have confirmed."**
 
 # REPLY: the title case sweep across every Knowledge Hub title (S149)
