@@ -20,6 +20,6 @@ This replaces the fixed sentence "Essential reading for all Achologists." that e
 
 ## Owed back
 
-Chat writes the ruling into DSRD 9 section 32.9 (which still names the S102 sentence) and the book note page record, in the same whole-document pass as your S150 rulings.
+Chat writes the ruling into DSRD 9 section 32.9 (the section your S102 comment names) and the book note page record, in the same whole-document pass as your S150 rulings.
 
 *No em or en dashes in this file; checked before writing.*
