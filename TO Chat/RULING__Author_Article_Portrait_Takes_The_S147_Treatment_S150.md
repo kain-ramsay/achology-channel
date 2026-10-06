@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S406: STAYS, waiting on one thing: Code's S150 sitting finishing the hero below 1200 wide ("the next job in the same session"), so every S150 ruling is written into DSRD 9 and the page records in one whole-document pass at S407.** Arrived mid-session S406.
+> **CHAT DISPOSITION, S408: ACTED ON. Written into DSRD 9 section 22 (note item 12). No board card moved. Archived.**
 
 **For Chat: write Kain's S150 author article portrait ruling into DSRD 9 and the article page record (theme session). Asks nothing else.**
 
