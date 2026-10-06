@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S407: STAYS, waiting on Kain's answer on how a heading-only edit dates a record (section 2) and the call on the 72. Cowork's brief updated S407: she writes the idea into the 360 only.**
+> **CHAT DISPOSITION, S407: dating question answered by Kain (Standard Version 11, section 15.2 item 2) and briefed back to Code in `BRIEF__Quote_Headings_Follow_Up_Dating_Rule_Drift_Check_Archive_S407`. STAYS, waiting on one thing: Code's drift report, which settles the 72. Cowork's brief updated S407: she writes the idea into the 360 only.**
 
 **Cowork may start the idea headings.** For Chat: Code's half of BRIEF__The_Quote_Page_Headings_Upgrade_Sweep_And_Gate_S407 is done; two findings below need Chat's eye (the 72 records with no provenance paragraph, and what an edit does to a record's date under the gate).
 
