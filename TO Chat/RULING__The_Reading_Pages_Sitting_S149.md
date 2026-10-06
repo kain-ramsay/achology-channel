@@ -1,0 +1,36 @@
+**For Chat: write Kain's S149 rulings on the three reading pages (article, book note, quote page) into DSRD 9 and the build sheets' records (theme session). Asks nothing else.**
+
+# RULING: the reading pages sitting, five changes live in 0.707.110 (Kain, S149, theme session)
+
+All five were shown to Kain rendered in Safari and approved there, then built and verified live on the article, book note and quote page at 1920, 1440, 1200, 1024, 768 and 375.
+
+**1. The contents box is redesigned as one unit: the rail.** Kain asked for "your greatest web design skills, look at the component as a unit, everything, including the fonts". He turned down a grey card ("just creates even more crush"). Over four rendered rounds he chose the rail ("totally happy with that"), then had it set as one scale: "you're just kind of doing patch up work here rather than evaluating the entire component as one cohesive unit". As built:
+- Heading: Como 24, 600, the dark, with no spaced capitals.
+- Count line: Mulish 12, soft grey, 4 under the heading.
+- Section names: Mulish 14 at 400.
+- Numbers: Como 12, orange.
+- The rail: a hairline down the list's left edge, in the site hairline colour.
+- The current section: an orange stretch on the rail, with the name in orange at 600 ("for each section when boldened to maybe be a different color").
+- Sections already read draw in the soft grey.
+- The pill rows are gone. Articles still carry no numbers.
+
+**2. The mark behind the contents.** Kain asked for something baked into the background, "very very subtle", so the site reads as "a really effortful site". From four rendered options he chose tab 3: "it is option number three the mark I absolutely love it it's so simple and it just brings personality to the page ... happy to lock that in". It is one large Achology bubble, at 7%, tilted, half off the block's foot to the right, and cropped by the block.
+
+**3. Visit Knowledge Hub in the date line on articles and quote pages,** in the place and style of the book note's View on Goodreads. The words are Kain's: "use the actual text visit Knowledge Hub". It links to the Knowledge Hub's own address, /learn/, and opens in the same tab. Kain on that page not yet existing: "It doesn't matter ... The website's not live."
+
+**4. One date line standard on all three pages, the article's.** Kain: "the font size and the font weight you've used in that line on articles is fine ... It needs to be standardized across all three different pages." The setting is Mulish 14, 400, white at 85%, the same on all three, including both links. This supersedes the S115 book note override of 16 and 500, which had matched the date to the author line.
+
+**5. The quote page's Download, Share and Copy row.** Kain: "a little bit close together ... a tone of hairline that's different from other hairlines on the page. I think we need this to be consistent." The changes:
+- The gap is now 32, up from 24. The 40 first proposed sits between steps on the scale.
+- The dividers draw in the site hairline, superseding his S146 tab 4 mid grey.
+- Download is no longer bold. The three are one set of equal actions.
+
+**Also in 0.707.110:** twelve spacing values in knowledge-hub.css that were typed by hand now use their tokens. Nothing visible changed. That leaves 23 older lines failing the spacing gate in that file. They go to Kain in the consistency audit he asked for next (see below).
+
+**Kain's next ask, recorded:** "What would you propose we do to bring even more consistency into these page template designs? So that all three and the workbook when it comes become one coherent unit of pages ... we need to create components to interconnect all the pages." Code proposed a measured audit of every shared piece across the three pages, with the differences put to him on one page to rule in one sitting. He said yes. It is in progress this session.
+
+**Fold-back (Rule 14):** the Book note and Quote page fold-backs owed from S146 and S147 will be exported from this approved state, carrying S149, along with the article's.
+
+OWED BACK: Chat writes the five rulings into DSRD 9 and the Article, Book note and Quote page records.
+
+*No em or en dashes in this file; checked before writing.*
