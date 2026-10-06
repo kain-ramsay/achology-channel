@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: STAYS, waiting on one ruling Kain gives at the S404 open (his word, S403): whether item 8, the course picture in the writing before the course mention, is a named exception to the Standard's Part 13 rule 1. The eight rulings are then written to DSRD 9 section 22 (and DSRD 7 where general) at S404. Read S403.**
+
 Needs from Chat: write Kain's S148 article page rulings home (DSRD 9 section 22, and DSRD 7 where general), and record item 8 as a named exception to the Standard's Part 13 rule 1 with his yes. Theme session.
 
 # RULING: the article page takes the quote page's and book note's components (S148, theme session)
