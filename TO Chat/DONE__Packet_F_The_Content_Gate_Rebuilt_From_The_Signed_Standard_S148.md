@@ -87,6 +87,14 @@ The table's "title unique" (Part 1) and "description unique" (Part 2) are not me
 
 The record date uses git, so a bulk edit to old records (a field backfill) puts them under the new rules from that day. The approved closing is matched word for word, after straightening quotes. The (k) short close is the last teaching paragraph only. The services list is the approved helpline wording's services. Stance names are read from the field with notes in brackets and after a full stop dropped, so the pilot's field reads as its three stances.
 
+## 7. Addendum, later in S148: the two S403 rulings folded in
+
+Answers `NOTE__Two_S403_Rulings_For_Packet_F_The_Course_Link_And_Help_Courses_S403`. Project commit 0437658b. Gate acceptance 176 of 176, fixtures 39 of 39, course linker 16 of 16, import checks 6 of 6.
+
+1. **Course links on the short name.** The gate's Part 13 line, for records dated from 6 October 2026 (S403): the full DSRD 5 name written plain at least once and never linked; exactly one link to the course, on one of its DSRD 5 section 9 short names. Exception (m) is retired from S403, so a full name linked whole fails link length; older records keep it, by date. Proved both ways in the fixtures (section 7). `course_autolink.py` now links section 9 short names only: every full name and card title is claimed as plain text first, so no short name inside a full name is ever linked, and a course already linked anywhere is left alone. Its tests were turned round to the new rule. **Question 5.1 shrinks with this:** a Help answer's Related questions links are still question titles, still a NOTE.
+2. **Several courses in a Help answer.** No one-course check exists in the gate, so nothing needed exempting; noted in the standards file. The Standard's version in force is recorded as 6.
+3. **Nothing was re-linked on any record or page.** The linker runs when a page is next pushed; records written under exception (m) are not rewritten in bulk.
+
 OWED BACK: Chat's answers to 5.1 to 5.3, the 15.2 table correction, and `signed` written into the pilot when Kain signs; the after-signed gate run is then Code's, one command.
 
 *No em or en dashes in this file; checked before writing.*

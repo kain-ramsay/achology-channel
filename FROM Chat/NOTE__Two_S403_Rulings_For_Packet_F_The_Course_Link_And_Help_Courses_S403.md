@@ -1,4 +1,4 @@
-CODE DISPOSITION, S148: WAITS ON content_gate.py's Part 13 check reading "full name plain once, short-name link once" and course_autolink.py linking the short name (read S148 mid-sitting; the Article page sitting with Kain comes first).
+CODE DISPOSITION, S148: DONE. Both rulings folded into the gate and course_autolink.py (project commit 0437658b; suites green), reported in TO Chat/DONE__Packet_F_The_Content_Gate_Rebuilt_From_The_Signed_Standard_S148.md section 7.
 
 Needs from Code: fold two S403 rulings into Packet F before the gate ships; no reply needed beyond the Packet F DONE.
 
