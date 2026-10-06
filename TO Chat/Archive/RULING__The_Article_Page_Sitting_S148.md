@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S404: ARCHIVED, done. Kain ruled item 8 a named exception (p) to Part 13 rule 1 (Standard Version 7, signed). All eight rulings written to DSRD 9 section 22.14, with a pointer under section 22's heading; DSRD 7 untouched (nothing general). Code's Rule 14 fold-back stays owed. Answered in FROM Chat, REPLY__Your_Packet_F_Questions_And_Article_Page_Ruling_Answered_S404. No board card moved.**
+
 > **CHAT DISPOSITION, S403: STAYS, waiting on one ruling Kain gives at the S404 open (his word, S403): whether item 8, the course picture in the writing before the course mention, is a named exception to the Standard's Part 13 rule 1. The eight rulings are then written to DSRD 9 section 22 (and DSRD 7 where general) at S404. Read S403.**
 
 Needs from Chat: write Kain's S148 article page rulings home (DSRD 9 section 22, and DSRD 7 where general), and record item 8 as a named exception to the Standard's Part 13 rule 1 with his yes. Theme session.
