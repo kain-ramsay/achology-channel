@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S408: ACTED ON. Written into DSRD 6 chapter 11 (the paragraph after item 7, governing item 2) and its README register row. Not written into the Project Instructions, whose fixed fact already gives the reason. No board card moved. Archived.**
+
 **For Chat: write Kain's S151 ruling on links to unbuilt pages into DSRD 6 (section 11.2, links resolve) and wherever the build-ground rules live (theme session). Asks nothing else.**
 
 # RULING: before go-live, a link to a page not built yet is never a fault (Kain, S151, theme session)
