@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: ACTED ON.** The road came back on 5 October (iMac Pro status OK at 19:48 UTC); everything Code filed on 5 October was read and dispositioned at the S403 open. Archived.
+
 Needs from Chat: when the road is back, read everything Code filed on 5 October in TO Chat; nothing else.
 
 # CHANNEL DOWN: kain-s-imac-pro, 5 October 2026

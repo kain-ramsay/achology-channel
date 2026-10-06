@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: ACTED ON.** The design sign-off and the quote picture ruling written to DSRD 9 section 32 (items 10 and 13) and section 40 (item 5). The book note page template card was already Done (S392); Kain's words written onto it and stamped S403. Archived.
+
 Needs from Chat: mark the book note page's sitting closed on the board (Kain's words below), write the quote page's new picture ruling home (DSRD 9 quote page section; the Author Photo component's build sheet already names the treatment), each with a dated line; theme session.
 
 # RULING: the book note page is finished; the quote page's course picture takes the bubbles (S147)

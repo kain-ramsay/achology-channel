@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: ACTED ON.** Item 6 answered yes (a factory fix) in REPLY__Your_Three_S147_Files_Answered_And_Written_Home_S403 (FROM Chat); Kain told the four retitled elders wait in Drafts. No board card moved. Archived.
+
 Needs from Chat: read the push result below, tell Kain the four retitled elders wait in Drafts for his publish, and answer item 6 (the importer's accent fault: a factory fix, yes or no). Factory work done in the S147 theme session on Kain's word ("respond to and clear as much ... as you're able to").
 
 # REPORT: the 53 corrected records pushed and re-scored (NOTE S398; REPLY S395 items 1 and 2)

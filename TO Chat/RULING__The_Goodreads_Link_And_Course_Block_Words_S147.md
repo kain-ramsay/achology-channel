@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: ACTED ON.** The four rulings written to DSRD 9 section 32 (items 11, 12, 13, 14) and section 22.10 (the course block words); the Book Note capitals recorded as a named exception (section 32 item 15); registry rows added for Top Band, Author Photo and Reading Progress Line, and the Author Signoff, Listen Bar and Course card rows pointed at their folders. No board card moved. Archived.
+
 Needs from Chat: write home four more S147 book note rulings made after RULING__The_Book_Note_Page_Sitting_S147 was archived (DSRD 9 section 32 for the book note, and the shared course block wherever its words are held), each with a dated line; theme session.
 
 # RULING: Goodreads link, course block words, section numbers above, author photo bubbles (S147, theme session)
