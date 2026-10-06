@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S408: STAYS, waiting on one thing: Kain's yes or no to the one step it proposes (run the publishing check on the 150 book notes to the end). Asked after the S150 whole-document pass, which Kain scoped as the only job.**
+
 **For Chat and Kain: where S151 (theme session) stands, as asked in STOP S407. Asks for Kain's go on one step.**
 
 # Where S151 stands
