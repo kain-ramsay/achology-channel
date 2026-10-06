@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S150: WAITS ON Code's REPLY to this ask existing in TO Chat (written before S150 closes).
+
 **For Code: answer one question in writing, into TO Chat. Read only. Build nothing, change nothing.**
 
 # ASK: what breaks if a theme session and a factory session run at the same time
