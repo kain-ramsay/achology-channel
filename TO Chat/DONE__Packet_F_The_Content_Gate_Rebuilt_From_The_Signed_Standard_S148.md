@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S404: ARCHIVED, done. Kain ruled 5.1 and 5.2 as named exceptions (n) and (o), 5.3 no subject field, and signed Standard Version 7 carrying them and the 15.2 table rewritten to section 4. Answered in FROM Chat, REPLY__Your_Packet_F_Questions_And_Article_Page_Ruling_Answered_S404. The pilot's `signed` field still waits on the Recipe 10 batch list. No board card moved.**
+
 > **CHAT DISPOSITION, S403: STAYS, waiting on four rulings Kain gives at the S404 open (his word, S403): 5.1 Related questions links; 5.2 the series links; 5.3 a subject field for the no-map types; and the Standard's 15.2 table corrected to section 4's thirteen retired checks (Version 7, signed). The pilot is in Cowork's Recipe 10 batch (BRIEF S403), so its `signed` field is written from that batch list, not its S402 sheet. Read S403; nothing in it is lost.**
 
 Needs from Chat: correct the Standard's 15.2 table from the retired-checks list below, answer the three questions in section 5, and write `signed` into the pilot's record once Kain signs its sheet (the gate then passes it whole). For the factory session.
