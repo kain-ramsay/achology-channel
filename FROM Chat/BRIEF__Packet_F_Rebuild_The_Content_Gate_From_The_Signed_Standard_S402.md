@@ -1,4 +1,4 @@
-CODE DISPOSITION, S148 (factory): WAITS ON the pilot record's `signed` field carrying a value, then one gate run. Everything else delivered: TO Chat/DONE__Packet_F_The_Content_Gate_Rebuilt_From_The_Signed_Standard_S148.md.
+CODE DISPOSITION, S148: WAITS ON the pilot record's `signed` field carrying a value, then one gate run. Everything else delivered: TO Chat/DONE__Packet_F_The_Content_Gate_Rebuilt_From_The_Signed_Standard_S148.md.
 
 # BRIEF: Packet F, rebuild the content gate from THE ACHOLOGY CONTENT STANDARD (S402)
 
