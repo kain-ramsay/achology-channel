@@ -66,6 +66,10 @@ The subject briefs in your tray, in this order. For each subject: its Help answe
 
 Any CBT, NLP, life coaching, counselling or mindfulness question Part B finds still undrafted goes first, before Hypnotherapy.
 
+### Part D2. The DiMAP workbook run (added by Kain, S407)
+
+Only when Part D is finished, and before Part E: `BRIEF__The_DiMAP_Workbook_Run_Part_D2_S407` in your tray, run end to end. Kain's condition: it is the last job before the editorial pass and never interrupts anything before it.
+
 ### Part E. The editorial pass over everything on the build site
 
 Seven blocks, one at a time, in this order. For each block:
@@ -97,6 +101,7 @@ At the end of every part, and whenever one subject in Part D is fully drafted, p
 - **Part C, item 2:** Our People card (the elders' articles).
 - **Part C, items 3 to 5:** name the pieces; Chat matches each to its card.
 - **Part D:** Q&A bank, one line per subject finished, and the card's own line when the last subject is done.
+- **Part D2:** Workbook library and publication, the DiMAP run.
 - **Part E:** The Full Editorial Programme, when block 7 is done.
 
 **OWED BACK:** the files in section 6, as each is reached. Archive this file when Part E is done.
