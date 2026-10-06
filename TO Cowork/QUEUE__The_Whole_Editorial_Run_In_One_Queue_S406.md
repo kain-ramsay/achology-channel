@@ -88,6 +88,17 @@ When block 7's last batch list is filed, file `DONE__The_Whole_Editorial_Run_S40
 
 Part B: the STATUS file. Every batch: its BATCH and DONE. Every Part E block: its SORT, then its batches. At the end: the whole-run DONE. In every DONE, any line of the Standard or the harness you read two ways.
 
+## 7. Ticking off the board
+
+At the end of every part, and whenever one subject in Part D is fully drafted, put one line at the top of that DONE: `BOARD: <card name>, Cowork's share done`. Chat reads it, checks the files, and closes the card with Kain once its pieces are signed and published. The cards your work feeds:
+
+- **Part A:** The Full Editorial Programme, its first outcome (the 30 Mental Health pieces).
+- **Part C, item 1:** The Seven Beliefs card.
+- **Part C, item 2:** Our People card (the elders' articles).
+- **Part C, items 3 to 5:** name the pieces; Chat matches each to its card.
+- **Part D:** Q&A bank, one line per subject finished, and the card's own line when the last subject is done.
+- **Part E:** The Full Editorial Programme, when block 7 is done.
+
 **OWED BACK:** the files in section 6, as each is reached. Archive this file when Part E is done.
 
 *No em or en dashes in this file; checked before writing.*
