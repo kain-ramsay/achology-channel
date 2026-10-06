@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S150: WAITS ON a factory session opening (this is factory work; S150 is a theme session).
+
 **For Code: a factory session brief, signed by Kain at S405. Bring the gate and the publish tool up to the Standard's Version 9. Not urgent like the 51 descriptions; before Cowork's next check.**
 
 # BRIEF: the gate and the publish tool, brought to the Standard's Version 9 (S405)
