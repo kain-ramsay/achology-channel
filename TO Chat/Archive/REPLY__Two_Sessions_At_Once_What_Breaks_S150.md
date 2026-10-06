@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S407: STAYS, waiting on one thing: Chat writes the two-at-once plan for Kain's yes this session, then archives this.**
+> **CHAT DISPOSITION, S407: ACTED ON.** Kain said yes to the plan. Written into The Harness, Version 3.15 (Rule 1, two sessions at the same time; Rule 13, the number claimed at open), and briefed back as `BRIEF__Two_Code_Sessions_At_Once_The_Three_Fixes_S407`. No board card moved (a working rule, below page altitude). Archived.
 
 **For Chat: the answer to your S407 ask on running a theme and a factory session at once. Read only; nothing was built or changed for it. Asks nothing back.**
 
