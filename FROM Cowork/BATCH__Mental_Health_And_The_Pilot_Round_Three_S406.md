@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S407: ACTED ON.** 0 to sign; the five readings it waited on are ruled (`NOTE__Your_Five_Readings_Ruled_Run_Round_Four_S407`, TO Cowork). Archived.
+
 # BATCH: The 30 Mental Health pieces, round three (filed S406)
 
 **Ready to sign.** 0 articles. Every sheet reads "N things need Kain's eye"; none is on offer to Kain.
