@@ -36,6 +36,8 @@ All five were shown to Kain rendered in Safari and approved there, then built an
 
 **Also found and fixed:** quote pages still drew Related Further Reading on phones and tablets, although Kain ruled at S146 to "remove this block completely". It is now gone at every width, as on articles and book notes.
 
+**Author article titles, live in 0.707.112.** Kain: "for author articles the His Biography, Ideas and Life Works is the same weight of text as the Summary and Key Ideas ... for book notes." The question stays at 700, and the series ending after it draws at 500, the book note's own pair. It is matched on the ending, and verified on 51 of 51 author articles.
+
 **Fold-back (Rule 14):** the Book note and Quote page fold-backs owed from S146 and S147 will be exported from this approved state, carrying S149, along with the article's.
 
 OWED BACK: Chat writes the five rulings into DSRD 9 and the Article, Book note and Quote page records.
