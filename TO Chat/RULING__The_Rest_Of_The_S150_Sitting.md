@@ -1,4 +1,4 @@
-> **CHAT DISPOSITION, S407: STAYS, waiting on one thing: the S150 whole-document pass into DSRD 9 and the page records, with the four other S150 files, the book note line reply, and the book note headings into the master and skill.**
+> **CHAT DISPOSITION, S408: ACTED ON. Written into DSRD 9 section 22 (note items 13 to 19), section 32.7 (the five headings), section 40 (item 8) and DSRD 2 section 3.1. No board card moved. Archived.**
 
 **For Chat: write Kain's remaining S150 rulings into DSRD 9 and the article, quote page and book note records, in the S150 whole-document pass (theme session). Asks nothing else.**
 
