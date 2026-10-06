@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: ACTED ON.** Written into the Content Standard as Part 1 rule 9 (Version 8, signed by Kain S405); DSRD 2 sections 1.1 and 3.3 corrected to point at it; sweep brief signed by Kain and sent: BRIEF__The_Title_Case_Sweep_Across_Every_Knowledge_Hub_Title_S405 (FROM Chat). No board card moved. Archived.
+
 **For Chat: write Kain's title case ruling into the Content Standard (Part 1), correct DSRD 2 section 3.3's "every word capitalised", and send Code a sweep brief for Kain to sign (factory session) so the stored titles can be corrected.**
 
 # RULING: title case on every Knowledge Hub title (Kain, S149, theme session)
