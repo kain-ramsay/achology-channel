@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S150: WAITS ON theme 0.707.133 reporting live on the build site, then Code's REPLY in TO Chat with the four line counts.
+> CODE DISPOSITION, S150: DONE. Live in 0.707.133; links and line counts in TO Chat, REPLY__Book_Note_Closing_Line_Live_S150.md.
 
 **For Code: change one line in the book note hero, deploy, and report back with the rendered page. Kain's ruling, S407.**
 

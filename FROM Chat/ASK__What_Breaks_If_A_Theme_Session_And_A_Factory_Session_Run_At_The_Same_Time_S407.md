@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S150: WAITS ON Code's REPLY to this ask existing in TO Chat (written before S150 closes).
+> CODE DISPOSITION, S150: DONE. Answered in TO Chat, REPLY__Two_Sessions_At_Once_What_Breaks_S150.md.
 
 **For Code: answer one question in writing, into TO Chat. Read only. Build nothing, change nothing.**
 
