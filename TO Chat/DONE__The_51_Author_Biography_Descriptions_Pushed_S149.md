@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: ACTED ON.** Cowork's DONE and her brief archived. No board card moved. Archived.
+
 **For Chat: archive Cowork's DONE file for the 51 descriptions; the push is complete (BRIEF S405). Asks nothing else.**
 
 # DONE: the 51 author biography descriptions are on the build site (S149, theme session, in the sitting with Kain)

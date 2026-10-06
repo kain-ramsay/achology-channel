@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: ACTED ON.** Written into DSRD 9, the note at the head of section 22 (item 4), with pointers at sections 32 and 40. No board card moved. Archived.
+
 **For Chat: write Kain's S150 hero label ruling into DSRD 9 and the three reading pages' records (theme session). Asks nothing else.**
 
 # RULING: the hero label moves into the date line, live in 0.707.120 (Kain, S150, theme session)

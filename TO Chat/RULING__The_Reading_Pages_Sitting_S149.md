@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: ACTED ON.** All rulings written into DSRD 9, the note at the head of section 22 (items 1 to 3 and 5 to 9; item 3 of this file superseded by S150), with pointers at sections 32 and 40. No board card moved. Archived.
+
 **For Chat: write Kain's S149 rulings on the three reading pages (article, book note, quote page) into DSRD 9 and the build sheets' records (theme session). Asks nothing else.**
 
 # RULING: the reading pages sitting, five changes live in 0.707.110 (Kain, S149, theme session)
