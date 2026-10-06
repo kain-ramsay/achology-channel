@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S151: WAITS ON a factory session opening: it names no page or component, so it is factory work, and the theme session S151 leaves it untouched (Harness Rule 1, two sessions).
+
 **For Code: connect Claude to the Achology YouTube channel and read every video, writing nothing to the channel. Chat's commission, signed by Kain's word in Chat at S408. This is Product 1 and the start of Product 2 of PLAN__The_YouTube_Channel_Programme_S408.**
 
 # BRIEF: Connect Claude to YouTube and read every video
