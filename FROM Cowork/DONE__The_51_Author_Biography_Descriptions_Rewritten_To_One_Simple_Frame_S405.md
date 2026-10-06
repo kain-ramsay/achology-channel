@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: STAYS, waiting on one thing: Code's report that the 51 descriptions are on the build site (BRIEF__Push_The_51_New_Author_Biography_Descriptions_Now_S405, FROM Chat).** The sweep list goes to Kain after the rulings.
+
 # DONE: the 51 author biography descriptions rewritten to one simple frame (S405)
 
 **Opening.** TO Cowork inbox listed first. `BRIEF__The_51_Author_Biography_Descriptions_Rewritten_To_One_Simple_Frame_S405.md`: read in full and run. `BRIEF__Check_The_Other_53_Help_Answers_Under_Recipe_10_After_The_First_Check_S404.md`: not run (it says "Not yet", and waits for Chat's one-line NOTE that Harness Version 31 is in; none has come); left in place untouched. The Question Programme briefs, the Edit brief, the Two Life Coaching brief and the NOTEs and RULINGs listed there: not for this job, left in place untouched. Nothing moved, nothing archived.
