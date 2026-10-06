@@ -14,7 +14,7 @@
 
 ## The 51, old and new
 
-Character counts include spaces. "Gate" below is the gate's own count of the description (its line "description length"), which matched mine for all 51.
+Character counts include spaces. The gate's own count of each description (its line "description length") matched mine for all 51.
 
 | # | Name | Old description | New description | Characters |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ Character counts include spaces. "Gate" below is the gate's own count of the des
 4. **Nationality words** appear only where the record states them (for example "Swiss", "German", "Canadian", "American", "English"). I left nationality out where the record does not state it (for example Brendon Burchard, Mark Manson, Grayling).
 5. **Aristotle** first read "...tutored Alexander the Great"; I changed it to "studied under Plato and wrote on logic and ethics" so no line contains "the Great", which could be read as a praise word.
 6. **Nassim Nicholas Taleb** is Kain's approved example word for word.
-7. **The old lines.** Twenty-five of the old lines ended "Explore his life, core ideas, and influence on Achology" or something like it. They are all replaced.
+7. **The old lines.** 31 of the 51 old lines named Achology, 23 of them with "influence on Achology" or the like. All 51 are replaced.
 
 ## The sweep: lines that tie a named real person to Achology
 
@@ -110,10 +110,10 @@ Listed, not changed. Folder names are in brackets; line numbers are as the files
 | A16 | `Author_Biography_Carl_Jung_S304.md` | 159 | "Jung's whole outlook sits comfortably within Achology's psychology hub, alongside other thinkers..." | Mild; ties Jung to the hub. |
 | A17 | `Author_Biography_William_James_S304.md` | 151 | "You can browse the wider field on Achology's psychology hub, where his ideas sit alongside the thinkers who followed him." | Mild; same kind of tie. |
 | A18 | `book-note/mans-search-for-meaning.md`, `childhood-and-society.md` (book-note) | 125, 138 | "Our Seven Beliefs series builds on / draws on..." (Frankl; Erikson) | Same claim, carried into the book notes. |
-| A19 | `PART_01` to `PART_09` of the Seven Beliefs series (seven-beliefs-series), summary line | 39 to 41 of each | "Achology holds this as the first (second, third...) of seven linked beliefs and draws one line through thinkers who never met: [Roman Stoic, Aristotle, Dweck, Allen, Covey, Dilts, Bandura, Duhigg, Egan, Adler, Schwartz...]" | Names real people as the line Achology "draws". The body parts also name Plato, Socrates, Jung, Rogers, Frankl, Beck, Epictetus as giving the series its answer (for example PART_03 line 168, PART_04 line 188, PART_06 line 171). |
+| A19 | `PART_01` to `PART_09` of the Seven Beliefs series (seven-beliefs-series), summary line | 39, 40 or 41 of PART_02 to PART_09; 76 and 102 of PART_01 | "Achology holds this as the first (second, third...) of seven linked beliefs and draws one line through thinkers who never met: [Roman Stoic, Aristotle, Dweck, Allen, Covey, Dilts, Bandura, Duhigg, Egan, Adler, Schwartz...]" | Names real people as the line Achology "draws". The body parts also name Plato, Socrates, Jung, Rogers, Frankl, Beck, Epictetus as giving the series its answer (for example PART_03 line 168, PART_04 line 188, PART_06 line 171). |
 | A20 | `Batch_Report__Seven_Beliefs_Back_Links_S387.md` (seven-beliefs-series) | 262, 544, 1109, 1396, 1971 | "That clarity is why Achology draws on Charles Duhigg too"; "Our Seven Beliefs series draws on Egan in three places"; the same for Gardner, Frankl, Erikson. | The sentences added in S387; A9 to A14 are where they landed. |
 | A21 | `instructor-article/stages-of-human-development-and-maturity.md` | 101 | "Erik Erikson was one of the great developmental thinkers, someone I would put alongside Abraham Maslow and Carl Rogers without hesitation." | An opinion in the instructor's voice; praise, not a tie; listed for completeness. |
-| A22 | `field-authority-article/aaron-beck-the-pioneer-who-revolutionized-cognitive...` | 48 | "Achology's contribution is treating 'revolutionized' as a claim to test..." | Not a tie; listed for completeness. |
+| A22 | `aaron-beck-the-pioneer-who-revolutionized-cognitive-psychology.md` (field-authority-article) | 48 | "Achology's contribution is treating 'revolutionized' as a claim to test..." | Not a tie; listed for completeness. |
 
 **B. Lines about Gerard Egan that claim more than the brief confirms**
 
@@ -146,7 +146,7 @@ Listed, not changed. Folder names are in brackets; line numbers are as the files
 
 ## Cold read
 
-Nothing in the Harness or the Standard left me unsure on this job. The one thing I would note for Version 31: the brief says "Content Standard (Version 8)"; the Standard's header and its Version line both read 8, and the Standard's own paragraph still names Version 7 as "as it read before Version 8", which is correct. No contradiction, so no line to list.
+Nothing in the Harness or the Standard left me unsure on this job, and no line contradicted another, so there is nothing to list. The brief names Version 8 and the Standard's version line reads 8.
 
 ## Status
 
