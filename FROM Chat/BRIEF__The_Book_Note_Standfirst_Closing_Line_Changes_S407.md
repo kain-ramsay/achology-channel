@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S150: WAITS ON theme 0.707.133 reporting live on the build site, then Code's REPLY in TO Chat with the four line counts.
+
 **For Code: change one line in the book note hero, deploy, and report back with the rendered page. Kain's ruling, S407.**
 
 # BRIEF: the book note standfirst's closing line changes (Kain, S407)
