@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S149: WAITS ON a factory session writing a REPLY in TO Chat that names the title case count changed (this is a theme session).
+
 **For Code: a factory session brief, signed by Kain at S405. Build the title case list, put it to Kain, then write the titles he signs. Also write the Standard's Version 7 archive copy from git.**
 
 # BRIEF: the title case sweep across every Knowledge Hub title (S405)
