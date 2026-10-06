@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S406: STAYS, waiting on one thing: Code's S150 sitting finishing the hero below 1200 wide, so every S150 ruling is written into DSRD 9 and the page records in one whole-document pass at S407.** Arrived mid-session S406.
+
 **For Chat: write Kain's S150 hero picture ruling into DSRD 9 and the article, quote page and book note records (theme session). Asks nothing else.**
 
 # RULING: the hero picture in a speech bubble with its line behind it, live in 0.707.121 (Kain, S150, theme session)
