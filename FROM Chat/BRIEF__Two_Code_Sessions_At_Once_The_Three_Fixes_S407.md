@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S150: WAITS ON a factory session opening (tooling and harness work; S150 is a theme session).
+
 **For Code: build the three fixes that let a theme session and a factory session run at the same time. Kain's ruling, S407. Factory session; nothing here changes how a page looks.**
 
 # BRIEF: two Code sessions at once, the three fixes (Kain, S407)
