@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S405: ACTED ON.** Written into DSRD 9 section 32 item 16 (book note) and section 40 item 7 (quote page), read back. No board card moved. Archived.
+
 **For Chat: write this ruling home into the Book note and Quote page records (theme session S149). Asks nothing else.**
 
 # RULING: the section numbers on the three reading pages (Kain, S149, theme session)
