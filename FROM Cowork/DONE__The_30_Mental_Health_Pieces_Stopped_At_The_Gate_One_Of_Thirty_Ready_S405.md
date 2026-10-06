@@ -7,8 +7,8 @@ BOARD: The Full Editorial Programme, first outcome: Cowork's share NOT done. Par
 ## The outcome in four lines
 
 1. Stage 1 (source every fact) and Stage 2 (fix to Version 9) are done on all 30, by ten agents, and Chat's approved help line is in all 30 as its own paragraph with its sources read on 6 October.
-2. Stage 3 fresh checks by ten new agents: **1 of 30 reads "Ready to sign"; 29 read "N things need Kain's eye"** (1 thing: 3 pieces; 2 things: 4; 3 things: 5; 4 things: 12; 5 things: 2; 6 things: 2... see the table; total problems named below). The gate for Stage 4 is 25 of 30, so under the brief and queue I stop here and did not touch the 53.
-3. The facts mostly held. Of the 29 sheets, 4 pieces name a source problem (Part 7 rules 1, 3, 5), 5 name a fact that overstates its source, and the rest are about repetition, self-description and house rules. One checker (C8) found no factual error in any of its three.
+2. Stage 3 fresh checks by ten new agents: **1 of 30 reads "Ready to sign"; 29 read "N things need Kain's eye"** (1 thing: 2 pieces; 2 things: 4; 3 things: 6; 4 things: 13; 5 things: 2; 6 things: 2; 102 problems named in all). The gate for Stage 4 is 25 of 30, so under the brief and queue I stop here and did not touch the 53.
+3. The facts mostly held. A fact that overstates or has no source is named in about eight pieces (table below), newer evidence not carried in four, and the bulk are repetition, self-description and house rules. Checker C8 found no factual error in any of its three.
 4. The route's fault, my reading: the fixers cleaned each piece against its own record and against the other 29, but the checkers hold each piece against the whole Help and article folders and against rules the fixers read more loosely (a page describing itself, a description that does not open with the answer, sentence-case titles, newer evidence). The written fix is already on every sheet, so a second fix-and-check round is mechanical. Chat decides whether it happens (see What I need from Chat).
 
 ## Stage 3 result, piece by piece
@@ -83,13 +83,13 @@ BOARD: The Full Editorial Programme, first outcome: Cowork's share NOT done. Par
 
 ## What the problems add up to
 
-- **Part 6 rule 8 repeats (the commonest, in about 15 pieces).** The stock Help headings 'Where could you begin?' (seven Help answers), 'Where does Achology fit in?' (nine) and 'Where can you begin at Achology?'; the course-paragraph stem 'It may not suit you if' and 'who wants to understand their own mind and' (sixteen or more pieces); stance sentences ('understands people rather than labels them', the guide-and-guru line, 'carries no promise of any result') that every brief carries in the stance's own words. Round 2 only de-duplicated across the 30. Checkers compared against the whole Help folder and the published inventory. Checkers disagreed on whether a slot heading is a repeat: C1 read it as not a problem and flagged it for one ruling, C2, C4, C5 and C6 failed it. **This is the single ruling that would move most sheets.**
-- **Part 3 rule 8, the piece describes itself (about nine pieces).** Opening or body sentences that comment on the telling ('including this one', 'it helps to say where before you go further', 'This page is about...').
-- **Part 2 rule 1, the description does not open with the answer (five pieces).**
+- **Part 6 rule 8 repeats (the commonest, in 24 of the 29 pieces).** The stock Help headings 'Where could you begin?' (seven Help answers), 'Where does Achology fit in?' (nine) and 'Where can you begin at Achology?'; the course-paragraph stem 'It may not suit you if' and 'who wants to understand their own mind and' (sixteen or more pieces); stance sentences ('understands people rather than labels them', the guide-and-guru line, 'carries no promise of any result') that every brief carries in the stance's own words. Round 2 only de-duplicated across the 30. Checkers compared against the whole Help folder and the published inventory. Checkers disagreed on whether a slot heading is a repeat: C1 read it as not a problem and flagged it for one ruling, C2, C4, C5 and C6 failed it. **This is the single ruling that would move most sheets.**
+- **Part 3 rule 8, the piece describes itself (ten pieces).** Opening or body sentences that comment on the telling ('including this one', 'it helps to say where before you go further', 'This page is about...').
+- **Part 2 rule 1, the description does not open with the answer (four pieces).**
 - **Part 1 rule 9, article title in sentence case (five of the ten articles).** The fixers did not catch it, and the gate does not print it. Worth a gate line.
 - **Part 7 rule 3, newer or stronger evidence not carried (four pieces).**
-- **Facts that overstate a source (about eight claims across six pieces).** 'Regulated' with no source line, 'someone in distress', 'the employer sets the entry rules', 'Achology.com says something similar', 'health bodies', the Hayes review.
-- **Recipe 7 unique value test (the Achology message taught twice), five pieces.**
+- **Facts that overstate a source (in about eight pieces).** 'Regulated' with no source line, 'someone in distress', 'the employer sets the entry rules', 'Achology.com says something similar', 'health bodies', the Hayes review.
+- **Recipe 7 unique value test (the Achology message taught twice), four pieces.**
 - **Small: a number in words, a misspelt author, a wrong page title, an acronym form, 'anyone' against an 18+ rule.**
 
 If the slot-heading repeat is ruled not a failure, only 3 pieces (`mental-health-course-for-managers-or-teachers`, `study-mental-health-online-is-it-worth-it`, `train-as-a-wellbeing-coach-or-practitioner-online`) would have only repeat problems, and even those carry stance-sentence repeats. So that ruling alone does not reach 25. A second fix round does.
@@ -109,7 +109,7 @@ All 30 records now carry exactly the Standard's Part 7 rule 15 paragraph, as its
 - Gate on all 30 after the changes: FAIL (2) on 28 (the empty `signed` field and the 6-word nickname link, which exception (q) allows and the gate does not read), FAIL (3) on 1 (plus `myriad` inside a printed paper title in `should-mental-health-be-taught-in-schools`), FAIL (1) on the pilot (the signed field only).
 - Reading ease: two pieces sat at 71.9 and 70.5 after Stage 2; lead made word swaps (8 each), recorded in each record's `Post-gate edits, S406`. All 30 pass now.
 - Nickname: four pieces linked 'the Mental Health and Wellbeing Practitioner Diploma' (7 words); 'the' moved outside the link in each, so all link the 6-word nickname. The nickname itself: DSRD 5 section 9 reads it with 'the'. Chat to rule whether the link text includes it.
-- A Part 1 rule 9 title-case line and a 'description opens with the answer' line are missing from the gate (found by hand in five and five pieces).
+- A Part 1 rule 9 title-case line and a 'description opens with the answer' line are missing from the gate (found by hand in five and four pieces).
 - Egan: the author-biography description pushed at S405 ('Gerard Egan is a psychology professor who created the Skilled Helper model...') uses 'is' of a man, against Part 7 rule 16 as I read it. Chat accepted it at S405 ('true either way'), so I flag it and have not changed it.
 
 ## What I need from Chat (one decision, my recommendation first)
