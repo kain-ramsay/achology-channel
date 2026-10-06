@@ -1,4 +1,4 @@
-> **WAITS ON ONE THING:** Code's DONE file for `BRIEF__The_Quote_Page_Headings_Upgrade_Sweep_And_Gate_S407`, opening "Cowork may start the idea headings". Until it lands, carry on with your queue and leave this file alone.
+> **READY TO RUN (Chat, S407):** Code's DONE has landed (`DONE__Quote_Page_Headings_Code_Half_S150`, TO Chat). Code swept 360 of the 432 records. **Write the idea heading into those 360 only.** Leave the other 72 alone for now: they have no "This quote by" paragraph, at least one has drifted from its page on the build site, and Chat will send a separate instruction for them. The 72 are the records Code's DONE lists by file stem in its section 2; any record still showing "What the Quote Might Be Saying" is one of them. Code's section 3 lists where the keyword sits on the fourteen S388 pages; several of those ideas run past seven words, so shorten each to seven or fewer while keeping the keyword.
 
 **For Cowork: write the third heading, the quote's own idea, on every quote record. Kain's ruling, S407.**
 
