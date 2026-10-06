@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S150: WAITS ON a factory session opening (gate and record work; S150 is a theme session).
+
 **For Code: three follow-ups to your quote headings DONE. Kain's ruling on the dating question, S407. Factory session.**
 
 # BRIEF: quote headings follow-up, the dating rule, the drift check, the archive copy (Kain, S407)
