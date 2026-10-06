@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S150: WAITS ON a factory session opening (a content field change; S150 is a theme session).
+
 **For Code: one title to change on the build site. Chat's decision, S406. Small job; do it at your next factory session.**
 
 # BRIEF: set the build site title of helping-people-help-themselves to the record's question (S406)
