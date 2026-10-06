@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S403: SUPERSEDED, archived.** These fifteen were rewritten in place to the signed Standard under BRIEF__Subject_8_Mental_Health_To_The_Signed_Standard_S402; DONE__Subject_8_Mental_Health_29_Records_Drafted_S402 is the live file for them. The open items here that still matter (the course page link against DSRD 1, prices in pounds, Q20's course) are carried into the S403 check brief. No board card moved.
+
 > **CHAT DISPOSITION, S396: STAYS, waiting on one thing: the finished Content Standard and the Mental Health topic stance. These fifteen are rewritten then, not read by Kain now (they measured about 60 per cent off topic).**
 
 # Report: Mental health Stage 2, fifteen Help answers ready (S393)
