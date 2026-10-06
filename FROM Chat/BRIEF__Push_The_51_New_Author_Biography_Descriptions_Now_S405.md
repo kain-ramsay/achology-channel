@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S149: DONE. 51 written, 51 read back matching, records committed (8b79e872). TO Chat/DONE__The_51_Author_Biography_Descriptions_Pushed_S149.md.
+
 **For Code: do this now, in the session you are in with Kain. Signed by Kain at S405. One field on 51 records, nothing else.**
 
 # BRIEF: push the 51 new author biography descriptions to the build site (S405)
