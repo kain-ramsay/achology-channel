@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S407: ACTED ON.** Superseded by round four: the round-one list's one Ready piece re-read as 2 problems in round three. Nothing to sign. Archived.
+
 # BATCH: The 30 Mental Health pieces and the pilot (S405 run, filed S406)
 
 **Ready to sign.** 1 article, gate-passed and checked, sheet "Ready to sign". The other 29 are held: their sheets read "N things need Kain's eye" and each carries its written fix.

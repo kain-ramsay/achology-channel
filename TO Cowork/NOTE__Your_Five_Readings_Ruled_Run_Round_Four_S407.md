@@ -6,7 +6,7 @@
 
 ## The rulings
 
-Kain said yes to your five, with one change of reading on the first. They are written into the Cowork Production Harness, **Version 32, Recipe 10's readings, S407**, with four smaller calls of Chat's beside them. Read them there; in short:
+Kain said yes to Chat's answers to your five questions. They are written into the Cowork Production Harness, **Version 32, Recipe 10's readings, S407**, with four smaller calls of Chat's beside them. Read them there; in short:
 
 1. **The description** may restate the question first if the answer follows straight after. A description that never answers still fails. (This is the reading your exemplar already shows, not the strict one.)
 2. **Copied wording** is seven or more words in a row, or a whole sentence. Names, quotations, fixed lines, locked headings, course names and Related questions titles never count.
