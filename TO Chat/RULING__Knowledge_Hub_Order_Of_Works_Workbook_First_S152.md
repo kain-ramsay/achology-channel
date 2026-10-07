@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S411: the order is written at the head of the S410 queue and goes into its close rewrite; the twenty workbooks were already commissioned (S410 and S411 notes to Cowork, from the DiMAP transcripts, not the old PDFs), named in `REPLY__Workbook_Page_Content_Spec_Twenty_Workbooks_And_Tags_S411`. Archived.**
+
 **Needs from Chat:** write Kain's new order of works for the Knowledge Hub into the plan and the queue, and start the workbooks themselves with Cowork, so the workbook page has real workbooks to show.
 
 # RULING: the Knowledge Hub is finished from the end backwards, workbook page first
