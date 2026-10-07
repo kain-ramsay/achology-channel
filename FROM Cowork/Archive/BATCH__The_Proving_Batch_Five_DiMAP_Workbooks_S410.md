@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S412: superseded by the S411 Reflect list, which Chat acts on this session. No board card moved. Archived.**
+
 > **SUPERSEDED, S411, by `BATCH__The_Proving_Batch_Five_DiMAP_Workbooks_With_Reflect_S411.md`.** The Reflect part, the new workbook names and three contraction fixes changed the five records after this was filed, so its counts (including the one Ready to sign) no longer hold. Read the newer file.
 
 # BATCH: the proving batch, five DiMAP workbooks, S410
