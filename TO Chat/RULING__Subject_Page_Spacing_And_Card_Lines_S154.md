@@ -32,6 +32,13 @@ Kain asked for "the Book Note background image" behind the book note tiles' cove
 - **The bottom edge level:** "have the bottom four cards match up as closely as possible". Built as: each card, newest first, goes into the shortest column; the last eight cards may swap places when that evens the four column feet; the last card in each column then takes up what is left, its reading line kept at its foot. At 48 the most any bottom card grows is 24. Kain on seeing it: "That is unbelievably neat. I am so unbelievably impressed with this."
 - Not yet folded into the prototype: the whole page is not approved (below), so the freeze waits on his word.
 
+## 2c. The dark strip becomes the categories bar (Kain, S154)
+
+- Kain asked what the strip was for. Code's answer, in one sentence: it had no unique purpose, since four of its five links pointed at things already on screen or repeated the hero's buttons. Kain agreed it becomes "how ... the visitor will navigate their way through the different category pages". **The hero's four buttons and their icons stay exactly as approved** ("that was spot on").
+- From four designs (section tabs, sized by contents, picture tabs, follows you) he chose **4, follows you** ("I really like four"): a "Categories" label then the seven categories, the current one in light orange, and the bar pins under the site menu as the reader scrolls.
+- **"They're not subjects, they're categories"**: every label says Categories. **The All link goes**, since all seven show. Its full-width layout is being chosen from four (spread evenly, seven cells, with search, with sizes).
+- This replaces the S153 strip (Latest Article, Editor's Picks, Newest, From the Bookshelf, Explore by Topic, Other subjects) recorded in the build sheet; the fold-back waits on the whole page.
+
 **Not yet approved as a whole (Kain, S154 close):** "What, have I told you that I'm happy with this page yet? Yes or no?" No. Each choice above is his; the whole page waits on his look before it is built.
 
 ## 3. Cloud job 17
