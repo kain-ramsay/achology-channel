@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S153: WAITS ON the next Chat close rewriting it (live map; no FROM Chat file was newer than it at the S153 open).
 
+> **Kain's word, S412: when Kain types next in Code, open this file, run the first item in the S412 head not yet done, write its disposition line, then stop. Chat keeps the order.**
+
 > **S412 HEAD, Chat at the close (the full rebuild from the folder is owed by S413, named in the S412 handover). Open these S412 files in this order, ahead of the map below:**
 > 1. `ASK__Does_The_Dashes_Line_Publish_On_The_Page_S412`: a yes or no, one page; if yes the line shows on built pages, so first.
 > 2. `BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412`: the phrase count and the workbook exception (factory session).
