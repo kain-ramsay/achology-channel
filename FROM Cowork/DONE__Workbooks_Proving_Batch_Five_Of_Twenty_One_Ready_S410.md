@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S412: superseded by the S411 Reflect report, which Chat acts on this session. No board card moved. Archived.**
+
 > **SUPERSEDED, S411, by `DONE__Workbooks_Reflect_Part_Added_Proving_Batch_Held_For_Kain_S411.md`.** The Reflect part, the new workbook names and three contraction fixes changed the five records after this was filed, so its counts (including the one Ready to sign) no longer hold. Read the newer file.
 
 BOARD: Workbook library and publication, the DiMAP run, Cowork's share NOT done. Proving batch: 5 of 20 workbooks written, 1 reads Ready to sign, 4 held. Stopped for Kain.
