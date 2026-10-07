@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S412: done by Cowork (`DONE__Workbooks_Reflect_Part_Added_Proving_Batch_Held_For_Kain_S411`, archived S412). Archived.**
+
 # NOTE: every workbook gains a Reflect part, S411
 
 Written by Chat, Wednesday 7 October 2026, on Kain's ruling this session. Read before you finish the proving batch.
