@@ -185,9 +185,40 @@ cd "$CHANNEL" || { write_status FAIL "Cannot enter $CHANNEL."; exit 1; }
 # this one. Aborting is always the right move: nothing in this repository is ever
 # edited by the watcher, so there is no work of its own to lose, and the files
 # themselves are safe in the commits on either side of the failed replay.
+#
+# THE ORPHANED AUTOSTASH, found twice on 2026-10-07 (S154) and cleared by hand
+# both times. An interrupted pull can leave .git/rebase-merge holding ONLY the
+# file `autostash`, with no head-name beside it. Git then refuses every rebase
+# with "there is already a rebase-merge directory", and `git rebase --abort`
+# refuses too, because without head-name there is no rebase for it to abort.
+# So the abort below did nothing, the status still said "aborted", and every
+# later cycle reported "rolled back cleanly" while the clone stayed shut and
+# Chat's files stopped arriving.
+#
+# The autostash file is one commit hash: the housekeeping changes git set aside
+# before the pull. It is filed into the stash list first, so nothing is lost and
+# it can be looked at later, and only then is the empty rebase folder removed.
+# If the hash cannot be filed, the folder is left exactly where it is and the
+# cycle stops on a FAIL naming it, because deleting it would drop the only
+# pointer to that work.
+if [ -d .git/rebase-merge ] && [ ! -f .git/rebase-merge/head-name ] \
+   && [ "$(ls -A .git/rebase-merge)" = "autostash" ]; then
+  orphan=$(tr -d '[:space:]' < .git/rebase-merge/autostash)
+  if git cat-file -e "${orphan}^{commit}" 2>/dev/null \
+     && git stash store -m "rescued autostash $(stamp), channel watcher" "$orphan" 2>/dev/null; then
+    rm -rf .git/rebase-merge
+    recovered="An orphaned autostash ($(printf '%.8s' "$orphan")) left by an interrupted pull was saved to the stash list and the stuck rebase folder removed."
+  else
+    write_status FAIL "A stuck rebase folder holds only an autostash ($(printf '%.8s' "$orphan")) that could not be saved to the stash list, so nothing was touched. Tell Claude Code."
+    exit 1
+  fi
+fi
 if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
-  git rebase --abort 2>/dev/null
-  recovered="A rebase left in progress by an earlier run was aborted."
+  if git rebase --abort 2>/dev/null; then
+    recovered="${recovered} A rebase left in progress by an earlier run was aborted."
+  else
+    recovered="${recovered} A rebase left in progress by an earlier run could not be aborted."
+  fi
 fi
 if [ -f .git/MERGE_HEAD ]; then
   git merge --abort 2>/dev/null
@@ -372,8 +403,16 @@ fi
 # The risk is named rather than pretended away: a broken script published here
 # now propagates to both machines by itself. That is the right trade, because the
 # failure this replaces was a fix that never arrived at all.
+#
+# REPLACED BY A MOVE, NOT A COPY OVER, S154. Bash reads a script as it runs, so
+# copying the new version over the file this very run is executing made the
+# rest of the run read the new file from the old offset: this Mac's log showed
+# a line of box-drawing characters run as a command. A copy written beside it
+# and moved into place gives the new version its own file, and this run keeps
+# reading the old one to its end.
 if [ -f "machine-two/channel_watch.sh" ] && ! cmp -s "machine-two/channel_watch.sh" "$RUNNING"; then
-  cp "machine-two/channel_watch.sh" "$RUNNING" && chmod +x "$RUNNING" && self_updated=1
+  cp "machine-two/channel_watch.sh" "$RUNNING.new" && chmod +x "$RUNNING.new" \
+    && mv -f "$RUNNING.new" "$RUNNING" && self_updated=1
 fi
 
 note=""
