@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: every open question answered in `NOTE__Your_Workbook_Reports_Ruled_S414` (TO Cowork, run list item 5). Board card: Workbook library and publication, Checked S414. Archived.**
+
 BOARD: Workbook library and publication, the DiMAP run, Cowork's share NOT done. 15 of 20 written. The five proving workbooks are cut to one label each, Karpman's Part One is the nine blocks, and all five were checked once by fresh checkers and fixed. 0 of the five read Ready to sign at that check, and the fixes were not re-read. Last five not started. Held for Kain.
 
 # DONE: the proving batch ruled and fixed, S412

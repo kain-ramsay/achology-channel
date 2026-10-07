@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: rulings 1 to 5 all yes, in `NOTE__Your_Workbook_Reports_Ruled_S414` (TO Cowork, run list item 5). Board card: Workbook library and publication, Checked S414. Archived.**
+
 BOARD: Workbook library and publication, the DiMAP run, Cowork's share done
 
 # DONE: the last five DiMAP workbooks written, checked and fixed, twenty of twenty, S412

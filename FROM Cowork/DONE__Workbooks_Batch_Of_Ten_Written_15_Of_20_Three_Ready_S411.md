@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: every open question answered in `NOTE__Your_Workbook_Reports_Ruled_S414` (TO Cowork, run list item 5). Board card: Workbook library and publication, Checked S414. Archived.**
+
 BOARD: Workbook library and publication, the DiMAP run, Cowork's share NOT done. Batch of ten: 15 of 20 workbooks written (5 proving + 10). 3 of the ten read Ready to sign, 7 were fixed after their last read and not re-read. Last five not started. Stopped for Kain.
 
 # DONE: the batch of ten DiMAP workbooks, S411
