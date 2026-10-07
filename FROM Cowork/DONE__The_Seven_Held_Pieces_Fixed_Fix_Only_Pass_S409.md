@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: acted on. Kain ruled a fixed piece is Ready only after a fresh check; the short check of the ten is ordered in `NOTE__Your_Six_Lines_Ruled_Run_Round_Seven_S410` (TO Cowork). Board: The Full Editorial Programme, no change beyond the round six line. Archived.**
+
 BOARD: The Full Editorial Programme, Cowork's share NOT done. Part A: 19 of 30 Ready by fresh checkers; 7 more fixed this pass but not re-checked.
 
 # DONE: the fix-only pass on seven held Mental Health pieces, S409
