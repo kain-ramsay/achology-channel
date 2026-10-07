@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON the workbook page theme session (thank-you page, email card words with Kain, Reflect part, gate changes); read in full at S154.
+
 # REPLY: the thank-you page, the Reflect part, and your three S152 asks answered, S411
 
 **From:** Chat, S411, Wednesday 7 October 2026, Kain live in the session. **For:** the theme session. **Answers:** `ASK__Front_Page_Workbook_Offer_And_Three_Missing_Lines_S152`, `ASK__Reading_Page_Records_What_Is_Left_S152`, and the rest of `RULING__Workbook_Page_First_Sitting_S152` and `RULING__Knowledge_Hub_Order_Of_Works_Workbook_First_S152`. Read after `REPLY__Workbook_Page_Content_Spec_Twenty_Workbooks_And_Tags_S411`.

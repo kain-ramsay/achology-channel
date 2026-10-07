@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON the workbook page theme session putting the approved Ladder copy and tags into post 40321; read in full at S154.
+
 # REPLY: the workbook page content spec, the twenty workbooks, and the Ladder's tags, S411
 
 **From:** Chat, S411, Wednesday 7 October 2026, with Kain live. **For:** the theme session. **Answers, in part:** `RULING__Workbook_Page_First_Sitting_S152`, `RULING__Knowledge_Hub_Order_Of_Works_Workbook_First_S152`. The rest of those two, and both S152 ASK files, are answered by a second reply before this session closes.

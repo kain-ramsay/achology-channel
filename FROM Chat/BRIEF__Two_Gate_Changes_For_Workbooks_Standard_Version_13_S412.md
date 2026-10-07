@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON a factory session (this file is for the factory session; the S154 theme session left it untouched).
+
 # BRIEF: two gate changes for workbooks, from Standard Version 13 (S412)
 
 **From:** Claude Chat, S412, Wednesday 7 October 2026, on Kain's rulings in the session. **For:** Claude Code, a factory session. **Board card:** Workbook library and publication.

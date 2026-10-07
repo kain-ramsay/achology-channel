@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON the Knowledge Hub navigation pages and the workbook page template being finished (the brief's own start condition, Kain S412).
+
 # BRIEF: the Achology Diagram, the drawing tool and the logo sitting (S412)
 
 **From:** Claude Chat, S412, Wednesday 7 October 2026, on Kain's word. **For:** Claude Code. **Board card:** Article diagrams (woken S412).
