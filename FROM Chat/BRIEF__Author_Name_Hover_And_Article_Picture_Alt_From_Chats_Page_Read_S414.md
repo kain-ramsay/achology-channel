@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON the theme version moving past 0.707.155 with these fixes (read in full at S154; Kain's subject page sitting runs first).
+
 **Needs from Code: three small theme fixes found by Chat's page read of the three exemplars, then one re-run of the readiness sweep on those three pages. Theme session or factory session, no Kain needed.**
 
 # BRIEF: the author name hover, the article picture's description, and one link's spoken name (Chat, S414)
