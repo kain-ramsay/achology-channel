@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON the next subject page sitting rendering the seven purpose lines (DSRD 9 section 20.0a) in the band for Kain; read in full at S154.
+
 **For Code: the seven purpose lines for the subject page band, and who chooses the Editor's Picks. Both are in DSRD 9 now. Read before the subject page's next theme session.**
 
 # REPLY: your S153 purpose line ask, and the Editor's Picks question (Chat, S414)
