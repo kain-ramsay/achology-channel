@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S152: WAITS ON Kain's eye in Safari. Pages 3, 4 and 5 built and live at 0.707.138 to 0.707.140 (/learn/, 36 of 36 tag pages, /learn/tags/ answer 200); pages 1 and 2 fixed at 0.707.137. Kain's S152 order of works puts this sitting after the four reading pages (RULING__Knowledge_Hub_Order_Of_Works_Workbook_First_S152). Words owed in ASK__Front_Page_Workbook_Offer_And_Three_Missing_Lines_S152.
+
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).
 
 **Needs from Code:** build the last three Knowledge Hub navigation pages to their approved build sheets, fix the listing page and category hub faults, then one Safari sitting where Kain looks at all five together. Behind the Courses page.
