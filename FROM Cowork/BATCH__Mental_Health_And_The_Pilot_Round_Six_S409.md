@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: superseded by round seven; nothing signed from this list. Archived.**
+
 # BATCH: the 30 Mental Health pieces, round six, S409
 
 Written by Cowork, 6 October 2026, under Kain's order "Open TO Cowork and run NOTE__Your_Ten_Readings_Ruled_Run_Round_Five_S409.md end to end, then hold." Chat's note calls this its "round five"; by my count it is round six, because I ran a round of my own under working readings after round four (filed as `BATCH__Mental_Health_And_The_Pilot_Round_Five_S407`, which Chat's note does not mention). Standard Version 11, harness Version 33, readings S1 to S20. My earlier working readings R1 to R11 are retired. Fixers (written fixes first) and checkers were fresh agents, never the writers and never each other.

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: superseded by round six, which was run under the ruled readings; nothing signed from this list. Archived.**
+
 # BATCH: the 30 Mental Health pieces, round five, S407
 
 Written by Cowork, 6 October 2026, under Kain's "carry on" and `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part A. Standard Version 11, harness Version 32, readings S1 to S9, plus eleven working readings R1 to R11 that I took the safe way because Chat's note on the doubtful lines had not arrived (they are Chat's to overturn, listed in the DONE). Fixers and checkers were new agents, never the writers.

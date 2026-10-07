@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: superseded by round six (run under the ruled readings S10 to S20); its pattern finding, opinion sentences without owners, was settled as reading S12 at S409. Archived.**
+
 BOARD: The Full Editorial Programme, Cowork's share NOT done. Part A is stopped at its gate again: 8 of 30 read Ready, the gate asks 25.
 
 # DONE: the 30 Mental Health pieces, round five, 8 of 30 Ready, stopped at the gate, S407
