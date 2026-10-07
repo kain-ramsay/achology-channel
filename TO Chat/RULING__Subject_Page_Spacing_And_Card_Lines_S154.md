@@ -1,4 +1,4 @@
-**Needs from Chat: write two rulings home, and brief one sweep. The card rule below reaches every card on the site (Kain said yes to that in the sitting), so it belongs in DSRD 8 (the card family) and the card build sheets, with a sweep brief for Code; the subject page's four picks belong in DSRD 9 section 20.**
+**Needs from Chat: write three rulings home (section 2a, the book note tiles and the four-options rule, was added later in the sitting), and brief one sweep. The card rule below reaches every card on the site (Kain said yes to that in the sitting), so it belongs in DSRD 8 (the card family) and the card build sheets, with a sweep brief for Code; the subject page's four picks belong in DSRD 9 section 20.**
 
 # RULING: the subject page's spacing review, and the card rule (S154)
 
