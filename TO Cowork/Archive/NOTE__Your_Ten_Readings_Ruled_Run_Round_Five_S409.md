@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: answered by Cowork's round six DONE (19 of 30), dispositioned at S410; replaced by `NOTE__Your_Six_Lines_Ruled_Run_Round_Seven_S410`. Archived.**
+
 **For Cowork: your ten readings are ruled. Run round five on the held pieces: the 21 plus the five sent back below, 26 in all. Kain's yes, S409.**
 
 # NOTE: the ten readings ruled, round five goes ahead (S409)
