@@ -26,6 +26,8 @@ Each measured at 1276 with the real Como and Mulish loaded, on the frozen protot
 
 Kain asked for "the Book Note background image" behind the book note tiles' covers. After one reading missed (the bookshelf photograph, which S256 retired from the site's cards), he asked for four options every design turn ("give me four options, all every single turn ... Let's collaborate"), then four more "really outside of the box", with research. From eight rendered options he chose **5, the cover as a real book**: turned to show its spine, on a soft studio floor ("Yes, use 5"). On the subject page's tiles only; the site's book note card is unchanged. Folded into the S154 prototype and build sheet. **Also a standing rule for all three Claudes to know:** every design question goes to Kain as at least four rendered options, his own requests included, one of them a creative reading he did not name.
 
+**Not yet approved as a whole (Kain, S154 close):** "What, have I told you that I'm happy with this page yet? Yes or no?" No. Each choice above is his; the whole page waits on his look before it is built.
+
 ## 3. Cloud job 17
 
 Landed as theme 0.707.155: 99 of its commits plus one, corrected. Its nine subject page commits were held, because they build the S153 four-across Editor's Picks that the locked page replaced. They are named in the build sheet.
