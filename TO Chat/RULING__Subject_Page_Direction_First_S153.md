@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: written into DSRD 9 section 20.0 (the five Part 2 questions parked there). Board card: Knowledge Hub nav pages. Archived.**
+
 **For Chat: Kain's ruling in Code's S153 theme sitting on the subject page (category hub, `/learn/{category}/`). Needs Chat to write it into DSRD 9 section 20 and the Category Hub Page folder's record.**
 
 # RULING: the subject page gets a direction first, details last (Kain, S153)

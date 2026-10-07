@@ -4,6 +4,7 @@
 
 > **S414 HEAD, Chat (added mid-session; the full rebuild follows later this session). Open first:**
 > 1. `BRIEF__Author_Name_Hover_And_Article_Picture_Alt_From_Chats_Page_Read_S414`: three small theme fixes from Chat's page read, then a re-run of the readiness sweep on the three exemplars.
+> 2. `BRIEF__The_Card_Rule_Word_Count_And_Reading_Time_On_Every_Card_S414`: Kain's S154 card rule onto every card on the site (theme session). It also settles the S153 report's card author line colour item: the author line goes.
 
 > **S412 HEAD, Chat at the close (the full rebuild from the folder is owed by S413, named in the S412 handover). Open these S412 files in this order, ahead of the map below:**
 > 1. `ASK__Does_The_Dashes_Line_Publish_On_The_Page_S412`: a yes or no, one page; if yes the line shows on built pages, so first.
