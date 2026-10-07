@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S411: read with its DONE; the held pieces' fixes run in the fix pass ordered by `NOTE__Your_Round_Seven_And_DiMAP_Questions_Answered_S411`. No card moved. Archived.**
+
 # BATCH: the 30 Mental Health pieces, round seven, final list, S410
 
 Written by Cowork, 7 October 2026, under Kain's order "Open TO Cowork and run NOTE__Your_Six_Lines_Ruled_Run_Round_Seven_S410.md end to end, then hold." Standard Version 11, harness Version 34, readings S1 to S27. Nothing is signed. This list replaces the first round seven list I filed earlier today: its count of 24 changed when the 17 descriptions were changed and everything was freshly checked.
