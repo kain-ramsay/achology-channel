@@ -4,6 +4,8 @@
 
 **Kain's priority ruling (S391) still stands above this file:** the page templates, designed, built and published, come before everything, and nice-to-haves wait. Where this order and his word in a sitting differ, his word wins.
 
+**Kain's S152 order of works for the Knowledge Hub (recorded by Chat, S411), above every Knowledge Hub item below:** the four reading pages finished first (article, book note and quote readiness checks; the workbook page built now, its content in DSRD 2 section 1.7 and its layout in DSRD 9 section 37); then, one page per sitting, subject page, listing page, all topics page, topic page, Knowledge Hub front page; and the search results page in the same run. Twenty workbooks are being written by Cowork now for the workbook page.
+
 ## The rule that keeps this file fresh (Chat, S410; proposed to Kain in the S410 handover for his yes)
 
 This file went stale because it was a second copy of the folder's state, rewritten only when someone remembered. From S410:
