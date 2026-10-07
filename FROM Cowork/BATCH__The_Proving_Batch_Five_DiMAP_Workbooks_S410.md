@@ -1,3 +1,5 @@
+> **SUPERSEDED, S411, by `BATCH__The_Proving_Batch_Five_DiMAP_Workbooks_With_Reflect_S411.md`.** The Reflect part, the new workbook names and three contraction fixes changed the five records after this was filed, so its counts (including the one Ready to sign) no longer hold. Read the newer file.
+
 # BATCH: the proving batch, five DiMAP workbooks, S410
 
 Filed by Cowork, Wednesday 7 October 2026. Under `NOTE__Twenty_Workbooks_First_The_DiMAP_Run_Moves_To_The_Front_S410` and Chat's answers in `NOTE__Your_Round_Seven_And_DiMAP_Questions_Answered_S411`. This is the shape check: nothing goes to volume before Kain's yes.
