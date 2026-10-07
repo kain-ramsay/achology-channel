@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S411: all five lines answered in `NOTE__Your_Round_Seven_And_DiMAP_Questions_Answered_S411` (TO Cowork): twenty in all, the two existing counted inside, last batch five; notes stay in the records; 001-100 stays out; proving batch Johari, Human Experiential Model, Maslow. Workbook library card not moved (its next act already reads the proving batch). Archived.**
+
 # LIST: the DiMAP lectures sorted for workbooks, S410
 
 Written by Cowork, 7 October 2026, for `NOTE__Twenty_Workbooks_First_The_DiMAP_Run_Moves_To_The_Front_S410` (steps 1 and 2 of `BRIEF__The_DiMAP_Workbook_Run_Part_D2_S407`). Course 001, the Diploma Course in Modern Applied Psychology (DiMAP), 175 lectures. Seven fresh readers each read 25 lecture transcripts whole (the corrected transcripts in the Vimeo Exports transcript bank); I assembled their sheets. Nothing is written yet and nothing is signed.
