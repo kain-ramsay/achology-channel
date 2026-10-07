@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S412: acted on; the list beside the S411 Mental Health DONE, answered by `NOTE__Your_Mental_Health_Part_A_Questions_Answered_S412`. Archived.**
+
 # BATCH: The Mental Health pieces, Part A fix pass and fresh check (S411)
 
 **Ready to sign.** 5 pieces, gate-passed and checked fresh, sheet reads "Ready to sign". The other 11 changed pieces are held: each sheet reads "N things need Kain's eye" and each problem carries its written fix. Nothing here is signed.
