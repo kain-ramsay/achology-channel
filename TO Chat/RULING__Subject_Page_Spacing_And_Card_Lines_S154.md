@@ -26,6 +26,12 @@ Each measured at 1276 with the real Como and Mulish loaded, on the frozen protot
 
 Kain asked for "the Book Note background image" behind the book note tiles' covers. After one reading missed (the bookshelf photograph, which S256 retired from the site's cards), he asked for four options every design turn ("give me four options, all every single turn ... Let's collaborate"), then four more "really outside of the box", with research. From eight rendered options he chose **5, the cover as a real book**: turned to show its spine, on a soft studio floor ("Yes, use 5"). On the subject page's tiles only; the site's book note card is unchanged. Folded into the S154 prototype and build sheet. **Also a standing rule for all three Claudes to know:** every design question goes to Kain as at least four rendered options, his own requests included, one of them a creative reading he did not name.
 
+## 2b. The grid: 48 cards, the bottom edge level (Kain, S154)
+
+- **More cards:** "the total number of cards ... as a minimum, twice as much" took the grid from 15 to 32; then "this page could be a little bit longer ... three or four more rows ... when we build in the quotes and the workbook pages ... additional layers of kind of variation". From 40, 44, 48 and 52 rendered, he chose **48** ("Yes, use 48 please"): twelve rows of four.
+- **The bottom edge level:** "have the bottom four cards match up as closely as possible". Built as: each card, newest first, goes into the shortest column; the last eight cards may swap places when that evens the four column feet; the last card in each column then takes up what is left, its reading line kept at its foot. At 48 the most any bottom card grows is 24. Kain on seeing it: "That is unbelievably neat. I am so unbelievably impressed with this."
+- Not yet folded into the prototype: the whole page is not approved (below), so the freeze waits on his word.
+
 **Not yet approved as a whole (Kain, S154 close):** "What, have I told you that I'm happy with this page yet? Yes or no?" No. Each choice above is his; the whole page waits on his look before it is built.
 
 ## 3. Cloud job 17
