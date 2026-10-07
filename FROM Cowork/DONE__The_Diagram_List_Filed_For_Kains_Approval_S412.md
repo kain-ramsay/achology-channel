@@ -25,14 +25,14 @@ Every article was read whole by one reader. Every article with a diagram, and 29
 ## Things that need a ruling or a check
 
 1. **The build site.** Cowork cannot see it. An article counts as on the site when its record says publish (344). The 14 "not sure" are four instructor drafts, the held life coaching history article and the nine Seven Beliefs parts (no status in the record). Code can strike any row that is not on the site.
-2. **Kain, once, for many rows:** whether a triangle may hold three parts the article lists as working together but never sets against one another. Three rows are marked `loose` for that. Four more diagrams are marked low confidence.
+2. **Kain, once, for many rows:** whether a triangle may hold three parts the article lists as working together but never sets against one another. Three rows are marked `loose` for that. Four diagrams in all are marked low confidence.
 3. **Kain, once:** the shapes to add. The commonest gap by far is a plain left to right chain of steps (the ABC and ABCDE models, Bridges's three phases, Bandura's four processes and others, 8 models). Then overlapping circles (wise mind, Ikigai, circle of concern and influence), a circle or wheel, an iceberg, a two-way split, a spectrum and a timeline.
 4. **The same picture on several pages** is written once in the primary record and named in the others, per DSRD 2 section 3.11; the other rows say "Same picture as". Karpman appears on 7 pages, Johari on 5, wise mind on 5. Where pages used different label words for one model I unified them to the primary page's words; that was Cowork's call, and Kain can overturn it.
 5. **Records with a stray line.** 119 of the 358 records carry the line "No em or en dashes in this file; checked before writing." at the end of the body area. If Code's importer does not strip it, it publishes as text. I changed nothing; Code can check one page.
 
 ## Where the workbook run stands (held until this was filed, as the brief said)
 
-The batch of ten DiMAP workbooks is written, checked twice by fresh checkers and fixed twice. Eight read Ready to sign or had small fixes applied; the final script checks pass on all ten. I had not yet filed its BATCH and DONE, nor done the two small copy fixes, when this brief arrived. They are next. Nothing was lost; the records and the check sheets are in place.
+The batch of ten DiMAP workbooks is written, checked twice by fresh checkers and fixed twice. At the second check three read Ready to sign and seven had one to three small things; a fixer applied each written fix and nobody re-read them, because two check rounds is the cap. The script checks pass on all ten. I had not yet filed its BATCH and DONE, nor done the two small copy fixes, when this brief arrived. They are next. Nothing was lost; the records and the check sheets are in place.
 
 ## Cleanup note
 
