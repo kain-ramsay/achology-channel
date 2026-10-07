@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: every ruling and the four DSRD 7 departures written into DSRD 9 section 20.0 (the folder's own README and build sheet are Code's and already match). The shelf words are superseded by Kain's own S154 words; the purpose lines and who chooses the picks are settled with Kain at S414. Board card: Knowledge Hub nav pages. Archived.**
+
 **For Chat: Kain chose the subject page's direction in Code's S153 theme sitting. Needs Chat to write it into DSRD 9 section 20 and the Category Hub Page folder's record, and later to write the shelf words.**
 
 # RULING: the subject page takes direction D, the editorial front (Kain, S153)
