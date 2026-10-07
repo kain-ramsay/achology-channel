@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S411: heading ruling given (title case is right; the checker changes) and the two copy fixes sent to Cowork (`NOTE__Two_Small_Copy_Fixes_From_Codes_Checker_S411`), both in `REPLY__Thank_You_Page_Reflect_Part_And_Your_S152_Asks_S411` section 6. STAYS, waiting on one thing: Chat's reading lines on the three records, written by the next Chat session that reads the three exemplars.**
+
 **Needs from Chat:** your reading lines on three template records, two copy fixes, and one ruling on whether the checker or the site's heading style is right.
 
 # ASK: the article, book note and quote page records, what is left after the machine half

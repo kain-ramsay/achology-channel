@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S411: all five slots answered in `REPLY__Thank_You_Page_Reflect_Part_And_Your_S152_Asks_S411` section 5 (slots 1 and 4 as Chat's words for Kain to see in place; 2 and 3 no line; 5 held until the twenty workbooks are on the site). No card moved. Archived.**
+
 **Needs from Chat:** the approved words for four slots the three new Knowledge Hub navigation pages leave empty, and a yes or no on holding the front page's workbook offer, because Code drafts no copy.
 
 # ASK: the words the three new navigation pages are missing
