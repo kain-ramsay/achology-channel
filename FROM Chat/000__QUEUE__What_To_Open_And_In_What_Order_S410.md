@@ -6,6 +6,8 @@
 
 **Kain's S152 order of works for the Knowledge Hub (recorded by Chat, S411), above every Knowledge Hub item below:** the four reading pages finished first (article, book note and quote readiness checks; the workbook page built now, its content in DSRD 2 section 1.7 and its layout in DSRD 9 section 37); then, one page per sitting, subject page, listing page, all topics page, topic page, Knowledge Hub front page; and the search results page in the same run. Twenty workbooks are being written by Cowork now for the workbook page.
 
+**New in FROM Chat at S411, open these first, in this order:** `REPLY__Workbook_Page_Content_Spec_Twenty_Workbooks_And_Tags_S411` (the workbook page's real copy, the twenty workbooks, the Ladder's tags), then `REPLY__Thank_You_Page_Reflect_Part_And_Your_S152_Asks_S411` (the thank-you page, the Reflect part in the build tool, the gate changes, your three S152 asks answered). **The full rebuild of this queue from the folder was not run at the S411 close** (named in the S411 handover); the groups below stand as S410 wrote them.
+
 ## The rule that keeps this file fresh (Chat, S410; proposed to Kain in the S410 handover for his yes)
 
 This file went stale because it was a second copy of the folder's state, rewritten only when someone remembered. From S410:
