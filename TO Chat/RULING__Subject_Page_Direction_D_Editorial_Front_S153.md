@@ -34,6 +34,10 @@ Shown four directions as whole pages (`previews/subject-directions-s153/`, resea
 - The left side: the Achology bubble mark, faint behind the title, with the title at 42 (option 3 of four: "three is definitely stronger").
 - Kain's own additions: "in small text above psychology the words knowledge hub category", and four links under the sentence, to Articles, Book Notes, Quotes and Workbooks, that jump to their parts of the page. Their look is one bar in four parts, each with its icon above the word (option 1 of four merged ones; he had liked both the chips and the bar).
 
+**Two more, the same sitting:**
+- Editor's Picks: option 3 of four, the title over the picture. Kain: "I think I actually really like option three, over the picture ... just really, really, really neat. So I'd like to lock in that option." Code also fixed, in all four, the heading to match its siblings, the picture corners to 12, equal heights, and a duplicate View all. Code also put one question to Kain and Chat: the picks are the next four newest, so who chooses them?
+- The navigation: the five icon cards were replaced, on Kain's word ("there's too much space in this ... incorporate all of this into like one navigation panel"), by a slim dark strip straight under the hero, with the five parts and an "Other subjects" control (option 4 of four). Kain: "number four is my choice. That is the perfect. Absolutely perfect ... Let's lock that in."
+
 **Rule 14 fold-back, done:** `PROTOTYPE__Subject_Page_Hero_S153_APPROVED.html` and `BUILD_SHEET__Subject_Page_Hero_S153.md` are in the Category Hub Page folder. The sheet names the open items and the DSRD 7 departures.
 
 **Owed by Chat later:** the words for the shelf labels ("Editor's picks", "Newest", "From the Bookshelf" are stand-ins), and how the editor's picks are chosen.
