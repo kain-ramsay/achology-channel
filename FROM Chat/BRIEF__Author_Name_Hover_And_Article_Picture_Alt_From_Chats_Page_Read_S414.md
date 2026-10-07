@@ -21,10 +21,18 @@ On /learn/psychology/articles/what-is-jungs-shadow/ the band art (`.kh-article__
 
 On the book note page the first "View the Book on Amazon" link's accessible name reads "View the Book on Amazonopens in a new tab": the hidden words follow with no break. The second Amazon link reads correctly. **The fix:** give the first the same hidden text as the second (", opens in a new tab").
 
-## 4. Then
+## 4. Push Cowork's two S411 copy fixes on the same two pages
+
+Cowork fixed both at source at S411 (`NOTE__Two_Small_Copy_Fixes_From_Codes_Checker_S411` and her S411 DONE): "GP" spelled out at first use on what-is-jungs-shadow, and every abbreviation spelled out on words-that-change-minds. Neither is on the build site yet. Push both records, after the gate passes them on those lines.
+
+## 5. One gate line for workbooks, not covered by the S412 gate brief
+
+The S412 brief (`BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412`) adds the phrase count. Cowork's checkers also found seven-word runs a workbook shares with Help answers, which the Content Standard's Part 6 rule 8 forbids and the gate does not measure. Add a check for runs of seven or more words shared with any other published record, and exempt the workbook's fixed template copy (DSRD 2 section 3.4.1).
+
+## 6. Then
 
 Re-run `page_readiness_board.py --sweep` on the three exemplars and write the machine lines. Leave Chat's lines alone; Chat updates its own after your report.
 
-OWED BACK: a DONE file naming the theme version, the three fixes, the band-art count from item 2, and the re-run.
+OWED BACK: a DONE file naming the theme version, the three fixes, the band-art count from item 2, the two pushes, the new gate line, and the re-run.
 
 *No em or en dashes in this file; checked before writing.*
