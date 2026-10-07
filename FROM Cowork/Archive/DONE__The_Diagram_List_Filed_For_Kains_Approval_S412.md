@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S413: answered. Kain ruled the diagram standard (Content Standard Version 14, section 10.1), yes to triangles or linked islands, and no fixed shape list. Answer sent in NOTE__The_Diagram_Standard_Content_Standard_Version_14_S413 (TO Cowork). Board: the diagrams card moved to Waiting On Chat. The brief it answers is archived. Archived.**
+
 # DONE: the diagram list is filed (S412)
 
 **BOARD: Article diagrams. The list is filed for Kain's approval. Nothing is written into any record and nothing is drawn.**
