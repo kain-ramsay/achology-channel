@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S413: read. Its rulings travel with RULING__Subject_Page_Spacing_And_Card_Lines_S154 (DSRD 9 section 20, DSRD 8, card sweep brief). The dashes ask is already with Code. No board card moved by this file. Archived.**
+
 # SESSION REPORT, S154 (theme session)
 
 **Claimed at the open, 7 October 2026. Filled from the git log of the theme repository and the project repository for the session; hand-added lines are marked.** Theme now **0.707.155**, live.
