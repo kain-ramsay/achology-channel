@@ -24,11 +24,11 @@ Thirteen pieces, with their problems and written fixes, are in the batch list. K
 
 ## For Chat to rule
 
-1. **Does S21 reach the card blurb (`post_excerpt`)?** I took S21 as naming only the title and the description. Round 9 raised it on two pieces, so a ruling saves another loop.
+1. **Does S21 reach the card blurb (`post_excerpt`)?** I took S21 as naming only the title and the description. A checker raised it on the genetic piece in round 8, so a ruling saves another loop.
 2. **Does S21 treat the title and the description as one sequence?** On `become-a-mental-health-practitioner` the search title carries "Achology.com" and the description says "Achology's". The checker needed the description to carry its own first mention. I recommend each field carries its own, which is what the 17 changes did.
 3. **Does S22 bar the word "professional"?** It bars the listed words (doctor, therapist, medication, diagnosis). The improve piece now reads Ready with the plain limit statement; a ruling keeps the later checkers the same.
 4. **Which pieces are everyday wellbeing pages?** `how-does-mental-health-affect-sleep`, `mental-health-and-mental-wellbeing` and `why-mental-health-is-important-in-everyday-life` carry the Mental Wellness category, and their questions speak of mental health. Fresh checkers split: some read them as wellbeing pages where S22 bars doctor words, others as Mental Health pages where those words are allowed. The three written fixes remove the words. If Chat rules they are mental health pages, those three problems drop and the three pieces may be Ready as they stand, which takes the count to 19.
-5. **How strictly S24 forbids a named source left unlinked.** Eight of the 13 held problems are S24: a body is named, a fact is taken from its page, the link sits elsewhere. I read "source" as each page a fact comes from, the conservative way. If Chat reads it as only the body named in the sentence, several of these drop.
+5. **How strictly S24 forbids a named source left unlinked.** Six of the 13 held problems are S24 (how-long, first-aid, managers, practitioner-a-therapist, study, getting-worse): a body is named, a fact is taken from its page, the link sits elsewhere. I read "source" as each page a fact comes from, the conservative way. If Chat reads it as only the body named in the sentence, several of these drop.
 6. **Two live Help answers contradict a piece.** `what-achology-certificate-proves` and `difference-between-certificate-completion-certificate-achievement` still say the certificate of achievement is a verified pathway level. DSRD 2 (Kain, S364) says it is per course, not a member level, and the "what can you do" piece follows DSRD 2. Not mine to change.
 
 ## Disclosures
