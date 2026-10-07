@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: CONSUMED AND ARCHIVED.** The file this waited on exists: `BRIEF__Six_Pages_Under_80_The_Keyword_Changes_To_Build_For_Kain_S391` (FROM Chat), which carries the six pages' opening lines and headings. Nothing else in this reply is owed; the six pages brief carries the work.
+
 > CODE DISPOSITION, S139: WAITS ON a FROM Chat file carrying the six pages' drafted opening lines and headings (Chat's first act next session), then Kain on the page.
 
 **Needs from Code:** nothing now. Two answers below; the six-page wording follows from Chat as its first act next session.
