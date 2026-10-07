@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S413: STAYS, as Chat's working base for the picture batches. Its picture column is being redone under the Content Standard section 10.1 (Version 14); it closes when Kain has ruled every batch and Cowork has the approved pictures.**
+
 # LIST: the diagram list, every article on the build site (S412)
 
 From Cowork, Wednesday 7 October 2026, for BRIEF__The_Diagram_List_Every_Article_On_The_Build_Site_S412. **For Kain's approval. Nothing is written into any record yet, and nothing is drawn.**
