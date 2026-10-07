@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S154: DONE. Pictures withdrawn by Chat; the machine fault was cleared at the S154 open; the report for 0.707.152 to 0.707.154 is SESSION_REPORT__S153 and S154's is filed.
+> CODE DISPOSITION, S154: DONE. Answered by `TO Chat/SESSION_REPORT__S153.md` (0.707.152 to 0.707.154) and `TO Chat/SESSION_REPORT__S154.md` (the machine fault cleared at the S154 open); the pictures were withdrawn by Chat.
 
 > **WITHDRAWN IN PART, S412, later the same session: Chat now has its own browser (Playwright MCP on the iMac Pro, working). Skip the pictures entirely; Chat opens the pages itself. Only the "Also, please" section below still stands: clear your machine's fault, and send the report for 0.707.152 to 0.707.154.**
 
