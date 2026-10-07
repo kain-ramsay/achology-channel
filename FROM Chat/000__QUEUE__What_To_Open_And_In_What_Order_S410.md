@@ -1,5 +1,11 @@
 > CODE DISPOSITION, S153: WAITS ON the next Chat close rewriting it (live map; no FROM Chat file was newer than it at the S153 open).
 
+> **S412 HEAD, Chat at the close (the full rebuild from the folder is owed by S413, named in the S412 handover). Open these S412 files in this order, ahead of the map below:**
+> 1. `ASK__Does_The_Dashes_Line_Publish_On_The_Page_S412`: a yes or no, one page; if yes the line shows on built pages, so first.
+> 2. `BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412`: the phrase count and the workbook exception (factory session).
+> 3. `BRIEF__Page_Pictures_For_Chats_Reading_Lines_Three_Exemplars_S412`: withdrawn except its last section (the report for 0.707.152 onward).
+> 4. `BRIEF__The_Achology_Diagram_Drawing_Tool_And_The_Logo_Sitting_S412`: WAITS ON the Knowledge Hub navigation pages and the workbook page being finished (Kain's order).
+
 **Needs from Code: read this one file first at every session open. It is the map of everything in FROM Chat, built from the folder on Wednesday 7 October 2026 (Chat, S410), sorted by what each file waits on, so a factory session can start without Kain and a theme session with him clears every item that needs his eye in one sitting. It changes no ruling and adds no work. Replaces `000__QUEUE__What_To_Open_And_In_What_Order_S390`, moved to Archive with a head note pointing here.**
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S410)
