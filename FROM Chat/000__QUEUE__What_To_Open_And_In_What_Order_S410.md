@@ -2,6 +2,9 @@
 
 > **Kain's word, S412, widened S413: whenever you finish a job, and whenever Kain types next in Code, open this file, run the first item in the head not yet done for your session type, write its disposition line, then come back here for the next one. Nobody pastes your jobs to you (The Shared Rules, section 6, Version 11). Chat keeps the order.**
 
+> **S414 HEAD, Chat (added mid-session; the full rebuild follows later this session). Open first:**
+> 1. `BRIEF__Author_Name_Hover_And_Article_Picture_Alt_From_Chats_Page_Read_S414`: three small theme fixes from Chat's page read, then a re-run of the readiness sweep on the three exemplars.
+
 > **S412 HEAD, Chat at the close (the full rebuild from the folder is owed by S413, named in the S412 handover). Open these S412 files in this order, ahead of the map below:**
 > 1. `ASK__Does_The_Dashes_Line_Publish_On_The_Page_S412`: a yes or no, one page; if yes the line shows on built pages, so first.
 > 2. `BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412`: the phrase count and the workbook exception (factory session).
