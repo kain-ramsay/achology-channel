@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: the list of record; its Reflect questions are read by Kain on the built workbook page (`NOTE__Your_Workbook_Reports_Ruled_S414`, section 4). Archived.**
+
 # BATCH: the last five DiMAP workbooks, 16 to 20 of 20, S412
 
 Filed by Cowork, Wednesday 7 October 2026, under Kain's "Yes, please do" to the last-five order and the DiMAP run orders. Workbooks only: no companion article, no landing page body, no `whats_inside`. **Standard:** Version 14 on disk (it adds only Part 10.1, the diagrams; no workbook rule moved from Version 13). **Harness:** Version 36. Five records in `Content Records/workbook/`, each as `DRAFT__<name>.md`, each with the Reflect part and at most one "Achology's view" type label.

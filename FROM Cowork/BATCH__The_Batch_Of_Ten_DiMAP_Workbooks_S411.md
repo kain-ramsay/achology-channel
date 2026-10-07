@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: the list of record; its Reflect questions are read by Kain on the built workbook page (`NOTE__Your_Workbook_Reports_Ruled_S414`, section 4). Archived.**
+
 # BATCH: the batch of ten DiMAP workbooks, S411
 
 Filed by Cowork, Wednesday 7 October 2026, under `NOTE__Your_Ten_Readings_Ruled_Run_Round_Five_S409` and the DiMAP run orders. Workbooks only: no companion article, no landing page body, no `whats_inside`. **Standard:** Version 12. **Harness:** Version 35. Ten records in `Content Records/workbook/`, each as `DRAFT__<name>.md`, each with the Reflect part. Two check rounds were run on every record, which is the cap, so nothing here is a signing row except the three marked.
