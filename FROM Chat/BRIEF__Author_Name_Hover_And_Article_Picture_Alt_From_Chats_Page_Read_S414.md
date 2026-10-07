@@ -33,7 +33,7 @@ The S412 brief (`BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412`
 
 ## 6. Then
 
-Re-run `page_readiness_board.py --sweep` on the three exemplars and write the machine lines. Leave Chat's lines alone; Chat updates its own after your report.
+Teach `page_gate.py` the new DSRD 6 section 1 carve-out (Chat, S414): an acronym inside another page's title in a reading-list block (Browse More Achology Articles, Explore More Book Notes, Explore More Quote Articles, any related-reading row) is recorded as a named carve-out, not a fail. Then re-run `page_readiness_board.py --sweep` on the three exemplars and write the machine lines. Leave Chat's lines alone; Chat updates its own after your report.
 
 OWED BACK: a DONE file naming the theme version, the three fixes, the band-art count from item 2, the two pushes, the new gate line, and the re-run.
 
