@@ -15,6 +15,8 @@ Assembled from the theme and project repositories' logs for the session (Harness
 7. **The channel clone resynced with origin** at the open (it had diverged: 22 ahead, 37 behind; merged and pushed). HAND ADDED.
 8. **The project repository's stale git lock cleared three times** (6 Oct 23:16, 7 Oct 15:25 and 15:52). The hourly autosave (`record_autosave.py`) had made no commit since 6 Oct 17:44. A fix task is offered to Kain as a separate session. HAND ADDED.
 
+9. **Folder maps regenerated** (`tools/folder_map.py`, because S153 added the theme's `cloud-briefs/` folder). Six folders' contents had moved, most of them by other sessions: the theme folder, Project Delivery System, its Intersession handover folder, Content Production Factory and its Content Records, and the Vimeo Exports folder. One map is missing: `07. All Achology Videos | Vimeo Exports/YouTube Channel Programme`. Chat checks those against their stated rules. HAND ADDED.
+
 ## For Chat, the four files
 
 - `RULING__Subject_Page_Direction_First_S153`: Kain's ruling that the page gets a direction first, research next, details last.
