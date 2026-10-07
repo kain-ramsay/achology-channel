@@ -22,7 +22,7 @@
 
 - DSRD 9 section 37.4: item 2 gains the band button; item 5's side panel placement is the quote page's order (cover at the foot, the email box under it); item 7 (the related workbooks shelf) is superseded by "Browse More Achology Articles" under the writing, Kain's standardisation ruling. Section 37.5: the band is ruled; the capture block's look and the Kit wiring stay open.
 - The cover on the page is made by `tools/workbook_page_draft.py` with the workbook build tool's own pieces: rotation picture 2 (row written to 000__COVER_ROTATION.csv), the NLP school's Know Your Psychology logo (the Diploma's home school by the theme's tie-break, DSRD 1 section 2.3).
-- Still proposals on the draft, unprinted: the category (Psychology) and tags (understand-your-mind, break-negative-thinking, practical-exercise), and the capture button words. Chat to confirm or correct.
+- Still proposals on the draft, unprinted: the category (Psychology) and tags (understand-your-mind, break-negative-thinking, practical-exercise). Chat to confirm or correct. The button words are ruled (item 9).
 - Rule 14 fold-back: the prototype export into the Workbook Page design folder and its build sheet are written when Kain approves the page whole; the sitting continues.
 
 ## OWED BACK
