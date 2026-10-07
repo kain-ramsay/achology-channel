@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: acted on. The six lines ruled by Kain one at a time, written as harness Version 34 readings S21 to S27; round seven ordered in `NOTE__Your_Six_Lines_Ruled_Run_Round_Seven_S410` (TO Cowork). Board: The Full Editorial Programme, Part A at 19 of 30, Waiting On Who stays Cowork. Archived.**
+
 BOARD: The Full Editorial Programme, Cowork's share NOT done. Part A is stopped at its gate again: 19 of 30 read Ready, the gate asks 25.
 
 # DONE: the 30 Mental Health pieces, round six, 19 of 30 Ready, stopped at the gate, S409
