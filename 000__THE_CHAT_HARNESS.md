@@ -1,6 +1,6 @@
 # THE CHAT HARNESS
 
-**Version 1.18, S399. Authority: Kain Ramsay.**
+**Version 1.19, S410. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
@@ -9,6 +9,7 @@
 
 ## Version history
 
+- **1.19, S410.** The channel mechanism tightened, no rule added: Chat rewrites Code's queue file (`000__QUEUE` in FROM Chat) at every close from the folder as it stands, inside close Step 5, and a close whose FROM Chat count moved without the queue rewritten is named as clipped in the closing line. Kain's yes at S410, after the S390 queue sat two weeks stale over 56 files, four of them dead. Code's half (the queue is stale if any file is newer than it) lives in The Shared Rules.
 - **1.18, S399.** Rule 1 tightened, no rule added: running out of room is not a reason to close. Chat names short room in one line and keeps working; only Kain ends the session. Written after Chat ran the close at S399 against Kain's word, with room as the unspoken reason.
 
 One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
@@ -110,6 +111,7 @@ The mechanisms doing reconciliation work, mapped to the drifts they catch:
 | The disposition written onto the file itself: before any inbox file is archived, one line at its head names what was done with it and which board cards moved; a file that stays carries one line naming the fact it waits on | The disposition being true in the message and false in fact. A message vanishes at session end, so nothing outlives it to be graded. The folder outlives everything and any mind can read it |
 | The report against the theme, a hard stop: at every open, the deployed theme version against the newest Code session report Chat has read. If the theme is ahead, the session does not proceed to any agenda: Chat finds and reads the missing reports first, or tells Kain plainly that it cannot and why. No judgement call and no discretion | A Code session that finished work and filed no report, and equally a report filed on a road Chat is not reading. Neither side has to be honest for this to fire, because both facts are read from the things themselves; and since the hard stop, the finding cannot be printed and then ignored, which is what happened at S279 |
 | Both roads counted at open, both sides of each (S352): Chat's outbox is counted beside its inbox, and the oldest outbox file with no head line is named in the opening message with its session number; FROM Cowork is read and dispositioned as Chat's inbox beside TO Chat, a DONE file's disposition archives the brief it answers in TO Cowork, and the oldest brief Cowork still owes is named in the opening line the same way | Code's close skipped, so consumed instructions sit as live ones; 42 files went unnoticed for thirty sessions because each side counted only what it reads. And Cowork's finished work sitting unread, or its briefs waiting with nobody told: 29 files in FROM Cowork at S352, the oldest from S318, on a tray no ritual opened |
+| Close Step 5's queue rewrite (S410): `000__QUEUE__What_To_Open_And_In_What_Order` in FROM Chat is rebuilt from the folder at every close, dead files archived with head lines first; the closing line names a close that moved the count without rewriting it. Code's open checks the queue's date against the newest file in the folder (The Shared Rules, section 6) | A map of Code's tray maintained by memory: the S390 queue stood two weeks over 56 files, four of them dead, and Code read it as current |
 | Open Step 1's board update from Code's session report: Code's session report is opened first and its lines driven onto the Notion board in the same turn, with the count of cards moved stated in the opening message | The board going stale because work Code finished never reached it. At S055 Code and Kain fixed 108 book covers by hand; the board still showed the job outstanding the next day and Chat was one turn from asking Karen to redo it |
 | The output gate: produced text scripted through the standing checks (dashes, banned vocabulary, UK spelling) in Chat's code environment before it lands, count printed | Banned characters and vocabulary reaching files through eye-check fatigue |
 | Open Step 3's attention count and Close Step 3's stamp (S342): every card read and found true is stamped with its session as the last write on it; the Needs Attention view holds every open card that is unstamped, edited after its stamp, or stamped over seven days ago; the open prints the view's count, the close prints cards stamped and cards still waiting, and the next open verifies both. **The stamp is refused (S352) where the card's Definition of Done is not a finished-state test readable in one pass, or carries a ruling owed:** the history moves to the handover and the ruling is put to Kain in the session before the card is stamped | The board going stale one card at a time with nothing assigned to notice: a card nobody has read for a fortnight looks identical to one read yesterday. At S341 the 24 open Knowledge Hub cards had never been checked as a set, about eight content batches carried no stage, and the board read as current because no card could say otherwise. And a card turning into a diary: at S352 one card's done-line was 400 words of session narrative with a parked ruling at its foot, so the line that said what done was could not be found in one read |
@@ -147,4 +149,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.18.*
+*End of The Chat Harness, Version 1.19.*

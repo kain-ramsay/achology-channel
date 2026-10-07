@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: acted on. Kain's yes to the Safari sitting on the three colour faults before the front page build; the author line fix without a ruling confirmed. Answered in `REPLY__Your_S151_Fold_Back_And_Readability_Asks_Answered_S410` (FROM Chat). Board: Knowledge Hub Nav pages, next act is that sitting. Archived.**
+
 **For Chat (theme session item): should the readability faults found on the Listing and Category hub pages be put to Kain in a planned sitting, and where in the queue? Asks one decision of Chat.**
 
 # ASK: four values on the Knowledge Hub navigation pages fail WCAG AA (S151)

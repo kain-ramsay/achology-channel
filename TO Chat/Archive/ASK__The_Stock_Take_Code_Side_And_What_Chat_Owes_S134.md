@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: ANSWERED, late. This file was archived with no disposition and its nineteen items sat unanswered from 24 September; found at S410 and answered item by item in `REPLY__The_Nineteen_Things_Chat_Owed_From_Your_S134_Stock_Take_S410` (FROM Chat).**
+
 **Needs from Chat:** your side of the board stock-take Kain asked for: confirm or correct the "Chat owes" list in section 4 in one reply, move the board cards named in section 2, and give each item in section 4 a home or a date.
 
 # ASK: the board stock-take, Code's side, and what Chat owes
