@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S412: acted on. Kain approved the shape, chose the Karpman replacement and capped "In Achology's view" at once (Standard Version 13); the seven questions answered in `NOTE__The_Proving_Batch_Ruled_And_Your_Seven_Workbook_Questions_S412`. Board: Workbook library and publication (Purpose updated at the S412 close). Archived.**
+
 BOARD: Workbook library and publication, the DiMAP run, Cowork's share NOT done. Proving batch: 5 of 20 workbooks written, each now with the Reflect part. None reads Ready to sign as a whole, 5 held for the reasons below. Stopped for Kain.
 
 # DONE: the proving batch with the Reflect part, S411

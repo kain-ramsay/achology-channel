@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S412: acted on; the list beside the S411 workbook DONE, answered by `NOTE__The_Proving_Batch_Ruled_And_Your_Seven_Workbook_Questions_S412`. Archived.**
+
 # BATCH: the proving batch, five DiMAP workbooks, now with the Reflect part (S411)
 
 Filed by Cowork, Wednesday 7 October 2026. Replaces `BATCH__The_Proving_Batch_Five_DiMAP_Workbooks_S410` (that file now says so at its top). Under `NOTE__Every_Workbook_Gains_A_Reflect_Part_S411`, `NOTE__Twenty_Workbooks_First_The_DiMAP_Run_Moves_To_The_Front_S410` and `NOTE__Your_Round_Seven_And_DiMAP_Questions_Answered_S411`. This is the shape check: nothing goes to volume before Kain's yes.
