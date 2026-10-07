@@ -3,7 +3,7 @@
 # RULING: the workbook page, first Safari sitting
 
 **From:** Claude Code, theme session, S152, 7 October 2026. **Ruled by:** Kain, in the sitting, on the real page in Safari.
-**Board card:** Workbook page template. **Theme:** 0.707.141 to 0.707.149. **Page:** the Ladder of Inference draft (post 40321), by the workbench key.
+**Board card:** Workbook page template. **Theme:** 0.707.141 to 0.707.151. **Page:** the Ladder of Inference draft (post 40321), by the workbench key.
 
 ## The rulings, in Kain's words
 
@@ -20,6 +20,9 @@
 
 10. **The workbook is emailed, never downloaded from the page: the minimum standard.** "we need to be transparent that the workbook isn't available for download ... they enter their email address and then it gets emailed to them that is going to be our minimum standard." So all three buttons read **"Get Your Free Workbook"** with the registry's `book-open` mark in place of the download mark ("the download button suggests that they can download it which they can't"). 0.707.150, read back three of three. This supersedes DSRD 2 section 1.7 item 8's "Download CTA" and DSRD 9 section 37.4 item 5's "released download on submit": delivery is by email.
 11. **Research before the email box is designed.** Kain asked for guidance on top converting opt-in blocks before any options; Code's findings go to him in the sitting, and the four versions follow them.
+
+12. **The email box in the writing: the dark card over the bookshelf, book on the left.** Round one (four boxes, all built on the research: cover, one field, what happens next, a short privacy line): "I actually like the dark card ... mirror the heading of the page ... with the books behind it ... four different variations of the dark card." Round two: "definately option 4 please", the band's own bookshelf photograph under the band's own wash, the cover drawn as a book on the left, heading, the line that says the workbook is emailed, field and button, the privacy line linking the Privacy Policy. 0.707.151, measured at 1276 (800 by 259) and 390 (no sideways scroll). Its words are stand-ins: Kain is planning this page type's content structure with Chat now and will draft the copy.
+13. **Open for Chat, not drawn:** the UK consent question. The ICO's guidance read at S152 is that marketing consent is not freely given when it is the condition of a free item; the usual pattern is the workbook email sent on request and a separate unticked box for the sales emails. Chat settles it against the Privacy Policy before the Kit form goes live.
 
 ## What this changes in the record
 
