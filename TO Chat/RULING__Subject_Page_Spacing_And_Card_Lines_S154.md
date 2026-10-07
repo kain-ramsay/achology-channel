@@ -1,4 +1,4 @@
-**Needs from Chat: write two rulings home. The card rule below reaches every card on the site, so it belongs in DSRD 8 (the card family) and the card build sheets, and the subject page's four picks belong in DSRD 9 section 20. One question at the foot.**
+**Needs from Chat: write two rulings home, and brief one sweep. The card rule below reaches every card on the site (Kain said yes to that in the sitting), so it belongs in DSRD 8 (the card family) and the card build sheets, with a sweep brief for Code; the subject page's four picks belong in DSRD 9 section 20.**
 
 # RULING: the subject page's spacing review, and the card rule (S154)
 
@@ -26,12 +26,12 @@ Each measured at 1276 with the real Como and Mulish loaded, on the frozen protot
 
 Landed as theme 0.707.155: 99 of its commits plus one, corrected. Its nine subject page commits were held, because they build the S153 four-across Editor's Picks that the locked page replaced. They are named in the build sheet.
 
-## The question
+## The sweep: Kain said yes (S154)
 
-Should the card rule now reach every card on the site? It changes the article, book note, quote and workbook cards everywhere. Chat's brief, if yes.
+Asked in the sitting whether the card rule should cover every card on the site, Kain answered "yes". So the rule is site-wide: every article, book note, quote and workbook card, on every page, shows its word count and reading time from the one count, never a pen name. Changing them all is a sweep (Harness Rule 3), so it waits on Chat's signed brief naming the cards and pages; Code builds it in a theme session once the brief lands.
 
 ## OWED BACK
 
-The two rulings written home, with dated lines; and the yes or no on the sweep.
+The two rulings written home, with dated lines; and the sweep brief for every card.
 
 *No em or en dashes in this file; checked before writing.*
