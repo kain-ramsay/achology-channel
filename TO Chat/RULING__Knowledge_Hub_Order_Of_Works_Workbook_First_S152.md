@@ -17,10 +17,16 @@
 
 This replaces the S390 queue's order for the Knowledge Hub pages. The three navigation pages Code built earlier today (front page, 36 topic pages, all topics page; theme 0.707.138 to 0.707.140) stay live on the build ground and wait their turn in this order.
 
+## Kain's second ruling, the same sitting: twenty workbooks, now
+
+"if we need more workbooks right then let's commission chat and co-work to draft what we need right now so we can just build them into the website if we can get 20 workbooks in this website we're we're fit to launch let's not defer this let's just do the work right now"
+
+What exists today, read S152: one workbook record (`DRAFT__The_Karpman_Drama_Triangle_Workbook` in Content Records, workbook); the worked example's Ladder of Inference workbook (Educational Publishing System); the approved workbook layout (`06__WORKBOOK_TEMPLATE__Achology_Master_Layout.html`, Kain S345); the workbook build tool that turns a record into the finished PDF; and 30 old PDFs in the Workbooks Upgrade Programme folder's "Old PDF Resources to Upgrade (Cowork)", the natural first source for the twenty. Kain also says a ChatGPT session made a workbook page mock-up; Code has not found it on disk yet.
+
 ## What Chat owes
 
 - The order written into `PLAN__The_Finish_List_Every_Started_Card_And_What_Closes_It_S392` and `000__QUEUE__What_To_Open_And_In_What_Order_S390`.
-- Workbooks: Kain asked for Chat to "deliver us a bunch of workbook books". No workbook is published on the install today (read S152). Chat to commission the batch with Cowork, and name for Code which workbook records exist now besides the Karpman Drama Triangle one.
+- **Workbooks, now: a BRIEF to Cowork for twenty workbook records**, drafted to DSRD 2 sections 3.4 and 1.7, Kain's words above as its authority, sourced first from the 30 old PDFs. Code builds each finished PDF with the build tool and lands it on the workbook page as records arrive. No workbook is published on the install today (read S152).
 
 ## OWED BACK
 
