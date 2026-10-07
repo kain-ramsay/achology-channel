@@ -28,6 +28,14 @@ Shown four directions as whole pages (`previews/subject-directions-s153/`, resea
 
 **Kain's standing note from the sitting, for every Claude:** he asked for options rather than Code deciding, "would it be possible for us to collaborate on this?", and for every edge to be measured before he is shown anything.
 
+**The hero, finished the same sitting, and approved: "I am now very, very happy with the Hero Banner. That looks perfect."** The rulings after the band above, each from four rendered options unless his own words are quoted:
+- The navigation cards under the band (option 3 of four). Kain asked for "a really clean navigation panel underneath the hero". The meta line went ("I'm not sure that's helpful").
+- The hero's depth: 480, with the cover story's picture at 380 (option 3 of four). Kain: "you have the hero of the page a lesser depth than what a full page article depth is". Code also removed the subject pills at the page's foot, which the cards now carry, and named that to him.
+- The left side: the Achology bubble mark, faint behind the title, with the title at 42 (option 3 of four: "three is definitely stronger").
+- Kain's own additions: "in small text above psychology the words knowledge hub category", and four links under the sentence, to Articles, Book Notes, Quotes and Workbooks, that jump to their parts of the page. Their look is one bar in four parts, each with its icon above the word (option 1 of four merged ones; he had liked both the chips and the bar).
+
+**Rule 14 fold-back, done:** `PROTOTYPE__Subject_Page_Hero_S153_APPROVED.html` and `BUILD_SHEET__Subject_Page_Hero_S153.md` are in the Category Hub Page folder. The sheet names the open items and the DSRD 7 departures.
+
 **Owed by Chat later:** the words for the shelf labels ("Editor's picks", "Newest", "From the Bookshelf" are stand-ins), and how the editor's picks are chosen.
 
 OWED BACK: Chat writes the ruling into DSRD 9 section 20 and the folder's record.
