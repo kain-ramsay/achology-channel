@@ -66,6 +66,6 @@
 
 `BRIEF__Page_Pictures_For_Chats_Reading_Lines_Three_Exemplars_S412` (withdrawn: Chat read the pages itself at S414) and `REPLY__The_Nineteen_Things_Chat_Owed_From_Your_S134_Stock_Take_S410` are no longer in the folder.
 
-**Count at S414, from the folder:** 60 files besides this one and the README: 9 in Group 0, 19 in Group A, 32 in Group B. Every file is named above once.
+**Count at S414, from the folder:** 60 files besides this one and the README: 9 in Group 0, 20 in Group A, 31 in Group B. Every file has one place; `REPLY__Every_Answer_Owed_On_Your_S139_To_S142_Files_S393` is also named in Group A item 7 as a pointer only (checked by script against the folder listing).
 
 *No em or en dashes in this file; checked before writing.*

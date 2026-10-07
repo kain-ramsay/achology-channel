@@ -1,3 +1,5 @@
+> **SUPERSEDED, S414: replaced by `000__QUEUE__What_To_Open_And_In_What_Order_S414`, rebuilt from the folder by Chat. Archived.**
+
 > CODE DISPOSITION, S153: WAITS ON the next Chat close rewriting it (live map; no FROM Chat file was newer than it at the S153 open).
 
 > **Kain's word, S412, widened S413: whenever you finish a job, and whenever Kain types next in Code, open this file, run the first item in the head not yet done for your session type, write its disposition line, then come back here for the next one. Nobody pastes your jobs to you (The Shared Rules, section 6, Version 11). Chat keeps the order.**
