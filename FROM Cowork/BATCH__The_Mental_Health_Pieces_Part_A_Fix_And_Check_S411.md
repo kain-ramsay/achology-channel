@@ -2,7 +2,7 @@
 
 **Ready to sign.** 5 pieces, gate-passed and checked fresh, sheet reads "Ready to sign". The other 11 changed pieces are held: each sheet reads "N things need Kain's eye" and each problem carries its written fix. Nothing here is signed.
 
-**Batch:** the 16 Mental Health pieces changed in this pass (8 Help answers, 8 hub question articles). The 14 others were not touched and are not re-listed. **Pass:** one fix-only pass (the 13 written round nine fixes plus the S21 card blurb change on three more), then one fresh check by eight new checkers (E to H and A to D) who did not write or fix any piece. **Standard version:** 11. **Harness:** Version 35, readings S1 to S32. **Chat's order:** S411, `NOTE__Your_Round_Seven_And_DiMAP_Questions_Answered_S411`.
+**Batch:** the 16 Mental Health pieces changed in this pass (8 Help answers, 8 hub question articles). The 14 others were not touched and are not re-listed. **Pass:** one fix-only pass (the 13 written round nine fixes plus the S21 card blurb change on three more), then one fresh check by eight fresh checkers (A to H) who did not write or fix any piece. **Standard version:** 11. **Harness:** Version 35, readings S1 to S32. **Chat's order:** S411, `NOTE__Your_Round_Seven_And_DiMAP_Questions_Answered_S411`.
 
 ## Ready to sign
 
