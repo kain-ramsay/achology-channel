@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: REPLACED by `000__QUEUE__What_To_Open_And_In_What_Order_S410` (FROM Chat), rebuilt from the folder; archived.**
+
 > **KAIN'S PRIORITY RULING, S391 close, above everything else in this file:** there is no greater priority than designing, developing and publishing the page templates until every page template is published. First clear the article backlog (upload every article waiting and empty this tray of that work), so the channel is free for template design and building. Anything that is a nice to have waits until the templates are all published, starting with the fourteen testimonial videos job, which is parked. Where this file's order differs, this ruling wins.
 
 > CODE DISPOSITION, S139: WAITS ON the Group 2 and 3 files it maps being worked; S139 cleared Group 1's export, Group 2 items 1 (in part), 5 and 6 (in part), and Group 3 item 10's Karpman render. See TO Chat/SESSION_REPORT__S139.md.
