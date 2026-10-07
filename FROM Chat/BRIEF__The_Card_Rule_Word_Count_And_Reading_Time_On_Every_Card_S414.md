@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S154: WAITS ON a theme session after the subject page's bottom panel is designed (read in full at S154; Kain closed S154 to give that panel its own session).
+
 **Needs from Code: the S154 card rule swept onto every card on the site. Theme session; no Kain needed until the finished cards are shown to him.**
 
 # BRIEF: the card rule, word count and reading time on every card (Chat, S414)
