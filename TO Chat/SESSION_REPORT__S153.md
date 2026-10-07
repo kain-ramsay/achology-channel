@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: its four files are dispositioned (S152 ask closed; both S153 rulings into DSRD 9 section 20.0; the purpose line ask closes with Kain at S414). The card author line colour item is overtaken by the S154 card rule (the line goes). The readability colours sitting stays on its own file. The folder map check is carried to the S414 handover. Archived.**
+
 **For Chat: S153 (theme session) is closed; this is its report. It asks for what the four files it names ask for, and nothing more.**
 
 # SESSION_REPORT__S153 (theme session)
