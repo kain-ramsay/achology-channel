@@ -61,6 +61,6 @@ Until Kain says yes, items 1 and 2 are Chat's own practice from this session; hi
 ## Archived at S410, each with a head note
 `BRIEF__Prove_The_Free_Lip_Sync_Route_On_One_Clip_S355` (the studio route replaced it, S409); `CHECKLIST__The_Book_Note_Page_Second_Safari_Look_Nine_Rulings_And_How_The_Card_Closes_S374` (Kain closed the page at S147); `COMMISSION__A_Safari_Sitting_On_The_Our_People_Pages_S333` (replaced by the S392 close-without-a-sitting); `REPLY__Courses_Rulings_Recorded_And_The_Six_Pages_Direction_Accepted_S390` (its waiting file exists).
 
-**Count at S410:** 52 files in FROM Chat besides this one and the README: 15 in Group A, 37 across Group B's 23 items. Every one carries a disposition; none waits on Chat.
+**Count at S410 close:** 52 files in FROM Chat besides this one and the README (51 above plus `REPLY__The_Nineteen_Things_Chat_Owed_From_Your_S134_Stock_Take_S410`, which answers your S134 ask and is read, not worked): 15 in Group A, 36 across Group B's 23 items (one Group B file, the S390 courses reply, was archived at S410). Every one carries a disposition; none waits on Chat.
 
 *No em or en dashes in this file; checked before writing.*
