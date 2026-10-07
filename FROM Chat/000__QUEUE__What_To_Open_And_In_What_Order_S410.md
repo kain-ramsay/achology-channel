@@ -7,6 +7,7 @@
 > 2. `BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412`: the phrase count and the workbook exception (factory session).
 > 3. `BRIEF__Page_Pictures_For_Chats_Reading_Lines_Three_Exemplars_S412`: withdrawn except its last section (the report for 0.707.152 onward).
 > 4. `BRIEF__The_Achology_Diagram_Drawing_Tool_And_The_Logo_Sitting_S412`: WAITS ON the Knowledge Hub navigation pages and the workbook page being finished (Kain's order).
+> 5. `NOTE__The_Diagram_Standard_Version_14_Changes_Your_Diagram_Brief_S413` (added S413): read with item 4; its one small job now is the Version 13 archive copy.
 
 **Needs from Code: read this one file first at every session open. It is the map of everything in FROM Chat, built from the folder on Wednesday 7 October 2026 (Chat, S410), sorted by what each file waits on, so a factory session can start without Kain and a theme session with him clears every item that needs his eye in one sitting. It changes no ruling and adds no work. Replaces `000__QUEUE__What_To_Open_And_In_What_Order_S390`, moved to Archive with a head note pointing here.**
 
