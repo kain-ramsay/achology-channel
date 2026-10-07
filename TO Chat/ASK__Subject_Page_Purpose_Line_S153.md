@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S414: CLOSED. Seven purpose lines written into DSRD 9 section 20.0a (for Kain's eye on the rendered band) and sent back in `REPLY__Subject_Page_Purpose_Lines_And_Editors_Picks_S414`. Board card: Knowledge Hub nav pages. Archived.**
+
 **For Chat: one line of words for the subject page's dark band, seven times over, one per subject. Needed before the band is built into the theme (theme session).**
 
 # ASK: the subject page's purpose line (Kain, S153)
