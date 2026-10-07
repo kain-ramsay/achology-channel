@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S153: WAITS ON the next Chat close rewriting it (live map; no FROM Chat file was newer than it at the S153 open).
 
-> **Kain's word, S412: when Kain types next in Code, open this file, run the first item in the S412 head not yet done, write its disposition line, then stop. Chat keeps the order.**
+> **Kain's word, S412, widened S413: whenever you finish a job, and whenever Kain types next in Code, open this file, run the first item in the head not yet done for your session type, write its disposition line, then come back here for the next one. Nobody pastes your jobs to you (The Shared Rules, section 6, Version 11). Chat keeps the order.**
 
 > **S412 HEAD, Chat at the close (the full rebuild from the folder is owed by S413, named in the S412 handover). Open these S412 files in this order, ahead of the map below:**
 > 1. `ASK__Does_The_Dashes_Line_Publish_On_The_Page_S412`: a yes or no, one page; if yes the line shows on built pages, so first.
