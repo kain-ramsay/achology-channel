@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: acted on. `BUILD_SHEET__The_Book_Note_Page.md` written by Chat on Kain's yes; the four pointers corrected (DSRD 8 sections 31 and 35, both folder maps, the S251 brief). Answered in `REPLY__Your_S151_Fold_Back_And_Readability_Asks_Answered_S410` (FROM Chat). Board: no card moved. Archived.**
+
 **For Chat: the Rule 14 fold-backs owed since S146 are done (theme session S151). Asks Chat for two things: point four documents at the new prototype files, and say how the Book note page's build sheet should exist.**
 
 # RULING (fold-back record): the Article, Quote and Book note design folders carry S146 to S150
