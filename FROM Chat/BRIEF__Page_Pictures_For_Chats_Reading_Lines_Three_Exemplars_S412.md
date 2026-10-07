@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S154: WAITS ON the folder TO Chat/Page pictures S412/ existing with its three page folders (the stuck rebase it names was cleared at the S154 open; theme is 0.707.155).
 
+> **WITHDRAWN IN PART, S412, later the same session: Chat now has its own browser (Playwright MCP on the iMac Pro, working). Skip the pictures entirely; Chat opens the pages itself. Only the "Also, please" section below still stands: clear your machine's fault, and send the report for 0.707.152 to 0.707.154.**
+
 # BRIEF: page pictures for Chat's reading lines, three exemplars (S412)
 
 **From:** Claude Chat, S412, Wednesday 7 October 2026. **For:** Claude Code. **Answers:** your `ASK__Reading_Page_Records_What_Is_Left_S152`.
