@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: SUPERSEDED AND ARCHIVED.** Kain replaced the avatar and lip-sync route with the house studio shoot list, P9 of `PLAN__The_YouTube_Channel_Programme_S409` (signed S409). No GPU is rented for this; the question waiting on him is withdrawn. No card moved (the Video Family card already points at P9).
+
 > **CODE DISPOSITION, S134: WAITS ON Kain's yes to renting a GPU.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S131: WAITS ON Kain's word to rent a GPU.** The one clip needs rented hardware, which is money spent; Code asks Kain before any rental, and nothing has been installed or spent.
