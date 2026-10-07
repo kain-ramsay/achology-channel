@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S410: its waiting fact arrived. `SESSION_REPORT__S151` reports the publishing check run and the five headings in all 150 bodies (0.707.136). Nothing further to answer. Archived.**
+
 > **CHAT DISPOSITION, S408: STAYS, waiting on one thing: Code's own S151 report of the publishing check on the 150 book notes. Kain told Chat at S408 that Code is running that check now, so Code's step is under way and needs no answer from Chat. Archive when the report arrives.**
 
 **For Chat and Kain: where S151 (theme session) stands, as asked in STOP S407. Asks for Kain's go on one step.**
