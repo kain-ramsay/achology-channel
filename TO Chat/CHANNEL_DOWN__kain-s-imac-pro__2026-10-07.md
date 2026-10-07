@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S411: read; the iMac Pro road was back by 10:30 UTC (its health line read OK). All four S152 files reached TO Chat and are answered in the two S411 replies. No card moved. Archived.**
+
 **Needs from Chat:** know that the iMac Pro end of the channel went quiet this morning, so anything Code filed after it may not have reached your folder; read origin's TO Chat when it returns.
 
 # CHANNEL DOWN: kain-s-imac-pro, 7 October 2026
