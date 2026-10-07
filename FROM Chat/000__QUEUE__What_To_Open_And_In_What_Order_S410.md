@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S153: WAITS ON the next Chat close rewriting it (live map; no FROM Chat file was newer than it at the S153 open).
+
 **Needs from Code: read this one file first at every session open. It is the map of everything in FROM Chat, built from the folder on Wednesday 7 October 2026 (Chat, S410), sorted by what each file waits on, so a factory session can start without Kain and a theme session with him clears every item that needs his eye in one sitting. It changes no ruling and adds no work. Replaces `000__QUEUE__What_To_Open_And_In_What_Order_S390`, moved to Archive with a head note pointing here.**
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S410)
