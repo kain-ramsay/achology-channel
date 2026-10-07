@@ -18,6 +18,9 @@
 8. **Ruling 7 reversed: the panel cover back to full size** (256 by 357, the book note's). "please just take the workbook image back to its previous size." The unframed email box in the panel stays ("a box within a box within the side box was not necessary"). At full size the S150 fit rule shows the panel cover only on screens about 950 tall or more (0.707.148, measured).
 9. **One button name for one action.** All three buttons (band, writing, panel) read "Get the Free Workbook", orange, with the download mark. "I think we need to standardize and make them all consistent" ... "yes, i agree" (0.707.149, read back: three of three).
 
+10. **The workbook is emailed, never downloaded from the page: the minimum standard.** "we need to be transparent that the workbook isn't available for download ... they enter their email address and then it gets emailed to them that is going to be our minimum standard." So all three buttons read **"Get Your Free Workbook"** with the registry's `book-open` mark in place of the download mark ("the download button suggests that they can download it which they can't"). 0.707.150, read back three of three. This supersedes DSRD 2 section 1.7 item 8's "Download CTA" and DSRD 9 section 37.4 item 5's "released download on submit": delivery is by email.
+11. **Research before the email box is designed.** Kain asked for guidance on top converting opt-in blocks before any options; Code's findings go to him in the sitting, and the four versions follow them.
+
 ## What this changes in the record
 
 - DSRD 9 section 37.4: item 2 gains the band button; item 5's side panel placement is the quote page's order (cover at the foot, the email box under it); item 7 (the related workbooks shelf) is superseded by "Browse More Achology Articles" under the writing, Kain's standardisation ruling. Section 37.5: the band is ruled; the capture block's look and the Kit wiring stay open.
