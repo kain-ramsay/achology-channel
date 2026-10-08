@@ -9,7 +9,7 @@ BOARD: Project Cleanup, every built page's readiness record.
 - reviewed_by reads Kain Ramsay on all twenty.
 - Human Givens accompany line names lectures 142 and 143.
 - Gate after each edit: FAIL (7) on all twenty, no new FAIL. No dashes anywhere.
-- Fresh check per record: done as 20 short sheets, not full Part 19 sheets (four agents, five records each). Eighteen Ready to sign cleanly; Kohlberg and Transference carry the length ruling; HEM carries one note for Kain.
+- Fresh check per record: done as 20 short sheets, not full Part 19 sheets (four agents, five records each). Seventeen Ready to sign cleanly; Kohlberg and Transference carry the length ruling; HEM carries one note for Kain.
 - Human Experiential Model sits at reading ease 70.0, on the edge. Do not touch it again without re-running the numbers.
 - Not mine, still open: Standard Part 7 rule 15 still shows the old linked wording; the Id/Ego label is still unverified; four older Human Givens notes still say lecture 142 only.
 - Per-record detail is in the BATCH of the same name.

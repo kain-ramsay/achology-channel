@@ -18,7 +18,7 @@ Chat's S414 ruling (NOTE Your Workbook Reports Ruled, section 6), in one pass ov
 - Gate: all twenty read FAIL (7), the expected seven (paragraph breaches in the fixed layout, landing_page_body and whats_inside, author key, keyword in one teaching heading, external link, signed, landing page body). No other FAIL on any record.
 - Dashes: 0 in the twenty records and the twenty check sheets.
 - Reading ease: 64.7 (Karpman) to 70.0. Page two is 280 on Maslow, Johari and Ladder, which is at the ceiling and not over it.
-- Fresh checks: 20 short sheets named `CHECK__DRAFT__<name>_S412_meta.md` in the workbook folder. 18 read Ready to sign without comment. Kohlberg and Transference read Ready to sign on the changes made, with the one ruling below. The Human Experiential Model sheet carries one note for Kain's eye (see HEM).
+- Fresh checks: 20 short sheets named `CHECK__DRAFT__<name>_S412_meta.md` in the workbook folder. 17 read Ready to sign without comment. Kohlberg and Transference read Ready to sign on the changes made, with the one ruling below. The Human Experiential Model sheet carries one note for Kain's eye (see its section).
 
 ## The two held records
 
@@ -27,11 +27,11 @@ Kain's frame is "<name>: Free Worksheet" with a fixed description. For two long 
 - Kohlberg's Stages of Moral Development Workbook: title 63, description 163.
 - Transference and Countertransference Workbook: title 61, description 161.
 
-Both keep their old SEO title and description (59 and 152 for Kohlberg area; 57 and 152 for Transference, both inside the gate and carrying the keyword). Their foot sections say so. Every other change was applied to them.
+Both keep their old SEO title and description (Kohlberg 59 and 140 characters; Transference 57 and 152; both inside the gate and carrying the keyword). Their foot sections say so. Every other change was applied to them.
 
 ## The Human Experiential Model record
 
-Its post_title is "Thoughts Feelings Behaviour Workbook". The help-line change lifted reading ease to 70.3, over the ceiling. I made three plain-word swaps in Part One (successes and setbacks for wins and losses; withdraws for hides; disorganised for scattered decisions) and kept "sweating or shaking" after the checker said "perspiration or trembling" was not plain. Ease is now 69.9 to 70.0 depending on which counter reads it. It passes, but only just. Any later edit to that record will tip it over.
+Its post_title is "Thoughts Feelings Behaviour Workbook". The help-line change lifted reading ease to 70.3, over the ceiling. I made three plain-word swaps in Part One (successes and setbacks for wins and losses; withdraws for hides; disorganised for scattered decisions) and kept "sweating or shaking" after the checker said "perspiration or trembling" was not plain. Ease reads 69.9 on the checker's run and 70.0 on mine. It passes, but only just. Any later edit to that record will tip it over.
 
 ## Open wording items (not mine to settle)
 
