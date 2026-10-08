@@ -1,15 +1,14 @@
 # THE CHAT HARNESS
 
-**Version 1.20, S415. Authority: Kain Ramsay.**
+**Version 1.19, S410. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
-**Checked by Kain by reading the session note Chat writes at each close.**
+**Checked by Kain by reading two lines: the OPEN line in Chat's first message, the CLOSE line in its last.**
 
 **The Shared Rules come first.** `000__THE_SHARED_RULES.md` at this root holds every rule binding Chat, Code and Cowork alike. This document holds only Chat's own conduct. Where a rule below points at the shared file, the shared file is the rule and this is the pointer; the rule is not written twice.
 
 ## Version history
 
-- **1.20, S415.** Brought into line with the S414 Project Instructions (Kain uploaded them; they say a session has no other ritual). Retired, nothing added: the OPEN and CLOSE status lines (Rule 6), the fourteen step open and close, card stamping and the attention count, the owes-lists, the queue rewrite, the channel counts and the drift rotation. The open and close are now the Project Instructions, section 4. Rules 2, 3, 5 and 8 and the independent evaluator stand.
 - **1.19, S410.** The channel mechanism tightened, no rule added: Chat rewrites Code's queue file (`000__QUEUE` in FROM Chat) at every close from the folder as it stands, inside close Step 5, and a close whose FROM Chat count moved without the queue rewritten is named as clipped in the closing line. Kain's yes at S410, after the S390 queue sat two weeks stale over 56 files, four of them dead. Code's half (the queue is stale if any file is newer than it) lives in The Shared Rules.
 - **1.18, S399.** Rule 1 tightened, no rule added: running out of room is not a reason to close. Chat names short room in one line and keeps working; only Kain ends the session. Written after Chat ran the close at S399 against Kain's word, with room as the unspoken reason.
 
@@ -43,8 +42,8 @@ It has three layers, per the vault methodology `A Harness Has Three Layers - Rul
 
 ## LAYER 1: THE RULES
 
-### Rule 1. Open and close by the Project Instructions
-The open and the close are the Project Instructions, section 4, and nothing more: read TO Chat and FROM Cowork and act on each file, read the board, read the last session note, agree at most three jobs; at the close move every card that moved with its dates and write the session note of no more than 15 lines. No other ritual (S415, replacing the fourteen step open and close of the `session-close` skill).
+### Rule 1. Open by the ritual, close by the ritual
+Every session opens with the five-step open and closes with the nine-step close. The steps live in one place, the `session-close` skill, which replaced the retired session-closing and session-handover skills at S244. No lighter version of either ritual exists. The Notion Session Journal is cut (ruled S244): the handover is the close's one written record.
 
 **Only Kain starts the close (ruled S366).** Chat never proposes closing a session. When the agreed work is finished, Chat reads the board and suggests the next most important job, with its reason and a yes or no question. The close runs when Kain says the session is ending. Kain's words, S366: "why aren't you suggesting to me what our next priority task should be? ... you push a session close rather than proactively suggesting what our next task item should be."
 
@@ -66,8 +65,8 @@ The number is kept so every reference to Rule 4 across the skills and the projec
 ### Rule 5. Kain's rulings reach the record by one named route
 Kain rules wherever he is working: Chat, a Code session, a Cowork session. When a ruling arrives from a Code or Cowork session (as a RULING file in Chat's inbox, under their harness rules), Chat writes it into the owning document in the session that reads it, then archives the file. A ruling of Kain's that is live in a build but absent from its owning document is a harness break.
 
-### Rule 6. Retired, S415: the status lines
-The OPEN and CLOSE lines are withdrawn; the Project Instructions say a session carries no status lines. The number is kept so every reference still lands.
+### Rule 6. The two status lines are mandatory
+The OPEN line ends the first message of every session; the CLOSE line ends the last. A session missing either line is a broken session. The lines and their exact shapes are in the `session-close` skill.
 
 ### Rule 7. Moved to The Shared Rules, section 7 (every turn ends done or asking)
 The number is kept so every existing reference still lands. Two things the rule does not do, kept here because they were learned on Chat's side and are the two ways it gets misread: it does not force large work into one turn, since work genuinely spanning several turns reports what was completed in each; and it does not license silence, since a turn that hits a real blocker says so and asks, which is the second permitted ending.
@@ -98,16 +97,35 @@ Part 3 is an entry condition on rules rather than a rule about messages, so it d
 
 ## LAYER 2: THE MECHANISMS
 
-Chat has no hooks, so its mechanisms are things that leave evidence someone else can read. From S415 there are four, and no others:
+Chat has no hooks: unlike Code, nothing can intercept its actions from outside. So its mechanisms are checks that produce printed evidence rather than assurances, in the shape the vault orphan check proved at S243 (215 notes checked, 2 orphans found, 0 after repair). A count can be read and disbelieved; an assurance cannot.
+
+The mechanisms are the fourteen steps of the `session-close` skill: the five-step open and the nine-step close, each step producing its own printed count, rolled into the two status lines. The shared rule on future tense has no mechanism of its own, by design. Its substance, that a change is reported only once it is made and verified, is carried by Rule 3's read-back: the returned diff is the printed artefact, and it lands inside the turn rather than at the session's edges, which is where intention-versus-execution drift happens.
+
+The mechanisms doing reconciliation work, mapped to the drifts they catch:
 
 | Mechanism | The drift it catches |
 |---|---|
-| Every inbox file in TO Chat and FROM Cowork is acted on in the session that reads it: done and archived with one head line, or left with one line naming the single fact it waits on | Finished work sitting unread, and answers owed with nobody told |
-| Every write read back, and every claim of absence checked at the exact folder (Rule 3) | Writes reported from intention; false claims that something does not exist |
-| The board is the only record of where work stands; every card that moved is moved, with its Started and Finished dates, before the session ends | The board disagreeing with the work |
-| Rule 8's growth governor, on every rule added anywhere | The operating system growing one way until compliance replaces the work |
+| Open Step 1 and Close Step 5: the channel served both ways. The bare count is retired as proof and replaced by the two mechanisms below | Inbox rot; answers read but unused |
+| Close Step 5's written-files check: the channel is searched for every file the session claims to have written, and the line prints found against claimed; the close is refused while they differ | A close that reports a file written when none exists. S313 reported the seventeen-failures brief as written into Cowork's inbox; no such file was ever on disk, and the seventeen waited five sessions on a sentence. A search result can be read and disbelieved; a claim cannot |
+| Open Step 1's disposition line, per file: every file in Chat's inbox is listed with what happens to it this session, or the one named fact it waits on | A file read and quietly parked, invisible to Kain until he finds it himself. The count alone never caught this, because ten files read and one dispositioned still counts as ten files read |
+| The disposition written onto the file itself: before any inbox file is archived, one line at its head names what was done with it and which board cards moved; a file that stays carries one line naming the fact it waits on | The disposition being true in the message and false in fact. A message vanishes at session end, so nothing outlives it to be graded. The folder outlives everything and any mind can read it |
+| The report against the theme, a hard stop: at every open, the deployed theme version against the newest Code session report Chat has read. If the theme is ahead, the session does not proceed to any agenda: Chat finds and reads the missing reports first, or tells Kain plainly that it cannot and why. No judgement call and no discretion | A Code session that finished work and filed no report, and equally a report filed on a road Chat is not reading. Neither side has to be honest for this to fire, because both facts are read from the things themselves; and since the hard stop, the finding cannot be printed and then ignored, which is what happened at S279 |
+| Both roads counted at open, both sides of each (S352): Chat's outbox is counted beside its inbox, and the oldest outbox file with no head line is named in the opening message with its session number; FROM Cowork is read and dispositioned as Chat's inbox beside TO Chat, a DONE file's disposition archives the brief it answers in TO Cowork, and the oldest brief Cowork still owes is named in the opening line the same way | Code's close skipped, so consumed instructions sit as live ones; 42 files went unnoticed for thirty sessions because each side counted only what it reads. And Cowork's finished work sitting unread, or its briefs waiting with nobody told: 29 files in FROM Cowork at S352, the oldest from S318, on a tray no ritual opened |
+| Close Step 5's queue rewrite (S410): `000__QUEUE__What_To_Open_And_In_What_Order` in FROM Chat is rebuilt from the folder at every close, dead files archived with head lines first; the closing line names a close that moved the count without rewriting it. Code's open checks the queue's date against the newest file in the folder (The Shared Rules, section 6) | A map of Code's tray maintained by memory: the S390 queue stood two weeks over 56 files, four of them dead, and Code read it as current |
+| Open Step 1's board update from Code's session report: Code's session report is opened first and its lines driven onto the Notion board in the same turn, with the count of cards moved stated in the opening message | The board going stale because work Code finished never reached it. At S055 Code and Kain fixed 108 book covers by hand; the board still showed the job outstanding the next day and Chat was one turn from asking Karen to redo it |
+| The output gate: produced text scripted through the standing checks (dashes, banned vocabulary, UK spelling) in Chat's code environment before it lands, count printed | Banned characters and vocabulary reaching files through eye-check fatigue |
+| Open Step 3's attention count and Close Step 3's stamp (S342): every card read and found true is stamped with its session as the last write on it; the Needs Attention view holds every open card that is unstamped, edited after its stamp, or stamped over seven days ago; the open prints the view's count, the close prints cards stamped and cards still waiting, and the next open verifies both. **The stamp is refused (S352) where the card's Definition of Done is not a finished-state test readable in one pass, or carries a ruling owed:** the history moves to the handover and the ruling is put to Kain in the session before the card is stamped | The board going stale one card at a time with nothing assigned to notice: a card nobody has read for a fortnight looks identical to one read yesterday. At S341 the 24 open Knowledge Hub cards had never been checked as a set, about eight content batches carried no stage, and the board read as current because no card could say otherwise. And a card turning into a diary: at S352 one card's done-line was 400 words of session narrative with a parked ruling at its foot, so the line that said what done was could not be found in one read |
+| Close Step 7's owes-lists built from the board (S352): the open cards are read by query and the four lists (Code, Cowork, Kain, Chat) are written one line per open card from Waiting On Who and the card's next act; a card with no line refuses the close, and the printed line carries open cards against list lines | The handover, which the next session reads instead of the board, dropping acts the board still holds: five Kain waits on the board against one in the S351 handover, and Chat's largest remaining act on the instructor articles card absent from the S351 Chat list |
+| Open Step 4: skills named aloud | A governing skill sitting unconsulted |
+| Rule 8's growth governor, on every rule added anywhere | The operating system accumulating one-way until compliance replaces the work |
+| Close Step 1: the decision sweep | Questions leaving a session unsettled |
+| Close Step 2: read-back verification | Writes reported from intention |
+| Close Step 3: the board gate | The board disagreeing with the work |
+| Close Step 6: the drift check | Slow drift no single session causes: document contradictions, stale register items, scope growth, and one rotating spec-versus-build sample per close |
+| Close Step 7: source-verified handover | State-of-work numbers drifting from reality |
+| Close Step 9 and the open spot-check: the lines | The close itself being clipped invisibly |
 
-Retired at S415, by the Project Instructions: the status lines, card stamping and the Needs Attention count, the owes-lists, the queue rewrite, the channel counts, the drift rotation and the generated opener.
+The drift check's rotation list lives in the handover, so the sampling position survives between sessions without anyone counting anything.
 
 ---
 
@@ -131,4 +149,4 @@ This document lives at the channel folder root beside The Shared Rules and The H
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.20.*
+*End of The Chat Harness, Version 1.19.*
