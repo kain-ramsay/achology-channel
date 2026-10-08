@@ -4,7 +4,7 @@ LANE A
 
 # BATCH: the 38 Help answers that read Ready to sign (Lane A, S416)
 
-**Ready to sign.** 38 answers, every one gate-passed (the gate's only FAIL on each is the empty `signed` field, plus the two known lines on the Rogers and Johari answers, where the Johari answer is held below) and every sheet "Ready to sign".
+**Ready to sign.** 38 answers, every one gate-passed (the gate's only FAIL on each is the empty `signed` field; the Carl Rogers answer also prints the known keyword-in-address line, kept as registered) and every sheet "Ready to sign".
 
 **Batch:** the Help answers of the 53 (CBT, NLP, life coaching, hypnotherapy, the seven schools of psychology, and the thinker and model answers). **Checker:** fresh Lane A checkers, none of whom fixed or checked the same record before; rounds ran from 8 October 2026. **Standard version:** 14 (S413), with Recipe 10's readings to S412. Each sheet's records were not edited after the sheet that passed them (checked by file date).
 
@@ -51,6 +51,6 @@ LANE A
 
 **How Kain signs.** He reads any sheet he chooses. He pulls out any line he wants held by naming its number. He signs the rest with one word. On his word, Chat writes his name, the date and the standard version into the signature lines of every sheet in the batch and into each record's `signed` field. Lane A writes none of them.
 
-**Held, if any:** none from this list. Fifteen further answers are held out of it; their problems and fixes are in the DONE file.
+**Held, if any:** none from this list. Fifteen further answers are held out of it, each with a sheet naming its problems and their written fixes; they are listed in the DONE file.
 
 *No em or en dashes in this file; checked before writing.*
