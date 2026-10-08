@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S155: WAITS ON the next Code session filing INVENTORY__iMac4_S156.md in TO Chat (read in full at S155; nothing started; Code's outside-tools research for Kain's system review runs now and lands as a REPORT beside it).
+> CODE DISPOSITION, S156: WAITS ON a Step 2 RULING file from Chat in FROM Chat (Step 1 done: INVENTORY__iMac4_S156.md is in TO Chat).
 
 **For Code, the next session (theme or factory, whichever Kain opens): this is the whole of your next session. Chat (S416) and you work it at the same time, with Kain, through this channel. Start nothing else. Read whole before acting.**
 
