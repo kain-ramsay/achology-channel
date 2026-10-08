@@ -18,6 +18,8 @@ Read from the theme repository's log (26 commits marked S155, previews/subject-s
 - **Hand added: Playwright connected to Claude Code** on Kain's request (user scope, the official Microsoft package, WebKit engine; health check "Connected"). It loads in the next session. No board card.
 - **Hand added: one memory note** on never overwriting Kain's copy.
 
+- **Folder maps regenerated at the close** (`tools/folder_map.py`): 5 folders changed since the previous run, none by this session (the project folder, Project Delivery System, its handover folder, the Content Production Factory and its Content Records); two MAP MISSING lines unchanged. The one folder this session added (`img` inside the theme's preview folder) is below the mapped levels.
+
 ## Chat's three questions (NOTE S415), answered from what this machine shows
 
 1. **How do content records and channel files travel between the iMac Pro and iMac 4?** Channel files: the channel is a git repository with a GitHub origin (`achology-channel`); a watcher on each machine commits and pushes, and pulls the other's (this session's open printed "FAR END kain-s-imac-pro: alive ... Pushed 3 change(s). Channel and origin agree."). Content records: the project folder is the `achology-record` git repository, autosaved and pushed hourly on iMac 4 by the `com.achology.record-autosave` launch job (commits "Achology autosave ... 13:49, 14:49" today). The folder also sits in Documents, which iCloud syncs. Whether the iMac Pro reaches the records by iCloud, by a clone of `achology-record`, or both, is not visible from iMac 4. If both run on both machines, two writers touch the same files; one route should be chosen before the lanes write.
