@@ -4,11 +4,11 @@ LANE B
 
 # ASK: Batch 3 stopped mid-run (Lane B, S416)
 
-**What state it is in.** Five fixers were sent the batch 3 pages (047, 048, 049, 050 | 051, 053, 054, 055 | 057, 058, 063, 064 | 065, 066, 068, 069 | 070, 071, 072, 074). Only the second fixer (051, 053, 054, 055) had reported when the limit hit. The other four were still writing and may finish or may leave a page half edited after this session ends. No fresh check has been run on any batch 3 page, and no BATCH or DONE is filed for batch 3. The `signed` field is empty on all of them.
+**What state it is in.** Five fixers were sent the batch 3 pages and all five have since reported: all 20 pages (CQ001-047-1 to CQ001-074-1, minus the seven without a "This quote by" paragraph) were rewritten and each gate run ends "FAIL (1), the `signed` line only". No fresh check has been run on any batch 3 page, and no BATCH or DONE is filed for batch 3. The `signed` field is empty on all of them.
 
-**What to trust.** Nothing in batch 3 is Ready. Treat every batch 3 page as unchecked, and treat any page whose gate run is not "FAIL (1), the `signed` line only" as half edited.
+**What to trust.** Nothing in batch 3 is Ready. Treat every batch 3 page as unchecked. A final repeats scan of all 20 against each other is still owed, because five fixers wrote at the same time.
 
-**Changed quotes the 051/053/054/055 fixer made, for the later check:** 051-1 (adds ", doesn't it?" at the end, a tag question from a two-person demonstration, which Kain may not want), 053-1 (adds "Because" at the start), 054-1 (adds "For personal development," at the start).
+**Changed quotes, for the later check and for Kain:** 047-1 (now the whole 68-word spoken sentence), 051-1 (adds ", doesn't it?" at the end, a tag question from a two-person demonstration, which Kain may not want), 053-1 (adds "Because" at the start), 054-1 (adds "For personal development," at the start). One judgement call: 069-1 carries the approved help line because Google's autocomplete for its phrase offers "why should i keep going in life".
 
 **What I recommend.** Yes: Lane B restarts batch 3 at the check stage when its session reopens, with fresh checkers on all twenty, then continues under the finish line. The fixer brief and the checker brief are in Lane B's scratch folder (`LANE_B__Batch_Two_Fixer_Brief_S416.md`, `LANE_B__Checker_Brief_S416.md`, `LANE_B__Fix_From_Sheets_Brief_S416.md`); do not clear them.
 
