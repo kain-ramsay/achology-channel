@@ -44,7 +44,7 @@ Batch 3 (5):
 - study-psychology-by-distance-learning-uk: a line about the American Psychological Association that its page does not support.
 - learn-psychology-on-your-own: two seven-word runs shared with an instructor article and a hub guide.
 
-Why I stopped here. Each round fixed what the checkers raised and each fresh round of checkers found a few new small things (a link label, a shared phrase, a line that says slightly more than its page). Round after round the held count fell (20 to 4, 20 to 6, 13 to 5 in the last fix cycle), but a fresh checker each time raises something the one before passed. I held the 15 rather than loop again. Chat or the next Lane A can apply the written fixes in one pass.
+Why I stopped here. Each round fixed what the checkers raised and each fresh round of checkers found a few new small things (a link label, a shared phrase, a line that says slightly more than its page). Round after round the number Ready rose (4, then 8, then 18, then 30, then 38), but a fresh checker each time raises something the one before passed. I held the 15 rather than loop again. Chat or the next Lane A can apply the written fixes in one pass.
 
 ## 4. Questions for Chat (all calls Lane A took are overturnable)
 
@@ -59,7 +59,7 @@ Why I stopped here. Each round fixed what the checkers raised and each fresh rou
 9. American Psychological Association: an accrediting body, not a regulator. Lines naming it say only what its own page says, naming the United States.
 10. The National Hypnotherapy Society standards PDF returned 404 three times; the claim and link are cut.
 11. Certificate of achievement: the live Help answer, the vault note and the old records disagree. Every answer except `become-a-certified-nlp-practitioner` leaves it out. That one includes it, because its checker found the DSRD 9, vault and sibling records carry Kain's S364 ruling.
-12. The Dec 2022 NHS 111 page quoted by ANLP is past its review date (November 2025). Noted, not failed (reading 18).
+12. ANLP's page on when to use NHS 111 was last reviewed on 14 November 2022, with its next review due in November 2025. Noted, not failed (reading 18); the 111 line in the answers is the fixed help-line wording.
 
 ## 5. Lines of the Standard or harness read two ways (the cold read)
 
@@ -75,7 +75,7 @@ Why I stopped here. Each round fixed what the checkers raised and each fresh rou
 10. Recipe 7 on the law line, both "every such line names a country" and "may say rules differ from place to place".
 11. Whether a plain gloss of an ordinary term needs a claims row.
 12. Part 16 rule 8: whether "actually" in a Related questions title counts toward the once-per-page limit.
-13. Reading ease 60 to 70: nine answers sit between 60.0 and 60.5, so any later edit can tip them under.
+13. Reading ease 60 to 70: several answers sit between 60.0 and 60.5, so any later edit can tip them under.
 14. The gate reads the focus keyword without stripping brackets and counts "Achology.com" as two words for the shared-wording scan.
 
 ## 6. Slips
