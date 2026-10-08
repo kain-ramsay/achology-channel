@@ -27,6 +27,8 @@ FROM Chat: 62 files plus the README. Every one carried a CODE DISPOSITION line f
 
 Kain asked how steps three and four's courses are chosen, and why the names were short. Answered: in the preview they are the two courses the live "Ready to Take Your Learning Further?" block shows on a Psychology article (DSRD 4 section 7 path 1, tag-driven), and Code chose which is step three; no record says which courses each category's steps carry (a gap, needs a ruling). The short names were Code's filler; the steps now carry the full catalogue names (DSRD 4 1.1).
 
+10. **Kain's ruling on which courses steps three and four carry** ("yes, lets use that rule", S155): chosen by hand for each category, as the Editor's Picks are (DSRD 9 section 20.0b). Step three is a shorter course; step four is a practitioner course that counts towards the Achologist title (DSRD 4 section 2.3, REF 1's levels). Each category page carries an editable field for the pair; if it is empty, the steps fall back to the two courses the site's tag-driven course block already shows for that category (DSRD 4 section 7 path 1). For DSRD 9 section 20.0; Chat proposes the first pair for each category, as it did the picks.
+
 Still open in the block, put to Kain: the stand-in header above it ("From Reading to Qualified", Code recommends removing it); the remaining words listed for his edit (dark card line, ticks, steps, links, review caption).
 
 ## For Chat: the path panel's words (superseded by ruling 7: Kain and Code settle them in the sitting)
