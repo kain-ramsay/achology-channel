@@ -14,7 +14,12 @@ FROM Chat: 62 files plus the README. Every one carried a CODE DISPOSITION line f
 
 1. The bottom panel is a learning path, **destination first** (option 2 of four: the route, destination first, the syllabus, the climb). Kain: "Yes, let's go with two ... make the section look brilliant ... the card looks terrible ... the map is just effortless."
 2. Of four versions of it made properly (studio, spotlight, stage, route drawn), **Spotlight**: the diploma's own course cover stood as a real book under a warm light on a dark card. Kain: "Go with Spotlight ... it looks really, really brilliant."
-3. Then: tidy it with influence from the Categories bar and the Editor's Picks. Four versions rendered (picks panel; and the bubble; and the review in the card; and laid out like the lead row). Waiting on his pick.
+3. Then: tidy it with influence from the Categories bar and the Editor's Picks. Four versions rendered (picks panel; and the bubble; and the review in the card; and laid out like the lead row). **Kain chose 1, the picks panel**: "I really prefer option one ... less white space ... more compact."
+4. Then: make the path panel read as a learning journey ("climbing a mountain baked into the background"), and settle its words. Five versions rendered with the brand's own mountain range and walkers (Schools Landing Page design folder, pulled out unchanged): mountain behind, the ascent (base camp at the foot, summit at the top), staircase, trail map, elevation line. Waiting on his pick.
+
+## For Chat: the path panel's words
+
+Kain, S155: "what I need to think about is what content ... what words need to go in there." Every word in the panel is a stand-in: the heading "Your Path in Psychology", the line "Four stages, from your first free read to the diploma.", the stage names (Base camp, Camp one, Camp two, Summit, or Step 1 to 4), and each step's short line. The facts under them are from the record and stay. Chat drafts the words once Kain has picked the design.
 
 ## For Chat, found while rendering the purpose lines (DSRD 9 section 20.0a)
 
