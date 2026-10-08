@@ -6,7 +6,7 @@
 
 **Rules for every item:** `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, sections 1, 2 and 4 (read the Standard, the Cowork Production Harness and the defect register at their current versions on disk, not the version numbers that file names). Its Part B status file is retired: the board is the only record of where work stands. Every DONE starts with the line `LANE B` so Chat can tell the lanes apart.
 
-1. `BRIEF__The_Idea_In_Every_Quote_Pages_Third_Heading_S407`: the idea heading on the 360 records, leaving the 72 it names alone.
+1. **DONE 8 October 2026 (S415), filed as `DONE__Quote_Page_Idea_Headings_All_360_Written_Gate_Heading_Line_Passes_72_Untouched_S415.md` in FROM Cowork.** `BRIEF__The_Idea_In_Every_Quote_Pages_Third_Heading_S407`: the idea heading on the 360 records, leaving the 72 it names alone.
 2. `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part C item 3: the 157 drafted quote pages, finished in batches of 20, each batch through a fresh check and its batch list.
 
 *Chat adds new items at the foot and moves nothing already started.*
