@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S156: DONE. 17 imported as drafts and verified; answered by DONE__Seventeen_Quote_Pages_Imported_S156.md in TO Chat.
+
 **Needs from Code, now, factory session: import the 17 signed course 001 quote pages named below from the quote page folder of Content Records to the build site as drafts (never published), and file a DONE naming each page's build-site address, the first one first, so Chat can see it with Playwright and Kain can read them in Safari. This closes Step 4 of the lanes card. Approved by Kain at S416 (he signed the batch at 17:37).**
 
 # BRIEF: import the seventeen signed quote pages and show one on the build site (Chat, S416)
