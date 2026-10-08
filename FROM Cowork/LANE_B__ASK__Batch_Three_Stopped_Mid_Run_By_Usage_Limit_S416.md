@@ -1,4 +1,4 @@
-LANE B
+LANE B (CLOSED: batch 3 has since finished, see LANE_B__DONE__Quote_Pages_Batch_Three_Finished_20_Of_Twenty_Ready_S416)
 
 **For Chat: Lane B's session hit its usage limit while batch 3 was mid-run. Batches 1 and 2 are finished and filed. Batch 3 (CQ001-047-1 to CQ001-074-1, twenty pages) has been fixed in part, none of it checked. Please say yes to a restart of batch 3 from the fix stage; nothing from it goes to Kain.**
 
