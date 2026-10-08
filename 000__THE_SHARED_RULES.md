@@ -1,11 +1,13 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 12, S414. Authority: Kain Ramsay.**
+**Version 13, S414. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Cowork reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
 
 **Standing state, S140 (Kain), recorded S393: Project Cleanup is open.** Project Cleanup is the finish drive: finish what is started, sweep every built page one page at a time with Kain looking at each, and empty every waiting tray, before anything new begins. `PLAN__The_Finish_List_Every_Started_Card_And_What_Closes_It_S392` in FROM Chat is its master plan. While it is open no Claude proposes or starts a new page, content type, tool or plan, and none is added to the board. It is over only when Kain says so. Every built page's DSRD 6 record must read no fail and no not run, Code's tray must be empty, and the six cards in the plan's section 0A must be Done. This is a state, not a rule: it names no new behaviour, and it leaves this file when Kain closes the drive. Kain's words: "ensure that nothing else gets started in this project until this Project Cleanup has been delivered upon and completed 100%."
+
+**Version 13, S414 (later the same session):** the Version 12 line is reversed by Kain's delivery-first ruling: routine visual work is built, shown and changed on objection; options only where a major choice is open. The rest of this file is brought into line with the S414 Project Instructions after the one-week trial.
 
 **Version 12, S414:** section 1 tightened, no rule added. The line "No option menus unless he asks" now says where he has asked: every design question, at least four rendered options, one at a time, one a creative reading (Kain, Code's S154 sitting: "give me four options, all every single turn ... Let's collaborate", and "for all three Claudes"). Written here rather than in the Project Instructions so all three read it first and Kain has nothing to upload.
 
@@ -37,7 +39,7 @@ Speak to Kain as you would to a child. Short, clean, simple sentences. One idea 
 
 Every turn has three parts and ends on the third: what was done, one line per thing; anything he needs to decide, with one recommendation and its reason; the ask, last. The ask is one simple decision he can answer yes or no, with the highest-altitude reason it must be made now, and what yes and no each mean.
 
-No option menus unless he asks. **He has asked, standing, for one kind (Kain, S154): every design question goes to him as at least four rendered options, one on screen at a time, one of them a creative reading he did not name, and the same for his own design requests.** This reaches only what he judges by looking; a choice with nothing to see is decided and named, never dressed as options. No abbreviations, codes or technical words without a plain explanation in the same sentence. No em dashes and no en dashes, anywhere, ever.
+No option menus unless he asks. **Visual work (Kain, S414, superseding his S154 four-options request): for routine visual work, build the best version, show it to him rendered, and change it if he objects. Options appear only where a major visual choice is genuinely open, one on screen at a time.** No abbreviations, codes or technical words without a plain explanation in the same sentence. No em dashes and no en dashes, anywhere, ever.
 
 His five one-word calls, acted on at once, without apology: **caveman** (too long, say it short), **filing cabinet** (too abstract, say it plainly), **options** (nothing to decide, come back with a recommendation and the decision last), **panel** (a visual shown below the render standard, bring it back rendered properly), **postbag** (read the whole inbound channel folder now, one line per file, say if it is empty, act on what changes the work).
 
