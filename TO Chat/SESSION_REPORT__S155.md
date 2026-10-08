@@ -31,6 +31,8 @@ Kain asked how steps three and four's courses are chosen, and why the names were
 
 11. The stand-in header above the block ("From Reading to Qualified") removed, Kain: "yes, remove it". The block now opens on the hairline (48 above and below) with the two cards; his title on the grey panel is the first thing read.
 
+12. **Kain's own words for the four steps**, built word for word: "STEP 01 · EXPLORE IDEAS" (with the You are here tag) / "Read Articles that Introduce New Perspectives" / "Free · Browse More Articles" (to the category's articles listing); "STEP 02 · PRACTISE NEW IDEAS" / "Free Workbooks to Help You Elevate Your Mindset" / "Free · Explore All Workbooks" (to /learn/workbooks/; this replaces the email field Code had put there, so the workbook lead magnet owed on category hubs by DSRD 4 section 5.1 no longer sits in this block: for Chat to place or rule); "STEP 03 · STUDY AND LEARN"; "STEP 04 · BECOME CERTIFIED". Steps three and four keep the courses' full catalogue names as titles.
+
 Still open in the block, put to Kain: the remaining words listed for his edit (dark card line, ticks, steps, links, review caption).
 
 ## For Chat: the path panel's words (superseded by ruling 7: Kain and Code settle them in the sitting)
