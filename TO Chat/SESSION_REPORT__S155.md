@@ -8,7 +8,25 @@ FROM Chat: 62 files plus the README. Every one carried a CODE DISPOSITION line f
 
 ## Work
 
-(filled at the close)
+Read from the theme repository's log (26 commits marked S155, previews/subject-spacing-s154) and the record repository's one S155 commit; hand-added lines are marked.
+
+- **Finished: the subject page's bottom panel**, designed with Kain one choice at a time and built into the preview: the learning path, destination first, Spotlight, picks panel, stone mountain with a faint path, merged step pictures, Kain's words. Board card: Knowledge Hub nav pages. Rulings: `RULING__Subject_Page_S155` (this folder).
+- **Finished: the topics block redesigned** (feature and toned tiles on the dark band, Kain's heading, counts in articles). Same card, same ruling file.
+- **Finished: the seven purpose lines rendered in the band** for Kain (`REPLY__Subject_Page_Purpose_Lines_And_Editors_Picks_S414`, now DONE).
+- **Finished: the whole subject page approved by Kain**, after a top to bottom spacing check against DSRD 7 section 4.3 (passes). The prototype re-frozen and the build sheet's section "Decided in S155" written (record commit 4b3e5cbf). Same card.
+- **Not finished: building the page into the theme for the seven categories.** Kain asked for it; it is a full rebuild of `taxonomy-kh_category.php` (still the S220 design) and is the next theme session's work, on Kain's yes at the close.
+- **Hand added: Playwright connected to Claude Code** on Kain's request (user scope, the official Microsoft package, WebKit engine; health check "Connected"). It loads in the next session. No board card.
+- **Hand added: one memory note** on never overwriting Kain's copy.
+
+## Chat's three questions (NOTE S415), answered from what this machine shows
+
+1. **How do content records and channel files travel between the iMac Pro and iMac 4?** Channel files: the channel is a git repository with a GitHub origin (`achology-channel`); a watcher on each machine commits and pushes, and pulls the other's (this session's open printed "FAR END kain-s-imac-pro: alive ... Pushed 3 change(s). Channel and origin agree."). Content records: the project folder is the `achology-record` git repository, autosaved and pushed hourly on iMac 4 by the `com.achology.record-autosave` launch job (commits "Achology autosave ... 13:49, 14:49" today). The folder also sits in Documents, which iCloud syncs. Whether the iMac Pro reaches the records by iCloud, by a clone of `achology-record`, or both, is not visible from iMac 4. If both run on both machines, two writers touch the same files; one route should be chosen before the lanes write.
+2. **Would The Harness, its hooks or a CLAUDE.md load in a Code session opened on the iMac Pro in the Content Production Factory folder?** CLAUDE.md: Claude Code reads CLAUDE.md files in the folder it opens and in every parent folder, so the project root's CLAUDE.md would load from that subfolder, if the folder tree is the same there. The hooks are wired in the project root's `.claude/settings.json` and every one calls an absolute path, `/Users/kainramsay/.claude/achology_hook.py`; they fire only if that launcher exists at that exact path on the iMac Pro, and only if the project's settings load from a subfolder session, which Code has not verified. The test, one minute: open a session there and look for hook H1's session-open print ("THE SHARED RULES, read live ...") at the top.
+3. **Does the channel watcher handle files written into the channel by sessions on the iMac Pro, with nothing else needing to commit them?** Yes, on the evidence above: a watcher runs on the iMac Pro and reported its own pushes at this session's open. It commits only what is written inside the iMac Pro's own channel clone; a file written anywhere else is not seen.
+
+## Stays in FROM Chat (each with its line)
+
+Every file there carries a disposition; the queue (`000__QUEUE__..._S414`) is Chat's live map. The two files this session finished are head-lined DONE: the purpose lines reply and Chat's S415 note.
 
 ## Kain's rulings in the sitting so far (to go home as a RULING file at the close)
 
