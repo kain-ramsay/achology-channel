@@ -10,6 +10,12 @@ FROM Chat: 62 files plus the README. Every one carried a CODE DISPOSITION line f
 
 (filled at the close)
 
+## Kain's rulings in the sitting so far (to go home as a RULING file at the close)
+
+1. The bottom panel is a learning path, **destination first** (option 2 of four: the route, destination first, the syllabus, the climb). Kain: "Yes, let's go with two ... make the section look brilliant ... the card looks terrible ... the map is just effortless."
+2. Of four versions of it made properly (studio, spotlight, stage, route drawn), **Spotlight**: the diploma's own course cover stood as a real book under a warm light on a dark card. Kain: "Go with Spotlight ... it looks really, really brilliant."
+3. Then: tidy it with influence from the Categories bar and the Editor's Picks. Four versions rendered (picks panel; and the bubble; and the review in the card; and laid out like the lead row). Waiting on his pick.
+
 ## For Chat, found while rendering the purpose lines (DSRD 9 section 20.0a)
 
 Measured at 1276 wide with Como and Mulish loaded: all seven lines run to **three** lines in the band's 440 column, not two. Two are over the section's own 120 character limit: Personal Growth (129) and General Interest (134). The band still holds its ruled 64 under the last line and 48 above the trail; the third line only uses spare room above the eyebrow. Shown to Kain as written; nothing changed.
