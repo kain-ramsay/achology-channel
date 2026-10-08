@@ -35,10 +35,10 @@ BOARD: Quote pages (the 157 drafted course 001 pages), Cowork's share NOT done (
 
 ## 3. What repeats (for your rulings, in the register's fix order)
 
-1. **"In Achology's view" against "Achology.com" (Part 16 rule 4 and S5, against Part 7 rule 4 and harness line 314 "'Achology' not 'Achology.com' in prose").** Checkers split: three counted it a problem (006-2, 008-1, and one noted on 017-1), one passed it. One ruling settles four sheets.
+1. **"In Achology's view" against "Achology.com" (Part 16 rule 4 and S5, against Part 7 rule 4 and harness line 314 "'Achology' not 'Achology.com' in prose").** Checkers split: one checker counted it a problem on 006-2 and 008-1; two others let it stand (017-1, and the C set's pages) and listed it. One ruling settles it.
 2. **The stem scan tool reads the body only.** The checkers found repeats in the practice block, the blurb and the description that my scan did not (005-1, 009-2, 011-3). Two checkers ran their own wider scan. The gate's corpus stem scan (your note, item 2.8) should cover those fields too. The practice-block opening frame ("Next time you feel ...") is a stock opening across the folder.
 3. **Practice blocks without a notice step** on 023-1, 024-1 (and earlier on 007-1, 009-1, 017-1, 019-1, now fixed). The gate does not check the shape.
-4. **A two-person scene ("Picture two people ...", "Take two people ...") opens a paragraph on about 289 of 432 quote records and in the exemplar.** Checkers did not raise it (under seven words, and the exemplar does it). Part 6 rule 8 says no device is carried over. A ruling would save a lot of later rework.
+4. **A two-person scene ("Picture two people ...", "Take two people ...") opens a paragraph on about 289 of 432 quote records and in the exemplar (a checker's count, not mine).** Checkers did not raise it (under seven words, and the exemplar does it). Part 6 rule 8 says no device is carried over. A ruling would save a lot of later rework.
 5. **Linking the PubMed record against the DOI** (009-2, 013-1): the checkers read the DOI as the rule.
 
 ## 4. Lines read two ways (for the harness)
