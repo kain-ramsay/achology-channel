@@ -106,6 +106,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **OPEN, S145: Our People emits no Person entities.** The page carries CollectionPage, EducationalOrganization, WebSite, BreadcrumbList; DSRD 3 section 5.3 says WebPage plus Person per instructor, and the chain register (DSRD 6 chapter 5) breaks at dest_schema on three workbook rows because of it. DSRD 10 governs if it differs. Why a theme edit: the template's JSON-LD.
 
+- **OPEN, S156 (factory): move the theme's and Component Design Prototypes' git folders out of iCloud**, the same fix as the record's (copy the git folder outside Documents, leave a pointer file, clear the conflict copies), then test one deploy straight after. Ruled yes by Chat, `REPLY__Route_1_Done_Read_Lane_B_Ruled_Theme_Git_Fix_Yes_Next_Theme_Session_S416`; method in `DONE__Route_1_Git_Out_Of_iCloud_And_Lane_Folders_S156`. Why a theme session: the theme is deployed from that folder.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*

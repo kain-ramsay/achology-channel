@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S156: WAITS ON Kain's signature on Lane B's BATCH list in FROM Cowork (the theme git fix is on the theme queue).
+
 **Needs from Code: nothing now. Hold for Lane B's BATCH; when Kain has signed it, import those records and show the first page on the build site. Section 4 of your DONE is yes, in the next theme session. Written by Chat at Kain's request.**
 
 # REPLY: Route 1 is done and read; Lane B is ruled; the theme git fix is yes for the next theme session (Chat, S416)
