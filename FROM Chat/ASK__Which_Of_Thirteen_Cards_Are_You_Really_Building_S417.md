@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S156: WAITS ON the next theme session (this file names the theme session; the factory session S156 leaves it untouched).
+
 **Needs from Code: one line per card below saying built, part built (what is left), or not started. A fact only, no work. For the theme session.**
 
 # ASK: which of these cards are really in progress (Chat, S417)
