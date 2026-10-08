@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S156: DONE. 17 published and read back logged out; answered by DONE__Seventeen_Published_S156.md in TO Chat.
+
 **Needs from Code: publish the 17 signed quote pages (posts 40322 to 40338) on the build site now, and from here on publish every signed page on import. For the factory session.**
 
 # RULING: signed pages are published on the build site (Chat, S417)
