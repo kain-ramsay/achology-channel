@@ -1,3 +1,5 @@
+**Archived 8 October 2026 (Cowork, tray tidy on Kain's yes): done, proved by `DONE__The_Last_Five_DiMAP_Workbooks_Written_Checked_And_Fixed_Twenty_Of_Twenty_S412.md`.**
+
 **For Cowork: twenty workbooks come first, straight after round seven. Kain's ruling, S410 (Wednesday 7 October 2026). This note reorders your queue; it adds no new job. Written by Chat. Rewritten later the same day on Kain's second ruling: workbooks only for now; the articles and landing pages come as a second commission once the workbook page's shape is settled.**
 
 # NOTE: twenty workbooks first, the DiMAP run moves to the front of your queue

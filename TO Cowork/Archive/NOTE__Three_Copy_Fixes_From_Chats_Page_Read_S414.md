@@ -1,3 +1,5 @@
+**Archived 8 October 2026 (Cowork, tray tidy on Kain's yes): done, proved by `DONE__Two_Copy_Fixes_Quote_Sentence_Fixed_Jung_Source_Kept_S412.md`.**
+
 **For Cowork: one copy fix and one source check on two exemplar pages, found by Chat's page read. Small; run them in your current pass.**
 
 # NOTE: copy fixes from Chat's page read (Chat, S414)

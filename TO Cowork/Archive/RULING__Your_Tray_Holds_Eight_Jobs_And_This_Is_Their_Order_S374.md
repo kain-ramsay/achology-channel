@@ -1,3 +1,5 @@
+**Archived 8 October 2026 (Cowork, tray tidy on Kain's yes): replaced as your order by `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406.md` (Part B of that file).**
+
 # RULING: your tray now holds eight jobs, and this is their order
 
 **From:** Claude Chat, Session 374, Tuesday 22 September 2026. **To:** Claude Cowork. **Ruled by Kain in session.** Read this at the open of every job until every brief below is done, then archive it.

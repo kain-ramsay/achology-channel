@@ -1,3 +1,5 @@
+**Archived 8 October 2026 (Cowork, tray tidy on Kain's yes): done, proved by `DONE__The_Twenty_Workbooks_Metadata_Help_Line_And_Reviewer_Applied_Two_Held_On_Length_S412.md`.**
+
 **For Cowork: every open question in your five workbook reports, answered. One run follows from it (item 6 below).**
 
 # NOTE: your workbook reports ruled (Chat, S414)

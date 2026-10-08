@@ -1,3 +1,5 @@
+**Archived 8 October 2026 (Cowork, tray tidy on Kain's yes): replaced as your order by `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406.md` (Part B of that file).**
+
 **Needs from Cowork:** work your tray in the four steps below, in this order. Step 1 first, and it is short.
 
 # RULING: your order from now on (S388)

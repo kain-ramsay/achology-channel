@@ -1,3 +1,5 @@
+**Archived 8 October 2026 (Cowork, tray tidy on Kain's yes): done, proved by `DONE__The_Last_Five_DiMAP_Workbooks_Written_Checked_And_Fixed_Twenty_Of_Twenty_S412.md`.**
+
 > **LIFTED, S410 (Kain's ruling): run this now, straight after round seven, as `NOTE__Twenty_Workbooks_First_The_DiMAP_Run_Moves_To_The_Front_S410` orders. The line below is superseded.**
 
 > **WAITS ON ONE THING (Kain, S407):** Part D of `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406` finished. This is Part D2, the last job before the editorial pass. Do not start it earlier, and do not let it interrupt anything before it.
