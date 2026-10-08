@@ -4,7 +4,7 @@ LANE B
 
 # DONE: Quote pages, Part C item 3, batch 2 (Lane B, S416)
 
-BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (batches 1 and 2 finished; 137 of 157 still to fix).
+BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (batches 1 and 2 finished; 117 of 157 still to fix).
 
 ## 1. What was done
 
