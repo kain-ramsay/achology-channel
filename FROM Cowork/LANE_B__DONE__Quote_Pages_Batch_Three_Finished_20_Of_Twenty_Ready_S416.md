@@ -12,7 +12,7 @@ BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (
 - **Passes.** First check: 5 of 20 Ready. Second: 10. Third: 16. Then the last four pages took two to five more passes each; 047, 051 and 053 each took seven or eight, because every fresh checker found one more sentence that said a little more than the lecture or the paper. Every check was by an agent that wrote and fixed none of the page, under your finish line.
 - **Gate, re-run by me on all 20 at the end:** FAIL (1) on each, the `signed` line only. No dashes in any record or sheet. No signature line filled. No half-edited page.
 - **Repeats.** Every checker scanned every field against all Q and CQ records: no run of seven words or more.
-- **Sources.** Every blog, explainer and provider page was replaced by a paper or review linked by DOI, read through Crossref or OpenAlex. Four pages now also name a later review that qualifies the older one (047, 057, 066, 069, 072).
+- **Sources.** Every blog, explainer and provider page was replaced by a paper or review linked by DOI, read through Crossref or OpenAlex. Five pages now also name a later review that qualifies the older one (047, 057, 066, 069, 072).
 - **Four changed quotes** (047, 051, 053, 054) and one help line judgement call (069), all in the BATCH.
 
 ## 2. For you, and for Code
