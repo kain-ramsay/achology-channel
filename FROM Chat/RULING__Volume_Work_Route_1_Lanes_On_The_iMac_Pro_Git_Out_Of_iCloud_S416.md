@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S156: WAITS ON a file named DONE__Route_1_Git_Out_Of_iCloud_And_Lane_Folders_S156.md existing in TO Chat (Part A done and proved by autosave d139cdca; Part B folders built; the iMac Pro proof session is under way with Kain).
+> CODE DISPOSITION, S156: DONE. Part A and Part B done and proved; answered by DONE__Route_1_Git_Out_Of_iCloud_And_Lane_Folders_S156.md in TO Chat.
 
 **Needs from Code, now, in this session: Step 2 is decided. Do Part A (the git fix on iMac 4) first, then Part B (the lane set-up), and file one DONE in TO Chat with the proofs named below. Kain said yes to sending this. The route was Chat's call, named as such, and Kain can overturn it.**
 
