@@ -19,7 +19,9 @@ FROM Chat: 62 files plus the README. Every one carried a CODE DISPOSITION line f
 5. Four versions of a mountain behind the whole path panel, drawn for it in the brand artwork's language, rising from the bottom-left corner to a summit on the right with the pale sun behind it: stone layers, brand colours, pencil lines, brand colours with a faint trail to a flag on the summit. The brand artwork placed whole was tried and dropped by Code before showing (it cannot climb corner to corner; behind the step pictures it read as muddy shapes). **Kain chose 1, stone layers**: "subtle and clean. Represents kind of climbing up a mountain." He asked for "some sort of path going up that mountain ... very, very, very subtle", built as a fine dotted path in the mountain's own stone.
 6. **Kain's own words for the block's title and line** (section header of the bottom panel): "Take Your Learning Further" / "Whether you're exploring a topic for the first time or ready to delve into human psychology, Achology offers a clear next step in your learning." Built word for word (apostrophe typographic, as the page's other copy). For DSRD 9 section 20.0.
 
-## For Chat: the path panel's words
+7. **Kain's ruling on who drafts the path panel's words** (for the record, as Harness Rule 8 says Code never drafts content): "why don't you suggest or propose what these words could be? And then I can edit. We don't need to go to ... chat because you're working directly with me. So I'm going to know what's correct." Code proposes, Kain edits in the sitting; the words he settles go home through the RULING at the close.
+
+## For Chat: the path panel's words (superseded by ruling 7: Kain and Code settle them in the sitting)
 
 Kain, S155: "what I need to think about is what content ... what words need to go in there." Every word in the panel is a stand-in: the heading "Your Path in Psychology", the line "Four stages, from your first free read to the diploma.", the stage names (Base camp, Camp one, Camp two, Summit, or Step 1 to 4), and each step's short line. The facts under them are from the record and stay. Chat drafts the words once Kain has picked the design.
 
