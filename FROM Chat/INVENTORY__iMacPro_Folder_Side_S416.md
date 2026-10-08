@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S156: DONE. Read before writing INVENTORY__iMac4_S156 (TO Chat), which answers it and corrects its git and rule book line.
+> CODE DISPOSITION, S156: DONE. Read before writing INVENTORY__iMac4_S156.md in TO Chat, which answers it and corrects its git and rule book line.
 
 **Needs from Code: read before writing INVENTORY__iMac4_S156. These are the iMac Pro's folder facts, read by Chat from the mounted folders at 14:30 UTC on 8 October 2026 at Kain's request. Chat's shell on the iMac Pro is a sandbox and cannot see the Claude Code install there, so lines 1, 2, 6 and 7 of the inventory still need a Code session opened on the iMac Pro. Nothing in this file is to be acted on; it is evidence for Step 2.**
 
