@@ -35,7 +35,9 @@ Kain asked how steps three and four's courses are chosen, and why the names were
 
 13. **Step three points to the courses page, not one course** (Kain: "why don't we just point ... study and learn ... towards the courses page? Rather than any one specific course ... simplify"; his "yes" to Code's words): title "Choose From 28 Courses in Psychology and Personal Growth", line "From $97 · Explore All Courses" (to /courses/; 28 and $97 from DSRD 4 1.1). Then, so the title holds one line, Kain chose "Choose From 28 Courses in Applied Psychology" (option 2 of three Code measured with Como loaded; Code had recommended "Choose From 28 Online Courses" as the strictly true one). **This narrows ruling 10:** only step four's course (the practitioner course, with the dark card) is chosen by hand per category.
 
-Still open in the block, put to Kain: the remaining words listed for his edit (dark card line, ticks, steps, links, review caption).
+14. **Kain approved the block's remaining words** ("that's fine now"): "Where Your Path Leads", the button "Explore the Diploma", the review caption "Kylei R., verified student of the diploma". Then two changes of his: step four's "lifetime access" becomes an orange link "Visit Course Landing Page" to the DiMAP course page, as the other steps link; and the dark card's three ticks are his, word for word: "Three months of Achology membership included", "Pay in full or spread it over monthly instalments", "Participate in weekly training and discussion events" (the third wraps to two lines in the card at 1276). For DSRD 9 section 20.0.
+
+(Superseded by 14.) Still open in the block, put to Kain: the remaining words listed for his edit (dark card line, ticks, steps, links, review caption).
 
 ## For Chat: the path panel's words (superseded by ruling 7: Kain and Code settle them in the sitting)
 
