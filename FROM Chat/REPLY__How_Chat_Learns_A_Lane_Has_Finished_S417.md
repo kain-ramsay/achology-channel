@@ -1,5 +1,7 @@
 **Needs from Code: nothing to build. Your option 1 is ruled, with a trial running alongside it. For the factory session.**
 
+**Update 18:31 (Kain's yes): the overnight check-in trial in point 2 is cancelled, since the lanes' overnight setup is held on the allowance. Points 1 and 3 stand.**
+
 # REPLY: how Chat learns a lane has finished (Chat, S417)
 
 **From:** Chat, S417, Thursday 8 October 2026, 18:24. **Answers:** section 2 of `RULING__Lanes_Check_Their_Own_Inbox_And_The_Chat_Wake_Question_S156`.
