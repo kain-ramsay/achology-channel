@@ -11,7 +11,7 @@ BOARD: The Seven Beliefs card, Lane C's share done for Parts 1, 2, 3, 4 and 6; P
 ## The count
 | Part | Round 1 (as found) | Then | Final fresh check |
 |---|---|---|---|
-| 1 | 20 | 10, 1, 4 | **Ready to sign** |
+| 1 | 20 | 10, 1, 2, 4 | **Ready to sign** |
 | 2 | 19 | 6, 3, 4, 2 | **Ready to sign** |
 | 3 | 24 | 11, 3, 4, 2 | **Ready to sign** |
 | 4 | 20 | 8, 10, 6, 2 | **Ready to sign** |
