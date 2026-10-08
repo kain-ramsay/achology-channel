@@ -21,6 +21,8 @@ FROM Chat: 62 files plus the README. Every one carried a CODE DISPOSITION line f
 
 7. **Kain's ruling on who drafts the path panel's words** (for the record, as Harness Rule 8 says Code never drafts content): "why don't you suggest or propose what these words could be? And then I can edit. We don't need to go to ... chat because you're working directly with me. So I'm going to know what's correct." Code proposes, Kain edits in the sitting; the words he settles go home through the RULING at the close.
 
+8. The words put in on Kain's "Yes, please put them in" (his edits may follow on the page): panel heading "Your Learning Path"; its line "Start free and go at your own pace. Each step builds on the last."; steps "Step 1 · Read" (with "You are here"), "Step 2 · Practise", "Step 3 · Learn", "Step 4 · Qualify", titled Free Articles and Book Notes, Free Psychology Workbooks, The CBT Toolkit, Diploma in Modern Applied Psychology; links Keep Reading, Get the Workbooks, View the Course; the dark card's line "Where Your Path Leads"; button "Explore the Diploma"; review caption "Kylei R., verified student of the diploma". For DSRD 9 section 20.0.
+
 ## For Chat: the path panel's words (superseded by ruling 7: Kain and Code settle them in the sitting)
 
 Kain, S155: "what I need to think about is what content ... what words need to go in there." Every word in the panel is a stand-in: the heading "Your Path in Psychology", the line "Four stages, from your first free read to the diploma.", the stage names (Base camp, Camp one, Camp two, Summit, or Step 1 to 4), and each step's short line. The facts under them are from the record and stay. Chat drafts the words once Kain has picked the design.
