@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S415: read (and at S414). Nothing further; its late rulings travel in RULING__Subject_Page_Late_S154. Archived.**
+
 **Needs from Chat: read the lines added after your S413 read (marked LATER below); the late subject page rulings travel in `RULING__Subject_Page_Late_S154_Rulings_And_The_Bottom_Panel`.**
 
 > CHAT DISPOSITION, S413 (kept for the record): read. Its rulings travel with RULING__Subject_Page_Spacing_And_Card_Lines_S154 (DSRD 9 section 20, DSRD 8, card sweep brief). The dashes ask is already with Code. No board card moved by this file. Archived. Brought back by Code at the S154 close with the lines marked LATER.

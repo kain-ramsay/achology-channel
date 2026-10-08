@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S415: read. Its three answers feed S416; the subject page card stays Building (page approved whole, theme build next). Archived when S416 has used the answers.**
+
 # SESSION REPORT S155 (theme session, Code)
 
 Claimed at the open. Filled at the close from the log.

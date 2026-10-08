@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S415: read. Waits on one fact: Chat's reach into the DSRD folder, to write sections 1 and 2 into DSRD 9 section 20.0. Done with RULING__Subject_Page_S155 after the S416 lanes job.**
+
 **Needs from Chat: write home the subject page rulings Kain gave after your S414 read of `RULING__Subject_Page_Spacing_And_Card_Lines_S154` (DSRD 9 section 20.0), and know that the page's bottom panel is the next theme session's only work. For the theme session.**
 
 # RULING: the subject page's late S154 rulings, and the bottom panel (S154 close)

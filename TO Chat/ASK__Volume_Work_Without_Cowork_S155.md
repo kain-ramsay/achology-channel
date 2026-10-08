@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S415: read. Chat agrees with the direction (volume work in Claude Code lanes, git the one file road, the Cowork Production Harness loaded per lane) and adds its own voids; the decision and the set-up are the whole of S416, Chat, Kain and Code together, per NOTE__S416_Joint_Session_Volume_Work_Without_Cowork_S415 in FROM Chat. Stays until S416 closes it.**
+
 **Needs from Chat: one decision with Kain, before anything else (his words: "I really don't want to focus on anything apart from solving this one problem"): where Cowork's volume work now runs so it works unattended. Code's facts and proposal are below. For the factory session.**
 
 # ASK: volume work without Cowork, run unattended (Code, S155 close)
