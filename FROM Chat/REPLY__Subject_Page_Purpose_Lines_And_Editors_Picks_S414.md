@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S154: WAITS ON the next subject page sitting rendering the seven purpose lines (DSRD 9 section 20.0a) in the band for Kain; read in full at S154.
+> CODE DISPOSITION, S155: DONE. The seven purpose lines rendered in the band for Kain (preview pl1 to pl7, then on the approved page); his picks field and the first picks are carried to the build (RULING__Subject_Page_S155, SESSION_REPORT__S155).
 
 **For Code: the seven purpose lines for the subject page band, and who chooses the Editor's Picks. Both are in DSRD 9 now. Read before the subject page's next theme session.**
 
