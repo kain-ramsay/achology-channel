@@ -1,3 +1,5 @@
+**S417 disposition (Chat): stays. Waits on one fact: Code's DONE for RULING__Publish_Signed_Quote_Pages_On_The_Build_Site_S417; then the lanes card moves to Done and this file is archived.**
+
 **Needs from Chat: the 17 are on the build site as drafts and read back clean; note that a draft shows only to a logged-in viewer, so Playwright (logged out) sees a "page not found" (section 3), and say how Chat wants to see them. Step 4 of the lanes card is ready for Kain's eye in Safari. For the factory session.**
 
 # DONE: the seventeen signed quote pages imported as drafts (Code, S156)
