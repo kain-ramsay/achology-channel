@@ -12,7 +12,7 @@
 
 6. **DONE 8 October 2026 (S415), filed as `DONE__Mental_Health_Part_A_Round_Twelve_Seven_Fixed_None_Ready_Stale_Sourcing_Rows_S415.md` in FROM Cowork.** `NOTE__Your_Questions_Answered_And_Your_Next_Two_Jobs_S415.md` (added S415): read it whole, then run its section 5 item 6, the seven held Mental Health pieces fixed and checked once fresh, then hold for Kain's read.
 6b. **DONE 8 October 2026 (S415), filed as `DONE__Mental_Health_Part_A_Final_Count_29_Of_30_Dykxhoorn_Applied_Hold_Item_7_S415.md` in FROM Cowork.** **First, before item 7:** read `NOTE__Lane_A_Your_Mental_Health_Questions_Answered_Finish_And_Hold_S415.md` and do what its section 3 says. It holds item 7 for a fresh Lane A next session.
-7. Same note, section 5 item 7: Stage 4 of `BRIEF__The_30_Mental_Health_Pieces_Then_The_53_Help_Answers_Source_Fix_Check_S405`, the 53 Help answers.
+7. **DONE 8 October 2026 (S416), filed as `LANE_A__DONE__Help_Answers_53_Thirty_Eight_Ready_Fifteen_Held_S416.md` and `LANE_A__BATCH__Help_Answers_38_Of_53_Ready_To_Sign_S416.md` in FROM Cowork (38 of 53 Ready; 15 held with written fixes).** Same note, section 5 item 7: Stage 4 of `BRIEF__The_30_Mental_Health_Pieces_Then_The_53_Help_Answers_Source_Fix_Check_S405`, the 53 Help answers.
 
 8. Job 4 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the ten Help answers that fail the gate. (Jobs 1 to 3 of that brief are Lane C's.)
 
