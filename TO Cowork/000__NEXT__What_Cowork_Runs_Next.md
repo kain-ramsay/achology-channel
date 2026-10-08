@@ -8,7 +8,7 @@
 4. **DONE 8 October 2026 (S412), filed as `DONE__Two_Copy_Fixes_Quote_Sentence_Fixed_Jung_Source_Kept_S412.md` in FROM Cowork.** `NOTE__Three_Copy_Fixes_From_Chats_Page_Read_S414.md` (added S414; one copy fix and one source check on two exemplar pages)
 5. **DONE 8 October 2026 (S412), filed as `DONE__The_Twenty_Workbooks_Metadata_Help_Line_And_Reviewer_Applied_Two_Held_On_Length_S412.md` in FROM Cowork.** `NOTE__Your_Workbook_Reports_Ruled_S414.md` (added S414; every workbook question answered, and the one run that follows)
 
-6. `NOTE__Your_Questions_Answered_And_Your_Next_Two_Jobs_S415.md` (added S415): read it whole, then run its section 5 item 6, the seven held Mental Health pieces fixed and checked once fresh, then hold for Kain's read.
+6. **DONE 8 October 2026 (S415), filed as `DONE__Mental_Health_Part_A_Round_Twelve_Seven_Fixed_None_Ready_Stale_Sourcing_Rows_S415.md` in FROM Cowork.** `NOTE__Your_Questions_Answered_And_Your_Next_Two_Jobs_S415.md` (added S415): read it whole, then run its section 5 item 6, the seven held Mental Health pieces fixed and checked once fresh, then hold for Kain's read.
 7. Same note, section 5 item 7: Stage 4 of `BRIEF__The_30_Mental_Health_Pieces_Then_The_53_Help_Answers_Source_Fix_Check_S405`, the 53 Help answers.
 
 *Chat adds new items at the foot and moves nothing already started.*
