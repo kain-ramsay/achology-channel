@@ -1,0 +1,14 @@
+# LANE B run list: quote pages (kept by Chat)
+
+**From S415 Cowork runs as three lanes at once (Kain's word).** Whenever Kain types **next** in a Lane B chat, open this file, run the first item not marked done, mark it done here with the date when you file its DONE, then come back for the next. Hold only when every item is done. Chat keeps the order; you only mark items done.
+
+**Lane B touches only quote page records and their check sheets.** Never open a Help answer, article, workbook, book note or biography record: those belong to Lanes A and C, which may be running at the same moment. Never run another lane's run list.
+
+**Rules for every item:** `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, sections 1, 2 and 4 (read the Standard, the Cowork Production Harness and the defect register at their current versions on disk, not the version numbers that file names). Its Part B status file is retired: the board is the only record of where work stands. Every DONE starts with the line `LANE B` so Chat can tell the lanes apart.
+
+1. `BRIEF__The_Idea_In_Every_Quote_Pages_Third_Heading_S407`: the idea heading on the 360 records, leaving the 72 it names alone.
+2. `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part C item 3: the 157 drafted quote pages, finished in batches of 20, each batch through a fresh check and its batch list.
+
+*Chat adds new items at the foot and moves nothing already started.*
+
+*No em or en dashes in this file; checked before writing.*

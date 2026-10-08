@@ -1,4 +1,6 @@
-# NEXT: what Cowork runs next, in order (kept by Chat)
+# LANE A run list: Help answers and Mental Health articles (kept by Chat)
+
+**From S415 Cowork runs as three lanes at once (Kain's word). This file is Lane A's run list. Lane A touches only Help answer and Mental Health article records. Lanes B and C have their own run lists: `000__NEXT_LANE_B__Quote_Pages.md` and `000__NEXT_LANE_C__Articles_And_Workbooks.md`. Never run another lane's items.**
 
 **Kain's word, S412, widened S413:** whenever you finish a job, and whenever Kain types **next** in Cowork, open this file, run the first item not marked done, mark it done here with the date when you file its DONE, then come back here for the next one. Hold only when every item is done. Nobody pastes your jobs to you (The Shared Rules, section 6, Version 11). Chat keeps the order; Cowork only marks items done.
 
@@ -10,6 +12,8 @@
 
 6. **DONE 8 October 2026 (S415), filed as `DONE__Mental_Health_Part_A_Round_Twelve_Seven_Fixed_None_Ready_Stale_Sourcing_Rows_S415.md` in FROM Cowork.** `NOTE__Your_Questions_Answered_And_Your_Next_Two_Jobs_S415.md` (added S415): read it whole, then run its section 5 item 6, the seven held Mental Health pieces fixed and checked once fresh, then hold for Kain's read.
 7. Same note, section 5 item 7: Stage 4 of `BRIEF__The_30_Mental_Health_Pieces_Then_The_53_Help_Answers_Source_Fix_Check_S405`, the 53 Help answers.
+
+8. Job 4 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the ten Help answers that fail the gate. (Jobs 1 to 3 of that brief are Lane C's.)
 
 *Chat adds new items at the foot and moves nothing already started.*
 
