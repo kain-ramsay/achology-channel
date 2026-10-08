@@ -29,7 +29,9 @@ Kain asked how steps three and four's courses are chosen, and why the names were
 
 10. **Kain's ruling on which courses steps three and four carry** ("yes, lets use that rule", S155): chosen by hand for each category, as the Editor's Picks are (DSRD 9 section 20.0b). Step three is a shorter course; step four is a practitioner course that counts towards the Achologist title (DSRD 4 section 2.3, REF 1's levels). Each category page carries an editable field for the pair; if it is empty, the steps fall back to the two courses the site's tag-driven course block already shows for that category (DSRD 4 section 7 path 1). For DSRD 9 section 20.0; Chat proposes the first pair for each category, as it did the picks.
 
-Still open in the block, put to Kain: the stand-in header above it ("From Reading to Qualified", Code recommends removing it); the remaining words listed for his edit (dark card line, ticks, steps, links, review caption).
+11. The stand-in header above the block ("From Reading to Qualified") removed, Kain: "yes, remove it". The block now opens on the hairline (48 above and below) with the two cards; his title on the grey panel is the first thing read.
+
+Still open in the block, put to Kain: the remaining words listed for his edit (dark card line, ticks, steps, links, review caption).
 
 ## For Chat: the path panel's words (superseded by ruling 7: Kain and Code settle them in the sitting)
 
