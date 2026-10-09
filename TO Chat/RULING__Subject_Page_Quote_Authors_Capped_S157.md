@@ -31,6 +31,11 @@
 
 **Kain's words:** "given that we've got four different types of content, and each content kind of has its own icon ... do you think it might be a nice touch to build the icon into each of the appropriate cards ... it might just come before the word article or quote article or book note or workbook." **Built at 0.707.170:** the same registry icons as the filter bar (article, book note, quote), 16 pixels, link orange, before the label on every wall card. A workbook card will take its own icon when the wall has a workbook tile; none exists yet.
 
+## 6. A Know Your Psychology card fills a big gap in the wall
+
+**Kain's words:** "on the bottom row of cards ... you're aligning all of the articles in the bottom. It just means that there's quite a bit of white space in some of them ... there might be space to include a Know Your Psychology logo into the grid ... essentially a card with a Know Your Psychology logo built into it, central aligned, that if clicked on would link back to the Knowledge Hub homepage ... allow us to not have any cards with a really overwhelming amount of white space." He then corrected Code's first try (the illustrated panel, the article column's picture): "I was just referring to the actual logo ... there are actual Know Your Psychology logos, titled KYP."
+**Built at 0.707.172 to 0.707.173.** Measured before: the bottom cards were stretched by up to 170 pixels (General Interest, Motivation, Mental Wellness, Psychology). Now a column's free space of 64 pixels or more becomes a white card with the generic logo, `The Knowledge Hub KYP Logo` (Kain's file in the Knowledge Hub design prototypes folder, converted to a 16 KB transparent WebP), centred and linking to the Knowledge Hub home page; smaller gaps are still taken by stretching the last card (the most now: 71 pixels). Code chose the generic mark over the seven coloured school versions because the wall is the whole Hub, not one school; Kain said yes. The card appears only on the All view, and a wall can show up to three (Psychology and Motivation do).
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
