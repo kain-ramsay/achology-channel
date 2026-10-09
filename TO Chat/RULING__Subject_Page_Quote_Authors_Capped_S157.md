@@ -27,6 +27,10 @@
 **Kain's words:** "the search bar currently says search psychology, that needs to change across all seven pages ... search the knowledge hub"; and of the quote tile: "I really like the quote cards ... however, there's nothing that says that it actually links through to a quote article ... do you think it'd be worthwhile turning the image into an actual card, like the rest of the cards on the wall?"
 **Built at 0.707.168.** The box reads "Search the Knowledge Hub" on every category (it is still drawn only, and searches nothing until the site search page is built, BRIEF S375). The quote tile keeps the baked picture on top and gains the card body the other tiles carry: the orange "Quote" label and the quote's own headline (for example "Why Every Coaching Relationship Begins with a Goal"), in the same card frame, so it reads as a link to a quote page. Code proposed this after Kain's question and built it for his eye. **Kain then simplified it (same sitting, 0.707.169):** "we can make the quotes card just a little bit simpler ... write quote article as the text, then with a number of words, and then the minute read next to it." The quote tile now carries the picture, the label "Quote Article" and "802 Words · 5 Minute Read" (the same one count the quote's own page prints, DSRD 8 section 6.0's card rule), with no headline. This closes the quote card's earlier gap in the card rule.
 
+## 5. Each card's label carries its kind's icon
+
+**Kain's words:** "given that we've got four different types of content, and each content kind of has its own icon ... do you think it might be a nice touch to build the icon into each of the appropriate cards ... it might just come before the word article or quote article or book note or workbook." **Built at 0.707.170:** the same registry icons as the filter bar (article, book note, quote), 16 pixels, link orange, before the label on every wall card. A workbook card will take its own icon when the wall has a workbook tile; none exists yet.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
