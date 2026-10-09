@@ -42,6 +42,17 @@
 
 **Kain's words:** "these pages are actually taking quite a bit of time to load, especially the images ... I know there's a fix ... can we define what it is?" **Found:** the subject page's pictures added up to 5.9 MB, 4 MB of it ten book covers: the wall drew each cover from the original upload (up to 1,058 KB) at about 120 pixels wide. **Fixed at 0.707.177:** each cover is drawn from WordPress's own 200 by 300 copy (12 to 16 KB); the page's pictures are now 1.9 MB, the covers 381 KB (about 90 percent less). **Not done, named:** on a high-density screen the browser asks for the next copy up (about 70 to 140 KB per cover); a purpose-made 260 by 390 size would bring that to about 25 KB but needs a theme image size and a thumbnail regeneration over the book note covers, which is a job for a factory session. The theme's other open speed item (stylesheets, `000__THE_THEME_QUEUE.md`, "One site-wide page speed fix") is untouched.
 
+## 8. The audit: squashed covers fixed, the rest planned
+
+**Kain's words:** "all these book note images are now totally squashed ... a lot of the images aren't loading. Some of them are crushing ... a lot of the images are taking a long, long time to load ... I need you to do a thorough investigative audit and fix plan." Plan agreed ("Yes, that plan is a yes").
+**Found, measured on the live page:**
+1. **The squash was Code's bug (0.707.177).** WordPress (6.7 on) puts "auto," in front of every lazy picture's `sizes`; on a book cover, which has a set height and automatic width, that made the browser draw it 187 by 193 instead of about 120 by 180. Proved by removing the "auto," on the live page. **Fixed at 0.707.178:** the automatic sizes are off on the subject page only (`wp_img_tag_add_auto_sizes`), and each cover is WordPress's own 200 by 300 copy (about 14 KB) with its true width and height, the only copy offered (`achology_kh_small_cover`). Verified at desktop, tablet and phone: 0 percent distortion on every cover, no broken picture among 66 to 71, 1.3 to 1.4 MB of pictures a page (was 5.9 MB).
+2. **Weight:** was 4 MB of covers; now about 14 KB each.
+3. **Server time:** 0.4 to 1.7 seconds before the page starts to arrive, varying; Kain is logged in as admin so never gets a saved copy. The wall rebuilds on every load (a pool of up to 120 quotes, ten topic searches, a scan of book notes for faces, word counts for about 56 pieces).
+4. **Pictures "not loading":** not reproduced in the test browser (every picture loads); a Safari-specific lazy-loading cause is possible and unconfirmed.
+5. **Site-wide, not new:** sixteen stylesheets (248 KB) delay first paint on every page (the theme queue's "One site-wide page speed fix").
+**Still to do (fresh session):** save each wall's built data and refresh it when anything is published or edited (item 3); confirm item 4 in Kain's real Safari; re-run the whole audit. **Not done, named:** a purpose-made cover size for sharp screens (the 200 by 300 copy is slightly soft on a high-density screen; needs a thumbnail regeneration, a factory job).
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
