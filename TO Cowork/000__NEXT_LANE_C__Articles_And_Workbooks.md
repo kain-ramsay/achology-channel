@@ -7,7 +7,7 @@
 **Rules for every item:** `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, sections 1, 2 and 4 (read the Standard, the Cowork Production Harness and the defect register at their current versions on disk, not the version numbers that file names). Its Part B status file is retired: the board is the only record of where work stands. Every DONE starts with the line `LANE C` so Chat can tell the lanes apart.
 
 1. **DONE 8 October 2026 (Lane C): 5 of 9 Ready, batch list filed; Parts 5, 7, 8 and 9 held with fixes written, three passes used.** `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part C item 1: the 9 Seven Beliefs parts, fixed to the current Standard, checked fresh, one batch list.
-2. Same queue, Part C item 2: the 4 held elder articles, the same way.
+2. **DONE 9 October 2026 (Lane C): 2 of 4 Ready (GT05, JF06), batch list filed; GK04 and GK05 held with fixes written, three passes used.** Same queue, Part C item 2: the 4 held elder articles, the same way.
 3. Jobs 1 to 3 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the two life coaching articles and the counselling overlap. (Job 4, the ten Help answers, is Lane A's.)
 
 4. (Added S418.) `NOTE__Lane_C_Four_Held_Parts_Then_Hold_S418` comes first: the one small pass on Seven Beliefs Parts 5, 7, 8 and 9. When its DONE is filed, mark item 1 done. Item 2 (the 4 held elder articles) is then the first item not marked done, and runs on the next 'next', then item 3.
