@@ -14,7 +14,7 @@
 6b. **DONE 8 October 2026 (S415), filed as `DONE__Mental_Health_Part_A_Final_Count_29_Of_30_Dykxhoorn_Applied_Hold_Item_7_S415.md` in FROM Cowork.** **First, before item 7:** read `NOTE__Lane_A_Your_Mental_Health_Questions_Answered_Finish_And_Hold_S415.md` and do what its section 3 says. It holds item 7 for a fresh Lane A next session.
 7. **DONE 8 October 2026 (S416), filed as `LANE_A__DONE__Help_Answers_53_Thirty_Eight_Ready_Fifteen_Held_S416.md` and `LANE_A__BATCH__Help_Answers_38_Of_53_Ready_To_Sign_S416.md` in FROM Cowork (38 of 53 Ready; 15 held with written fixes).** Same note, section 5 item 7: Stage 4 of `BRIEF__The_30_Mental_Health_Pieces_Then_The_53_Help_Answers_Source_Fix_Check_S405`, the 53 Help answers.
 
-8. Job 4 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the ten Help answers that fail the gate. (Jobs 1 to 3 of that brief are Lane C's.)
+8. **DONE 9 October 2026 (S418), filed within `LANE_A__DONE__Help_Answers_46_Of_53_Ready_Seven_Held_Item_8_Done_S418.md` in FROM Cowork.** Job 4 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the ten Help answers that fail the gate. (Jobs 1 to 3 of that brief are Lane C's.)
 
 9. (Added S418.) The Hypnotherapy subject, `BRIEF__The_Hypnotherapy_Questions_The_Whole_Job_In_Three_Stages_S375`: its Help answers first, one batch of up to 20, by the route in the queue's section 2, to Standard Version 14, with the finish line. Then the next batch of up to 20 on the next 'next'. Any CBT, NLP, life coaching, counselling or mindfulness question the brief finds undrafted goes first.
 
