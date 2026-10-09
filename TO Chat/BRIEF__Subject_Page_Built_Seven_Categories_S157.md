@@ -18,6 +18,9 @@ The topics block's pictures: each topic tile shows the newest article of that to
 ## Not done
 The seven pages' DSRD 6 records and Rank Math metadata; tablet and phone layouts (not ruled); the prototype's fold-back for the two S157 changes (the build sheet carries both rows, the frozen prototype still shows the old order and no quotes).
 
-OWED BACK: the five items above.
+## Later in the same sitting (read the RULING first; this brief was written earlier)
+Shipped to 0.707.178 after this brief's first draft: the mixing of kinds, quotes on the wall (two per author), the quote tile as the real baked picture, the responsive layers, "Search the Knowledge Hub", "Quote Article" cards, kind icons on labels, one standard Know Your Psychology card, 45 to 48 cards per wall, and the book cover fixes. All recorded in `RULING__Subject_Page_Quote_Authors_Capped_S157` (sections 1 to 8). **Item 3 above is met** (the quote card now carries its word count and minute read). **Item 4 changes:** hero Quotes link now opens the wall on quotes where there are some. Open and Kain's: a ruling on whether the quote card's picture needs a headline for screen readers (it carries the quote text and author as its description).
+
+OWED BACK: items 1, 2, 4 and 5 above.
 
 *No em or en dashes in this file; checked before writing.*
