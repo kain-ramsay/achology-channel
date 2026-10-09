@@ -4,7 +4,7 @@ LANE B
 
 # DONE: Quote pages, Part C item 3, batch 4 (Lane B, S418)
 
-BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (batches 1 to 4 finished; 70 of 157 still to fix, of which 7 wait for the placing ruling).
+BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (batches 1 to 4 finished; 77 of 157 still to fix: 70 in the normal run and 7 waiting for the placing ruling).
 
 **State of the work:** finished and clean. No page is half edited. Every record passes the gate apart from the `signed` line. Model: Sonnet 5.5 throughout, as Kain set for every lane (no recipe named a stronger one for this work).
 
