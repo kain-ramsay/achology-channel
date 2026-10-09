@@ -1,12 +1,12 @@
 LANE C
 
-**Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Five Seven Beliefs parts are Ready to sign.
+**Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Six Seven Beliefs parts are Ready to sign.
 
-# BATCH LIST (Part 19, bulk approval): The Seven Beliefs, five of nine parts
+# BATCH LIST (Part 19, bulk approval): The Seven Beliefs, six of nine parts
 
-**Ready to sign.** 5 articles, every one gate-checked (the only gate lines that print FAIL are the Previous/Next block under named exception (o), and the empty `signed` field, both settled by Chat's note of S418) and read by a fresh checker with a top line of "Ready to sign".
+**Ready to sign.** 6 articles, every one gate-checked (the only gate lines that print FAIL are the Previous/Next block under named exception (o), and the empty `signed` field, both settled by Chat's note of S418) and read by a fresh checker with a top line of "Ready to sign".
 
-**Batch:** The Seven Beliefs series, Parts 1, 2, 3, 4 and 6. **Checker:** fresh Claude checkers (Sonnet), Lane C, S416, sixth check, none of whom wrote or fixed any part. **Standard version:** 14.
+**Batch:** The Seven Beliefs series, Parts 1, 2, 3, 4, 6 and 7. **Checker:** fresh Claude checkers (Sonnet), Lane C, S416, sixth check, none of whom wrote or fixed any part. **Standard version:** 14.
 
 | # | Title | Type | Checker | Check sheet |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@ LANE C
 | 3 | Self-Knowledge Comes Before Personal Growth (Part 3) | Seven Beliefs article | fresh checker, Lane C S416 | `LANE_C__CHECK__know-thyself_S416.md` |
 | 4 | Wisdom Begins with Accurate Thinking (Part 4) | Seven Beliefs article | fresh checker, Lane C S416 | `LANE_C__CHECK__thinking-errors_S416.md` |
 | 5 | Your Emotional State Is Your Responsibility (Part 6) | Seven Beliefs article | fresh checker, Lane C S416 | `LANE_C__CHECK__emotional-responsibility_S416.md` |
+| 6 | Personal Growth Comes Before a Better Life (Part 7) | Seven Beliefs article | fresh checker, Lane C S416 | `LANE_C__CHECK__change-your-life-from-the-inside-out_S416.md` |
 
 Sheets sit beside the records in `Content Records/seven-beliefs-series/`.
 
@@ -26,11 +27,11 @@ Sheets sit beside the records in `Content Records/seven-beliefs-series/`.
 - Several titles had a small word lowered to meet rule 9 (for example "with", "a", "to"). The Previous/Next lines match them.
 
 ## Owed to a person (a checker reads these as noted, not as a fault)
-Each record carries its own list under `### Owed to a person` at the foot of its Sourcing record. In short: Part 1: Newton's letter page (403; supported on a Linda Hall Library page); Part 2: three Open Library pages for the Rogers and Maslow Sources entries; the Jussim and Harber abstract (403); Part 3: fifteen items, mostly books read through secondary pages; Part 4: the "what you see is all there is" print page of *Thinking, Fast and Slow*, and the Locke wording; Part 6: Ellis, Rotter, Covey, Glasser, Branden and the Frankl book.
+Each record carries its own list under `### Owed to a person` at the foot of its Sourcing record. In short: Part 1: Newton's letter page (403; supported on a Linda Hall Library page); Part 2: three Open Library pages for the Rogers and Maslow Sources entries; the Jussim and Harber abstract (403); Part 3: fifteen items, mostly books read through secondary pages; Part 4: the "what you see is all there is" print page of *Thinking, Fast and Slow*, and the Locke wording; Part 6: Ellis, Rotter, Covey, Glasser, Branden and the Frankl book; Part 7: Covey (403), Bandura (the APA page did not load), and Duhigg (supported on his own site).
 
 ## Pictures owed
-No final `.webp` was found for any part, so no checker could compare a picture to its alt text; Part 7 (not in this batch) has an alt text that does not match the only placeholder found. Code or Kain owes the pictures.
+No final `.webp` was found for any part, so no checker could compare a picture to its alt text; Part 7's alt text (now in this batch) names a skyline, while the only placeholder image found shows a seated woman; Kain should look at the final picture against its alt text. Code or Kain owes the pictures.
 
-**Held, if any:** none pulled yet. Parts 5, 7, 8 and 9 are not on this list; see the DONE file beside this one.
+**Held, if any:** none pulled yet. Parts 5, 8 and 9 are not on this list; see the DONE file beside this one.
 
 *No em or en dashes in this file; checked before writing.*
