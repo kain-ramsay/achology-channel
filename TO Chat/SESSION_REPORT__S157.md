@@ -1,13 +1,15 @@
 # SESSION REPORT S157 (theme session, Sonnet 5.5)
 
-Built from the git log and this session's commands. Lines marked hand added rest on this session, not on a commit.
+Built from the git log and this session's commands. Lines marked hand added rest on this session, not on a commit. Theme version at close: 0.707.177.
 
-- **Subject page, all seven categories, built and deployed** (commit 23c1627, 0.707.159): band, Categories bar that pins, lead row with the Editor's Picks panel, 48-card grid with filters and level column feet, topics block, learning path panel. Board card: Knowledge Hub navigation pages (subject page). Kain's reaction in the sitting: "turned out very, very nice".
-- **The grid mixes articles and book notes** (commit 8ca29cd, 0.707.160), on Kain's words; `RULING__Subject_Page_Grid_Mixes_The_Kinds_S157`.
-- **Quotes join the wall** (commit 5699e85, 0.707.161), on Kain's words and yes; `RULING__Subject_Page_Quotes_In_The_Wall_S157`.
-- **Two editable fields on every category** (Editor's Picks, step four course), Chat's first four picks per category seeded and Psychology's step four set to DiMAP (hand added: data written to the build site's category records, not in git).
-- **Theme and Component Design Prototypes git folders moved out of iCloud** (hand added, no commit): the git folders now sit in the home folder with pointer files; one deploy tested straight after, all three proofs passed. Theme queue line struck.
+- **Subject page, all seven categories, built and deployed** (commit 23c1627, 0.707.159): band, Categories bar that pins, lead row with the Editor's Picks panel, the card grid with filters and level column feet, topics block, learning path panel. Board card: Knowledge Hub navigation pages (subject page). Kain: "turned out very, very nice".
+- **The grid mixes articles and book notes** (8ca29cd, 0.707.160), on Kain's words; `RULING__Subject_Page_Grid_Mixes_The_Kinds_S157`.
+- **Quotes join the wall** (5699e85, 0.707.161); `RULING__Subject_Page_Quotes_In_The_Wall_S157`.
+- **Quote authors capped at two per wall; the quote tile is the real baked card picture; responsive layers (wall four, three, two across; every section fitted to tablet and phone); search box reads "Search the Knowledge Hub"; "Quote Article" label with words and minutes; a kind icon on every card label; one standard Know Your Psychology card; 45 to 48 cards per wall; book covers drawn from WordPress's own small copy** (0.707.162 to 0.707.177, commits 1228c78, ca21804, 1911e61, 3cedfbb, 23c880a, f159f84, 6066471, 90615f5, 84b6326, 4c21353, 8117936): all in `RULING__Subject_Page_Quote_Authors_Capped_S157`, sections 1 to 7.
+- **Page weight cut from 5.9 MB to 1.9 MB** (8117936): the wall was drawing 1 MB original book covers at 120 pixels wide.
+- **Two editable fields on every category** (Editor's Picks, step four course); Chat's first four picks per category seeded, Psychology's step four set to DiMAP (hand added: data written to the build site's category records, not in git).
+- **Theme and Component Design Prototypes git folders moved out of iCloud** (hand added, no commit): pointer files left, one deploy tested straight after, all three proofs passed. Theme queue line struck.
 - **Thirteen cards answered** in `REPLY__Thirteen_Cards_True_State_S157`; the ask is marked done.
-- **Ship brief** `BRIEF__Subject_Page_Built_Seven_Categories_S157` carries five items owed by Chat.
-- **Cloud job 18 (testimonial WebP) reviewed, not yet merged** (hand added): branch `cloud-work/job18-testimonial-webp`, 135 new WebP files, edits to `shared-parts.php` and `testimonials.js` only, clean on the checks it could run; needs a theme merge, deploy and live check.
-- **Not finished:** the seven pages' DSRD 6 records and Rank Math metadata; tablet and phone layouts (not ruled); the prototype's fold-back for the two S157 changes; merging cloud job 18.
+- **Ship brief** `BRIEF__Subject_Page_Built_Seven_Categories_S157` carries items owed by Chat (written before the later changes; the RULING file is the later record).
+- **Cloud job 18 (testimonial WebP) reviewed, not merged** (hand added): branch `cloud-work/job18-testimonial-webp`, 135 WebP files, edits to `shared-parts.php` and `testimonials.js` only, clean on the checks it could run. **Cloud job 19 (commerce card tick through the icon registry)** prompt written for Kain, not confirmed started (hand added). Kain held both while the seven pages were tuned.
+- **Not finished:** the seven pages' DSRD 6 records and Rank Math metadata; the prototype's fold-back (the frozen prototype still shows the old order, no quotes, no logo card; the build sheet carries every S157 row); merging cloud job 18 and starting or merging job 19; a real phone and iPad check (only browser emulation was done); a purpose-made 260 by 390 cover size for high-density screens (needs a thumbnail regeneration, a factory job).
