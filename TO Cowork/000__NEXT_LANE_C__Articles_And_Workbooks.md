@@ -10,6 +10,11 @@
 2. Same queue, Part C item 2: the 4 held elder articles, the same way.
 3. Jobs 1 to 3 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the two life coaching articles and the counselling overlap. (Job 4, the ten Help answers, is Lane A's.)
 
+4. (Added S418.) `NOTE__Lane_C_Four_Held_Parts_Then_Hold_S418` comes first: the one small pass on Seven Beliefs Parts 5, 7, 8 and 9. When its DONE is filed, mark item 1 done. Item 2 (the 4 held elder articles) is then the first item not marked done, and runs on the next 'next', then item 3.
+
+**Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
+
+
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*

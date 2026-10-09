@@ -16,6 +16,11 @@
 
 8. Job 4 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the ten Help answers that fail the gate. (Jobs 1 to 3 of that brief are Lane C's.)
 
+9. (Added S418.) The Hypnotherapy subject, `BRIEF__The_Hypnotherapy_Questions_The_Whole_Job_In_Three_Stages_S375`: its Help answers first, one batch of up to 20, by the route in the queue's section 2, to Standard Version 14, with the finish line. Then the next batch of up to 20 on the next 'next'. Any CBT, NLP, life coaching, counselling or mindfulness question the brief finds undrafted goes first.
+
+**Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
+
+
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*

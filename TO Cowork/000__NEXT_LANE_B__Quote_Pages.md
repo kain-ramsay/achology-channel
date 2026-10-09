@@ -9,6 +9,12 @@
 1. **DONE 8 October 2026 (S415), filed as `DONE__Quote_Page_Idea_Headings_All_360_Written_Gate_Heading_Line_Passes_72_Untouched_S415.md` in FROM Cowork.** `BRIEF__The_Idea_In_Every_Quote_Pages_Third_Heading_S407`: the idea heading on the 360 records, leaving the 72 it names alone.
 2. `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part C item 3: the 157 drafted quote pages, finished in batches of 20, each batch through a fresh check and its batch list.
 
+3. (Added S418.) `NOTE__Lane_B_Two_Signed_Pages_Fixed_Then_Hold_S418` first, if not yet done. Then batch 4 of the 157, the next twenty in order with the standard provenance paragraph, under the finish line, using the batch 3 fixer brief addendum (the read of every sentence credited to the lecture or a paper comes first). The seven records waiting on Code's placing call stay untouched.
+4. (Added S418.) Batch 5 of the 157, the same way.
+
+**Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
+
+
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*
