@@ -10,7 +10,7 @@
 - It is fixed, not random: the page is the same on every load.
 - This replaces "newest first across the rows" in the grid rule only for the mix between kinds; inside a kind, newest first still holds.
 
-**Measured on the build site, all seven categories:** Psychology and Helping People: a book note in 10 of 12 rows, the rest data-light at the foot. Personal Growth: a book note in 11 of 12 rows. Wisdom for Life: 9 of 12. Motivation (9 book notes), General Interest (5) and Mental Wellness (9 articles against 36 book notes) cannot give every row a mix and use all they have, spread evenly. Column feet level to within 1 pixel on every page.
+**Measured on the build site, all seven categories:** Psychology, Helping People, Personal Growth and Wisdom for Life: a book note in 11 of the 12 rows each, the last row being the masonry's levelled foot, which falls on four articles. Motivation (9 book notes), General Interest (5) and Mental Wellness (9 articles against 36 book notes) cannot give every row a mix and use all they have, spread evenly. Column feet level to within 1 pixel on every page.
 
 **Prototype:** not re-exported. The frozen prototype still shows the old newest-first order; the build sheet's new "Decided in S157" row is the record (Harness Rule 14 fold-back owed: the prototype's next version).
 
