@@ -22,6 +22,11 @@
 - Page gutters follow the container: 32 on tablet, 20 on phone.
 **Checked:** all seven categories at phone width, Psychology at tablet and at 1024 and 1276 wide: no sideways overflow, wall columns as above, column feet level to within a pixel. **Not checked:** a real phone or iPad (the browser emulation only), and landscape orientation.
 
+## 4. The search box's words, and the quote tile as a full card
+
+**Kain's words:** "the search bar currently says search psychology, that needs to change across all seven pages ... search the knowledge hub"; and of the quote tile: "I really like the quote cards ... however, there's nothing that says that it actually links through to a quote article ... do you think it'd be worthwhile turning the image into an actual card, like the rest of the cards on the wall?"
+**Built at 0.707.168.** The box reads "Search the Knowledge Hub" on every category (it is still drawn only, and searches nothing until the site search page is built, BRIEF S375). The quote tile keeps the baked picture on top and gains the card body the other tiles carry: the orange "Quote" label and the quote's own headline (for example "Why Every Coaching Relationship Begins with a Goal"), in the same card frame, so it reads as a link to a quote page. Code proposed this after Kain's question and built it for his eye; he has not yet seen it.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
