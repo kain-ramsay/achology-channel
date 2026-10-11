@@ -2,17 +2,22 @@
 
 Index of finished work for the board. Detail is in BRIEF__Subject_Page_Wall_Saved_Copy_S158 and RULING__Subject_Page_Audit_Fixes_S158 (both carry OWED BACK lines for Chat).
 
-Finished (from the git log, theme main, 0.707.179 to 0.707.206, all deployed to the build site):
+Finished (from the git log, theme main, 0.707.179 to 0.707.217, all deployed to the build site and pushed):
 - Subject page audit fix 1, saved copy of each category wall (0.707.179). Card: Knowledge Hub subject pages, audit fixes.
 - Subject page audit fix 3, full audit at 1440, 768 and 375 on all seven live pages: clean (hand added, no git record).
 - Editor's Picks are articles only, the lead never a pick; picks field changed on the install for all seven categories (0.707.180, .181; install data change hand added).
-- The wall's foot: one soft button per kind with its count, "Category Kind (count)" (0.707.182 to .188).
-- Topic block: tiles on the warm fade with a corner count tab (0.707.189 to .204), then replaced at Kain's direction by one block of thirty-six tags, the same on all seven pages, cream, with the Achology bubble mark behind each (0.707.205, .206). Kain's rulings, one subheading for all seven pages (0.707.199), and "Develop Emotional IQ" are in the RULING file.
-- Cloud job 20 reviewed against the real files (clean, merges with no conflicts, not merged). Cloud job 19 reviewed (clean, not rendered, not merged). Cloud job 21 commissioned: independent review of the saved-copy code on branch cloud-work/job21-subject-page-review (not yet read by Code).
+- The wall's foot buttons: built (0.707.182 to .188), then removed at Kain's word (0.707.212).
+- The Quotes tab shows every quote belonging to the category (0.707.211).
+- The topic block: tiles (0.707.189 to .204), then one block of thirty-six tags, the same on all seven pages, one shape, full-width rows, cream with the Achology bubble behind each (0.707.205 to .210).
+- One subheading on all seven category pages (0.707.199); "Develop Emotional IQ".
+- The learning path section: artwork behind the words, larger level cover aligned to the text, taller step pictures, 32px edge spacing, graduation cap on the course button (0.707.214 to .217).
+- Cloud job 20 and job 19 reviewed against the real files (both clean, neither merged). Cloud job 21 commissioned (independent review of the saved-copy code); its branch had not appeared at close, unread.
+- Rulings filed in RULING__Subject_Page_Audit_Fixes_S158 (items 1 to 10).
 
 Not finished:
-- Audit fix 2, watching Kain's own Safari: Kain looked several times himself and reported the pictures fine ("the images are fine"); closed on his word.
-- The seven pages' DSRD 6 records and Rank Math titles, focus keywords and descriptions: blocked on Chat's words (BRIEF OWED BACK 3 and 4) and on the page gate's helper browser (download awaiting Kain).
-- The prototype fold-back: not started.
-- Cloud jobs 18, 19, 20 remain unmerged until Kain says the subject pages are right; job 21's branch is unread.
-- The next-session memory note could not be updated: the scope check holds the first file list only.
+- The page gate on the seven category pages: it now runs through Google Chrome (wrapper recorded in the BRIEF) and ran once on Psychology; the true list of failures is not yet read. Next session's first job.
+- The seven pages' DSRD 6 records and Rank Math titles, focus keywords and descriptions: blocked on Chat's words (BRIEF OWED BACK 3 and 4).
+- The prototype fold-back: not started (the frozen prototype is out of date on the foot, the tiles, the topic block, the picks, the subheading and the learning path).
+- Cloud jobs 18, 19, 20 remain unmerged until Kain says the subject pages are right.
+- Two tool faults found on this iMac for the factory session: component_gate.py needs PHP (none here) and reports a crash as "disagrees"; no Playwright browser is installed.
+- The next-session memory note could not be updated (the scope check holds the first file list only).
