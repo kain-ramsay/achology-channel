@@ -1,5 +1,7 @@
 LANE C
 
+**SUPERSEDED, 11 October 2026 (final): do not sign this list. GT05 and GK04 are now on `LANE_C__BATCH__Version_15_Five_Ready_Three_Seven_Beliefs_Two_Elders_S416`; JF06 and GK05 are held with small fixes written.**
+
 **CHANGED, 11 October 2026 (Lane C): only the first row stands.** After the Version 15 opening rework, GT05 (Gaby Tzeschlock) was re-checked and reads Ready to sign at Version 15. JF06 (Jonathan Frost) was reworked and re-checked and now has 3 things needing Kain's eye, so row 2 is WITHDRAWN. See `LANE_C__DONE__Version_15_Openings_Reworked_One_Of_Thirteen_Ready_S416`.
 
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's signature (and, where the BATCH lists held pieces, his word on them). The lane card is in Checking.**
