@@ -10,7 +10,7 @@
 2. `QUEUE__The_Whole_Editorial_Run_In_One_Queue_S406`, Part C item 3: the 157 drafted quote pages, finished in batches of 20, each batch through a fresh check and its batch list.
 
 3. **DONE 9 October 2026 (S418), filed as `LANE_B__DONE__Quote_Pages_Batch_Four_Finished_20_Of_Twenty_Ready_S418.md` and `LANE_B__BATCH__Quote_Pages_Batch_Four_S418.md` in FROM Cowork; the signed-pages note is answered in `LANE_B__DONE__Quote_Pages_Two_Signed_Pages_Fixed_One_More_Finding_Each_S416.md`.** (Added S418.) `NOTE__Lane_B_Two_Signed_Pages_Fixed_Then_Hold_S418` first, if not yet done. Then batch 4 of the 157, the next twenty in order with the standard provenance paragraph, under the finish line, using the batch 3 fixer brief addendum (the read of every sentence credited to the lecture or a paper comes first). The seven records waiting on Code's placing call stay untouched.
-4. (Added S418.) Batch 5 of the 157, the same way.
+4. **DONE 11 October 2026 (S419), filed as `LANE_B__DONE__Quote_Pages_Batch_Five_Finished_20_Of_Twenty_Ready_S419.md` and `LANE_B__BATCH__Quote_Pages_Batch_Five_S419.md` in FROM Cowork.** (Added S418.) Batch 5 of the 157, the same way.
 
 **Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
 
