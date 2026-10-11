@@ -33,3 +33,17 @@ New picks:
 Open item for Chat and Kain: "Who chooses the Editor's Picks" is still open in the build sheet. Helping People's picks list also repeats that category's lead article (39679) as its second pick; left as found.
 
 OWED BACK: Chat writes the rule "the Editor's Picks are articles only" into the build sheet and DSRD 9 section 20.0b, and names who chooses the picks.
+
+---
+
+## Later rulings in the same S158 sitting (theme 0.707.182 to 0.707.199)
+
+All on main, deployed to the build site, verified on all seven live category pages.
+
+1. **The wall's foot.** Kain challenged the single "Explore More Knowledge Hub Articles" button: "Is this really the best you can propose?" Replaced by one button per kind with its true count, linking to each kind's complete list for the category (a kind with none is left out). Kain's words on the look: "three variations of the buttons ... icon, then category, articles ... with the number in brackets afterwards." Chosen: "3 Soft please." Label: icon, then "Category Kind (count)", for example "Helping People Articles (49)". The articles list was already linked a second time from step one of the learning path; the book notes and quotes lists were linked from nowhere on the page until now.
+2. **Topic tiles.** Kain: "the cards just feel too dark and heavy" and "I don't want the design of the layout changed." Chose the warm fade (picture fading into the page's warm cream at the foot, dark name on it): "We definitely want to go for the warm fade." Then on the count: "the little arrow ... we just don't use that arrow anywhere ... place the category at the bottom of the block and have a little tab ... that presents the number of articles ... the same icon that we use everywhere else." His design: "the smoked glass but in the bottom right-hand corner", chosen "option 2" (the tab set flush into the corner). Built: name at the foot, count in a smoked-glass tab flush in the bottom-right corner with the site's article icon, no arrow, no word, the whole tile the link.
+3. **A topic with no picture in its category** borrows the newest picture of that topic anywhere. A topic with no articles stays shown: Kain, "The website's not live ... There will be hypnotherapy articles in there before we launch." (Same principle as the standing note that a link to an unbuilt page is not broken.)
+4. **The subheading** on all seven category pages is now one line, Kain's own words: "All articles in this category are consolidated in one place, making it easier for you to find your next read." It replaces the seven separate purpose lines of DSRD 9 section 20.0a.
+5. **Process.** Kain restated that design changes come as rendered options to choose from ("our standard is that you present me with three or four different options"), and that the Claude should lead and be proactive, not ask for a word on obvious fixes.
+
+OWED BACK: Chat writes rulings 1 to 4 into the build sheet and DSRD 9 section 20.0 (the foot's three buttons, the tile's corner count tab, the one subheading), and retires the seven purpose lines in 20.0a.
