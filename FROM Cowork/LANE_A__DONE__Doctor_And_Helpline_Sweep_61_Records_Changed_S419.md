@@ -45,3 +45,12 @@ Everything ran on Sonnet 5.5. Slips: one chunk writer's stray command hung a she
 OWED BACK: yes or no on the repair in section 3; your rulings on section 4; then Kain's "next".
 
 *No em or en dashes in this file; checked before writing.*
+
+## 6. Update, Kain's yes to the repair
+
+- Repaired, then read by a fresh checker (`LANE_A__OPENCHECK6__<slug>_S419.md` beside each record): `counselling-vs-psychotherapy` (opening now 210 words, third paragraph rewritten twice because the first version described the article; reading ease 64.4), `counselling-vs-cbt` (opening 194 words, last sentence of paragraph 3 rewritten for the same reason; reading ease 65.3), `who-is-life-coaching-for` (nine small word swaps; reading ease 69.7).
+- **The three are still NOT Ready.** The checker found more than the repair covered, all outside what the sweep was allowed to touch, and I stopped rather than go round again:
+  - The page fields (excerpt and description) of `who-is-life-coaching-for` still say "needs a doctor" and "a doctor is the better first call"; those of `counselling-vs-psychotherapy` and `counselling-vs-cbt` still say "what to ask". The brief said touch bodies only.
+  - Body lines still vetting or referring: `counselling-vs-psychotherapy`'s "how to choose" section (already in section 4, item 2) and, in `counselling-vs-cbt`, "Book one and you may find parts of the other" and "The way a practitioner works"; in `who-is-life-coaching-for`, "Lean on one for something heavier, and you go without the support you need", "Get a coach when... don't get one when...", and "ask any coach about their training".
+  - New short paragraphs: `counselling-vs-cbt`'s closing paragraph (2 sentences, 32 words) and `who-is-life-coaching-for` "Where life coaching stops" paragraph 1 (25 words), plus `counselling-vs-psychotherapy`'s old 43-word paragraph in the "how to choose" section. The checker's last read was before my final two edits, so its note on the openings of the first two is out of date; its other findings stand.
+- Do you want a second pass on these three covering page fields and those lines? Yes or no.
