@@ -73,3 +73,20 @@ Proven in S158 on /learn/psychology/ (it ran and produced a verdict). Not yet ru
 ## Where the Knowledge Hub pages stand, read from the record (S158 close)
 
 Templates that exist: the four reading pages (article, book note, quote, workbook), the listing page, the seven category pages, the front page (/learn/), the tags index (/learn/tags/) and the tag pages. The only Knowledge Hub page type with no template is the search results page (DSRD 9 section 38). Per Kain's S152 order the sittings left are: the listing page, the all topics page (tags index), the topic page (tag page), the Knowledge Hub front page, with the search results page in the same run. The front page, tags index and tag pages were built at 0.707.138 to .140 and wait on Kain's eye in Safari.
+
+---
+
+## Cloud jobs 18, 19, 20: the cloud session's handoff, and Code's decisions on it (S158 close)
+
+Read in full. The handoff file itself lives in the cloud session's storage and was not opened; this is Kain's paste of it. Facts to carry: job 20 has an open pull request, kain-ramsay/achology-theme#1 (base main), which Code has not read (the GitHub tool is not installed on this iMac); none of the three branches is merged; none bumped a version; none was rendered or gated (no page gate, no image_gate.py); no channel ship brief and no zip rebuild were done from the cloud, and both are Code's after any merge.
+
+Code's decisions, all technical and overturnable:
+1. **No merge now.** Kain's standing word: none of the three merges until he says the subject pages are right. Nobody presses merge on PR #1 in GitHub.
+2. **When Kain says go, the merge order is job 19, then job 18, then job 20.** Job 19 is four files and independent. Job 18 and job 20 both edit parts of `shared-parts.php`, so job 18 goes first and job 20 is brought up to date with main and re-tested after it.
+3. **Job 20 must be re-tested against today's main before it merges.** It was branched at theme 0.707.178; main is now 0.707.217, and `kh-subject.css`, `taxonomy-kh_category.php` and `knowledge-hub-parts.php` have changed a great deal since (the topic block, the tags, the foot, the learning path, the saved copy). The earlier conflict test was run against an older main and no longer counts.
+4. **At merge, in this order:** run `image_gate.py` (the `-130.webp` style names are the open question), render a sample of the changed pages in Chrome and in Safari for Kain, bump the version once, deploy with `deploy.py`, rebuild the zip, write the ship brief to TO Chat.
+5. **The cloud session's four own calls are accepted:** intermediate widths for cards and header art; copies skipped when not smaller; the worst-case `sizes` for cards (540px) for now, to be tightened later by passing the grid to the card functions; one file per testimonial background.
+6. **One follow-up after the merge:** the new topic tags' bubble (`.tg__t::before`, 44 by 34 px) and the current-page bubble can use job 20's 26 and 176 px copies.
+7. **The merge is its own short session**, never mixed with the page gate or the workbook sitting.
+
+Also open: job 21 (independent review of the saved-copy code) and job 22 (the search results page build, branch `cloud-work/job22-search-results-page` once Kain sends it) have no output yet. The next session reads their reports only, and reviews their branches against the real files when they appear.
