@@ -21,6 +21,8 @@
 **Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
 
 
+10. **Added by Chat, S419, at Kain's yes.** `BRIEF__Rework_The_Hub_Question_Openings_To_The_Feeling_Frame_S419.md`: read the hub question article openings, rework those that open on a scene to Content Standard Version 15 Part 3 rule 2, fix the echoes, run one fresh check, file `LANE_A__DONE__Hub_Question_Openings_Reworked_...` and `LANE_A__BATCH__Hub_Question_Openings_Ready_To_Sign_...`. One item per 'next'. Kain has accepted that Lane A's Ready column is over its limit for this brief.
+
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*

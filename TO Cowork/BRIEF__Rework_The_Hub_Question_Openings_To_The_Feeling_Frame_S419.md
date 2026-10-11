@@ -1,4 +1,4 @@
-LANE A. This is a brief, not yet on your run list. Do not start it until Chat adds it as an item on `000__NEXT__What_Cowork_Runs_Next.md`.
+LANE A. This brief is item 10 on your run list (added S419 at Kain's yes).
 
 # BRIEF: rework the hub question article openings that open on a scene, to the Part 3 feeling frame
 
