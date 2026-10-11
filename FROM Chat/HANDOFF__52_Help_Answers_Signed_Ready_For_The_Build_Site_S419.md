@@ -61,3 +61,5 @@ The 52:
 50. cheapest-hypnotherapy-course
 51. where-can-i-learn-the-johari-window
 52. learn-hypnotherapy-online-or-free
+
+Correction on the UKRLP sentence (Kain, S419, later the same day): he ruled it stays at the foot of every Help answer because it is an outbound link, and he recalls it being agreed that it is set smaller and inverted. DSRD 8 section 37 records the credit line in the Small role, soft grey, under the FAQs block; "inverted" is not recorded. Import the 52 with the sentence still in the record. Backlog: Code line 21 holds the theme job. Ask Kain at the next theme sitting whether "inverted" means the same panel treatment as the help line foot panel.
