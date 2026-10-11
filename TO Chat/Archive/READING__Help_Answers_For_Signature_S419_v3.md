@@ -416,6 +416,54 @@ Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) 
 
 ---
 
+## 10. Where Can I Learn About Carl Rogers?
+If you're looking for a Carl Rogers course, Achology.com teaches his ideas in several of its courses, and you can also read what he wrote himself. Rogers named what a helper needs to bring to a talk, and in Achology's view his list describes who the helper is more than what the helper does. A common belief is that this makes him a thinker for professional counsellors only. Achology teaches him as education for anyone who wants to help the people around them.
+
+## Who was Carl Rogers?
+
+In 1957 Rogers published a paper called "The necessary and sufficient conditions of therapeutic personality change". 20 years later, in [his own commentary](https://garfield.library.upenn.edu/classics1978/A1978FD05200002.pdf), he said he suspected it was the most significant paper he had ever written. It describes a helper who is genuine and real, who cares without conditions, and who shows sensitive empathy. He gave it first to psychologists and clinicians, people in his own line of work.
+
+His 1961 book On Becoming a Person, from Houghton Mifflin, goes further. A contents listing on the [Connexions archive](https://connexions.org/CxLibrary/CA17262.htm) shows chapters on helping relationships, on teaching and learning, on family life, and on what he called the fully functioning person. So he wrote about helping well beyond the therapy room. You don't have to be a therapist to learn from him.
+
+## What are his three conditions in everyday life?
+
+A 2019 [Acta Psychiatrica Belgica article](https://research.dial.uclouvain.be/bitstreams/be1855e7-4513-4154-a185-802d94e75c16/download) reads the paper as setting out six conditions, and three of them are about the helper. It names those three as congruence, unconditional positive regard and empathy. In plain words, the helper is real with you, cares about you whatever you say, and works to see things as you see them.
+
+Say your brother tells you he's been passed over for a promotion. You could tell him it doesn't matter, or you could stop, notice what you feel, and ask him what it was like. In Achology's view, that's all three in one small moment: you're open about your own reaction, you don't think less of him for being upset, and you try to see it from where he sits.
+
+## Which Achology courses work as a Carl Rogers course?
+
+Rogers's ideas appear in many Achology courses, and five of them are listed here with what each one teaches of him. They differ in length and in what they do with his work. It helps to see the pieces side by side before you choose. Where a figure says at least, it is the fewest hours that course takes, so plan for a little more.
+
+- Counselling Skills Practitioner Course (Beginner to Advanced), at least 44 hours: his three core conditions, the assumptions behind person-centred counselling, and the six conditions for change (see [the counselling course](/academy/person-centred-counselling/counselling-skills-practitioner/)).
+- Diploma Course in Modern Applied Psychology (DiMAP), at least 51 hours: the fully functioning person and the ideas behind his theory, in a wider study of humanistic psychology (see [the DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/)).
+- Neuro-Linguistic Programming Master Practitioner Course, at least 45 hours: the fully functioning person, and how to become someone others confide in (see [the NLP Master Practitioner course](/academy/neuro-linguistic-programming/nlp-master-practitioner/)).
+- The Communication Skills and Social Intelligence Masterclass, 16 hours: his core conditions used in respectful talk, with a demonstration of a close, connected conversation (see [the Communication Skills Masterclass](/academy/personal-growth/communication-social-intelligence/)).
+- Mindset Mastery: The Ultimate NLP-Based Guide to Self-Discovery, at least 12 hours: the conditions that help people thrive (see [Mindset Mastery](/academy/neuro-linguistic-programming/mindset-mastery-self-discovery/)).
+
+## Which of the five courses should you start with for Rogers?
+
+Start with the counselling course if you want to see his conditions used in a live conversation, since it teaches them with counselling skills and shows conversations in action. Pick the diploma if you'd rather meet him as one voice among several in a wide study of psychology. The Communication Skills Masterclass is the one to pick when talk with family or colleagues is your reason for asking, and it's the lighter task.
+
+## Will studying Rogers make you a counsellor?
+
+No. Rogers worked as a therapist, and Achology takes what he saw about people and about helping, and leaves the therapy frame behind. A course here is education, so it gives no licence and no regulated title, and Achology doesn't train anyone to diagnose or treat.
+
+## How does his work fit with the rest of what Achology teaches?
+
+In Achology's view, Rogers's conditions describe how to be with a person, and what counts most in a helper is who they are, more than what they know. Every person alone is responsible for taking the steps that would improve their life. So a helper offers the conditions, and the other person does the growing.
+
+**Related questions**
+
+- [Is Achology therapy, counselling, or coaching?](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/)
+- [Can Achology replace traditional therapy training?](/help/comparisons-and-alternatives/achology-vs-therapy-training-counselling/)
+- [Does Achology follow one school of psychology or multiple traditions?](/help/achology-basics-and-identity/achology-multiple-psychology-traditions/)
+- [Does Achology teach evidence-based models, humanistic models, or both?](/help/achology-basics-and-identity/achology-evidence-based-humanistic-psychology/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
 ## 11. Is CBT hard to learn, and can you teach it to yourself?
 # Is CBT hard to learn, and can you teach it to yourself?
 
@@ -488,6 +536,182 @@ If your aim is to understand how your own thinking works well enough to question
 - [How long do Achology courses take to complete?](/help/learning-experience/how-long-achology-courses-take-timelines/)
 - [What does an Achology certification qualify me to do?](/help/certificates-cpd-accreditation/what-does-achology-certification-qualify/)
 - [Can I call myself a therapist after completing Achology courses?](/help/certificates-cpd-accreditation/call-myself-therapist-achology-courses/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 13. What Does an NLP Course Cover, and What Will You Learn?
+So what does an NLP course cover? Neuro-linguistic programming (NLP) is a large subject, and Achology.com's teaching begins with the ideas it rests on, then adds techniques for rapport, mood, language and change, with a strong layer of self-awareness, beliefs and values. A syllabus shows you more about what a course teaches than its title does.
+
+## What does an NLP course cover from start to finish?
+
+The [Association for Neuro Linguistic Programming](https://anlp.org/knowledge-base/minimum-nlp-practitioner-course-content) (ANLP) sets out what it calls a recommended minimum core content for a practitioner course. Its list is mostly named techniques, including state management, rapport, anchoring, reframing, strategies and basic timeline work, plus a few of the ideas behind them. Rapport means getting on the same wavelength as someone, and reframing means looking at a situation from a different angle. The list is ANLP's own recommendation.
+
+That page gives no minimum number of hours, so a course's length tells you little by itself. Hold a provider's list of topics up against ANLP's and see what's missing and what's been added. Say anchoring is on ANLP's list but absent from a course outline: that's a fair question to put to the provider before you pay. Ask to see a provider's full topic list before you pay.
+
+## What does Achology teach about NLP?
+
+Achology's NLP teaching starts with the foundations: what NLP is, the ideas it rests on, and an evaluation of it that sets out why it draws both strong supporters and strong critics. After that comes how people experience life, including how beliefs form and how a new frame can change what something means. It also asks whether the labels you use for yourself capture who you are.
+
+Next come self-awareness and goals. You learn how your view of a situation can differ from the situation itself, how to see what you and other people know about you, and how to word a goal so it's clear. A section on coaching conversations follows, including a four-stage coaching model, and then a section on three well-known figures: Virginia Satir, Fritz Perls and Milton Erickson.
+
+The middle of the teaching is about your state, which means the mood and mindset you're in, and what shapes it. It also covers anchoring, which is how a trigger such as a song can bring a feeling back in a moment. Say a track on the radio puts you straight back in one summer: that's an anchor, and you learn how anchors form and how habits get built.
+
+The later sections cover rapport, looking at a conflict from more than one viewpoint, and a set of questions that clear up vague language. They also cover listening, moving between the big picture and the detail in a conversation, and the tone of your voice. The teaching closes with strategies for learning from how other people succeed, and a look at your own core values.
+
+## Is a syllabus just a list of techniques?
+
+In Achology's view, a syllabus is more than a list of techniques, because understanding comes before technique. A common belief is that learning NLP means collecting methods for influencing people, so a syllabus must be a list of them. Achology gives self-awareness and goal setting a whole section between them, lets beliefs and perception run through the sections around it, and has you put each idea into practice on yourself, then on others. Good communicating, in the end, needs only to be real, understandable and interesting; winning someone round isn't the aim.
+
+## Where can you study this at Achology?
+
+All of this is taught in Neuro-Linguistic Programming (NLP) Practitioner Training, which you take online and which runs to at least 42 hours in 155 lessons. The teaching gives self-awareness and goal setting a section together, with beliefs woven through the sections around it, before it moves on to coaching, states, rapport and anchoring. If you'd like the full map, the [NLP Practitioner course](/academy/neuro-linguistic-programming/nlp-practitioner/) is where to find it.
+
+You'll get most from it if you want a full map of NLP and you're happy to put each idea to work in your own days first. It's a weaker fit if you need a certificate from a body that asks for live, assessed training.
+
+**Related questions**
+
+- [NLP certification levels: which one do you actually need?](/help/certificates-cpd-accreditation/nlp-certification-levels/)
+- [Can you do NLP certification online, and is it respected?](/help/comparisons-and-alternatives/nlp-certification-online/)
+- [What's inside an Achology course module? What do you get?](/help/learning-experience/inside-achology-course-modules-breakdown/)
+- [Is Achology therapy, counselling, or coaching?](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 14. What Makes a Good NLP Course, and How Do You Choose One?
+So what makes a good NLP course? Neuro-linguistic programming (NLP) courses run from self-paced online introductions to live, interactive trainings, so the answer depends on what you want one for. A good one shows you its syllabus, tells you who teaches it and how you'll practise, and promises nothing it can't deliver. A course for understanding yourself is a different thing from one built for professional practice, and that difference matters when you choose.
+
+## What makes a good NLP course, and what should it show you?
+
+Start with the syllabus. The [Association for Neuro Linguistic Programming](https://anlp.org/knowledge-base/minimum-nlp-practitioner-course-content) (ANLP) lists a recommended minimum content for a practitioner course, and it's a useful checklist. Compare a course's topics with it line by line, noting what the course leaves out and what it adds. Ask to see the full syllabus before you commit.
+
+Then look at who teaches it. [ANLP's trainer guidance](https://anlp.org/knowledge-base/how-to-choose-a-good-nlp-trainer) says to be clear why you want to learn NLP and to check a trainer's credentials. It adds that a good trainer can explain their own training background clearly and will be happy to share that information. So ask what the trainer has done and who trained them, and count a dodged answer as a warning.
+
+Finally, look at how you'll practise. If you want to use NLP professionally with other people, the same guidance says your training should have live teaching and demonstrations, then supervised practice with feedback, and a check of your competence. Skills like these are about how you deal with people, so ask how a course gives you a real person to try them on, and someone to tell you how it went.
+
+## What are the red flags in an NLP course?
+
+ANLP names four: a course that promises instant mastery, guarantees unrealistic results, avoids questions about certification, or claims that passive online learning alone is enough for professional practice. Achology.com adds one more check, which is to ask what a claim rests on. [ANLP's page about research](https://anlp.org/knowledge-base/nlp-and-research) warns that some of what's claimed for NLP has been overstated. So a course offering a health result or a guaranteed outcome is worth a second look.
+
+## Which kind of course suits what you want?
+
+It depends on your aim. To understand your own thinking and how you communicate, a self-paced online course can help, and ANLP says online courses can be a useful introduction to NLP. If you want professional membership of a body such as ANLP, check its rules first, because [ANLP's frequently asked questions](https://anlp.org/knowledge-base/faqs-nlp) state that self-paced, online-only practitioner certifications aren't recognised by it for professional membership.
+
+Say you're choosing between two courses. One promises you'll master NLP in a weekend and waves away every question about its certificate. The other shows its syllabus, says who teaches it, explains how you'll practise and says clearly what its certificate is. You'd already know which to trust, and that's the whole method.
+
+## Is there a world's best NLP course?
+
+Be careful with any claim like that, because a certificate is a group's own statement that you finished its training. In Achology's view, no group has been endorsed by anyone else as the world authority on NLP, so a group claiming that title for itself is only describing itself.
+
+## Is a course with more techniques a better course?
+
+A common belief is that the better NLP course is the one with the longest list of techniques and the biggest name behind its certificate. In Achology's view, understanding comes before techniques, so a good course helps you see how your own thinking works before it hands you a method. The belief that bigger means better is an assumption you've picked up along the way, and asking what you might be missing is how you test it.
+
+## Which Achology course teaches NLP?
+
+For NLP, Achology offers Neuro-Linguistic Programming (NLP) Practitioner Training, and you set the pace because it's all online. It has 155 lessons and at least 42 hours of teaching, covering the core NLP ideas and techniques alongside self-awareness, beliefs and communication. You can read the full syllabus on the [NLP Practitioner course](/academy/neuro-linguistic-programming/nlp-practitioner/) page.
+
+It's built for someone who wants to understand their own thinking and the way they talk with others, and who is happy to try each idea on themselves. It won't fit if you need live, assessed training, or a certificate demanded by a professional body.
+
+**Related questions**
+
+- [Who certifies NLP training, and does accreditation matter?](/help/certificates-cpd-accreditation/accredited-nlp-certification/)
+- [Is NLP certification legit, and what does it actually prove?](/help/certificates-cpd-accreditation/is-nlp-certification-legit/)
+- [Can you do NLP certification online, and is it respected?](/help/comparisons-and-alternatives/nlp-certification-online/)
+- [Can you get NLP certification free, and is it worth having?](/help/comparisons-and-alternatives/nlp-certification-free/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 15. How Do You Become a Certified NLP Practitioner?
+How do you become a certified Neuro-Linguistic Programming (NLP) practitioner? Certificates come from several different groups, so to become a certified NLP practitioner you pick a provider, finish its practitioner course and get its certificate. A common belief is that one official body awards the title, but several groups issue them. A certificate's worth rests on who awarded it and what the training covered.
+
+## Who issues NLP certificates?
+
+The [Association for Neuro Linguistic Programming](https://anlp.org/knowledge-base/nlp-certification-structure) (ANLP) says it's independent, and it's a professional body for NLP. Its page lists six levels, from a short intro up to master trainer. Practitioner is the third, which ANLP calls generally the first substantial level. It's one of several groups, and each describes its own system in its own words.
+
+The American Board of Neuro Linguistic Programming (ABNLP) shares one [ABNLP certification page](https://abh-abnlp.com/certification/) with the American Board of Hypnotherapy. The page lists eight tiers, from associate membership up to master trainer. It links to other pages that set out what each tier asks of you, so read those before you pay.
+
+The [Society of NLP](https://www.society-of-nlp.net/) is a third group. Its footer says the licensed trainer, practitioner and master practitioner titles shown there carry registered trademarks held by John La Valle. So when you see one of those titles on a certificate, ask who licensed the person who taught you. It's an easy question to ask before you pay.
+
+## What does it mean to become a certified NLP practitioner?
+
+In Achology.com's view, a certificate tells you that a group says you finished its training, and that's all. Rules on working with people for payment vary by location, so find out what applies to you before you take payment. Achology also holds that nobody outside these groups has named any one of them the world's authority on NLP. A group claiming to be the top authority in the world has simply appointed itself.
+
+Say a friend comes back from a weekend course and calls herself a master practitioner. Before you feel impressed or worried, you'd want two answers. Who issued it, and what did the training cover? Those questions work on any certificate you meet, and they keep the choice with you, not with the title.
+
+## What should you ask a provider before you pay?
+
+[ANLP's trainer guidance](https://anlp.org/knowledge-base/how-to-choose-a-good-nlp-trainer) says training for working with others should include live teaching, demonstration, supervised practice, feedback and a check of your skill. It also names red flags, such as promises of instant mastery, guarantees of results nobody could promise, and dodging questions about certificates. Hold any provider, Achology included, up against that list. Ask about each point in plain words, one at a time.
+
+Then look at what the course itself teaches. [ANLP's recommended core content](https://anlp.org/knowledge-base/minimum-nlp-practitioner-course-content) for practitioner courses lists topics such as rapport and reframing. Lay a provider's syllabus beside that list and see how much of it is there, topic by topic. Ask for the whole syllabus in writing, and read it before you pay.
+
+## Does an online course count towards certification?
+
+The answer depends on what you need the certificate for, so start there. [ANLP's page of common questions](https://anlp.org/knowledge-base/faqs-nlp) says that learning NLP online can be a helpful first step. The same page says ANLP won't count a practitioner certificate earned only online, at your own pace, towards professional membership. If joining a professional body is your aim, read its rules first.
+
+## Is a certificate a licence to use NLP on other people?
+
+A common belief is that holding a certificate licenses you to use NLP techniques on other people. Achology teaches the reverse order: understand your own thinking first, then pick up a technique. Every idea gets tried on you before anyone else.
+
+Ask what you're not seeing: who certified it, after what training, and for which purpose?
+
+## Where can you train in NLP with Achology?
+
+At Achology, the Neuro-Linguistic Programming (NLP) Practitioner Training course is an online programme with 155 lessons that add up to 42 hours or more. It covers the main NLP ideas and techniques, plus self-awareness, beliefs and communication. You finish with an Achology certificate, not one from any of those three groups. The [NLP Practitioner Training](/academy/neuro-linguistic-programming/nlp-practitioner/) page has more about what's inside.
+
+You get a Certificate of Course Completion when you finish, and a Certificate of Achievement once you've also taken six skill development sessions on the course. This route suits you if you want to learn NLP on yourself first and you're happy to study online. It's the wrong fit if a body you're aiming to join asks for live, assessed training, so check its rules before you enrol.
+
+**Related questions**
+
+- [Who certifies NLP training, and does accreditation matter?](/help/certificates-cpd-accreditation/accredited-nlp-certification/)
+- [Is NLP certification legit, and what does it actually prove?](/help/certificates-cpd-accreditation/is-nlp-certification-legit/)
+- [Can you do NLP certification online, and is it respected?](/help/comparisons-and-alternatives/nlp-certification-online/)
+- [Can you get NLP certification free, and is it worth having?](/help/comparisons-and-alternatives/nlp-certification-free/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 16. Is NLP Hard to Learn, and Can You Teach It to Yourself?
+So is Neuro-Linguistic Programming (NLP) hard to learn? Asked "is NLP hard to learn", Achology.com's view is that you can start with no background and pick up the basics on your own. It takes longer to practise each idea until it becomes a habit, and NLP comes with a lot of named techniques, so in Achology's view the hard parts are the amount, the practice and knowing what to trust.
+
+## Is NLP hard to learn without any background?
+
+The first hard part is the amount. The [Association for Neuro Linguistic Programming](https://anlp.org/knowledge-base/minimum-nlp-practitioner-course-content) (ANLP) publishes recommended core content for a practitioner course, and the list is long. It runs from the presuppositions NLP rests on to rapport, state management, reframing and basic timeline work, with many more named items between them.
+
+The second is practice. [ANLP's page of common questions](https://anlp.org/knowledge-base/faqs-nlp) calls NLP an experiential discipline and says professional practice requires live interaction, practice, feedback and assessment. Achology sees reading about a technique as the easy part. Trying it on a real person, who answers in ways you didn't expect, is where most of the learning happens.
+
+The third is knowing what to trust. [ANLP's page about research](https://anlp.org/knowledge-base/nlp-and-research) says some claims made in the name of NLP have been overstated. A good course helps you sort a sound idea from a big promise, and it's fair to ask any provider how it does that before you sign up for anything.
+
+## Can you teach yourself NLP?
+
+In Achology's view, you can learn the ideas on your own, because each one starts with you, with your own thoughts, habits and ways of talking to yourself. ANLP describes online courses as a useful introduction to NLP. The test is whether you try the ideas in everyday situations, not whether anyone is watching you.
+
+Say you notice you always assume the worst when a message goes unanswered. A lesson can show you how a thought comes first and a feeling follows. Then you try it: when the thought arrives, you ask what the real evidence is, and what a trusted friend would say. That's self-teaching working well, and it needs no partner or special preparation.
+
+Where self-teaching runs out is feedback. You can't see how you come across when you work alone, and nobody tells you where an idea fell flat. Achology's [Skill Development Workshops](/help/events-and-mentorship/achology-skill-development-workshops/) are one way to close that gap: 90-minute sessions where members take on one skill together, in pairs or small groups, while the host watches and gives feedback.
+
+## Should you start with the techniques?
+
+A common belief is that studying NLP is a matter of piling up techniques for influencing people. Achology teaches in the opposite direction, with the steps coming second, and it treats that as the main difference. You learn how your own thinking works first, and each idea is tried out on you before it's used for anyone else.
+
+## Where can you start with NLP at Achology?
+
+Achology offers A Beginner's Guide to Neuro-Linguistic Programming (NLP), with at least 12 hours of teaching across 40 lessons, taught online. It covers the foundational NLP ideas, how people experience and interpret life, and how to apply NLP to goals and personal growth. Each of its three sections ends with a summary and a check-in. You can read more on the [A Beginner's Guide to NLP](/academy/neuro-linguistic-programming/beginners-guide-nlp/) page.
+
+It's a gentle first step if you're new to NLP and want to try the ideas on yourself before committing to anything longer. If you're aiming for practitioner-level training, that takes a longer course. Either way you can go at your own pace.
+
+**Related questions**
+
+- [Can you do NLP certification online, and is it respected?](/help/comparisons-and-alternatives/nlp-certification-online/)
+- [Can you get NLP certification free, and is it worth having?](/help/comparisons-and-alternatives/nlp-certification-free/)
+- [Where should I start with Achology?](/help/getting-started/where-should-i-start-with-achology/)
+- [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
 
 Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
 
@@ -605,6 +829,46 @@ Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) 
 
 ---
 
+## 20. What do you actually learn in applied psychology?
+What do you learn in applied psychology? You learn to take what psychology says about how people think, feel and act, and use it on a real situation, such as a tense conversation with your manager or a money decision you keep putting off. A common belief is that applied psychology means psychology used on other people, by a counsellor, a teacher or a manager. Achology.com teaches it on your own life first, so what you understand reaches your own tense conversation before it reaches anyone else's.
+
+In Achology's view, knowing the reasons behind people's actions and putting that knowledge to use in the moment are two separate skills. You can explain why you went quiet in a team meeting and still go quiet in the next one. A course that only adds topics to your notebook leaves that gap where it was, while one that sends each idea back through your own week starts to close it.
+
+## What do universities say you learn in applied psychology?
+
+[New York University](https://steinhardt.nyu.edu/degree/bs-applied-psychology) in the United States says its applied psychology degree develops your skills to link theory, research and practice. Its page lists areas such as developmental, social, community and counselling psychology. In Achology's view, a degree like this is the road for you if you want a full programme that includes research.
+
+The [University of Nottingham](https://www.nottingham.edu.my/Study/Undergraduate-courses/Applied-Psychology/Applied-Psychology.aspx) answers in the frequently asked questions on its applied psychology page for its campus in Malaysia. It says applied psychology uses theories, research and methods on real-world issues. Its examples are counselling, learning, leadership, staff reviews and health at work. Both pages name counselling as one of the areas it covers.
+
+## How is Achology's teaching of applied psychology different?
+
+In Achology's view, applied psychology works the other way round. Every school of psychology is a different window onto the same person, and the first person to look at is you. Achology teaches that the practitioner goes first, so you test each idea on yourself before you share it with anyone. Achology also teaches it as three things together: learned through practice, used on real situations, and turned on yourself first.
+
+## What does that look like in a real week?
+
+Say you went quiet in Monday's team meeting, and by lunch you've decided you're a shy person. Achology teaches that how you see the world shapes what you think, what you think shapes what you feel, and those feelings shape what you decide and do. Applied psychology means following that chain through your own meeting: what you told yourself just before you went quiet, how that felt, and what you'd like to do next time. Shy describes how you came across that day, and it isn't who you are.
+
+## Does learning applied psychology make you a psychologist?
+
+No. A certificate from Achology marks a finished course, and it isn't a professional licence. Local rules decide who may use the title psychologist, and they vary from one place to another, so look yours up before you pick a course if the title is your aim. Understanding your own mind and the people around you needs no title.
+
+## What does Achology's diploma teach about applied psychology?
+
+Achology teaches this inside the Diploma Course in Modern Applied Psychology (DiMAP): you take it online, at your own pace, across 175 lessons totalling at least 51 hours of study. The first part covers what applied psychology is for, how to think critically, how to study with reflection, and how the study of the mind began. After that, the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) works through the main schools of psychology one at a time, from behavioural to social, with questions for self-reflection along the way.
+
+If you'd like the wider picture before you decide, the guide [Applied Psychology Explained](/learn/psychology/articles/applied-psychology/) is a good place to start. The diploma is made for someone who wants to know their own mind, and the people around them, before putting any of it to work in a job. It isn't a degree, and its certificate isn't a licence.
+
+**Related questions**
+
+- [What does Achology mean by "applied psychology"?](/help/achology-basics-and-identity/what-is-applied-psychology-achology/)
+- [Does Achology follow one school of psychology or multiple traditions?](/help/achology-basics-and-identity/achology-multiple-psychology-traditions/)
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [Do Achology courses have prerequisites? Can complete beginners start?](/help/learning-experience/achology-course-prerequisites-requirements/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
 ## 21. What do you learn in behavioural psychology?
 What do you learn in behavioural psychology? You learn how behaviour is picked up, repeated and changed: what comes just before an action, what follows it, and why some actions stick while others fade away. A common belief is that behavioural psychology sees a person as little more than what they've been taught to do. Achology.com teaches it as one window onto the whole person, which makes a habit something you can look at and never a verdict on you.
 
@@ -646,6 +910,50 @@ The guide [Behavioural Psychology Explained](/learn/psychology/articles/behaviou
 - [How is Achology's approach different from university psychology programmes?](/help/comparisons-and-alternatives/achology-vs-university-psychology/)
 - [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
 - [How hard is psychology to learn, and who finds it easy?](/help/getting-started/is-psychology-hard-to-learn/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 22. What do you actually learn in developmental psychology?
+So what do you learn in developmental psychology? You learn how people grow and change across a whole life, from before birth into old age, in how they think, relate to others and feel. A common belief is that the subject is the study of childhood, a set of stages a child passes through on the way to being an adult. Achology.com teaches it as growth that goes on at every age, in a person who is still finding out who they are.
+
+Say you find a school photo in a drawer and barely recognise yourself at 14. That teenager held opinions you'd now argue against, and was certain who they were. Developmental psychology gives you words for how you got from there to here. It shows that the person in the photo and the person holding it are one person, still changing.
+
+## What do you learn in developmental psychology beyond childhood?
+
+The [University of Adelaide](https://adelaide.edu.au/study/courses/psyc-2018/) in Australia lists an undergraduate developmental psychology course on its course page. The page says students build knowledge of developmental theories across the prenatal, infancy and childhood, adolescence and adulthood periods, and in four areas: physical, cognitive, social and emotional. It also asks students to use the major theories to explain developmental issues that people face today.
+
+The [University of Florida](https://psych.ufl.edu/developmental-psychology/about) in the United States takes the same wide view on the page for its developmental psychology graduate programme. The page says human development is a lifelong, dynamic process, running from infancy through childhood and adolescence and on through adulthood and ageing. So the name sounds narrower than the subject is, because it covers every age and not only children.
+
+## Does anyone stop developing once they grow up?
+
+In Achology's view, every person can grow, and growing doesn't stop when adulthood begins. Achology teaches that how you come across today, whether chatty or quiet, easygoing or serious, is your personality, and that none of it is fixed. Identity is who you're being on the inside, which has nothing to do with your work or the labels others give you. A practitioner goes first, and that means looking at your own life before you hold any idea up to somebody else's.
+
+## Is your personality the same thing as your identity?
+
+Achology teaches the two apart. Say you were the shy one at 14, and you've carried that label ever since. Shy was how you came across at that age and in that company, and it doesn't have to be who you are now. Who you are is the person you're being underneath, and that part can rest on a quality that stays put whatever your age or job, such as honesty or loyalty.
+
+## What does it look like with your own life?
+
+Try it with the photo. Write down three things you believed at 14, and next to each, note whether you still believe it. Then ask what stayed the same underneath, because Achology teaches that virtues such as honesty and kindness are what an identity is best built on.
+
+## Can it lead to a job with children or families?
+
+No. At the end of an Achology course you hold a certificate that records the study you did, and it isn't a licence to work with children or families. If your plans depend on a degree or a licence, the university or body that awards it can tell you what you need.
+
+## Which Achology course teaches developmental psychology?
+
+You'll find developmental psychology taught in the Diploma Course in Modern Applied Psychology (DiMAP), an online course that totals at least 51 hours over 175 lessons. If you're curious how you became the person you are, and who you might still become, [the DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) gives you somewhere to begin. A degree is a different goal, and Achology, which isn't a university, offers none.
+
+Its developmental section begins with an introduction to the field. It then follows how thinking and a sense of right and wrong develop, and the stages of human development, before it moves on to personality. Later it covers why we react to some people because of who they remind us of, how change works, how we adjust to it, and a model of your core identity. [Developmental Psychology Explained](/learn/psychology/articles/developmental-psychology/) gives the whole field in one guide, if you'd like to read it first.
+
+**Related questions**
+
+- [Is there a child psychology course you can take online?](/help/curriculum-and-subjects/is-there-a-child-psychology-course-online/)
+- [Why does Achology emphasise character development so much?](/help/outcomes-and-expectations/achology-character-development/)
+- [Does Achology follow one school of psychology or multiple traditions?](/help/achology-basics-and-identity/achology-multiple-psychology-traditions/)
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
 
 Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
 
@@ -732,6 +1040,42 @@ The psychoanalytic school is one section of Achology's Diploma Course in Modern 
 - [What does Achology mean by "applied psychology"?](/help/achology-basics-and-identity/what-is-applied-psychology-achology/)
 - [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
 - [Can Achology replace traditional therapy training?](/help/comparisons-and-alternatives/achology-vs-therapy-training-counselling/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 25. Will AI replace hypnotherapists, or can it never do the job?
+Will artificial intelligence (AI) replace hypnotherapists? Achology.com's view is that nobody can say for certain, so a confident yes or no is a guess. Achology teaches that a hypnotherapist's help comes from the kind of person they are, and a script can't supply that.
+
+## Will AI replace hypnotherapists, according to the field's own society?
+
+The [American Society of Clinical Hypnosis](https://asch.net/about-asch/) describes itself as a community of licensed healthcare professionals. On 20 November 2024 its newsletter ran an article on AI by two doctors. They work in the field, so it's a view from inside it. It's one article, so it isn't a measurement, and read it as one expert opinion.
+
+The [society's newsletter article](https://asch.net/newsletter-article/artificial-intelligence-in-clinical-hypnosis-a-deeper-dive/) says: "AI is a powerful tool, but it's not a replacement for the empathy, intuition, and expertise of skilled hypnotherapists." The authors also name risks, including the chance of "potentially creating false memories" when suggestion is combined with AI-generated content. Near the end they say they "need more research to validate its effectiveness and safety."
+
+## Can AI do what a hypnotherapist does?
+
+A common belief is that hypnotherapy is a technique: a script, a calm voice and a few phrases, which anything that can speak could deliver. If that's all it is, replacing the person looks easy. Achology teaches that no magic technique changes another person, and that a helper's help comes from who they are. In Achology's view, a helper listens, asks and sees the world through the other person's eyes, and that's the part a script can't carry.
+
+Think of a time someone sat with you and noticed what you hadn't said out loud. Achology teaches that people don't take in what you say until they can tell you're on their side, which is why a helper reaches the heart before the head. Whether software could win that trust is an open question you can test yourself.
+
+## What does this mean if you want to become a hypnotherapist?
+
+Achology sees a practitioner's help as coming from the way they meet people: real in how they speak, understanding, accepting, and ready to challenge. That's a human skill, and you build it by practising it, starting with yourself. A place in a changing field can't be promised to anybody, so it makes sense to build skills that hold up either way. Say you volunteer to mediate between two colleagues who've stopped talking: listening to each side without taking one is that skill at work.
+
+## Which course builds the human side of the work?
+
+Achology has one hypnotherapy course, the Hypnotherapy Practitioner Course (Beginner to Advanced). It's taught online, runs to at least 27 hours across 118 lessons, and doesn't ask for any qualification first. Beside lessons on how people think and talk, it has recorded demos of the work, and lessons that ask how well you listen and think. You can see the whole outline at the [hypnotherapy course](/academy/person-centred-counselling/hypnotherapy-practitioner/).
+
+Choose it if you'd like to build the human side of the work, the listening and the asking, before you lean on any tool. Skip it if you need a licence for clinical work, because Achology's certificate is not a licence to practise.
+
+**Related questions**
+
+- [Should you become a hypnotherapist, and is it a real career?](/help/outcomes-and-expectations/should-you-become-a-hypnotherapist/)
+- [Can you train in NLP and hypnosis together, and should you?](/help/comparisons-and-alternatives/train-in-nlp-and-hypnosis-together/)
+- [Is Achology therapy, counselling, or coaching?](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/)
+- [How long does it take to become a hypnotherapist?](/help/comparisons-and-alternatives/how-long-to-become-a-hypnotherapist/)
 
 Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
 
@@ -831,6 +1175,100 @@ Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) 
 
 ---
 
+## 28. What do you actually learn in cognitive psychology?
+What do you learn in cognitive psychology? You learn how the mind notices things, remembers them, reasons and decides: the steps between something happening and what you make of it. A common belief is that cognitive psychology studies the mind as a machine, with information going in and decisions coming out. Achology.com teaches it as a way to check your own thinking, starting from one question: is what you told yourself true?
+
+That question matters because a first guess can pass for a fact. Say a message arrives that reads, we need to talk, and within seconds you've pictured the whole argument. In Achology's view, the picture came from you and not from the message, and learning the steps of thinking gives you a chance to notice that before you feel and act on it.
+
+## What do you learn in cognitive psychology at university?
+
+The [University of Georgia](https://bulletin.uga.edu/Course/Details/45060) in the United States lists a course called Cognitive Psychology in its bulletin. The description says it covers contemporary theories of human information processing, with attention, mental representations (ideas held in mind), short-term and long-term memory, psycholinguistics (how people understand and produce language), reasoning, problem solving, judgment and decision making. That's a map of what happens between noticing something and deciding what to do about it.
+
+[Bilkent University](https://catalog.bilkent.edu.tr/course/c92200.html) in Turkey lists a course of the same name in its catalogue. The entry describes an introduction to how the field emerged as a scientific discipline and why it matters. It then surveys key findings on sensation and perception (how your senses take things in), learning, memory, problem solving, thinking and reasoning, and language. Both courses take the mind's processes one at a time.
+
+## How is Achology's view of thinking different?
+
+In Achology's view, cognitive psychology is a window onto the same person that the other schools look at from elsewhere. Your outlook colours your thoughts, your thoughts colour your feelings, and your feelings steer the choices you make and the way you act. Achology teaches that this makes the school a way of checking your own thinking before you act on it, and not only a description of how minds work in general.
+
+## Why does what you believe matter in cognitive psychology?
+
+Achology teaches that what you believe about yourself shapes how you think, so the two are taught together. You can build who you are on what you believe right now, and beliefs change as people mature. Say you decided at 19 that you're bad at maths, and you're still telling yourself so at 40. The steps of thinking give you a way to ask where that belief came from and whether you'd still choose it.
+
+## How do you check a thought in practice?
+
+Take the message again. Write down what it said, then write down what you added: the argument, the tone, the ending. Ask what else it could mean, and notice how you'd feel about each reading. You're not arguing with a feeling, and you're seeing which part came from the message and which part came from you.
+
+## Could this lead to professional work in the field?
+
+No. Finishing an Achology course earns you a certificate, and a certificate isn't a licence to practise. Titles and professional work are handled differently in different places, so check where you live if a career is your aim. One use closer to home is noticing how your own thinking works day to day.
+
+## Which Achology course teaches cognitive psychology?
+
+Achology covers cognitive psychology through the Diploma Course in Modern Applied Psychology (DiMAP), studied online across 175 lessons that come to at least 51 hours. Its section on cognitive psychology introduces the school and covers what it is for. It then looks at how a simple observation hardens into a firm conclusion, how thinking errors creep in, how to question what you've concluded, how to listen to someone, and how to see a situation from another viewpoint. You can work through all of it at your own pace in the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/).
+
+The guide [Cognitive Psychology Explained](/learn/psychology/articles/cognitive-psychology/) gives the overview first, should you want it. The diploma is a fit for someone who'd rather study their own thinking before turning to anyone else's. If a degree or a licence is what you need, it isn't that road, because the diploma carries neither.
+
+**Related questions**
+
+- [Does Achology teach evidence-based models, humanistic models, or both?](/help/achology-basics-and-identity/achology-evidence-based-humanistic-psychology/)
+- [Does Achology follow one school of psychology or multiple traditions?](/help/achology-basics-and-identity/achology-multiple-psychology-traditions/)
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [Can you learn psychology on your own, at home?](/help/comparisons-and-alternatives/learn-psychology-on-your-own/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 29. Should you become a hypnotherapist, and is it a real career?
+Should you become a hypnotherapist? The United Kingdom's [National Careers Service](https://nationalcareers.service.gov.uk/job-profiles/hypnotherapist) lists hypnotherapist as a job, and says most hypnotherapists are self-employed, so the work can be closer to running a small business than to being hired. That page gives no figure for demand, and the United States' main jobs handbook doesn't list hypnotherapists, so there's no official figure to quote. That leaves two things to weigh: what you'd bring to the work, and what the rules and demand look like where you live.
+
+A common belief is that this is a career decision like any other: learn the technique, collect the certificate, and clients follow. Achology.com teaches that the work starts with the helper and not the technique, so one question comes before any job market. That question is what you'd be wanting from the person in front of you.
+
+## Is hypnotherapy a real job?
+
+It's a real job in the sense that a government careers service lists it. The same service says you could work in a therapy clinic, from home or at a health spa, and that you might work evenings and weekends as customers demand. It adds that you might have an advantage when applying for courses if you have a background in healthcare or counselling. Say someone keeps a day job and sees clients on two evenings a week: that's one way the evenings-and-weekends line could look in real life.
+
+## Are hypnotherapists in demand?
+
+The United States Bureau of Labor Statistics publishes the [Occupational Outlook Handbook](https://www.bls.gov/ooh/healthcare/home.htm), whose healthcare page names 49 occupations, and hypnotherapists aren't among them. Its page on occupations not covered in detail doesn't name them either. The careers page from the United Kingdom gives no figure for job growth or demand.
+
+Canada's [Job Bank](https://www.jobbank.gc.ca/marketreport/outlook-occupation/4365/geo29301) is a third place to look. For hypnotherapists in its Thompson-Okanagan region, it says "An employment outlook has not been assigned to this occupation in this region due to low levels of employment." Its rating there is "Undetermined", and the page's outlooks were last updated on 10 December 2025. That's one region, and it shows how thin the official figures are.
+
+Where you live, the quickest test is a local one. Say you tell three friends you're thinking of offering sessions and ask whether they'd book one. Their answers are a start where no official figure exists.
+
+## What does a hypnotherapist earn?
+
+Achology gives no earnings figure for hypnotherapists, and its answer on [how much Achology-trained coaches earn](/help/outcomes-and-expectations/how-much-do-achology-coaches-earn/) explains why it makes no income claims. Since the careers service says most hypnotherapists work for themselves, your income would come from the clients you find and the fees you set. In Achology's view, nobody can promise you either, so a plan built only on income rests on guesses, and one that also allows time to build a practice is sturdier.
+
+## Should you become a hypnotherapist, and what would you bring?
+
+In Achology's view, some people who want to help bring an agenda with them, such as being needed, being in charge or being looked up to. The agenda a helper brings decides how helpful they really are. Helping is never steering or correcting someone, since both are ways of controlling a person. So an early question is what you'd be wanting from the person in front of you.
+
+Say a friend tells you she can't stop checking her phone at night. If you notice yourself already planning what she should do about it, that's a clue to your own agenda. A helper asks instead, because you can only help someone who's already working to help themselves. Good helping works itself out of a job, since once a person is clear on where they're going, they don't need you any more.
+
+What makes a helper useful is the person they've become, not the list of methods they know. Technique has its place, yet nobody grows because someone else poured something into them, so a good way to find out whether you'd make a helper is to start with yourself. That's what a practitioner does first. Next time a friend brings you a problem, notice what you want out of the conversation: to be thanked, to be right, or to understand.
+
+## What should you check before you pay for training?
+
+Rules for charging fees as a hypnotherapist differ where you live, so find out what yours say before you commit. Washington state, in the United States, is one place with a law about it. Its [law on registering hypnotherapists](https://app.leg.wa.gov/RCW/default.aspx?cite=18.19.035) says nobody may take fees for hypnotherapy, or practise it in a state agency post, without state registration, unless an exemption applies. Your own place may differ, so ask the licensing or regulating body there.
+
+## Where would you begin at Achology?
+
+Achology's one hypnotherapy course is the Hypnotherapy Practitioner Course (Beginner to Advanced), taught online. It runs to 118 lessons and at least 27 hours of teaching, with no psychology background needed beforehand. The material moves from the history of the subject through hypnotic induction (how a person is led into a hypnotic state) and communication work to recorded demonstrations, with reflection questions for your own mind. If you'd like the full outline, the [hypnotherapy course](/academy/person-centred-counselling/hypnotherapy-practitioner/) shows every section.
+
+Choose it if you're curious about the work and want to learn it from the inside before you offer it to anyone. It isn't built for a quick income, since Achology makes no earnings promises, or for a licence to practise, since a certificate from Achology isn't one. If a particular register is your goal, ask that register what it asks of you first.
+
+**Related questions**
+
+- [Can I call myself a therapist after completing Achology courses?](/help/certificates-cpd-accreditation/call-myself-therapist-achology-courses/)
+- [Can Achology help me change career into coaching or mentoring?](/help/outcomes-and-expectations/achology-career-change-coaching-mentoring/)
+- [How long does it take to become a hypnotherapist?](/help/comparisons-and-alternatives/how-long-to-become-a-hypnotherapist/)
+- [Do I need supervision to practise after Achology training?](/help/outcomes-and-expectations/supervision-after-achology-training/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
 ## 30. Where can you study social psychology online?
 Where can you study social psychology online? You've got a free Open University course, a short university course or a full online degree, or you can follow the social psychology lessons with Achology.com. One common belief is that social psychology shows the group decides who you are. Achology teaches that the pull of a group is real, and that who you become is still yours to decide.
 
@@ -866,6 +1304,56 @@ Achology also teaches that learning how groups work should make you useful insid
 - [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
 - [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
 - [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 31. How much does a psychology course cost, and what affects it?
+So how much does a psychology course cost? There isn't one answer, because the price depends on what you're buying. Some courses are free to study and charge only for a certificate, some charge an assessment fee, and a degree charges tuition that can change with where you live. Prices change often, so the figures belong on each provider's own page, and Achology.com's are on its pricing page.
+
+## What does a psychology course cost when it's free?
+
+On Coursera, Yale University offers Introduction to Psychology with Paul Bloom as the instructor. Its [course page](https://www.coursera.org/learn/introduction-psychology) has a Join for Free button, and it says you'll need to purchase the Certificate experience to earn a certificate. The page also mentions financial aid for select programmes, so it's worth checking what the free option includes before you start.
+
+[Alison's help centre](https://helpcenter.alison.com/en/articles/8206668-why-do-i-have-to-pay-for-the-certificate-if-it-was-a-free-course) says the platform earns its revenue through advertising and optional paid certificates. It adds that learners are under no obligation to take the digital or printed version. So a free course and a free certificate aren't always the same thing, and it helps to read how a provider pays its way before you sign up.
+
+## Why does the price of a psychology degree change?
+
+At a university, the price can change with where you live. [Athabasca University's fee estimates](https://www.athabascau.ca/calendar/2025/undergraduate/fees-refunds-and-financial-assistance/estimated-program-fees.html) cover nine groups of student, from permanent residents of Alberta to students living outside Canada. The page says the costs are estimates, and that the university can and may increase tuition fees annually. That's worth knowing if you're planning a budget over several years.
+
+[James Cook University's fees page](https://online.jcu.edu.au/fees) says the fees it shows are 2025 domestic student fees and are subject to change. It adds that the total may vary with your entry point or with recognition of prior learning, which is credit for earlier study or experience. So check the page for the year you'd start, and ask which fees apply to you.
+
+## What can the small print add?
+
+In India, the [Indira Gandhi National Open University](https://www.ignou.ac.in/schools/programme/BAFPC) says on its Bachelor of Arts (Psychology) page that exam fees aren't included in the fee structure and will be decided by the university. A line like that can add to what you finally pay. It's worth reading to the bottom of any fees page before you compare one course with another.
+
+[University of the People](https://www.uopeople.edu/tuition-free/processing-fees/) says on its fees page that there's no cost for instruction, books or traditional campus costs. It also asks every applicant for a one-time, non-refundable application fee, and charges an assessment fee for each course, which it describes as minimal. Free to study and free of charges aren't quite the same thing.
+
+## Does a higher price mean a better course?
+
+A common belief is that the price tells you the quality: a dearer course must be a better one, and the certificate is what you're paying for. Achology sees the certificate as only part of the point, and what a course is worth to you turns on how you use it, whatever it cost. Achology teaches that a practitioner goes first, so the learning counts once you've tried it on your own life. That part of learning can't be bought, because only you can do it.
+
+Say you're choosing between two courses and can't tell them apart on price. Ask what you'd be doing with each one by the end of next month. One might leave you with a certificate in a drawer, and the other with an idea you've tried at the dinner table every week. The second has given you something the price can't show.
+
+## How can you compare two courses fairly?
+
+Start with what the price includes. Ask whether it covers the teaching, the assessment, the certificate and any exam, and whether the provider can raise it later. Then ask how many hours of teaching you're getting, because a short course and a long one aren't the same offer at the same price.
+
+Next, ask what the certificate shows and who stands behind it, and read the small print for fees that come later. Last, count your own time, since every course takes hours of yours as well as the provider's. Put the answers side by side and see which course fits your aim.
+
+## Where can you find Achology's own prices?
+
+Achology's prices are on its [pricing page](/pricing/), and each course's own page shows the price of that course. A page you can see today is more reliable than a number written here, because prices change. A free course is a fair first step, since trying one idea from it on your own week costs little and shows you what you notice.
+
+The Diploma Course in Modern Applied Psychology (DiMAP) has 175 lessons, and its teaching runs to at least 51 hours that you study online whenever it suits you. Its lessons look at why people think, feel and act as they do, and its price sits on the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) page. It's a good match if you're curious about yourself and other people. It isn't a match if a regulated job asks you for a degree or licence, because it's education and gives you neither.
+
+**Related questions**
+
+- [How much does Achology cost?](/help/pricing-and-payments/how-much-does-achology-cost/)
+- [Are there hidden fees or additional costs at Achology?](/help/pricing-and-payments/hidden-fees-additional-costs-achology/)
+- [Does Achology offer a free trial or introductory rate?](/help/pricing-and-payments/achology-free-trial-introductory-offer/)
+- [Can I pay for Achology courses in instalments?](/help/pricing-and-payments/pay-instalments-achology-courses/)
 
 Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
 
@@ -954,6 +1442,183 @@ Achology's Diploma Course in Modern Applied Psychology (DiMAP) comes with exerci
 - [Does Achology offer a free trial or introductory rate?](/help/pricing-and-payments/achology-free-trial-introductory-offer/)
 - [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
 - [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 34. What are the best psychology books for beginners?
+If you're looking for psychology books for beginners, start with a free textbook if you want a map of the whole field, and pick a classic once one topic has caught your interest. These books are different kinds of reading, so none of them is the one right place to begin. Achology.com's view is that a book is one writer's view, there for you to try on your own life.
+
+## Which psychology books for beginners are free?
+
+[Psychology 2e](https://openstax.org/books/psychology-2e/pages/1-introduction) is a textbook by William Jenkins, Marilyn Lovett and Rose Spielman, published in 2020 by OpenStax, whose page gives free access to it. Chapter 1 begins by asking what psychology is, then moves to how the field began, where it stands now and what careers it offers. A textbook gives you a map of the whole field, which is a different thing from a book that follows one idea. Try that first chapter before you spend anything.
+
+## Which classic books come next?
+
+For how people make choices, there's Daniel Kahneman's Thinking, Fast and Slow, in a paperback edition from Penguin dated 2024. [Penguin's page](https://www.penguin.co.uk/books/56180/thinking-fast-and-slow-by-kahneman-daniel/9780141033570) says the book is about the two ways we make choices, fast intuitive thinking and slow rational thinking. It also says the book gives you practical techniques for slower, smarter thinking. The edition runs to 624 pages, so you might sample a chapter first.
+
+For how people behave around other people, there's The Social Animal by Elliot Aronson and Joshua Aronson, published by Macmillan Learning. [Macmillan Learning's page](https://www.macmillanlearning.com/college/us/product/The-Social-Animal/p/1464144184) lists the twelfth edition, copyright 2018, and calls it a classic text used in social psychology classes for almost 50 years. It names topics such as conformity, obedience, advertising and interpersonal attraction. It's a college text, so you could read one chapter and see how the writing feels to you.
+
+For human development, there's Erik Erikson's Childhood and Society, first published in 1950. [Open Library's catalogue page](https://openlibrary.org/works/OL1194364W) lists Norton among its publishers and says Erikson's ideas underlie much of our understanding of human development. Take it slowly, one chapter at a time, and notice which ideas you recognise in your own life.
+
+For a book about finding meaning, there's Viktor Frankl's Man's Search for Meaning, which Rider published in a hardback gift edition in 2011. [Rider's page](https://www.penguin.co.uk/books/412919/mans-search-for-meaning-by-viktor-e-frankl/9781846042843) describes it as the moving true story of psychiatrist and Holocaust survivor Viktor Frankl's time as a prisoner in Auschwitz.
+
+## How can you choose your first one?
+
+Say you're in a bookshop with two of these in your hands. Read the first page of each, and the one you'd happily read on the bus is a reasonable place to begin. You don't have to finish a book to learn from it, and you can put one down and pick up another.
+
+A common belief is that a psychology book will tell you what type of person you are. Achology suggests reading each book as one writer's view and trying it on your own life instead. After a chapter, ask what you've noticed in your own week that matches it, and what doesn't. Be wary of any book or quiz that hands you a word like introvert or worrier to live inside, because a word like that says where you're standing today, not where you have to stay.
+
+## What if a book feels too hard?
+
+If one feels demanding, that's no reason to give up on the whole shelf. A chapter can feel slow on a tired evening and easier the next morning. Put a bookmark in it and come back later, or jot down one question per chapter, such as why people follow a crowd. Then read on to see whether the writer answers it.
+
+## Where can you go after these books with Achology?
+
+The Diploma Course in Modern Applied Psychology (DiMAP) offers 175 lessons online, and together they run to 51 hours or more. It moves through the main schools of psychological thought, with teaching on cognitive biases, the stages of human development and social conformity. In the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), reflective exercises stand in for graded homework, and they're meant to bring what you learn into your own days.
+
+Choose it when you'd like these ideas gathered in one place and tested on your own life, not only read about. Choose another road when a degree or a licence is the goal, because Achology doesn't award degrees and the diploma carries no licence. The books above will still be on your shelf whenever you return to them.
+
+**Related questions**
+
+- [Self-study books vs Achology: which develops competence?](/help/comparisons-and-alternatives/self-study-books-vs-achology-courses/)
+- [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
+- [Which course should I take first as a complete beginner?](/help/getting-started/first-course-complete-beginner/)
+- [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 35. Is an online psychology diploma worth it, and what is it?
+Is an online psychology diploma worth it? In Achology.com's view, it's worth what you do with it, and that depends on what you want it for. A diploma doesn't make you a licensed psychologist, and what it opens up differs from place to place. Achology's own diploma is education with a certificate of completion, and the learning is yours to use.
+
+## What is an online psychology diploma?
+
+The University of Tasmania offers a [Diploma of University Studies (Psychology)](https://www.open.edu.au/degrees/diploma-of-university-studies-psychology-university-of-tasmania-tas-usp-dip) through Open Universities Australia. The page says it's 100% online and takes one year full time across eight subjects. It says that mixing preparatory subjects, which ready you for university study, with foundational psychology ones gives a pathway to a Bachelor of Psychology.
+
+[Alison's Diploma in Psychology](https://alison.com/course/diploma-in-psychology-revised-2017) is a different kind of thing. The page gives an average of six to 10 hours, and a button on it lets you claim a diploma. Achology also calls one of its courses a diploma, so the course page tells you more than the word does.
+
+## Is a diploma worth it if you want to work as a psychologist?
+
+That depends on the work and the place. The rules behind a title such as psychologist differ from place to place, so the rules where you live are the ones that count. In British Columbia, Canada, the College of Health and Care Professionals of BC (CHCPBC) says on its [psychology page](https://chcpbc.org/?p=665) that the title psychologist can only be used by professionals it licenses, unless regulation exempts them. So before you pay for a diploma, ask the regulator where you live what it asks for.
+
+In the United Kingdom, the Health and Care Professions Council (HCPC) says in a [2023 blog post](https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/) that the job title psychologist is not, by itself, protected by law. In Achology's view, if a licence or a protected title is your aim, a university route is the one to check first. A degree is the main route into regulated careers such as clinical psychology, and Achology is not a university, so none of its courses carry a degree.
+
+## Is a diploma worth it if you want to understand people?
+
+A common belief is that a diploma is worth the title it carries or the job it might open, but if you want to understand people, the worth is in what you do with the learning. In Achology's teaching, skill comes before any certificate, and it grows from a practitioner going first, trying each idea out personally before offering it to others. A diploma isn't who you are, either: your identity is the inner self you live out each day, never a title or a certificate on a wall.
+
+Say two friends finish the same course. One still snaps at her sister in the same old way, so the certificate is real but the learning hasn't landed yet. The other notices, for the first time, what she says to herself before a hard conversation, and she'd tell you it was worth it.
+
+## What does Achology's diploma give you?
+
+The Diploma Course in Modern Applied Psychology (DiMAP) is an online course made up of 175 lessons, with teaching that totals at least 51 hours. It takes the main schools of psychological thought one section at a time, and its [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) page lists each section. It uses reflective exercises and practice activities rather than graded homework, and you don't send anything in to be marked.
+
+At the end, your certificate of completion shows you finished the course. It isn't a licence or a degree, and the diploma is education, so what it's worth is up to you. With nothing to hand in, the only check on whether it landed is what you notice in your own days.
+
+## Who is Achology's psychology diploma for?
+
+It's a good match if you're keen to understand your own mind and see how psychology has explained people over time. It isn't the right choice if a regulated job such as clinical practice is what you want. A university is the road for that, so ask one what it requires.
+
+**Related questions**
+
+- [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [Is Achology a university or degree provider?](/help/achology-basics-and-identity/is-achology-a-university/)
+- [Will employers recognise my Achology certificate?](/help/outcomes-and-expectations/will-employers-recognise-achology-certificate/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 36. How hard is psychology to learn, and who finds it easy?
+Is psychology hard to learn? It depends on what you ask of it, because a degree and learning for your own interest are different jobs. Universities name three hard parts, which are statistics, research methods and the weekly workload, and some say it comes easily when you enjoy that kind of work. Achology.com's view is that how hard it feels tells you where you stand today, not what you're able to learn.
+
+## Is psychology hard to learn at university?
+
+[Federation University Australia](https://online.federation.edu.au/?p=2865) says whether you find the subject hard depends on a number of factors. Its page warns that degrees can have heavy course loads, and it puts the average at 12 to 15 hours of study a week for each unit, which is one subject in a degree. A large majority of assessments are essays, literature reviews or research reports. A literature review sums up what other studies say on a topic.
+
+A 2008 [study of first-year students](https://research.edgehill.ac.uk/en/publications/learning-from-experience-the-expectations-and-experiences-of-firs-4/) at an English university sits on Edge Hill University's research site. It found specific difficulties with research methods, statistics and the scientific nature of the course. Students who'd taken psychology at A-level had them, and so did students who hadn't, so the hard parts showed up whatever people had learned before. An A-level is a subject qualification that's usually assessed by exams.
+
+## Who finds psychology easy?
+
+In Australia, a [University of Queensland](https://study.uq.edu.au/stories/studying-psychology-faqs-answered) graduate says psychology is a lot more science-focused than many people realise, with a lot of statistics too. If you're comfortable with that, the graduate says, it isn't too challenging.
+
+In the United States, [Monmouth University's psychology department](https://www.monmouth.edu/department-of-psychology/academic-mentoring/common-misconceptions/) in New Jersey says research and statistics are a very large part of psychology. It adds that one major isn't necessarily easier than any other. It says the subject will be a breeze if you like learning how people think and also like designing research studies, analysing data with statistics, reading journal articles and writing up reports. Say you love working out why a colleague went quiet in a meeting but dread a spreadsheet: by the department's account, you'd need to enjoy the statistics as well as the people.
+
+## What would make it feel easier?
+
+Federation says the degree will suit you if you're interested in developing analytic or scientific thinking, along with your academic writing. It suggests a study space that's comfortable and free from distractions, plus a calendar for deadlines, so you can stay focused. Its online Bachelor of Psychological Science has no maths prerequisites, though some units focus on statistics, which is good to know if numbers worry you. If you're wondering what studying it is like, it says getting used to academic writing can help.
+
+A cheap test is to read one chapter of a beginner's book before you commit to anything. Say you do it on the bus to work. If you want to read on, your curiosity is doing the heavy lifting, and if the sections on numbers lose you, you've learned what to expect and where to slow down. Either way, you've found something out in an hour.
+
+## What does Achology say about how hard it feels?
+
+A common belief is that psychology is an easy major, which Monmouth's department lists as a misconception on its own page. In Achology's view, how hard it feels says where you're standing today, not what you're able to learn. Say you left school sure you weren't the academic type, and you've told yourself so ever since. Achology teaches that a fixed label like that is a box with no door, because it leaves you no room to grow.
+
+Every person can grow, but the growing is yours to do, and nobody can do it for you. Learning to understand your own mind asks something different from a degree. You notice your own thoughts, try an idea in your own week and see what changes, and that can feel hard in its own way. So Achology promises no ease, and it promises no result either, because the steps are yours alone to take.
+
+## Where could you start learning psychology with Achology?
+
+The Diploma Course in Modern Applied Psychology (DiMAP) is delivered online and holds 175 lessons, which together make 51 hours or more. The sections begin with the foundations and then move through the schools of psychological thought in turn, so you meet different ways of looking at people. You don't need any background in psychology, since no Achology course has prerequisites. Reflective exercises replace graded homework in the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), and no work is handed in for marking.
+
+Choose it when you want to try these ideas on your own life before deciding how far to take psychology. Look elsewhere if you want a degree, since Achology isn't a university, or a licence, since the diploma is education only.
+
+**Related questions**
+
+- [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
+- [Is there homework or assessment in Achology courses?](/help/getting-started/homework-assessment-achology-courses/)
+- [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
+- [How long do Achology courses take to complete?](/help/learning-experience/how-long-achology-courses-take-timelines/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 37. You want to learn psychology: where should you start?
+If you want to learn psychology and aren't sure where to start, you can begin tonight for free, with a textbook or a short course, and you don't have to pick a school of thought first. The main schools are different ways of looking at people. Achology.com's view is that any of them is a fair way in, because each gives you something to try on your own mind, so start where your curiosity already points.
+
+## Where can you start when you want to learn psychology?
+
+A good first stop is [Psychology 2e](https://openstax.org/books/psychology-2e/pages/1-introduction), a textbook from OpenStax, published in 2020 and free to access from its page. Chapter 1 opens with a section titled What Is Psychology? and goes on to the history of the field, the field today and careers. You could read a section each evening and stop whenever you like.
+
+For a short course instead, the Open University's [Starting with psychology](https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-0?intro=1) sits on its OpenLearn site at introductory level. The page says it takes about five hours and ends with a free statement of participation. It poses the question "What makes us who we are?" and describes the course as a sample of level 1 study in Psychology and Counselling.
+
+On Coursera, Yale University's [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) lists Paul Bloom as its instructor. It shows a Join for Free button and says no prior experience is required. The page also says the full set of materials, graded assignments included, comes with a purchased Certificate, which is worth knowing before you enrol, so you can see which parts you'd have.
+
+## Which school of psychology should you begin with?
+
+A common belief is that the first job is to choose well: the right school, the right book, maybe the right degree, as if a wrong first step would waste the effort. In Achology's view, a fair way in is any school that makes you curious, because a person grows by learning to know their own mind. In Achology's teaching, a practitioner goes first, turning the lessons on their own life before anyone else's. Here's what each of the main schools looks at, as Achology's teaching describes them:
+
+- **The behavioural school:** stimuli and responses, and how we learn to act, react and adapt through life.
+- **The psychoanalytic school:** the role of the unconscious in shaping thoughts, emotions and behaviour.
+- **The developmental school:** how people grow and change through their whole lives.
+- **The cognitive school:** mental processes such as attention, language, memory, perception, problem-solving, creativity and reasoning.
+- **The humanistic school:** individual potential and personal growth, and the idea that every person has the capacity to grow.
+- **The social-psychological school:** how people interact with one another, and how society influences their thoughts, behaviours and attitudes.
+
+Say a friend dreads speaking up in meetings. The behavioural lens asks what she has learned to link with meetings, and the cognitive lens asks what she tells herself beforehand. The social lens asks how the people in the room shape what she dares to say. Try two of them on a habit of your own and notice which one makes you curious.
+
+Whichever you pick, be careful of the word "I'm". Say you read about the humanistic school and think you're just the shy one. Achology teaches that shy is a place you're standing on a line, with outgoing at the other end, so it describes where you are today and not who you are. A small first move, like asking a question in your next meeting, is a good way to begin.
+
+## Do you need a degree before you start?
+
+No, you don't. Psychology 2e and the Yale course are both open to you without a degree, since OpenStax's page says the textbook is free and the Coursera page says no prior experience is required. Achology's Help answer on [replacing a university degree](/help/outcomes-and-expectations/can-achology-replace-university-degrees/) says more about where a degree fits. A degree is one road into the subject, and learning at home is another.
+
+## Where could you take learning psychology further with Achology?
+
+When you'd like a longer road, the Diploma Course in Modern Applied Psychology (DiMAP) is online, you set the pace, and across its 175 lessons you get 51 hours or more of teaching. After a foundations section it gives each of the schools above a section of its own, so you meet them one at a time and try each on yourself. Achology teaches it as the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), and it's education, not a licence.
+
+Take this road if you want to learn about people by beginning with yourself, and no prerequisites stand in your way. Pick another road when a licence to practise is what you want, because this diploma gives you none. The free routes above can run alongside it for as long as you like.
+
+**Related questions**
+
+- [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
+- [Does Achology follow one school of psychology or multiple traditions?](/help/achology-basics-and-identity/achology-multiple-psychology-traditions/)
+- [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
+- [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
 
 Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
 
@@ -1055,6 +1720,102 @@ Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) 
 
 ---
 
+## 40. Are psychology certificates worth it, and what do they show?
+Are psychology certificates worth it? They can be, if you know what you want one to do. A certificate shows what the provider says it shows, usually that you finished a course, and it doesn't give you a licence or a job title. Whether it's worth the price depends on your reason, and it helps to settle that before you pay.
+
+## What does a psychology certificate show?
+
+[OpenLearn's getting started page](https://www.open.edu/openlearn/get-started/frequently-asked-questions/how-start-course) says that on every course you can earn a statement of participation, while some also bring a free digital badge. It adds that you can share either one with others, although neither carries any formal credit towards a qualification. So the paper there records that you took part, and the page says outright what it can't be used for.
+
+On [Alison's help centre](https://helpcenter.alison.com/en/articles/8206668-why-do-i-have-to-pay-for-the-certificate-if-it-was-a-free-course), the platform says you can download your Learner Record as proof of your achievement once you've completed a course. It also gives you the option to buy a digital or printed certificate, and says you're under no obligation to do so. So proof of finishing and a certificate you pay for are two separate things there.
+
+The platform edX says its [verified certificate](https://www.edx.org/verified-certificate) confirms that you successfully completed an online course. Its page adds that certifications license a person to practise a profession in a given state or jurisdiction, while certificates are proof that you finished a course or programme. So the word certificate means different things, and it pays to read what yours says before you pay.
+
+## Are psychology certificates worth it if you want a job title?
+
+Where you live decides, as the rules on who may use a title like psychologist differ from place to place. In the United States, the [American Psychological Association](https://accreditation.apa.org/choosing-a-program) says each state sets its own rules on what education a psychologist needs to be licensed. Its advice is to ask the licensing body of the state where you plan to work.
+
+In Australia, the [Psychology Board of Australia](https://www.psychologyboard.gov.au/Registration.aspx) says on its registration page that psychologists must be registered with the Board, and meet its registration standards, in order to practise in Australia. A course certificate isn't registration, which is the status the Board lets anyone check for a practitioner. If you plan to use a title, ask the body that keeps the register where you live before you pay for anything.
+
+## Does a certificate make you who you say you are?
+
+A common belief is that a title or certificate proves who you are: I'm certified, so I'm qualified. Achology.com teaches something different, which is that your identity isn't what you do or what you've been called, it's the person you're being on the inside, day after day. A title can change, and a certificate records something you did once, so neither makes a steady place to build your sense of self.
+
+Say two people finish the same short course. One frames the certificate and stops there, while the other tries one idea each week, like asking a friend a better question when she goes quiet. A certificate alone was never the aim, and a practitioner goes first, which means they try an idea on their own life before sharing it. A certificate can record that you studied, and nobody can do the growing on your behalf.
+
+## What should you ask before you pay for a certificate?
+
+Start with your reason. If you want a tidy record of your effort, a certificate does that job well. If you hope it'll open a door at work, ask the person who'll read it what they value, because only they can say. Then read what the certificate says on its face, and who issues it.
+
+Read what you'd receive before you pay, and notice whether the provider says clearly what the certificate doesn't give you. A page that's vague on this is worth a question to the provider before you buy.
+
+## What does an Achology certificate show?
+
+Achology's certificate of completion tells people you finished a course. It isn't a licence, and Achology isn't a university and awards no degrees. Achology holds that a title like therapist or psychologist tells the public a person has clinical training, supervised practice and a listing on a register, and Achology's courses give you none of those. So the certificate records what you studied, and it isn't something to use to claim a title.
+
+## Which Achology psychology course comes with a certificate?
+
+The Diploma Course in Modern Applied Psychology (DiMAP) is online and self-paced, with 175 lessons that come to 51 hours or more. Choose the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) if you want to study applied psychology for your own understanding. Look elsewhere if you need a title or a licence, because finishing the diploma brings neither.
+
+**Related questions**
+
+- [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
+- [Are Achology certificates recognised internationally?](/help/certificates-cpd-accreditation/achology-certificates-recognised-internationally/)
+- [Can I call myself a therapist after completing Achology courses?](/help/certificates-cpd-accreditation/call-myself-therapist-achology-courses/)
+- [Will employers recognise my Achology certificate?](/help/outcomes-and-expectations/will-employers-recognise-achology-certificate/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 41. What do you actually learn in social psychology?
+So what do you learn in social psychology? You learn how other people shape what you think, feel and do, through the groups you belong to and the people around you. A common belief is that this field studies what crowds and situations do to people. Achology.com puts the subject to work on a single question: where did your own views come from, and did you choose them?
+
+Say you hear yourself state a firm opinion at dinner, almost word for word as someone you grew up around once said it. You never sat down and decided to believe it, and it feels just like your own. The subject gives you words to trace a view like that back to where it started.
+
+## What do you learn in social psychology about the people around you?
+
+RMIT University in Australia lists an introductory course called [Psychology of Social Life](https://www.rmit.edu.au/study-with-us/levels-of-study/course-guides/010/010823). Its course page describes social psychology as the scientific study of how people's thoughts, feelings and behaviours are influenced by the real or implied presence of others. The topics run from the self to relationships with other people and group processes, and students apply the theory to their own experience.
+
+The [University of Saskatchewan](https://catalogue.usask.ca/PSY-226) in Canada describes its social psychology course as an introduction to how people think, feel and behave in their social settings. Its catalogue entry lists stereotyping, prejudice, discrimination, aggression, group behaviour and attraction between people among the topics, reviewed through both older and current theory and core research methods. Both courses treat the subject as the study of people in company.
+
+## How is Achology's view of social influence different?
+
+In Achology's view, a belief you took from the people around you is worth looking at, because beliefs change as people mature. We tend to build who we are on what we believe right now, which is why the views of the company we keep can end up feeling like our own. A practitioner goes first, so you ask where your own views came from before you ask the same of anyone else.
+
+## Does the company you keep change who you are?
+
+It changes how you come across, and Achology teaches that this is normal. Say you're chatty at a family barbecue and quiet in a meeting. That's your personality shifting with the setting, and it's never fixed. Identity is something else: the person you're being underneath, who can stay the same from one room to the next.
+
+## Are your views really your own?
+
+Say you joined a new group of friends in your late teens and took on their opinions without noticing. In Achology's view, it helps to take your time over who you decide to be, rather than letting this month's crowd decide it. The useful question isn't whether a view is wrong, but whether you chose it.
+
+## What does it look like when you try it?
+
+Pick one opinion you hold strongly and give it 10 minutes with a pen. Ask where you first heard it, who said it, and what agreeing gave you, such as belonging or approval. Then ask whether you'd still choose it today, knowing that. You may keep it or change it, and either way it's yours.
+
+## Would it open a career working with groups or communities?
+
+Not on its own. The ideas still help in ordinary life, in your family, your friendships and your own team.
+
+## Which Achology course covers social psychology?
+
+Social psychology sits in the Diploma Course in Modern Applied Psychology (DiMAP), a diploma you study online, across 175 lessons that take at least 51 hours to finish. If you'd like to understand other people by first looking at how they've influenced you, [the DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) is a sensible place to start. A degree or a professional licence is outside what the diploma offers, so ask a university about a degree, and ask the licensing body in your area about a licence.
+
+Its social section begins with the main questions the field asks, then looks at close relationships, where stereotypes and bias come from, and how culture sits beneath what we see. Later it covers research on going along with a group and obeying authority, how we judge other people, why some messages persuade, and how one person fits inside a larger society. [Social Psychology Explained](/learn/psychology/articles/social-psychology/) gives the field in one guide, and it's a fair place to begin reading.
+
+**Related questions**
+
+- [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [Does Achology follow one school of psychology or multiple traditions?](/help/achology-basics-and-identity/achology-multiple-psychology-traditions/)
+- [What is Achology's peer-learning culture like?](/help/community-and-conduct/achology-peer-learning-culture/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
 ## 42. What is the best online psychology course for you?
 What is the best online psychology course for you? There isn't one that's best for everybody, because the right pick depends on your purpose. A free taster, a course with university credit and a longer course each suit a different aim, and what you want from it, the time you have and what the certificate says will decide between them.
 
@@ -1143,6 +1904,110 @@ Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) 
 
 ---
 
+## 44. Are free psychology certificates worth anything at all?
+Are free psychology certificates worth anything? In Achology.com's view, yes: a free psychology certificate is worth something, just not everything. It records that you took part in or finished a course, and it doesn't show you're qualified for a job. Free doesn't mean worthless, and it doesn't mean qualified either.
+
+A common belief is that a free certificate is worth nothing. Achology teaches that the growing is done by the person growing, so what the learning changes in your life is down to you, and a certificate marks only that you finished. The worth of a free course sits in that learning, not in the paper.
+
+## What does a free psychology certificate show?
+
+[OpenLearn's questions page](https://www.open.edu/openlearn/get-started/frequently-asked-questions/how-start-course) says nearly 1,000 courses on OpenLearn are currently free to study. Any course gives you the chance to earn a statement of participation, and some courses award a free digital badge too. The page says neither counts as formal credit toward a qualification, so you know what you're getting before you start.
+
+## Is a free certificate really free?
+
+Sometimes the course is free and the certificate isn't. [Alison's help centre](https://helpcenter.alison.com/en/articles/8206668-why-do-i-have-to-pay-for-the-certificate-if-it-was-a-free-course) says learners may purchase a digital or printed certificate but needn't. It also says its income comes from advertising and optional paid certificates. Once you finish, your Learner Record is there to download as evidence of what you achieved.
+
+The Coursera page for Yale University's [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) names Paul Bloom as the instructor and marks the course as beginner level, with no prior experience required. It says that to access course materials and assignments, and to earn a Certificate, you need to purchase the Certificate experience. It also says financial aid is available. Read those lines before you enrol, so the purchase doesn't come as a surprise.
+
+The platform called Study Webs of Active-learning for Young Aspiring Minds (SWAYAM) is an initiative of the Ministry of Education of India. [SWAYAM's questions page](https://swayam.gov.in/faq) says the courses are free of cost to learners, but that students who need a certificate write a proctored exam, which is an exam taken under supervision, and the exam has a nominal fee. It adds that no certificate is issued for completing self-paced courses.
+
+## What's worth checking before you start?
+
+Before you sign up, read the course page slowly for two things. Check who gives the certificate, and check what it asks of you, whether that's a payment, an exam or nothing at all. That takes a few minutes.
+
+Then ask yourself what the certificate is for. If it's a keepsake for your own learning, a statement of participation may be all you need. If it's for an application, find out from the person reading it what they'd like to see. What they say will be worth more than any guess of yours.
+
+## Will a free certificate open a door at work?
+
+That depends on the job and the place, because the rules vary by location. The [American Psychological Association](https://accreditation.apa.org/choosing-a-program) says that, in the United States, laws on the schooling a psychologist needs for a licence are made state by state. A learner there is told to contact the state's licensing body before choosing a course.
+
+So for a title such as psychologist, check the rules where you live, since they vary from place to place. In Achology's view, a degree is still the usual way into regulated jobs, clinical psychology among them, and a free psychology certificate from any provider shows something different from a licence. That's fine, as long as you know which one you're after.
+
+## What could a certificate be worth in your own week?
+
+Suppose you finish a free course on a quiet Sunday. The certificate is nice to have, but the real test comes on Monday. You try one idea from the course in a conversation at home, and you notice what happens. One idea and one small experiment are plenty, and you don't need a paper to begin.
+
+## Where could a free psychology course lead with Achology?
+
+Achology's message is to start with yourself, whichever course you choose. Try one idea on your own life this week, perhaps in a talk with someone at home or at work. That costs next to nothing, and you'll learn from it. You can read the [Knowledge Hub](/help/achology-basics-and-identity/achology-knowledge-hub-free-read/) without an account or a payment.
+
+The Diploma Course in Modern Applied Psychology (DiMAP) comes as a self-paced online course of 175 lessons, and its teaching time comes to at least 51 hours. Its sections take in six schools of psychology, starting with the behavioural school. The [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) fits you if you want to see how people think and act, yourself included. Pass on it if a degree or licence is what you need, because the diploma carries neither.
+
+**Related questions**
+
+- [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
+- [Can I legally call myself "certified" with Achology credentials?](/help/outcomes-and-expectations/call-myself-certified-achology-credentials/)
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [Why pay for Achology when free psychology content exists on YouTube?](/help/comparisons-and-alternatives/why-pay-achology-when-free-content-exists/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 45. How long does a psychology course take to complete?
+How long does a psychology course take? It depends on the kind: a free taster takes hours, an online degree takes years, and the road to a professional title takes longer still. What matters most to you is the time you can give each week, because that's what decides how long any of them takes you.
+
+## How long does a short psychology course take?
+
+The Open University's free course [Starting with psychology](https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-0?intro=1) is listed as introductory and five hours of study. Finishers can get a free statement of participation, according to its page. That's short enough to fit around a working week, which makes it an easy way to see whether the subject holds your interest.
+
+[Alison's Diploma in Psychology](https://alison.com/course/diploma-in-psychology-revised-2017) is listed at six to 10 hours, with video, and the page presents it as a free course. It also has a button to claim a diploma. Look at what that diploma shows before you decide you want one, and weigh the hours first, since the hours are what you'll spend.
+
+Yale University's Introduction to Psychology comes from Paul Bloom and is offered on Coursera. Its [Coursera page](https://www.coursera.org/learn/introduction-psychology) lists a beginner course of two weeks at 10 hours a week, learned at your own pace, which comes to about 20 hours. You can join for free, and the page says that buying the certificate gives access to graded assignments.
+
+[Yale's own page](https://online.yale.edu/courses/introduction-psychology) lists the same course as six weeks and 15 hours. The two pages count it differently, so check which one you're looking at. Either way it's a short course, and how long it takes you depends on how much of your own week you give it.
+
+## How long does a psychology degree take?
+
+In Canada, [Athabasca University's psychology degree](https://www.athabascau.ca/programs/summary/bachelor-of-arts-in-psychology.html) can be finished in three years of full-time study through its concentration option, the shorter of its two routes, or four years through the major option. The page adds that you can work at your own pace, with no time limit for completion. That's a long road, so it's worth choosing a pace you could keep up.
+
+In Australia, [Open Universities Australia](https://www.open.edu.au/study-online/psychology-mental-health/psychology) lists most of its psychology bachelor degrees at three years full time or the part-time equivalent, and some honours and double degrees (two degrees studied together) at four. It says undergraduate certificates can take as little as six months, and single subjects as little as 10 weeks. Those shorter routes let you start without committing to years.
+
+Arizona State University, in the United States, lists an online [Bachelor of Arts in Psychology](https://asuonline.asu.edu/online-degree-programs/undergraduate/bachelor-arts-psychology/) that comes to 120 credit hours, the units a university uses to count study, spread over 40 classes of 7.5 weeks each. It doesn't say how many years that adds up to. That's a lot of classes to plan around, so ask the university how many years its students usually take.
+
+## How long is the road to a professional title?
+
+It's longer still, and it depends on where you live. The [Australian Psychological Society](https://psychology.org.au/for-the-public/studying-psychology/Study-pathways) states that general registration as a psychologist in Australia needs a minimum six-year sequence of education and training. Registration means being entered on the list a regulator keeps of those allowed to practise, so this is the road to practising, a different aim from learning the subject.
+
+The United States [Bureau of Labor Statistics](https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm) says psychologists typically need at least a master's degree to enter the occupation. It adds that most need supervised experience to qualify for licensure, which is official approval to practise. The rules change with the place, so ask the organisation that keeps the official list in your area.
+
+## Does a longer course teach you more?
+
+A common belief is that the longer a course runs, the more it's worth, and that the finish line is the certificate. Achology.com teaches that a certificate is never the whole aim. A practitioner goes first, testing each idea on themselves, so the real test is what you've tried by the end, however long that took.
+
+Say two people take the same course. One watches it all in a weekend, and the other takes four months and tries one idea a week in a real conversation at home. The slower one has done more than learn about the subject. That's why length alone tells you little, and why a short course tried properly can be worth more than a long one only watched.
+
+## How could you plan the time in your own week?
+
+Say you can spare one hour on three evenings a week. Suppose a course lists 40 hours of teaching, which at that pace takes about 13 weeks, a little over three months. Those are teaching hours, so add the exercises and the practice, which take hours of their own.
+
+## Which Achology course covers the schools of psychology?
+
+Whatever length you choose, one small test is worth running. Take one idea from a short course and try it on your own week, such as what you do right after a stressful phone call, and see what you notice. In Achology's view, that tells you more about whether a longer road suits you than any figure on a page.
+
+The Diploma Course in Modern Applied Psychology (DiMAP) has 175 lessons that teach for 51 hours or more, and you study it online whenever suits you, with no deadline. It covers the behavioural and psychoanalytic schools, then the developmental, cognitive, humanistic and social ones, and you can read more on the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) page when you want the detail. It fits you if understanding yourself and the people around you matters more to you than a deadline. It isn't the right one when your work needs a degree or licence behind it, because the course is education and carries neither.
+
+**Related questions**
+
+- [How long do Achology courses take to complete?](/help/learning-experience/how-long-achology-courses-take-timelines/)
+- [Can I revisit Achology courses after completing them?](/help/learning-experience/revisit-achology-courses-after-completion/)
+- [Why does Achology emphasise deep learning over fast certification?](/help/learning-experience/slow-deep-learning-rejects-fast-certification/)
+- [Can I study multiple Achology courses at the same time?](/help/learning-experience/study-multiple-achology-courses-simultaneously/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
 ## 46. Can you learn psychology on your own, at home?
 Can you learn psychology on your own, at home? Yes, you can, and you could start tonight with a free textbook or a short course, because the first steps need no classroom. What learning alone can't give you is a professional title, since titles follow rules that differ from place to place. It can give you a clearer view of how your own mind works, which is where Achology.com teaches that psychology starts.
 
@@ -1224,6 +2089,193 @@ The Diploma Course in Modern Applied Psychology (DiMAP) can be taken online, and
 - [How long do Achology courses take to complete?](/help/learning-experience/how-long-achology-courses-take-timelines/)
 - [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
 - [Does Achology teach evidence-based models, humanistic models, or both?](/help/achology-basics-and-identity/achology-evidence-based-humanistic-psychology/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 48. Can you become a psychologist online, or is that a myth?
+Can you become a psychologist online? Nothing you study at Achology.com will give you the title, and whether any online study counts towards one depends on where you live. Different places set different rules, so whoever looks after the title or licence where you live can tell you what it needs. What you can do online is learn how psychology explains people, and Achology teaches that this starts with your own mind.
+
+## What do two professional bodies say if you want to become a psychologist online?
+
+The [American Psychological Association](https://accreditation.apa.org/choosing-a-program) accredits programmes in the United States, and its accreditation page says that none of them are online only, for now. It also tells readers to ask their state's licensing body for more details. That's the association's own advice, and it speaks only for the United States. It's not a rule for anywhere else.
+
+In the United Kingdom (UK), the [British Psychological Society](https://www.bps.org.uk/getting-started) says a psychology degree often comes first on the road to being a psychologist. It points to degrees it accredits. It adds that a conversion course it has accredited, for those with a first degree in another subject, may make you eligible for its Graduate Basis for Chartered Membership. It calls that a key requirement for many postgraduate training routes, and its page speaks only for the UK.
+
+## Who can tell you what a title needs where you live?
+
+These are two examples, one from each of two countries, and neither is a rule everywhere. Rules differ from place to place. So put your question to whoever sets the rules for the title where you live, and ask what it requires. Ask too whether it counts study done online, by a short email, before you pay for any course.
+
+## Is learning psychology worth it without a title?
+
+A common belief is that psychology only counts if it ends in a title, so a course without one is a hobby. Achology teaches something different: who you are lives on the inside, in how you choose to be, and not on your business card. A practitioner puts each idea to the test in their own life before anyone else's, so the learning is worth having whatever you decide about a title.
+
+Say two relatives start arguing at a family dinner, and the whole table goes quiet. You might ask yourself what each of them believes, and what each of them needs from the other. That's everyday psychology, the same ground a course covers. You can start learning it online tonight, with no title attached.
+
+## Where does Achology fit if you want a title?
+
+Nothing Achology teaches will make you a psychologist, and Achology is the first to say so. Its courses give no accredited clinical training, no supervised practice hours and no professional registration. Achology isn't a university, so it awards no degrees. In Achology's view, the main door into jobs that are regulated, like clinical psychology, and into research is still a degree, so if you want a title, ask about that road first.
+
+The Diploma Course in Modern Applied Psychology (DiMAP) comes in 175 lessons that total at least 51 hours, and you work through them online at your own speed. It starts with the basics, then takes each main school of psychology in turn, with reflective exercises and no graded homework. A good match is someone who wants to make sense of people, beginning with themselves. When you'd like to look further, the [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) has a page of its own.
+
+**Related questions**
+
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [What does my Achology certificate actually prove?](/help/certificates-cpd-accreditation/what-achology-certificate-proves/)
+- [Is Achology a university or degree provider?](/help/achology-basics-and-identity/is-achology-a-university/)
+- [Can I put letters after my name with Achology certificates?](/help/certificates-cpd-accreditation/post-nominal-letters-achology-certificates/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 49. Can you study psychology by distance learning in the UK?
+Can you study psychology by distance learning in the United Kingdom? Yes, you can: some universities in the United Kingdom teach psychology online, so you don't need to live near a campus. Whether a degree leads to a job title is a separate question that depends on where you live. If you're reading from another country, Canada, Australia and the United States each have online psychology degrees too.
+
+## Which courses in the United Kingdom let you study psychology by distance learning?
+
+The [University of Derby](http://www.derby.ac.uk/online/psychology-courses/psychology-bsc-hons-online) lists an online psychology degree, and its page says the British Psychological Society accredits it, meaning the society has approved it. The page says study is part-time over three to six years, with starts in September and January. Check the page for current dates before you plan around them.
+
+The [University of Roehampton](https://roehampton.ac.uk/postgraduate-courses/psychology-conversion-distance-learning) offers a psychology course that its page calls fully online, with live evening sessions and workshops. The course takes one year full-time, with entry in January and September. The page calls it ideal for graduates who didn't study psychology, and says the British Psychological Society accredits it. If you hold a degree in another subject, that's a route to look at first.
+
+## What if you're reading from outside the United Kingdom?
+
+In Canada, [Athabasca University's psychology degree](https://www.athabascau.ca/programs/summary/bachelor-of-arts-in-psychology.html) has a three-year option and a four-year option, the university says, with no set start dates. You can enrol at any time. Its page says the three-year option doesn't give direct access to graduate study, while the four-year degree prepares students for most graduate programmes. That's a difference worth knowing about before you choose.
+
+In Australia, [Open Universities Australia](https://www.open.edu.au/study-online/psychology-mental-health/psychology) lists certificates, bachelor degrees and postgraduate degrees in psychology. Many of its listings are shown as 100 per cent online. It says single subjects suit students who want to start small and try out study. If you've never studied at a distance, that's an easy way to find out how it suits you.
+
+In the United States, [Arizona State University's psychology degree](https://asuonline.asu.edu/online-degree-programs/undergraduate/bachelor-arts-psychology/) is listed online at 120 credit hours across 40 classes, and each class runs for 7.5 weeks. That's a lot to plan around. Before you apply, ask the university how the classes fit together and how many you can take at once.
+
+## Will an online psychology degree make you a psychologist?
+
+In the United Kingdom, the government's [regulated professions register](https://www.regulated-professions.service.gov.uk/professions/practitioner-psychologist) names the Health and Care Professions Council as the regulator of practitioner psychologists. It lists "practitioner psychologist" among the protected titles, which means rules say who may use them. If you hope to use that title, ask the Council what it asks for before you pick a course. A short look at its site now can save you a wrong turn later.
+
+The answer depends on your country, and sometimes your state, since the rules for using a title such as psychologist vary. The [American Psychological Association](https://accreditation.apa.org/choosing-a-program)'s page about choosing a programme says that in the United States every state sets its own education rules for licensed psychologists. It tells you to ask your state's licensing body what it asks for.
+
+On its registration page, the [Psychology Board of Australia](https://www.psychologyboard.gov.au/Registration.aspx) tells psychologists who practise in Australia that they need the Board's registration and must meet its standards. Wherever you live, the body that keeps the register there can tell you what its title asks for. A short email before you enrol is worth the time.
+
+## How do you know if you'll stick with studying alone?
+
+A common belief is that some people are the type who can study alone and others aren't. Achology.com teaches that your personality is how you come across today and never a fixed type, so "I'm not a self-study person" describes where you're standing now and not where you have to stay. Say it's a Tuesday evening, the dishes are done and the kettle's on. You open one lesson, and half an hour later you're still thinking about it, which is a fair test of whether you'll stick with it.
+
+A degree taken part-time runs for years, and the Derby page puts it at three to six, so it helps to find out early whether the subject pulls you in. One chapter or one lesson is enough to see how it feels, and you can stop after it with nothing lost. If it holds your interest and you want more, a degree may be worth the longer road.
+
+## Where does Achology fit beside a distance degree?
+
+It's easy to assume that psychology is something you study to earn a title and then use on other people. Achology turns that round: a practitioner goes first, so the ideas are tested on their own days before anyone else hears them, and a course at your own kitchen table can do real work. That doesn't replace a degree where a degree is what you need, and it isn't meant to.
+
+Achology's Diploma Course in Modern Applied Psychology (DiMAP) is followed online at whatever speed suits you, through 175 lessons that make up at least 51 hours. It has a section on each main school of psychology, such as the behavioural, cognitive and social schools. It will suit a reader who wants to understand people and themselves, but it may not suit one who needs a degree or a licence, because neither comes with it. Read about [the DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/) when you want the detail.
+
+**Related questions**
+
+- [Can Achology courses replace a university psychology degree?](/help/outcomes-and-expectations/can-achology-replace-university-degrees/)
+- [Is Achology a university or degree provider?](/help/achology-basics-and-identity/is-achology-a-university/)
+- [Is Achology suitable for beginners with no background in psychology?](/help/getting-started/is-achology-suitable-for-beginners/)
+- [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 50. Is a cheap or quick hypnotherapy course ever a good idea?
+Is the cheapest hypnotherapy course ever a good idea? Achology.com's own view is that it can be, as a first taste of the subject, so long as you don't read the certificate as proof that you're ready to work with other people. A short course can show you whether hypnotherapy interests you, while skill with people comes from practice, and practice takes time. Prices change and belong on each provider's own page, so look there for them.
+
+A common belief is that every certificate is the same product in a smaller box, and that the certificate itself makes a person ready. Achology teaches that readiness comes from practice, because what makes a helper useful is who they are, and no magic technique changes another person. A low price or a short course feels like a small risk, and for a taster it often is. So the sensible question isn't how cheap a course can be, but what it prepares you to do.
+
+## What do cheap, quick and longer courses say about themselves?
+
+[Alison's hypnotherapy course](https://alison.com/course/hypnotherapy-an-18-day-weightloss-program) is listed on its site as Hypnotherapy - An 18 Day Weightloss Program, at three to four hours and containing video. Its page offers a certificate. The course is about one topic, weight loss, so it reads as a taster of the subject and not as practitioner training.
+
+On [Hypnotic World's questions page](https://www.hypnoticworld.com/hypnotherapy-training/practitioner-diploma-in-hypnotherapy/faqs), the company says its standard hypnotherapy courses last nine months, with fast-track training taking three. Its training takes place in the United Kingdom, in places such as London, Yorkshire and Manchester. The same company, then, offers a nine-month route and a three-month one, and a fair question to ask is what the quicker one leaves out.
+
+Longer courses exist too. The [Alberta government's learning portal](https://alis.alberta.ca/occinfo/post-secondary-programs/basic-hypnotherapy-certificate/orca-institute/786a1878-8ae2-40ae-8ae9-a15501002301/) lists the Basic Hypnotherapy Certificate from Orca Institute, in Canada, as 285 hours over seven and a half months, all online. That's about 10 hours a week for seven and a half months, which is a very different commitment from an afternoon. A long course like this sits at one end of the range, and an afternoon taster sits at the other.
+
+## What can a cheap or quick course give you, and what can't it?
+
+It's easy to think a certificate is the finish line, so a cheaper or quicker one reaches the same place sooner. Achology's view is different: a practitioner goes first on themselves, and competence comes before any certificate. A short course can give you ideas, words for what you notice and a first feel for the subject, and Achology's guide, [Hypnotherapy Explained](/learn/general-interest/articles/hypnotherapy/), is another place to begin. It can't give you the hours of practice that make you ready to sit with another person.
+
+Think of a taster session at a climbing wall. One evening shows you whether you enjoy climbing, and that's worth knowing. You'd still want many more sessions, with someone holding the rope and watching you, before you took anyone else up the wall. Achology teaches that hypnotherapy is the same: practising on yourself first is what builds the skill.
+
+## What should you ask before you pay for a hypnotherapy course?
+
+Write your questions down before you read any sales page, because a low price or a big discount can pull you along and make the decision feel urgent. It's fine to write to a provider and ask, and you don't need to decide on the same day. Five questions are a good start:
+
+- What will I be able to do when the course ends that I can't do now?
+- Who will watch me practise, and give me feedback?
+- How long do I keep access to the lessons?
+- What does the certificate say it covers, in its own words?
+- What are the rules where I live for practising for a fee?
+
+## Does the cheapest hypnotherapy course let you charge for sessions?
+
+A certificate on its own doesn't settle it, because each place sets its own rules. In the United States, Washington state has a law that covers this. Under [Washington's law on registering hypnotherapists](https://app.leg.wa.gov/RCW/default.aspx?cite=18.19.035), you register with the state before you charge clients, or when a state agency employs you to practise, unless an exemption applies. That's one state's rule, so find out what applies where you live, from the licensing body there, before you pay for any course.
+
+## Where could you start with Achology's hypnotherapy course?
+
+At Achology there's a single hypnotherapy course: the Hypnotherapy Practitioner Course (Beginner to Advanced), with 118 lessons and 27 hours or more of teaching. You study online whenever suits you, with no qualifications needed first. Practising on yourself comes first, so [the Hypnotherapy Practitioner Course](/academy/person-centred-counselling/hypnotherapy-practitioner/) will show you if a longer road is worth taking.
+
+A quick certificate and nothing more isn't what this course offers. Nothing Achology teaches comes with a licence, so if clinical work needs one, look elsewhere. The course page shows what's included, and you can look at it whenever you like.
+
+**Related questions**
+
+- [How much does Achology cost?](/help/pricing-and-payments/how-much-does-achology-cost/)
+- [Why does Achology emphasise deep learning over fast certification?](/help/learning-experience/slow-deep-learning-rejects-fast-certification/)
+- [What's the difference between completing a course and being competent?](/help/outcomes-and-expectations/course-completion-vs-competence/)
+- [What does an Achology certification qualify me to do?](/help/certificates-cpd-accreditation/what-does-achology-certification-qualify/)
+
+Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
+
+---
+
+## 51. Where Can I Learn the Johari Window?
+If you're looking for Johari window training, you can learn the model from a university page, or in the lessons of several courses at Achology.com. A common belief is that it's a workplace exercise for teams. In Achology's view, it's first a way of noticing yourself, which you can try in private before anyone else is involved.
+
+## What are the four areas of the Johari window?
+
+The window sorts what can be known about you into four areas, using two questions: do you know it, and do other people know it? The [Open University's OpenLearn unit](https://www.open.edu/openlearn/mod/oucontent/view.php?id=19238&section=2.3) describes each area. It adds that none of the areas is fixed, because their contents change as you learn how others see you, or gain the confidence to share something.
+
+- Open: what you know about yourself and share freely.
+- Blind: what other people see in you that you don't.
+- Hidden: what you know about yourself and keep to yourself.
+- Unknown: what nobody has noticed yet, you included.
+
+## Who made the Johari window?
+
+Joseph Luft made the Johari window with a co-author. Luft's own account, quoted in [Bergquist's essay](https://library.psychology.edu/the-new-johari-window-i-introduction-to-the-interpersonal-dance/4), says the name is pronounced as if it were Joe and Harry, which is where the term comes from. He says he and his co-author built the model at a summer laboratory session in 1955, and that it was published that year in the Proceedings of the Western Training Laboratory in Group Development. That title hints that the window began with groups, which is worth knowing before you try it on yourself.
+
+## Which Achology courses give you Johari window training?
+
+The window is taught in lessons across several Achology courses, and Achology puts self-awareness at the start of every course it teaches. The courses vary in size and each treats the model its own way. The hours given for each course are minimums, so allow a little more time than shown.
+
+- Diploma Course in Modern Applied Psychology (DiMAP), at least 51 hours: the window as a model of personal insight, inside a wider study of psychology (see [the DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/)).
+- Neuro-Linguistic Programming (NLP) Practitioner Training, at least 42 hours: the window as a four-area model of self-awareness (see [NLP Practitioner Training](/academy/neuro-linguistic-programming/nlp-practitioner/)).
+- Neuro-Linguistic Programming Master Practitioner Course, at least 45 hours: the window brought back before a demonstration of questions that find limiting beliefs (see [the NLP Master Practitioner course](/academy/neuro-linguistic-programming/nlp-master-practitioner/)).
+- Cognitive Behavioural Therapy (CBT) Practitioner Course, at least 31 hours: the window as a core self-awareness idea (see [the CBT Practitioner Course](/academy/cognitive-behavioural-psychology/cbt-practitioner/)).
+- Cognitive Behavioural Therapy for Mental Health and Wellness, at least 16 hours: the window inside a guide to understanding the human mindset (see [the CBT for Mental Health and Wellness course](/academy/cognitive-behavioural-psychology/cbt-mental-health/)).
+- Life Coaching Certificate Course (Beginner to Advanced), at least 38 hours: the window for building awareness in coaching (see [the Life Coaching Certificate Course](/academy/life-coaching/life-coaching-certificate/)).
+- Life Coaching Blueprint: The Complete Process and Practices, at least 31 hours: the window as a coaching tool (see [Life Coaching Blueprint](/academy/life-coaching/life-coaching-blueprint/)).
+- Counselling Skills Practitioner Course (Beginner to Advanced), at least 44 hours: the window for finding your blind spots (see [the Counselling Skills Practitioner Course](/academy/person-centred-counselling/counselling-skills-practitioner/)).
+- Mental Health and Wellbeing Practitioner Diploma Course, at least 38 hours: the window as a way out of not knowing what you don't know (see [the Mental Health and Wellbeing Practitioner Diploma](/academy/mental-health/mental-health-practitioner-diploma/)).
+
+## Which of these courses should you begin with for the Johari window?
+
+The window takes a lesson or two in each course, so pick by the subject you want around it. If you'd like to coach other people, Life Coaching Blueprint and the Life Coaching Certificate Course both use it as a coaching tool. If you'd like a broad base, DiMAP puts the window beside the rest of applied psychology. If your interest is listening and helping, the counselling course puts it among the basics of person-centred counselling.
+
+## Can you use the Johari window with other people?
+
+In Achology's view, yes, but on yourself first. Say a friend tells you that you always interrupt, and you had no idea. You can ask how well they know you and what else you're not seeing, because a friend who tells you the truth is how a blind spot gets seen. The window gives you a question to carry with others, never a way to label or diagnose them.
+
+## Is there a limit to self-awareness?
+
+Yes, and it matters. In Achology's view, nobody wakes up fully aware, because nobody knows what they don't know. Achology teaches these steps: notice the feeling, find its source, do what's needed, and move on. The window is a practice that deepens over a life, never a verdict on who you are.
+
+**Related questions**
+
+- [Where should I start with Achology?](/help/getting-started/where-should-i-start-with-achology/)
+- [What is Achology's teaching philosophy?](/help/achology-basics-and-identity/achology-teaching-philosophy/)
+- [Why doesn't Achology teach diagnostic models or psychiatric labelling?](/help/achology-basics-and-identity/why-achology-avoids-diagnostic-labels/)
+- [How do Achology courses work? What's the learning experience like?](/help/learning-experience/how-achology-courses-work-self-paced/)
 
 Achology is listed on the United Kingdom Register of Learning Providers (UKRLP) with the United Kingdom Provider Reference Number (UKPRN) [10099815](https://ukrlp.education.gov.uk/search/provider/10099815?query=Achology&page=1&ukprnStatus=active).
 
