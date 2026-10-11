@@ -13,7 +13,7 @@ LANE B
 - CQ001-080-1 no longer has this sentence: "Asking for help can still be part of owning it, since the one who decides stays you." In its place: "Owning a problem is about who decides what happens next, and that stays you whoever else is involved."
 - CQ001-085-1 lost its closing sentence "That's a different matter from not caring." from the opening, only to keep the opening to four sentences (not a Version 17 removal).
 
-**Mental-wellness pages with no `help_line | foot` row.** Several in this batch are in that category (079, 080, 084-2, 089-1, 095 and 096 among them) and have no row; only 129-1 and 132-1 of the course pages I have seen carry one. I added none. Your call (asked in the batch 6 DONE).
+**Mental-wellness pages and the `help_line | foot` row.** Thirteen pages in this batch are in the mental-wellness category. Only 079-1 carries the row; the other twelve have none (075, 076, 077, 078, 080, 084-1, 084-2, 089-1, 089-2, 091, 095, 096), and I added none. Your call (asked in the batch 6 DONE).
 
 **Waiting on Kain on every course 001 page:** the who-it-suits line (Part 13 rule 9).
 

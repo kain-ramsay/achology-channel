@@ -10,7 +10,7 @@ LANE B
 
 **One removal for Kain's eye (Version 17, Part 7 rule 15).** CQ001-042-1 no longer has this sentence in its body: "If one has become hard to carry alone, talking it through with someone you trust is a sensible step, and asking for that help is part of taking responsibility for it." To keep the paragraph at four sentences I added two of the page's own: "Taking that time with a heavy memory is not the same as living there. The line leaves room for it, and asks only what you take away." No other page in the batch had a sentence of that kind.
 
-**Which mental-wellness pages carry the `help_line | foot` row.** The standard says quote pages in that category carry it. Several in this batch are in that category (031, 025, 039, 042 and 045 among them) and none has the row; I added none. Chat's call (I asked in the batch 6 DONE).
+**Mental-wellness pages and the `help_line | foot` row.** Nine pages in this batch are in the mental-wellness category (025, 027, 028, 031, 034, 036, 039, 042, 045). None carries the row, and I added none. Your call (asked in the batch 6 DONE).
 
 **Waiting on Kain on every course 001 page:** the who-it-suits line (Part 13 rule 9).
 

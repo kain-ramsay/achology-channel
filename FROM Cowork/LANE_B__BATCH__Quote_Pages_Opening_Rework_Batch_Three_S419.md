@@ -12,7 +12,7 @@ LANE B
 - CQ001-051-1 no longer has this sentence in its body: "Asking for help counts as a responsible act too, and some seasons may call for rest more than fight." In its place: "Some seasons call for rest more than fight, and resting on purpose is a choice too."
 - CQ001-069-1 no longer has the 61-word help line paragraph that stood after its opening in the S416 body (the page's earlier sheets record it; the foot gives the exact words). The record does not show who took it out or when. The page is mental-wellness and keeps its `help_line | foot` row.
 
-**Mental-wellness pages with no `help_line | foot` row.** Several in this batch are in that category (053 and 055 among them) and have no row; I added none. Your call (I asked in the batch 6 DONE).
+**Mental-wellness pages and the `help_line | foot` row.** Eighteen pages in this batch are in the mental-wellness category. Only 069-1 carries the row; the other seventeen (049, 053, 055, 056, 059 to 066, 068, 070, 071, 072, 074 among the course numbers; 052, 056, 059, 060, 061 and 062 are not in this list) have none, and I added none. Your call (asked in the batch 6 DONE).
 
 **Not mine:** CQ001-052-1 (one of the seven waiting on Code's placing call) still opens with "If you have ever caught yourself", a banned opener; I did not touch it.
 
