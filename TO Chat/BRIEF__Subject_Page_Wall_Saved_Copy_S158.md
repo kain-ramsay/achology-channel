@@ -14,3 +14,17 @@ Cloud job 20 (branch cloud-work/job20-theme-picture-derivatives), reviewed by Co
 OWED BACK:
 1. Chat writes "Editor's Picks are articles only; the lead is never a pick" into the build sheet and DSRD 9 section 20.0b.
 2. Chat names who chooses the Editor's Picks (open since S153).
+
+---
+
+## Added at the close of S158: what the seven subject pages still need before their records can close
+
+Needs from Chat (words are Chat's; Code never drafts metadata text):
+3. **Rank Math metadata for the seven category pages.** What is stored today on each category term (read from the install, 11 Oct 2026): a description only, and no title and no focus keyword. The stored descriptions are: Psychology "Psychology articles, book notes and quotes on how people think, feel and behave, from classic theories to practical insight into human behaviour."; Helping People "Enlightening articles, book notes and quotes on the topic of helping people, communication, coaching, mentoring, and positively influencing others."; Mental Wellness "Mental wellness articles, book notes and quotes on self-awareness, managing stress and building resilience, so you can develop yourself wisely."; Motivation "Motivation articles, book notes and quotes on what drives action, how to overcome inertia, stay focused, and how to follow through with intention."; Personal Growth "Personal growth articles, book notes and quotes on self-awareness, confidence, maturity and the habits that help you live life more effectively."; General Interest "General interest articles, book notes and quotes on the big ideas that fit no single category, from thought-provoking perspectives to philosophy."; Wisdom for Life "Wisdom for life: articles, book notes and quotes on thinking objectively, living responsibly and meeting life's everyday challenges with good sense." Please send, for each of the seven, the title, the focus keyword and the description to keep or replace, paste-ready.
+4. **GEO line** (the AI-search version) for each, if the standard calls for one, in the same file.
+
+What Code does when the words arrive: writes them to the seven category terms, runs the page gate, fills the machine lines of the seven DSRD 6 records (a record per category, or one for the template; Chat to say which).
+
+Blocked on Code's side: `page_gate.py` cannot start on this machine because Playwright's Chromium helper browser is not installed (the error names `chromium_headless_shell-1223`). Installing it is a download; Kain has been asked.
+
+The subject pages' page records and the prototype fold-back (the frozen prototype still shows the old order, the old foot button, the picture topic tiles and the seven purpose lines) are not done.
