@@ -20,7 +20,7 @@ All seven read the same: **31 pass, 34 fail, 11 for review, 1 not built yet, 9 c
 7. **No hairlines** between the lead row, the wall and the topic block (DSRD 7 section 4.3 ruling 1). Kain approved the page without them.
 8. **The page title is 42px** where DSRD 7 section 3 sets another size.
 9. **Breadcrumb spacing:** 71px below the trail on a desktop (48 wanted), 37px on a tablet; on a phone 48 above where 32 is wanted, and the header-to-content gap on a phone is 48 where DSRD 9 section 26 wants 32.
-10. **Contrast of the small kind labels on the cards** (six on each page): the accessibility scan fails them. Fixing it changes the approved colour, so Kain's eye.
+10. **Contrast of the small "Categories" label in the subject bar** (`.sj-label`, six nodes on each page): the accessibility scan fails it. Fixing it changes the approved colour, so Kain's eye.
 11. **Acronyms in card titles.** The acronym check fails on article titles printed in the wall (CBT, DBT, REBT, NLP and others). Does "spell it out first" apply to titles shown on a card? Chat to rule.
 
 ## C. Tool and record problems (not page faults)
