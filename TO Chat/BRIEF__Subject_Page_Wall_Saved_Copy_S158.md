@@ -37,3 +37,39 @@ The subject pages' page records and the prototype fold-back (the frozen prototyp
 2. **Playwright has no browser on this iMac.** `~/Library/Caches/ms-playwright` does not exist; `page_gate.py` stops at `p.chromium.launch` ("Executable doesn't exist ... chromium_headless_shell-1223"). Kain says it was installed the week before on both desktops. CleanMyMac X is installed on this machine, which may have cleared the cache; not verified. Workaround used and proven in S158: launching the gate through the installed Google Chrome with `executable_path` set, from a wrapper outside the project (the gate itself unchanged). The wrapper must also put the theme folder on `sys.path`, or the gate reports its own helper tools as missing.
 
 Page gate on Psychology through Chrome, before the path fix: 25 pass, 21 fail, 9 for review. Several of those 21 were the missing helper tools; the true list has not been read. Standing items the gate named that are Code-measurable and need a ruling before anyone changes an approved look: the hairlines between the lead row, the grid and the topics; the 42px page title; the breadcrumb spacing; the 48 against 32 header gaps on a phone; the contrast of the Categories label. One is the topic tags' own: the last row's bottom padding at a section boundary. None of these has been fixed.
+
+---
+
+## The Chrome wrapper for page_gate.py, so the next session can recreate it (S158)
+
+The wrapper lived in the session scratchpad and is gone at close. It is eleven lines, outside the project; the gate is unchanged. Save it anywhere outside the theme and run `python3 wrapper.py <path to page_gate.py> --map <urls>`.
+
+```python
+import os, runpy, sys
+from playwright.sync_api import BrowserType
+
+CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+_orig = BrowserType.launch
+
+def _launch(self, *args, **kwargs):
+    kwargs.setdefault("executable_path", CHROME)
+    return _orig(self, *args, **kwargs)
+
+BrowserType.launch = _launch
+gate = sys.argv[1]
+sys.path.insert(0, os.path.dirname(gate))   # the gate's helper tools sit beside it
+sys.argv = [gate] + sys.argv[2:]
+runpy.run_path(gate, run_name="__main__")
+```
+
+Proven in S158 on /learn/psychology/ (it ran and produced a verdict). Not yet run on all seven.
+
+## Later S158 work, theme 0.707.207 to 0.707.217 (for the board)
+
+- The topic tags: one shape, full-width rows, clipped bubble on hover (0.707.207 to .210).
+- The Quotes tab above the wall shows the real total; the three foot buttons removed; the wall ends 48 above the topic band (0.707.211 to .213).
+- The learning path section: artwork behind the words, larger level cover, taller step pictures, one 32px edge spacing, the cover aligned to the text, a graduation cap on the course button (0.707.214 to .217). Measured on all seven pages.
+
+## Where the Knowledge Hub pages stand, read from the record (S158 close)
+
+Templates that exist: the four reading pages (article, book note, quote, workbook), the listing page, the seven category pages, the front page (/learn/), the tags index (/learn/tags/) and the tag pages. The only Knowledge Hub page type with no template is the search results page (DSRD 9 section 38). Per Kain's S152 order the sittings left are: the listing page, the all topics page (tags index), the topic page (tag page), the Knowledge Hub front page, with the search results page in the same run. The front page, tags index and tag pages were built at 0.707.138 to .140 and wait on Kain's eye in Safari.
