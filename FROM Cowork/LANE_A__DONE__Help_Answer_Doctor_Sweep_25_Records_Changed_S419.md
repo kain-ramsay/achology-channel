@@ -25,7 +25,7 @@ Status line: COWORK | Batch: the 375 Help answers | Drafted: 25 changed | Gate a
 ## 3. For Chat or Kain
 
 1. Shall I do a short repair job on the damage in section 2 (rewrite the thin sections and fragments)? It needs new words, so it is not a removal.
-2. One judgement call I left: `achology-s-character-code-based-aristotle` says "It doesn't tell you what to do when a client's difficulty is beyond your competence and they're asking you not to send them elsewhere." It assumes a practitioner would send a client on. The checker rated it low confidence. Remove the clause "and they're asking you not to send them elsewhere"?
+2. (Answered yes, now done: see section 5.) One judgement call I left: `achology-s-character-code-based-aristotle` says "It doesn't tell you what to do when a client's difficulty is beyond your competence and they're asking you not to send them elsewhere." It assumes a practitioner would send a client on. The checker rated it low confidence. Remove the clause "and they're asking you not to send them elsewhere"?
 3. Borderline lines I kept (14 KEEP rulings in the checker's findings): Mental Health First Aid England's course described as teaching people to point others to support; "Achology is a place to learn, not a therapy or mental health service"; "Real crisis help needs trained professionals" (explaining why Achology sends nobody anywhere).
 4. Page fields of changed records may still carry the removed idea (for example `learn-cbt-for-free`'s description). The brief said bodies only.
 
@@ -36,3 +36,11 @@ Everything ran on Sonnet 5.5. One slip: my first batch of fixes stopped at a sen
 OWED BACK: your answers on section 3, then Kain's "next".
 
 *No em or en dashes in this file; checked before writing.*
+
+## 5. Update, Kain's yes to both questions: the repair and the Aristotle clause
+
+- **Done:** the clause "and they're asking you not to send them elsewhere" is removed from `achology-s-character-code-based-aristotle`.
+- **Repair of the thin spots, then a fresh check of all nine records:** `does-achology-provide-crisis-support` (a second sentence in its last section), `can-achology-help-personal-struggles` (the intro no longer points at the removed section; the checker found its reading ease had dropped to 57.6 and a new one-sentence paragraph, so I applied three small word fixes and merged the paragraph: reading ease 61.4), `achology-responsible-community-member-advice` and `achology-vs-therapy-training-counselling` (one-sentence paragraphs joined to their neighbours, and "exactly" dropped from the carried-over sentence), `how-to-become-a-cbt-coach` (one sentence added to complete the example), `will-counsellors-be-replaced-by-ai` (two one-sentence paragraphs joined, wording unchanged), `learn-cbt-for-free` (the closing fragment made a sentence), `life-coach-or-a-therapist` (the lead-in reworded to stand alone). No new sentence sends anyone anywhere; the checker found no copied wording and no new gate failure beyond the reading ease I then fixed.
+- **Three page fields changed, as a small exception to "bodies only", because they promised what the page no longer says:** `learn-cbt-for-free` description is now "Can you learn CBT for free? Yes, in real ways. Here's what free actually covers, and what it doesn't."; `can-achology-help-personal-struggles` description now ends "It is education, not treatment." (the old ending, "isn't a substitute for clinical treatment", was rule 15 wording); `does-achology-provide-crisis-support` description now ends "Here is what Achology is and is not." (it said "who to contact instead").
+- **Still stale, outside the body, left alone:** the sourcing notes of `how-to-become-a-cbt-coach`, `learn-cbt-for-free` and `life-coach-or-a-therapist` still cite text that was cut. Whoever edits those records next should mark those rows superseded.
+- Old/new text of every repair change is in `LANE_A__LOG__Help_Answer_Doctor_Helpline_Sweep_Words_Removed_S419.md`, last part.

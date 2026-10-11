@@ -292,3 +292,44 @@ Sentences removed: 2. Sections removed: 0.
 - HELP__can-life-coaches-use-cbt: removed "It also means a coach's first duty is to the person's wellbeing, which sometimes means pointing them towards someone else."
 - HELP__how-much-does-a-mental-health-course-cost: removed ", which isn't a substitute for medical care, psychological help or therapy".
 - HELP__is-achology-right-emotionally-vulnerable: removed the paragraph "If you already have professional support, learning can sit well alongside it. The two do different jobs. One helps you through a hard time, and the other teaches you a skill."
+
+## Repairs (old and new text), Lane A, S419
+
+### Repair log 1
+# Repair log, group 1
+
+## HELP__does-achology-provide-crisis-support.md
+Old: "...and part of that teaching is this exact boundary."
+New: same sentence plus "It keeps the learning here what it was built to be, a way to understand yourself and other people better." Heading unchanged.
+
+## HELP__can-achology-help-personal-struggles.md
+Old: "What they aren't, and never claim to be, is treatment. That line matters, and Achology draws it clearly."
+New: "What they aren't, and never claim to be, is treatment, and Achology says so clearly."
+
+### Repair log 2
+LANE A repair log, group 2
+(a) community-member-advice: old "...in the room.\n\n[Achology doesn't provide crisis support]..." -> new: joined into the previous paragraph with a space.
+(b) vs-therapy-training-counselling: old "...clinical need begins.\n\nThis boundary is not..." -> new: joined into one paragraph.
+(c) how-to-become-a-cbt-coach: old "A coaching client might come in stuck on a career decision, with their daily life otherwise running well." -> new: same sentence + "That's the kind of person CBT coaching suits, because the work is about the next step, not the past."
+
+### Repair log 3
+LANE A repair log, group 3
+
+(a) will-counsellors-be-replaced-by-ai
+- Joined "That's the ACA's judgement, and it's worth reading beside its other line that AI shows promise." onto the end of the preceding paragraph (ends with the ACA "lacks the ability..." quote). Wording unchanged.
+- Joined "Some people find it easier to begin by typing to a tool..." onto the diary paragraph, after "...something each person notices for themselves." Wording unchanged.
+
+(b) learn-cbt-for-free
+- Old: "Free material for real learning, and Achology's free tier for a real look at the community."
+  New: "Free material gives you real learning, and Achology's free tier gives you a real look at the community."
+- rm_seo_description old: "Can you learn CBT for free? Yes, in real ways, including free NHS therapy. Here's what free actually covers, and what it doesn't."
+  New: "Can you learn CBT for free? Yes, in real ways. Here's what free actually covers, and what it doesn't." (101 chars)
+  Note: "honestly" in "each one is honestly useful" left as is (unchanged sentence).
+
+(c) life-coach-or-a-therapist
+- Old: "That depends on who you picture sitting opposite you, and it's normal to feel drawn to both at the start."
+  New: "That depends on the kind of work you picture yourself doing, and it's normal to feel drawn to both at the start."
+
+### Lead edits after the repair check
+- can-achology-help-personal-struggles: 'communication that keeps going wrong ... decisions that feel unclear' became 'talks that keep going wrong ... choices that feel unclear'; 'every framework the courses teach ... frameworks for seeing your patterns ... conversations' became 'every course ... ways to see your patterns ... talks'; the two paragraphs 'What they aren't, and never claim to be, is treatment, and Achology says so clearly.' / 'This isn't a loophole, or a grey area. It's simply how the courses are built, from day one.' became one paragraph 'What they aren't, and never claim to be, is treatment. Achology says so clearly. That isn't a loophole or a grey area, it's how the courses are built, from day one.'
+- achology-s-character-code-based-aristotle: removed ' and they're asking you not to send them elsewhere'.
