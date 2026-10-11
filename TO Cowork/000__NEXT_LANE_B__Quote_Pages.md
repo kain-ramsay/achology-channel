@@ -19,7 +19,7 @@
 **Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
 
 
-11. (Added S419.) `BRIEF__Sweep_Out_Every_Doctor_And_Helpline_Line_All_Lanes_S419`: remove every sentence that sends a reader to a doctor, therapist or helpline from your own record types, as that brief lists them. Pure removal. File the exact words removed.
+11. **DONE 11 October 2026 (S419), filed as `LANE_B__DONE__Doctor_And_Helpline_Sweep_Quote_Pages_1_Record_Changed_S419.md` and `LANE_B__LOG__Doctor_Helpline_Sweep_Words_Removed_Quote_Pages_S419.md` in FROM Cowork.** (Added S419.) `BRIEF__Sweep_Out_Every_Doctor_And_Helpline_Line_All_Lanes_S419`: remove every sentence that sends a reader to a doctor, therapist or helpline from your own record types, as that brief lists them. Pure removal. File the exact words removed.
 
 12. (Added S419, after item 11 was done.) `NOTE__Lane_B_Rulings_And_Next_Jobs_After_Batch_Six_S419`: Jobs 1 and 2 in order. Read the note first; it answers your DONE.
 

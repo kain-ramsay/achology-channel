@@ -9,7 +9,7 @@ Model: `LANE_A__LOG__Doctor_Helpline_Sweep_Words_Removed_S419`. Signed field: no
 1. Q07008__comes-from-helping-professionals.md (signed: absent)
    Removed: "None of this argues against seeking professional help when it is needed, and Egan never suggests that either."
    Smallest fix (logged): the next sentence began "It argues against assuming ..." with nothing for "It" to point to; it now begins "Egan argues against assuming ...". Nothing else changed.
-   For repair: the paragraph is now two sentences (it had three). This page already breached the paragraph band in nine places before the sweep (the gate's own count against the backup), so the cut adds one more to a page that needs the editorial pass anyway.
+   For repair: the paragraph is now two sentences (it had three). This page already breached the paragraph band in eight places before the sweep (the gate run on the backup copy) and now breaches it in nine, so it needs the editorial pass anyway.
 
 ## Part 2. Removed earlier today inside the opening rework and batch 6 (already in those DONEs; repeated here so this log is complete)
 
