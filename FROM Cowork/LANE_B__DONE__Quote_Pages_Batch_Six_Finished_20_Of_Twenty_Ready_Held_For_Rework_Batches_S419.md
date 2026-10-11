@@ -25,7 +25,7 @@ BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (
 
 ## 3. For you
 
-1. **Which mental-wellness pages carry the `help_line | foot` row?** Standard 7:15 says quote pages in the mental-wellness category carry it. All twenty are in that category; only 129-1 and 132-1 have the row (yours). Do the other eighteen need it, and do you add it or do I? I changed none.
+1. **Which mental-wellness pages carry the `help_line | foot` row?** Standard 7:15 says quote pages in the mental-wellness category carry it. Nineteen of the twenty are in that category; only 129-1 and 132-1 have the row (yours). Do the other seventeen need it, and do you add it or do I? I changed none.
 2. **Item 4b (the rework of the unsigned openings) is next,** as your note says. I take it on the next "next": the three unsigned of batch 1, then batch 2, and so on, one batch at a time. Batches 6 and 7 stay held behind it.
 3. **Item 11 (the care-line sweep)** also covers quote pages (832 files). I did the twenty batch 6 pages inside the batch and listed the words above; I have not touched any other page for it.
 
