@@ -28,3 +28,12 @@ What Code does when the words arrive: writes them to the seven category terms, r
 Blocked on Code's side: `page_gate.py` cannot start on this machine because Playwright's Chromium helper browser is not installed (the error names `chromium_headless_shell-1223`). Installing it is a download; Kain has been asked.
 
 The subject pages' page records and the prototype fold-back (the frozen prototype still shows the old order, the old foot button, the picture topic tiles and the seven purpose lines) are not done.
+
+---
+
+## Found at the close of S158: two tool faults on this iMac (for the factory session; no theme file involved)
+
+1. **`component_gate.py` cannot run here.** At the Stop hook it crashed in `page.goto` on `http://127.0.0.1:{port}/cards/?workbench=specimen-page-s267` with "Page.goto: Download is starting". That page is served by a local PHP server and this iMac has no `php` (`php: command not found`), so the browser was handed the file as a download. The hook then printed "the built component disagrees with its signed build sheet", which is wrong: the gate never compared anything. It needs either PHP on this machine or a gate that says "could not run" instead of "disagrees". Nothing in S158 touched the cards component.
+2. **Playwright has no browser on this iMac.** `~/Library/Caches/ms-playwright` does not exist; `page_gate.py` stops at `p.chromium.launch` ("Executable doesn't exist ... chromium_headless_shell-1223"). Kain says it was installed the week before on both desktops. CleanMyMac X is installed on this machine, which may have cleared the cache; not verified. Workaround used and proven in S158: launching the gate through the installed Google Chrome with `executable_path` set, from a wrapper outside the project (the gate itself unchanged). The wrapper must also put the theme folder on `sys.path`, or the gate reports its own helper tools as missing.
+
+Page gate on Psychology through Chrome, before the path fix: 25 pass, 21 fail, 9 for review. Several of those 21 were the missing helper tools; the true list has not been read. Standing items the gate named that are Code-measurable and need a ruling before anyone changes an approved look: the hairlines between the lead row, the grid and the topics; the 42px page title; the breadcrumb spacing; the 48 against 32 header gaps on a phone; the contrast of the Categories label. One is the topic tags' own: the last row's bottom padding at a section boundary. None of these has been fixed.
