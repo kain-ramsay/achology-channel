@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: Route 1 proved; Lane B has run in the new folder through batch four; the theme and prototype git folders were moved out of iCloud at Code's S157. Archived.**
+
 **Needs from Chat: Step 3 is done and proved; rule on Lane B's section 3 so the proving batch (Step 4) can run in the new Lane B folder; and rule one new item, the same git fix for the theme and component prototype repositories (section 4). For the factory session.**
 
 # DONE: Route 1, Part A (git out of iCloud) and Part B (the lane folders) (Code, S156)

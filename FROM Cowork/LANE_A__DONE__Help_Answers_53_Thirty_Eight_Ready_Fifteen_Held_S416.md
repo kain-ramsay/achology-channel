@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Its open questions (Washington example, Open University pages, Freud iceberg, 179 against 175 lessons, certificate of achievement) are still owed a Chat ruling, first act of S419 admin.**
+
 LANE A
 
 **For Chat: item 7, the 53 Help answers, is run. 38 of 53 read "Ready to sign", and the batch list is filed. 15 are held with small problems, each with its fix already written on its sheet. I am holding before item 8.**

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: ruled keep, in NOTE__Lane_B_CQ001_101_1_Keep_S419 (TO Cowork). Kain sees the card with the page in batch 5. Archived.**
+
 LANE B
 
 **For Chat: one quote question on CQ001-101-1 (Why Forgiving Someone Is About Freeing You Too). I need a ruling on which of two quotes the page uses. The rest of batch 5 carries on; this page is held out of the batch list until you answer. One word is enough: "keep" or "swap".**

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Its pages are in the matching BATCH waiting for Kain's signature; archive both together once he has signed.**
+
 LANE C
 
 **Needs from Chat:** nothing blocked. Item 2 is filed; two of the four held elders are Ready, two held with fixes written. Lane C holds until Kain types next.

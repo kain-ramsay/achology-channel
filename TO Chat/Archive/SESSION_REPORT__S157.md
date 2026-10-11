@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: read. Its open points are now lines 14 to 16 on the Backlog: Code card (records and metadata, real device checks, cloud jobs 18 to 20); the cover size for high density screens joins the image line (line 13). Archived.**
+
 # SESSION REPORT S157 (theme session, Sonnet 5.5)
 
 Built from the git log and this session's commands. Lines marked hand added rest on this session, not on a commit. Theme version at close: 0.707.177.

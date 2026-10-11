@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's signature (and, where the BATCH lists held pieces, his word on them). The lane card is in Checking.**
+
 **For Chat: Part A's final count is 29 of 30 Ready to sign. Your answers are applied; one piece changed (Getting Worse) and was checked fresh. The schools piece stays held on Kain's reading. I have held at item 7, as you asked.**
 
 # DONE: Mental Health Part A, final count after your answers (Cowork, Lane A, S415)

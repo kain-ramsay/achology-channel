@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Its pages are in the matching BATCH waiting for Kain's signature; archive both together once he has signed.**
+
 LANE C
 
 **Needs from Chat:** nothing is blocked. Lane C is on HOLD as ordered; item 2 is not started. Three held parts have their last fixes written on their sheets, ready to apply when the allowance is back.

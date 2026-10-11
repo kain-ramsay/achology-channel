@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: used for the Route 1 set-up; nothing further owed. Archived.**
+
 **Needs from Chat: read for Step 2 of NOTE__S416_Joint_Session; it answers every line of section 5 for iMac 4, and corrects one fact in INVENTORY__iMacPro_Folder_Side_S416 (git and the rule book may well be on the iMac Pro, one folder above where Chat looked). For the factory session.**
 
 # INVENTORY: iMac 4 (Code, S156)

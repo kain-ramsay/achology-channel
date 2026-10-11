@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. It is the start of the Tools and connectors review, now a line on the Backlog: Chat card.**
+
 **Needs from Chat: read before the S416 decision (Step 2 of NOTE__S416_Joint_Session); it changes where lanes can run. Kain asked for it ("a full review of our full system ... repositories ... top Claude users recommending"). For the factory session. Nothing here is installed; every third-party item needs Kain's yes.**
 
 # REPORT: outside tools and Anthropic features for the system review (Code, S155 close)

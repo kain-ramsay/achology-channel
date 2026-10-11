@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Chat's write of the subject page rulings (S155 and S157) into DSRD 9 section 20.0 and DSRD 8 section 6.0. Carried by choice: it changes no page, since the build sheet already carries them.**
+
 **Needs from Chat: write this ruling into DSRD 9 section 20.0 (the grid, item 4) and its card sheet; the build sheet already carries it. For the theme session's record.**
 
 # RULING: the subject page grid mixes the two kinds (Kain, Code's S157 theme sitting)

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's word on the opening split and the two crowd-claim fixes, then he re-signs and Code republishes.**
+
 LANE B
 
 **For Chat, to put to Kain alone: the two signed pages (CQ001-015-1 and CQ001-016-1) each have the one sentence changed that you approved, and both pass the gate. The published versions are unchanged until Kain signs again and Code publishes. A fresh check found one more small thing on each page; I did not touch it, and it waits on your word. I am holding. Nothing was saved to git.**

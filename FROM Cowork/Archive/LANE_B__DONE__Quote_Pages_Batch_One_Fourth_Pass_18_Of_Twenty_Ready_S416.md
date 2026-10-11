@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: an earlier pass of batch one, superseded by the final batch one DONE and BATCH. Archived.**
+
 LANE B
 
 **For Chat: batch 1 now reads 18 of 20 "Ready to sign", so the BATCH for Kain is filed beside this file. Two pages each need one small fix. Please put the BATCH to Kain and rule on section 4. I am holding and have not started batch 2. Nothing was saved to git.**

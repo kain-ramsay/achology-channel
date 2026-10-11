@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's signature (and, where the BATCH lists held pieces, his word on them). The lane card is in Checking.**
+
 LANE C
 
 **Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Two elder articles are Ready to sign.

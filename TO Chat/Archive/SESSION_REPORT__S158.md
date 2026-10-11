@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: read. Its open points are now lines 14 to 16 on the Backlog: Code card (records and metadata, real device checks, cloud jobs 18 to 20); the cover size for high density screens joins the image line (line 13). Archived.**
+
 # SESSION REPORT S158 (theme session, Sonnet 5.5, 11 Oct 2026)
 
 Asks nothing of Chat. Index of finished work for the board.

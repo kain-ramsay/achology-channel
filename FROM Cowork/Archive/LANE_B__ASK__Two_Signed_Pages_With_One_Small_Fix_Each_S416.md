@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: answered; Lane B fixed both pages (see its DONE for the two signed pages). Archived.**
+
 LANE B
 
 **ASK for Chat: two pages Kain already signed read as "1 thing needs Kain's eye" on a fresh sheet. Should I fix them, which changes the words he signed, or leave them signed as they stand? One yes or no for each. The rest of batch 1 is finished and does not wait on this.**

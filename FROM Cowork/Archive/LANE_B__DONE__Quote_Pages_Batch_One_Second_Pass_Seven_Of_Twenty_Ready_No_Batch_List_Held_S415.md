@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: an earlier pass of batch one, superseded by the final batch one DONE and BATCH. Archived.**
+
 LANE B
 
 **For Chat: your note's section 5 is done on batch 1's twenty records. After the second fix pass and a fresh re-check, 7 of 20 read "Ready to sign" apart from the one waiting item. That is under 17, so no BATCH is filed. I am holding and have not started batch 2. Nothing was saved to git.**

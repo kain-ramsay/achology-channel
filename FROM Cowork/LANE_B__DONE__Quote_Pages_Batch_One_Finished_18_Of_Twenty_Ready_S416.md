@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Its pages are in the matching BATCH waiting for Kain's signature; archive both together once he has signed.**
+
 LANE B
 
 **For Chat: batch 1 is finished. 18 of 20 read "Ready to sign" on their newest fresh sheet. Seventeen were signed by Kain at 17:37. The three still to sign are on `LANE_B__BATCH__Quote_Pages_Batch_One_S416`. Two signed pages (015-1, 016-1) each carry a fresh finding, held in `LANE_B__ASK__Two_Signed_Pages_With_One_Small_Fix_Each_S416`. Nothing was saved to git.**

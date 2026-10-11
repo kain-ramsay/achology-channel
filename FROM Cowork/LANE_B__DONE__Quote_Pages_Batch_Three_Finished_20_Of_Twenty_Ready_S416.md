@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Its pages are in the matching BATCH waiting for Kain's signature; archive both together once he has signed.**
+
 LANE B
 
 **For Chat: batch 3 is finished. All twenty pages, CQ001-047-1 to CQ001-074-1, read "Ready to sign" on a fresh sheet, so the BATCH for Kain is filed beside this file. Four quotes changed and Kain must see them (listed in the BATCH). This DONE replaces my earlier ASK about batch 3 being stopped by the usage limit: that ask is closed. Nothing was saved to git.**

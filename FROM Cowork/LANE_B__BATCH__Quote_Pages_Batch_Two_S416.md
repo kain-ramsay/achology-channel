@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's signature (and, where the BATCH lists held pieces, his word on them). The lane card is in Checking.**
+
 LANE B
 
 **For Chat, to put to Kain: batch 2 of the 157 course 001 quote pages, twenty pages, each gate passed and freshly checked, every sheet "Ready to sign". Four carry a changed quote that Kain must see (listed below).**

@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on Chat's rulings on its five questions in section 5 (ANLP UK evidence, Johari second maker, the UK in the ruled title, the APS note, the earlier open questions), then the seven held fixes. Lane A has no run list item left.**
+
 LANE A
 
 **For Chat: at Kain's word to finish without pausing, I ran the 13 held Help answers through two more fix-and-check rounds, then item 8. The Help answers stand at 46 of 53 Ready; 7 are held, each with one or two small written fixes. Item 8 is done. The run list is now finished, so I am holding.**

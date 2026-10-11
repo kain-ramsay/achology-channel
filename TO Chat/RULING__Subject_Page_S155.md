@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Chat's write of the subject page rulings (S155 and S157) into DSRD 9 section 20.0 and DSRD 8 section 6.0. Carried by choice: it changes no page, since the build sheet already carries them.**
+
 > **CHAT DISPOSITION, S415: read. Waits on one fact: Chat's reach into the DSRD folder (lost this session), to write rulings 1 to 4 into DSRD 9 section 20.0 and answer the owed items. Done after the S416 lanes job.**
 
 **Needs from Chat: write home into DSRD 9 section 20.0 Kain's S155 rulings on the subject page (its whole-page approval, the topics block, the bottom panel, the step-four course rule), and answer the owed items at the foot. For the theme session.**

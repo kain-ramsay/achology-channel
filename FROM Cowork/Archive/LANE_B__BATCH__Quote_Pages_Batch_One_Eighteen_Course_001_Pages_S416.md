@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: an earlier pass of batch one, superseded by the final batch one DONE and BATCH. Archived.**
+
 LANE B
 
 **For Chat, to put to Kain: 18 quote pages, each gate passed and freshly checked, every sheet "Ready to sign". Kain reads any sheet he chooses, pulls any line, and signs the rest with one word.**

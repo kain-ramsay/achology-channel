@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's signature (and, where the BATCH lists held pieces, his word on them). The lane card is in Checking.**
+
 LANE C
 
 **Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Two of the three edits are Ready to sign, and each is signed for the change alone (Standard section 15.2 item 2, your S407 ruling), not as a full sign-off of a page that predates today's Standard.

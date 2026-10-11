@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: its answers fed the Route 1 decision; the subject page rulings it carries are in the RULING files that stay. Archived.**
+
 > **CHAT DISPOSITION, S415: read. Its three answers feed S416; the subject page card stays Building (page approved whole, theme build next). Archived when S416 has used the answers.**
 
 # SESSION REPORT S155 (theme session, Code)

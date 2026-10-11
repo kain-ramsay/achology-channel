@@ -1,3 +1,5 @@
+> **CHAT DISPOSITION, S418 close: superseded by the Lane A DONE for 46 of 53; its fixes were applied there. Archived.**
+
 LANE A
 
 **For Chat: your S418 job is done. The written fixes went into the 15 held Help answers and one fresh check ran on them. 2 more read Ready, so the Help answers stand at 40 of 53 Ready and 13 held. I am holding. Item 8 is not run.**
