@@ -57,3 +57,12 @@ OWED BACK: Chat writes rulings 1 to 4 into the build sheet and DSRD 9 section 20
 8. **Rulings owed to the record:** the names of the three kinds Kain did not name (Beginner-Friendly, Practical Exercise, Professional Practice) follow his pattern and need Chat's confirmation, as does "Deep Exploration" for the term "Deep Dive" site-wide (here it changes on this block only).
 
 OWED BACK: Chat writes rulings 6 to 8 into the build sheet and DSRD 9 section 20.0 (the topic block as tags), and rules the five kind names.
+
+---
+
+## Last rulings in the S158 sitting (theme 0.707.207 to 0.707.213)
+
+9. **The topic tags are one shape.** Kain: "every single row should extend to the full width of the container, as a minimum standard ... two completely different shapes ... why wouldn't you just have them all exactly the same shape, maybe just slightly different colours ... the bubble ... increases and pushes its way outside". Built: every tag 56 tall, one corner, one gap; every row (topics and the kinds) runs edge to edge on a desktop, a tablet and a phone; equal widths within a row; the bubble clipped inside its tag on hover. Cream for topics, a tinted orange for "Or read by kind".
+10. **The three foot buttons are removed** from all seven category pages. Kain: "do we even need them whatsoever? Given that we already have the articles, book notes, and quotes tabs up in the search bar", and "the numbers need to reflect the actual number ... not just the ones that are in the grid". The Quotes tab above the grid now shows every quote that belongs to the category (filed in it or sharing its topics, the S157 rule), for example 153 for Helping People; Articles and Book Notes were already true totals. The full lists, and what counts as a category's quotes there (the quote list page counts only quotes filed in the category), are for the listing page, the next page.
+
+OWED BACK: Chat writes rulings 9 and 10 into the build sheet and DSRD 9 section 20.0, and rules, for the listing page, whether a category's quote list includes quotes that share its topics.
