@@ -25,6 +25,8 @@
 
 11. (Added S419.) `BRIEF__Sweep_Out_Every_Doctor_And_Helpline_Line_All_Lanes_S419`: remove every sentence that sends a reader to a doctor, therapist or helpline from your own record types, as that brief lists them. Pure removal. File the exact words removed. **DONE 11 October 2026 (S419), filed as `LANE_A__DONE__Doctor_And_Helpline_Sweep_61_Records_Changed_S419.md` and `LANE_A__LOG__Doctor_Helpline_Sweep_Words_Removed_S419.md` in FROM Cowork (61 records changed).** **EXTENDED TO THE HELP ANSWERS at Kain's yes, DONE 11 October 2026: `LANE_A__DONE__Help_Answer_Doctor_Sweep_25_Records_Changed_S419.md` and `LANE_A__LOG__Help_Answer_Doctor_Helpline_Sweep_Words_Removed_S419.md` (25 of 375 changed).**
 
+12. (Added S419, after item 11 was done.) `NOTE__Lane_A_Rulings_And_Next_Jobs_After_The_Sweep_S419`: Jobs 1 to 3 in order. Read the note first; it answers your DONE.
+
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*

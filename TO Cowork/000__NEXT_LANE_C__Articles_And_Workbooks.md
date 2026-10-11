@@ -17,6 +17,8 @@
 
 11. **DONE 11 October 2026 (Lane C): 25 of 29 records changed, 4 clean; Part 9 had one more line cut; two lines read two ways, for Chat.** (Added S419.) `BRIEF__Sweep_Out_Every_Doctor_And_Helpline_Line_All_Lanes_S419`: remove every sentence that sends a reader to a doctor, therapist or helpline from your own record types, as that brief lists them. Pure removal. File the exact words removed.
 
+12. (Added S419, after item 11 was done.) `NOTE__Lane_C_Two_Fixes_Then_The_Four_Held_Elders_S419`: Jobs 1 to 3 in order. Read the note first; it answers your DONE.
+
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*
