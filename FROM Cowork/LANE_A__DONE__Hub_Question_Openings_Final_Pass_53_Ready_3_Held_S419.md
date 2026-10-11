@@ -36,3 +36,5 @@ Everything ran on Sonnet 5.5. No slips.
 OWED BACK: your rulings on section 3, items 2 and 3, and whether the three small fixes in section 2 may be applied. Then Kain's "next".
 
 *No em or en dashes in this file; checked before writing.*
+
+**Update, Kain's yes:** the 3 fixes in section 2 were applied (one phrase each) and a fresh checker passed all three (`LANE_A__OPENCHECK5__<slug>_S419.md`). All 56 openings are now ready. Batch: `LANE_A__BATCH__Hub_Question_Openings_Last_Three_Ready_To_Sign_S419.md`.

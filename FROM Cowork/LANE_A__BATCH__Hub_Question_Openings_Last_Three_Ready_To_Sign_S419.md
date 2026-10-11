@@ -6,8 +6,8 @@ LANE A
 
 **What is being signed.** The opening of each article below (the text before its first heading). Each had one phrase changed from the written fix, then was read by a fresh checker who did not change it. Other gate failures elsewhere on these pages are older and untouched.
 
-1. Is CBT the same as mindfulness, and how do they differ? (`mindfulness-vs-cbt.md`)
-2. Is there a CBT app that works, and what can it do for you? (`cognitive-behavioural-therapy-app.md`)
-3. Should I be a life coach? (`should-i-be-a-life-coach.md`)
+1. How does CBT compare with ACT, REBT and mindfulness? (`mindfulness-vs-cbt.md`)
+2. Can an app or AI do CBT as well as a person can? (`cognitive-behavioural-therapy-app.md`)
+3. What makes a good life coach, and could you be one? (`should-i-be-a-life-coach.md`)
 
 *No em or en dashes in this file; checked before writing.*
