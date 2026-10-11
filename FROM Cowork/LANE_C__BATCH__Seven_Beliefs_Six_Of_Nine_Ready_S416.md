@@ -1,3 +1,7 @@
+LANE C
+
+**WITHDRAWN, 11 October 2026 (Lane C): do not sign this list.** The Standard became Version 15 (Part 3 rule 2), Kain said yes to reworking the openings, and the six parts below were rewritten and re-checked: none now reads Ready to sign (Part 1: 3 things, Part 2: 5, Part 3: 6, Part 4: 2, Part 6: 2, Part 7: 2; the small fixes are written on each sheet). See `LANE_C__DONE__Version_15_Openings_Reworked_One_Of_Thirteen_Ready_S416`. Kept below for the record only.
+
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Kain's signature (and, where the BATCH lists held pieces, his word on them). The lane card is in Checking.**
 
 LANE C
