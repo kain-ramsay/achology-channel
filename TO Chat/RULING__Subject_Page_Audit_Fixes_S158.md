@@ -66,3 +66,28 @@ OWED BACK: Chat writes rulings 6 to 8 into the build sheet and DSRD 9 section 20
 10. **The three foot buttons are removed** from all seven category pages. Kain: "do we even need them whatsoever? Given that we already have the articles, book notes, and quotes tabs up in the search bar", and "the numbers need to reflect the actual number ... not just the ones that are in the grid". The Quotes tab above the grid now shows every quote that belongs to the category (filed in it or sharing its topics, the S157 rule), for example 153 for Helping People; Articles and Book Notes were already true totals. The full lists, and what counts as a category's quotes there (the quote list page counts only quotes filed in the category), are for the listing page, the next page.
 
 OWED BACK: Chat writes rulings 9 and 10 into the build sheet and DSRD 9 section 20.0, and rules, for the listing page, whether a category's quote list includes quotes that share its topics.
+
+---
+
+## Ruling 11, end of S158: the Knowledge Hub order of works, from now to complete
+
+Kain's words: "propose a defined actual order of works ... to having all of the templates that we need to have finalized in this knowledge hub so that this knowledge hub can essentially be complete", then, when the workbook page was missing from the first proposal: "the workbook page hasn't been signed off either. That is not complete. So where's that on your list?", then "yes" to the corrected order below. Kain also confirmed: "we run this gate at the start of the next session."
+
+**The order** (one page per sitting, Kain looking in Safari, as ruled at S152; the Hub order of works of S152 is "Workbook first"):
+
+1. Next session opens with `page_gate.py` on the seven category pages through Google Chrome (method in BRIEF__Subject_Page_Wall_Saved_Copy_S158), read only, true results reported in plain words.
+2. **The workbook page sitting.** Replace the stand-ins with Kain's approved Ladder of Inference copy in the draft page (post 40321); the layout rule for "Where This Workbook Comes From" (the course image left, level with the second paragraph's first line); two or three inside pages of the workbook as pictures; the form asks for email only; build the thank-you page (its content specified with Kain before the form is built); the Kit cookie question (DSRD 3 section 6.5) answered; Chat's metadata words; gate it and open its record (it has none). Needs the factory session's `BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412` (the phrase count and the workbook exception).
+3. The subject pages' close-out: records, Chat's Rank Math words (BRIEF OWED BACK 3 and 4), the prototype fold-back.
+4. The article, book note and quote pages: close their records (Chat's `BRIEF__Author_Name_Hover_And_Article_Picture_Alt_From_Chats_Page_Read_S414` first).
+5. The listing page (its faults; how many quotes a category's list shows, so the counts agree across the site).
+6. The all topics page (the tags index): Kain's look, the four family icons ruled.
+7. The topic page (the 36 tag pages), measured on one example.
+8. The Knowledge Hub front page (/learn/): Kain's look, the Kit form and its cookie answer.
+9. The search results page, the only Knowledge Hub template not yet built (DSRD 9 section 38; after the front page because both use the subject card).
+10. Hub sign-off: the readiness board shows every Hub template record with no failing and no not-run line, Chat's metadata is in, Kain walks it, the card is marked done.
+
+**Complete means:** every Hub template record reads pass or an approved exception; the 386 articles and 150 book notes clear through their worked examples (DSRD 6 section 0, the exemplar route), not by hand.
+
+State at S158 close, from the readiness board: subject page 0 closed, 6 open, 5 fail; listing page 0 closed, 8 open, 3 fail; article 0 closed, 7 open, 2 fail; book note 0 closed, 6 open, 3 fail; quote 0 closed, 5 open, 1 fail; workbook page, tag pages: not measured, no record; front page and tags index: not on the board; search results page: no template.
+
+OWED BACK: Chat adds this order to the master plan and rebuilds the queue to match; names which of its owed words (metadata, kind names, quote-list rule, the icons, the thank-you page) each sitting waits on.
