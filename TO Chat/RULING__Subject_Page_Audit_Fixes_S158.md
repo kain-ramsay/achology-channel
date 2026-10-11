@@ -47,3 +47,13 @@ All on main, deployed to the build site, verified on all seven live category pag
 5. **Process.** Kain restated that design changes come as rendered options to choose from ("our standard is that you present me with three or four different options"), and that the Claude should lead and be proactive, not ask for a word on obvious fixes.
 
 OWED BACK: Chat writes rulings 1 to 4 into the build sheet and DSRD 9 section 20.0 (the foot's three buttons, the tile's corner count tab, the one subheading), and retires the seven purpose lines in 20.0a.
+
+---
+
+## Final S158 rulings (theme 0.707.200 to 0.707.206)
+
+6. **Topic names on cards, then dropped with the cards.** Kain: "there must always be more characters in the bottom line than what there are in the top ... Develop Emotional Intelligence ... just needs to be develop emotional IQ." Built and measured (24 of 32 names met the rule; eight cannot with their words, which Kain accepted: "Yes, they're fine"). Superseded the same day by ruling 7; "Develop Emotional IQ" is kept.
+7. **The topic block is one block of tags for every topic, the same on all seven category pages.** Kain: "Rather than having inconsistency in design across this block ... build all topics ... make this one block navigatable throughout all topics ... rather than having cards for each, we just have tags ... stretch the extent of the entire column ... we don't need descriptions ... research-based articles, deep exploration articles." Built: 31 topics then the five kinds of article under the names "Research-Based Articles", "Deep Exploration Articles", "Beginner-Friendly Articles", "Practical Exercise Articles", "Professional Practice Articles", thirty-six tags in six even rows (three across on a tablet, two on a phone). The per-category topic lists of DSRD 2 section 1.3.3 no longer drive this block (they still drive the quote pool). Look chosen: cream, "option two, cream, is great", with the Achology bubble mark behind each name as in the Categories bar, "really subtle ... more prominent ... as it's been hovered over".
+8. **Rulings owed to the record:** the names of the three kinds Kain did not name (Beginner-Friendly, Practical Exercise, Professional Practice) follow his pattern and need Chat's confirmation, as does "Deep Exploration" for the term "Deep Dive" site-wide (here it changes on this block only).
+
+OWED BACK: Chat writes rulings 6 to 8 into the build sheet and DSRD 9 section 20.0 (the topic block as tags), and rules the five kind names.
