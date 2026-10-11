@@ -26,3 +26,5 @@
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*
+
+13. (Added S419, late.) Read NOTE__Lane_B_Answers_To_Your_Open_Questions_S419.md. It answers everything your reports left open. Do it with item 12.
