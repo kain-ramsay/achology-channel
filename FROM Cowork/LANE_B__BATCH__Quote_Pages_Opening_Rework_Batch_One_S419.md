@@ -13,7 +13,7 @@ LANE B
 
 **Echoes:** none on any page; nothing after the opening pointed back to the old scenes. **Quotes, titles, keywords, addresses and every other line: unchanged.**
 
-**One removal for Kain's eye.** CQ001-017-1 no longer has the 61-word help line paragraph that stood after its opening (the page's S416 sheet records it). The foot lists the exact words. That paragraph came out under Version 16/17 Part 7 rule 15; the page is not in the mental-wellness help row list, so it carries no `help_line | foot` row. Please say if it should.
+**One removal for Kain's eye.** CQ001-017-1 no longer has the 61-word help line paragraph that stood after its opening (the page's S416 sheet records it). The foot lists the exact words. That paragraph came out under Version 16/17 Part 7 rule 15; the page is filed under motivation, not mental-wellness, so it carries no `help_line | foot` row.
 
 **Waiting on Kain on every course 001 page:** the who-it-suits line (Part 13 rule 9).
 
