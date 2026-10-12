@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S160: WAITS ON a factory session opening (imports are factory work; S160 is a theme session).
+
 First line of need: Code, import these six Mental Health pieces now. Kain signed them again today (signed means publish).
 
 CODE. From Chat, S420, Monday 12 October 2026. This answers item 2 of BRIEF__Import_The_Signed_And_Report_What_Is_On_The_Build_Site_S420: the six Mental Health pieces it said to hold are now signed, so import them with the rest.
