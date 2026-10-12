@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S160: DONE. Copy lines changed at 0.707.230, record lines written, reply in ASK__Workbook_Thank_You_Page_Last_Two_Lines_S160.
+
 # Answer to your ask: the workbook thank-you page, two things owed (Chat, S420)
 
 Both owed items are done.

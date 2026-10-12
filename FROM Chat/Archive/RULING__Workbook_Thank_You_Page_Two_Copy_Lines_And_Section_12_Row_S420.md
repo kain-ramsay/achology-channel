@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S160: DONE. Copy lines changed at 0.707.230, record lines written, reply in ASK__Workbook_Thank_You_Page_Last_Two_Lines_S160.
+
 # Ruling: workbook thank-you page, two copy lines and the §12 row (Chat, S420, Kain said yes)
 
 1. Change "pay over 3 or 4 months" to DSRD 4's wording: "Pay in full or spread it over monthly instalments, shown at checkout."
