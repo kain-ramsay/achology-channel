@@ -4,11 +4,9 @@ You have kept to the safe option for a long time now, and lately it has started 
 
 ## An Idea That’s Worthy of Your Consideration
 
-This quote by Kain Ramsay was taken from his course, the Diploma Course in Modern Applied Psychology (DiMAP), in a lecture about the values behind our decisions. Just before it, he returns to what he calls the opportunity cost idea, which means that choosing one thing gives up another. If we choose red, he says, it's going to come at the cost of green, and if we choose green, it's going to come at the cost of red. The line you've just read places security on one side of that trade and freedom on the other.
+This quote by Kain Ramsay was taken from his [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), the Diploma Course in Modern Applied Psychology, in a lecture about the values behind our decisions. Just before it, he returns to what he calls the opportunity cost idea, which means that choosing one thing gives up another. If we choose red, he says, it's going to come at the cost of green, and if we choose green, it's going to come at the cost of red. The line you've just read places security on one side of that trade and freedom on the other.
 
-He then reverses the idea: if we choose freedom, it's got to come at the cost of security. Neither choice comes without a price, which is the whole point of the idea, and neither is presented as the correct one for everybody. You can hear how he develops it, step by step, in [the DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/).
-
-Here is who that course is for. The Diploma Course in Modern Applied Psychology suits people who want a full, practical grounding in how people think, feel and change, and who are happy to study over many hours at their own pace. It may not suit you if you want a short introduction.
+He then reverses the idea: if we choose freedom, it's got to come at the cost of security. Neither choice comes without a price, which is the whole point of the idea. Neither is presented as the correct one for everybody, so the line describes a cost and gives no instruction.
 
 ## What the Quote Might Be Suggesting to Us
 
