@@ -15,7 +15,7 @@ RULES THAT CHANGED (Kain, S420):
 - Warm, personable, a little provocative, a pleasure to read. Erika's tone. "I" now and then; never an invented story or credential.
 - No selling. The course appears once, in the source sentence: full name plain, then its nickname linked once. The who-it-suits line is NOT on quote pages. Cancel every earlier note about it.
 - No filler. A sentence a reader could lose with nothing missed is cut. No "the line makes no claim about that", no hedging pairs ("one possibility, another possibility").
-- The source gets one sentence. No lecture titles, no "the lecture says" paragraphs.
+- The source gets one sentence. The page is about the quote, never the lecture or lesson it came from (Kain, S420): the words lecture, lesson and recording do not appear in the body, and the course content is not retold. Judge by sense, not by word search: does the sentence help a reader who has never seen the lecture understand the quote? Re-read the exemplar (updated S420) and the Standard 17.5 Filler bullet. Any page you have already written: take these out before filing.
 - Keep the gate's bands: headings locked, paragraphs 3 to 4 sentences and 50 to 120 words, Flesch 60 to 70, closing question 79 to 89 characters, the quoted person not narrated ("Kain says" fails: quote him directly). The exemplar passes every line except the signature.
 
 CHECK: a fresh checker who did not write the page fills the Part 19 sheet AND answers the eight questions in the skill's "The check", in words, quoting the lines it relies on. A page is Ready only if every answer is yes. Passing the gate alone is not Ready.
