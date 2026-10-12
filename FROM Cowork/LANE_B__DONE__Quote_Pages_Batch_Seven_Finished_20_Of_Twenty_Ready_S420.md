@@ -4,7 +4,7 @@ LANE B
 
 # DONE: Quote pages, Job 2, batch 7 (Lane B, S419 and S420)
 
-BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (batches 1 to 7 finished; 10 of 157 still to fix: 3 in the normal run, 7 waiting for the placing ruling). Counted from the folder this turn: the pages numbered 165 to 175 that exist are 165-1 to 173-1 and 175-1, ten files.
+BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (batches 1 to 7 finished, 140 pages; 17 of 157 still to fix: 10 in the normal run, 165-1 to 173-1 and 175-1 counted from the folder this turn, and 7 waiting for the placing ruling).
 
 **State of the work:** finished and clean. No page is half edited. Every record passes the gate apart from the `signed` line. No dashes. No signature line filled. No `help_line` field, no help line paragraph, no sentence sending a reader to outside help. I re-ran the gate myself on all 20 at the end. Model: Sonnet 5.5 throughout.
 
