@@ -36,3 +36,5 @@
 14. (Added S420.) Read NOTE__All_Lanes_The_Help_Line_Is_Dropped_Everywhere_S420.md before your next job. **READ 12 October 2026 (S420); no action needed (no help line anywhere; none found).**
 
 15. (Added S420.) Read NOTE__Lane_A_Remove_Old_Help_Line_Wording_Sections_S420.md.
+
+16. (Added S420.) Read NOTE__Lane_A_34_Openings_Signed_Now_Finish_The_Bodies_S420.md.
