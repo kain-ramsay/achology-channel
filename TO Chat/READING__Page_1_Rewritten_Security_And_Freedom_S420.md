@@ -1,29 +1,41 @@
 # Why Security Comes at the Cost of Freedom
 
-You have kept to the safe option for a long time now, and lately it has started to feel less like caution and more like being stuck. The pay arrives on time and the days are entirely predictable, yet some part of you keeps wondering what else might have happened. Kain Ramsay puts the trade in one sentence: "If we choose security, it's going to come at the cost of freedom."
+Think back to the last time you did something unpredictable, not a holiday or a new restaurant, but something with a real chance of going wrong. If the answer takes you a while, that's worth noticing. Kain Ramsay has a sentence for that feeling: "If we choose security, it's going to come at the cost of freedom."
 
 ## An Idea That’s Worthy of Your Consideration
 
-This quote by Kain Ramsay was taken from his [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), the Diploma Course in Modern Applied Psychology, in a lecture about the values behind our decisions. Just before it, he returns to what he calls the opportunity cost idea, which means that choosing one thing gives up another. If we choose red, he says, it's going to come at the cost of green, and if we choose green, it's going to come at the cost of red. The line you've just read places security on one side of that trade and freedom on the other.
+This quote by Kain Ramsay was taken from his [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), and its first part helps clarify the second. "If we choose security" is the condition, and "it's going to come at the cost of freedom" is the bill. I like the little word "if", because nobody is ordering you to choose security, yet the line points out that you are choosing it, even on the days when it feels like simply being sensible.
 
-He then reverses the idea: if we choose freedom, it's got to come at the cost of security. Neither choice comes without a price, which is the whole point of the idea. Neither is presented as the correct one for everybody, so the line describes a cost and gives no instruction.
+Most of us are brought up to want security, and most of the time that's sound advice. A steady income, a roof over your head and a plan for next year are all good things, and the line doesn't sneer at any of them. What it does is turn the page over and show you the part nobody mentions at careers evenings, which is the price.
 
 ## What the Quote Might Be Suggesting to Us
 
-A trade has two sides, so it helps to name what each side costs. Choosing security can mean giving up the chance to try something that might not work, to say what you really think, or to discover what you could build. Choosing freedom can mean giving up a regular income, a familiar routine and the reassurance of knowing what next month will look like. Neither list tells you what to do, but once both are written down, you can see what you have been paying.
+Let's take the words one at a time, starting with "security". It's the reassurance of knowing roughly what tomorrow holds: the same wage on the same date, a job you could do in your sleep, a person who never surprises you; that reassurance is valuable, and I wouldn't want you to lose it. The trouble comes when protecting it becomes the reason behind every choice you make.
 
-Amara has been offered a place on a new project, although nothing promises that it will last. She's staying in her current role because her salary arrives on the same date every month. One possibility is that she's choosing security and giving up the chance to find out what the new project would ask of her. Another is that she's weighed that price and decided it's worth paying, which is a perfectly reasonable conclusion.
+Now "freedom", which isn't only the big dramatic kind. It's the room to say no, to try something you might fail at, to change your mind about what you want, or to say what you really think in a meeting. Every time you play it safe, a little of that room is handed over, and the odd thing is that you rarely feel it disappear, because nothing dramatic ever happens.
 
-The lecture doesn't stop at the trade; it questions what that security is really worth. Kain asks whether we really think certainty gives us security, and what in life we can be certain of. He also asks: "Are you staying in a job or a role just because it gives you a little bit of security?" Both questions press on a single point, which is whether the protection you pay for with your freedom is as reliable as it feels.
+Then there's "cost", and it's the right word. A cost isn't a punishment; it's simply what you surrender in order to obtain something you want. Take the predictable road and you give up the opportunities that only come with not knowing, and take the open road and you give up the reassurance. Neither is free, so pretending otherwise only makes the bill larger.
 
-Just before the line, Kain mentions Shalom's interpretation of values, which this page takes to be the work of Shalom Schwartz. In a 2012 paper, [Schwartz and colleagues](https://doi.org/10.1037/a0029393) arranged 19 values in a ring, ordered by which motivations fit together and which conflict, with self-protection set against growth. Across 15 samples from 10 countries (6,059 participants), the order largely held. The paper doesn't use the words security or freedom, but the pull between protecting yourself and growing is close to the one Kain's line describes.
+Psychologists who study values have noticed the same pull. In a 2012 paper, [Schwartz and colleagues](https://doi.org/10.1037/a0029393) ordered 19 values on a ring by which motivations fit together and which conflict, with self-protection set against growth. Across 15 samples from 10 countries, that order largely held. The paper doesn't use the words security and freedom, but the tug between protecting yourself and growing is a close cousin of Kain's line.
+
+Picture Amara, who has been offered a place on an exciting new project that might not last. She stays put, because her salary lands on the same date every month. Her security is real, and so is the project she'll never find out about. Whether that's a good trade depends on what she wants the next five years of her life to feel like, and only she gets to decide.
+
+Here's where the lecture turns provocative. Kain asks whether we really believe that certainty gives us security, and what in life we can be certain of. If your answer is "not much", the security you've been paying for with your freedom may be considerably thinner than it appears, and that is a difficult thing to notice.
+
+Is the line always true? Not quite, because some security buys freedom: savings let you walk away from a bad job, and a valuable skill lets you say no. The cost appears when your security depends on staying where you are, since the longer you remain, the more expensive it becomes to leave. That's the kind Kain's line has in its sights.
 
 ## What Can We Learn From the Idea That ‘Choosing Security Costs Freedom’?
 
-In Achology's view, nobody is standing still. Everyone is heading somewhere, and what you say yes to and what you postpone each day is taking you there, whether you chose it or not. Seen that way, choosing security is one direction among several, and the line simply names its price. It's easier to follow the loudest voice in the room than to work out for yourself where your life should go, which is why the price so often goes unexamined.
+First, you are always choosing, even when you appear to be standing still. In Achology's view, nobody really stands still: what you say yes to and what you put off each day is taking you somewhere, whether you picked the destination or not. Staying put is a direction like any other, with a price like any other.
 
-Kain's own answer leans towards freedom: if we want the best, he says, we've got to pursue freedom instead of security. He separates two kinds, though. We can be free recklessly, he says, or we can be free wisely, with intentionality and purpose, governed by direction and meaning. In Achology's view a direction can be changed today, so the first step can be fairly modest: recognise the price, then choose on purpose.
+Second, freedom needs a destination. In the same lecture, "if we want the best, we've got to pursue freedom instead of security", though Kain separates two kinds: we can be free recklessly, or free wisely, with intentionality and purpose. Freedom with no direction is just drifting with the door open, while freedom with a direction is a decision.
+
+None of this means handing in your notice tomorrow. A direction can be changed today, and the first step can be as modest as naming what your safe choice is costing you. Once the price is on the table, you get to pay it deliberately, which feels very different from paying automatically.
 
 ## A Question That Deserves an Honest Answer
 
-The price of a safe choice usually goes unsaid, because nothing forces anyone to say it. Writing the price down brings it into view, and seeing it doesn't commit you to changing anything. All it settles is that, from this point onwards, you understand which trade you're making. Where in your life have you chosen safety without asking what it cost you in freedom?
+Most of us never see the price of a safe choice, because nothing in ordinary life makes us look. Looking requires a pen and five quiet minutes, and it commits you to nothing at all. Seeing the price doesn't mean changing the choice; it means knowing which choice you're making. Where in your life have you chosen safety without asking what it cost you in freedom?
+
+---
+
+**Put this into practice.** This week, when you're about to choose the safer of two options, write down what each one would cost you, in your own words. Then choose on purpose and say aloud why. Notice which cost was easier to write, and which one you'd skipped over until you saw it on paper.
