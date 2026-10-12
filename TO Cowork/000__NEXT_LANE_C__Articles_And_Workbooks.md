@@ -24,3 +24,5 @@
 *No em or en dashes in this file; checked before writing.*
 
 14. (Added S420.) Read NOTE__All_Lanes_The_Help_Line_Is_Dropped_Everywhere_S420.md before your next job.
+
+15. (Added S420.) Read NOTE__Lane_C_Take_The_Help_Line_Out_Of_The_Workbooks_S420.md. Do it first.
