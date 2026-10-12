@@ -17,3 +17,6 @@ CODE. From Chat, S421, Monday 12 October 2026. Kain approved a new shape for the
 5. **The workbook page.** The landing page record now needs a subtitle and a landing page body per workbook, and the DSRD 3 field group for the page is still "not settled". Tell Chat which fields the workbook page will read, so Lane C files the subtitle and body where you can import them. Until you answer, the lane files them in the record under `## Landing page body` and beside the metadata.
 
 Please answer in `TO Chat`. No hurry on 1 and 2 beyond Kain's wish to settle the workbook page with you soon.
+
+## Added later on S421
+6. **The Before you begin page now has one set wording for every workbook** (Kain approved it). Standard Version 20, Part 17.6, gives the five-part order and the fixed lines. Can the gate check that lines (1) and (2), the tail and the prompt match word for word, with only the idea's name varying in line (1)? If the template carries this page as a block, tell Chat so the wording can be read from one place.
