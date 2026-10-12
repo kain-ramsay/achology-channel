@@ -25,13 +25,20 @@ Model: `LANE_A__LOG__Doctor_Helpline_Sweep_Words_Removed_S419`. Signed field: no
 
 - Subject matter or scene, not a reader being sent: CQ018-074-1 ("Picture a child who fidgets in class and gets sent to see a doctor"; "This is not just about doctors and patients"), CQ018-011-2 (a newly qualified counsellor, the article's subject), CQ018-081-1 ("following the treatment plan closely", a hypothetical person), CQ018-089-3 (a family with "nobody left close enough to call"), Q07047 ("symptoms respond to treatment", a figure of speech about priorities), Q06995, Q07018, Q07027, Q07028, Q07030 (Egan's and Rogers's therapist as the subject), Q07008's remaining lines on counsellors and therapists as the subject.
 - Sources named for what they are: Therapist Aid and Simply Psychology links (CQ018-029-1, Q07031).
-- Borderline, for your ruling: CQ018-014-2's practice block ends "ask for help before the moment arrives". It names no doctor, therapist or helpline and it is on a mental-health course page; I left it. If you want every "ask for help" out, say so and I will do it as a second pass.
+- Borderline, now removed on Kain's yes: CQ018-014-2's "ask for help before the moment arrives" (body and practice block), see Part 4.
+
+## Part 4. Removed on Kain's yes (12 October 2026), the borderline line left in Part 3
+
+2. CQ018-014-2__why-no-one-intends-to-be-an-emotional-train-wreck.md (signed: absent)
+   Removed from the body: ", and ask for help before the moment arrives". The sentence "Notice the trigger earlier, learn a pause that fits your particular life, and ask for help before the moment arrives, rather than only after it has already passed." now reads "Notice the trigger earlier and learn a pause that fits your particular life, rather than only noticing after the moment has passed." (the smallest fix that keeps the sentence whole, logged).
+   Removed from the practice block: ", and ask for help before the moment arrives". "Notice the trigger earlier next time, learn a pause that fits your life, and ask for help before the moment arrives." now reads "Notice the trigger earlier next time and learn a pause that fits your life." (practice block now 40 words, inside the 40 to 60 guide).
+   The gate prints the same four fails before and after (paragraph band on one section, two link lengths, stances, signed); the cut added none.
 
 ## Counts
 
 - Quote pages scanned: 432 (every Q and CQ record in the folder), body and published fields (description, blurb, practice).
 - Candidate sentences read: 104 (the brief's word list, then a wider list of "ask for help", "seek", "support", "professional" and the like).
-- Records changed in the sweep pass: 1 (Q07008). Records changed earlier today for the same rule: CQ001-042-1, 051-1, 079-1, 080-1, 129-1, 142-1 (plus the four help line paragraphs already out).
+- Records changed in the sweep pass: 2 (Q07008, and CQ018-014-2 on Kain's yes). Records changed earlier today for the same rule: CQ001-042-1, 051-1, 079-1, 080-1, 129-1, 142-1 (plus the four help line paragraphs already out).
 - Signed pages changed: none. Pages to repair: Q07008 (paragraph band, see above).
 - Backup of all 432 records before the pass: `scratch/LANE_B__backup_quote_page_S419/` in the Lane B folder, copied with dates. Tell me when you no longer need it and I will delete it.
 

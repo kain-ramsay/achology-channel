@@ -19,10 +19,10 @@ BOARD: Quote pages (the 157 drafted course 001 pages), Lane B's share NOT done (
 ## 2. For you
 
 1. **For repair:** Q07008's paragraph is now two sentences. The page already breached the paragraph band in eight places before, and now nine, so it needs the editorial pass; I did not add to it.
-2. **Borderline, your ruling (yes or no is enough):** CQ018-014-2's practice block ends "ask for help before the moment arrives". It names no doctor, therapist or helpline. I left it. Say "remove" and I will.
+2. **Borderline, done on Kain's yes (12 October):** CQ018-014-2's "ask for help before the moment arrives" is out of its body and its practice block. The exact words are in Part 4 of the LOG. That makes two records changed in the sweep pass, not one.
 3. **Next in my run list:** Job 2, the normal run of the 30 pages still to fix, in batches of 20 under Version 17, each filed before the next (item 6, batch 7). On the next "next".
 
-OWED BACK: your ruling on question 2, if you want it removed.
+OWED BACK: nothing.
 
 COWORK | Batch: quote page doctor and helpline sweep (432 records read, 1 changed) | Drafted: 1 of 1 | Gate and evaluator: not run, as the brief says (pure removal) | Checked: not applicable | Skipped: none | Outside brief: none
 
