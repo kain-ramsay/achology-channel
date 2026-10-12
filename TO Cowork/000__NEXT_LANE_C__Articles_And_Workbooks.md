@@ -29,6 +29,6 @@
 
 16. **DONE 12 October 2026 (Lane C), closed by Chat S421:** the four rulings in `NOTE__Lane_C_Rulings_On_Your_Three_Questions_S420` were run from the note; the result is `LANE_C__DONE__Version_18_Held_Fixes_Four_Workbooks_Ready_Stages_Defence_GK04_Held_S420`. Do not run again.
 
-17. (Added S421, run this first.) Read `BRIEF__Rewrite_Learn_As_Three_Pages_In_All_Twenty_Workbooks_S421.md`. This item is the first ten workbooks the brief names (Six Domains, Maslow, Rogers, Id Ego Superego, Karpman, Perceptual Positions, Human Givens, Pygmalion, Human Experiential Model, Who Am I). Code waits on these.
+17. **DONE 12 October 2026 (Lane C): 7 of 10 Ready to sign, batch list filed; Karpman (2), Perceptual Positions (1) and Human Givens (1) held with fixes written, three passes used.** (Added S421, run this first.) Read `BRIEF__Rewrite_Learn_As_Three_Pages_In_All_Twenty_Workbooks_S421.md`. This item is the first ten workbooks the brief names (Six Domains, Maslow, Rogers, Id Ego Superego, Karpman, Perceptual Positions, Human Givens, Pygmalion, Human Experiential Model, Who Am I). Code waits on these.
 
 18. (Added S421.) The same brief, the other ten workbooks it names (Choice Theory, ABCDE, Transference, Kohlberg, Stages of Human Connection, Defence Mechanisms, Bloom's, Ikigai, Johari Window, Ladder of Inference). Runs on the next 'next' after item 17 is done.
