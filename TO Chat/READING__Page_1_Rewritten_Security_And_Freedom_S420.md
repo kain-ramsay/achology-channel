@@ -4,7 +4,7 @@ Think back to the last time you did something unpredictable, not a holiday or a 
 
 ## An Idea That’s Worthy of Your Consideration
 
-This quote by Kain Ramsay was taken from his [DiMAP course](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/), and its first part helps clarify the second. "If we choose security" is the condition, and "it's going to come at the cost of freedom" is the bill. I like the little word "if", because nobody is ordering you to choose security, yet the line points out that you are choosing it, even on the days when it feels like simply being sensible.
+This quote by Kain Ramsay was taken from his course, the Diploma Course in Modern Applied Psychology ([DiMAP](/academy/neuro-linguistic-programming/diploma-modern-applied-psychology/)), and its first part helps clarify the second. "If we choose security" is the condition, and "it's going to come at the cost of freedom" is the bill. I like the little word "if", because nobody is ordering you to choose security, yet the line points out that you are choosing it, even on the days when it feels like simply being sensible.
 
 Most of us are brought up to want security, and most of the time that's sound advice. A steady income, a roof over your head and a plan for next year are all good things, and the line doesn't sneer at any of them. What it does is turn the page over and show you the part nobody mentions at careers evenings, which is the price.
 
