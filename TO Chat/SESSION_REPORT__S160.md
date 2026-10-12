@@ -17,7 +17,7 @@ Finished:
 - The page gate reads 48 passed, 2 failed (DSRD 1 address; the record's reader lines), both Chat's: ASK__Workbook_Thank_You_Page_Shipped_Two_Things_Owed_S160. Kain signed the page off in Safari; chapters 10 and 11 pass.
 - 0.707.230 and 0.707.231: the two copy lines changed on Kain's yes via Chat (175 lectures; DSRD 4's payment sentence); 720 banner copies for phones (PageSpeed mobile 77, site-wide causes only, the S141 exception). Record chapters 2, 3, 5, 6, 9 written. Card: Workbook page template.
 
-Not finished:
+- The thank-you page: DONE on the gate, 50 passed, 0 failed, the DSRD 6 record 11 of 11 closed (0.707.232 title "Thank You | {site}"; chapter 4 schema per Chat's DSRD 3 row, validator 0 errors). 0.707.233: the four course points in Kain's own words, gate re-run clean; Chat to note against its chapter 1 line. Card: Workbook page template.
 - The thank-you page: built, gate passes every page line; the record is open on two lines, both Chat's: chapter 1 (its re-read of the two changed copy lines) and chapter 4 (DSRD 3 has no schema row for the page type). ASK__Workbook_Thank_You_Page_Last_Two_Lines_S160.
 - Job 23's browser checks on the seven subject pages (its report, section 7) and its four rulings: not run.
 - Job 21: no branch yet; its cloud session is still running.
