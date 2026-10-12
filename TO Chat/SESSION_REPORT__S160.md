@@ -25,3 +25,4 @@ Finished:
 - Media gate: 296 old quote card files (80.2 MB) loose on the server, not made this session; Kain, S160: leave them for the factory session (hand added).
 - The site-wide speed fix held for pre-launch on Kain's ruling: RULING__Site_Wide_Speed_Fix_Held_For_Pre_Launch_S160 (hand added).
 - Kain ruled the Ladder workbook filler; the workbook page is finished next on one of the ten Cowork workbooks he is improving: RULING__Ladder_Is_Filler_Ten_Workbooks_Next_S160 (hand added).
+- Component trigger noted on Kain's yes: the path cards, the closing box and the book band become components when a second page needs one (hand added).
