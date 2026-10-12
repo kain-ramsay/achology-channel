@@ -25,14 +25,14 @@
 
 11. (Added S419.) `BRIEF__Sweep_Out_Every_Doctor_And_Helpline_Line_All_Lanes_S419`: remove every sentence that sends a reader to a doctor, therapist or helpline from your own record types, as that brief lists them. Pure removal. File the exact words removed. **DONE 11 October 2026 (S419), filed as `LANE_A__DONE__Doctor_And_Helpline_Sweep_61_Records_Changed_S419.md` and `LANE_A__LOG__Doctor_Helpline_Sweep_Words_Removed_S419.md` in FROM Cowork (61 records changed).** **EXTENDED TO THE HELP ANSWERS at Kain's yes, DONE 11 October 2026: `LANE_A__DONE__Help_Answer_Doctor_Sweep_25_Records_Changed_S419.md` and `LANE_A__LOG__Help_Answer_Doctor_Helpline_Sweep_Words_Removed_S419.md` (25 of 375 changed).**
 
-12. (Added S419, after item 11 was done.) `NOTE__Lane_A_Rulings_And_Next_Jobs_After_The_Sweep_S419`: Jobs 1 to 3 in order. Read the note first; it answers your DONE.
+12. (Added S419, after item 11 was done.) `NOTE__Lane_A_Rulings_And_Next_Jobs_After_The_Sweep_S419`: Jobs 1 to 3 in order. Read the note first; it answers your DONE. **JOB 1 DONE 12 October 2026 (S420), filed as `LANE_A__DONE__Item_12_Job_1_Rulings_Repairs_And_Help_Answer_Check_S420.md`; Jobs 2 and 3 not yet run.**
 
 *Chat adds new items at the foot and moves nothing already started.*
 
 *No em or en dashes in this file; checked before writing.*
 
-13. (Added S419, late.) Read NOTE__Lane_A_Answers_To_Your_Open_Questions_S419.md. It answers everything your reports left open. Do it with item 12.
+13. (Added S419, late.) Read NOTE__Lane_A_Answers_To_Your_Open_Questions_S419.md. It answers everything your reports left open. Do it with item 12. **DONE 12 October 2026 (S420) within the Job 1 DONE.**
 
-14. (Added S420.) Read NOTE__All_Lanes_The_Help_Line_Is_Dropped_Everywhere_S420.md before your next job.
+14. (Added S420.) Read NOTE__All_Lanes_The_Help_Line_Is_Dropped_Everywhere_S420.md before your next job. **READ 12 October 2026 (S420); no action needed (no help line anywhere; none found).**
 
 15. (Added S420.) Read NOTE__Lane_A_Remove_Old_Help_Line_Wording_Sections_S420.md.
