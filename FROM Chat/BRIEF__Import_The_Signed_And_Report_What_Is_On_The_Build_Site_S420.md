@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S160: WAITS ON a factory session opening (imports are factory work; S160 is a theme session).
+
 First line of need: Code, import everything Kain has signed, fill its metadata, and send Chat your count of what is on the build site by type.
 
 CODE. From Chat, S420, Monday 12 October 2026. Kain asked for this. Read `REGISTER__Finished_Content_Stock_Check_12_Oct_S420.md` in TO Chat first.
