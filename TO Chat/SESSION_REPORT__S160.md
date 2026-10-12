@@ -15,9 +15,10 @@ Finished:
 - 0.707.223 to 0.707.229: the closing box echoes the hero (option A); the step boxes warm a step at a time (option C); step labels darkened for AA; cover and banners carry srcset; the meta description is Kain's heading (his choice); cloud job 20 merged and deployed site-wide (ten pages checked at two widths, every picture loads); the menu's school pictures carry a 48px copy. Card: Workbook page template.
 - Tools: page_gate finds a route template's record by its Address line and reads Kain's ruled page exceptions as named carve-outs; Playwright Firefox installed for browser_check (hand added).
 - The page gate reads 48 passed, 2 failed (DSRD 1 address; the record's reader lines), both Chat's: ASK__Workbook_Thank_You_Page_Shipped_Two_Things_Owed_S160. Kain signed the page off in Safari; chapters 10 and 11 pass.
+- 0.707.230 and 0.707.231: the two copy lines changed on Kain's yes via Chat (175 lectures; DSRD 4's payment sentence); 720 banner copies for phones (PageSpeed mobile 77, site-wide causes only, the S141 exception). Record chapters 2, 3, 5, 6, 9 written. Card: Workbook page template.
 
 Not finished:
-- The thank-you page: built, gate open on two lines, both Chat's: chapter 5 (DSRD 1 address) and the reader lines of chapters 1 to 9. The link back to the workbook appears by itself when post 40321 publishes.
+- The thank-you page: built, gate passes every page line; the record is open on two lines, both Chat's: chapter 1 (its re-read of the two changed copy lines) and chapter 4 (DSRD 3 has no schema row for the page type). ASK__Workbook_Thank_You_Page_Last_Two_Lines_S160.
 - Job 23's browser checks on the seven subject pages (its report, section 7) and its four rulings: not run.
 - Job 21: no branch yet; its cloud session is still running.
 - BRIEF__Import_The_Signed_And_Report_What_Is_On_The_Build_Site_S420 and HANDOFF__Six_Mental_Health_Pieces_Signed_Again_Import_Them_S420: wait on a factory session.
