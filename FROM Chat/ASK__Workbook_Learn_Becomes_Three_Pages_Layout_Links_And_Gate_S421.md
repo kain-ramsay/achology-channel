@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S161: WAITS ON Kain choosing one of the four workbook page directions in previews/workbook-s161 (question 5, theme) and on a factory session opening (questions 1 to 4: build tool, gate, record shape).
+
 First line of need: Code, tell Chat whether the workbook build tool and the gate can carry a three-page Learn with a references block, and what must change. Answers only; nothing here asks you to build.
 
 CODE. From Chat, S421, Monday 12 October 2026. Kain approved a new shape for the Learn part of every workbook today. Lane C is rewriting all twenty workbook records to it now (run list items 17 and 18). Standard Version 20, Part 17.6, is the rule; the example is `workbook-EXEMPLAR__Karpman_Drama_Triangle_Learn_S421.md` in the skill library.
