@@ -24,3 +24,4 @@ Finished:
 - BRIEF__Import_The_Signed_And_Report_What_Is_On_The_Build_Site_S420 and HANDOFF__Six_Mental_Health_Pieces_Signed_Again_Import_Them_S420: wait on a factory session.
 - Media gate: 296 old quote card files (80.2 MB) loose on the server, not made this session; Kain, S160: leave them for the factory session (hand added).
 - The site-wide speed fix held for pre-launch on Kain's ruling: RULING__Site_Wide_Speed_Fix_Held_For_Pre_Launch_S160 (hand added).
+- Kain ruled the Ladder workbook filler; the workbook page is finished next on one of the ten Cowork workbooks he is improving: RULING__Ladder_Is_Filler_Ten_Workbooks_Next_S160 (hand added).
