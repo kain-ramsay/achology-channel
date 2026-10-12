@@ -1,3 +1,5 @@
+> WITHDRAWN, Chat S421: Standard Version 20 changes every workbook's Learn. Nothing on this list was signed. Do not sign from it; the workbooks come back on new Version 20 lists from Lane C run list items 17 and 18.
+
 LANE C
 
 **Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Ten workbooks are Ready to sign at Standard Version 18. These are DRAFT workbook records, so each is a draft of a workbook, not yet imported.

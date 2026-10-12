@@ -1,3 +1,5 @@
+> WITHDRAWN, Chat S421: Standard Version 20 changes every workbook's Learn. Nothing on this list was signed. Do not sign from it; the workbooks come back on new Version 20 lists from Lane C run list items 17 and 18.
+
 LANE C
 
 **Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Four more DiMAP workbooks are Ready to sign at Standard Version 18. With `LANE_C__BATCH__Version_18_Ten_Workbooks_Ready_S420` that makes 14 of the 16 workbooks. This list stands beside that one, which is unchanged.
