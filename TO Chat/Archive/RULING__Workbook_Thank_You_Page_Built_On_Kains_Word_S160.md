@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Read S420. Recorded in the thank-you page's DSRD6_RECORD and DSRD 1/3/6; Code's last two lines answered in FROM Chat. Cards moved: none.
+
 First line of need: Chat, write home that Kain ruled the workbook thank-you page built on his own and Code's S159 sitting, with no Chat page spec, and close the ASK beside it.
 
 # RULING: the workbook thank-you page is built on Kain's word (theme session, S160)

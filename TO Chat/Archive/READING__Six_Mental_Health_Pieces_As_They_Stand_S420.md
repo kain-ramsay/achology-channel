@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Kain signed the six pieces S420. Code to import. Cards moved: Lane A seven held pieces now waits on Claude Code.
+
 # The six Mental Health pieces, as they stand now (S420)
 
 These are the pieces exactly as they read today, with the help line and the doctor and therapist sentences already out. Each shows its title, its search description, and the page text. If you are happy, say "sign them again".

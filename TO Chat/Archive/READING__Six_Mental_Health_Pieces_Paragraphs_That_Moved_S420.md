@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Kain signed the six pieces S420. Code to import. Cards moved: as above.
+
 # Six Mental Health pieces: the paragraphs that moved (S420)
 
 Only the paragraphs that changed are shown. The new wording is in bold where it differs from the old. The search descriptions you already approved are not repeated. Everything else in the six pieces is exactly as you read it.

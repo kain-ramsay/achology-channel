@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Approved by Kain S420 as the quote page exemplar; the current copy lives in the skill library (quote-page-EXEMPLAR). Cards moved: Quote page method rebuilt stamped.
+
 # Why Security Comes at the Cost of Freedom
 
 Think back to the last time you did something unpredictable, not a holiday or a new restaurant, but something with a real chance of going wrong. If the answer takes you a while, that's worth noticing. Kain Ramsay has a sentence for that feeling: "If we choose security, it's going to come at the cost of freedom."

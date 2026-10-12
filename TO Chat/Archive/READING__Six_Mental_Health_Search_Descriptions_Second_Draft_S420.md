@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Kain signed the six pieces S420. Cards moved: as above.
+
 # Six Mental Health search descriptions, second draft (S420)
 
 Each line now says what the reader will find in the article. Nothing is changed in the records yet.

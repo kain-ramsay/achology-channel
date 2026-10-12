@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Superseded S420: the quote page method was rebuilt and the pages are being redone by Lane B; this reading is out of date. Cards moved: Lane B redo card is the replacement.
+
 # Course quote pages for your signature: set 1 (S420)
 
 Each page below is in full, as it will appear. A fresh checker who did not write it has read it at Standard Version 18. Tell me the numbers you want changed or held, and say "sign the rest" for everything else.

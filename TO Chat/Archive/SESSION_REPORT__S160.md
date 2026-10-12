@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Read S420. Its open points (two copy lines, DSRD 3 row, section 12 row, DSRD 1 address) are done or answered in FROM Chat. Cards moved: none (Code names its own).
+
 # SESSION REPORT S160 (theme session)
 
 12 October 2026. From the git log (theme main, 37aa422 to the S160 fold-back commit), plus hand-added lines marked.

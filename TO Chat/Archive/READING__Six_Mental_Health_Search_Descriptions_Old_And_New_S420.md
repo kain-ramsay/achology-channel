@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Settled by Kain S420 (second draft used). Cards moved: as above.
+
 # Six Mental Health search descriptions: old and new (S420)
 
 Nothing is changed in the records yet. Each new line opens with the answer, stays under 155 characters, keeps the search phrase near the start, and says only what its article says.

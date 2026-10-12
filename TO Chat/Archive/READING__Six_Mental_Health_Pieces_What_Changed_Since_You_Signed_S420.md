@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S420): Kain signed the six pieces S420. Code to import. Cards moved: as above.
+
 # Six Mental Health pieces: what is different since you signed them (S420)
 
 You signed these pieces on Sunday. For these six, sentences have since been removed (the doctor, therapist and help line sentences, under your new standard). Below, for each piece, are the exact sentences taken out, and anything added. Nothing else changed in the body. If you are happy, say "sign them again".
