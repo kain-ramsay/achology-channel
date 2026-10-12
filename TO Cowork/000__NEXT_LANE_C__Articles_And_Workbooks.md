@@ -25,4 +25,4 @@
 
 14. (Added S420.) Read NOTE__All_Lanes_The_Help_Line_Is_Dropped_Everywhere_S420.md before your next job.
 
-15. (Added S420.) Read NOTE__Lane_C_Take_The_Help_Line_Out_Of_The_Workbooks_S420.md. Do it first.
+15. **DONE 12 October 2026 (Lane C): 72 notes marked superseded in 16 workbooks, fresh Version 18 checks 10 of 16 Ready, batch list filed; 6 held with fixes written.** (Added S420.) Read NOTE__Lane_C_Take_The_Help_Line_Out_Of_The_Workbooks_S420.md. Do it first.
