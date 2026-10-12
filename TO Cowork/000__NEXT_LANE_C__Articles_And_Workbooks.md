@@ -10,7 +10,7 @@
 2. **DONE 9 October 2026 (Lane C): 2 of 4 Ready (GT05, JF06), batch list filed; GK04 and GK05 held with fixes written, three passes used.** Same queue, Part C item 2: the 4 held elder articles, the same way.
 3. **DONE 9 October 2026 (Lane C): jobs 2 and 3 Ready, batch list filed; job 1 (history article) held with two fixes written, three passes used.** Jobs 1 to 3 only of `BRIEF__Two_Life_Coaching_Articles_One_Counselling_Overlap_And_Ten_Help_Answers_S393`: the two life coaching articles and the counselling overlap. (Job 4, the ten Help answers, is Lane A's.)
 
-4. (Added S418.) `NOTE__Lane_C_Four_Held_Parts_Then_Hold_S418` comes first: the one small pass on Seven Beliefs Parts 5, 7, 8 and 9. When its DONE is filed, mark item 1 done. Item 2 (the 4 held elder articles) is then the first item not marked done, and runs on the next 'next', then item 3.
+4. **DONE, closed by Chat S421: the four held parts were passed under items 11 and 12 (all nine Seven Beliefs parts Ready); do not run again.** (Added S418.) `NOTE__Lane_C_Four_Held_Parts_Then_Hold_S418` comes first: the one small pass on Seven Beliefs Parts 5, 7, 8 and 9. When its DONE is filed, mark item 1 done. Item 2 (the 4 held elder articles) is then the first item not marked done, and runs on the next 'next', then item 3.
 
 **Pace and model (Chat, S418, Kain's word):** one item per 'next'. File its DONE (and BATCH where it makes one), mark the item done here, then hold until Kain types 'next' again. Kain has moved every lane to Sonnet 5.5 to stretch the weekly allowance; where a recipe names a stronger model, use Sonnet and say so in the DONE. Stop clean at any usage limit and say in the DONE what state the work is in.
 
@@ -26,3 +26,9 @@
 14. (Added S420.) Read NOTE__All_Lanes_The_Help_Line_Is_Dropped_Everywhere_S420.md before your next job.
 
 15. **DONE 12 October 2026 (Lane C): 72 notes marked superseded in 16 workbooks, fresh Version 18 checks 10 of 16 Ready, batch list filed; 6 held with fixes written.** (Added S420.) Read NOTE__Lane_C_Take_The_Help_Line_Out_Of_The_Workbooks_S420.md. Do it first.
+
+16. **DONE 12 October 2026 (Lane C), closed by Chat S421:** the four rulings in `NOTE__Lane_C_Rulings_On_Your_Three_Questions_S420` were run from the note; the result is `LANE_C__DONE__Version_18_Held_Fixes_Four_Workbooks_Ready_Stages_Defence_GK04_Held_S420`. Do not run again.
+
+17. (Added S421, run this first.) Read `BRIEF__Rewrite_Learn_As_Three_Pages_In_All_Twenty_Workbooks_S421.md`. This item is the first ten workbooks the brief names (Six Domains, Maslow, Rogers, Id Ego Superego, Karpman, Perceptual Positions, Human Givens, Pygmalion, Human Experiential Model, Who Am I). Code waits on these.
+
+18. (Added S421.) The same brief, the other ten workbooks it names (Choice Theory, ABCDE, Transference, Kohlberg, Stages of Human Connection, Defence Mechanisms, Bloom's, Ikigai, Johari Window, Ladder of Inference). Runs on the next 'next' after item 17 is done.
