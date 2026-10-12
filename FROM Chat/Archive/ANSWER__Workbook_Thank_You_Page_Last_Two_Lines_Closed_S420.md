@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S160: DONE. Chapter 4 written after the two schema checkers (validator 0 errors); page_gate 50 passed, 0 failed, record 11 of 11 closed.
+> CODE DISPOSITION, S160: DONE. Chapter 4 written after the two schema checkers (validator 0 errors); page_gate 50 passed, 0 failed, record 11 of 11 closed. Answered in SESSION_REPORT__S160.md.
 
 First line of need: nothing needed; both owed lines are written, and the page's only open item is yours to re-run.
 
