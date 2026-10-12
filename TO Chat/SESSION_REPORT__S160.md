@@ -12,10 +12,13 @@ Finished:
 - The page's DSRD 6 record written in the Workbook Thank You Page design folder, machine half filled by the sweep, four exceptions Kain approved in the sitting recorded (hand added: the exceptions section). Card: Workbook page template.
 - Fold-back (Rule 14): the approved live page exported to the design folder as PROTOTYPE__Workbook_Thank_You_Page_APPROVED.html, replacing the S159 file (hand added; design folder, not the theme).
 - Post 40321 (Ladder of Inference workbook) course set to DiMAP, course page 33506, read back (hand added; install data).
-- Ship brief and the two things owed: ASK__Workbook_Thank_You_Page_Shipped_Two_Things_Owed_S160.
+- 0.707.223 to 0.707.229: the closing box echoes the hero (option A); the step boxes warm a step at a time (option C); step labels darkened for AA; cover and banners carry srcset; the meta description is Kain's heading (his choice); cloud job 20 merged and deployed site-wide (ten pages checked at two widths, every picture loads); the menu's school pictures carry a 48px copy. Card: Workbook page template.
+- Tools: page_gate finds a route template's record by its Address line and reads Kain's ruled page exceptions as named carve-outs; Playwright Firefox installed for browser_check (hand added).
+- The page gate reads 48 passed, 2 failed (DSRD 1 address; the record's reader lines), both Chat's: ASK__Workbook_Thank_You_Page_Shipped_Two_Things_Owed_S160. Kain signed the page off in Safari; chapters 10 and 11 pass.
 
 Not finished:
-- The thank-you page: built, gate open: chapter 3 (meta description, Chat's words), chapter 5 (DSRD 1 address and trail, Chat; the draft workbook link resolves when post 40321 publishes), the human chapters (1, 6, 8, 10 and 11's eye lines).
+- The thank-you page: built, gate open on two lines, both Chat's: chapter 5 (DSRD 1 address) and the reader lines of chapters 1 to 9. The link back to the workbook appears by itself when post 40321 publishes.
 - Job 23's browser checks on the seven subject pages (its report, section 7) and its four rulings: not run.
 - Job 21: no branch yet; its cloud session is still running.
 - BRIEF__Import_The_Signed_And_Report_What_Is_On_The_Build_Site_S420 and HANDOFF__Six_Mental_Health_Pieces_Signed_Again_Import_Them_S420: wait on a factory session.
+- Media gate: 296 old quote card files (80.2 MB) loose on the server, not made this session; Kain, S160: leave them for the factory session (hand added).
