@@ -20,7 +20,7 @@ Psychologists who study values have noticed the same pull. In a 2012 paper, [Sch
 
 Picture Amara, who has been offered a place on an exciting new project that might not last. She stays put, because her salary lands on the same date every month. Her security is real, and so is the project she'll never find out about. Whether that's a good trade depends on what she wants the next five years of her life to feel like, and only she gets to decide.
 
-Here's where the lecture turns provocative. Kain asks whether we really believe that certainty gives us security, and what in life we can be certain of. If your answer is "not much", the security you've been paying for with your freedom may be considerably thinner than it appears, and that is a difficult thing to notice.
+Now press on the word "security". Do we really believe that certainty gives us security, and what in life can we actually be certain of? If your answer is "not much", the security you've been paying for with your freedom may be considerably thinner than it appears, and that is a difficult thing to notice.
 
 Is the line always true? Not quite, because some security buys freedom: savings let you walk away from a bad job, and a valuable skill lets you say no. The cost appears when your security depends on staying where you are, since the longer you remain, the more expensive it becomes to leave. That's the kind Kain's line has in its sights.
 
@@ -28,7 +28,7 @@ Is the line always true? Not quite, because some security buys freedom: savings 
 
 First, you are always choosing, even when you appear to be standing still. In Achology's view, nobody really stands still: what you say yes to and what you put off each day is taking you somewhere, whether you picked the destination or not. Staying put is a direction like any other, with a price like any other.
 
-Second, freedom needs a destination. In the same lecture, "if we want the best, we've got to pursue freedom instead of security", though Kain separates two kinds: we can be free recklessly, or free wisely, with intentionality and purpose. Freedom with no direction is just drifting with the door open, while freedom with a direction is a decision.
+Second, freedom needs a destination. Freedom can be reckless or it can be wise, and the wise kind comes with intentionality and purpose. Wanting to escape from somewhere is not the same as wanting to arrive somewhere in particular. Freedom with no direction is just drifting with the door open, while freedom with a direction is a decision.
 
 None of this means handing in your notice tomorrow. A direction can be changed today, and the first step can be as modest as naming what your safe choice is costing you. Once the price is on the table, you get to pay it deliberately, which feels very different from paying automatically.
 
