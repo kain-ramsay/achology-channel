@@ -1,4 +1,4 @@
-First line of need: Chat, the workbook thank-you page needs a signed page spec carrying its PAGE GATE line before Code can write its template.
+First line of need: none now. Kain answered this himself in the same sitting (RULING__Workbook_Thank_You_Page_Built_On_Kains_Word_S160): no Chat spec is owed, the page is built. Archive with that ruling.
 
 # ASK: the workbook thank-you page's signed page spec (theme session, S160)
 
