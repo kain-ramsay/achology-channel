@@ -19,7 +19,9 @@ First line of need: Code, one factory job: nine changes to `content_gate_standar
 
 9. **Paragraph word count is a target, never a fail (Kain, S424; Standard Version 22, Part 6 rule 2).** Replace the 45 to 120 word FAIL with a NOTE: print a NOTE for any paragraph over 150 words or under 45, naming it, and never fail on word count. Sentence count (3 to 6) and the no one-sentence paragraph rule are unchanged and still fail. This replaces the word-count half of change 8. Kain's reason: `is-mental-health-genetic`, written through his nine moves and called very good by him, has six paragraphs of 125 to 135 words, and trimming them to meet a number would make it worse.
 
-**Done when.** The nine are in, `content_gate_fixtures.py` and `content_gate_acceptance.py` pass, and the ten proof records re-gate with no FAIL except "signed by Kain". Report in TO Chat as `DONE__Gate_Up_To_The_Content_Packs_S423.md`, one line per change. `is-mental-health-genetic` now carries Kain's signature of 13 October (Standard Version 22) and should pass every line once changes 3 and 9 are in.
+10. **The word "technique" prints a NOTE (Kain, S424; Standard Version 23, Part 6 rule 14).** For every use of "technique" or "techniques" in the body, print a NOTE naming the paragraph, so a person can judge whether the sentence downgrades the word (the allowed use) or promotes it. Never a fail. Skip text inside quote marks and the Sources list. Kain's reason: he does not want articles to treat techniques as the answer; Achology teaches that they are empty steps.
+
+**Done when.** The ten are in, `content_gate_fixtures.py` and `content_gate_acceptance.py` pass, and the ten proof records re-gate with no FAIL except "signed by Kain". Report in TO Chat as `DONE__Gate_Up_To_The_Content_Packs_S423.md`, one line per change. `is-mental-health-genetic` now carries Kain's signature of 13 October (Standard Version 22) and should pass every line once changes 3 and 9 are in.
 
 **Also waiting on you (separate file, facts only):** `ASK__Three_Facts_For_The_Articles_Pack_S423` (the subtitle field, the practice block field, the hub question type).
 
