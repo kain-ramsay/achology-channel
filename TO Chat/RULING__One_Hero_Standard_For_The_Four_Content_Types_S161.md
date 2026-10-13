@@ -24,6 +24,16 @@ Kain, S161: "the titles, the subtitles are all completely different lengths. The
 - **The quote page's band picture is the quote card** (the page's own downloadable quote picture) in the speech bubble, shown whole on the card's cream, the bubble line behind it.
 - **The workbook joins the dark band** with its email box in the band.
 
+## 2A. The content frame is 984, with the panel (Kain, S161, locked)
+
+Kain reopened his S147 ruling that fixed the reading column at 800, saw four frame widths and a no-panel view on all four content types (`previews/hero-s161/`, WebKit-measured), and ruled: **"option C, nine eight four, which is medium column width, with the panel. We're going to have to keep the panel ... we need to keep the table of contents."**
+
+- **The content frame is 984** (the band through the writing): the reading column **680** (about Medium's; 80 characters a line at 18), the 48 gap, the **256** panel with its table of contents. The text stays 18.
+- **The header and the footer never change** (Kain: "consistent, they cannot change"); only the content takes the frame.
+- **The hero is never stacked** (Kain: "I don't want the heroes ... stacked"): the unified hero, words left and picture right, stands at every width. At 984 the band's landscape picture is 280 wide.
+- The no-panel view was rejected: a left-aligned column with nothing beside it "looks silly", and centring it would break the one edge.
+- In the theme these are the width settings already held as tokens (base.css: --container-page, --container-hero, --container-article, --container-rail), moved together for the content and not for the header and footer. Code builds it in the next theme session, with the hero standard.
+
 ## 3. Also from the sitting, for the workbook page
 
 All held in TO Chat/SESSION_REPORT__S161.md: the six relevance notes (pinned post-its, Code's proposed shape: a two-to-four-word life area and one recognisable moment of 120 to 150 characters, six different areas, waiting on Chat's wording); the In short note in the column; the side panel as every Knowledge Hub page (the cover joins it once the band has gone, the email box under it, the hairline down its edge, 24 above the screen's foot, stopping 48 above the closing hairline); the whole page on the content page type standard (1104 frame, 800 column, body 18 at 1.75, every section heading Como 24 at 600).
