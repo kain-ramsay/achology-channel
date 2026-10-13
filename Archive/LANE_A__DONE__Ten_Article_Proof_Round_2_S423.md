@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: read; rounds 1 and 2 of the ten-article proof, superseded by round 3 and the nine-moves test. Board: no card moved. Archived with its brief.
+
 LANE A
 
 # DONE: Ten-article proof, round 2 (Tuesday 13 October 2026)

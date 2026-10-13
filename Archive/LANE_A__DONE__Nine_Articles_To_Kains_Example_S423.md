@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: read; Kain read the result and found it as vague as before, which led to the nine-moves file (PACK_01 file 06) and its one-article test. Superseded. Board: no card moved. Archived with its brief.
+
 LANE A
 
 # DONE: Nine articles brought up to Kain's example (Tuesday 13 October 2026)

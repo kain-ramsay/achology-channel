@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: stays. Waits on one fact: Kain reading is-mental-health-genetic (next session's first job). The writer's three questions on the moves file are answered after his read.
+
 LANE A
 
 # DONE: One article through Kain's nine moves (Tuesday 13 October 2026)
