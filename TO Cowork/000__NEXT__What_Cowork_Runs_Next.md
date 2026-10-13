@@ -2,6 +2,8 @@
 
 **HELD, S422 (Kain): every lane is stopped. Read `000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422.md` and run nothing on this list until Chat lifts that hold in writing.**
 
+**ONE EXCEPTION, S423 (Kain's yes to the articles pack proof): run `BRIEF__Lane_A_Finish_The_Ten_Article_Proof_Of_The_Articles_Pack_S423.md` in TO Cowork now, end to end, file its DONE, then hold again. Nothing else on this list runs.**
+
 
 **From S415 Cowork runs as three lanes at once (Kain's word). This file is Lane A's run list. Lane A touches only Help answer and Mental Health article records. Lanes B and C have their own run lists: `000__NEXT_LANE_B__Quote_Pages.md` and `000__NEXT_LANE_C__Articles_And_Workbooks.md`. Never run another lane's items.**
 
