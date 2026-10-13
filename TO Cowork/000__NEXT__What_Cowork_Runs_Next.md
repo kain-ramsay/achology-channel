@@ -8,8 +8,9 @@ Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Hel
 **Model for the seven proof articles (Chat's call, S424; Kain may overturn):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
 
 ## NEXT, one at a time, each after Chat checks the one before
-1. **The other proof articles through the nine moves, one at a time:** `grow-self-awareness`, `GK02__what-is-jungs-shadow`, `I13__self-awareness-starting-point-of-growth`, `PART_03__know-thyself`. (`AN01` waits on a word from Andrew Nelson or Kain.) Brief to come from Chat for each.
-2. **Then every article you carry, by subject:** hub question articles, field authority articles and hub guides, through the nine moves (PACK_01). Briefs to come, one subject at a time.
+1. **Fourth and fifth articles, `grow-self-awareness` and `GK02__what-is-jungs-shadow`, run together as one job after Chat checks the third (Kain, S424).** Brief ready: `BRIEF__Lane_A_Fourth_And_Fifth_Articles_Through_Kains_Nine_Moves_Grow_Self_Awareness_And_GK02_S424`. Chat marks it NOW when the third is checked; do not run it before.
+2. **Then, once Kain has read the fourth and fifth, volume:** the remaining proofs `I13__self-awareness-starting-point-of-growth`, `PART_03__know-thyself`. (`AN01` waits on a word from Andrew Nelson or Kain.) Brief to come from Chat for each.
+3. **Then every article you carry, by subject, at volume (Kain, S424: ramp up after the fifth):** hub question articles, field authority articles and hub guides, through the nine moves (PACK_01). Briefs to come, one subject at a time.
 
 ## HELD until the Help answers pack (PACK_04) is signed
 3. **Help answers:** the 13 Ready to sign after the doctor sweep (your BATCH of S420), the 13 held with fixes written (your Item 12 Job 1 DONE, S420), and `is-an-nlp-course-worth-it` (held from the 53). Re-checked through PACK_04, then to Kain.
