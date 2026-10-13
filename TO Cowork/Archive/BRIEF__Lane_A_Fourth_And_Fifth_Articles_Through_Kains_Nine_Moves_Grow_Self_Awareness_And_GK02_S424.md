@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S424): done; answered by LANE_A__DONE__Fourth_And_Fifth_Articles... (archived). Lane A card moved.
+
 First line of need: Lane A, two articles, one after the other in the same session, each end to end: `grow-self-awareness` (a hub guide) and `GK02__what-is-jungs-shadow` (an elder's instructor article). Rewrite each paragraph by paragraph with Kain's nine moves, check every paragraph against every move until none is missed, then stop. Kain's yes, Session 424.
 
 # BRIEF: fourth and fifth articles through Kain's nine moves (Chat, Session 424, Tuesday 13 October 2026)

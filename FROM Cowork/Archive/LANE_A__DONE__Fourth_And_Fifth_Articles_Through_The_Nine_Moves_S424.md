@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S424): acted on. Both articles read by Chat against the nine moves and sent to Kain as reading copies; Lane A card and run list updated; open points answered in the Lane A card. Archived.
+
 LANE A
 
 # DONE: Fourth and fifth articles through Kain's nine moves (Tuesday 13 October 2026)
