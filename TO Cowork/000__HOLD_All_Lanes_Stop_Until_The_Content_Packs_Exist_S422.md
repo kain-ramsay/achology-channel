@@ -8,4 +8,6 @@ ALL LANES (A, B and C). STOP. Run nothing, start nothing, finish nothing. Kain's
 
 **What happens to your run lists.** They are frozen, not cancelled. When the packs exist, Chat will rewrite each run list against them and lift this hold in writing. Until then, no record is changed by any lane.
 
+**Research-only work (Kain's yes, S422).** While the hold stands, a lane may run research-only jobs that change no content record: gathering the real questions people search for, building ranked source lists, and later running the checker over existing records to count common faults. Each such job comes only as a written research brief from Chat, named on your run list. Until a brief is there, hold. No content record is written, edited or signed under this permission.
+
 *No em or en dashes in this file; checked before writing.*
