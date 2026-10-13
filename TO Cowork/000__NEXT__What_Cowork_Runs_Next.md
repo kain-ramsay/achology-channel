@@ -1,5 +1,8 @@
 # LANE A run list: Help answers and Mental Health articles (kept by Chat)
 
+**HELD, S422 (Kain): every lane is stopped. Read `000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422.md` and run nothing on this list until Chat lifts that hold in writing.**
+
+
 **From S415 Cowork runs as three lanes at once (Kain's word). This file is Lane A's run list. Lane A touches only Help answer and Mental Health article records. Lanes B and C have their own run lists: `000__NEXT_LANE_B__Quote_Pages.md` and `000__NEXT_LANE_C__Articles_And_Workbooks.md`. Never run another lane's items.**
 
 **Kain's word, S412, widened S413:** whenever you finish a job, and whenever Kain types **next** in Cowork, open this file, run the first item not marked done, mark it done here with the date when you file its DONE, then come back here for the next one. Hold only when every item is done. Nobody pastes your jobs to you (The Shared Rules, section 6, Version 11). Chat keeps the order; Cowork only marks items done.

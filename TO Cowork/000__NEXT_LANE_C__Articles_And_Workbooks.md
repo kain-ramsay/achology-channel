@@ -1,5 +1,8 @@
 # LANE C run list: articles and workbooks already drafted (kept by Chat)
 
+**HELD, S422 (Kain): every lane is stopped. Read `000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422.md` and run nothing on this list until Chat lifts that hold in writing.**
+
+
 **From S415 Cowork runs as three lanes at once (Kain's word).** Whenever Kain types **next** in a Lane C chat, open this file, run the first item not marked done, mark it done here with the date when you file its DONE, then come back for the next. Hold only when every item is done. Chat keeps the order; you only mark items done.
 
 **Lane C touches only the records its items name: the Seven Beliefs parts, the elder articles, the life coaching articles and the workbooks.** Never open a Help answer, a Mental Health article or a quote page record: those belong to Lanes A and B, which may be running at the same moment. Never run another lane's run list.
