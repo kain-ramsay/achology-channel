@@ -5,6 +5,8 @@ Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Hel
 ## NOW
 **The second proof article through Kain's nine moves: `what-is-counselling`.** Brief: `BRIEF__Lane_A_Second_Article_Through_Kains_Nine_Moves_What_Is_Counselling_S424`. Kain read your first article and said it is very, very, very good; it is signed. Run only this one, file one DONE, then stop.
 
+**Model for the seven proof articles (Chat's call, S424; Kain may overturn):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
+
 ## NEXT, held until Chat checks the second article
 1. **The other proof articles through the nine moves, one at a time:** `learned-helplessness-experiment-the-psychology-of-helplessness`, `grow-self-awareness`, `GK02__what-is-jungs-shadow`, `I13__self-awareness-starting-point-of-growth`, `PART_03__know-thyself`. (`AN01` waits on a word from Andrew Nelson or Kain.) Brief to come from Chat for each.
 2. **Then every article you carry, by subject:** hub question articles, field authority articles and hub guides, through the nine moves (PACK_01). Briefs to come, one subject at a time.
