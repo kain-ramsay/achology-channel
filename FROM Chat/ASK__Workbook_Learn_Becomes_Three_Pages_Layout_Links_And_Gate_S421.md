@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S161: WAITS ON Kain choosing one of the four workbook page directions in previews/workbook-s161 (question 5, theme) and on a factory session opening (questions 1 to 4: build tool, gate, record shape).
+> CODE DISPOSITION, S161: WAITS ON a factory session opening (questions 1 to 4 and 6: build tool, gate, record shape). Question 5 answered in TO Chat/RULING__Workbook_Page_Title_Subtitle_And_Layout_S161.md, section 4.
 
 First line of need: Code, tell Chat whether the workbook build tool and the gate can carry a three-page Learn with a references block, and what must change. Answers only; nothing here asks you to build.
 
