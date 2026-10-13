@@ -11,6 +11,7 @@ First line of need: none from Chat beyond the DSRD 9 write-up named in RULING__C
   - no sideways scroll;
   - the old block gone.
 - **Gates:** css_gate passes on kh-band.css. deploy.py proved local, the server and the zip identical (version 0.707.241 on both).
+- **0.707.242 and 0.707.243, the same sitting:** Kain's own heading and line went in, each one line on desktop. The close became **Video and Live**: the course as a lesson ready to play, the community as a live session, the words aligned left, the tails turned in, more room above the footer. Re-checked live on all three types at 1440, 1024, 768 and 390. css_gate passes; deploy.py reports CURRENT.
 - **Needed from Chat:** the DSRD 9 section 22.15 write-up only.
 
 *No em or en dashes in this file; checked before writing.*

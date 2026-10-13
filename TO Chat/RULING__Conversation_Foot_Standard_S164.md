@@ -18,8 +18,16 @@ First line of need: Chat, write Kain's S164 rulings on the close of the three co
 - **No course matched:** the community bubble stands alone, centred, as the two paths did. Kain's open choice from S163 (a DiMAP fallback) is still his. It was not raised in the sitting, so nothing was changed.
 - **Lesson count and ratings:** shown. Kain ruled "the facts are really good, really like the facts on one line".
 
+## 2a. Later the same sitting: Video and Live, and Kain's own words (0.707.242 and 0.707.243)
+- **Kain's words, one line each on desktop:** the heading is "Ready to Further Your Learning?" and the line beneath is "You've finished this {type}. Choose how you'd like to continue: on your own or with like-minded others?"
+- **No more books.** Kain: "a diploma course ... is a course. And the community is a membership subscription ... these images would suggest that both are books." His choice of four: **Video and Live** ("that's totally the one we want").
+  - The course is a lesson ready to play: its own course-card artwork (images/courses/course-NNN-540.webp) in a player, with a play button, a progress line and the lesson count.
+  - The community is a session happening now: Kain's group picture (no text), a Live tag and three participant tiles.
+  - Both use the same frame. The background wash and the drawn community cover are retired.
+- **Also from Code's critique, accepted by Kain:** the words read from the left; the tails turn in toward each other; more room above the footer.
+
 ## 3. Where it lives
-`achology_close_conversation()` in knowledge-hub-parts.php; section 7 of kh-band.css; images/close-course-bg.webp and images/close-community-bg.webp.
+`achology_close_conversation()` in knowledge-hub-parts.php; section 7 of kh-band.css; images/close-community-bg.webp (close-course-bg.webp retired at 0.707.243).
 
 OWED BACK: DSRD 9 section 22.15 records section 2 as the close's standard; RULING__Contents_Lines_And_Foot_Conversation_S163 section 3 is answered by it.
 
