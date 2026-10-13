@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S163: WAITS ON a factory session importing the six Mental Health pieces (factory work; this theme session touches no import).
+
 First line of need: Code, when you import the six Mental Health pieces, import five and hold is-mental-health-genetic.
 
 # HOLD: is-mental-health-genetic is not to be imported yet (Chat, S423)
