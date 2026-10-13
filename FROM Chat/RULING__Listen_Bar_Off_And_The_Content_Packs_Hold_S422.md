@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S162: WAITS ON Kain's yes to the S162 hero build in the theme, which carries the listen bar removal (the facts line sits inside the bar and is rebuilt as its own line in that build).
+> CODE DISPOSITION, S163: WAITS ON the listen bar coming off every Help answer (single-faq_article.php still draws it). The quote page half shipped at 0.707.234, measured gone at five widths (SHIP__Hero_Soft_Light_S163 in TO Chat carries the owed-back line).
 
 First line of need: Code, take the listen bar off every quote page and Help answer before launch (Backlog: Code line 26), and hold the S421 audit's machine fixes (line 25) until the content type packs route them.
 
