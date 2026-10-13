@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: a model rule for the Project Instructions and the lane set-up, on Kain's yes. Waits on: the content type packs, before any lane restarts.
+
 > **CHAT DISPOSITION, S418 close: stays. It is the start of the Tools and connectors review, now a line on the Backlog: Chat card.**
 
 **Needs from Chat: read before the S416 decision; Kain wants a rule for which Claude model does which work ("I don't know if we're working optimally yet from a token usage perspective"), to write into the Project Instructions and the lane set-up on his yes. For the factory session.**

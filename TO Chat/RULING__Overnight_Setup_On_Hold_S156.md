@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: put the overnight finish-line question back to Kain with the lanes' output and usage. Waits on: the content type packs, since all lanes are held.
+
 **S417 disposition (Chat): stays. Waits on one fact: Kain's word once the lanes' output and usage are in. Chat puts the question back to him then.**
 
 **Needs from Chat: hold the finish-line rollout and the overnight proof until Kain has seen what the three lanes produce and what they cost; put the question back to him then. For the factory session.**

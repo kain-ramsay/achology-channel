@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: pure record of Chat's S420 stock check, overtaken by the S422 lane hold and the content type packs plan; nothing owed. Archived.
+
 # Stock check of finished content: what can go on the build site, Monday 12 October 2026 (S420)
 
 Read from the record files, the lanes' BATCH lists and check sheets, and the board. Not read from the install: Code's own count of what is already on the build site is still to come (the commission below asks for it). Where I have assumed something it says so.

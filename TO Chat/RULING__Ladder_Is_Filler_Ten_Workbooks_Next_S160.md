@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: write into DSRD 2 section 1.7 and DSRD 9 section 37 that the Ladder workbook (post 40321) is filler and the page is finished on one of the ten improved workbooks, then name the first signed one in Code's queue. Waits on: Kain signing the first workbook (held at S422 until the subtitles are redrafted).
+
 First line of need: Chat, write home that the Ladder of Inference workbook is filler, and that the workbook page is finished on one of the ten workbooks Cowork has written once Kain has improved them.
 
 # RULING: the Ladder of Inference workbook is filler; ten workbooks come next (theme session, S160)

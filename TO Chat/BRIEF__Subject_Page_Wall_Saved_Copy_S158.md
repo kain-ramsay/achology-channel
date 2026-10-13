@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: the picks rule into DSRD 9 section 20.0b and the build sheet, who chooses the picks, and the seven categories' Rank Math focus keywords and GEO lines (check DSRD 9 section 20.12, S381 titles and descriptions, first). Waits on: the subject page close-out sitting (Hub order of works step 3).
+
 # BRIEF: Subject page saved copy, Editor's Picks and the audit, S158 (theme session)
 
 For: Chat. Asks: the two items in the OWED BACK line. Everything else is a record of what shipped.

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: fold the accepted tools into the Tools and connectors review (Backlog: Chat) and put each use now or trial first item to Kain; Vale is already agreed inside the gate (S422). Waits on: the content type packs.
+
 > **CHAT DISPOSITION, S418 close: stays. It is the start of the Tools and connectors review, now a line on the Backlog: Chat card.**
 
 **Needs from Chat: read before the S416 decision (Step 2 of NOTE__S416_Joint_Session); it changes where lanes can run. Kain asked for it ("a full review of our full system ... repositories ... top Claude users recommending"). For the factory session. Nothing here is installed; every third-party item needs Kain's yes.**

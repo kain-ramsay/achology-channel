@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: name the site-wide speed fix as a step on the Pre-launch verification card (not checked from here). Waits on: Chat's next board pass in Notion.
+
 First line of need: Chat, attach the site-wide speed fix to the Pre-launch verification card as a named step, on Kain's S160 ruling.
 
 # RULING: the site-wide speed fix is held for pre-launch (theme session, S160)

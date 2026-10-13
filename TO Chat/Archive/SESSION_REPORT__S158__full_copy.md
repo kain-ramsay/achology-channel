@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: pure record; its open points sit on the Backlog: Code card (S418) and in BRIEF__Subject_Page_Wall_Saved_Copy_S158 and RULING__Subject_Page_Audit_Fixes_S158, which stay. Archived beside the earlier shorter copy.
+
 # SESSION REPORT S158 (theme session, Sonnet 5.5, 11 Oct 2026)
 
 Index of finished work for the board. Detail is in BRIEF__Subject_Page_Wall_Saved_Copy_S158 and RULING__Subject_Page_Audit_Fixes_S158 (both carry OWED BACK lines for Chat).

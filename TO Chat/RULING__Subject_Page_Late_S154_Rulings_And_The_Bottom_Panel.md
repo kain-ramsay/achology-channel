@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Sections 1 and 2 are already in DSRD 9 section 20.0. Owes Chat: plan with Kain which subject page components get their own folders (section 4). Waits on: the subject page close-out sitting.
+
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Chat's write of the subject page rulings (S155 and S157) into DSRD 9 section 20.0 and DSRD 8 section 6.0. Carried by choice: it changes no page, since the build sheet already carries them.**
 
 > **CHAT DISPOSITION, S415: read. Waits on one fact: Chat's reach into the DSRD folder, to write sections 1 and 2 into DSRD 9 section 20.0. Done with RULING__Subject_Page_S155 after the S416 lanes job.**

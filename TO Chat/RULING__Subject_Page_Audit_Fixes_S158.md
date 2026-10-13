@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: write rulings 1 to 10 into DSRD 9 section 20.0 and the build sheet, rule the kind names and the category quote-list rule, and add ruling 11's order of works to the plan. Waits on: Chat's write of the subject page rulings into DSRD 9 section 20.0 (still at its S414 text, page not yet marked approved).
+
 # RULING: Subject page audit fixes, S158 (theme session)
 
 Asks nothing of Chat except the OWED BACK line at the foot. For Chat to write into the owning documents (the build sheet's "Decided in S157" table).

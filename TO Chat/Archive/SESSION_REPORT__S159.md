@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: pure record; its open points are carried by REPORT__Subject_Page_Gate_S159 and RULING__Workbook_Page_S159, which stay. Archived.
+
 # SESSION REPORT S159 (theme session, Opus 5.5, 11 and 12 October 2026)
 
 Index of finished work for the board. Detail is in REPORT__Subject_Page_Gate_S159, RULING__Workbook_Page_S159 and ASK__Workbook_Page_Rank_Math_Words_S159 (all in TO Chat).

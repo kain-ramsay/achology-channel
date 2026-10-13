@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: retire DSRD 2 section 1.7 item 7, which still names this draft as the page's words; Kain's settled words in RULING__Workbook_Page_S159 section 4 replaced it. Waits on: that ruling's write-home into DSRD 2 section 1.7.
+
 # The workbook thank-you page: my draft words for blocks 3 to 8 (for Kain to read and change)
 
 Written by Chat, Monday 12 October 2026. Blocks 1 and 2 are your own words, already ruled. Anything in {curly brackets} changes for each workbook. Everything else is word for word the same on every workbook. I have used only facts already on record (DSRD 4 and your S159 rulings). No dashes, no doctor or therapy lines.

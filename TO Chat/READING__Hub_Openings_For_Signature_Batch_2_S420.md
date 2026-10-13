@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Waits on Kain: his reading and signature of hub openings 13 to 24.
+
 # Hub question article openings for your signature: batch 2 of 3 (S420)
 
 You are signing the opening of each article: the words before its first heading. Each was read by a fresh checker who did not write it, and each has had the doctor and therapist lines taken out. Read what you like. Tell me the numbers you want changed or held, and say "sign the rest" for everything else.

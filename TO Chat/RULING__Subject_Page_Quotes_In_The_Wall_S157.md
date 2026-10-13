@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: stays. Owes Chat: write quotes on the wall into DSRD 9 section 20.0 (grid item 4, the hidden-kinds line) and DSRD 8 section 6.0. Waits on: Chat's write of the subject page rulings into DSRD 9 section 20.0 (still at its S414 text, page not yet marked approved).
+
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Chat's write of the subject page rulings (S155 and S157) into DSRD 9 section 20.0 and DSRD 8 section 6.0. Carried by choice: it changes no page, since the build sheet already carries them.**
 
 **Needs from Chat: write this ruling into DSRD 9 section 20.0 (the grid, item 4, and the hidden-kinds line) and DSRD 8 section 6.0 (the quote card on the wall). For the theme session's record.**
