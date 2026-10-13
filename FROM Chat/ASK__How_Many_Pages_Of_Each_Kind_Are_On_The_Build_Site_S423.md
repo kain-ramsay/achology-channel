@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S163: WAITS ON a factory session counting the build site by kind (factory work; this theme session holds Kain in the page sweep).
+
 First line of need: Code, one count, for the Full Editorial List: how many pages of each kind are on the build site, and how many of them have a record in Content Records.
 
 # ASK: what is on the build site, by kind (Chat, S423)
