@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: section 1 and 2 written into DSRD 2 section 1.7 (read back). Stays for one fact: DSRD 9 section 37 is written when Kain finishes the workbook page design with Code (Backlog: Chat). Lane subtitle redraft held by the S422 lanes hold.
+
 First line of need: Chat, write Kain's S161 workbook page rulings into DSRD 2 section 1.7 and DSRD 9 section 37, and have the lanes redraft every workbook subtitle to the new subtitle standard.
 
 # RULING: the workbook page's title, subtitle and layout (theme session, S161)

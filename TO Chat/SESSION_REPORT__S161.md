@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: read; its rulings are handled under RULING__Workbook_Page_Title_Subtitle_And_Layout_S161. Stays until the S161 sitting finishes (Code's report says it continues).
+
 # SESSION REPORT S161
 
 Theme session, Opus 5.5, opened 12 Oct 2026. Claimed at the open; one line per piece of work, kept current through the session.
