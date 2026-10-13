@@ -21,6 +21,16 @@ First line of need: Chat, write Kain's S162 simplifications of the hero's date l
 - **The contents list's own 01, 02 numbers go too** (Kain: "yes"), so the three page types match; the entries take the whole row, as the article's already did.
 - Built as a small server-side wrap of each section title's first word, so it holds on every page that is imported; a title that opens with a tag is left as it is.
 
+## 3A. The contents panel's lines (Kain, S162: "the behind option is really quite nice ... the ecology bubble needs to be a lot smaller ... we need to lose the ecology bubble that's kind of popping in the bottom of the table of contents block")
+
+- Four options were rendered (marker, behind, on the rail, quiet); Kain chose **behind**. The card's bottom hairline, the thin rail beside the list and the faint large watermark at the foot of the contents are removed. The entry being read has a small Achology bubble (about 30 wide, faint) behind its first word, kept inside the panel (a first try reached past the panel's edge and was cut off). It follows the reading, in place of the orange bar.
+
+## 3B. The foot is full width, with no side panel (Kain, S162: "at the bottom of each page ... course cards and explore more articles ... consume the whole container without a side panel ... those two bottom sections underneath the actual article are full container width and don't come with a side panel")
+
+- The side panel ends where the reading ends, with its last item (the Amazon button on book notes and quote pages) at the foot of the reading. The author row (name and share icons), "Explore More ..." and "Ready to Take Your Learning Further?" with its course cards then run the whole 984 container, with no panel beside them.
+- **This reverses Kain's S146 ruling** that on a quote page the panel floats down to the hairline closing "Explore More Quote Articles" and runs across the right column; the panel's closing lines (knowledge-hub.js "0b" and the `--to-close` rules) go with it.
+- The small number above "Explore More ..." titles on book notes and quote pages goes too (the same numbers as the section titles).
+
 ## 4. Also confirmed, S162
 
 The hero list as a set, the 984 container, and the right-hand floating column staying: "I 100 per cent approve the container width. Um, I also think we still have opportunity to keep the right-hand floating column in place." Next, Kain wants the other components on these pages brought into the same alignment, one by one.
