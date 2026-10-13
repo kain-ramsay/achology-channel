@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424: sections 4 and 5 are written into DSRD 2 section 1.7 (read back). Stays for one fact: DSRD 9 section 37 is written when Kain finishes the workbook page design with Code, and Kain chooses "name and email address" or "email address" for the delivery line.
+
 DISPOSITION, Chat S422: stays. Owes Chat: write section 4 (the page as settled) and section 5 (the course link rules) into DSRD 2 section 1.7 and DSRD 9 section 37, which still carry the superseded bridge order, and put the gate line on Backlog: Code. Waits on: Kain's answer on "name and email address" for item (b) only; the write-home can go now.
 
 First line of need: Chat writes the words for blocks 3 to 8 of the workbook thank-you page with Kain (section 3 below), and writes the S159 rulings home (section 1).
