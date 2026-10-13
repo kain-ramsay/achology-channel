@@ -1,3 +1,4 @@
+DISPOSITION, Chat S423: written into DSRD 9 section 20.0c and read back; everything it still owes is in that section's open list. Archived.
 DISPOSITION, Chat S422: stays. Owes Chat: write rulings 1 to 6 into DSRD 9 section 20.0 (grid, responsive layers) and DSRD 8 section 6.0 (the quote card on the wall). Waits on: Chat's write of the subject page rulings into DSRD 9 section 20.0 (still at its S414 text, page not yet marked approved).
 
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Chat's write of the subject page rulings (S155 and S157) into DSRD 9 section 20.0 and DSRD 8 section 6.0. Carried by choice: it changes no page, since the build sheet already carries them.**

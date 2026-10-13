@@ -1,3 +1,4 @@
+DISPOSITION, Chat S423: written into DSRD 9 section 20.0c and read back; everything it still owes is in that section's open list. Archived.
 DISPOSITION, Chat S422: stays. Owes Chat: items 1, 2, 4 and 5 (step four course per category, the non-diploma button words, the band's Quotes and Workbooks links, three glyphs into DSRD 7 section 5.2). Waits on: Chat's write of the subject page rulings into DSRD 9 section 20.0 (still at its S414 text, page not yet marked approved).
 
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Chat's write of the subject page rulings (S155 and S157) into DSRD 9 section 20.0 and DSRD 8 section 6.0. Carried by choice: it changes no page, since the build sheet already carries them.**
