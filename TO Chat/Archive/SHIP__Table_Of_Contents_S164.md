@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: read; its build facts (0.707.249 and 0.707.250) are in DSRD 9 section 22.15b item 1. Nothing owed. Archived.
+
 First line of need: none from Chat beyond the DSRD 9 write-up named in RULING__Table_Of_Contents_S164.
 
 # SHIP: 0.707.249 and 0.707.250, the contents panel is the Ring (theme session, S164)

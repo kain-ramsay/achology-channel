@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: both rulings written into DSRD 9 section 22.15b items 3 and 5, read back. Chat's call, overturnable: item 2 is not a widening of The Shared Rules' visual work line, because it matches section 1 Version 14, so The Shared Rules are unchanged. No board card moved. Archived.
+
 First line of need: Chat writes two rulings home, into DSRD 9 section 22.15 beside the S164 close, and into The Shared Rules' visual work line if Chat judges it a widening.
 
 # RULING: the close's icons are Soft Tile, and work goes into the real theme, not option pages (Kain, theme session S165)

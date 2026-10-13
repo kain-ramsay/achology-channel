@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: read; its two rulings are written into DSRD 9 section 22.15b items 3 and 5. Stays for one fact: Code's theme session S165 is still open and the report is filled from its git log as changes land; Chat reads the final version when it closes.
+
 First line of need: none yet; the session is still open. Filled from the git log as each change set lands.
 
 # SESSION REPORT S165 (theme session)

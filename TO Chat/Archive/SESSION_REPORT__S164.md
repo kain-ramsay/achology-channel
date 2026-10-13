@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: read; its rulings are written into DSRD 9 section 22.15b. Nothing owed. Archived.
+
 First line of need: none beyond the DSRD 9 write-up owed by RULING__Conversation_Foot_Standard_S164.
 
 # SESSION REPORT: S164 (theme session, 13 October 2026)

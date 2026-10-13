@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: read; its build facts (0.707.241 to 0.707.243) are in DSRD 9 section 22.15b item 2. Nothing owed. Archived.
+
 First line of need: none from Chat beyond the DSRD 9 write-up named in RULING__Conversation_Foot_Standard_S164.
 
 # SHIP: 0.707.241, "Keep the Conversation Going" closes every article, book note and quote page (theme session, S164)

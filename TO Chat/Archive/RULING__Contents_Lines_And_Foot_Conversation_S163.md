@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: the fact it waited on has landed. Section 3 (The Conversation) is settled by Kain's S164 and S165 rulings and recorded in DSRD 9 section 22.15b; sections 1 and 2 were already in 22.15a and are superseded there by 22.15b item 1. No board card moved. Archived.
+
 DISPOSITION, Chat S423: sections 1 and 2 written into DSRD 9 section 22.15a items 1 and 2; section 3 recorded there as item 6, chosen and open. Stays for one fact: Kain signs the standard of "The Conversation" with Code; Chat then writes it into 22.15a.
 
 First line of need: Chat, write Kain's late S163 rulings into DSRD 9 section 22.15: both reading lines at 1px, the contents heading centred, and "The Conversation" chosen as the foot's two paths (its standard still to be settled with him).

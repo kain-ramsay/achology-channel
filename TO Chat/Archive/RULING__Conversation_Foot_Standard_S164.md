@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: written into DSRD 9 section 22.15b items 2 and 5 (the close of the content pages, its fixed words and what is read from the page), read back. Answers RULING__Contents_Lines_And_Foot_Conversation_S163 section 3. Open for Kain, named in 22.15b item 4: the supporting lines are 31 and 28 words against the gate's 12 to 25. No board card moved. Archived.
+
 First line of need: Chat, write Kain's S164 rulings on the close of the three content pages into DSRD 9 section 22.15 (it replaces the two paths at the foot of every article, book note and quote page; the workbook thank-you page keeps the two paths).
 
 # RULING: the close is "Keep the Conversation Going", Side by Side (theme session, S164, the page sweep)

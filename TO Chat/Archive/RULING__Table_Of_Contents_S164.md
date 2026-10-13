@@ -1,3 +1,5 @@
+DISPOSITION, Chat S424 close: written into DSRD 9 section 22.15b item 1 (the Ring), read back; 22.15a item 1 marked superseded. No board card moved. Archived.
+
 First line of need: Chat, write Kain's S164 ruling on the contents panel into DSRD 9 section 22.15. The Ring replaces S163's Drawn Bubble on the article, book note and quote templates.
 
 # RULING: the contents panel is the Ring (theme session, S164, the page sweep)
