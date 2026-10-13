@@ -416,3 +416,463 @@ help-answer/HELP__life-coach-or-a-therapist: OK.
 - Diff is exactly one line (bullet 115, the two friends example), marker appended; no claims row was marked (none supports the cut paragraph, per log); the body has no remaining two-friends paragraph; no new gate FAIL; reading ease 65.3 unchanged.
 
 NOTE on a standard point for the lead: the lead's brief says paragraphs of 2 to 4 sentences, but Part 6 rule 2 (line 228 of the Standard) and the gate say 3 to 4 sentences and 50 to 120 words. Every repaired paragraph above is 3 or 4 sentences except the bipolar course paragraph, whose fix brings it to 4.
+
+## Second round of Help answer fixes: every change, as a diff of the record before and after the round
+(The writers' own logs of what was applied and not applied were lost in a cleanup slip; this diff is built from the backup taken before the round and the live files. What was deliberately not applied is listed in the DONE, section 7.)
+
+### HELP__achology-course-outcomes.md
+```
+--- before round 2
++++ after round 2
+@@ -16 +16 @@
+-| rm_seo_description | Actual Achology course outcomes: apply psychology in your own life immediately, then coach, mentor, and help others through the CPD journey. |
++| rm_seo_description | Actual Achology course outcomes: use the psychology in your own life at once, then coach, mentor and help others as you advance. |
+@@ -26 +26 @@
+-So what are the actual Achology course outcomes once you have finished? Right away, you can use the psychology in your own life and work, which is where the education is meant to begin. Over time, you can coach, mentor, consult and help others as you move up [the certification pathway](/certification/) and take part in the community practice each level asks for.
++So what are the actual Achology course outcomes once you have finished? Right away, you can use the psychology in your own life and work, which is where the education is meant to begin. Over time, you can coach, mentor and help others as you move up [the certification pathway](/certification/) and take part in the community practice each level asks for.
+@@ -30 +30 @@
+-What you can do depends on how far you've come, not on whether you've finished a course, and the order is deliberate. You start by practising on yourself, then on other members, who understand the learning setting. At [Senior Achologist (Level One)](/help/certificates-cpd-accreditation/senior-achologist-two-levels/) you begin coaching people outside the community who are facing real difficulties, and that's when training turns into practice. The order exists so that the person least able to cope with a beginner's mistakes meets you last.
++What you can do depends on how far you've come, not on whether you've finished a course, and the order is deliberate. You start by practising on yourself, then on other members, who understand the learning setting. At [Senior Achologist (Level One)](/help/certificates-cpd-accreditation/senior-achologist-two-levels/) you begin coaching people outside the community who simply want help, and that's when training turns into practice. The order exists so that you meet strangers only after you've practised with people who forgive the rough edges.
+@@ -40 +40 @@
+-Finishing a course licenses nothing by itself. What it does is start the practice through which your skill grows, and the work you may take on grows with it. In Achology's view, the members who do the most afterwards are the ones who treated the certificate as a beginning, and the ones who treated it as an arrival tend to be [asking why nothing changed](/help/learning-experience/completed-achology-course-nothing-changed/).
++Finishing a course licenses nothing by itself. Say you finish a course on Friday and a neighbour asks you for help with a hard decision on Saturday: you can share what you've learned, but taking them on as a paying client is a step your practice has to earn first. What it does is start the practice through which your skill grows, and the work you may take on grows with it. In Achology's view, the members who do the most afterwards are the ones who treated the certificate as a beginning, and the ones who treated it as an arrival tend to be [asking why nothing changed](/help/learning-experience/completed-achology-course-nothing-changed/).
+@@ -42 +42 @@
+-If you want to practise professionally, there are two things to set up before your first paying client, not after. The first is [supervision after training](/help/outcomes-and-expectations/supervision-after-achology-training/). The second is professional indemnity insurance, which has its own help answer in the related questions below. Both are worth reading about before you take on anyone who's paying.
++If you want to practise professionally, there are two things to set up before your first paying client, not after. The first is [supervision after training](/help/outcomes-and-expectations/supervision-after-achology-training/). The second is professional indemnity insurance, which you need in place before your first paying client. Both are worth reading about before you take on anyone who's paying.
+```
+
+### HELP__achology-membership-free-coaching-included.md
+```
+--- before round 2
++++ after round 2
+@@ -14 +14 @@
+-| rm_seo_title | Does Achology Membership Include Free Coaching? Yes, Peer |
++| rm_seo_title | Does Achology Membership Include Free Coaching? Yes |
+@@ -29 +29 @@
+-Your coach is a fellow member who has studied coaching through [Achology's courses](/courses/) and is now building real, practical skill. They're not an outside professional that Achology hires. Knowing coaching models and being a good coach are two different things, and the only way to close that gap is to coach real people.
++Your coach is a fellow member who has completed [Achology's courses](/courses/) up to Practitioner Certification level and is now building real, practical skill. They're not an outside professional that Achology hires. Knowing coaching models and being a good coach are two different things, and Achology's view is that you close that gap by coaching real people.
+@@ -31 +31 @@
+-Giving these sessions is a recognised part of the pathway, so the coaching you get is taken seriously, not offered casually. Each session is claimed and [independently verified](/help/certificates-cpd-accreditation/who-verifies-achology-cpd-claims/), and it counts toward the coach's own progress. In other words, your session is part of their training record, not a favour. Both of you gain something from it, which is what makes it work rather than leaving it as charity that only runs one way.
++Giving these sessions is a recognised part of the member pathway, the levels members climb as they practise, so the coaching you get is taken seriously, not offered casually. Each session is claimed and [independently verified](/help/certificates-cpd-accreditation/who-verifies-achology-cpd-claims/), and it counts toward the coach's own progress. In other words, your session is part of their training record, not a favour. Both of you gain something from it, which is what makes it work rather than leaving it as charity that only runs one way.
+@@ -41 +41 @@
+-It suits everyday growth: career choices, confidence, relationships, or working toward something you want. You're doing fine, and you'd like to move something forward. It isn't therapy, and it isn't for mental health conditions, trauma or crisis. Coaches here are trained to spot that line and to [work within their competence](/help/community-and-conduct/commit-practising-achologist/).
++It suits everyday growth: career choices, confidence, relationships, or working toward something you want. You're doing fine, and you'd like to move something forward. It isn't therapy, and it isn't for mental health conditions, trauma or crisis. Coaches here commit to [work within their competence](/help/community-and-conduct/commit-practising-achologist/) and to be honest when something sits outside what coaching can reach.
+```
+
+### HELP__achology-responsible-community-member-advice.md
+```
+--- before round 2
++++ after round 2
+@@ -27 +27 @@
+-Peer practice sessions are learning activities, not professional services. So what you take from them, and what you do with it, stays your responsibility. That's true however sure the other member sounds, because a confident tone tells you how the other member feels and nothing about whether the advice fits you.
++Peer practice sessions are learning activities, not professional services. So what you take from them, and what you do with it, stays your responsibility. That's true however sure the other member sounds: in Achology's view, a confident tone shows how the other member feels, not whether the advice fits you.
+@@ -31 +31,5 @@
+-The Terms and Conditions say that practice events are members meeting to rehearse coaching or helping skills, and that these are practice-only learning activities. The [Disclaimers page](/policies/disclaimers/) adds three points. Achology doesn't supervise peer sessions, doesn't check how competent members are, and doesn't endorse the advice they share. The Trust Statement gives the reason: members learn with and from each other, but working together doesn't take away anyone's own accountability.
++The [Terms and Conditions](/policies/terms-and-conditions/) say that practice events are members meeting to rehearse coaching or helping skills. They add that these sessions are practice-only learning activities, and that you take responsibility for choosing whether to join one. The policy starts from what a practice event is, before it says anything about advice.
++
++The [Disclaimers page](/policies/disclaimers/) adds three points. Achology doesn't supervise peer sessions, doesn't check how competent members are, and doesn't endorse the advice they share. These are the three things a member might otherwise assume the platform does on their behalf, so the page names each one before anyone has to ask.
++
++The [Trust Statement](/policies/trust-statement/) gives the reason behind them. Members learn with and from each other, but working together doesn't take away anyone's own accountability, whether they are giving the advice or taking it. That is the same idea the opening gave: you stay answerable for what you choose to act on.
+@@ -35 +39 @@
+-It reads like a disclaimer, but it's closer to a description of what peer practice is. The member coaching you is learning, and that's by design. [The pathway requires it](/help/certificates-cpd-accreditation/progress-member-achologist/): nobody reaches a verified level without practising on other members, and everyone practising was once practised on. A session where the coach is still learning isn't a flaw in the system, it is the system.
++This reads like a disclaimer, but in Achology's view it's closer to a description of what peer practice is. The member coaching you is learning, and that's by design. [The member pathway requires it](/help/certificates-cpd-accreditation/progress-member-achologist/): nobody reaches a verified level without practising on other members, and everyone practising was once practised on. A session where the coach is still learning isn't a flaw in the system, it is the system.
+@@ -37 +41 @@
+-Pretending otherwise would give a false picture to both people in the room, and it would hide what peer practice is for. What's supervised is the setting, not the content. [The spaces are moderated](/help/community-and-conduct/achology-community-rules-moderation/) for respect and integrity, and trainees are required to say they're training, so you always know when someone is practising.
++Pretending otherwise would give a false picture to both people in the room, and it would hide what peer practice is for. What Achology looks after is the setting, not the advice itself. [The spaces are moderated](/help/community-and-conduct/achology-community-rules-moderation/): community managers act when conduct breaches the Community Code of Conduct, which rests on principles such as respect and integrity.
+@@ -41 +45 @@
+-Treat what you hear in peer sessions as practice material from a fellow learner, not as professional advice. Take what's useful, leave what isn't, and keep your own judgement in the room. [Achology doesn't provide crisis support](/help/membership-and-access/does-achology-provide-crisis-support/), and it says so openly rather than hiding it in small print. That keeps the choice with you, which is where it belongs.
++Treat what you hear in peer sessions as practice material from a fellow learner, not as professional advice. Say a member suggests you change jobs after a practice session: take it as one learner's view, weigh it against what you know of your own life, and decide for yourself. [Achology doesn't provide crisis support](/help/membership-and-access/does-achology-provide-crisis-support/), and it says so openly rather than hiding it in small print. That keeps the choice with you, which is where it belongs.
+@@ -45 +49 @@
+-At events, you might swap contact details with other members, or collect personal information from them. If you do, you do it on your own, and it's up to you to follow data protection law. Achology doesn't control that processing. Take the same care with other members' details that you'd want taken with yours.
++At events, you might swap contact details with other members, or collect personal information from them. If you do, you do it independently, and you're responsible for following data protection law. The [Privacy Notice](/policies/privacy-policy/) says Achology doesn't control that processing. Take the same care with other members' details that you'd want taken with yours.
+```
+
+### HELP__achology-s-character-code-based-aristotle.md
+```
+--- before round 2
++++ after round 2
+@@ -39 +39 @@
+-Achology already has a code that sets out the rules for professional conduct, the [Code of Ethics](/help/achology-basics-and-identity/achology-code-ethics/), and rules are the right tool for that job. What rules can't do is prepare someone for the situations a helping practitioner really meets, because those are rarely covered by a clause. A rule tells you not to breach confidentiality. It doesn't tell you what to do when a client's difficulty is beyond your competence, and that is settled by the character of the person in the chair.
++Achology already has a code that sets out the rules for professional conduct, the [Code of Ethics](/help/achology-basics-and-identity/achology-code-ethics/), and rules are the right tool for that job. In Achology's view, what rules can't do is prepare someone for the situations a helping practitioner really meets, because those are rarely covered by a clause. A rule tells you not to breach confidentiality. It doesn't tell you what to do when a client's difficulty is beyond your competence, and that is settled by the character of the person in the chair.
+@@ -45 +45 @@
+-The repeating requirement is the philosophy put onto the timetable. If character is built by practice over time, a code you read once could never deliver it. That's why the Code of Character and Conduct repeats, and why it's one of [three separate codes](/help/community-and-conduct/difference-between-code-ethics-ccac-community/) rather than a section inside the ethics one. Each code has its own job.
++In Achology's view, the repeating requirement is the philosophy put onto the timetable. If character is built by practice over time, a code you read once could never deliver it. That's why the Code of Character and Conduct repeats, and why it's one of [three separate codes](/help/community-and-conduct/difference-between-code-ethics-ccac-community/) rather than a section inside the ethics one. Each code has its own job.
+@@ -71,0 +72,2 @@
++| Achology's Code of Character and Conduct is rooted in Aristotle's virtue ethics, where character is built through practice | Live Help answer "What is the Achology Code of Character and Conduct (CCaC)?" | "It's rooted in Aristotle's virtue ethics, which holds that character isn't something you're born with. It's something you build, bit by bit, through practice." |
++| The nine virtues come from Aristotle's middle point, and the middle-point idea is what makes a session's self-examination possible | Live Help answer "What are Achology's 9 Code of Character and Conduct virtues?" | "The virtues come from Aristotle's virtue ethics, where a virtue is not the opposite of a vice but the balanced middle point between two of them, one of excess and one of deficiency."; "The middle-point idea is what makes that examination possible." |
+```
+
+### HELP__achology-vs-therapy-training-counselling.md
+```
+--- before round 2
++++ after round 2
+@@ -15 +15 @@
+-| rm_seo_description | Achology vs therapy training: Achology trains non-clinical coaching and helping skill, not regulated clinical practice. |
++| rm_seo_description | Achology vs therapy training: Achology trains non-clinical coaching and helping skill, not clinical practice. |
+@@ -25 +25 @@
+-So can Achology replace traditional therapy training? No, because in the Achology vs therapy comparison the two prepare you for different work, and therapy training is a long clinical road. The British Association for Counselling and Psychotherapy (BACP) recommends a [three-stage training route](https://www.bacp.co.uk/careers/counselling-and-therapy-as-a-career/training-to-become-a-therapist/) that can take three or four years, and says the course must include a supervised placement of at least 100 client hours. Achology does not offer any of that.
++So can Achology replace traditional therapy training? No, because Achology vs therapy is not a swap: the two prepare you for different work, and therapy training is a long clinical road. The British Association for Counselling and Psychotherapy (BACP) recommends a [three-stage training route](https://www.bacp.co.uk/careers/counselling-and-therapy-as-a-career/training-to-become-a-therapist/) that can take three or four years, and says the course must include at least 100 hours working with real clients under supervision. Achology does not offer any of that.
+@@ -33 +33 @@
+-## Why isn't this answer softened?
++## Why does a straight answer matter here?
+@@ -35 +35 @@
+-This answer isn't softened, because of who tends to ask it. Someone asking this is usually early in their thinking, serious, and looking at a career spent sitting with people in real pain. Getting it wrong costs more than a course fee, because it can cost years of a life.
++A softer answer would not be kind to you, because of who tends to ask this question. Someone asking it is usually early in their thinking, serious, and looking at a career spent sitting with people in real pain. Getting it wrong costs more than a course fee, because it can cost years of a life.
+@@ -37 +37 @@
+-It can even cost a client who needed a clinician but got someone else instead, however well meant. In Achology's view, a provider willing to blur that line to make one more sale is showing poor judgement. That isn't the kind of judgement you'd want in someone who trained you.
++It can also leave a client with a helper who was never trained for what they were facing, however well meant. In Achology's view, a provider willing to blur that line to make one more sale is showing poor judgement. That isn't the kind of judgement you'd want in someone who trained you.
+@@ -41 +41 @@
+-Some people take both, one after the other, because the two kinds of learning answer different needs. Therapists add these ideas to enrich their non-clinical work, and members whose helping practice reveals a real calling move on into clinical training. Both moves are fully valid, but swapping one for the other, in either direction, is not.
++Some people take both, one after the other, because the two kinds of learning answer different needs. A therapist can add these ideas to enrich non-clinical work, and a member whose helping practice reveals a real calling can move on into clinical training. Both moves are fully valid, but swapping one for the other, in either direction, is not.
+```
+
+### HELP__call-myself-therapist-achology-courses.md
+```
+--- before round 2
++++ after round 2
+@@ -25 +25 @@
+-So can you call yourself a therapist once you've finished? No, you can't. Titles such as therapist, counsellor, psychotherapist and psychologist tell the public that the person holds clinical training and works to professional standards, and Achology's courses, by design, give you neither. That's the plain reason the answer is no.
++So can you call yourself a therapist once you've finished? No, you can't. Titles such as therapist, counsellor, psychotherapist and psychologist tell the public that the person holds clinical training, and the courses at Achology.com, by design, give you no clinical training. That's the plain reason the answer is no.
+@@ -27 +27 @@
+-Using such a title on the back of an Achology course misleads the people who trust you with their problems, because it gives them a false picture of your training. Rules about titles differ from place to place, and some titles are protected by law where you live while others aren't. So check the rules where you live before you use any title for a fee.
++Using such a title on the back of an Achology course misleads the people who trust you with their problems, because it gives them a false picture of your training. Rules about titles differ from place to place, so check the rules where you live before you use any title for a fee. Whatever those rules say, the false picture is the harm.
+@@ -31 +31 @@
+-The ethics don't vary, though. Passing off non-clinical learning as a clinical qualification is wrong everywhere, and in some places it's also against the law. Someone who trusts a title is often at their lowest point, and the title is how they judge what they're getting. That puts the weight on you to describe your training honestly.
++The ethics don't vary, though, and in Achology's view passing off non-clinical learning as a clinical qualification is wrong everywhere. Someone who trusts a title is often at their lowest point, and the title is how they judge what they're getting. That puts the weight on you to describe your training honestly.
+@@ -39 +39,3 @@
+-If you want to do clinical work, there's a proper route, and it's clinical training rather than an Achology course. Neither path is the lesser one. Achology's answer on [replacing therapy training](/help/comparisons-and-alternatives/achology-vs-therapy-training-counselling/) compares the two roads in full. Reading it first helps you see which road fits the work you want to do.
++If you want to do clinical work, there's a proper route, and it's clinical training rather than an Achology course. The British Association for Counselling and Psychotherapy (BACP) recommends a [three-stage training route](https://www.bacp.co.uk/careers/counselling-and-therapy-as-a-career/training-to-become-a-therapist/) that can take three or four years. Neither path is the lesser one, because they prepare you for different work.
++
++Achology's answer on [replacing therapy training](/help/comparisons-and-alternatives/achology-vs-therapy-training-counselling/) compares the two roads in full, side by side. It sets out what each road asks of you in time and in practice, and it doesn't pretend either one is easy. Reading it first helps you see which road fits the work you want to do.
+```
+
+### HELP__can-achology-help-personal-struggles.md
+```
+--- before round 2
++++ after round 2
+@@ -25 +25 @@
+-Can Achology help personal struggles and everyday challenges? Often, yes, within an honest limit. Education helps with the ordinary struggles of a working life, such as talks that keep going wrong, habits you can see but can't change, and choices that feel unclear. Many of these come down to how well you understand them, and that can be taught.
++Can Achology help personal struggles and everyday challenges? Often, yes, within an honest limit. Education helps with the ordinary struggles of a working life, such as talks that keep going wrong, habits you can see but can't change, and choices that feel unclear. In Achology's view, many of these come down to how well you understand them, and that can be taught.
+@@ -31 +31 @@
+-Three kinds of struggle respond well to education. In each, the course gives you the understanding, and your own steady practice gives you the change. Pattern struggles, such as the same argument or the same self-talk, respond to frameworks that make the pattern easy to see and give you real choices to try. Skill struggles, such as listening, conflict or speaking up for yourself, respond to the practice the community is built around.
++In Achology's view, three kinds of struggle respond well to education. In each, the course gives you the understanding, and your own steady practice gives you the change. Pattern struggles, such as the same argument or the same self-talk, respond to frameworks that make the pattern easy to see and give you real choices to try. Skill struggles, such as listening, conflict or speaking up for yourself, respond to the practice the community is built around.
+```
+
+### HELP__can-life-coaches-use-cbt.md
+```
+--- before round 2
++++ after round 2
+@@ -60 +60 @@
+-Can life coaches use CBT and NLP in their work? Yes, a coach can use the ideas and the questions from both, as long as they're used to help someone move towards a goal and never as clinical work on a condition. The line depends on what the person has come for, whichever tool the coach reaches for.
++Can life coaches use CBT and NLP in their work? Yes, a coach can use the ideas and the questions from both Cognitive Behavioural Therapy (CBT) and Neuro-Linguistic Programming (NLP), as long as they're used to help someone move towards a goal and never as clinical work on a condition. The line depends on what the person has come for, whichever tool the coach reaches for.
+@@ -72 +72 @@
+-Neuro-Linguistic Programming (NLP) has no regulator anywhere in the world, and no organisation is its world authority, although plenty describe themselves that way. Since nobody else has endorsed any of them, each claim of that kind is self-proclaimed. A coach can use NLP's ideas about language and thinking to help someone notice their own habits of thought.
++Neuro-Linguistic Programming (NLP) has no regulator anywhere in the world, and no organisation is its world authority, although plenty describe themselves that way. Since nobody else has endorsed any of them, each claim of that kind is self-proclaimed. In Achology's view, a coach can use NLP's ideas about language and thinking to help someone notice their own habits of thought. Say a client keeps calling her plans things she has to do, and a coach might ask how it feels to say things she'd like to do instead, which is the NLP idea that the words you use shape how you think about something.
+@@ -78 +78 @@
+-It falls at the reason the person has come. Prospects says life coaches [lack the qualifications to diagnose](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) health or mental health problems, so a coach whose client describes a health matter isn't the right person for it. Achology teaches CBT and NLP as education about the mind, and never as clinical work, which is the same line seen from the other side.
++It falls at the reason the person has come. Prospects says life coaches [lack the qualifications to diagnose](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) health or mental health problems, so a coach whose client describes a health matter isn't the right person for it. Achology.com teaches CBT and NLP as education about the mind, and never as clinical work, which is the same line seen from the other side.
+@@ -86 +86 @@
+-The place to begin is the life coaching course, and the two tools you've asked about each have a course of their own. Each course below is listed with its full name and one plain fact from the course reference, so you can compare them. Which you start with depends on whether you want to coach first or study a tool in depth.
++The place to begin is a life coaching course, and the two tools you've asked about each have a course of their own. That course teaches the coaching itself, while the other two teach the ideas a coach might borrow. Which you start with depends on whether you want to coach first or study a tool in depth.
+@@ -109 +109 @@
+-- What CBT rests on (thinking shapes feeling and action), and testing a thought against the evidence: the Achology stance on Thinking And Mindset and the approved CBT answers. The driving test example is Cowork's own; it is not from a lecture.
++- What CBT rests on (thinking shapes feeling and action), and testing a thought against the evidence: the Achology stance on Thinking And Mindset and the approved CBT answers. The driving test example is Cowork's own; it is not from a lecture. The client's plans example in the NLP section (things she has to do, things she'd like to do) is the writer's own, written at the second S420 re-read; it is not from a lecture.
+```
+
+### HELP__coaching-vs-counselling-credentials-difference.md
+```
+--- before round 2
++++ after round 2
+@@ -25 +25 @@
+-So what's the difference between coaching and counselling training? Coaching vs counselling comes down to this: they aren't the same path. Coaching, which is what Achology provides, trains you for goal-focused helping with people who are already coping well. Counselling trains you for therapeutic work with people in real difficulty, and the British Association for Counselling and Psychotherapy (BACP) recommends a [three-stage training route](https://www.bacp.co.uk/careers/counselling-and-therapy-as-a-career/training-to-become-a-therapist/) of three or four years that includes a supervised placement of at least 100 client hours.
++So what's the difference between coaching and counselling training? Coaching vs counselling comes down to this: they aren't the same path. Coaching, which is what Achology.com provides, trains you for goal-focused helping with people who are already coping well. Counselling trains you for therapeutic work with people in real difficulty, and the British Association for Counselling and Psychotherapy (BACP) recommends a [three-stage training route](https://www.bacp.co.uk/careers/counselling-and-therapy-as-a-career/training-to-become-a-therapist/) of three or four years, with at least 100 supervised hours working with clients.
+@@ -31 +31 @@
+-The cleanest line is the client, and the aim. Coaching serves someone who is already coping well, moving toward something: a career change, a new skill, a better pattern. It looks at the present and the future, and trusts the client's own resourcefulness. The UK graduate careers service, Prospects, says in its [careers guidance](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) that life coaches focus on the future and personal growth and aren't qualified to diagnose or treat health or mental health issues.
++The cleanest line is the client, and the aim. Coaching serves someone who is already coping well, moving toward something: a career change, a new skill, a better pattern. It looks at the present and the future, and trusts the client's own resourcefulness. The UK graduate careers service, Prospects, says in its [careers guidance](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) that life coaches look ahead and encourage personal growth, and that they aren't qualified to diagnose or treat health or mental health issues.
+@@ -45 +45 @@
+-Learning the skills of a tradition is one thing. Being licensed to practise its profession is another. That's the same reason [calling yourself a therapist](/help/certificates-cpd-accreditation/call-myself-therapist-achology-courses/) isn't open to you here, whatever you've studied. If your real vocation is therapy, the route is a clinical training course, and this training will support it, not replace it.
++Learning the skills of a tradition is one thing. Training for its profession is another. That's the same reason [calling yourself a therapist](/help/certificates-cpd-accreditation/call-myself-therapist-achology-courses/) isn't open to you here, whatever you've studied. If your real vocation is therapy, the route is a clinical training course, and this training will support it, not replace it.
+```
+
+### HELP__does-achology-provide-crisis-support.md
+```
+--- before round 2
++++ after round 2
+@@ -32 +32 @@
+-Real crisis help needs trained professionals who work inside clinical frameworks. They can weigh real risk, keep people safe, and give care day after day without a gap. Achology's staff, facilitators and community members aren't trained or placed for that role. Treating an education community as a stand-in for real help would put a person in crisis at genuine risk.
++In Achology's view, real crisis help needs trained professionals who work inside clinical frameworks. They can weigh real risk, keep people safe, and give care day after day without a gap. Achology's staff, facilitators and community members aren't trained or placed for that role. Treating an education community as a stand-in for real help would put a person in crisis at genuine risk.
+```
+
+### HELP__how-to-become-a-cbt-coach.md
+```
+--- before round 2
++++ after round 2
+@@ -59 +59 @@
+-What is CBT coaching? It's using the tools of cognitive behavioural therapy (CBT) inside a coaching relationship, aimed at where a client wants to go next, not at treating an illness. How to become a CBT coach isn't governed by a single fixed qualification, so you build it from two real things instead. Those are genuine skill in CBT itself and a genuine coaching practice.
++What is CBT coaching? It's using the tools of cognitive behavioural therapy (CBT) inside a coaching relationship, aimed at where a client wants to go next, not at treating an illness. In Achology.com's view, how to become a CBT coach isn't a matter of one fixed qualification, so you build it from two real things instead. Those are genuine skill in CBT itself and a genuine coaching practice.
+@@ -63 +63 @@
+-The [International Coaching Federation](https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf) draws this line clearly. Coaching looks at a client's present and future, at performance and potential they haven't reached yet. In the Federation's own words, therapy is for people with "some level of dysfunction or disorder", and it looks back at the past to understand the present. In Achology.com's view, that's a real difference and not a matter of which word sounds nicer.
++The [International Coaching Federation](https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf) draws this line clearly. Coaching looks at a client's present and future, at performance and potential they haven't reached yet. In the Federation's own words, therapy is for people with "some level of dysfunction or disorder", and it looks back at the past to understand the present. In Achology's view, that's a real difference and not a matter of which word sounds nicer.
+@@ -85 +85 @@
+-The route is two things in practice, and not one qualification with that exact name on it. First comes real training in CBT itself, so the tools are used properly rather than borrowed loosely from something skimmed online. Second comes real coaching skill, which means learning how to ask well, how to listen properly, and how to hold a client's own goal steady rather than letting every session drift into therapy by accident.
++In Achology's view, the route is two things in practice, and not one qualification with that exact name on it. First comes real training in CBT itself, so the tools are used properly rather than borrowed loosely from something skimmed online. Second comes real coaching skill, which means learning how to ask well, how to listen properly, and how to hold a client's own goal steady rather than letting every session drift into therapy by accident.
+@@ -95 +95 @@
+-Achology has the Cognitive Behavioural Therapy (CBT) Practitioner Course, the full practitioner training, with 119 lessons totalling at least 31 hours. It's the CBT half of the route, where you learn the tools properly before you use them with anyone else, and the [CBT Practitioner Course](/academy/cognitive-behavioural-psychology/cbt-practitioner/) page shows what it covers. It suits you if you want the skill itself, and it won't suit you if you need a clinical title, because it carries none.
++- Cognitive Behavioural Therapy (CBT) Practitioner Course, with 119 lessons totalling at least 31 hours: the CBT half of the route, where you learn the tools properly before you use them with anyone else. The [CBT Practitioner Course](/academy/cognitive-behavioural-psychology/cbt-practitioner/) page shows what it covers. It suits you if you want the skill itself, and it won't suit you if you need a clinical title, because it carries none.
+@@ -97 +97 @@
+-Alongside it sits the Life Coaching Certificate Course (Beginner to Advanced), with 122 lessons totalling at least 38 hours. Together, they're the closest thing Achology offers to a CBT coaching route, and the [Life Coaching Certificate Course](/academy/life-coaching/life-coaching-certificate/) is where the coaching side begins. It suits you if you want to point the same tools at other people's goals, and it won't suit you if you need a clinical title. Neither course carries a coaching income figure, and neither pretends to.
++- Life Coaching Certificate Course (Beginner to Advanced), with 122 lessons totalling at least 38 hours: the coaching half, where you point the same tools at other people's goals. The [Life Coaching Certificate Course](/academy/life-coaching/life-coaching-certificate/) page is where it begins. It suits you if you want to guide people towards their own goals, and it won't suit you if you need a clinical title.
+```
+
+### HELP__introduction-to-mental-health-for-beginners.md
+```
+--- before round 2
++++ after round 2
+@@ -90 +90 @@
+-At Achology, you begin where every practitioner began, by looking at your own mind first. This is teaching about the mind, not treatment, and it asks you to test each idea on yourself before you offer it to anyone else. That order is why a beginner isn't behind: the first step is the one a practitioner took too.
++At Achology, you begin where every practitioner began, by looking at your own mind first. This is teaching about the mind, not treatment, and the work is to try every idea out on your own life long before it reaches anyone else. That order is why a beginner isn't behind: the first step is the one a practitioner took too.
+```
+
+### HELP__is-achology-right-emotionally-vulnerable.md
+```
+--- before round 2
++++ after round 2
+@@ -28 +28 @@
+-Achology is a place to learn, not a therapy or mental health service. It doesn't offer emotional support, counselling or crisis care. Its [course library](/courses/) looks at the self in ways that can stir up real feeling, which is normal when you study psychology, and that is the reason timing matters.
++Achology is a place to learn, not a therapy or mental health service. It doesn't offer emotional support, counselling or crisis care. Its [course library](/courses/) looks at the self in ways that can stir up real feeling. In Achology's view that is a normal part of studying psychology, which is why timing matters.
+@@ -32 +32 @@
+-Feeling fragile in a way you can manage, alongside a real wish to learn, doesn't rule you out. In Achology's view, the useful question is whether the learning will feel like a challenge you can meet or like too much to carry. It's worth checking three things first:
++Feeling fragile in a way you can manage, with a real wish to learn, doesn't rule you out. A lesson on how your upbringing shaped your habits, for example, might leave you thoughtful for an evening, or it might keep you awake, and only you can tell. In Achology's view, the useful question is whether the learning will feel like a challenge you can meet or like too much to carry. It's worth checking three things first:
+@@ -44 +44 @@
+-Course access lasts as long as you want it, so there's no pressure to move faster than feels right. The course library lists every course with its length, which lets you start with a shorter one and see how the teaching feels before you take on more. Achology Membership is a separate subscription, so the course itself stays yours either way.
++Course access lasts as long as you want it, so there's no pressure to move faster than feels right. The course library lists every course, so you can pick one that suits you and see how the teaching feels before you take on more. Achology membership is the subscription that opens the learning community: the live events calendar, the coaching board, and the accreditation pathway that runs through them. It is separate from the course itself, which stays yours either way.
+@@ -61 +61 @@
+-| Course access lasts as long as you want it; Achology Membership is a separate subscription | Help answer "What does lifetime access mean at Achology?" | "buying a course gives you access to that course for as long as you want it, which can be up to a lifetime"; "Achology Membership is different. It is a separate community subscription" |
++| Course access lasts as long as you want it; Achology Membership is a separate subscription | Help answer "What does lifetime access mean at Achology?" | "buying a course gives you access to that course for as long as you want it, which can be up to a lifetime"; "Achology Membership is different. It is a separate community subscription"; "Achology membership is the subscription that opens the learning community: the live events calendar, the coaching board, and the accreditation pathway that runs through them." |
+```
+
+### HELP__is-achology-therapy-counselling-or-coaching.md
+```
+--- before round 2
++++ after round 2
+@@ -43 +43 @@
+-Achology members, the people who have joined its private learning community, learn to listen well, ask useful questions and make room for someone to reflect. They also learn to challenge unhelpful habits, and to help people set goals, make choices, change habits and grow. Some go on to build their own coaching or mentoring work, and others use the skills at work, at home and in their local groups.
++Members of Achology, the people who have joined its private learning community, learn to listen well, ask useful questions and make room for someone to reflect. They also learn to challenge unhelpful habits, and to help people set goals, make choices, change habits and grow. Some go on to build their own coaching or mentoring work, and others use the skills at work, at home and in their local groups.
+@@ -49 +49 @@
+-Coaching and helping work are about moving forward. In Achology's view, they help you get clear on goals, build skills, improve relationships and make choices. Prospects, the United Kingdom's graduate careers service, says in its [guide to life coach training](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) that life coaches "focus on the future" and that coaching should not be confused with counselling or therapeutic careers.
++Coaching and helping work are about moving forward. In Achology's view, they help you get clear on goals, build skills, improve relationships and make choices. Say a friend tells you they want to change careers next year: a coach's questions help them work out what they want and plan a first step, and that forward-looking work is what Achology teaches. Prospects, a careers and university advice website, says in its [guide to life coach training](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) that life coaches "focus on the future" and that coaching should not be confused with counselling or therapeutic careers.
+@@ -75,0 +76,4 @@
++| Life coaches focus on the future; life coaching should not be confused with counselling or therapeutic careers | Prospects, training to become a life coach, prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/, read 12 October 2026 | "Life coaches focus on the future and aim to identify areas for self-improvement and encourage personal growth."; "Although they share similar elements, life coaching should not be confused with counselling or therapeutic careers." |
++| Counselling is a talking therapy where a counsellor listens and helps you find your own solutions | NHS, counselling, nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/counselling/, read 12 October 2026 | "Counselling is a type of talking therapy (psychological therapy) where a counsellor listens to you and helps you find your own solutions to problems." |
++| Some members go on to build their own coaching or mentoring work | the live Help answer HELP__achology-career-change-coaching-mentoring.md (read) | "Achology builds the professional competence half and you build the business half" |
++| Rules about practising these jobs for a fee differ from place to place | American Psychological Association, accreditation.apa.org/choosing-a-program; Psychology Board of Australia, psychologyboard.gov.au/Registration.aspx (two countries, two systems) | "In the United States, each state makes its own laws regarding the educational requirements for licensure of psychologists."; "You should check with the licensing body in the state(s) in which you intend to practice."; "Psychologists must be registered with the Psychology Board of Australia" |
+```
+
+### HELP__learn-cbt-for-free.md
+```
+--- before round 2
++++ after round 2
+@@ -58 +58 @@
+-Can you learn cognitive behavioural therapy (CBT) for free? Yes, you can learn CBT for free in a few real ways, though none of them is quite the same as a full course. Free material can teach you CBT's ideas, and Achology.com's free membership tier lets you look at a community before you pay. What free routes rarely give you is structure, which is the part a paid course adds.
++Can you learn cognitive behavioural therapy (CBT) for free? Yes, you can learn CBT for free in a few real ways, though none of them is quite the same as a full course. Free material can teach you CBT's ideas, and Achology.com's free membership tier lets you look at a community before you pay. In Achology's view, what free routes rarely give you is structure, which is the part a paid course adds.
+@@ -62 +62 @@
+-Yes, to a real extent, because plenty of free material exists in the form of self-help guides, recorded university lectures and explainer videos. What free material rarely gives you is structure, since nobody checks whether the last idea landed before the next one arrives. There's also no practice built in that builds on itself.
++Yes, to a real extent, because plenty of free material exists in the form of self-help guides, recorded university lectures and explainer videos. In Achology's view, what free material rarely gives you is structure, since nobody checks whether the last idea landed before the next one arrives. There's also no practice built in that builds on itself.
+```
+
+### HELP__life-coach-or-a-therapist.md
+```
+--- before round 2
++++ after round 2
+@@ -41 +41 @@
+-Achology.com; the British Association for Counselling and Psychotherapy (BACP); Prospects, the UK's official graduate careers service.
++Achology.com; the British Association for Counselling and Psychotherapy (BACP); Prospects, a careers and university advice website.
+@@ -59 +59 @@
+-Should you become a life coach or a therapist? The two roads suit different people, because a coach works with people who are looking ahead at goals and choices, while a therapist works clinically with people who are struggling. Neither role is the lesser one, so the better question is which of them you'd like to spend your days doing.
++Should you become a life coach or a therapist? In Achology.com's view, the two roads suit different people, because a coach works with people who are looking ahead at goals and choices, while a therapist works clinically. Neither role is the lesser one, so the better question is which of them you'd like to spend your days doing.
+@@ -71 +71 @@
+-Prospects, the United Kingdom's graduate careers service, publishes a [life coach training page](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) that says life coaches focus on the future and on encouraging personal growth. It adds that coaching shouldn't be mistaken for a counselling or therapeutic career. In Achology.com's view, a coach's session usually begins with something the person names, such as a choice they're facing or a goal they're chasing. The coach's questions then help them see where they are and decide what they'd like instead, before they take a first step.
++Prospects, a careers and university advice website, publishes a [life coach training page](https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/social-care/training-to-become-a-life-coach/) that says life coaches focus on the future and on encouraging personal growth. It adds that coaching shouldn't be mistaken for a counselling or therapeutic career. In Achology's view, a coach's session usually begins with something the person names, such as a choice they're facing or a goal they're chasing. The coach's questions then help them see where they are and decide what they'd like instead, before they take a first step.
+@@ -75 +75 @@
+-That depends on the kind of work you picture yourself doing, and it's normal to feel drawn to both at the start. If working clinically is what you want, the therapist road is the one to take. If you'd rather help people plan and grow, coaching will suit you better.
++That depends on the kind of work you picture yourself doing, and it's normal to feel drawn to both at the start. Say a friend tells you they've been offered a promotion and can't decide whether to take it. If you enjoy asking the questions that help them weigh it up and plan a first step, coaching will suit you better. If you'd rather stay with them through a hard stretch and listen, working clinically is the one to look at.
+@@ -77 +77 @@
+-In Achology's view, taking the two roads one after the other is possible, and each teaches you something about the other. Achology doesn't encourage the people it trains to use the title therapist, because its courses are education and not clinical training. Its answer on whether you can call yourself a therapist after Achology courses gives the reasons in full.
++In Achology's view, taking the two roads one after the other is possible, and each teaches you something about the other. Achology doesn't encourage the people it trains to use the title therapist, because its courses are education and not clinical training. So if the clinical road is the one you want, the training described above is the route to follow, and an Achology course can sit beside it as extra learning but cannot stand in for it.
+@@ -106 +106,2 @@
+-- The two friends example is Cowork's own; it is not from a lecture. It follows the Emotional Health stance that asking for help, including from a doctor, is a responsible act. SUPERSEDED (S420: sentence cut under Part 7 rule 15)
++- The two friends example was cut at S420 under Part 7 rule 15; the new example (a friend offered a promotion) is Cowork's own, not from a lecture.
++- Courses are online and self-paced: DSRD 2 term register, Achology.com row, "through self-paced online courses".
+```
+
+### HELP__mental-health-practitioner-a-therapist-or-counsellor.md
+```
+--- before round 2
++++ after round 2
+@@ -73 +73 @@
+-The [National Health Service counselling guide](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/counselling/) describes counselling as "a type of talking therapy (psychological therapy) where a counsellor listens to you and helps you find your own solutions to problems". It adds that counsellors "do not usually give advice or tell you what to do". So a counsellor mostly listens and helps you reach your own answers, and doesn't tell you what to do.
++The [National Health Service counselling guide](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/counselling/) describes counselling as "a type of talking therapy (psychological therapy) where a counsellor listens to you and helps you find your own solutions to problems". It adds that counsellors "do not usually give advice or tell you what to do". So a counsellor mostly listens and helps you reach your own answers, and doesn't usually tell you what to do.
+```
+
+### HELP__what-can-you-do-with-a-mental-health-certificate.md
+```
+--- before round 2
++++ after round 2
+@@ -78 +78 @@
+-Another example is the United States: its [Bureau of Labor Statistics](https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm) says mental health counsellors typically need a master's degree. These are two examples of two different roles in two places. If that's the work you want, check the route where you live. An Achology certificate isn't one of them.
++Another example is the United States: its [Bureau of Labor Statistics](https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm) says mental health counsellors typically need a master's degree. These are two examples of two different roles in two places. If that's the work you want, check the route where you live. An Achology certificate isn't one of those routes.
+@@ -82 +82 @@
+-You can tell anyone who asks what you studied, and show them the certificate. If they want to check it's real, they can ask Achology, which will say if it's genuine and which course or level it belongs to. You can call yourself certified too, as long as it's true, such as "Achology-certified". Don't suggest a licence or a clinical qualification.
++You can tell anyone who asks what you studied, and show them the certificate. If they want to check it's real, they can ask Achology, which will say if it's genuine and which course or level it belongs to. You can call yourself certified too, as long as it's true, for example "Achology-certified". Don't suggest a licence or a clinical qualification.
+```
+
+### HELP__what-does-achology-certification-qualify.md
+```
+--- before round 2
++++ after round 2
+@@ -31 +31 @@
+-In helping work that isn't regulated, the certification does real work. Whether coaching, mentoring or personal development counts as regulated work depends on the country, so check yours first. Where it isn't regulated, the certification shows what it claims: serious study of applied psychology and, at the higher levels, skill shown in practice and checked on a pathway accredited by the [Society of Modern Applied Psychology](/accreditation/) (SoMAP), the independent body that verifies members' accreditation claims.
++In helping work that isn't regulated, the certification does real work. Whether coaching, mentoring or personal development counts as regulated work depends on the country, so check yours first. Where it isn't regulated, the certification shows what it claims: serious study of applied psychology and, at the higher levels, skill shown in practice. That skill is checked on a pathway accredited by the [Society of Modern Applied Psychology](/accreditation/) (SoMAP), the independent body that verifies members' accreditation claims.
+@@ -33 +33 @@
+-Clients and employers in those fields have every right to ask what stands behind it, and the published pathway means the answer holds up, as the answer on [what the certificate proves](/help/certificates-cpd-accreditation/what-achology-certificate-proves/) sets out. Achology also gives out no letters to put after your name, on purpose, and its own article explains why. Its certificates are written to stand up to that kind of close look.
++Clients and employers in those fields have every right to ask what stands behind it, and the published pathway means the answer holds up, as the answer on [what the certificate proves](/help/certificates-cpd-accreditation/what-achology-certificate-proves/) sets out. Achology also gives out no letters to put after your name, on purpose, and its own article explains why. That way, anyone who looks closely at your claim finds it matches what you studied.
+@@ -69,2 +69,3 @@
+-| Rules on titles differ by country, so the reader checks where they live (the worldwide stance; no country is described) | Live Help answer "Can I call myself a therapist after completing Achology courses?"; Recipe 7's worldwide regulation stance | "The legal side also varies by title and by country." |
+-| Achology's certificates give none of the clinical credentials | same Help answer | "Achology's courses, by design, give you none of those." |
++| Rules on titles differ by country, so the reader checks where they live (the worldwide stance; no country is described) | Live Help answer "Can I call myself a therapist after completing Achology courses?"; Recipe 7's worldwide regulation stance | "Rules about titles differ from place to place, and some titles are protected by law where you live while others aren't." |
++| Achology's certificates give none of the clinical credentials | same Help answer | "Titles such as therapist, counsellor, psychotherapist and psychologist tell the public that the person holds clinical training and works to professional standards, and Achology's courses, by design, give you neither." |
++| The certificate is not a legal qualification or the right to use a protected title | same Help answer | "some titles are protected by law where you live while others aren't." |
+```
+
+### HELP__what-does-achology-expect-from-learners.md
+```
+--- before round 2
++++ after round 2
+@@ -25 +25 @@
+-So what does Achology.com expect from learners, really? Four things, stated as plain actions rather than nice ideas. You take personal responsibility for yourself and your own growth, and you manage your own emotions, even through hard material, because education that examines the self will sometimes feel uncomfortable, and what you do with that discomfort is yours.
++So what does Achology.com expect from learners, really? Four things, stated as plain actions rather than nice ideas. You take [personal responsibility](/help/achology-basics-and-identity/personal-responsibility-achology-learning/) for yourself and your own growth, and you manage your own emotions, even through hard material, because education that examines the self will sometimes feel uncomfortable, and what you do with that discomfort is yours.
+@@ -31 +31 @@
+-- **Responsibility.** The [Trust Statement](/policies/trust-statement/) describes the relationship the whole environment rests on: autonomous adults, engaging thoughtfully, taking responsibility for themselves. [What that means in practice](/help/achology-basics-and-identity/personal-responsibility-achology-learning/) is set out on its own page.
++- **Responsibility.** The [Trust Statement](/policies/trust-statement/) sets out the footing everything here stands on: autonomous adults who think carefully about what they meet and answer for their own growth.
+@@ -33 +33 @@
+-- **Self-management.** Education that examines the self will sometimes feel uncomfortable. Your response to that is [yours to work with](/help/learning-experience/achology-content-offensive-emotionally-challenging/), not the platform's job to prevent.
++- **Self-management.** Education that examines the self will sometimes feel uncomfortable. Say a lecture unsettles you one evening: you ask what landed hard and whether it touched something worth a closer look, rather than rushing to a verdict. That response is yours to work with, not the platform's job to prevent, and the answer on [offensive or challenging content](/help/learning-experience/achology-content-offensive-emotionally-challenging/) says more.
+@@ -35 +35 @@
+-- **Real engagement.** Disagreement is part of learning here, not something to treat as harm. The ideas taught are open to question, and [questioning them well](/help/community-and-conduct/achology-disagreement-open-discussion/) is itself a skill this education builds in you.
++- **Real engagement.** Disagreement is part of learning here, not something to treat as harm. The ideas taught are open to question, and learning to question them well is a skill this education builds in you, as the answer on [disagreement and open discussion](/help/community-and-conduct/achology-disagreement-open-discussion/) shows.
+@@ -47 +47 @@
+-Achology gives you the published policies, the education itself, a community where the practice is real, and support whenever you go looking for it. What it doesn't give is pursuit once you stop. [It won't chase you](/help/achology-basics-and-identity/adult-to-adult-learning-no-hand-holding/) if you fall away for a while. Those are the two halves of one arrangement.
++Achology gives you the published policies, the education itself, a community where the practice is real, and support whenever you look for it. What it doesn't give is pursuit once you stop. With [no hand-holding](/help/achology-basics-and-identity/adult-to-adult-learning-no-hand-holding/), nothing chases you if you fall away for a while. Those are the two halves of one arrangement.
+@@ -67 +67 @@
+-| The Trust Statement describes the relationship the environment rests on: autonomous adults taking responsibility for themselves | Live Help answer "How does Achology approach disagreement and open discussion?" and "Why is the peer learning culture..." (HELP__achology-peer-learning-culture.md) | "the Trust Statement describing the relationship the whole environment rests on: autonomous adults, engaging thoughtfully, taking responsibility for themselves." |
++| The Trust Statement describes the relationship the environment rests on: autonomous adults taking responsibility for themselves | Live Help answer "What is Achology's peer-learning culture like?" (HELP__achology-peer-learning-culture.md) | "the Trust Statement describing the relationship the whole environment rests on: autonomous adults, engaging thoughtfully, taking responsibility for themselves." |
+@@ -72,0 +73,7 @@
++| Education that examines the self will sometimes feel uncomfortable, and that reaction is the learner's to work with | HELP__personal-responsibility-achology-learning.md | "Learning that looks at yourself will sometimes feel uncomfortable, and [that reaction is yours to work with]" |
++| How a learner deals with a difficult idea is the learner's choice; the first step is curiosity and a closer look, not a verdict | HELP__achology-content-offensive-emotionally-challenging.md | "How you deal with a difficult idea is yours to choose."; "So the best first step is to be curious rather than to rush to a verdict. Ask yourself what landed hard, and whether it touched something worth a closer look" |
++| The culture expects maturity and honest conduct from members in live sessions and peer practice | HELP__achology-peer-learning-culture.md | "Members practise, discuss and refine skills together through live sessions, peer practice and mentorship groups. The culture expects maturity, honest feedback and shared responsibility" |
++| Learners are asked to engage rather than defend, and questioning ideas well is a skill the education trains | HELP__achology-disagreement-open-discussion.md | "the Trust Statement sets the standard: engage critically rather than defensively, reflect before reacting."; "Treating discussion as a contest closes down exactly the perspective-taking that applied psychology trains." |
++| Achology commits to its policies in writing | HELP__personal-responsibility-achology-learning.md | "It commits to that in writing" |
++| The community is where the practice happens | HELP__course-included-free-membership-happens-when.md | "the community is where the practice happens: the live events, the coaching board, the peer sessions and the mentorship" |
++| Nothing chases a learner who stops | HELP__adult-to-adult-learning-no-hand-holding.md | "If you stop, nothing chases you" |
+```
+
+### HELP__who-is-achology-not-for.md
+```
+--- before round 2
++++ after round 2
+@@ -29 +29 @@
+-Some hopes don't match what Achology offers. These are the most common:
++Some hopes don't match what Achology offers, and the first is rapid transformation without sustained effort. Skill in psychology grows slowly, through practice, and [no marketing here suggests otherwise](/help/pricing-and-payments/achology-no-transformation-promises/). A course gives you the ideas and the practice, but what changes in your life depends on how steadily you use them.
+@@ -31 +31 @@
+-- **Rapid transformation without sustained effort.** Skill in psychology grows slowly, through practice, and [no marketing here suggests otherwise](/help/pricing-and-payments/achology-no-transformation-promises/).
++The second is watching the videos passively and doing nothing more. If you don't reflect or join in, you get a small part of what you've paid for, because the value is in [practice with other learners](/help/learning-experience/achology-peer-learning-community-teaches/). Ideas you only watch stay ideas, and the practice with other people is what makes them yours.
+@@ -33,3 +33 @@
+-- **Watching videos passively.** If you don't reflect or join in, you get a small part of what you've paid for, because the value is in [practice with other learners](/help/learning-experience/achology-peer-learning-community-teaches/).
+-
+-- **An environment that manages your emotions for you.** [Learners are treated as adults](/help/achology-basics-and-identity/adult-to-adult-learning-no-hand-holding/) who can handle their own reactions, and some of the ideas taught will challenge you before they help.
++The third is an environment that manages your emotions for you. [Learners are treated as adults](/help/achology-basics-and-identity/adult-to-adult-learning-no-hand-holding/) who can handle their own reactions, and some of the ideas taught will challenge you before they help. That is deliberate, so the effort you put in and the pace you keep are yours to set.
+@@ -39 +37 @@
+-Two cases fall outside what Achology offers:
++Two cases fall outside what Achology offers, and the first is clinical need. Achology is an education provider, so it offers no therapy, counselling, diagnosis, treatment or crisis support, and it gives no clinical help of any kind. The answer on [where the boundary sits](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/) says more about that line.
+@@ -41,3 +39 @@
+-- **You need therapy, counselling, diagnosis or treatment for a mental health condition.** Achology teaches; it isn't a clinical service, and the answer on [where the boundary sits](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/) says more.
+-
+-- **Your goal requires a recognised degree or a licence to practise a regulated profession.** The right route is [a university degree](/help/outcomes-and-expectations/can-achology-replace-university-degrees/).
++The second is a goal that requires a recognised degree or a licence to practise a regulated profession. A degree is the required paper for regulated jobs such as clinical psychology, so [a university degree](/help/outcomes-and-expectations/can-achology-replace-university-degrees/) is the right route. Achology teaches psychology, but it can't give you that paper, and saying so now spares you buying the wrong thing.
+@@ -53 +49 @@
+-A careful purchase holds no trap either, because [the 14-day guarantee](/help/refunds-and-billing/does-achology-offer-a-money-back-guarantee/) lets you change your mind if the course isn't what you hoped for. If the picture of who Achology is designed for sounds like you on a good day, you're probably in the right place. That is a fair arrangement for anyone who wants to be sure first.
++Buying isn't a one-way door either, because [the 14-day guarantee](/help/refunds-and-billing/does-achology-offer-a-money-back-guarantee/) lets you change your mind if the course isn't what you hoped for. The free membership and the guarantee together mean you can test whether Achology suits you before you rely on it. You're welcome to take either step first, and to decide at your own pace.
+```
+
+### HELP__why-achology-avoids-diagnostic-labels.md
+```
+--- before round 2
++++ after round 2
+@@ -25 +25 @@
+-So why does Achology.com avoid diagnostic labels in its teaching? It comes down to two reasons that back each other up: scope and belief. Diagnosis is clinical work, done by qualified people under strict rules. Achology trains helpers, coaches, mentors and leaders who aren't clinicians, so they mustn't diagnose anyone.
++So why does Achology.com avoid diagnostic labels in its teaching? It comes down to two reasons that back each other up: scope and belief. Diagnosis is clinical work, and clinical jobs aren't what Achology trains for. It teaches coaching and helping skills, so its members aren't taught to diagnose anyone.
+@@ -27 +27 @@
+-Teaching people to diagnose when their role forbids it would train the very overreach the [Code of Ethics](/about/code-of-ethics/) is there to stop. Then there's belief. Achology's courses are built on growth. They see the people its members help as able to change, and that's the lens this kind of helping needs, not one that sorts people into boxes.
++Teaching people to diagnose when their role doesn't include it would clash with the commitment every practising Achologist makes to work within their competencies, and it comes from the [Code of Ethics](/about/code-of-ethics/). The second reason is belief. Achology's courses are built on growth, because everyone can learn and grow. That's the lens this kind of helping needs, not one that puts people in boxes.
+@@ -31 +31 @@
+-Clinical words have escaped the clinic into everyday talk, and that's where the danger Achology cares about lies. Think of the partner called a narcissist in passing, the colleague written off as borderline, or the friend explained away by an attachment style. Each label comes from someone with no training to judge and no right to act on it, and a careless one shuts down interest in the real person and can become the story they're trapped inside. Achology's members are taught to do the opposite: to meet people as they are, and to notice patterns without turning them into verdicts.
++Clinical words have left the clinic for everyday talk, and that's where the danger Achology cares about lies. Think of the partner called a narcissist in passing, the co-worker written off as borderline, or the friend explained away by an attachment style. Each label comes from someone with no training to judge and no right to act on it, and a careless one kills interest in the person and can become the story they're stuck in. Achology's members are taught the opposite: to understand people, not label them.
+@@ -35 +35 @@
+-It isn't a criticism of psychiatry or clinical psychology. Both do vital work in their own field, where diagnosis, used well by trained hands, opens the door to treatment and support. Nor does it wave away anyone's own diagnosis, since what you've learned through proper clinical care has real value and nothing taught here asks you to reject it. The stance just marks what this education is for: helping people grow outside a clinic, within clear limits, as the answer on [therapy, counselling or coaching](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/) sets out.
++It doesn't put down psychiatry or clinical psychology. In Achology's view, both do vital work in their field, and what you've learned in clinical care is worth a lot. Nor does it argue with anyone's diagnosis, since nothing taught here asks you to drop it. The stance marks what this teaching is for: helping people grow outside a clinic, within clear limits, as the answer on [therapy, counselling or coaching](/help/achology-basics-and-identity/is-achology-therapy-counselling-or-coaching/) sets out.
+@@ -50 +50 @@
+-| Achology does not teach diagnosis and is not clinical training | Live Help answer "Is Achology therapy, counselling, or coaching?" | "It isn't therapy, counselling or clinical training. It doesn't teach how to diagnose, treat, work with trauma or step in during a crisis" |
++| Achology does not teach diagnosis and is not clinical training | Live Help answer "Is Achology therapy, counselling, or coaching?" | "It isn't therapy, counselling or clinical training, and it doesn't teach how to diagnose, treat, work with trauma or step in during a crisis. Those are clinical jobs, and Achology doesn't train for them." |
+@@ -55,0 +56,4 @@
++| Achology teaches coaching and helping skills | Live answer "Is Achology therapy, counselling, or coaching?" | "Achology teaches coaching and helping skills, so it's the coach's side of that line and not the therapist's." |
++| Practising Achologists commit to work within their competencies, and the commitments come from the Code of Ethics | Live answer "What are my commitments as a practising Achologist?" | "Work within your competencies, and be honest about them in relation to a client's situation."; "The commitments of a practising Achologist are five ethical standards you take on when you serve the public, and they come from the [Achology Code of Ethics]" |
++| Achology does not argue with a diagnosis | The Achology Stance On Mental Health (vault) | "Achology does not argue with that name and never offers one of its own." |
++| Psychiatry and clinical psychology do vital work | Achology's own view, labelled in the text | no statistic, no source needed |
+```
+
+### HELP__why-achology-emphasises-personal-responsibility.md
+```
+--- before round 2
++++ after round 2
+@@ -29 +29 @@
+-A photo course half done just gives you a few dull photos. Half-understood psychology tools, used with no care, can hurt a marriage, a client, or a whole team. That gap is why this comes up again and again here, not just once, since education raises what you owe and never carries that weight for you. The risk is real, and it falls on other people.
++In Achology's view, half-understood psychology tools can do harm. A photo course half done just gives you a few dull photos, but those tools, used with no care, can hurt a marriage, a client, or a whole team. That difference is why Achology keeps coming back to responsibility: education raises what you owe, and it never carries that weight for you. The risk is real, and it falls on other people.
+@@ -35 +35 @@
+-This emphasis protects three things at once, and none of them works without the other two:
++This emphasis protects three things at once, and none of them holds without the other two. First, it protects you. It refuses the comfortable idea that buying a course produces a result on its own, because what a course changes depends on your own practice, which is also why Achology doesn't promise anyone a transformation.
+@@ -37 +37 @@
+-- **You.** It refuses the comfortable idea that buying a course produces a result on its own. The reality, that real outcomes depend on your own practice, shows up wherever Achology talks about results, including the answer on why no transformation is promised.
++Second, it protects the people your members go on to help. Members commit to [practise within their competence](/help/community-and-conduct/commit-practising-achologist/), which means being honest about what they can offer in someone's situation. That's the commitment that costs a member something, because it can mean saying no. What they learn is then used inside the limits of their own skill, never beyond them.
+@@ -39,3 +39 @@
+-- **The people your members go on to help.** Members are taught to [practise within their competence](/help/community-and-conduct/commit-practising-achologist/), so what they learn is used inside the limits of their own skill.
+-
+-- **The community itself.** It stays a mature space because everybody in it owns their own conduct, and [community moderation](/help/community-and-conduct/achology-community-rules-moderation/) supports that instead of replacing it.
++Third, it protects the community itself. The community stays a mature space because everybody in it owns their own conduct, and [community moderation](/help/community-and-conduct/achology-community-rules-moderation/) supports that instead of replacing it. Keeping its standards is treated as every member's job rather than only the moderators', which is the same emphasis at work.
+@@ -49 +47 @@
+-A managed learner does well only while someone else is watching and directing every step. A self-directed learner keeps doing well long after the course ends, once nobody is watching at all. That gap is the whole point of the emphasis, and it is why Achology asks you to carry the responsibility yourself.
++A managed learner does well only while someone else is watching and directing every step. A self-directed learner keeps doing well long after the course ends, once nobody is watching at all. That gap is the whole point of the emphasis, and it's why Achology asks you to carry the responsibility yourself.
+@@ -69 +67 @@
+-| Members are taught to practise within their competence | Live Help answer "What are my commitments as a practising Achologist?" | "Work within your competencies, and be honest about them in relation to a client's situation." |
++| Members commit to practise within their competence | Live Help answer "What are my commitments as a practising Achologist?" | "Work within your competencies, and be honest about them in relation to a client's situation."; "Working within your competencies is the one that costs you something, because it means saying no." |
+```
+
+### HELP__will-counsellors-be-replaced-by-ai.md
+```
+--- before round 2
++++ after round 2
+@@ -18 +18 @@
+-| rm_seo_description | Will counsellors be replaced by AI? What American and British counselling bodies say, what a person brings to the room, and what to plan for in a career. |
++| rm_seo_description | Will counsellors be replaced by AI? No one can say for sure, but American and British counselling bodies call AI a support, not a stand-in. |
+@@ -66 +66 @@
+-For the United Kingdom, the British Association for Counselling and Psychotherapy (BACP) [said in February 2026](https://www.bacp.co.uk/news/news-from-bacp/2026/23-february-our-call-for-clearer-ai-regulation-in-mental-health/) that AI is being introduced into healthcare at pace, but that regulation hasn't caught up. It adds that AI isn't bound by ethical or confidentiality standards. It also reports that 28% of therapists in its Mindometer survey noticed clients receiving unhelpful advice from AI tools.
++For the United Kingdom, the British Association for Counselling and Psychotherapy (BACP) made a [call for clearer AI regulation](https://www.bacp.co.uk/news/news-from-bacp/2026/23-february-our-call-for-clearer-ai-regulation-in-mental-health/) in February 2026, saying that AI is being introduced into healthcare at pace, but that regulation hasn't caught up. It adds that AI isn't bound by ethical or confidentiality standards. It also reports that 28% of therapists in its Mindometer survey noticed clients receiving unhelpful advice from AI tools.
+@@ -72 +72 @@
+-An AI tool answers at any hour, so for someone wanting a place to put their thoughts at midnight it may be a useful first step. The ACA adds, in its [guidance for client use](https://www.counseling.org/resources/research-reports/artificial-intelligence-counseling/recommendations-for-client-use-and-caution-of-artificial-intelligence), that AI "lacks the ability to holistically consider a client's complex personal history, cultural context, and varied symptoms". That's the ACA's judgement, and it's worth reading beside its other line that AI shows promise.
++One plain difference is that an AI tool answers at any hour, which a counsellor's appointment book can't match. The ACA adds, in its [guidance for client use](https://www.counseling.org/resources/research-reports/artificial-intelligence-counseling/recommendations-for-client-use-and-caution-of-artificial-intelligence), that AI "lacks the ability to holistically consider a client's complex personal history, cultural context, and varied symptoms". That's the ACA's judgement, and it's worth reading beside its other line that AI shows promise.
+@@ -78 +78 @@
+-Think of writing your worries in a diary. Putting them on paper can help you see them more clearly, yet it isn't the same as telling them to a friend whose face shows they're taking them in. Whether a person feels heard by software is something each person notices for themselves. Some people find it easier to begin by typing to a tool than by speaking to someone, and that's a reasonable way to start.
++Think of writing your worries in a diary. Putting them on paper can help you see them more clearly, yet it isn't the same as telling them to a friend whose face shows they're taking them in. Whether a person feels heard by software is something each person notices for themselves.
+@@ -92 +92 @@
+-Achology's Counselling Skills Practitioner Course (Beginner to Advanced) runs to 176 lessons, and one of them is "The Five Fundamental Levels of Listening". Applying each lesson to your day-to-day life is a way to judge whether the [counselling course](/academy/person-centred-counselling/counselling-skills-practitioner/) suits you. Choose it when you'd like to build those listening skills on yourself first. Look elsewhere if you need a clinical title, because finishing it doesn't give you one.
++Achology's Counselling Skills Practitioner Course (Beginner to Advanced) runs to 176 lessons and teaches counselling skills as applied psychology that you try out on your own life first. Applying each lesson to your day-to-day life is a way to judge whether the [counselling course](/academy/person-centred-counselling/counselling-skills-practitioner/) suits you. Choose it when you'd like to build these skills on yourself first. If a clinical title is what you want, this isn't the route, because the course doesn't carry one.
+```
