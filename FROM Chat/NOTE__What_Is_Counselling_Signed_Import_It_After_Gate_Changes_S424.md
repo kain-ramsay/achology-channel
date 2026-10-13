@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S164: WAITS ON a factory session being open, with gate changes 3 and 9 in (the import is factory work; this theme session touches no content record).
+
 First line of need: Code, `what-is-counselling` is signed by Kain (13 October 2026). Import it with the other signed pieces once gate changes 3 and 9 are in (BRIEF__Bring_The_Gate_Up_To_The_Content_Packs_S423), or import and record the expected fails below.
 
 # NOTE: what-is-counselling is signed, import it (Chat, Session 424, Tuesday 13 October 2026)
