@@ -1,3 +1,16 @@
+First line of need: none yet; the session is still open. Filled from the git log as each change set lands.
+
 # SESSION REPORT S165 (theme session)
 
-Claimed at open, 13 Oct 2026. Filled at close from the git log.
+Board card for every line: the Knowledge Hub content pages sweep (articles, book notes, quote pages).
+
+- **0.707.251 (from the log):** the two dead rules for the old two paths block left kh-band.css section 5. css_deletion_proof.py on the article, book note and quote page at 1440, 1024 and 390, both motion settings: zero differences. No Drawn Bubble or glide leftovers found.
+- **0.707.252 (from the log):** the close's play mark is the registry's own play icon, hidden on itself; icon-registry and icon-hidden-or-named now pass for the close on all three types.
+- **Page gate on the three sample pages (hand added):** the Ring raises no fail. The close raises one, block-heading: the two supporting lines run 28 and 31 words against 12 to 25 (the community line is Kain's own words; the course line is read from the course). Put to Kain.
+- **Other fails named, not the close or the Ring (hand added):** content-width 1080 and breadcrumb-below (the two gate lines answered in NOTE__Hero_Rulings_Written_And_Two_Gate_Lines_Answered_S423, not yet built); the article's Explore More glyphs not hidden on themselves; "Explore More Book Notes" capitals; two quote page images not lazy below the fold on tablet and phone; content items for the factory (acronyms, keyword density, unscored pages, body images, one alt text).
+- **Folder maps (hand added):** tools/folder_map.py run. Nine maps outside the theme are still missing, each waiting on its person-written purpose half.
+- **Not finished:** Karen's six tile pictures have not arrived. The close's icon choice is with Kain (previews/conversation-s164, opened in Safari). The article sweep waits on Kain's notes.
+
+OWED BACK: nothing.
+
+*No em or en dashes in this file; checked before writing.*
