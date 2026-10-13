@@ -1,2 +1,2 @@
-OK  2026-10-13T23:00:13Z
-Nothing to send. Channel and origin agree.
+FAIL  2026-10-13T23:04:20Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: error: update_ref failed for ref 'HEAD': cannot lock ref 'HEAD': Unable to create '/Users/kainramsay/achology-channel/.git/HEAD.lock': File exists..
