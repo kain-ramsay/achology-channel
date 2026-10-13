@@ -15,7 +15,8 @@ Direction A, Soft Light, for all four content types:
 - **The band is warm cream** (`--color-warm-cream`, the thank-you page's) with a hairline foot, in place of the dark bookshelf band. Dark Como title with its ending one weight lighter, soft grey subtitle, orange-link facts.
 - **The stylised pictures dissolve into the band** with no frame and no speech bubble: the article's picture and the quote page's portrait are laid in with multiply, faded in from the right and from below.
 - **The book note and the workbook** stand their cover (the book component, straight, never tilted) on a soft, faint bookshelf that fades into the cream from the right.
-- **The quote** sits on a white paper slip with a strip of tape, the quote typeset in Como, the portrait and the name in Caveat.
+- **The quote page's hero is the same as the article's** (Kain, S162, after seeing the slip: "in the quotes, just lose the quote completely. And just let the banner be the banner. Same as the article."): the faded portrait, and no quote, no slip, no card in the band. The quote lives once, in the card under the band.
+- **The art is fainter** (Kain, S162: "make the article and the quote images ... just fainter ... the subtitle's kind of becoming less visible"): about half strength, drawn further right, so nothing dark sits behind the subtitle; the subtitle is the brand dark. Measured behind the subtitle's own box in WebKit: worst-case contrast 6.8 (article) and 6.5 (quote), 4.5 being the minimum.
 - **The workbook's email box and button** sit in the hero, white field, burnt-orange button.
 - The words keep their S161 rules: 640 column, title 50 to 60 characters, subtitle 150 to 170, the content frame 984 with the panel, header and footer unchanged, roof and foundation held by the grid.
 
