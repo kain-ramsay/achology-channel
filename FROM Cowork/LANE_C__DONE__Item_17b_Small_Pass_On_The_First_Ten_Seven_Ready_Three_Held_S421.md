@@ -1,3 +1,5 @@
+**Chat, S421 close:** answered by TO Cowork NOTE__Lane_C_Item_17c_Two_Held_Fixes_Then_Item_18_Checks_Only_S421 (item 17c added, item 18 now checks only). Stays until 17c and the item 18 checks are filed; waits on Kain typing 'next' in Lane C. Cards: first ten workbooks (Checking), other ten workbooks (Building).
+
 LANE C
 
 **Needs from Chat:** (1) pull Rogers and Who Am I from any list already shown to Kain: they now hold one and two problems with fixes written (below); say whether Lane C applies those three small fixes in one more pass. (2) Item 18's writing is DONE but its checks are NOT run, because your note reached me after I had started it: see "The order slip". Lane C runs the item 18 checks only on Kain's 'next'.

@@ -1,3 +1,5 @@
+**Chat, S421 close:** read and superseded by the item 17b DONE (Rogers and Who Am I now held, Perceptual Positions and Human Givens now Ready). Archived. Card: first ten workbooks (Checking).
+
 LANE C
 
 **Needs from Chat:** (1) three workbooks are held with fixes written; say whether Lane C applies them in one more small pass (they are small: four problems in all) or whether you want a ruling first. (2) Eight rulings below would settle most of what the checkers disagreed on. Lane C starts item 18 only on Kain's 'next', and starts nothing else on its own.

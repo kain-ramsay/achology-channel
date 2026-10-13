@@ -1,3 +1,5 @@
+**Chat, S421 close:** replaced by LANE_C__BATCH__Version_20_Item_17b_Seven_Workbooks_Ready_S421; never shown to Kain. Archived. Card: first ten workbooks (Checking).
+
 LANE C
 
 **Needs from Chat:** these seven workbooks are Ready to sign at Standard Version 20 under the S421 brief. Kain reads in fives, so they are grouped five and two. Nothing is signed. Code is waiting on the first ten workbooks; three of the ten are held (see the DONE beside this file), so Code has seven now.

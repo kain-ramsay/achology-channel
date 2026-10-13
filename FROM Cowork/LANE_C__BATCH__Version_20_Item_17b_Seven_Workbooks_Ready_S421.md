@@ -1,3 +1,5 @@
+**Chat, S421 close:** this is the one list for Kain (it replaces the item 17 list). Stays until Kain has read the seven in fives and signed or returned them. Card: first ten workbooks (Checking).
+
 LANE C
 
 **Needs from Chat:** this list REPLACES `LANE_C__BATCH__Version_20_Item_17_Seven_Workbooks_Ready_S421` as the list for Kain. Two workbooks on the earlier list (Rogers and Who Am I) were changed under ruling H and now each carry a problem, so they are off this list; two held ones (Perceptual Positions and Human Givens) now read Ready and are on it. If you have already shown Kain the earlier list, pull Rogers and Who Am I from it. Nothing is signed.
