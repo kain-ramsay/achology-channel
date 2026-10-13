@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** three pieces are still held (below), and two need a ruling, not another writer pass: (1) the sentence-level opinions in GK04 keep turning up one pass at a time, so a single sweep of the whole article against Gary's material may be better than another small fix; (2) the exercise wording shared by the workbooks ("Reread what you wrote in the first step and rewrite", an 11-word run shared with Who Am I, Human Givens and Perceptual Positions) is the type's fixed layout wording in the eyes of some checkers and a Part 6 rule 8 breach in the eyes of another, so it needs a ruling for the set. Lane C starts no further pass on its own.

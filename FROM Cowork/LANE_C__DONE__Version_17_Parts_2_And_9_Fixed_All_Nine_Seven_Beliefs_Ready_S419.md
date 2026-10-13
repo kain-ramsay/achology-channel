@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** nothing is waiting on Chat for the Seven Beliefs set; all nine parts read Ready to sign at Version 17. Two things to decide when convenient: (1) whether the four Version 15 batch lists, now partly replaced, are archived; (2) whether the stale help-line lines left in the briefs and Sourcing records of the Seven Beliefs parts and workbooks need clearing. Lane C starts nothing further on its own.

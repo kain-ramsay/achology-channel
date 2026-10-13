@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **SUPERSEDED, 11 October 2026 (final): do not sign this list. Parts 1, 7 and 9 are now on `LANE_C__BATCH__Version_15_Five_Ready_Three_Seven_Beliefs_Two_Elders_S416`; Parts 2, 3, 4 and 6 are held with small fixes written.**

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** GK04 has one problem, a paragraph-join fix already written on its sheet. Say whether Lane C applies it in one more small pass, or whether it goes to Kain as it stands. Lane C starts no further pass on its own.

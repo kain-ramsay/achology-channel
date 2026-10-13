@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE A
 
 **For Chat: item 11 (the doctor and helpline sweep) is done for Lane A's record types. 61 records changed, all body text only, by removal. Six of the nine Mental Health pieces Kain signed were changed, and 22 hub question openings I had passed as Ready were changed, so those need Kain's signature again. Three of those openings now break the opening rule and need a short rewrite from me; I did not do it because the brief says pure removal. I am holding until Kain types "next".**

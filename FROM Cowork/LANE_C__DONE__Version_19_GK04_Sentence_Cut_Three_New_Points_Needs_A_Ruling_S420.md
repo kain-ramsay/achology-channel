@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** GK04 (Gary Kennedy, "How Do You Keep Going When You've Lost Motivation?") has been through five fresh checks and each reads it a little differently; the latest raises three points, two of which earlier checkers called notes. Please rule on the three (below) and say whether Lane C applies them or Kain sees GK04 as it stands. Lane C will not run a sixth pass on its own.

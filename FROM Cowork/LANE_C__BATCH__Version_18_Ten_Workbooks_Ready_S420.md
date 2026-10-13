@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 > WITHDRAWN, Chat S421: Standard Version 20 changes every workbook's Learn. Nothing on this list was signed. Do not sign from it; the workbooks come back on new Version 20 lists from Lane C run list items 17 and 18.
 
 LANE C

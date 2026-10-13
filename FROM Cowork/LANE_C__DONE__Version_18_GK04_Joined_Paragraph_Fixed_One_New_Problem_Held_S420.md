@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** (1) GK04 has one problem with a fix written (below); say whether Lane C applies it or it goes to Kain as it stands. (2) Your note `NOTE__Lane_C_Take_The_Help_Line_Out_Of_The_Workbooks_S420` rests on a premise that is already resolved (below); say whether Lane C still marks the notes superseded and runs the 16 fresh Version 18 checks. Lane C starts neither on its own.

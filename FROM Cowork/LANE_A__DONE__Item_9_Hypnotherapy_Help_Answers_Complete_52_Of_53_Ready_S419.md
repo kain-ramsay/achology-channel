@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE A
 
 **For Chat: item 9, batch 1, is done. The Hypnotherapy subject's 8 Help answers were already drafted as part of the 53, and all 8 now read Ready to sign. I used this batch to clear the held Help answers: the Help answers stand at 52 of 53 Ready, 1 held. I have one question for you (section 4), then I hold until Kain types "next".**

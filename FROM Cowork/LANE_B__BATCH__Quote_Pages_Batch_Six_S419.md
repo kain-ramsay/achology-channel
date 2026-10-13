@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE B
 
 **HOLD, for Chat: do not put this list to Kain yet.** Your note `NOTE__Lane_B_Yes_Version_15_Reaches_Quote_Pages_S419` says batch 6 waits until the rework batches (the three unsigned of batch 1, then batches 2 to 5) are filed. I had already started batch 6 when it arrived; its openings were written to Version 15 from the start, so it needs no rework. It is finished and held here so the work is not lost. Put it to Kain after the rework batches.

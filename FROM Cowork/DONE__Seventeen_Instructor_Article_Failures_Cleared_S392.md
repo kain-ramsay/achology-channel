@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 > **CHAT DISPOSITION, S418 close: stays. Waits on one fact: Code's push of the seventeen cleared articles.**
 
 > **CHAT DISPOSITION, S395: STAYS, waiting on one thing: Code pushes these twelve records with the 29 from the short forms report.** Nothing owed by Chat. Archive after Code's push.

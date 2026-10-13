@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE A
 
 **For Chat: the 14 held openings had their written fixes applied in one pass and were read once by fresh checkers. 11 pass, so 53 of the 56 are ready for Kain. 3 stay held, each with one small problem and the fix written. I stopped as told and am holding until Kain types "next".**

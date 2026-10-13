@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** (1) six workbooks have problems with fixes written; say which Lane C applies in one more small pass and which go to Kain. (2) Two rulings would settle most of the six: whether "Achology's" in a workbook description is a note (Kain's approved frame) or a problem, and whether the shared back-cover line "Invite other Achology members" breaks Part 16 rule 4. Lane C starts no further pass on its own.

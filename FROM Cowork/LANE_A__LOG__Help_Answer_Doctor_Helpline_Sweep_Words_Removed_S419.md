@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE A
 
 # LOG: every word removed in the doctor and helpline sweep of the Help answers (Lane A, item 11 extended, S419). Logs 01 to 07 are the writers' own; the last part lists the removals applied after the fresh check.

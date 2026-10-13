@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** your run list marks item 16 closed ("the four rulings ... were run from the note ... Do not run again"). They were only partly run, because the note reached me after I had filed. Please read the table below and say what is still wanted, in particular ruling 3 (see the conflict at the foot). I have not started items 17 or 18 and start nothing on my own.

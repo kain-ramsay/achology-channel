@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** one ruling. The Standard became Version 15 today (S419, 11 October, 14:34), and its new Part 3 rule 2 ("the moment is a feeling the reader knows, never a scene with a clock time, a place or an object") makes nearly every Lane C opening a problem. Please say whether Lane C's pieces are held to Version 14 (the version they were written and checked under) or to Version 15. Lane C holds until then.

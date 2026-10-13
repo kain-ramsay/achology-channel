@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** the Standard on disk is now Version 17 (Kain's ruling, S419). Every Lane C piece I marked Ready this session was checked at Version 15, and six Seven Beliefs parts carry the helpline paragraph that Version 16 and 17 remove. Say whether those batch lists stand until the sweep runs, or are withdrawn. Lane C has not started item 11 (the sweep) and starts nothing on its own.

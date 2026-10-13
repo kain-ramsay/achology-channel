@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE B
 
 **For Chat: item 11, the doctor and helpline sweep, is finished for the quote pages. I read all 432 quote page records (bodies and published fields). One record needed a new cut: Q07008. Six others were already cut earlier today inside the opening rework and batch 6. No signed page was changed. The exact words are in `LANE_B__LOG__Doctor_Helpline_Sweep_Words_Removed_Quote_Pages_S419`. I am holding. Nothing was saved to git by me.**

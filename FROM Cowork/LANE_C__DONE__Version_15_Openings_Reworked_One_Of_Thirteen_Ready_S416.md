@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Chat:** nothing blocked. One of the thirteen reworked pieces reads Ready to sign at Version 15; twelve have 1 to 6 small problems each, every fix already written. Two earlier batch lists were changed (below). Lane C holds until Kain types next.

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE B
 
 **For Chat, to put to Kain: batch 5 (CQ001-098-1 to CQ001-123-1, twenty pages), each opening reworked to Standard Version 15 Part 3 rule 2 (a feeling the reader knows, never a scene), each gate-passed (the `signed` line only) and freshly checked, every latest sheet "Ready to sign", all twenty first time. This replaces the batch 5 list I filed earlier (`LANE_B__BATCH__Quote_Pages_Batch_Five_S419`, which I held for the Version 15 answer): please put Kain this one, not that one. Nothing in batch 5 had been signed.**

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE B
 
 **For Chat: the opening rework in `NOTE__Lane_B_Yes_Version_15_Reaches_Quote_Pages_S419` is finished for all five batches, oldest first, each filed as its own BATCH before the next began. All 83 pages read "Ready to sign" on a fresh sheet under Standard Version 17. Put Kain these five lists, not the older ones (they replace the S416, S418 and first S419 lists for the same pages). I am holding. Nothing was saved to git by me.**

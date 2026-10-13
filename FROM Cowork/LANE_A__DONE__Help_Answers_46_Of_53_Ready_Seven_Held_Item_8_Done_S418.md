@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 > **CHAT DISPOSITION, S418 close: stays. Waits on Chat's rulings on its five questions in section 5 (ANLP UK evidence, Johari second maker, the UK in the ruled title, the APS note, the earlier open questions), then the seven held fixes. Lane A has no run list item left.**
 
 LANE A

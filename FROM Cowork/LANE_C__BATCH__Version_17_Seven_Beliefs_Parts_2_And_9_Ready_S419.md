@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 LANE C
 
 **Needs from Kain:** read any sheet you like, pull out any line by number, and sign the rest with one word. Seven Beliefs Parts 2 and 9 are now Ready to sign at Standard Version 17. With `LANE_C__BATCH__Version_17_Seven_Beliefs_Seven_Ready_S419` (Parts 1, 3, 4, 5, 6, 7, 8) all nine Seven Beliefs parts are Ready. This list stands beside that one, which is unchanged.

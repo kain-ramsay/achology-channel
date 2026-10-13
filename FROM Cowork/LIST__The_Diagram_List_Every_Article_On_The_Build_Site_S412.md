@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
+
 > **CHAT DISPOSITION, S413: STAYS, as Chat's working base for the picture batches. Its picture column is being redone under the Content Standard section 10.1 (Version 14); it closes when Kain has ruled every batch and Cowork has the approved pictures.**
 
 # LIST: the diagram list, every article on the build site (S412)
