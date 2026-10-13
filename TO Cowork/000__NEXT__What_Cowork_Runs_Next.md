@@ -3,10 +3,10 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-Nothing. The nine-moves test on `is-mental-health-genetic` is done (your DONE of 13 October). Wait for Kain's read. Chat writes the next brief.
+**The second proof article through Kain's nine moves: `what-is-counselling`.** Brief: `BRIEF__Lane_A_Second_Article_Through_Kains_Nine_Moves_What_Is_Counselling_S424`. Kain read your first article and said it is very, very, very good; it is signed. Run only this one, file one DONE, then stop.
 
-## NEXT, held until Chat writes the brief
-1. **The articles proof:** the other proof articles through Kain's nine moves, one at a time, if Kain passes the test article. Brief to come from Chat.
+## NEXT, held until Chat checks the second article
+1. **The other proof articles through the nine moves, one at a time:** `learned-helplessness-experiment-the-psychology-of-helplessness`, `grow-self-awareness`, `GK02__what-is-jungs-shadow`, `I13__self-awareness-starting-point-of-growth`, `PART_03__know-thyself`. (`AN01` waits on a word from Andrew Nelson or Kain.) Brief to come from Chat for each.
 2. **Then every article you carry, by subject:** hub question articles, field authority articles and hub guides, through the nine moves (PACK_01). Briefs to come, one subject at a time.
 
 ## HELD until the Help answers pack (PACK_04) is signed
