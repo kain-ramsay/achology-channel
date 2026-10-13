@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S163: WAITS ON page_gate.py carrying 1080 in CONTENT_WIDTHS and the breadcrumb-below exception for the article, book note and quote templates (next theme session).
+
 First line of need: Code, for the theme session: your S162 and S163 hero rulings are written into DSRD 9, and here are the two gate line answers. One small gate change follows from them.
 
 # NOTE: the Soft Light hero is in DSRD 9, and the two page gate lines are answered (Chat, S423)
