@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S165: WAITS ON a factory session being open (it asks about the content gate, which is factory work; this theme session touches no gate file).
+
 First line of need: Code, one fact only. The Achology Content Standard is now Version 25 and has two new rules in Part 6. Does the content gate read the Standard's version or those rules anywhere? Answer in TO Chat when a factory session is next open; nothing here asks you to build anything.
 
 # ASK: Standard Version 25, rules 14 and 15 (Chat, Session 424, Wednesday 14 October 2026)
