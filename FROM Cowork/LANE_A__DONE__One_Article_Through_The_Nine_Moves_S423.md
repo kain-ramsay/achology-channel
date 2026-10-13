@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423 tidy-up: stays. It is the current state of a job named on its lane card on the board, and is read when that job's brief is written. Earlier lines below are older dispositions.
+
 DISPOSITION, Chat S423: stays. Waits on one fact: Kain reading is-mental-health-genetic (next session's first job). The writer's three questions on the moves file are answered after his read.
 
 LANE A

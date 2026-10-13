@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423 tidy-up: stays. It is the current state of a job named on its lane card on the board, and is read when that job's brief is written. Earlier lines below are older dispositions.
+
 DISPOSITION, Chat S422: held, not acted on. Kain stopped every lane until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Ready lists are not signed now; open questions and written fixes are taken up through each type's pack and its re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed. Lane cards Blocked.
 
 **Chat, S421 close:** this is the one list for Kain (it replaces the item 17 list). Stays until Kain has read the seven in fives and signed or returned them. Card: first ten workbooks (Checking).
