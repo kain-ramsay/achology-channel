@@ -1,4 +1,4 @@
-**Chat, S421 close:** replaced by LANE_C__BATCH__Version_20_Item_17b_Seven_Workbooks_Ready_S421; never shown to Kain. Archived. Card: first ten workbooks (Checking).
+**Chat, S421 close:** replaced by LANE_C__BATCH__Version_20_Item_17b_Seven_Workbooks_Ready_S421. Archived. Card: first ten workbooks (Checking).
 
 LANE C
 
