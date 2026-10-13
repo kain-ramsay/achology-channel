@@ -876,3 +876,123 @@ NOTE on a standard point for the lead: the lead's brief says paragraphs of 2 to 
 -Achology's Counselling Skills Practitioner Course (Beginner to Advanced) runs to 176 lessons, and one of them is "The Five Fundamental Levels of Listening". Applying each lesson to your day-to-day life is a way to judge whether the [counselling course](/academy/person-centred-counselling/counselling-skills-practitioner/) suits you. Choose it when you'd like to build those listening skills on yourself first. Look elsewhere if you need a clinical title, because finishing it doesn't give you one.
 +Achology's Counselling Skills Practitioner Course (Beginner to Advanced) runs to 176 lessons and teaches counselling skills as applied psychology that you try out on your own life first. Applying each lesson to your day-to-day life is a way to judge whether the [counselling course](/academy/person-centred-counselling/counselling-skills-practitioner/) suits you. Choose it when you'd like to build these skills on yourself first. If a clinical title is what you want, this isn't the route, because the course doesn't carry one.
 ```
+
+## Third round of Help answer fixes (writers' logs)
+
+### round3_log_R1.md
+# Round 3 log, group R1 (LANE A)
+
+## is-achology-therapy-counselling-or-coaching
+- Problem 1: applied. Prospects claims row Supporting line cell extended with: "; and, for the description of the site, the Prospects home page title as the fetch tool returned it: "Prospects | Job & Course Search | Career & University Advice", read 13 October 2026."
+- Problem 2: applied. "Rules about those jobs differ from place to place" -> "Rules about clinical jobs such as psychologist differ from place to place"; claims row Claim cell "Rules about practising these jobs for a fee differ from place to place" -> "Rules about practising a clinical job such as psychologist differ from place to place".
+- Picture/alt: not applied (needs ruling). Gate: FAIL (3), known: keyword in heading, stances, signed. Reading ease 61.1.
+
+## life-coach-or-a-therapist
+- Problem 1: applied. Sourcing record Prospects bullet extended with the sentence about the home page title, 13 October 2026.
+- Problem 2: applied. Two course paragraphs under "Which Achology courses fit each road?" replaced by the sheet's short paragraph and two-item list.
+- Gate: FAIL (2), known: stances, signed. Reading ease 65.6.
+
+## how-to-become-a-cbt-coach
+- Problem 1: applied. New claims-table row (no ICF credential awarded by either course) and a matching sourcing-record bullet. No body change.
+- Gate: FAIL (2), known: stances, signed. Reading ease 69.8.
+
+## call-myself-therapist-achology-courses
+- Problem 1: applied. "recommends a three-stage training route that can take three or four years" -> "points to a three-stage training route into that work, and says getting through it can take three or four years" (link kept).
+- Problem 2: applied. "Neither path is the lesser one, because they prepare you for different work." -> "The two paths prepare you for different work."
+- Picture/alt: not applied (needs ruling).
+
+### round3_log_R2.md
+# Round 3 log, Group R2 (Lane A)
+
+No reading-ease swaps were needed. No helper scripts left. No master files opened.
+
+## can-achology-help-personal-struggles
+- Problem 1: applied. Last sentence "In Achology's view, knowing yourself is where the other changes begin." now "Knowing yourself is where the other changes begin."
+- Problem 2: applied. Description "like confidence, communication and direction." now "like communication, habits and direction."
+- Ruling items (SEO title/description "Achology.com" vs bare keyword; picture and alt): not applied, need Kain.
+- Gate: FAIL (3) known: keyword-in-heading, stances, signed. Reading ease 61.5.
+
+## can-life-coaches-use-cbt
+- Problem 1: applied. NLP paragraph "In Achology's view, a coach can use" now "At Achology.com, the view is that a coach can use"; line paragraph "Achology.com teaches CBT and NLP" now "Achology teaches CBT and NLP".
+- Problem 2: applied. Example sentence now "...a coach asks how it feels to say things she'd like to do instead, so she hears how her words shape her thinking." (old: "might ask ... which is the NLP idea that the words you use shape how you think about something").
+- Problem 3: applied. "That course teaches the coaching itself" now "A life coaching course teaches the coaching itself".
+- Problem 4: applied. Link "accredited members" now "accreditation requirements" (BABCP sentence reworded per sheet); link "lack the qualifications to diagnose" now "life coach training guide" (Prospects sentence split in two per sheet).
+- Not applied: sheet's note on Sourcing record/S419 notes (Chat to tidy, not page text).
+- Gate: FAIL (3) known: seven-word course nickname link (q), stances, signed. Reading ease 67.6. No sentence over 40.
+
+## coaching-vs-counselling-credentials-difference
+- Problem 1: applied. "In Achology's view," added to the opening's second paragraph ("both paths are good work"), the lead "In Achology's view, the cleanest line is the client, and the aim.", and "In Achology's view, the most important skill sits right on this boundary".
+- Problem 2: applied. "why Achology [doesn't offer that path](...)." now "why Achology doesn't offer it, as [replacing therapy training](...) explains."
+- Picture ruling: not applied, needs Kain.
+- Gate: FAIL (3) known: keyword-in-heading, stances, signed. Reading ease 61.4.
+
+## achology-course-outcomes
+- Problem 1: applied. "Say you finish a course on Friday and a neighbour asks you for help with a hard decision on Saturday: you can" now "Say a neighbour asks for help with a hard decision the day you finish a course: you can".
+- Rulings (bare "Achology" in keyword/SEO title/opening, picture and alt, keyword register): not applied, need Kain.
+- Gate: FAIL (4) known: keyword-in-address, keyword-in-heading, stances, signed. Reading ease 63.3. No sentence over 40.
+
+### round3_log_R3.md
+LANE A round 3 log, group R3
+
+## achology-responsible-community-member-advice
+- Problem 1: applied. The three policy paragraphs under "What do Achology's policies say?" were replaced exactly as the sheet wrote them. Old: "These are the three things a member might otherwise assume ... before anyone has to ask." and "whether they are giving the advice or taking it." New: "The page lists them under community learning. It also says you are responsible for your own choices and boundaries when you join in with others there." and the Trust Statement paragraph ending "However sure the person advising you sounds, and the same goes for every member."
+- Problem 2: applied (settled by problem 1's text). Old: "The policy starts from what a practice event is, before it says anything about advice." and "That is the same idea the opening gave: ...". New: "The same section says Achology doesn't assess, supervise, endorse or guarantee the coaching. So the sessions come with no promise of results." and "So the answer is simple. You stay answerable ...".
+- Not applied: picture and alt text, bare "Achology" in the focus keyword, SEO title and description (rulings for Kain), keyword register.
+- Gate: FAIL (4), all known (keyword in address, keyword in heading, empty stances, empty signed). Reading ease 60.0, no swaps needed. Related questions and UKRLP line present.
+
+## achology-vs-therapy-training-counselling
+- Problem 1: applied. Old: "recommends a [three-stage training route](...) that can take three or four years, and says". New: "sets out a [three-stage training route](...), which it says can take three or four years, and says".
+- Problem 2: applied. Old: "Members are trained to spot where coaching ends and clinical need begins, and knowing ...". New: "Members are expected to know what they're trained to do and what sits outside their skill, and knowing ...".
+- Not applied: bare "Achology" in keyword, title and description, picture and alt text, register; the note about reverting the "needed a clinician" rewording (a ruling, not a fix).
+- Gate: FAIL (3), all known (keyword in heading, empty stances, empty signed). Reading ease 62.9, no swaps. Related questions and UKRLP line present.
+
+## does-achology-provide-crisis-support
+- Sheet problem 1 (bare "Achology" at first running-text mention): applied. Old: "Does Achology offer crisis support if you are struggling right now?" New: "Does Achology.com offer crisis support if you are struggling right now?"
+- Not applied: picture and alt text (ruling).
+- Gate: FAIL (3), all known. Reading ease 60.7, no swaps. Related questions and UKRLP line present.
+
+## why-achology-emphasises-personal-responsibility
+- Problem 1: applied. Old: "Keeping its standards is treated as every member's job rather than only the moderators', which is the same emphasis at work." New: "Every member is expected to help hold those standards themselves, and not only the moderators, which is the same emphasis at work."
+- Not applied: picture and alt text (ruling), keyword register sync (never opened).
+- Gate: FAIL (3), all known; the seven-word shared run against the moderation answer is gone. Reading ease 60.6, no swaps. Related questions present; UKRLP line present (longer wording, unchanged).
+
+### round3_log_R4.md
+# Round 3 log, group R4 (LANE A, S420)
+
+## will-counsellors-be-replaced-by-ai
+- Problem 1: applied. (a) "Can AI never do the job?" first paragraph: added BACP/Martin Bell sentence; "the bodies above treat AI as something to place beside a counsellor for now" became "both bodies treat AI as something to place beside a counsellor". (b) New claims-table row (BACP human touch) added before "BACP's call is for clear accountability".
+- Ruling items: none. Gate FAIL (2): stances, signed. Reading ease passes.
+
+## achology-s-character-code-based-aristotle
+- Problem 1: applied, four replacements. "one of too much and one of too little" -> "one that overshoots and one that falls short"; "That structure..." paragraph -> generosity scene (shrug / spend too freely or hold on too tightly); "plus one live session for each" -> "plus a live session on each"; "Keeping eight of the ten sessions current is what keeps [your status green]" -> "As long as eight of the ten sessions stay current, [your status stays green]".
+- Ruling items: none. Gate FAIL (4): slug, heading, stances, signed (all known). Reading ease 60.0, passes; no word swaps needed.
+
+## who-is-achology-not-for
+- Problem 1: applied. Two rows added to the claims table before the Achology Gateway row (own pace, no cohorts or deadlines; challenge is part of learning).
+- Not applied (needs Kain's ruling): keyword register vs rm_focus_keyword "not designed for"; first-mention "Achology.com" identification (sheet did not count it, wrote no fix); picture alt text.
+- Gate FAIL (4): known lines. Reading ease 65.0.
+
+## what-does-achology-certification-qualify
+- Problem 1: applied. Opening last sentence now ends "or use a clinical title such as therapist."; three table rows (titles differ, no clinical credentials, not legal qualification) replaced by the four written rows.
+- Problem 2: applied. Lead-in and three bullets replaced by one paragraph (four sentences).
+- Problem 3: applied. Paragraph after the checks replaced with the friend-of-a-friend coaching example paragraph.
+- Not applied (needs Kain's ruling): picture and its description.
+- Gate FAIL (4): known lines. Reading ease 61.6; no sentence over 40.
+
+All four records still open on the reader's question with the answer, and keep Related questions and the UKRLP line. No em or en dashes added. No word-level swaps were needed.
+
+### round3_log_R5.md
+LANE A round 3 log, group R5
+
+## what-does-achology-expect-from-learners
+- Problem 1: applied. Self-management bullet. Old: "Education that examines the self will sometimes feel uncomfortable. Say a lecture unsettles you one evening: you ask what landed hard and whether it touched something worth a closer look, rather than rushing to a verdict. That response..." New: "Say a lecture unsettles you one evening: you stay curious about which part hit hardest and why, and you hold off judging the lecture until you've looked. That response..." (link unchanged).
+- Problem 2: applied. Old: "Expectations stated after a purchase are just traps." New: "In Achology's view, expectations stated after a purchase are just traps."
+- Picture and alt text: not applied (needs Kain's ruling).
+- Reading ease 61.8, no word swaps needed.
+
+## why-achology-avoids-diagnostic-labels
+- Problem 1: applied. Old: "...would clash with the commitment every practising Achologist makes to work within their competencies, and it comes from the [Code of Ethics](/about/code-of-ethics/)." New: "...would clash with the [Code of Ethics](/about/code-of-ethics/), where every practising Achologist commits to work within their competencies."
+- Picture and alt text: not applied (needs Kain's ruling).
+- Reading ease 60.0, no word swaps needed.
+
+Gate on both: FAIL (3), only the known lines (keyword in heading, empty stances, empty signed).
