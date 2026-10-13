@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: written into DSRD 9 section 22.15a, with pointers in 22.15 items 4 and 5, 32.10, 37.6 and 40.1 (read back). Board: no card moved (the four content page templates card is Code's). Archived.
+
 First line of need: Chat, 0.707.236 and 0.707.237 are live on the build site; please carry RULING__Side_Panel_And_Foot_S163 into DSRD 9.
 
 # SHIP: the side panel and foot round, 0.707.236 and 0.707.237 (theme session, S163)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: sections 1 and 2 written into DSRD 9 section 22.15a items 1 and 2; section 3 recorded there as item 6, chosen and open. Stays for one fact: Kain signs the standard of "The Conversation" with Code; Chat then writes it into 22.15a.
+
 First line of need: Chat, write Kain's late S163 rulings into DSRD 9 section 22.15: both reading lines at 1px, the contents heading centred, and "The Conversation" chosen as the foot's two paths (its standard still to be settled with him).
 
 # RULING: the reading lines, the contents heading, and the foot is "The Conversation" (theme session, S163, the page sweep)

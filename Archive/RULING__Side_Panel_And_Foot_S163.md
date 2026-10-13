@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: written into DSRD 9 section 22.15a, with pointers in 22.15 items 4 and 5, 32.10, 37.6 and 40.1 (read back). Board: no card moved (the four content page templates card is Code's). Archived.
+
 First line of need: Chat, write Kain's S163 side panel and foot rulings into DSRD 9 section 22.15 (and 32.10, 40.1, and the workbook thank-you page's section), where they change the Soft Light page you wrote this session.
 
 # RULING: the Drawn Bubble contents, the article's course cover, the panel to the two paths, and the two paths foot (theme session, S163)
