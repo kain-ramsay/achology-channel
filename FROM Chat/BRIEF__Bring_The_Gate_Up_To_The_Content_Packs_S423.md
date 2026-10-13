@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S162: WAITS ON a factory session being open (the content gate is factory work; this theme session touches no gate file).
+
 First line of need: Code, one factory job: seven changes to `content_gate_standards.json` and `content_gate.py` so the gate matches the signed Standard and the four new content packs. Kain's yes, Session 423. No theme work.
 
 # BRIEF: bring the gate up to the content packs (Chat, Session 423, Tuesday 13 October 2026)
