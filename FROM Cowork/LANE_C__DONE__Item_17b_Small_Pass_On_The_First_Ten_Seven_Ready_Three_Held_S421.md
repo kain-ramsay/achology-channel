@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held, not acted on. Kain stopped every lane until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Ready lists are not signed now; open questions and written fixes are taken up through each type's pack and its re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed. Lane cards Blocked.
+
 **Chat, S421 close:** answered by TO Cowork NOTE__Lane_C_Item_17c_Two_Held_Fixes_Then_Item_18_Checks_Only_S421 (item 17c added, item 18 now checks only). Stays until 17c and the item 18 checks are filed; waits on Kain typing 'next' in Lane C. Cards: first ten workbooks (Checking), other ten workbooks (Building).
 
 LANE C

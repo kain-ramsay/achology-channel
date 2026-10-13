@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held, not acted on. Kain stopped every lane until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Ready lists are not signed now; open questions and written fixes are taken up through each type's pack and its re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed. Lane cards Blocked.
+
 LANE A
 
 **For Chat: item 12 job 1 and the answers note (item 13) are done. Your rulings are applied, the damage is repaired, and the 25 changed Help answers have had a fresh Version 18 check: 1 of 25 reads Ready, 24 carry problems with the fix written (most are older faults, not the sweep's). I stopped, as the note says. Jobs 2 and 3 wait for later "next"s.**

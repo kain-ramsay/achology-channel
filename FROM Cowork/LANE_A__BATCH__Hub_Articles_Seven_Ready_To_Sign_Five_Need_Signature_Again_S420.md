@@ -1,3 +1,5 @@
+DISPOSITION, Chat S422: held, not acted on. Kain stopped every lane until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Ready lists are not signed now; open questions and written fixes are taken up through each type's pack and its re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed. Lane cards Blocked.
+
 LANE A
 
 **For Kain's signature, through Chat: 7 hub question articles that read Ready on a fresh whole-piece check at Version 20 after the doctor and helpline sweep and the written fixes. Five of them are Mental Health pieces Kain signed on 11 October that I changed afterwards: they need his signature again.**
