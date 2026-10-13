@@ -996,3 +996,253 @@ LANE A round 3 log, group R5
 - Reading ease 60.0, no word swaps needed.
 
 Gate on both: FAIL (3), only the known lines (keyword in heading, empty stances, empty signed).
+
+## Job 2: written fixes applied to the 31 hub question pieces (writers' logs)
+
+### j2fix_log_A.md
+# Job 2 fix log, group A (S420)
+
+## how-to-improve-mental-wellbeing
+- Problem 1: applied. rm_seo_description old "...beyond a list of habits: catch the next feeling, name it, check its thought and choose one small thing to do." new "How to improve mental wellbeing, in Achology.com's view: catch the next feeling, name it, check its thought and choose one small step."
+
+## is-mental-health-genetic
+- Problem 1: applied. Deleted "Achology makes no claim about genes, and the research it reports is other teaching, not its own." from the opening's third paragraph.
+- Reading ease fell to 59.9; one word-level swap: "lets you hear it as a clue instead." became "lets you hear it as a clue." (dropped "instead"; no sentence added). Now 60.0. (Tried and reverted: "bound to become" to "will become", no effect.)
+
+## mental-health-without-therapy-or-medication
+- Problem 1: applied. NIMH named link added to https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health.
+- Problem 2: applied. Practice block last sentence now "Notice how the thought feels once it is outside your head, and how much weight it carries."
+- Problem 3: applied. rm_seo_description "what Achology adds" to "what Achology.com adds".
+- Problem 4: applied. Course paragraph: ", at your own pace" removed.
+- Problem 5: applied. Deleted "That's worth knowing before you decide anything about going without."
+
+## should-mental-health-be-taught-in-schools
+- Problem 1: applied, all three edits (opening third paragraph with fact sheet link and "given then" to "given", standards sentence removed; section 1 first paragraph opens "That fact sheet lists"; second paragraph names UNESCO in full in brackets).
+
+## Gate results
+- how-to-improve: FAIL (1), nickname link only (exception q); reading ease 62.5.
+- is-mental-health-genetic: FAIL (1), nickname link only; reading ease 60.0.
+- without-therapy: FAIL (1), nickname link only; reading ease 63.9.
+- schools: FAIL (2), "myriad" in the printed trial title (exception a) and nickname link; reading ease 60.0.
+No new FAILs. Nothing skipped.
+
+### j2fix_log_B.md
+# j2fix log, group B (Lane A, S420 job 2 fixes)
+
+## why-mental-health-is-important-in-everyday-life
+- 1 applied: Sources WHO entry, removed "read 6 October 2026". Gate: FAIL (1), six-word course nickname link only. Reading ease 69.0.
+
+## best-counselling-books
+- 1 applied (two edits): Sue et al. link/sentence now Wiley, ninth edition, May 2022; Reeves and Bond paragraph now sixth edition July 2026, BACP sentence replaced as written.
+- 2 applied: Sources list added (seven entries), inside the replacement foot.
+- 3 applied: foot from "Where Achology fits" down to Sourcing record replaced with the sheet's foot (closing, Put this into practice, Sources, Learning this at Achology).
+- 4 not applied: wisdom-anchor addition (A Way of Being sentence).
+- 5 applied: "we found no published ranking of these titles that could be cited fairly."; "and these books come mostly from US and UK publishers".
+- Gate: FAIL (5), all excused: 41-word paragraph band, link text, links per paragraph, stances, signed. Reading ease 61.5. No word swaps needed.
+
+## can-mindfulness-meditation-be-harmful
+- 1 applied: heading line, post_title, rm_seo_title, rm_seo_description words.
+- 2 applied: post_excerpt.
+- 3 applied: opening third paragraph.
+- 4 not applied: wisdom-anchor paragraph (Kain quote).
+- 5 applied: foot replacement (Back to the notebook, Put this into practice, Sources).
+- 6 applied: Learning this at Achology paragraph (full name plain, nickname link, at least 14 hours).
+- 7 applied: evidence-based article sentence added.
+- Gate: FAIL (5), all excused: paragraph band (45, 36), keyword in two headings, 8-word link, stances, signed. Reading ease 60.1. No word swaps.
+
+## cbt-and-person-centered-therapy
+- 1 applied: course sentence now "176 lessons and at least 44 hours".
+- 2 applied: CBT course sentence deleted; "The course is education ... register." replaced as written.
+- 3 applied: reflective line reworded.
+- 4 applied: "genuinely" removed.
+- Gate: FAIL (6), all excused/noted on sheet: 48-word paragraph, link text, two links in one paragraph, course full name linked (older foot shape), stances, signed. Reading ease 68.1.
+
+### j2fix_log_C.md
+# LANE A job 2 fix log, group C
+
+## cbt-vs-dbt
+1. applied: "Its lesson The Three Spheres of Human Cognition teaches the wise mind model" -> "The course also teaches the wise mind model".
+2. applied: "Most people meet the wise mind first, and on a page she wrote for" -> "The wise mind is the idea to meet first, and on a page she wrote for".
+3. applied: "puts the difference in one sentence: CBT focuses" -> "puts the difference in one line. CBT focuses". Side effect: the "CBT vs DBT: what they share" paragraph 1 now reads 5 sentences/89 words, so the older paragraph-band line lists it among its breaches (3 now, was 2). No word swaps needed; reading ease 69.5.
+Gate: FAIL (6), all older lines (band, link text, two links, course, stances, signed).
+
+## cognitive-behavioural-therapy-app
+1. applied: "more than 16 hours" -> "at least 16 hours".
+2. applied: ", and one of its lessons covers the Socratic method of questioning. It teaches" -> ". It teaches".
+3. applied: "a helper alongside other support." -> "a helper for practice, not as proof that it does what a person does."
+4. applied: NHS now linked as "NHS page on CBT" in the body sentence.
+Not applied: none. Gate: FAIL (5), all older lines; reading ease 69.6.
+
+## counselling-vs-cbt
+1. applied: "more than 14 hours" -> "at least 14 hours".
+2. applied: deleted " and includes a lesson on the CBT communication framework".
+3. applied: deleted the Counselling Skills Practitioner Course sentence.
+4. applied: "The titles overlap, as BACP describes." -> "And BACP describes counselling and psychotherapy as a continuum, too."
+Not applied: none. Gate: FAIL (5), all older lines; reading ease 66.8.
+
+## counselling-vs-psychotherapy
+1. applied: rm_seo_description changed to the sheet's wording; answer paragraph "and BACP calls it a continuum of practice" removed; overlap section paragraph 2 replaced whole (no link); sourcing record line "BACP, some psychotherapy trainings longer..." deleted; the planned link "[BACP on titles]" deleted from the brief's links line (section 7).
+   Not applied (no exact wording written): the claims-table row on the BACP titles claim (brief) and the ACA sourcing line change ("29" dropped) in the Sourcing record; the body already no longer states either.
+2. applied: ACA sentence replaced with the "definition of counseling" link and no "29 organizations". The sheet's side note (Chat may confirm the goals clause) is left for Chat.
+3. applied: BACP counsellor sentence replaced with the sheet's new wording.
+4. applied: sourcing line on the when-to-get-help paragraph deleted; brief section 1 ends "...about the two words."; section 2 phrase "and gives the reader questions that work whichever word is used" deleted; section 6 " What should I ask before I book." deleted.
+Gate: FAIL (5), all older lines; reading ease 60.6 (no swaps needed).
+
+### j2fix_log_D.md
+# j2fix log, group D (Lane A)
+
+## criticisms-of-cbt (gate FAIL 5, all old lines: paragraph band, link text, course name form, stances, signed)
+- P1 (replace M1 source): not applied, Chat chooses the source.
+- P2 applied: opening p2 and section "named criticisms" p1-p4 rewritten as the sheet wrote (three criticisms, practice summary wording, homework paragraph deleted).
+- P3 applied: "In Achology's view, the criticism worth taking most seriously is different from all three. It is about how the method is passed on to people."
+- P4 applied: "widely recommended" sentences replaced; "solid, published support" -> "published support".
+- P5 applied: "more than 14 hours" -> "at least 14 hours".
+- P6 applied: opening p3 replaced with the sheet's 55-word version.
+- P7 applied: heading -> "Two people, one worksheet".
+- P8 applied: practice block added after the closing paragraph, before the sourcing record.
+- P9 applied: who-it-suits sentence added.
+- P10 applied: rm_seo_description replaced.
+- Reading ease went to 71.1 after the fixes. Word swaps made, no sentence added: "worries"->"concerns", "second look"->"reconsideration", "know what is missing"->"recognise what is missing", "to know why"->"to understand why", "stop before you fill it in"->"pause before you complete it", "worksheets to fill in"->"worksheets to complete", "every stumble"->"every difficulty". Now 70.0.
+- Gate paragraph-band line now lists 5 short paragraphs (more than before) because sheet text shortened some; older line.
+
+## does-person-centred-counselling-work (gate FAIL 5, old lines only)
+- P1 applied: "so we include them" -> "and both belong in a fair account".
+- P2 applied: help-line note deleted from the sourcing record.
+
+## is-person-centred-therapy-humanistic (gate FAIL 6, old lines only)
+- P1 applied: opening p3 replaced with the sheet's 68-word version, link removed from it.
+- P2 applied: BACP psychodynamic sentence replaced; ", moderately non-directive" deleted from the sourcing-record line (the brief claims table line 55 also says it; the sheet named only the sourcing record, so left).
+- P3 applied: Britannica-adjacent sentence replaced as written; the Britannica Rogers sentence kept.
+- P4 applied: practice paragraph first sentence replaced.
+
+## life-coach-vs-therapist (gate FAIL 4, old lines only; the course line now passes)
+- P1 applied: opening p1 and p3 replaced.
+- P2 applied: heading, advice paragraphs replaced with the Dana and Ravi paragraph, and the "before you begin" sentence replaced.
+- P3 applied: description and excerpt replaced.
+- P4 applied: heading -> "What does a life coach do for someone like Ravi?".
+- P5 applied: old foot replaced with the sheet's whole foot (closing, practice, Sources, course section).
+- Not applied: picture and alt text rulings, wisdom anchor, notes marked not counted (none were written fixes).
+
+### j2fix_log_E.md
+LANE A job 2 fix log, group E (no dashes)
+
+## life-coaching-questions
+1 applied: "real examples" -> "worked examples" in description and excerpt.
+2 applied: 55-word sentence split as written.
+3 applied: "In Achology's view, the words matter in life coaching questions too."
+4 applied: Prospects line replaced as written.
+5 applied: foot replaced (closing, practice block, Sources, Learning this at Achology).
+6 applied via 2 to 5; reading ease 67.6.
+Not applied (rulings): wisdom anchor, picture/alt text.
+Gate: FAIL (5), all old: keyword-in-heading 2 of 6, link text 8 and 7 words, 2 links in a paragraph, stances, signed.
+
+## life-coaching-vs-mentoring
+1 applied. 2 applied (CIPD date removed). 3 applied (both replacements). 4 applied. 5 applied (sentence moved up, then foot replaced in two parts).
+Gate: FAIL (5), all old: paragraph band 45w, link text, links per paragraph, stances, signed. Reading ease 63.3.
+
+## nlp-techniques-you-can-try
+1 applied (excerpt). 
+2 NOT applied: sheet says "Kain's call". Both sentences remain: "ask what it rests on" in opening; "before you trust a seller" in the research close. Rule 15 borderline, needs Kain.
+3 applied (heading "Where did NLP come from?"). 4 applied. 5 applied (paragraph merged, labelled). 6 applied (foot).
+Picture/wisdom/other rulings not applied.
+Gate: FAIL (4), all old: link text, links per paragraph, stances, signed. Reading ease 64.5.
+
+## types-of-cbt
+1 applied. 2 applied (excerpt). 3 applied (14 hours or more, plus suits sentence). 4 applied (full name plain, nickname linked). 5 applied. 6 applied. 7 covered by 3.
+Not applied (rulings): Sources list, practice block, wisdom anchor, course-before-closing order, picture/alt, optional stronger ending.
+Gate: FAIL (6), all old: paragraph band (47w), keyword-in-heading, link text, links per paragraph, stances, signed. Reading ease 63.9.
+
+No reading-ease word swaps were needed. No new FAILs.
+
+### j2fix_log_F.md
+LANE A job 2 fixes, group F (S420). All fixes applied exactly as written; no word swaps were needed.
+
+## use-nlp-on-yourself
+1 applied (post_excerpt replaced). 2 applied (Santa Cruz sentence now "where they aimed to model patterns of excellence"). 3 applied, all five pairs (loosen the hold of; modest ... of that kind; any belief ... beforehand; simultaneously ... observing/observed; originated ... examine). 4 applied, three pairs (NLP calls; it works best when you word; NLP has a dissociation technique, perceptual positions). 5 applied (In Achology's view). 6 applied (A common belief is that). 7 applied (cannot be read as proof that NLP does nothing). 8 applied (course full name plain; [Mindset Mastery] linked). 9 applied (suits line, inside 8's second edit).
+Not applied: ruling blocks (a) to (d) and picture/alt (sheet writes no fix).
+Gate: reading ease 69.1 PASS. FAILs left, all old: headings keyword (2 of 4), link text (6 and 8 words), 3 links in a paragraph, stances, signed.
+
+## what-is-mindfulness-based-stress-reduction
+1 applied (section "What should you ask before joining a programme like this?" deleted; "Hold that stated purpose ... wanting to understand yourself. The figures here are a snapshot ..."; "As for its purpose"). 2 applied (opening paragraph 3 replaced). 3 applied (59-word sentence replaced). 4 applied (via 3). 5 applied (post_excerpt). 6 applied (rm_seo_description "Achology.com's aim"). 7 applied (via 8, "33 hours or more"). 8 applied (course paragraph replaced as written, incl. [the mindfulness course] link and suits line). 9 applied (link to how-to-practice-mindfulness added after "The habit is small,").
+Not applied: ruling blocks (a) to (d), picture/alt.
+Gate: reading ease 64.6 PASS. FAILs left: paragraph band (MBCT section p1 = 2s/43w, untouched old paragraph), headings keyword, link text 'MBCT.com' (1), stances, signed. The deleted section's removal leaves the MBCT section p1 line as before.
+
+## who-is-cognitive-behavioural-therapy-for
+1 applied. 2 applied (two pairs). 3 applied. 4 applied. 5 applied. 6 applied. 7 applied, four pairs plus problems 4 and 6 (connection; serious difficulty/habitually; examine; considerable courage; understand). 8 applied (full name plain; "the CBT for Mental Health and Wellness course" linked, suits clause added).
+Not applied: ruling blocks (a) to (d), picture/alt.
+Gate: reading ease 69.9 PASS. FAILs left: link text (6, 7 and 8 words; the 8-word one is the course nickname link the sheet wrote), 2 links in a paragraph, stances, signed.
+
+## who-is-life-coaching-for
+1 applied. 2 applied (two sentences). 3 applied (Achology section replaced by block 1, closing block 2 added). 4 applied (practice block). 5 applied (Sources list, placed after practice block). 6 applied (Learning this at Achology). Foot order as sheet: Achology section, closing, practice, Sources, Learning.
+Not applied: picture/alt (no fix written).
+Gate: reading ease 64.6 PASS. NEW FAIL: "every Sources entry appears in the body (Part 11 rule 4)": the Hullinger and DiGirolamo entry is not matched in the body (body names the guide only through the link words "The ICF's guide for coaches"). Sheet's entry applied exactly; no text invented. Other FAILs old: link text, 2 links in a paragraph (two sections), stances, signed.
+
+### j2fix_log_G.md
+# j2fix log, group G (LANE A, S420 job 2)
+
+## who-is-person-centred-therapy-for
+1 applied: course paragraph replaced by final "## Learning this at Achology" (nickname link "counselling course"); lesson 100 sentence gone with old section.
+2 applied: fifth paragraph (Rogers's fifth condition, edge of the approach) added at end of "When person-centred counselling is used" section.
+3 applied: post_excerpt replaced ("suits a person who wants a listener rather than an adviser ... asks of you").
+4 applied: "Bring any of those" -> "Any of those counts"; opening paragraph 3 replaced as written.
+5 applied: "How Achology approaches counselling skills" replaced by Block 1 plus closing "What if your question does count?".
+6 applied: "## Put this into practice" block after closing.
+7 applied: "## Sources" block (4 entries) after practice, then course section last.
+Reading-ease swaps (gate was 59.1 after fixes; now 60.1), word-level only: "more honest start" -> "better start" (also removes watched word); "say" for "have said"; "decision-making conversations" -> "deciding talks"; "settles" -> "decides"; "hand down a verdict" -> "give a verdict"; "this kind of conversation sets out to settle" -> "this talk aims to settle"; "hear what you already think" -> "hear what you think"; "borrow" -> "use"; "someone else's opinion" -> "view"; "best placed" without "the one"; "conversations work" -> "talks work" (Block 1).
+Gate after: FAIL (7): old known lines plus two new FAILs from the sheet's own Sources list: "every outside source linked in the body is listed: not listed: psychclassics.yorku.ca" (sheet lists Rogers by doi.org link) and "every Sources entry appears in the body: BACP". Not changed (sheet text). Needs a ruling.
+
+## why-life-coaching-is-bad
+1 applied: opening paragraph 3 last sentence and mental-health last paragraph replaced as written.
+2 applied: last paragraph of title/training section replaced as written.
+3 applied: both "In Achology's view" / "Achology holds that ... that none is" edits.
+4 applied: hub-guide sentence added to end of Achology paragraph 1; paragraphs 2 and 3 deleted; closing "What do you do with a loud opinion?" added.
+5 applied: Put this into practice block.
+6 applied: Sources block.
+7 applied: Learning this at Achology section last.
+8 applied: post_excerpt replaced.
+No reading-ease swaps needed (62.9). Gate FAIL (4): old known lines only (link text, links per paragraph, stances, signed).
+
+## zen-vs-mindfulness
+1 applied: post_excerpt (Achology.com; "how to tell which one a class or book is offering").
+2 applied: section "What can you ask about a class..." deleted; "ask that school" sentence replaced.
+3 applied: opening paragraph 3 replaced.
+4 applied: both over-40 sentences replaced as written. Note: the second old sentence's clause "to learn them you read the school's pages or ask its teachers" was also named in problem 2; the later (problem 4) wording was applied.
+5 applied: link words "its page on how to do zazen" (7 words; gate link-text line, excused older kind).
+6 applied: sixth paragraph on limits added at end of "What does mindfulness mean at Achology?".
+7 applied: "How Achology approaches mindfulness" replaced by closing "What do you want from it?" (no separate Achology section, per sheet).
+8 applied: Put this into practice.
+9 applied: Sources.
+10 applied: Learning this at Achology.
+No reading-ease swaps needed (63.8). Gate FAIL (6): paragraph band, keyword in 2 headings, link text (7 words new, from the sheet), links per paragraph, stances, signed.
+
+## mindfulness-therapy
+1 applied: Linehan Institute link. 2 applied: Sources. 3 applied: limits sentence added. 4 applied: closing "What is the question underneath the word?". 5 applied: Put this into practice. 6 applied: Learning this at Achology. Replacement foot pasted whole (Achology section removed, per sheet).
+No swaps (67.9). Gate FAIL (3): 33-word paragraph, stances, signed (as the sheet predicted).
+
+### j2fix_log_H.md
+# J2 fix log, group H (LANE A)
+
+## best-cbt-books
+- P1 applied: rm_seo_description "...through to the book most practitioners actually train on." -> "...through to a standard practitioner training text."
+- P2 applied (a)-(d): Handbook sentence, New Guide sentence ("genuine second book" -> "second book"), "In Achology's view, between the two books...", "genuine standard" -> "standard".
+- P3, P4, P5 applied: replacement foot (closing, practice block, Learning this at Achology) replacing from "Our [CBT Toolkit: ..." to before "## Sourcing record".
+- Not applied: picture/alt ruling, Part 4 anchor, Wikipedia ruling, housekeeping notes.
+- Gate: FAIL (4), reading ease 69.4. Remaining: 6-word link (A New Guide to Rational Living), 2 links in one paragraph (older), empty stances, empty signed.
+
+## cbt-techniques-and-exercises
+- P1 applied: first heading -> "Where can you start with CBT techniques and exercises?"
+- P2 applied (a) NHS paragraph replaced; (b) "Structured problem solving" -> "Solving problems".
+- P3 applied: both sentences replaced.
+- P4, P5, P6, P7 applied: replacement foot (closing, practice, Sources, Learning this at Achology).
+- Not applied: picture/alt ruling, Part 4 anchor, opening therapist line (Kain's call), planned links note.
+- Gate: FAIL (2), reading ease 69.1: stances and signed only.
+
+## person-centred-therapy-goals
+- P1 applied: (a) opening para 3 sentence replaced; (b) limit sentence arrives via P2.
+- P2 applied: On Becoming a Person sentences replaced as written.
+- P3 applied: course sentence in first Achology paragraph replaced with "Most of us do it without hearing ourselves...".
+- P4 applied: counsellor example line replaced.
+- P5, P6, P7, P8 applied: replacement foot (closing, practice moved, Sources, Learning this at Achology); old course/Help-answer paragraph and old practice paragraph removed.
+- Not applied: picture/alt, anchors, any rulings in notes.
+- Gate: FAIL (5), reading ease 62.8: paragraph band (p1 41 words older line; p3 5 sentences/88 words, question mark in linked title, artefact the sheet predicted), 8-word link and 2 links in one paragraph (older lines), empty stances, empty signed.
+- Not new: no swaps needed for reading ease on any record.
