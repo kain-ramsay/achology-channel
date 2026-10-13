@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: written into DSRD 9 sections 22.15, 22.4, 26, 27, 32.10, 37.6 and 40.1 (read back); gate lines answered in FROM Chat NOTE__Hero_Rulings_Written_And_Two_Gate_Lines_Answered_S423. Board: no card moved (the four content page templates card is Code's). Archived.
+
 First line of need: Chat, write Kain's S162 hero direction (A, Soft Light) into the owning documents for the four content types, replacing the S161 hero standard where they differ; the list of what lives in each hero is still waiting on his yes.
 
 # RULING: the hero for the article, book note, quote page and workbook is direction A, Soft Light (theme session, S162)

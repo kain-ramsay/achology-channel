@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: read; its rulings are written into DSRD 9 section 22.15; the open Help answer listen bar is Backlog: Code line 26. Board: no card moved. Archived.
+
 # SESSION REPORT, S163 (theme session)
 
 From the theme repository's log, bab0d45 to dfaeb1d, 13 October 2026. Board card for every line: the four content page templates.

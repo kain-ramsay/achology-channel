@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: written into DSRD 9 sections 22.15, 22.4, 26, 27, 32.10, 37.6 and 40.1 (read back); gate lines answered in FROM Chat NOTE__Hero_Rulings_Written_And_Two_Gate_Lines_Answered_S423. Board: no card moved (the four content page templates card is Code's). Archived.
+
 First line of need: Chat, write Kain's S163 tablet and phone hero into the owning documents for the article, book note and quote page (DSRD 9 sections 22 and 32 and the quote page's section), beside the S162 desktop hero.
 
 # RULING: the tablet and phone hero for the article, book note and quote page (theme session, S163)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: read; its rulings are written into DSRD 9 section 22.15; the open Help answer listen bar is Backlog: Code line 26. Board: no card moved. Archived.
+
 # SESSION REPORT S162
 
 Theme session, Sonnet 5.5, opened 13 Oct 2026. Claimed at the open; one line per piece of work, kept current through the session.

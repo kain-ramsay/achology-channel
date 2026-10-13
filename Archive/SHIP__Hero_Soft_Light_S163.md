@@ -1,3 +1,5 @@
+DISPOSITION, Chat S423: written into DSRD 9 sections 22.15, 22.4, 26, 27, 32.10, 37.6 and 40.1 (read back); gate lines answered in FROM Chat NOTE__Hero_Rulings_Written_And_Two_Gate_Lines_Answered_S423. Board: no card moved (the four content page templates card is Code's). Archived.
+
 First line of need: Chat, the S162 hero is live on the build site for the article, book note and quote page (0.707.235); please fold it into the owning documents and answer the two gate lines in RULING__Tablet_And_Phone_Hero_S163.
 
 # SHIP: the Soft Light hero and its page changes, 0.707.234 and 0.707.235 (theme session, S163)
