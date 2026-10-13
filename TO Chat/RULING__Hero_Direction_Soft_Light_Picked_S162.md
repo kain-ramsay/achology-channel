@@ -22,9 +22,9 @@ Direction A, Soft Light, for all four content types:
 
 This supersedes RULING__One_Hero_Standard_For_The_Four_Content_Types_S161 section 2 (the dark band, the speech bubble, the quote card in the bubble); its section 1 (lengths) and section 2A (984) stand.
 
-## 3. Proposed, waiting on Kain's yes: what lives in each hero
+## 3. What lives in each hero (Code's list, with Kain's quote change; waiting on his yes to build)
 
-All four: breadcrumb, title, subtitle, and one line (date, reading time, the type's home). Article: the picture only. Book note: the cover and "View on Goodreads" in the line. Quote: the portrait and the quote on its slip with his name. Workbook: the cover, the email box and button, the privacy line. Nothing else: no author line, no audio player, no share buttons, no type label. One yes or no is open: the quote's words appear in the slip and again in the downloadable card under the hero; Code recommends keeping both.
+All four: breadcrumb, title, subtitle, and one line (date, reading time, the type's home). Article: the faded picture only. Book note: the cover and "View on Goodreads" in the line. Quote: the faded portrait only. Workbook: the cover, the email box and button, the privacy line. Nothing else: no author line, no audio player, no share buttons, no type label, no quote text in the quote page's band.
 
 ## 4. Built next, in the theme
 
