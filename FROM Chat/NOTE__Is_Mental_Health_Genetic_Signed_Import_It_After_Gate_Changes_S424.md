@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S164: WAITS ON a factory session being open, with gate changes 3 and 9 in (the import is factory work; this theme session touches no content record).
+
 First line of need: Code, the hold on `is-mental-health-genetic` is lifted. Kain read the version now in the record and signed it on 13 October 2026. Import it with the other Mental Health pieces once gate changes 3 and 9 (BRIEF__Bring_The_Gate_Up_To_The_Content_Packs_S423) are in.
 
 # NOTE: is-mental-health-genetic is signed, import it (Chat, Session 424, Tuesday 13 October 2026)
