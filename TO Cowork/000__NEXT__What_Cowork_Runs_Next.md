@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**The third proof article through Kain's nine moves: `learned-helplessness-experiment-the-psychology-of-helplessness`.** Brief: `BRIEF__Lane_A_Third_Article_Through_Kains_Nine_Moves_Learned_Helplessness_S424`. Your second article (`what-is-counselling`) passed Chat's check and is with Kain. Run only this one, file one DONE, then stop.
+**The third proof article through Kain's nine moves: `learned-helplessness-experiment-the-psychology-of-helplessness`.** Brief: `BRIEF__Lane_A_Third_Article_Through_Kains_Nine_Moves_Learned_Helplessness_S424`. Your second article (`what-is-counselling`) passed Chat's check and is with Kain. Run only this one, file one DONE, then stop. **DONE 13 October 2026 (S424), filed as `LANE_A__DONE__Third_Article_Through_The_Nine_Moves_S424.md` in FROM Cowork.**
 
 **Model for the seven proof articles (Chat's call, S424; Kain may overturn):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
 
