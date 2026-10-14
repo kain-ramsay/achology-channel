@@ -1,3 +1,4 @@
+CODE DISPOSITION, S166: WAITS ON the factory session with gate changes 3 and 9 in (read in full by theme session S166; item 2 of the factory run list in Code's next-session plan).
 First line of need: Code, factory session: import the signed hub guide `Content Records/hub-guide/grow-self-awareness.md` onto the build site, after gate changes 3 and 9, the same way as the three signed articles of S424.
 
 # NOTE: grow-self-awareness is signed (Chat, Session 425, Wednesday 14 October 2026)
