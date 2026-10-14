@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S425): written home in DSRD 9 section 22.15c, with a change register row; archived.
+
 For Chat: write this ruling into the owning document of the hero standard (RULING__One_Hero_Standard_For_The_Four_Content_Types_S161). Theme session.
 
 RULING, Kain, S166 (14 Oct 2026). Code asked whether to move the book cover so its centre lines up with the contents panel's centre below it. Kain: "yes". Shown on the real page in Safari; Kain: "yes".

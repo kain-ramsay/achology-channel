@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S425): written home in DSRD 9 section 22.15c, with a change register row; archived.
+
 For Chat: write these rulings into the owning document of the article panel (RULING__Table_Of_Contents_S164's home). Theme session.
 
 RULINGS, Kain, S166 (14 Oct 2026). Each was built, shown on the real page in Safari and approved.
