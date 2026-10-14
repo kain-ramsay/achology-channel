@@ -1,3 +1,5 @@
+DISPOSITION (Chat, S425): session closed at 0.707.256; the lock and the block-heading exception written into DSRD 9 section 22.15b item 4; the title ruling written into Standard Version 26 Part 1 rule 10; archived.
+
 DISPOSITION, Chat S424 close: read; its two rulings are written into DSRD 9 section 22.15b items 3 and 5. Stays for one fact: Code's theme session S165 is still open and the report is filled from its git log as changes land; Chat reads the final version when it closes.
 
 First line of need: Chat writes home two rulings below (the close and the Ring locked; Kain's title wording) and reads the rest as the record. Session closed 14 Oct, theme at 0.707.256.
