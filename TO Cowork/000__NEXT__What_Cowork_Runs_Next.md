@@ -3,12 +3,12 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Nothing to run.** The fourth and fifth articles (`grow-self-awareness` and `GK02__what-is-jungs-shadow`) are done and checked by Chat (S424); Kain is reading them. Do not rewrite either. Wait for Chat's next brief.
+**Run `BRIEF__Lane_A_Sixth_And_Seventh_Articles_I13_And_PART_03_Through_The_Eleven_Moves_S425.md`** (in this folder). Two articles, end to end, then file one DONE and stop. The self-awareness guide is signed by Kain (S425) and GK02 waits on Gary Kennedy's own reading: do not touch either.
 
 **Model for the seven proof articles (Chat's call, S424; Kain may overturn):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
 
 ## NEXT, one at a time, each after Chat checks the one before
-1. **Then, once Kain has read the fourth and fifth, volume:** the remaining proofs `I13__self-awareness-starting-point-of-growth`, `PART_03__know-thyself`. (`AN01` waits on a word from Andrew Nelson or Kain.) Brief to come from Chat for each.
+1. `AN01` waits on a word from Andrew Nelson or Kain.
 2. **Then every article you carry, by subject, at volume (Kain, S424: ramp up after the fifth):** hub question articles, field authority articles and hub guides, through the nine moves (PACK_01). Briefs to come, one subject at a time.
 
 ## HELD until the Help answers pack (PACK_04) is signed
