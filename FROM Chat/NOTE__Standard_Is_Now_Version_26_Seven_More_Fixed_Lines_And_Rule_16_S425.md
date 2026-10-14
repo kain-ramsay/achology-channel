@@ -1,3 +1,4 @@
+CODE DISPOSITION, S166: WAITS ON the factory session (a gate question; read in full by theme session S166, nothing in it touches the page sweep).
 First line of need: Code, for information and one fact back. The Achology Content Standard is now Version 26 (Chat, Session 425, Wednesday 14 October 2026, on Kain's answers).
 
 # NOTE: Standard Version 26
