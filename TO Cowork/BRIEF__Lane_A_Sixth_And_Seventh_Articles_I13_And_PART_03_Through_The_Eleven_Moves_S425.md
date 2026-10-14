@@ -1,11 +1,11 @@
-First line of need: Lane A, two articles, one after the other in the same session, each end to end: `I13__self-awareness-starting-point-of-growth` (Kain's own instructor article) and `PART_03__know-thyself` (Seven Beliefs part 3). Rewrite each paragraph by paragraph with the eleven moves, check every paragraph against every move until none is missed, then stop. Kain's yes, Session 425.
+First line of need: Lane A, two articles, one after the other in the same session, each end to end: `I13__self-awareness-starting-point-of-growth` (Kain's own instructor article) and `PART_03__know-thyself` (Seven Beliefs part 3). Rewrite each paragraph by paragraph with the twelve moves, check every paragraph against every move until none is missed, then stop. Kain's yes, Session 425.
 
-# BRIEF: sixth and seventh articles through the eleven moves (Chat, Session 425, Wednesday 14 October 2026)
+# BRIEF: sixth and seventh articles through the twelve moves (Chat, Session 425, Wednesday 14 October 2026)
 
 **Why.** Kain has signed four articles and the self-awareness guide. His own paragraphs in that guide now set the standard of thinking (PACK_01 files 05 and 06, updated today). Kain does not read these two: Chat checks them against the pack. They are the last proofs before the lanes work at volume.
 
 **Read first, whole:**
-1. `Content Type Packs/PACK_01__Articles/06. How Kain Writes (the moves).md`. New today: Move 10 (ground every point in character, wisdom and responsibility) and Move 11 (Achology's own account of growth: the loop of self-reflection, self-awareness, self-knowledge and self-discipline, never "first" and "second"; self-awareness is never an innate skill or trait; "build", not "grow", self-awareness). Also the technique rule and the eleven fixed lines.
+1. `Content Type Packs/PACK_01__Articles/06. How Kain Writes (the moves).md`. New today: Move 10 (ground every point in character, wisdom and responsibility) and Move 11 (Achology's own account of growth: the loop of self-reflection, self-awareness, self-knowledge and self-discipline, never "first" and "second"; self-awareness is never an innate skill or trait; "build", not "grow", self-awareness). Move 12 (name the cause of every feeling; a step more formal than everyday speech). Also the technique rule and the eleven fixed lines.
 2. `PROOF__Ten_Articles_S423/DRAFT__grow-self-awareness_To_Kains_Standard_S425.md`, paragraphs 1 to 4 (Kain's own). This is the level. Never copy a sentence, scene or device from it (Standard Part 6 rule 8).
 3. `Content Type Packs/PACK_01__Articles/05. Gold Examples.md`.
 
@@ -18,7 +18,7 @@ First line of need: Lane A, two articles, one after the other in the same sessio
 **The records:** `Content Records/instructor-article/I13__self-awareness-starting-point-of-growth.md` and `Content Records/seven-beliefs-series/PART_03__know-thyself.md`. Back each up first to `PROOF__Ten_Articles_S423/originals/{name}__before_moves.md`.
 
 **How, for each article, one after the other.**
-1. **Writer (Opus):** rewrite the body paragraph by paragraph, making every one of the eleven moves in every paragraph. Keep every fact, figure, source, link, heading and field. Add no fact. No em or en dashes.
+1. **Writer (Opus):** rewrite the body paragraph by paragraph, making every one of the twelve moves in every paragraph. Keep every fact, figure, source, link, heading and field. Add no fact. No em or en dashes.
 2. **Checker (a different agent, Opus):** for every paragraph, one line per move: met, or not met with the exact phrase that misses it. Flag every "technique" and every fixed line. Save as `PROOF__Ten_Articles_S423/moves_check/{name}_pass_N.md`.
 3. Every "not met" goes back to the writer; the checker reads the changed paragraphs again. Up to four passes; if it still misses, stop and say which paragraphs and moves.
 4. Run `content_gate.py`. Report any FAIL other than the known ones: the old paragraph band for the type, the six-word course link, reading ease, "content type retired" on a rebuilt article, the full part titles on Seven Beliefs links, and "signed by Kain".

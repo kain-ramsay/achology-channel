@@ -9,7 +9,7 @@ Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Hel
 
 ## NEXT, one at a time, each after Chat checks the one before
 1. `AN01` waits on a word from Andrew Nelson or Kain.
-2. **Then every article you carry, by subject, at volume (Kain, S424: ramp up after the fifth):** hub question articles, field authority articles and hub guides, through the eleven moves (PACK_01). Briefs to come, one subject at a time.
+2. **Then every article you carry, by subject, at volume (Kain, S424: ramp up after the fifth):** hub question articles, field authority articles and hub guides, through the twelve moves (PACK_01). Briefs to come, one subject at a time.
 
 ## HELD until the Help answers pack (PACK_04) is signed
 3. **Help answers:** the 13 Ready to sign after the doctor sweep (your BATCH of S420), the 13 held with fixes written (your Item 12 Job 1 DONE, S420), and `is-an-nlp-course-worth-it` (held from the 53). Re-checked through PACK_04, then to Kain.
