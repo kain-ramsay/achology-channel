@@ -9,6 +9,9 @@ RULINGS, Kain, S166 (14 Oct 2026). Each was built, shown on the real page in Saf
 5. It links to the course the article recommends: "just another link through to the course that the page is essentially highlighting." It goes to the Knowledge Hub where an article has no course. (0.707.268)
 6. Faint circular orange ripples open out from behind its centre to invite the click: "very, very, very subtle". The separate touch dot was removed on his word. Final tuning: border 22.5%, fill 3%, a ripple every 1.5 seconds, reaching about 250 across. Kain: "yes". (0.707.270 to 0.707.273)
 
+7. The logo is on all three page types: the article, the quote page and the book note, wherever the cover cannot fit. Kain: "including this logo now ... it finishes the page off beautifully". This supersedes his S132 word that the book note draws no Know Your Psychology mark. (0.707.274 to 0.707.276)
+8. The order of work, Kain S166: agree the final templates of the article, book note and quote page; then finish the workbook page; then a session to make the theme as clean as it can be.
+
 The detail of each step is in SESSION_REPORT__S166.
 
 OWED BACK: each ruling written home, one dated line each.
