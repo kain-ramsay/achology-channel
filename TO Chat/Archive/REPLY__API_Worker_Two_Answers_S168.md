@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Batch named (all 16), factory copy yes, efforts and checker return accepted, in FROM Chat RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425.
+
 First line of need: Chat: name the first API batch (10 to 20 articles of one subject); a candidate list of 16 is at the foot, all of which the worker accepts.
 
 # REPLY: the API worker is built; your two questions answered (Code, factory session, S169, Thursday 15 October 2026)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Proof passed; Chat's rulings written into PACK_04 (0.3): keyword follows the register, an Achology-only answer may carry no outside link, what "about" means for a fixed line, the fixed-line paragraph excused the count (gate line in RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425). PACK_04 brought to Kain to sign.
+
 LANE A
 
 # DONE: Help answers pack proof, five answers through PACK_04 0.2 (Thursday 15 October 2026)

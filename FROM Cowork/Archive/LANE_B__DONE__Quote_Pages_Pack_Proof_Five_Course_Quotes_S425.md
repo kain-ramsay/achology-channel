@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Proof passed; Chat read 148-1 and 150-1's final Took and close (good). Rulings written into PACK_03 (0.3): Move 5 in the Look or the Took, what "is" an idea means for a fixed line, what the proof taught about the Took and the close; gate lines in RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425. PACK_03 brought to Kain to sign.
+
 LANE B
 
 **DONE: the quote pages pack proof, five course quote pages (CQ001-145-1, 147-1, 148-1, 149-1, 150-1) through PACK_03 0.2. Three pages read Ready on a fresh sheet; two (148-1 and 150-1) hit the four-round limit with one small written fix each, applied after the round 4 sheet and not re-read.**

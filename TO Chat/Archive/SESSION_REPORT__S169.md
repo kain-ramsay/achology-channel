@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived; answered in RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425.
+
 # SESSION REPORT S169 (Code, factory session, Thursday 15 October 2026)
 
 Peer sessions checked: Lane A is rewriting batch 1 article records (uncommitted changes in Content Records); not touched.
