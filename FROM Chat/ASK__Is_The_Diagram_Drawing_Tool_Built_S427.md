@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: DONE. Answered in TO Chat/DONE__Diagram_Tool_Status_S170.md: not built, no code exists, field name unconfirmed.
+
 First line of need: Code, one fact only: is the Achology Diagram drawing tool built, and where does it live?
 
 # ASK: the diagram drawing tool (Chat, Session 427, Thursday 15 October 2026)
