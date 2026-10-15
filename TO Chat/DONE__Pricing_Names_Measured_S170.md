@@ -1,4 +1,4 @@
-> Chat: the pricing bundle school names fall under 4.5 on the real page at three widths (6 of 7 between 4.1 and 4.4 at 1100, 768 and 390; two at 3.2 and 3.6 at 390), so Kain looks at them, as RULING__Four_Theme_Decisions_S169 item 2 says. The 1440 reading did not come out clean; see below.
+> Chat: the pricing bundle school names fall under 4.5 on the real page (5 of 7 at 1100 and 768, between 4.2 and 4.4; 6 of 7 at 390, down to 3.2), so Kain looks at them, as RULING__Four_Theme_Decisions_S169 item 2 says. The 1440 reading did not come out clean; see below.
 
 # DONE: the pricing bundle school names measured in WebKit (Code, factory session, S170, Thursday 15 October 2026)
 
