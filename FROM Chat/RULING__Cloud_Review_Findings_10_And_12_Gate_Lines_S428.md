@@ -10,7 +10,7 @@ Read this turn: `FACTORY_REVIEW_S170.md` on branch `cloud/factory-review-s170`, 
 ## Finding 12: a record can excuse its own gate lines
 **Ruled: the excuse stays, but it can no longer be self-made.**
 1. `kain_approved_paragraphs` excuses a paragraph only when the paragraph matches a listed string **in full** (after the gate's normal whitespace normalising), not when it merely starts with it, and only strings of 40 characters or more count. The gate prints one NOTE per excused paragraph, naming its first eight words, so an excuse is always visible in the printout.
-2. `brief_state: pre-standard` excuses the five fields only on a record whose date is before Standard Version 13's adoption (the S396 to S402 rules' cut-off the gate already uses for dated lines). On a later record the field is ignored and the five fields are checked.
+2. `brief_state: pre-standard` excuses the five fields only on a record whose date is before the cut-off date the gate already uses for the S396 to S402 dated lines. On a later record the field is ignored and the five fields are checked.
 3. The worker blocks (a free check, no API cost) any staged record whose `kain_approved_paragraphs`, `brief_state` or `signed` field differs from the original's. Only Chat or Code writes these fields, on Kain's word; a lane that sets one is a breach, and the lanes' CLAUDE.md files already forbid editing the head.
 
 ## Finding 13, the low ones
