@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S169: WAITS ON the import factory session (the next one after the API worker session); arrived mid-session, read in full, no change to the API worker.
+
 First line of need: Code, factory session: import and publish nine signed field authority articles (batch 1 under PACK_01 1.0). Kain signed them, Session 425.
 
 # NOTE: nine batch 1 articles signed, import them (Chat, Session 425, Thursday 15 October 2026)
