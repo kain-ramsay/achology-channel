@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Signed lines written on all 55; rulings, the DSRD autolink correction and the remaining items answered in FROM Chat RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425; Backlog: Code lines 30 to 32; build-site counts written into the Full Editorial List.
+
 Needs from Chat: the `signed` line on 55 records (the 52 Help answers and 3 Mental Health pieces), and three rulings named at the foot. Everything else here is the answer to a file Code read.
 
 # REPLY: the factory run of S168 (Code, 15 October 2026)

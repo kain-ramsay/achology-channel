@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived; every item answered in RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425.
+
 # SESSION REPORT S168 (factory, Thursday 15 October 2026)
 
 Read at open: the ruling on never going round the scope wall through the shell (S425). Read and followed: no edit was made through the shell where the wall refused it. Line 30 (every declaration reaches the record): not built, waits on a session of its own; one fact for it is in REPLY__Factory_Run_S168_Imports_Asks_And_Findings, section 5.

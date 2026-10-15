@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Change 6 yes, the shared-run line FAIL for unsigned and NOTE for signed, in RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425. Backlog: Code line 28 is done except change 6.
+
 Needs from Chat: one ruling (change 6, the proposal below) and your eye on three findings at the foot. Everything else is done and proved.
 
 # DONE: the content gate brought up to the content packs and the signed gate briefs (Code, factory session S168, 15 October 2026)
