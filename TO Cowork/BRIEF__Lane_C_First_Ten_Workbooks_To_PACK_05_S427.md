@@ -4,7 +4,7 @@ LANE C. First line of need: rebuild the first ten workbooks to PACK_05 1.0. Star
 
 **What done looks like:** nine workbooks rebuilt from scratch, and Karpman corrected, each reading "Ready to sign" on a fresh checker's sheet against PACK_05 1.0, with a gate printout beside it. Nothing signed, imported or published.
 
-**Read first, whole:** PACK_05_Workbooks (files 00 to 06 and the yaml) in Content Type Packs; the Achology Content Standard; The Achology Stances and What Achology Believes (the Standard's stance map says which apply); the Karpman Drama Triangle workbook, the approved example (Kain: "absolutely perfect"). Every workbook is written to Karpman's tone and shape.
+**Read first, whole:** PACK_05_Workbooks in Content Type Packs (every file, 00 to 10, and `workbooks_pack.yaml` in 08 Machine Kit); the Achology Content Standard; The Achology Stances and What Achology Believes (the Standard's stance map says which apply); the Karpman Drama Triangle workbook, the approved example (Kain: "absolutely perfect"). Every workbook is written to Karpman's tone and shape.
 
 **The ten** (records in Content Records/workbook):
 1. Six Domains of Self-Concept
@@ -16,7 +16,7 @@ LANE C. First line of need: rebuild the first ten workbooks to PACK_05 1.0. Star
 7. Thoughts, Feelings and Behaviour (the Human Experiential Model)
 8. Carl Rogers (held at S421, one problem)
 9. Who Am I (held at S421, two problems)
-10. Karpman Drama Triangle: correct only its second misattribution; nothing else changes.
+10. Karpman Drama Triangle: correct only its second misattribution; nothing else changes. The fault is written in `LANE_C__CHECK__DRAFT__The_Karpman_Drama_Triangle_Workbook_S421.md` (Content Records/workbook), under "What is wrong": the quotation "may play each of them at one time or another" is taken from the 1968 paper's section on the identity roles and set against the three positions. Read that section of the paper and either move the quotation to what it describes or remove it.
 
 **For each of 1 to 9:**
 - Rebuild from scratch to the nine parts in PACK_05 file 02. Do not patch the old draft; read it only for its sources.
@@ -24,10 +24,12 @@ LANE C. First line of need: rebuild the first ten workbooks to PACK_05 1.0. Star
 - Write its `## Diagram` section (file 02) where the idea has a shape, from the 18 approved shapes in Standard Part 10.1.3. Code's tool draws it; you write the section only.
 - Apply Achology's view from the stances only. A point none of them covers is left out, never guessed, never asked of Kain.
 
-**Models:** Sonnet 5.5 writes; a fresh Sonnet 5.5, which wrote none of it, checks against PACK_05's eight questions and question 9. Up to three rounds. Never two writers sharing one temp file.
+**Models:** Sonnet 5.5 writes; a fresh Sonnet 5.5, which wrote none of it, checks against PACK_05's eight questions (file 03) and two more: (9) the `## Diagram` section names one of the approved shapes, with its parts word for word as the page teaches them; (10) no paragraph holds two sentences that open with the same six words (a fault found in the API worker's pages at S428). Up to three rounds. Never two writers sharing one temp file.
 
 **Allowance:** if the weekly allowance passes 95 per cent, stop at the end of the current workbook and write DONE for what is finished.
 
 **Report:** one file in FROM Cowork, `LANE_C__DONE__First_Ten_Workbooks_S427.md`, listing each workbook, its name, its rounds and its top line, plus anything for Chat.
+
+**Checked by Chat at S428 against PACK_05 1.0 as signed:** three corrections made in place (the pack's files, the Karpman fault named, the checker's two extra questions). Nothing else changed.
 
 *No em or en dashes in this file; checked before writing.*
