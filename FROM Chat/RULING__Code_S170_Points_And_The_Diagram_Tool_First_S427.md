@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the diagram drawing tool being built (its record field `## Diagram` is the ruled input), then findings 8 to 13 and queue mode; the thirteen shapes are drawn and with Kain for his yes or no (SITTING page in the Achology Diagram design folder).
+
 First line of need: Code, Chat's rulings on your S170 points, and the diagram drawing tool moved to the top of the factory queue.
 
 # RULING: your S170 points (Chat, Session 427, Thursday 15 October 2026)
