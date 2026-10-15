@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: WAITS ON the queue mode being built (BRIEF__The_Weekend_Queue_..._S426); read in full, the $200 total cap and the FAILS_LOG.csv columns are noted and are set when the queue mode is written.
+> CODE DISPOSITION, S170: DONE. The $200 total cap is set (TOTAL_CAP_USD, summed from every run's cost log) and FAILS_LOG.csv is written with time, batch, slug, round, source and line.
 
 First line of need: Code, factory session: two settings for the weekend queue. Set the money cap at $200 in all, and log which gate line or check sent each page back.
 

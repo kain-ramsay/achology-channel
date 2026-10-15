@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: WAITS ON the first API batch's COST_REPORT being filed, then the new types' dry runs being read by Chat (this brief starts after both); the queue mode is not built yet.
+> CODE DISPOSITION, S170: DONE. Queue mode built with its tests (three dummy batches, the judge, the cap, the STOP file) and started; see TO Chat/DONE__Queue_Running_S170.md (stop rule 1's line deviates, for Chat's ruling).
 
 First line of need: Code, factory session, straight after BRIEF__API_Worker_Takes_Help_Answers_And_Quote_Pages_Short_Reading_Lists_Quiet_Gate_S426: give the worker a queue mode that runs Chat's 33 queued batches back to back over the weekend, under three stop rules and Kain's total money cap.
 
