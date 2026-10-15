@@ -9,7 +9,7 @@ Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane B covers: quo
 1. **Prove the quote pages pack:** NOW above (five pages, S425). The approved new-method exemplar so far is CQ001-144-1.
 2. **Redo batch 7's other 14 pages:** CQ001-151-1 to 164-1, to PACK_03, shown to Kain in sets of five.
 3. **Redo every other quote page drafted or signed before Version 19:** 165-1 to 175-1 (not 174), then batches 1 to 6, including the 17 Kain signed at S416 that are on the build site as drafts. The seven placing-call pages are not touched until Kain rules.
-4. **Book notes,** to PACK_02, once it is signed.
+4. **Book notes,** to PACK_02, once it is signed. First the PACK_02 proof: three book notes through PACK_02 0.2 (brought up to date by Chat, S425); brief to come after the quote pages proof.
 5. **After launch only:** course 001's quotes (resume from lecture 052) and the master quotes.
 
 ## NOT YOURS ANY MORE, DO NOT RUN
