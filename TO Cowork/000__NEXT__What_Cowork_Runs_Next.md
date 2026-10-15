@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Run `BRIEF__Lane_A_Help_Answers_Pack_Proof_Five_Answers_S425.md`** (in this folder). Batch 1 is DONE and checked by Chat (S425). This is the Help answers pack proof: five answers through PACK_04 0.2, Sonnet 5.5 writing and checking. File one DONE and stop.
+**Run `BRIEF__Lane_A_Help_Answers_Pack_Proof_Five_Answers_S425.md`** (in this folder). Batch 1 is DONE and checked by Chat (S425). This is the Help answers pack proof: five answers through PACK_04 0.2, Sonnet 5.5 writing and checking. File one DONE and stop. **DONE 15 October 2026 (S425), filed as `LANE_A__DONE__Help_Answers_Pack_Proof_Five_Answers_S425.md` in FROM Cowork.**
 
 **Models (Kain, S425, Rule 12):** the cheapest that pass the standard, named in every brief. For articles the model test settled Sonnet 5.5 to write and Sonnet 5.5 to check.
 
