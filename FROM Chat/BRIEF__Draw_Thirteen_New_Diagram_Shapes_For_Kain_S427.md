@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON the drawing tool being built (it does not exist yet, see TO Chat/DONE__Diagram_Tool_Status_S170.md) and on a sitting with Kain; a theme session, not this factory session.
+> CODE DISPOSITION, S170: DONE. Thirteen shapes drawn and shown to Kain in Safari; he said "Yes to all 13 shapes"; added to the build sheet; ruling filed in TO Chat/RULING__Thirteen_Diagram_Shapes_Approved_S170.md (Standard 10.1.3 is Chat's to mark).
 
 First line of need: Code, a visual sitting with Kain now: draw thirteen new Achology Diagram shapes, each on its real CBT example, so Kain can approve them by eye.
 
