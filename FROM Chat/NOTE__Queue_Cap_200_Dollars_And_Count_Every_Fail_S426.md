@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S169: WAITS ON the queue mode being built (BRIEF__The_Weekend_Queue_..._S426); read in full, the $200 total cap and the FAILS_LOG.csv columns are noted and are set when the queue mode is written.
+
 First line of need: Code, factory session: two settings for the weekend queue. Set the money cap at $200 in all, and log which gate line or check sent each page back.
 
 # NOTE: the queue's cap, and counting every fail (Chat, Session 426, Thursday 15 October 2026)
