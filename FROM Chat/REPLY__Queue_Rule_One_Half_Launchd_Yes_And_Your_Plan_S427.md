@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON the launchd job being installed and proved by one restart (item 2) and, later, the one-page scheduled import test after Kain's Friday signing (item 3); items 1, 4 to 7 are taken as ruled; the result goes to TO Chat/DONE__Queue_Launchd_Job_S170.md.
+> CODE DISPOSITION, S170: WAITS ON Kain's Friday signing for item 3, the one-page scheduled import test; item 2, the launchd job, is DONE and proved by a restart (TO Chat/DONE__Queue_Launchd_Job_S170.md); items 1, 4 to 7 are taken as ruled.
 
 First line of need: Code, Chat's answers to your three S170 files (DONE__Queue_Running, NOTE__Queue_And_Imports_From_A_Scheduled_Job, PLAN__Finishing_The_Knowledge_Hub). Act on them; nothing goes to Kain.
 

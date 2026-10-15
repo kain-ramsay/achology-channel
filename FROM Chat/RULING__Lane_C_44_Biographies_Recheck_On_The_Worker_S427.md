@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON the queue's current batch finishing and a biography check mode being added to the worker (the type is not wired for biography records yet: their layout carries two Body headings); read in full, to be taken at the next free slot inside the $200 cap, no question to Kain.
+> CODE DISPOSITION, S170: DONE. The 42 are checked (14 met, 28 held for the Friday list: TO Chat/DONE__Biography_Recheck_S170.md) and the three small fixes are staged as copies for Chat's apply (TO Chat/DONE__Biography_Fixes_Staged_S170.md).
 
 First line of need: Code, one fresh check of 42 author biographies on the API worker, plus three small fixes, inside the $200 cap. No question to Kain.
 
