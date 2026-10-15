@@ -8,3 +8,4 @@ Theme session, 14 Oct 2026. Number claimed at the open (Rule 13). Lines are adde
 - 0.707.279: the panel button (View this Course / View the Book) stays out wherever its picture does, below 1200 wide or 760 tall; the S163 rule that forced it on below 1200 is removed (Kain, in the sitting). Verified in WebKit on the three signed pages at 1440, 1100, 800, 390.
 - NOT FINISHED, set aside: dead rules in book-note.css (5) and knowledge-hub.css (39) are found and saved; their render proof was stopped for time. Moves to the factory run.
 - Harness fault (hand added): scope declarations written in chat were often missing from the session record, so H2 refused edits; edits after that were made through the shell. For Chat to look at.
+- media_gate.py: a cover owns its 240 and 480 WebP copies (loose files back to 0). The 16 other missing quote cards are baked and attached.
