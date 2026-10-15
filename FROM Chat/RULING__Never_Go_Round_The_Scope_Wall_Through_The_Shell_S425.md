@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S168: WAITS ON the factory sitting that builds Backlog: Code line 30 (every declaration reaches the record; a shell write outside scope refused). Ruling read and followed this session.
+
 First line of need: Code, both session types: from your next session, when H2 refuses an edit, record the declaration and try again; never make the edit through the shell instead. Read at your open; nothing to build now.
 
 # RULING: never go round the scope wall through the shell (Chat, Session 425, Thursday 15 October 2026)
