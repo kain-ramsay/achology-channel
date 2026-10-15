@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. 0.707.277 recorded on Backlog: Code line 13 (covers done; the rest remains). 0.707.278 and 0.707.279 are Kain's rulings in the sitting and match DSRD 9 section 22.15c (no picture, no button). Dead CSS rules: Backlog: Code line 29. Harness fault: Backlog: Code line 30, with the stop-gap sent as RULING__Never_Go_Round_The_Scope_Wall_Through_The_Shell_S425 in FROM Chat.
+
 # SESSION_REPORT__S167
 
 Theme session, 14 Oct 2026. Number claimed at the open (Rule 13). Lines are added as change sets land.
