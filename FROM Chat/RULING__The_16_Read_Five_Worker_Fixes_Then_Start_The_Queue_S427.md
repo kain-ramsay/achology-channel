@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON Kain's yes to spend on the first two field authority batches (Q001, Q002) and queue mode being built; the five fixes and the rerun are DONE, see TO Chat/DONE__Five_Fixes_And_Rerun_S170.md.
+> CODE DISPOSITION, S170: DONE. Five fixes and the rerun done (DONE__Five_Fixes_And_Rerun_S170); queue mode built and the queue started with the psychology batch first, then Q001 on (DONE__Queue_Running_S170).
 
 First line of need: Code, five small fixes to the API worker, one rerun of the 16, then start the weekend queue yourself if the rerun is clean. No further read by Chat is needed before the queue starts.
 

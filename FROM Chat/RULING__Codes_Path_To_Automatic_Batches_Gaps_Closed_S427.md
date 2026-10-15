@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON queue mode with the AI judge being built and the queue started (in progress this session); the six gaps are all taken as ruled.
+> CODE DISPOSITION, S170: WAITS ON the diagram drawing tool being built (gap 4's diagram pass and the phone test follow it) and on the first factory session after Kain's Friday signing (gap 6's imports); gaps 1 to 3 and 5 are done and the scheduled-job question is answered in TO Chat/NOTE__Queue_And_Imports_From_A_Scheduled_Job_S170.md.
 
 First line of need: Code, Chat's corrections to NOTE__The_Path_To_Automatic_Batches_S170, so the whole backlog runs without Kain or Chat being needed between batches.
 

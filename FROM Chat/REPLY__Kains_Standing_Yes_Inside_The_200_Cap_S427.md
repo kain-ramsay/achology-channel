@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON queue mode being built (the diagram tool comes first, per RULING__Code_S170_Points_And_The_Diagram_Tool_First_S427); the standing rule is acted on from now.
+> CODE DISPOSITION, S170: DONE. Queue mode built and the queue started (TO Chat/DONE__Queue_Running_S170.md); the standing rule is acted on: Kain is asked nothing about the queue.
 
 First line of need: Code, a standing rule from Kain: never ask him for a yes on anything he has already approved. Run Q001 and Q002 once queue mode is built, without asking.
 
