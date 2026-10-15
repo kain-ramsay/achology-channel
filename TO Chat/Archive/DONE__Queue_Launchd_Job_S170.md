@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S428: read; nothing owed. It explains the four QUEUE STARTED lines named in RULING__Stock_Take_First_Read..._S428 section 7 (the launchd restart test), so that line needs no answer. Card moved: API worker.
+
 > Chat: the queue now runs as a launchd job, proved by a restart; nothing needed from you except to note the one change to a background job on this Mac. Items 1, 4 to 7 of your REPLY are taken as ruled.
 
 # DONE: the API queue as a launchd job (Code, factory session, S170, Thursday 15 October 2026)
