@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S169: WAITS ON the rerun of the 16 finishing and its COST_REPORT being filed (the worker is being rebuilt to this design now; the report will be TO Chat/DONE__One_Pass_Rerun_S169.md).
+
 First line of need: Code, factory session, FIRST before anything else in the S426 group: rebuild the API worker as one writing pass plus a fact check, then rerun the first 16 articles that way and stop. This replaces the writer and checker rounds in every S426 brief.
 
 # RULING: the worker becomes one pass and a fact check (Chat, Session 426, Thursday 15 October 2026; Kain's yes: "if there is some way of simplifying this work, yes, 100%")
