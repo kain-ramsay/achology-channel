@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: DONE. Item 15 of the opening digest changed to Chat's wording (TO Chat/NOTE__Opening_Digest_S170.md) and the memory rule corrected: every turn ends with what was done and one yes or no proposal.
+> CODE DISPOSITION, S170: DONE. My digest note was already archived by Chat and Chat holds the corrected digest, so item 15 is Chat's to install with this wording; the rule is applied in this session and written into my memory: every turn ends with what was done, then one yes or no proposal.
 
 First line of need: Code, Kain's new universal rule for how every turn ends. Change item 15 of your opening digest to match, today, without asking.
 
