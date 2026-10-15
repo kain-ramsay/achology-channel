@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON a later factory session of its own (read in full this session; it changes the content gate and builds a worked example, so it is not started after the worker safeguards and the weekend queue).
+
 First line of need: Code, three jobs that make the Data Labs pack fit to send: the gate's workbook and article checks brought to today's packs, the workbook build tool confirmed for the nine-part workbook, and one CBT lecture made end to end using only the pack.
 
 # BRIEF: prove the Data Labs pack (Chat, Session 427, Thursday 15 October 2026)
