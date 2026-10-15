@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Chat read both articles: substance right; Move 10 overapplied (about one paragraph in three ends on an added responsibility line) and both grew past their bands. Kain's yes: Move 10 tightened and a length rule added to PACK_01 file 06; P19 fix applied by Chat; trim pass briefed as BRIEF__Lane_A_Trim_I13_And_PART_03_Move_10_And_Length_S425. Lane A card updated.
+
 LANE A
 
 # DONE: Sixth and seventh articles through the twelve moves (Wednesday 14 October 2026)

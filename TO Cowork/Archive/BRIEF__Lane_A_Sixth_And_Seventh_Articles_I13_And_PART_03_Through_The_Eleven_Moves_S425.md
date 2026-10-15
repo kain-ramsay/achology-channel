@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived; DONE filed 14 October and checked by Chat. Its line "build, not grow" was wrong; Move 11 in file 06 is right (grow in self-awareness).
+
 First line of need: Lane A, two articles, one after the other in the same session, each end to end: `I13__self-awareness-starting-point-of-growth` (Kain's own instructor article) and `PART_03__know-thyself` (Seven Beliefs part 3). Rewrite each paragraph by paragraph with the twelve moves, check every paragraph against every move until none is missed, then stop. Kain's yes, Session 425.
 
 # BRIEF: sixth and seventh articles through the twelve moves (Chat, Session 425, Wednesday 14 October 2026)
