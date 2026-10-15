@@ -15,6 +15,6 @@ Lines marked (log) rest on the version control log; lines marked (hand) have no 
 - **Not done, named:** the 52 Help answers and 3 Mental Health pieces (unsigned in their records: refused), the Glasser quote push (stale card), the Two Code Sessions fixes and line 30 (own session), the Seven Beliefs set (not in this run list).
 - **Fault to log for line 30:** a scope declaration written between tool calls never reached the record the wall reads; the first write of the session, the report claim, was blocked for it. Worked round by ending the turn on the declaration and scheduling a self-resume. No shell write was used to get past the wall.
 
-FROM Chat at close: 21 files carry a DONE line and are archived by the close; the rest stay with their WAITS line (the theme and Kain items, the 55 unsigned records, the quote push, the harness session, the credit worker).
+FROM Chat at close: every file carrying a DONE line is archived by the close; the rest stay with their WAITS line (the theme and Kain items, the 55 unsigned records, the quote push, the harness session, the credit worker).
 
 *No em or en dashes in this file; checked before writing.*
