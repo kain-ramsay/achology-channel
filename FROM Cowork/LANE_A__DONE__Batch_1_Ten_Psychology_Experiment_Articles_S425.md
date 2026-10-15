@@ -6,7 +6,7 @@ Brief: `BRIEF__Lane_A_Batch_1_Ten_Psychology_Experiment_Articles_S425`. The firs
 
 Backups: `PROOF__Ten_Articles_S423/originals/{name}__before_batch1.md` (all ten). Check sheets: `PROOF__Ten_Articles_S423/batch1_S425/`. Final gate printouts: `batch1_S425/LANE_A__{name}_gate_final.txt` (the gate does not change the record, so the gate printout inside each record's header is stale; not touched).
 
-**Result: all ten records pass their last checker (ALL MET), with the open points below.**
+**Result: nine records pass their last checker (ALL MET). Item 2 (bystander) passed all twelve moves on its one changed sentence; its checker's one open line (the brief row changed) was resolved by putting the row back, and that put-back was not re-checked. Open points are below.**
 
 ## 1. The ten
 
@@ -27,7 +27,7 @@ Backups: `PROOF__Ten_Articles_S423/originals/{name}__before_batch1.md` (all ten)
 
 Paragraph length is a note, not a fail, under Standard Version 22. Every body is inside the 1,600 to 2,400 band by the gate. The reading-ease warnings (items 1 to 5) are under 60; the checkers lifted none of them because the pack says never to cut a thought to meet a number.
 
-What the checkers found, in outline: the first read of items 4 to 10 found from 9 to 38 lines not met each (item 8 had 38; item 4 18; item 6 15; item 5 12; item 7 9; item 10 9; item 9 one). The common misses were Move 12 (an unnamed "this" or "that", repeated words in adjacent sentences), unargued Move 10 closings, added facts, and 2-sentence paragraphs. Items 1 to 3 (taken from the model test) had 3, 1 and 0 misses.
+What the checkers found, in outline: the first read of items 4 to 10 found from 1 to 38 lines not met each (item 8 had 38; item 4 18; item 6 15; item 5 12; item 7 9; item 10 9; item 9 one). The common misses were Move 12 (an unnamed "this" or "that", repeated words in adjacent sentences), unargued Move 10 closings, added facts, and 2-sentence paragraphs. Items 1 to 3 (taken from the model test) had 3, 1 and 0 misses.
 
 ## 2. The Newman and Walmer answer
 
@@ -65,4 +65,4 @@ Usage, from the session usage tool (Max plan; the percentages are the whole acco
 - **A fix the gate forced and the checkers had not asked for:** the seven reworded phrases on items 1 and 3 (their sentences read oddly at first; a checker asked for plainer wording and got it: "Once you can recognise it, dissonance shows up", "is among the most frequently cited studies in all of psychology", "an older brother or sister").
 - **The header gate printouts inside the ten records are stale** (the writers and the gate do not touch them). Code or Chat should regenerate before import.
 
-COWORK | Batch: 10 psychology experiment articles, field authority | Drafted: 10 of 10 (3 finished from the model test, 7 rewritten) | Gate and evaluator: gate run on all 10 as field-authority-article; known fails only except the headings, "actually" and one shared run listed above; every record's last Sonnet 5.5 checker reads ALL MET | Checked: moves check on all 10, 1 to 3 rounds each, no Part 19 sheet | Skipped: none | Outside brief: none
+COWORK | Batch: 10 psychology experiment articles, field authority | Drafted: 10 of 10 (3 finished from the model test, 7 rewritten) | Gate and evaluator: gate run on all 10 as field-authority-article; known fails only except the headings, "actually" and one shared run listed above; the last Sonnet 5.5 checker reads ALL MET on nine records and, on item 2, on the changed sentence (its one open line, the brief row, was put back) | Checked: moves check on all 10, 1 to 3 rounds each, no Part 19 sheet | Skipped: none | Outside brief: none
