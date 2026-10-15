@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S169: WAITS ON the first API batch's COST_REPORT being filed (the batch is in its last rounds); the three gate lines this brief repeats are already DONE (DONE__Three_Gate_Lines_S169).
+
 First line of need: Code, factory session: teach the API worker Help answers, quote pages, hub question articles and hub guides, give every type a short fixed reading list, and stop the gate printing FAIL on the four lines every record fails. Start after the first API batch's COST_REPORT is filed.
 
 # BRIEF: the API worker takes Help answers and quote pages; short reading lists; a quiet gate (Chat, Session 426, Thursday 15 October 2026)
