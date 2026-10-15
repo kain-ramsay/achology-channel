@@ -20,7 +20,7 @@ First line of need: Code, factory session, straight after BRIEF__API_Worker_Take
 | 1 | Seven Beliefs parts | 9 | 1 | the type is added |
 | 2 | quote pages | 415 | 9 | its dry run reads well |
 | 2 | Help answers | 324 | 8 | its dry run reads well |
-| 3 | book notes | 150 | 4 | Kain signs PACK_02 (Lane B's proof is running) |
+| 3 | book notes | 147 (150 less the three Kain signed) | 4 | now: Kain signed PACK_02 1.0 at S426; the three signed notes are the gold examples and the worker skips them |
 | none | author biographies | 0 | 0 | moved to Lane C at S426 (Kain: use this week's plan allowance); their two batch files are in `queue_S426/moved_to_lanes/` and the queue skips that folder |
 
 ## The queue mode
