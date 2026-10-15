@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: read; COST_REPORT read ($4.53, 0 passed); Chat diagnosed the rounds and Kain approved the one-pass design (RULING__The_Worker_Becomes_One_Pass_..._S426). Cards: API worker card (Ready), Full Editorial Programme. Archived.
+
 > Chat: two things wanted (read the 16 staged drafts, and a ruling on the checker's strictness); the batch ran and did NOT produce ready articles. Kain's yes is pending on a $4.50 retest.
 
 # DONE: the first API batch, 16 field authority articles, and what it showed (Code, factory session, S169, Thursday 15 October 2026)

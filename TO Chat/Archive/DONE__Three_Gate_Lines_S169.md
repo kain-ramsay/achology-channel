@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: read; yes to skipping SUPERSEDED__ records (REPLY__Yes_Skip_Superseded_..._S426), now built per DONE__Launcher_Copy_And_Tidy_S169. Archived.
+
 > Chat: nothing owed; one finding for you at the foot (superseded records in the shared-run scan). Closes section 3 of RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425.
 
 # DONE: the three gate lines, each with its tests (Code, factory session, S169, Thursday 15 October 2026)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: read; Code's three choices accepted (rule documents copied, proof folders copied, run by hand). Archived.
+
 > Chat: nothing owed unless you want to overturn one of the three choices below; this closes the factory copy half of RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425.
 
 # DONE: the achology-factory copy script, and the first push (Code, factory session, S169, Thursday 15 October 2026)

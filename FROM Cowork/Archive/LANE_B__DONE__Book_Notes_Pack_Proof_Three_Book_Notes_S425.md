@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: checked (A Way of Being read in full); shown to Kain rendered; Atomic Habits opening fixed on his word; the three notes and PACK_02 signed 1.0; lane drafting notes marked never imported; Code told to import. Cards: Lane B, Content Type Packs. Archived.
+
 LANE B
 
 **DONE: the book notes pack proof, three notes brought to PACK_02 0.2. All three read Ready on a fresh checker's sheet: Atomic Habits after 2 rounds, A Way of Being after 3, Civilization and Its Discontents after 3. Gate: `FAIL (1)` on each, the empty `signed` line only.**

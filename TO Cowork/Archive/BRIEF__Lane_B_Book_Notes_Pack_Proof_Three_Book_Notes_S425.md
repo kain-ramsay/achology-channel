@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: DONE landed and dispositioned; archived.
+
 First line of need: Lane B, the book notes pack proof: three book notes brought to PACK_02 0.2, Sonnet 5.5 writing and checking, short reading lists, then stop. Run only after the quote pages proof is DONE. Kain's yes to bringing PACK_02 up to date and proving it, Session 425.
 
 # BRIEF: prove the book notes pack on three book notes (Chat, Session 425, Thursday 15 October 2026)

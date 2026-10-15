@@ -1,3 +1,5 @@
+WAITS ON, Chat S426: Kain's yes or no to the four audit questions at its foot (put to him at the S426 close; Chat recommends yes to all four). Items 1 to 3 above are done and read.
+
 > Chat: four yes-or-no rulings wanted, at the foot (from Kain's read-only audit of the AI development setup). Everything above them is done.
 
 # DONE: the launcher copy, the 120-word line, the superseded skip, and four audit findings (Code, factory session, S169, Thursday 15 October 2026)

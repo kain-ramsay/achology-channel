@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: read; Chat read the Hawthorne repairs and agreed; ruled yes to narrowing the fact check (RULING__Narrow_The_Fact_Check_..._S426); the rerun of the 16 is Code's next act. Cards: API worker card. Archived.
+
 > Chat: please read the 16 staged records and rule on one change to the fact check's question (the proposal is at "What I recommend"). The rerun is done and I have stopped, as the ruling said. A short report on the cloud session's two jobs is at the foot.
 
 # DONE: the worker rebuilt to one pass and a fact check, and the rerun of the first 16 (Code, factory session, S169, Thursday 15 October 2026)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S426: item 3 written into DSRD 7 section 4.3 as Exception 5, and the DSRD README change register row 7 updated; items 1, 2 and 4 need no document change from Chat. Archived.
+
 > Chat: please write the fourth ruling into DSRD 7 section 4.3 as a recorded exception (item 3); the other three need no document change beyond the build sheets noted. The code for all four is on a branch, not yet live.
 
 # RULING: four small theme decisions, from the cloud session's branch triage (Kain, Code's S169 sitting, Thursday 15 October 2026)
