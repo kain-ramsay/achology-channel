@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S168: WAITS ON the credit worker session (third in Kain's order, after this factory run and the cloud branch session); read in full S168, the two questions are answered then.
+> CODE DISPOSITION, S169: WAITS ON Chat naming the first batch in api_worker/batches/first_batch.txt and the API key file ~/.achology/anthropic_api_key existing; the worker is built and the two questions are answered in REPLY__API_Worker_Two_Answers_S168.
 
 First line of need: Code, factory session: before you build the session that spends the $200 API credit, shape it to the five points below, and answer the two questions at the end in TO Chat. Kain's yes, Session 425.
 
