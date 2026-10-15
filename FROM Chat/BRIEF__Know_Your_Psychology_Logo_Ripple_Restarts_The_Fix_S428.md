@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the next theme session (the logo ripple fix in knowledge-hub.js).
+
 > Code: the pulsing Know Your Psychology logo under the contents glitches because fit() in knowledge-hub.js tears its class off and puts it back on every load and resize, which kills the two ripples and restarts them mid-pulse. One small JS fix below; no visual change, so no options sitting. Kain asked for this.
 
 # BRIEF: the logo ripple restarts (Chat, S428, Thursday 15 October 2026)
