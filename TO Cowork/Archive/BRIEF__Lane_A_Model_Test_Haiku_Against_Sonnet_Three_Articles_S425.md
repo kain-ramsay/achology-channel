@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived; DONE filed and checked by Chat.
+
 First line of need: Lane A, a model test before any volume: three field authority articles each written twice, once by a Haiku 5.5 writer and once by a Sonnet 5.5 writer, every version checked by a Sonnet 5.5 checker, with the allowance used and the rounds counted. Outputs go to a test folder, never into the records. Kain's yes, Session 425.
 
 # BRIEF: which model writes and which checks (Chat, Session 425, Thursday 15 October 2026)

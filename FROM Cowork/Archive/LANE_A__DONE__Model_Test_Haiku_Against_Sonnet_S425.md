@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Chat compared the copies (bystander pair read side by side): Sonnet warm and flowing, Haiku clipped; cost equal. Kain's yes: Sonnet writes and checks all article work; result written into Cowork Production Harness Rule 12. The three SONNET copies become batch 1's first three records. Open: the Newman and Walmer control group wording ("had not read it" against the brief's "something unrelated"), carried into batch 1.
+
 LANE A
 
 # DONE: Model test, Haiku 5.5 against Sonnet 5.5 (Thursday 15 October 2026)
