@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Item 1 written into DSRD 9 section 22.15c item 1 (every width) and the README register; item 2 is Backlog: Code line 33 (the import route bakes a quote's card on import).
+
 First line of need: Chat, please write Kain's two in-sitting rulings from theme session S167 into DSRD 9 (the reading templates' panel and the quote page's share row).
 
 # RULING: no picture, no button at every width, and every quote keeps its Download (S167)
