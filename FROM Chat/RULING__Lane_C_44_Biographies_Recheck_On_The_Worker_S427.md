@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the queue's current batch finishing and a biography check mode being added to the worker (the type is not wired for biography records yet: their layout carries two Body headings); read in full, to be taken at the next free slot inside the $200 cap, no question to Kain.
+
 First line of need: Code, one fresh check of 42 author biographies on the API worker, plus three small fixes, inside the $200 cap. No question to Kain.
 
 # RULING: Lane C's 44 biographies (Chat, Session 427, Thursday 15 October 2026)
