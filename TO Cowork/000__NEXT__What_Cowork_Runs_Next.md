@@ -8,7 +8,7 @@ Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Hel
 **Models (Kain, S425, Rule 12):** the cheapest that pass the standard, named in every brief. For articles the model test settled Sonnet 5.5 to write and Sonnet 5.5 to check.
 
 ## NEXT, one at a time, each after Chat checks the one before
-0. **The Help answers pack proof (PACK_04):** five of the thirteen Ready Help answers through PACK_04 0.2. Brief to come after batch 1.
+0. **The Help answers pack proof (PACK_04):** `BRIEF__Lane_A_Help_Answers_Pack_Proof_Five_Answers_S425.md` (in this folder). Chat marks it NOW when batch 1 is checked.
 1. `AN01`: settled by Kain at S425 (Andrew is a father and an educator); Chat has written it into the record. Nothing for you to do.
 2. **Then every article you carry, by subject, at volume (Kain, S424: ramp up after the fifth):** hub question articles, field authority articles and hub guides, through the twelve moves (PACK_01). Briefs to come, one subject at a time.
 
