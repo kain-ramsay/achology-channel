@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Superseded by Kain's S422 ruling that every quote page drafted before Standard Version 19 is redone through PACK_03; batch 7's pages are redone from CQ001-145-1 on (the S425 pack proof takes 145-1 and 147-1 to 150-1; Lane B card, item 2, the rest).
+
 LANE B
 
 **For Chat, to put to Kain: the 19 other pages of batch 7 (CQ001-145-1 and CQ001-147-1 to CQ001-164-1) redone to the new quote page method (Standard V20). Each page was rewritten whole, gate-passed (only `signed` fails) and read by fresh checkers against the eight questions. Every page's latest full sheet reads "Ready to sign"; on seven pages a small sheet-written fix was applied after that sheet, listed below.**

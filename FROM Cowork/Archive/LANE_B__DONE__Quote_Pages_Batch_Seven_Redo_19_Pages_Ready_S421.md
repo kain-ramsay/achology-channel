@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Superseded by Kain's S422 ruling that every quote page drafted before Standard Version 19 is redone through PACK_03; batch 7's pages are redone from CQ001-145-1 on (the S425 pack proof takes 145-1 and 147-1 to 150-1; Lane B card, item 2, the rest).
+
 LANE B
 
 **DONE: Job 1, the 19 other pages of batch 7 redone to the new method (Standard V20). All 19 gate-passed and read Ready; the BATCH for Kain is `LANE_B__BATCH__Quote_Pages_Batch_Seven_Redo_New_Method_S421`.**
