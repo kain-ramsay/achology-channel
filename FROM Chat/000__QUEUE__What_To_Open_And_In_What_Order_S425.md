@@ -7,7 +7,8 @@
 1. `RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425`: import and publish the 55 signed records (52 Help answers, 3 Mental Health pieces); build change 6 and the shared-run NOTE for signed records; update grow-self-awareness's Rank Math title.
 2. `NOTE__Nine_Batch_1_Articles_Signed_Import_Them_S425`: update ten signed field authority pages (batch 1, now ten with the bystander article).
 3. `RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425`: run the first API batch (the 16 you listed) once Kain has put the key in; build the achology-factory copy script; three gate lines.
-4. Backlog: Code lines 30 (the scope wall, a session of its own), 31 to 33 (quote practice block on import, re-bake 275 cards, bake a quote's card on import): briefed on the board card, no file.
+4. `BRIEF__API_Worker_Takes_Help_Answers_And_Quote_Pages_Short_Reading_Lists_Quiet_Gate_S426` (added S426, Kain's yes): after item 3's COST_REPORT is filed, teach the worker Help answers and quote pages, short reading lists for every type, a dry run of five per type, and the quiet gate (with item 3's three gate lines in the same session).
+5. Backlog: Code lines 30 (the scope wall, a session of its own), 31 to 33 (quote practice block on import, re-bake 275 cards, bake a quote's card on import): briefed on the board card, no file.
 
 ## Below: the S414 queue, carried
 
