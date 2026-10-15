@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Run `BRIEF__Lane_A_Model_Test_Haiku_Against_Sonnet_Three_Articles_S425.md`** (in this folder). Kain signed PACK_01 (1.0) at S425. Before any volume, this test finds the right model: three articles written twice (Haiku 5.5 and Sonnet 5.5), all checked by Sonnet 5.5, with tokens and rounds counted. Work only on copies in the test folder. File one DONE and stop.
+**Run `BRIEF__Lane_A_Model_Test_Haiku_Against_Sonnet_Three_Articles_S425.md`** (in this folder). Kain signed PACK_01 (1.0) at S425. Before any volume, this test finds the right model: three articles written twice (Haiku 5.5 and Sonnet 5.5), all checked by Sonnet 5.5, with tokens and rounds counted. Work only on copies in the test folder. File one DONE and stop. **DONE 15 October 2026 (S425), filed as `LANE_A__DONE__Model_Test_Haiku_Against_Sonnet_S425.md` in FROM Cowork.**
 
 **Model for the seven proof articles (Chat's call, S424; Kain may overturn; the S425 model test overrides it for the test):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
 
