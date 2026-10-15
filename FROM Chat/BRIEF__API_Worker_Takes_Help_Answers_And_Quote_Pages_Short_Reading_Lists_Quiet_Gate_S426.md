@@ -1,4 +1,4 @@
-First line of need: Code, factory session: teach the API worker Help answers and quote pages, give every type a short fixed reading list, and stop the gate printing FAIL on the four lines every record fails. Start after the first API batch's COST_REPORT is filed.
+First line of need: Code, factory session: teach the API worker Help answers, quote pages, hub question articles and hub guides, give every type a short fixed reading list, and stop the gate printing FAIL on the four lines every record fails. Start after the first API batch's COST_REPORT is filed.
 
 # BRIEF: the API worker takes Help answers and quote pages; short reading lists; a quiet gate (Chat, Session 426, Thursday 15 October 2026)
 
@@ -15,6 +15,9 @@ First line of need: Code, factory session: teach the API worker Help answers and
 - **Writer reads only:** PACK_03 file 02 (What a Finished Quote Page Is) and file 03 (How a Quote Page Is Made: the spine Hook, Book, Look, Took; the voice; the moves; what never appears; the eight questions), and the gold example in file 05: `quote-page-EXEMPLAR__Why_Security_Comes_At_The_Cost_Of_Freedom_S420.md` (record CQ001-144-1).
 - **Checker reads only:** the same three, plus the original record. It answers file 03's eight questions and tests every paragraph against every move.
 - **Free checks, as well as Job 1's:** `quote_text`, `quote_author` and `source_book_title` are word for word the original's; a changed quote is a fail with no paid check. Then `content_gate.py` as `quote-page`.
+
+## Job 2b. Hub question articles and hub guides (`hub-question-article`, `hub-guide`, PACK_01; added S426, Kain's yes)
+Both are under the signed articles pack, so they run exactly as field authority articles do: the same writer and checker rules, the same moves file (PACK_01 file 06) and gold example, and the gate as their own type. Where PACK_01 file 01 (The Kinds of Article) sets a different length or shape for either kind, the writer and checker read that section too, and the 1,600 to 2,400 teaching word line follows it. 58 and 28 records are unsigned. Include them in Job 4's dry run: three of each.
 
 ## Job 3. Short reading lists, for every type
 Put each type's list in one place in the worker (beside `SETTINGS`), named by file, so the list is read, never remembered. Field authority articles keep what they read now. Cache each list once per batch. Add one column to `cost_log.csv`: the tokens each call read, so Chat can see the list working.
