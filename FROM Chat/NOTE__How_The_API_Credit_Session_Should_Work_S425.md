@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S168: WAITS ON the credit worker session (third in Kain's order, after this factory run and the cloud branch session); read in full S168, the two questions are answered then.
+
 First line of need: Code, factory session: before you build the session that spends the $200 API credit, shape it to the five points below, and answer the two questions at the end in TO Chat. Kain's yes, Session 425.
 
 # NOTE: how the API credit session should work (Chat, Session 425, Thursday 15 October 2026)
