@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Run `BRIEF__Lane_A_Trim_I13_And_PART_03_Move_10_And_Length_S425.md`** (in this folder). One short pass on I13 and PART_03 under the tightened Move 10 and the new length rule (PACK_01 file 06, changed S425), then file one DONE and stop. The sixth and seventh proofs were DONE on 14 October (S425); Chat has checked them, and this pass is the fix. The self-awareness guide is signed by Kain (S425) and GK02 waits on Gary Kennedy's own reading: do not touch either. **DONE 15 October 2026 (S425), filed as `LANE_A__DONE__Trim_I13_And_PART_03_S425.md` in FROM Cowork.**
+**Nothing. Wait.** The trim of I13 and PART_03 is DONE (15 October, S425) and checked by Chat. Kain is signing the articles pack (PACK_01); the volume briefs, one subject at a time, follow his signature. Do not start volume work before a brief names it.
 
 **Model for the seven proof articles (Chat's call, S424; Kain may overturn):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
 

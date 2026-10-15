@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived; DONE filed 15 October and checked by Chat.
+
 First line of need: Lane A, one short pass on the same two articles, `I13__self-awareness-starting-point-of-growth` and `PART_03__know-thyself`: cut the closing lines about responsibility that the paragraph did not argue for, and bring each article back near its length band. Kain's yes, Session 425.
 
 # BRIEF: trim I13 and PART_03 under the tightened Move 10 and the length rule (Chat, Session 425, Thursday 15 October 2026)
