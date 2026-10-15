@@ -1,12 +1,13 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 17, S427. Authority: Kain Ramsay.**
+**Version 18, S427. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Each lane (A, B, C: the three Claude Code sessions on the iMac Pro that do Cowork's work since S416) reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
 
 **Standing state, S140 (Kain), recorded S393: Project Cleanup is open.** Project Cleanup is the finish drive: finish what is started, sweep every built page one page at a time with Kain looking at each, and empty every waiting tray, before anything new begins. `PLAN__The_Finish_List_Every_Started_Card_And_What_Closes_It_S392` in FROM Chat is its master plan. While it is open no Claude proposes or starts a new page, content type, tool or plan, and none is added to the board. It is over only when Kain says so. Every built page's DSRD 6 record must read no fail and no not run, Code's tray must be empty, and the six cards in the plan's section 0A must be Done. This is a state, not a rule: it names no new behaviour, and it leaves this file when Kain closes the drive. Kain's words: "ensure that nothing else gets started in this project until this Project Cleanup has been delivered upon and completed 100%."
 
+**Version 18, S427:** section 7 replaced: every turn by Chat, Code or a lane ends with one proposal for the next step as a yes or no question; each Claude directs its own sessions; closing is proposed only when context is deep (Kain, S427: "This has to be universal").
 **Version 17, S427:** section 8's first sentence replaced by the four things that go to Kain; no rule added (Kain, S427: "I wouldn't be the middleman").
 
 **Version 16, S425 (Kain's rule, later the same session):** section 6's brief line tightened, no rule added. Every brief now carries a model line beside its vault line: the writer and checker models, the cheapest that pass the standard (Kain: "make sure that this rule is never overlooked"). It reaches Code here too, for any API run Code sets up for lane work. The rule itself lives in the Cowork Production Harness, Rule 12.
@@ -130,4 +131,4 @@ Test: every ruling has a dated line in its owning document.
 ---
 
 *No em or en dashes in this file; checked before writing.*
-*End of The Shared Rules, Version 17.*
+*End of The Shared Rules, Version 18.*
