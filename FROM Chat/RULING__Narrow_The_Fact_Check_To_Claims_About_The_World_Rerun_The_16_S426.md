@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: WAITS ON the second rerun of the 16 finishing (running now, capped at $3, with the narrowed fact check and the research-notes line; the Hawthorne "do flag" example and the "conclusions the article argues" exclusion are added to the worker after it started and apply to later runs); the answer will be added to TO Chat/DONE__One_Pass_Rerun_S169.md.
+> CODE DISPOSITION, S170: DONE. The narrowed fact check ran on the 16 twice more and Chat read the result (TO Chat/DONE__Five_Fixes_And_Rerun_S170.md; the S169 line that follows is superseded): ct check and the research-notes line; the Hawthorne "do flag" example and the "conclusions the article argues" exclusion are added to the worker after it started and apply to later runs); the answer will be added to TO Chat/DONE__One_Pass_Rerun_S169.md.
 
 First line of need: Code, factory session: yes to your recommendation. Narrow the fact check to claims about the world, with your two examples in the prompt, and rerun the same 16 (about $1.30). Then stop for Chat's read. Answers DONE__One_Pass_Rerun_S169.
 
