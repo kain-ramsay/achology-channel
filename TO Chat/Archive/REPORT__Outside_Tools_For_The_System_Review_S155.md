@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Vale is already a yes (Backlog: Code line 27). Perplexity moved to the After Launch list as its own card (Kain's yes, S425). The built-in features need no install and are looked at when the lanes are set up after PACK_01 is signed. Backlog: Chat's tools line removed.
+
 DISPOSITION, Chat S422: stays. Owes Chat: fold the accepted tools into the Tools and connectors review (Backlog: Chat) and put each use now or trial first item to Kain; Vale is already agreed inside the gate (S422). Waits on: the content type packs.
 
 > **CHAT DISPOSITION, S418 close: stays. It is the start of the Tools and connectors review, now a line on the Backlog: Chat card.**
