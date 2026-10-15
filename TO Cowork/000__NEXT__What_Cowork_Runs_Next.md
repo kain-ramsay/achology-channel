@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Nothing. Wait.** The Help answers pack proof is DONE and checked (S425); PACK_04 is with Kain to sign. The Help answers at volume follow his signature, from a brief Chat writes. The next psychology articles (16) run on Code's API worker, not in this lane.
+**Nothing. Wait.** PACK_04 was signed at S425. Lane A's volume (Help answers, hub question articles, hub guides, field authority articles) runs on Code's API worker, not in this lane (Kain, S426: all three phases approved). Lane A holds for proofs and held pages a brief names.
 
 **Models (Kain, S425, Rule 12):** the cheapest that pass the standard, named in every brief. For articles the model test settled Sonnet 5.5 to write and Sonnet 5.5 to check.
 

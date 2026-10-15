@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane B covers: quote pages and book notes. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Run `BRIEF__Lane_B_Book_Notes_Pack_Proof_Three_Book_Notes_S425.md`** (in this folder). The quote pages proof is DONE and checked (S425); PACK_03 is with Kain to sign. This is the book notes pack proof. File one DONE and stop.
+**Nothing. Wait.** The book notes pack proof is DONE and checked (S426); Kain signed the three notes and PACK_02 as 1.0. Lane B's volume (147 book notes, 415 quote pages) runs on Code's API worker, not in this lane (Kain, S426). Lane B holds for proofs and held pages a brief names.
 
 ## NEXT, in order, each from a brief Chat writes from the pack
 1. **Prove the quote pages pack:** DONE (S425); the five are Ready and go to Kain with the pack. The approved new-method exemplar so far is CQ001-144-1.
