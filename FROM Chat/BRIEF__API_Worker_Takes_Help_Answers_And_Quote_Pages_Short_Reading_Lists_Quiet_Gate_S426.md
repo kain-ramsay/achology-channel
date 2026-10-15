@@ -21,6 +21,9 @@ First line of need: Code, factory session: teach the API worker Help answers, qu
 ## Job 2b. Hub question articles and hub guides (`hub-question-article`, `hub-guide`, PACK_01; added S426, Kain's yes)
 Both are under the signed articles pack, so they run exactly as field authority articles do: the same writer and checker rules, the same moves file (PACK_01 file 06) and gold example, and the gate as their own type. Where PACK_01 file 01 (The Kinds of Article) sets a different length or shape for either kind, the writer and checker read that section too, and the 1,600 to 2,400 teaching word line follows it. 58 and 28 records are unsigned. Include them in Job 4's dry run: three of each.
 
+## Job 2c. Author biographies (`author-biography`, PACK_02 kind H; added S426, Chat's call)
+PACK_02 covers them (file 01, kind H, Benjamin Lockwood's voice; Standard Part 17.4). Its proof calls for two biographies, and Lane C is held, so the worker writes them: the writer and checker read PACK_02 files 01 to 03 and 05 and the two frozen exemplars named in the Cowork Production Harness Recipe 2 (`Author_Biography_Kain_Ramsay_S298.md`, `Author_Biography_Gerard_Egan_S298.md`). The free checks keep the five locked headings and every fact, link and field; a living person is never written as dead or the reverse. Dry run: two records, chosen by you, unsigned. They join Lane B's three book notes as PACK_02's proof. Volume waits until Kain signs PACK_02.
+
 ## Job 3. Short reading lists, for every type
 Put each type's list in one place in the worker (beside `SETTINGS`), named by file, so the list is read, never remembered. Field authority articles keep what they read now. Cache each list once per batch. Add one column to `cost_log.csv`: the tokens each call read, so Chat can see the list working.
 
