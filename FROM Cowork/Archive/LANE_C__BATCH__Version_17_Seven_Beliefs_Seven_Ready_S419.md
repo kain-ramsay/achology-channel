@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: superseded. At S427 every article type (instructor, elder, Seven Beliefs) moved to Code's API worker, which rewrites them to the signed PACK_01; this Version 17 list is void. Lane C card updated. Archived.
+
 DISPOSITION, Chat S423 tidy-up: stays. It is the current state of a job named on its lane card on the board, and is read when that job's brief is written. Earlier lines below are older dispositions.
 
 DISPOSITION, Chat S422: held. Every lane is stopped until the content type packs exist (000__HOLD_All_Lanes_Stop_Until_The_Content_Packs_Exist_S422). Anything this file asks of Chat or Kain is taken up through its type's pack and the re-check (re-check, never rewrite). Stays for that one fact: the pack for this record type is signed.
