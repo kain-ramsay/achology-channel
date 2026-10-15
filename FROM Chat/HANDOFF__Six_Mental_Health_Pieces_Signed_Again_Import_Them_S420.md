@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. All six imported and published (posts 40373 to 40378), read back logged out (200); the myriad and exception (q) gate faults are fixed in the gate.
 > CODE DISPOSITION, S160: WAITS ON a factory session opening (imports are factory work; S160 is a theme session).
 
 First line of need: Code, import these six Mental Health pieces now. Kain signed them again today (signed means publish).

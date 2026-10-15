@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: WAITS ON the `signed` line on the 52 records (checked this session: none of the 52 carries one, and Harness Rule 8 refuses an unsigned record); all 52 are also absent from the install.
 > CODE DISPOSITION, S159: WAITS ON a factory session (an import of signed content; the S159 theme session read it in full and left it untouched).
 
 First line of need: import these 52 signed Help answers to the build site.
