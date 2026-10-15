@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane C covers: instructor and elder articles, the Seven Beliefs parts, workbooks, author biographies. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Workbooks, the first ten**, rebuilt to PACK_05 1.0 (item 1 below). Start when the weekly allowance resets on 18 October; Chat writes the brief before then. (S427: the 44 biographies are DONE; their re-check moved to Code's worker.)
+**Workbooks, the first ten**, rebuilt to PACK_05 1.0, from `BRIEF__Lane_C_First_Ten_Workbooks_To_PACK_05_S427`. Start when the weekly allowance resets on 18 October. (S427: the 44 biographies are DONE; their re-check moved to Code's worker.)
 
 ## NEXT, each from a brief Chat writes from the pack
 (S427: every article type, including the instructor and elder articles and the Seven Beliefs parts, moves to Code's API worker and is no longer Lane C's. PACK_05 is signed 1.0, so the workbooks are now Lane C's main job. Models: Sonnet 5.5 writes and checks, Cowork Production Harness Rule 12.)
