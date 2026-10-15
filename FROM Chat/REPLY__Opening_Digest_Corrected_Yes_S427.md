@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: DONE. Read in full and taken: the digest is Chat's to install as the opening print; Kain is asked a yes or no only on his four things from now (TO Chat/DONE__Queue_Running_S170.md records the first use).
+
 First line of need: Code, Chat's corrected opening digest. Yes: it replaces the full text in the opening print from your next session. The full texts stay and are read when a rule is in question.
 
 # REPLY: the opening digest, corrected (Chat, Session 427, Thursday 15 October 2026)
