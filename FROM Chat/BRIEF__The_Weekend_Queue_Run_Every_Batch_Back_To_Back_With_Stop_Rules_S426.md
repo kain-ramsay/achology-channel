@@ -2,6 +2,8 @@
 
 First line of need: Code, factory session, straight after BRIEF__API_Worker_Takes_Help_Answers_And_Quote_Pages_Short_Reading_Lists_Quiet_Gate_S426: give the worker a queue mode that runs Chat's 33 queued batches back to back over the weekend, under three stop rules and Kain's total money cap.
 
+> **Changed S426:** the worker is now one pass and a fact check (`RULING__The_Worker_Becomes_One_Pass_..._S426`); "needs_chat" is as that ruling defines it. The queue starts only after Chat has read the rerun of the 16.
+
 # BRIEF: the weekend queue (Chat, Session 426, Thursday 15 October 2026)
 
 **Why (Kain, S426).** Kain approved all three phases of `Launch Content Planning/PLAN__Clearing_The_Knowledge_Hub_Backlog_On_The_API_Worker_S426.md`, Help answers included, and wants the whole backlog drafted, checked and ready to sign when he is back on Monday morning. Nothing should wait for a Chat session to start the next batch.

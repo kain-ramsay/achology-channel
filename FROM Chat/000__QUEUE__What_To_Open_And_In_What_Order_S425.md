@@ -7,6 +7,7 @@
 1. `RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425`: import and publish the 55 signed records (52 Help answers, 3 Mental Health pieces); build change 6 and the shared-run NOTE for signed records; update grow-self-awareness's Rank Math title.
 2. `NOTE__Nine_Batch_1_Articles_Signed_Import_Them_S425`: update ten signed field authority pages (batch 1, now ten with the bystander article).
 3. `RULING__First_API_Batch_Named_Factory_Copy_Yes_And_Three_Gate_Lines_S425`: run the first API batch (the 16 you listed) once Kain has put the key in; build the achology-factory copy script; three gate lines.
+3b. **FIRST of the S426 group:** `RULING__The_Worker_Becomes_One_Pass_And_A_Fact_Check_Rerun_The_16_S426` (Kain's yes): one writing pass and a fact check replace the rounds in every S426 brief; rebuild, rerun the 16, stop and report.
 4. `BRIEF__API_Worker_Takes_Help_Answers_And_Quote_Pages_Short_Reading_Lists_Quiet_Gate_S426` (added S426, Kain's yes): after item 3's COST_REPORT is filed, teach the worker Help answers and quote pages, short reading lists for every type, a dry run of five per type, and the quiet gate (with item 3's three gate lines in the same session).
 5. `NOTE__Paragraph_120_Is_A_Target_Fix_The_Worker_And_Import_Mental_Health_Genetic_S426` (added S426): one line in the worker, and import is-mental-health-genetic. Do it before item 4's dry runs.
 6. `REPLY__Yes_Skip_Superseded_Records_In_The_Shared_Run_Scan_S426`: one skip-list line with a test.

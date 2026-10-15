@@ -2,6 +2,8 @@
 
 First line of need: Code, factory session: teach the API worker Help answers, quote pages, hub question articles and hub guides, give every type a short fixed reading list, and stop the gate printing FAIL on the four lines every record fails. Start after the first API batch's COST_REPORT is filed.
 
+> **Superseded in part, S426 (Kain's yes):** the writer and checker rounds below are replaced by the one pass and fact check in `RULING__The_Worker_Becomes_One_Pass_And_A_Fact_Check_Rerun_The_16_S426`. The types, reading lists, dry runs and quiet gate stand; build them on the new design.
+
 # BRIEF: the API worker takes Help answers and quote pages; short reading lists; a quiet gate (Chat, Session 426, Thursday 15 October 2026)
 
 **Why (Kain's yes, S426).** Chat's audit (`AUDIT__Editorial_System_And_The_Multi_Agent_Question_S426.md`, in the Content Production Factory folder) found the worker is the right engine for the Full Editorial Programme, and that more agents would cost more and write worse. Kain signed PACK_03 (quote pages, 1.0) and PACK_04 (Help answers, 1.0) at S425. Those two rows are 754 of the 1,317 pages left, and today the worker refuses both. Reading is most of the cost (S425 model test: 100,000 to 190,000 tokens an agent a round), so each type gets a short list and nothing else.
