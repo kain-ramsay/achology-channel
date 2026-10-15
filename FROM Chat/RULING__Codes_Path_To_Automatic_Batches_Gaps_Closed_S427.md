@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON queue mode with the AI judge being built and the queue started (in progress this session); the six gaps are all taken as ruled.
+
 First line of need: Code, Chat's corrections to NOTE__The_Path_To_Automatic_Batches_S170, so the whole backlog runs without Kain or Chat being needed between batches.
 
 # RULING: the path to automatic batches, compared with the S426 plan (Chat, Session 427, Thursday 15 October 2026)
