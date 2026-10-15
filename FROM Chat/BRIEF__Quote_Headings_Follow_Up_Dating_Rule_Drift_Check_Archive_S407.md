@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Item 1 (the partial_edit field) built and proved; item 2 (the drift report, 432 records) in REPLY__Factory_Run_S168_Imports_Asks_And_Findings, section 5; item 3 written for Version 8, and Versions 10 and 7 are not in git so cannot be.
 > CODE DISPOSITION, S150: WAITS ON a factory session opening (gate and record work; S150 is a theme session).
 
 **For Code: three follow-ups to your quote headings DONE. Kain's ruling on the dating question, S407. Factory session.**

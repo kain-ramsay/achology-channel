@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: WAITS ON a quote-page update route that carries the quote fields and re-bakes the card (job 2, the Glasser push: the publish gate refuses the stale card). Job 1, the six gate checks, is DONE in DONE__Gate_Up_To_The_Content_Packs_S423.
 > CODE DISPOSITION, S151: WAITS ON a factory session opening: gate and quote push work names no page design, so the theme session S151 leaves it untouched (Harness Rule 1, two sessions).
 
 **For Code: six gate gaps named by Cowork's round four, and one quote push. Kain's yes, S409.**

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Read back off the install (post 35518): both fields already equal the record's, so nothing needed changing.
 > CODE DISPOSITION, S150: WAITS ON a factory session opening (a content field change; S150 is a theme session).
 
 **For Code: one title to change on the build site. Chat's decision, S406. Small job; do it at your next factory session.**

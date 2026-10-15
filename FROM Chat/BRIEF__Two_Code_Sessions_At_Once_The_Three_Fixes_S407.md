@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: WAITS ON a factory session of its own with nothing else in it: fix 2 and the line 30 wall fault rewrite the hooks that guard a session, and a session should not rebuild the wall it stands behind.
 > CODE DISPOSITION, S150: WAITS ON a factory session opening (tooling and harness work; S150 is a theme session).
 
 **For Code: build the three fixes that let a theme session and a factory session run at the same time. Kain's ruling, S407. Factory session; nothing here changes how a page looks.**

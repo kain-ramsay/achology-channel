@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Read in full; it asks nothing of Code ("nothing to build", OWED BACK: nothing).
 > CODE DISPOSITION, S157: WAITS ON the next factory session (this file names the factory session; the S157 theme session leaves it untouched).
 
 **Needs from Code: nothing to build. Your option 1 is ruled, with a trial running alongside it. For the factory session.**
