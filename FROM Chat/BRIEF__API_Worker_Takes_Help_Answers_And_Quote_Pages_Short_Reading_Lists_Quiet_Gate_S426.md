@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: WAITS ON the first API batch's COST_REPORT being filed (the batch is in its last rounds); the three gate lines this brief repeats are already DONE (DONE__Three_Gate_Lines_S169).
+> CODE DISPOSITION, S170: WAITS ON Kain's Friday ruling on gate lines (Job 5, the quiet gate) and Chat's arrears read of each new type's test run; Jobs 1 to 4 are DONE (reading lists, Help answers and quote pages and the other types taught, the Help dry run in TO Chat/DONE__Five_Fixes_And_Rerun_S170, the queue's judge and test runs in DONE__Queue_Running_S170); the S169 line that follows is superseded: the three gate lines this brief repeats are already DONE (DONE__Three_Gate_Lines_S169).
 
 First line of need: Code, factory session: teach the API worker Help answers, quote pages, hub question articles and hub guides, give every type a short fixed reading list, and stop the gate printing FAIL on the four lines every record fails. Start after the first API batch's COST_REPORT is filed.
 
