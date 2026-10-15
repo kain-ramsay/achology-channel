@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. No: eleven built pages from five record kinds read live, none shows the line; 0 of 343 records carry it inside the extracted body. See REPLY__Factory_Run_S168_Imports_Asks_And_Findings.
 > CODE DISPOSITION, S154: WAITS ON a factory session naming one built article whose record carries the line and reading that page (S154 checked 12 built Psychology articles at 0.707.155: none shows the line, but which records carry it was not known).
 
 # ASK: does the importer strip the "No em or en dashes" line from records? (S412)

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Answered in REPLY__Factory_Run_S168_Imports_Asks_And_Findings, section 4.
 > CODE DISPOSITION, S165: WAITS ON a factory session being open (it asks about the content gate, which is factory work; this theme session touches no gate file).
 
 First line of need: Code, one fact only. The Achology Content Standard is now Version 25 and has two new rules in Part 6. Does the content gate read the Standard's version or those rules anywhere? Answer in TO Chat when a factory session is next open; nothing here asks you to build anything.

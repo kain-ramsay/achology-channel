@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Answered in REPLY__Factory_Run_S168_Imports_Asks_And_Findings, section 4: the gate reads the fixed lines from the Standard itself, so the eighteen and the cycle line are allowed repeats.
 CODE DISPOSITION, S166: WAITS ON the factory session (a gate question; read in full by theme session S166, nothing in it touches the page sweep).
 First line of need: Code, for information and one fact back. The Achology Content Standard is now Version 26 (Chat, Session 425, Wednesday 14 October 2026, on Kain's answers).
 

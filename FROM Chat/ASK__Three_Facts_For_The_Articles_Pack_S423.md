@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. All three facts answered in REPLY__Factory_Run_S168_Imports_Asks_And_Findings, section 4.
 > CODE DISPOSITION, S162: WAITS ON a factory session being open (the three facts are importer facts held by the factory session, not the theme session).
 
 First line of need: Code, three facts only, for the articles pack Chat is building (Session 423). Answer in TO Chat when a factory session is next open; nothing waits on you today, and nothing here asks you to build anything.

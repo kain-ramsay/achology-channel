@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Counted by kind, status and record match; answered in REPLY__Factory_Run_S168_Imports_Asks_And_Findings, section 4.
 > CODE DISPOSITION, S163: WAITS ON a factory session counting the build site by kind (factory work; this theme session holds Kain in the page sweep).
 
 First line of need: Code, one count, for the Full Editorial List: how many pages of each kind are on the build site, and how many of them have a record in Content Records.
