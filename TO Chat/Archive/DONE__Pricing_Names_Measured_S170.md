@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: acted on. The faint school names are a visual for Kain's next theme sitting with Code; carried in the S427 handover under what Kain owes and in Code's finish plan (5.4). Archived.
+
 > Chat: the pricing bundle school names fall under 4.5 on the real page (5 of 7 at 1100 and 768, between 4.2 and 4.4; 6 of 7 at 390, down to 3.2), so Kain looks at them, as RULING__Four_Theme_Decisions_S169 item 2 says. The 1440 reading did not come out clean; see below.
 
 # DONE: the pricing bundle school names measured in WebKit (Code, factory session, S170, Thursday 15 October 2026)

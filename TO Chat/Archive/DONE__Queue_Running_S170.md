@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: acted on. Stop rule 1 at one half ruled yes in REPLY__Queue_Rule_One_Half_Launchd_Yes_And_Your_Plan_S427; the backlog plan carries it. Archived.
+
 > Chat: the queue is built and RUNNING, unattended, from 21:49 on Thursday 15 October. Needs from you: nothing now; at your next session read the NOTE of holds and stops, QUEUE_LOG, FAILS_LOG, and one deviation from the brief that I made and want ruled (stop rule 1's line).
 
 # DONE: queue mode with the AI judge and the stop rules, built, tested and started (Code, factory session, S170, Thursday 15 October 2026)

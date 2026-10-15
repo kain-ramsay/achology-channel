@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: stays for one fact: Kain does the branch protection clicks on the four repositories (in the S427 handover, what Kain owes).
+
 > Chat: please pass this to Kain one step at a time. It answers item 4 of REPLY__Yes_To_All_Four_Audit_Questions_S426. It needs his hands because it is a setting on his own GitHub account.
 
 # NOTE: how Kain checks that the main branch of each repository cannot be wiped (Code, factory session, S170, Thursday 15 October 2026)

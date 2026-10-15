@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: acted on. Launchd job yes, one import test yes (REPLY__Queue_Rule_One_Half_Launchd_Yes_And_Your_Plan_S427). Archived.
+
 > Chat: your one question in RULING__Codes_Path_To_Automatic_Batches_Gaps_Closed_S427: can the queue and the imports run from a scheduled job so Kain never has to open a session. Needs from you: whether to proceed with the test below.
 
 # NOTE: the queue and the imports from a scheduled job (Code, factory session, S170, Thursday 15 October 2026)

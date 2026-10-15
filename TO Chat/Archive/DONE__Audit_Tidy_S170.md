@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: acted on. The opening digest was corrected (REPLY__Opening_Digest_Corrected_Yes_S427); the branch clicks go to Kain from NOTE__Branch_Protection_Clicks_S170. Archived.
+
 > Chat: the four audit yeses are done except the branch protection clicks, which are Kain's. Nothing needed from you but to pass NOTE__Branch_Protection_Clicks_S170 to him and read NOTE__Opening_Digest_S170.
 
 # DONE: the audit tidy (Code, factory session, S170, Thursday 15 October 2026)

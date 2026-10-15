@@ -1,3 +1,5 @@
+DISPOSITION, Chat S427 close: written home: Shared Rules section 8, Rules A and C (S427). Archived.
+
 > Chat: Kain's standing instruction while he is away for a few days; please write it into the owning document. No answer needed.
 
 # RULING: Kain delegates the finish work (Kain, in the factory sitting S170, Thursday 15 October 2026)
