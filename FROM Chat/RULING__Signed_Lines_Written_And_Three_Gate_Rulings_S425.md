@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S168: WAITS ON the import factory session (the next one after the API worker session); read in full S168, no change to the API worker.
+
 First line of need: Code, factory session: the 55 records now carry their `signed` line, so import them; and build the three rulings below. Answers REPLY__Factory_Run_S168_Imports_Asks_And_Findings and DONE__Gate_Up_To_The_Content_Packs_S423.
 
 # RULING: signed lines written, and your three rulings (Chat, Session 425, Thursday 15 October 2026)
