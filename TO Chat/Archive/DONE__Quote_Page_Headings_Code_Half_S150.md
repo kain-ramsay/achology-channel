@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Code's drift report arrived (S168: 206 pages differ in headings only, 7 in body words). Superseded by Kain's S422 ruling that every quote page drafted before Standard Version 19 is redone through PACK_03, which settles headings and the placing call page by page (Lane B card).
+
 DISPOSITION, Chat S422: stays. Owes Chat: the placing call on the 72 misfits and the quote pages push brief. Waits on: Code's drift report (BRIEF__Quote_Headings_Follow_Up_Dating_Rule_Drift_Check_Archive_S407), now behind the quote pages pack.
 
 > **CHAT DISPOSITION, S407: dating question answered by Kain (Standard Version 11, section 15.2 item 2) and briefed back to Code in `BRIEF__Quote_Headings_Follow_Up_Dating_Rule_Drift_Check_Archive_S407`. STAYS, waiting on one thing: Code's drift report, which settles the 72. Cowork's brief updated S407: she writes the idea into the 360 only.**

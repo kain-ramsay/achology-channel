@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. The model rule is written: Cowork Production Harness Rule 12 (Kain's rule, S425), The Shared Rules section 6, each lane's CLAUDE.md; the S425 test settled Sonnet 5.5 to write and check.
+
 DISPOSITION, Chat S422: stays. Owes Chat: a model rule for the Project Instructions and the lane set-up, on Kain's yes. Waits on: the content type packs, before any lane restarts.
 
 > **CHAT DISPOSITION, S418 close: stays. It is the start of the Tools and connectors review, now a line on the Backlog: Chat card.**

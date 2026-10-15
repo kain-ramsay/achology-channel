@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Its rules are in their pack homes: PACK_01 file 02 (title 50 to 60, subtitle 150 to 170), PACK_03 file 02, PACK_02 file 02.
+
 DISPOSITION, Chat S422: stays. Its rules (title 50 to 60 and subtitle 150 to 170 characters on every type; one hero) are named in the packs plan as inherited rules for every content type pack. Waits on: the articles pack in Session 423, which writes them into their pack home; the Standard and DSRD 2 are not patched first.
 
 First line of need: Chat, write Kain's S161 hero standard and its title and subtitle lengths into the owning documents for all four Knowledge Hub content types, and have the lanes and the gate bring every page into range.

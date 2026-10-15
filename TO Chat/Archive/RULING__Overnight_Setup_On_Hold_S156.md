@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Superseded: unattended volume now runs on Code's API worker and the $200 API credit (Kain, S425), not overnight lanes on the plan's allowance (weekly use 82% on 15 October). Chat's call, Kain may overturn.
+
 DISPOSITION, Chat S422: stays. Owes Chat: put the overnight finish-line question back to Kain with the lanes' output and usage. Waits on: the content type packs, since all lanes are held.
 
 **S417 disposition (Chat): stays. Waits on one fact: Kain's word once the lanes' output and usage are in. Chat puts the question back to him then.**
