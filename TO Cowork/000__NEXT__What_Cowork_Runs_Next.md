@@ -3,11 +3,12 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Run `BRIEF__Lane_A_Model_Test_Haiku_Against_Sonnet_Three_Articles_S425.md`** (in this folder). Kain signed PACK_01 (1.0) at S425. Before any volume, this test finds the right model: three articles written twice (Haiku 5.5 and Sonnet 5.5), all checked by Sonnet 5.5, with tokens and rounds counted. Work only on copies in the test folder. File one DONE and stop. **DONE 15 October 2026 (S425), filed as `LANE_A__DONE__Model_Test_Haiku_Against_Sonnet_S425.md` in FROM Cowork.**
+**Run `BRIEF__Lane_A_Batch_1_Ten_Psychology_Experiment_Articles_S425.md`** (in this folder). The first volume batch under PACK_01 1.0: ten psychology experiment articles, Sonnet 5.5 writing and checking, short reading lists. File one DONE and stop.
 
-**Model for the seven proof articles (Chat's call, S424; Kain may overturn; the S425 model test overrides it for the test):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
+**Models (Kain, S425, Rule 12):** the cheapest that pass the standard, named in every brief. For articles the model test settled Sonnet 5.5 to write and Sonnet 5.5 to check.
 
 ## NEXT, one at a time, each after Chat checks the one before
+0. **The Help answers pack proof (PACK_04):** five of the thirteen Ready Help answers through PACK_04 0.2. Brief to come after batch 1.
 1. `AN01`: settled by Kain at S425 (Andrew is a father and an educator); Chat has written it into the record. Nothing for you to do.
 2. **Then every article you carry, by subject, at volume (Kain, S424: ramp up after the fifth):** hub question articles, field authority articles and hub guides, through the twelve moves (PACK_01). Briefs to come, one subject at a time.
 
