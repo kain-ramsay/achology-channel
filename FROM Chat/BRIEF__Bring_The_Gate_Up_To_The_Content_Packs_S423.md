@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Nine of the ten changes built and proved (264 acceptance cases, 43 fixtures); change 6 is a proposal for Chat's ruling, in DONE__Gate_Up_To_The_Content_Packs_S423.
 > CODE DISPOSITION, S162: WAITS ON a factory session being open (the content gate is factory work; this theme session touches no gate file).
 
 First line of need: Code, one factory job: ten changes to `content_gate_standards.json` and `content_gate.py` so the gate matches the signed Standard and the four new content packs. Kain's yes, Session 423. No theme work.

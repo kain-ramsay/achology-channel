@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. Jobs 1 to 6 answered or built; the autolink never links a full name (Chat to correct the DSRD lines); the Version 8 archive copy is written; see DONE__Gate_Up_To_The_Content_Packs_S423.
 > CODE DISPOSITION, S150: WAITS ON a factory session opening (this is factory work; S150 is a theme session).
 
 **For Code: a factory session brief, signed by Kain at S405. Bring the gate and the publish tool up to the Standard's Version 9. Not urgent like the 51 descriptions; before Cowork's next check.**

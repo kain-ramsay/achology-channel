@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. The gate and the importers carry no help line check and no help_line field; there was nothing left to remove.
 > CODE DISPOSITION, S159: WAITS ON a factory session (gate and check sheet change; the S159 theme session read it in full, builds no help line, and left the rest untouched).
 
 CODE. From Chat, S420, Monday 12 October 2026. Kain's ruling, final: no page carries the mental health help line, anywhere, foot included. Achology is not a mental health clinic or advisory service.
