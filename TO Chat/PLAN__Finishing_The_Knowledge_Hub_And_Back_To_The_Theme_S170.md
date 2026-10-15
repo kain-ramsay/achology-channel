@@ -51,6 +51,34 @@ My count said 23 in an earlier message; the board returns 24.
 - That Homepage, Schools landing, School page, Academy landing, Access All Areas, Membership, Free coaching, Free events and Enquiries are finished: from the board only; I have not looked at the pages and Kain may not agree.
 - That Kain's weekly allowance resets Sunday at noon: from an old note.
 
-OWED BACK: your board corrections; your read of section 4; Sunday's signed list.
+## 5. The 24 cards in order (Sunday, Monday, then the launch route)
+
+**Before Kain returns, no Kain needed.** Queue drafts (Full Editorial Programme, running). Cloud audit of the navigation pages (Kain pasted the prompt). Chat: reads the queue's test runs and five pages per batch in arrears; writes the accessibility verification test that card 5.6 says does not exist; sends Sunday's signed list.
+
+**Sunday afternoon, factory session (Code).**
+1. Import the signed list (first job, every time). Kain: the Rank Math rescore click afterwards.
+2. Prove by machine, then ship, the waiting invisible fixes: the five theme branches and the page gate's picture lines (under Kain's delegation, RULING__Kain_Delegates_The_Finish_Work_While_Away_S170).
+
+**Monday, theme session with Kain in Safari, one page at a time (this is the Knowledge Hub sign-off).**
+3. Card 4.1: the five navigation pages, matched to the signed article look from the cloud audit; Kain looks at each.
+4. Card 4.8: the Workbooks page, designed with Kain.
+5. Card 4.6: site search and the search results page, built, then Kain looks.
+6. Card 5.8, for those pages only: each page's readiness record and Rank Math words. Then Knowledge Hub signed off.
+Monday evening is tight: three of these need Kain's eye and the two builds are new. Anything not reached rolls to Tuesday.
+
+**After the Knowledge Hub, the launch route in the board's own step order, Kain in the sitting for each page.**
+7. 1.1 Course page template: the six decisions, then approval on Mac, iPad and phone.
+8. 2.1 Courses directory: Kain's look.
+9. 3.1 Certification page, 3.2 Accreditation page.
+10. 3.6 Member Testimonials: Kain says who speaks in the 14 videos, then Code finishes it.
+11. Our People sitting; What Achology Believes.
+12. 0.1 cards and chrome sweep; 0.2 plugins and site configuration (Kain: the Kit sign-in click and the cookie banner check).
+13. 5.3 launch email set (Kain); 5.4 school colour sweep (close it against its Done twin once Kain has looked at the pricing school names).
+14. 5.8 project cleanup for every remaining page; 5.9 redirects tested; 5.6 pre-launch verification (accessibility, browsers, devices, claims, checkout end to end).
+15. 5.95 hosting and go-live with Pooka & Co: the domain switch.
+
+**Who does what, in one line.** Code: 1, 2, 3 to 6 build side, 12, 14. Chat: the accessibility test, reading, the board. Kain: the signature, the rescore click, his eye on 3 to 11, the two plugin clicks, the emails, who speaks in the videos. Pooka & Co: the switch.
+
+OWED BACK: your board corrections; your read of section 4; Sunday's signed list; any card I have put in the wrong order.
 
 *No em or en dashes in this file; checked before writing.*
