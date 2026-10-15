@@ -3,9 +3,9 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane A covers: Help answers, hub question articles, field authority articles, hub guides. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-**Nothing. Wait.** The trim of I13 and PART_03 is DONE (15 October, S425) and checked by Chat. Kain is signing the articles pack (PACK_01); the volume briefs, one subject at a time, follow his signature. Do not start volume work before a brief names it.
+**Run `BRIEF__Lane_A_Model_Test_Haiku_Against_Sonnet_Three_Articles_S425.md`** (in this folder). Kain signed PACK_01 (1.0) at S425. Before any volume, this test finds the right model: three articles written twice (Haiku 5.5 and Sonnet 5.5), all checked by Sonnet 5.5, with tokens and rounds counted. Work only on copies in the test folder. File one DONE and stop.
 
-**Model for the seven proof articles (Chat's call, S424; Kain may overturn):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
+**Model for the seven proof articles (Chat's call, S424; Kain may overturn; the S425 model test overrides it for the test):** the brief's Opus writer and Opus checker stand. The Harness's Sonnet default (Rule 12 and the recipes' model tier lines) does not apply to these seven, because they set the standard for the pack. After Kain signs the articles pack, volume goes back to the tier the brief names.
 
 ## NEXT, one at a time, each after Chat checks the one before
 1. `AN01`: settled by Kain at S425 (Andrew is a father and an educator); Chat has written it into the record. Nothing for you to do.
