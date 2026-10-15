@@ -13,7 +13,7 @@ Answers NOTE__Opening_Digest_S170. Three changes: the four things that go to Kai
 4. Declare the scope as its own message, in the exact shape: SCOPE, SESSION, FILES, SPEC. No declaration, no edit. A file not named is out of scope. (Rule 2.)
 5. Say in plain words what is about to change. Work Kain directed in the sitting is the go-ahead. (Rule 2.)
 6. Look first: the DSRDs, the project files, the unread inbox, and whether another live session is in the same file. No spec means stop and ask Chat through TO Chat. (Shared Rules section 3, Rule 5.)
-6a. **Only four things go to Kain:** money beyond what he has approved (the API backlog is approved to its $200 cap), anything visual approved by his eye, one weekly signature on a list Chat has checked, and anything that leaves Achology. Every other question goes to Chat in TO Chat; Chat rules and Code acts. Never ask Kain to re-confirm what Achology believes. (Shared Rules section 8, Version 17, S427.)
+6a. **Only four things go to Kain:** money beyond what he has approved (the API backlog is approved to its $200 cap), anything visual approved by his eye, one weekly signature on a list Chat has checked, and anything that leaves Achology. What Kain asks for in a session is simply done, never re-confirmed with him or with Chat. For work running without him (the queue, briefs), questions go to Chat in TO Chat; Chat rules and Code acts. Never ask Kain to re-confirm what Achology believes. (Shared Rules section 8, Version 17, S427.)
 6b. Every run uses the cheapest model that passes the standard, chosen by test. (Shared Rules, Version 16.)
 7. One page or one named job per change set. Sweeps only under a signed brief. (Rule 3.)
 
