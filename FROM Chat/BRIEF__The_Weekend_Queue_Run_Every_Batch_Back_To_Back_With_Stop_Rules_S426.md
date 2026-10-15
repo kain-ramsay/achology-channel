@@ -5,7 +5,7 @@ First line of need: Code, factory session, straight after BRIEF__API_Worker_Take
 **Why (Kain, S426).** Kain approved all three phases of `Launch Content Planning/PLAN__Clearing_The_Knowledge_Hub_Backlog_On_The_API_Worker_S426.md`, Help answers included, and wants the whole backlog drafted, checked and ready to sign when he is back on Monday morning. Nothing should wait for a Chat session to start the next batch.
 
 ## What is lined up
-`api_worker/batches/queue_S426/` holds 33 batch files, `Q001` to `Q033`, in the order they run, 1,232 records in all. Each file's head names its phase, type, pack and subjects. Signed, superseded, check and lane files are left out, and so are the two batches already named (`first_batch.txt`, running; `second_batch_psychology_S426.txt`, the 33 psychology articles, which runs first, before Q001). The empty files in `queue_S426/_to_delete/` are Chat's mistake; ignore them, Kain will delete the folder.
+`api_worker/batches/queue_S426/` holds 33 batch files, `Q001` to `Q033`, in the order they run, 1,232 records in all. Each file's head names its phase, type, pack and subjects. Signed, superseded, check and lane files are left out, and so are the two batches already named (`first_batch.txt`, running; `second_batch_psychology_S426.txt`, the 33 psychology articles, which runs first, before Q001).
 
 | Phase | Type | Records | Batches | Runs when |
 |---|---|---|---|---|
