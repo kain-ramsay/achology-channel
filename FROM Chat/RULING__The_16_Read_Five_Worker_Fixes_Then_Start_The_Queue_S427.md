@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON the five worker fixes and the rerun of the 16 being finished and read clean (in progress this session).
+> CODE DISPOSITION, S170: WAITS ON Kain's yes to spend on the first two field authority batches (Q001, Q002) and queue mode being built; the five fixes and the rerun are DONE, see TO Chat/DONE__Five_Fixes_And_Rerun_S170.md.
 
 First line of need: Code, five small fixes to the API worker, one rerun of the 16, then start the weekend queue yourself if the rerun is clean. No further read by Chat is needed before the queue starts.
 
