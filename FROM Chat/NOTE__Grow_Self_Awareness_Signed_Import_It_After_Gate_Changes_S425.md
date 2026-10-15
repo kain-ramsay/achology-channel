@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. The signed body and the new keyword are on the live page (post 39472) and the register is rebuilt; Rank Math reads 36 because the SEO title lacks the phrase (REPLY__Factory_Run_S168, finding 1).
 CODE DISPOSITION, S166: WAITS ON the factory session with gate changes 3 and 9 in (read in full by theme session S166; item 2 of the factory run list in Code's next-session plan).
 First line of need: Code, factory session: import the signed hub guide `Content Records/hub-guide/grow-self-awareness.md` onto the build site, after gate changes 3 and 9, the same way as the three signed articles of S424.
 

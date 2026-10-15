@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S168: DONE. The signed body is on the live page (post 35320), words identical on read-back, Rank Math 87; the retired-type line waits on Chat's ruling on change 6.
 > CODE DISPOSITION, S164: WAITS ON a factory session being open, with gate changes 3 and 9 in (the import is factory work; this theme session touches no content record).
 
 First line of need: Code, `what-is-counselling` is signed by Kain (13 October 2026). Import it with the other signed pieces once gate changes 3 and 9 are in (BRIEF__Bring_The_Gate_Up_To_The_Content_Packs_S423), or import and record the expected fails below.
