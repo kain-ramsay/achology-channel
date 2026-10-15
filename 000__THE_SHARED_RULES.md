@@ -1,11 +1,13 @@
 # THE SHARED RULES: what Chat, Code and Cowork all read
 
-**Version 16, S425. Authority: Kain Ramsay.**
+**Version 17, S427. Authority: Kain Ramsay.**
 **Read by every Claude working on Achology.com at the open of every session, before its own rule book.** Chat reads it before the Project Instructions and the Chat Harness. Code reads it before CLAUDE.md and The Harness. Each lane (A, B, C: the three Claude Code sessions on the iMac Pro that do Cowork's work since S416) reads it before the Cowork Production Harness.
 
 This file holds every rule that binds all three, once. Each Claude's own book holds only its own conduct. A shared rule written anywhere else is a second copy and is removed on sight. This file changes only by Chat with Kain's approval, versioned here, delivered whole.
 
 **Standing state, S140 (Kain), recorded S393: Project Cleanup is open.** Project Cleanup is the finish drive: finish what is started, sweep every built page one page at a time with Kain looking at each, and empty every waiting tray, before anything new begins. `PLAN__The_Finish_List_Every_Started_Card_And_What_Closes_It_S392` in FROM Chat is its master plan. While it is open no Claude proposes or starts a new page, content type, tool or plan, and none is added to the board. It is over only when Kain says so. Every built page's DSRD 6 record must read no fail and no not run, Code's tray must be empty, and the six cards in the plan's section 0A must be Done. This is a state, not a rule: it names no new behaviour, and it leaves this file when Kain closes the drive. Kain's words: "ensure that nothing else gets started in this project until this Project Cleanup has been delivered upon and completed 100%."
+
+**Version 17, S427:** section 8's first sentence replaced by the four things that go to Kain; no rule added (Kain, S427: "I wouldn't be the middleman").
 
 **Version 16, S425 (Kain's rule, later the same session):** section 6's brief line tightened, no rule added. Every brief now carries a model line beside its vault line: the writer and checker models, the cheapest that pass the standard (Kain: "make sure that this rule is never overlooked"). It reaches Code here too, for any API run Code sets up for lane work. The rule itself lives in the Cowork Production Harness, Rule 12.
 
@@ -95,7 +97,7 @@ Test: no message contains a sentence that becomes true only after it is sent.
 
 ## 8. Kain decides; a ruling reaches the record the same session
 
-Kain owns every design, content, scope and money decision. A design question is a request for assessment, never authorisation to build. A ruling he gives in any session is authority at once, and is written into the document that owns it, in that session, by whoever was in the room: Chat writes it home; Code and Cowork file a RULING into the channel so Chat writes it home. A ruling live in the work and absent from its owning document is a break.
+**Only four things go to Kain (Kain, S427, replacing "Kain owns every design, content, scope and money decision"):** (1) money beyond what he has already approved (the API backlog is approved to its $200 cap; nothing inside an approved cap is put to him again); (2) anything visual, approved by his eye on the rendered thing; (3) one signature a week, at the Friday stock-take, on a batch list Chat has already checked; (4) anything that leaves Achology: sending a pack to Data Labs or any outside party, and pages going public. Everything else is decided by Chat and Code and done: Code asks Chat, Chat rules, nobody asks Kain. What Achology believes is not his to re-confirm: it is written in The Achology Stance, its topic stances and PACK_01 file 06, and every Claude applies it from there. A design question is a request for assessment, never authorisation to build. A ruling he gives in any session is authority at once, and is written into the document that owns it, in that session, by whoever was in the room: Chat writes it home; Code and Cowork file a RULING into the channel so Chat writes it home. A ruling live in the work and absent from its owning document is a break.
 
 Technical choices (plumbing, tooling, git, config, installs) are never his; take them, name them, and move on. **A choice is technical only when nobody else can feel it.** Anything that changes where things live or what points at what, and reaches outside the thing being worked on (moving, renaming or relinking a folder; changing a path another Claude, a connector, a sync service or a background job depends on; anything that makes a familiar address stop working, however briefly) is not technical. It goes to Chat first, is agreed by Chat, and is validated by Kain before anything is touched. The project folder in Documents never moves again (Kain, S332, after Code's S096 move and move-back).
 
@@ -111,4 +113,4 @@ Test: every ruling has a dated line in its owning document.
 ---
 
 *No em or en dashes in this file; checked before writing.*
-*End of The Shared Rules, Version 16.*
+*End of The Shared Rules, Version 17.*
