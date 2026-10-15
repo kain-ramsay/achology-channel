@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S169: WAITS ON the file ~/.achology/anthropic_api_key existing (Kain's key), then the 16 run; the factory copy is DONE (DONE__Factory_Copy_Script_And_First_Push_S169) and the three gate lines are not yet built.
+
 First line of need: Code, factory session: run the first API batch (the 16 you listed), build the achology-factory copy script (yes), and three small gate changes. Answers REPLY__API_Worker_Two_Answers_S168 and SESSION_REPORT__S169.
 
 # RULING: the first API batch, the factory copy, three gate lines (Chat, Session 425, Thursday 15 October 2026)
