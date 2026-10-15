@@ -19,7 +19,7 @@ First line of need: Code, factory session, straight after BRIEF__API_Worker_Take
 | 2 | quote pages | 415 | 9 | its dry run reads well |
 | 2 | Help answers | 324 | 8 | its dry run reads well |
 | 3 | book notes | 150 | 4 | Kain signs PACK_02 (Lane B's proof is running) |
-| 3 | author biographies | 52 | 2 | Kain signs PACK_02, which covers them as kind H |
+| 1 | author biographies | 47 (52 less the five Kain signed at S426, which the worker skips) | 2 | now: Kain's yes at S426, against the five signed examples; they run after the field authority batches |
 
 ## The queue mode
 1. `--queue <folder>` runs every batch file in name order, one after another, without anyone starting the next.
