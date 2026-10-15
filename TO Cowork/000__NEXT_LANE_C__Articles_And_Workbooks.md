@@ -3,7 +3,7 @@
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane C covers: instructor and elder articles, the Seven Beliefs parts, workbooks, author biographies. Rewritten whole at S423; the old list is in Archive.
 
 ## NOW
-Nothing. Lane C is held until its packs are signed.
+**44 author biographies to PACK_02**, from `BRIEF__Lane_C_44_Author_Biographies_To_PACK_02_S426` (Kain's yes, S426: this job lifts the hold for these 44 records only). Sonnet 5.5 writes, a fresh Sonnet 5.5 checks. When it is DONE, stop: everything below stays held.
 
 ## NEXT, each from a brief Chat writes from the pack
 (S425: PACK_01 is signed, 1.1. Lane C stays held to save the weekly allowance (82% used on 15 October); its articles may go to Code's API worker instead. Models: Sonnet 5.5 writes and checks, Cowork Production Harness Rule 12.)

@@ -7,17 +7,17 @@ First line of need: Lane C: bring 44 author biographies to PACK_02 kind H, again
 **Read, and nothing else (short reading list, Cowork Production Harness Rule 12):**
 - PACK_02 files 01, 02, 03 and 05 (in Content Type Packs/PACK_02__Book_Notes).
 - PACK_01 file 06, How Kain Writes (the moves).
-- Two of the five signed examples, whole:  and  (Content Records/author-biography). The writer reads these to hear the voice; the checker reads them to compare.
+- Two of the five signed examples, whole: `Author_Biography_Viktor_Frankl_S305` and `Author_Biography_Abraham_Maslow_S305` (Content Records/author-biography). The writer reads these to hear the voice; the checker reads them to compare.
 
 **Models:** Sonnet 5.5 writes; a fresh Sonnet 5.5 agent that saw none of the writing checks (Rule 9). Never a bigger model.
 
 **For each record, in this order:**
-1. Copy the record whole to  with  added to its name, before touching it.
+1. Copy the record whole to `Content Type Packs/PACK_02__Book_Notes/PROOF__Five_Biographies_S426/originals/` with `__before_S426` added to its name, before touching it.
 2. The writer rewrites only the Body (from "## Body" to just before "## Content gate"): the five headings exactly as the record has them; every fact, date, name, quotation (word for word), book title and link (same text, same address) kept; no new fact that the record's own Sourcing record or Search and Citation Brief cannot support. A detail the sources cannot support is narrowed or dropped and listed. Kain, S426: a detail earns its place by what it helps the reader understand about the person's ideas; a date, place or story that does not is left out (PACK_02 file 03).
 3. 1,600 to 2,000 words; paragraphs of three to six sentences aiming for about 120 words, longer when the thought needs it, never clipped. Fair to the thinker; where Achology's view differs, said once, openly and respectfully, with its reason; never a tie between the author and Achology; Achology teaches about the mind, never the brain. UK spelling, no em or en dashes, contractions in the everyday flow, numbers ten and above in digits, at most one link a paragraph, no sentence sending the reader to a doctor, therapist or help line.
 4. The checker tests every paragraph against the moves and compares with the original: any fact, quote or link changed, any heading changed, anything invented. "Not met" goes back to the writer, up to four rounds; whatever is still open after four is left as the original and listed for Chat.
 5. Write the new Body into the record, and at its foot a section headed "Body rewritten to PACK_02, Lane C, S426" listing every detail narrowed or dropped. Do not add a signed line; Kain signs the batch.
-6. Run the gate as  and keep its printout beside the record.
+6. Run the gate as `author-biography` and keep its printout beside the record.
 
 **The 44 records (in Content Records/author-biography), and only these:**
 - `Author_Biography_A_C_Grayling_S304`
