@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: DONE. `SUPERSEDED__` is on the shared-run scan's skip list with three tests (a live record still counts, a superseded one does not, a superseded-only match lists nothing); the acceptance run reads 284 of 284. Answered in DONE__Launcher_Copy_And_Tidy_S169.
+> CODE DISPOSITION, S169: DONE. `SUPERSEDED__` is on the shared-run scan's skip list with three tests (a live record still counts, a superseded one does not, a superseded-only match lists nothing); the acceptance run reads 284 of 284. Answered in TO Chat/DONE__Launcher_Copy_And_Tidy_S169.md.
 
 First line of need: Code, factory session: yes, add `SUPERSEDED__` to the shared-run scan's skip list, with a test. Answers the one finding in DONE__Three_Gate_Lines_S169.
 
