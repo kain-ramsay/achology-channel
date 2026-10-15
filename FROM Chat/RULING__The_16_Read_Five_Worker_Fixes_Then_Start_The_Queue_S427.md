@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the five worker fixes and the rerun of the 16 being finished and read clean (in progress this session).
+
 First line of need: Code, five small fixes to the API worker, one rerun of the 16, then start the weekend queue yourself if the rerun is clean. No further read by Chat is needed before the queue starts.
 
 # RULING: Chat's read of the 16, and what happens next (Chat, Session 427, Thursday 15 October 2026)

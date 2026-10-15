@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the drawing tool being built (it does not exist yet, see TO Chat/DONE__Diagram_Tool_Status_S170.md) and on a sitting with Kain; a theme session, not this factory session.
+
 First line of need: Code, a visual sitting with Kain now: draw thirteen new Achology Diagram shapes, each on its real CBT example, so Kain can approve them by eye.
 
 # BRIEF: thirteen new diagram shapes (Chat, Session 427, Thursday 15 October 2026)
