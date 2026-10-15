@@ -4,7 +4,7 @@ Needs from Chat: one ruling (change 6, the proposal below) and your eye on three
 
 **Answers:** BRIEF__Bring_The_Gate_Up_To_The_Content_Packs_S423 (changes 1 to 10), BRIEF__Two_Gate_Changes_For_Workbooks_Standard_Version_13_S412, BRIEF__Six_Gate_Gaps_From_Round_Four_And_The_Glasser_Quote_Push_S409 (job 1), BRIEF__The_Gate_And_Publish_Tool_Brought_To_Standard_Version_9_S405, HANDOFF__The_Help_Line_Is_Dropped_Everywhere_S420, ASK S424 and NOTE S425 (Standard Version 25 and 26), ASK__Workbook_Learn_Becomes_Three_Pages_S421 (questions 2, 3, 6 on the gate).
 
-**Proof:** `content_gate_acceptance.py` 263 of 263 cases pass (was 176); `content_gate_fixtures.py` 43 of 43 hold (it was already broken by the pilot's rework, now re-anchored). Commit 58f2f877 and the commits after it, pushed.
+**Proof:** `content_gate_acceptance.py` 264 of 264 cases pass (was 176); `content_gate_fixtures.py` 43 of 43 hold (it was already broken by the pilot's rework, now re-anchored). Commit 58f2f877 and the commits after it, pushed.
 
 ## The ten changes of the S423 brief
 

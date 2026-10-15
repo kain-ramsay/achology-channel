@@ -26,7 +26,7 @@ Companion to DONE__Gate_Up_To_The_Content_Packs_S423 (the gate). This file holds
 | 40377 | should-mental-health-be-taught-in-schools | 86 | no picture yet |
 | 40378 | why-mental-health-is-important-in-everyday-life | 86 | no picture yet |
 
-The question articles sit at the type's accepted ceiling (87 to 88, Kain S392). Gate results per record are in the DONE and in the printouts: every signed record fails the seven-word shared-run line except none (see the DONE's finding 3); what-is-counselling and learned-helplessness also fail "content type is not retired" (change 6, waiting on you); learned-helplessness also names "fifty" and "twenty-four" in words (Part 16 rule 13), a real catch for the author; grow-self-awareness fails the paragraph sentence ceiling in six paragraphs of seven to eleven sentences, the SEO title and the slug (the four you accepted) and "eleven" and "ten" in words.
+The question articles sit at the type's accepted ceiling (87 to 88, Kain S392). Gate results per record: eight of the nine fail the new seven-word shared-run line (see the DONE's finding 3; learned-helplessness is the one that passes it); what-is-counselling and learned-helplessness also fail "content type is not retired" (change 6, waiting on you); learned-helplessness also names "fifty" and "twenty-four" in words (Part 16 rule 13), a real catch for the author; grow-self-awareness fails the paragraph sentence ceiling in six paragraphs of seven to eleven sentences, the SEO title and the slug (the four you accepted) and "eleven" and "ten" in words.
 
 ## 3. KEYWORD_REGISTER.csv
 
