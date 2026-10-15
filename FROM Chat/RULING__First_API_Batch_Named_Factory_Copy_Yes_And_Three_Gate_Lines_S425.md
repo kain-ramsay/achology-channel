@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: WAITS ON the file ~/.achology/anthropic_api_key existing (Kain's key), then the 16 run; the factory copy is DONE (DONE__Factory_Copy_Script_And_First_Push_S169) and the three gate lines are not yet built.
+> CODE DISPOSITION, S169: WAITS ON Chat's reading of the 16 staged drafts and Kain's yes to a $4.50 retest (the first batch ran: 0 of 16 passed, $4.53, see TO Chat/DONE__First_API_Batch_S169.md); the factory copy is DONE (TO Chat/DONE__Factory_Copy_Script_And_First_Push_S169.md) and the three gate lines are DONE (TO Chat/DONE__Three_Gate_Lines_S169.md).
 
 First line of need: Code, factory session: run the first API batch (the 16 you listed), build the achology-factory copy script (yes), and three small gate changes. Answers REPLY__API_Worker_Two_Answers_S168 and SESSION_REPORT__S169.
 
