@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived. Chat checked all ten: added responsibility endings 0 to 2 per article (argued), no dashes, no technique misuse; sampled the halo article in full (good); changed seven American spellings ("judgments") to UK in the halo body, leaving quoted titles and Thorndike's own words. Nine go to Kain for batch signature; the bystander article is held until the Newman and Walmer study is read (body "had not read it" against brief row 5 "something unrelated"). Cost noted: about 4.7 million tokens for ten, weekly use 79% to 81%. Lane A NOW is the PACK_04 proof.
+
 LANE A
 
 # DONE: Batch 1, ten psychology experiment articles (Thursday 15 October 2026)

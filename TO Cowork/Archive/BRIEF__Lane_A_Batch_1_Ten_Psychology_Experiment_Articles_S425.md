@@ -1,3 +1,5 @@
+DISPOSITION, Chat S425: archived; DONE filed and checked by Chat.
+
 First line of need: Lane A, batch 1 of the articles at volume: ten psychology experiment articles (field authority), three finished from the model test and seven rewritten, Sonnet 5.5 writing and checking, each agent reading only its short list. Kain's yes, Session 425.
 
 # BRIEF: batch 1, ten psychology experiment articles (Chat, Session 425, Thursday 15 October 2026)
