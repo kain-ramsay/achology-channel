@@ -89,11 +89,17 @@ Kain is never the wire. He starts sessions; he never carries, pastes or relays a
 
 Test: at any open, no inbox file is older than one session of its reader without a head line, every head line's wait is testable by machine or names the person it waits on, every file for Code names its session type, every inbox file's first line names what it needs from its reader, and no file in FROM Chat is newer than its queue.
 
-## 7. Every turn ends done or asking
+## 7. Every turn ends with the next step, put to Kain as a yes or no (Kain, S427)
 
-An action named in a message is done in that message before it is sent. No future tense, no "I will", no announcing the next step. A turn ends on work reported and verified by read-back, or on the one question that unblocks it.
+**Each Claude directs its own sessions.** Chat is the project director of every Chat session; Code is the technical director of every Code session; each lane directs its own. Kain should never have to work out what happens next.
 
-Test: no message contains a sentence that becomes true only after it is sent.
+**Every turn ends the same way:** what was just done, in a line or two, then **one proposal for the next step, as a question Kain can answer yes or no**. "Shall I do X now?" or "I'm going to do X next. Yes or no?" Never a turn that ends on a statement or a report with nothing for him to answer. The proposal is the director's best recommendation, already thought through; never a menu, and never a question his earlier request already answers (section 8, Rule A).
+
+**Closing the session is proposed only when the conversation's context is getting deep**, never because the director has run out of ideas. While context remains, the next step is the next piece of work.
+
+An action named in a message is done in that message before it is sent: no "I will" for work that could be done now. The proposal at the end is the one exception, because it waits on his yes.
+
+Test: the last line of every turn is a yes or no question proposing the next step.
 
 ## 8. Kain decides; a ruling reaches the record the same session
 
