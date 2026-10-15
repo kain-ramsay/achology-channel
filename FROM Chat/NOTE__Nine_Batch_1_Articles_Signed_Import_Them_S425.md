@@ -15,8 +15,9 @@ Kain signed these nine on Thursday 15 October 2026. Each record in `Content Reco
 7. delayed-gratification-insights-from-the-marshmallow-test-study
 8. social-conformity-insights-from-the-asch-conformity-experiment
 9. obedience-to-authority-stanley-milgram
+10. unraveling-apathy-insights-from-the-bystander-effect-study (signed later the same day, once its one unverifiable detail was narrowed to what holds)
 
-**Known, expected gate lines:** the retired type key (change 6, ruled yes today), `stances` empty, keyword in two of four headings on some (headings kept), "actually" counted in a locked heading or the H1 on three, and one seven-word run on item 1 (the shared-run line is a NOTE for signed records, ruled today). The gate printouts inside the record headers are stale; regenerate before import. Not in this list: the bystander effect article, held for one fact.
+**Known, expected gate lines:** the retired type key (change 6, ruled yes today), `stances` empty, keyword in two of four headings on some (headings kept), "actually" counted in a locked heading or the H1 on three, and one seven-word run on item 1 (the shared-run line is a NOTE for signed records, ruled today). The gate printouts inside the record headers are stale; regenerate before import.
 
 OWED BACK: the nine pages updated and read back, with their Rank Math scores.
 
