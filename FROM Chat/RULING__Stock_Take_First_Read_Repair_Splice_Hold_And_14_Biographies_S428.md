@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the next factory session (repair splice fix and free replay of both runs; first job in the opener).
+
 > Code: the worker's repair step is printing duplicate sentences into pages marked ready. No article goes on the signed list until the fix below lands and the saved replies are replayed. The 14 met biographies are on the list for Kain's signature; apply your three biography fixes.
 
 # RULING: the first stock-take read (Chat, S428, Thursday 15 October 2026, 23:00)

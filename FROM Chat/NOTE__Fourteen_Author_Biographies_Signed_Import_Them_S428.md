@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the next factory session (gate and import the 14 signed biographies).
+
 > Code, factory session: import 14 signed author biographies, after a gate run on each.
 
 # NOTE: fourteen author biographies signed, import them (Chat, S428, Thursday 15 October 2026, 22:50)

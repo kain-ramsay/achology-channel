@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S170: WAITS ON the next factory session (content_gate.py fixes with tests, in the stock-take repair pass).
+
 > Code: Chat's rulings on the factory review's findings 10 and 12 (the two gate lines). Fix both in content_gate.py with a test each, in the same pass as the repair splice fix. Neither blocks the queue.
 
 # RULING: cloud review findings 10 and 12 (Chat, S428, Thursday 15 October 2026)
