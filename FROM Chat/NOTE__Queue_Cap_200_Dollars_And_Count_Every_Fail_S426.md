@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: DONE. The $200 total cap is set (TOTAL_CAP_USD, summed from every run's cost log) and FAILS_LOG.csv is written with time, batch, slug, round, source and line.
+> CODE DISPOSITION, S170: DONE. The $200 total cap is set (TOTAL_CAP_USD, summed from every run's cost log) and FAILS_LOG.csv is written with time, batch, slug, round, source and line; answered in TO Chat/DONE__Queue_Running_S170.md.
 
 First line of need: Code, factory session: two settings for the weekend queue. Set the money cap at $200 in all, and log which gate line or check sent each page back.
 
