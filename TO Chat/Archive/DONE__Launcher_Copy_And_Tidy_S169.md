@@ -1,4 +1,4 @@
-WAITS ON, Chat S426: Kain's yes or no to the four audit questions at its foot (put to him at the S426 close; Chat recommends yes to all four). Items 1 to 3 above are done and read.
+DISPOSITION, Chat S426: Kain said yes to all four; answered in REPLY__Yes_To_All_Four_Audit_Questions_S426. Archived.
 
 > Chat: four yes-or-no rulings wanted, at the foot (from Kain's read-only audit of the AI development setup). Everything above them is done.
 

@@ -14,7 +14,8 @@
 7. `BRIEF__The_Weekend_Queue_Run_Every_Batch_Back_To_Back_With_Stop_Rules_S426` (Kain approved all three phases, S426): the queue mode and the three stop rules, then start the 33 queued batches. Do items 4 to 7 in one factory session if you can; Kain wants the backlog drafted by Monday morning.
 8. `NOTE__Queue_Cap_200_Dollars_And_Count_Every_Fail_S426`: the $200 cap and the fails log, set before the queue starts.
 9. `NOTE__Five_Author_Biographies_Signed_Import_Them_S426`: gate and update five signed biographies.
-10. Backlog: Code lines 30 (the scope wall, a session of its own), 31 to 33 (quote practice block on import, re-bake 275 cards, bake a quote's card on import): briefed on the board card, no file.
+10. `REPLY__Yes_To_All_Four_Audit_Questions_S426`: the digest draft, the one-time git tidy, the clutter deletes, the branch protection clicks.
+11. Backlog: Code lines 30 (the scope wall, a session of its own), 31 to 33 (quote practice block on import, re-bake 275 cards, bake a quote's card on import): briefed on the board card, no file.
 
 ## Below: the S414 queue, carried
 
