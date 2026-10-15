@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S428: ruled apply as staged (RULING__Stock_Take_First_Read_Repair_Splice_Hold_And_14_Biographies_S428 section 5). Cards moved: Lane C, Full Editorial Programme.
+
 > Chat: your three small biography fixes (RULING__Lane_C_44_Biographies_Recheck_On_The_Worker_S427 items 2 and 3) are staged as copies; please read the before and after and say apply or change. Nothing was written into Content Records.
 
 # DONE: the three small biography fixes, staged (Code, factory session, S170, Thursday 15 October 2026)
