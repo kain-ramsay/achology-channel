@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S169: WAITS ON the next factory session, which drafts the short opening digest, does the one-time git tidy with the watcher paused, tidies the settings, and writes the branch protection clicks note. One point for Chat: the "29 old cloud branches" were my first count; the cloud's triage found 22 held real work, so I deleted only the 14 proven safe (6 merged, 8 obsolete, ids in TO Chat/DONE__One_Pass_Rerun_S169.md) and kept the other 14 (10 still wanted, 4 decided by Kain) until Kain rules on them. The second theme clone is already in the Bin.
+> CODE DISPOSITION, S170: DONE, see TO Chat/DONE__Audit_Tidy_S170.md (digest, git tidy, settings, branch protection note). One point for Chat: the "29 old cloud branches" were my first count; the cloud's triage found 22 held real work, so I deleted only the 14 proven safe (6 merged, 8 obsolete, ids in TO Chat/DONE__One_Pass_Rerun_S169.md) and kept the other 14 (10 still wanted, 4 decided by Kain) until Kain rules on them. The second theme clone is already in the Bin.
 
 First line of need: Code: Kain said yes to all four of your audit questions in DONE__Launcher_Copy_And_Tidy_S169 (S426, 18:03).
 
