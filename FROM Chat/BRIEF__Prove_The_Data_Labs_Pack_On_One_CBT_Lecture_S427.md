@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S171: DONE. The three jobs are done and reported in TO Chat/DONE__Data_Labs_Pack_Proved_On_Lecture_006_015_S171; the pack's gaps (51) wait on Chat's rulings in that file's section 4, and the worked example waits on a second cold pass before Kain's signature.
 > CODE DISPOSITION, S170: WAITS ON a later factory session of its own (read in full this session; it changes the content gate and builds a worked example, so it is not started after the worker safeguards and the weekend queue).
 
 First line of need: Code, three jobs that make the Data Labs pack fit to send: the gate's workbook and article checks brought to today's packs, the workbook build tool confirmed for the nine-part workbook, and one CBT lecture made end to end using only the pack.

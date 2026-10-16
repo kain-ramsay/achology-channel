@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S171: DONE for the diagram drawing tool (TO Chat/DONE__Diagram_Drawing_Tool_Built_S171; nineteen shapes drawn, Kain's eye owed on the iceberg). WAITS ON the worker items: findings 8 to 13 and queue mode were done by the second factory session of 16 October (see TO Chat/NOTE__Two_Factory_Sessions_Both_Called_S171).
 > CODE DISPOSITION, S170: WAITS ON the diagram drawing tool being built (its record field `## Diagram` is the ruled input), then findings 8 to 13 and queue mode; the thirteen shapes are drawn and with Kain for his yes or no (SITTING page in the Achology Diagram design folder).
 
 First line of need: Code, Chat's rulings on your S170 points, and the diagram drawing tool moved to the top of the factory queue.
