@@ -2,6 +2,8 @@
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S425)
 
+## FIRST (Friday 16 October): `RULING__Friday_Stock_Take_Enable_Four_Types_Fix_Book_Note_Headings_S428b`
+
 ## Group S425: open these first, in this order (all factory)
 
 1. `RULING__Signed_Lines_Written_And_Three_Gate_Rulings_S425`: import and publish the 55 signed records (52 Help answers, 3 Mental Health pieces); build change 6 and the shared-run NOTE for signed records; update grow-self-awareness's Rank Math title.
