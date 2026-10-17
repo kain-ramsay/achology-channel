@@ -34,3 +34,5 @@
 OWED BACK: your three rulings above.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Update, 17 October:** the Wiley link fix is done on Kain's yes: 29 links in 15 Content Records changed from `wiley.com/ai/` to `wiley.com/doi/`; none is left. Pages already on the install keep the old link until they are next updated from these records.
