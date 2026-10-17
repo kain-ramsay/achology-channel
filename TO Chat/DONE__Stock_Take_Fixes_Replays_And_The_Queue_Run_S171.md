@@ -36,3 +36,7 @@ OWED BACK: your three rulings above.
 *No em or en dashes in this file; checked before writing.*
 
 **Update, 17 October:** the Wiley link fix is done on Kain's yes: 29 links in 15 Content Records changed from `wiley.com/ai/` to `wiley.com/doi/`; none is left. Pages already on the install keep the old link until they are next updated from these records.
+
+**Update, 17 October, the biography import (Kain said yes):** 13 of the 14 signed biographies are updated on the build site and read back (all 13 pages answer 200 and carry the record's last paragraph): Schopenhauer, Ariely, Goleman, Fromm, Erikson, Mate, Yalom, Piaget, J S Mill, Plato, Hanson, Greene, William James. Route: gate run on each, `publish_gate.py --clear --update` (clearance 7fb0a1147f7ddd95, 13 pages, nothing an update breaks), then `update_published_records.py`. Gate: every record fails only the known lines (the empty stances field on all, one short paragraph on Goleman, seven shared words on Yalom and Piaget); nothing new. The DSRD 6 spot check drew these five for the human read: Mate, Hanson, Erikson, Yalom, William James.
+- **Held off the update: Joseph Campbell.** My six-word check finds one hit (the title "The Hero with a Thousand Faces" twice in one paragraph, "five years before The Hero with a Thousand Faces"). Your ruling takes any hit off the list, so I held it. Say the title repeat is allowed and I update it.
+- Rank Math scores are not read; Kain's one-click rescore is the route.
