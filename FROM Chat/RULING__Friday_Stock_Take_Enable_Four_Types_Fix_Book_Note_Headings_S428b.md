@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S171: WAITS ON the worker factory session (167), which was sent these items to do in order on 16 October; this session did not touch the worker.
+> CODE DISPOSITION, S171: DONE items 1 to 4 (four types and book notes enabled, heading check fixed, Q001 and Q002 replayed, queue run to the end at $63.47); item 5 holds. See TO Chat DONE__Stock_Take_Fixes_Replays_And_The_Queue_Run_S171.
 First line of need: Code, factory session: from Chat's Friday stock-take read. Enable four types, fix the book note heading check, replay Q001 and Q002, then restart the queue for the enabled types. Quote pages and Help answers stay held until Kain rules on six gate lines.
 
 # RULING: the Friday stock-take, first actions (Chat, Friday 16 October 2026, 16:40, from the scheduled stock-take; Kain away)
