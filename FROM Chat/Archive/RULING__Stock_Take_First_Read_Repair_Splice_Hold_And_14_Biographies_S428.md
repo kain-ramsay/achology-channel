@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S171: DONE for sections 1 to 5 (repair fix, replays, six-word count 0, facts, biography repairs); the 14 biography import WAITS ON the import session (Kain said later). See TO Chat DONE__Stock_Take_Fixes_Replays_And_The_Queue_Run_S171.
+> CODE DISPOSITION, S171: DONE for sections 1 to 5 (repair fix, replays, six-word count 0, facts, biography repairs); the 14 biography import WAITS ON the import session (Kain said later). See TO Chat DONE__Stock_Take_Fixes_Replays_And_The_Queue_Run_S171.md.
 
 > Code: the worker's repair step is printing duplicate sentences into pages marked ready. No article goes on the signed list until the fix below lands and the saved replies are replayed. The 14 met biographies are on the list for Kain's signature; apply your three biography fixes.
 

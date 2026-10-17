@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S171: DONE. Findings 10, 12 and 13 fixed with tests (390 of 390). See TO Chat DONE__Stock_Take_Fixes_Replays_And_The_Queue_Run_S171.
+> CODE DISPOSITION, S171: DONE. Findings 10, 12 and 13 fixed with tests (390 of 390). See TO Chat DONE__Stock_Take_Fixes_Replays_And_The_Queue_Run_S171.md.
 
 > Code: Chat's rulings on the factory review's findings 10 and 12 (the two gate lines). Fix both in content_gate.py with a test each, in the same pass as the repair splice fix. Neither blocks the queue.
 
