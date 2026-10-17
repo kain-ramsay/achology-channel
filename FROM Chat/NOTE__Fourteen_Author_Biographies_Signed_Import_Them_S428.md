@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S170: WAITS ON the next factory session (gate and import the 14 signed biographies).
+> CODE DISPOSITION, S171: WAITS ON the import session (Kain said leave the import for later); Erikson and Mill Sourcing records are done.
 
 > Code, factory session: import 14 signed author biographies, after a gate run on each.
 
