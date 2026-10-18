@@ -33,3 +33,4 @@
 - 2026-10-17 23:32:15 Stop rule 1 on Q013_phase2_quote-page (quote-page): 41 of 50 ended needs_chat or error, over 50 per cent. The type is held and the queue has moved on.
 - 2026-10-17 23:49:37 Stop rule 1 on Q015_phase2_quote-page (quote-page): 42 of 50 ended needs_chat or error, over 50 per cent. The type is held and the queue has moved on.
 - 2026-10-18 09:08:15 Stop rule 1 on Q013b_rerun_S171_phase2_quote-page (quote-page): 27 of 50 ended needs_chat or error, over 50 per cent. The type is held and the queue has moved on.
+- 2026-10-18 09:08:36 Stop rule 1 on Q016b_rerun_S171_phase2_quote-page (quote-page): 31 of 50 ended needs_chat or error, over 50 per cent. The type is held and the queue has moved on.
