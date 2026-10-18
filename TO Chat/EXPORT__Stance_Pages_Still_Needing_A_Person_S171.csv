@@ -1,0 +1,56 @@
+slug,why,page_sentence,stance,reason
+a-guide-to-breaking-bad-habits,still flagged after two repair rounds,A brain that expects an outcome and gets it will keep running the loop that produced it.,The Achology Stance,"The page makes a direct claim about how the brain works, which the stance forbids and which its own earlier stance fixes had already removed elsewhere."
+a-guide-to-breaking-bad-habits,still flagged after two repair rounds,She studied how a brain structure called the basal ganglia becomes involved as a behaviour changes from a conscious choice into an automatic routine.,The Achology Stance,"The page describes brain anatomy and function in its own voice, and does not use it to set the brain apart from the mind."
+diagnosing-bipolar-disorder-in-children,still flagged after two repair rounds,"Before you give any label real weight, write down three things: the specific pattern of mood or behaviour that worries you, how long it has lasted and in which settings it appears, and what stage of development the child is in now.",The Achology Stance On Mental Health,"It tells a parent to hold back from giving a doctor's diagnosis weight and to test it themselves, which argues with the diagnosis a doctor gave."
+diagnosing-bipolar-disorder-in-children,still flagged after two repair rounds,"If a child you know has been given the label, it's natural to think, ""A doctor made the diagnosis, so it must rest on the same solid ground as it would for an adult."" In fact, the disagreement is real, and it has gone on for decades.",The Achology Stance On Mental Health,"It speaks to a reader whose child has a doctor's diagnosis and casts doubt on its footing, which the mental health stance forbids."
+disagreement-vs-division,still flagged after two repair rounds,"His mother said she had told his father what she needed for years, and he never once listened.",The Achology Stance On Relationships.md,"The Relationships stance's Do-not-say list forbids using Kain's parents' marriage, and the page recounts their divorce in detail."
+disagreement-vs-division,still flagged after two repair rounds,It took Kain until his early thirties to see what had really happened between them.,The Achology Stance On Communication.md,"The Communication stance forbids Kain's personal stories, and the page builds its opening around his parents' unraveling marriage."
+everyone-agreeing-on-a-diagnosis,still flagged after two repair rounds,You can be glad of the agreement and still ask whether anyone has shown that the label corresponds to something real.,The Achology Stance On Mental Health,"The page encourages the reader to question whether a diagnosis a doctor has given corresponds to anything real, which is arguing with the diagnosis, and the mental health stance forbids that."
+hypomania-from-an-ordinary-mood-swing,still flagged after two repair rounds,"What it offers is a clearer sense of what that clinician is looking for, so the conversation starts from an accurate picture rather than a vague one.",The Achology Stance On Helping People,"The sentence sets up the reader's conversation with a clinician, which points them to a clinician, and the stances say no sentence may do that."
+labels-vs-true-identity,still flagged after two repair rounds,"For years he described himself as introverted, shy and not really a people person.",The Achology Stance On Human Personality,"The page builds its opening teaching on Kain's and Karen's own introverted, shy years, which the stance says stay in the lectures and never go on the site."
+labels-vs-true-identity,still flagged after two repair rounds,"Kain remembers the night before he and Karen got married, when he was sitting with a group of strangers who asked where he was from.",The Achology Stance On Character Development,"The page tells a personal story about Kain's wedding eve, which the stances forbid in print."
+labels-vs-true-identity,still flagged after two repair rounds,Some of the labels people lean on hardest are the ones a professional once assigned them.,The Achology Stance On Human Identity,"The sentence and the paragraph after it treat professionally assigned labels as something to re-check, which is a forbidden topic and invites doubt about a diagnosis."
+mental-wellbeing,still flagged after two repair rounds,## Understanding And Reprogramming Your Own Mind,The Achology Stance On Thinking And Mindset.md,"The heading uses ""reprogramming"" for the mind, a word the Thinking and Mindset stance forbids; an earlier fix removed it from the body text but left it in the heading."
+resilient,still flagged after two repair rounds,"It isn't a character flaw, just how a nervous system built for survival works.",The Achology Stance,"The page itself, in its own voice, states how the nervous system works, which is a statement about the brain that does not set it apart from the mind."
+resilient,still flagged after two repair rounds,"Buddha's Brain (2009) explained why the brain holds onto bad experiences far more readily than good ones, a pattern researchers call the negativity bias.",The Achology Stance,"The page asserts as fact, rather than as the book's claim, how the brain retains experiences, which the stance forbids."
+the-doors-of-perception,still flagged after two repair rounds,"If a healthy brain's job is to filter out far more than it lets through, then a good deal of what you call ordinary perception is already an edited highlights reel.",The Achology Stance,"The page makes its own statement about what the brain does, which the stances forbid, and does not use it to set the brain apart from the mind."
+whats-the-key-to-winning-hearts-and-minds,still flagged after two repair rounds,"They were building a water pipeline from Kuwait across the border, to bring clean drinking water to rural towns that had none.",The Achology Stance On Communication.md,"The Communication stance's ""Do not say"" list forbids Kain's military stories, and the page builds its opening on his army posting, a pipeline, and a military operation."
+whats-the-key-to-winning-hearts-and-minds,still flagged after two repair rounds,"Discernment matters too, and a personal experience from training as a counsellor shows it well.",The Achology Stance On Communication.md,"The page uses Kain's personal experience as a counsellor trainee as its example, which the Communication stance says never to do."
+AN03__why-does-the-character-of-a-good-teacher-matter-more-than-method,automatic repair not possible (see STANCE_FIX_REPORT),,,
+CQ018-030-1__why-we-interpret-our-life-events-the-way-we-do,automatic repair not possible (see STANCE_FIX_REPORT),,,
+GK04__how-do-you-keep-going-when-youve-lost-motivation,automatic repair not possible (see STANCE_FIX_REPORT),,,
+HELP__what-makes-achology-different,automatic repair not possible (see STANCE_FIX_REPORT),,,
+I03__what-clients-hear-real-empathy,automatic repair not possible (see STANCE_FIX_REPORT),,,
+I18__persuade-someone-who-disagrees,automatic repair not possible (see STANCE_FIX_REPORT),,,
+a-psychiatric-diagnosis-simply-wrong,automatic repair not possible (see STANCE_FIX_REPORT),,,
+homosexuality-was-a-diagnosis,automatic repair not possible (see STANCE_FIX_REPORT),,,
+hypnotherapy,automatic repair not possible (see STANCE_FIX_REPORT),,,
+life-coaching,automatic repair not possible (see STANCE_FIX_REPORT),,,
+self-acceptance-vs-self-improvement,automatic repair not possible (see STANCE_FIX_REPORT),,,
+the-rise-in-autism-diagnoses-real,automatic repair not possible (see STANCE_FIX_REPORT),,,
+CQ001-056-1__why-faith-is-an-outlook-on-life,flagged on the first check and already needed Chat,,,
+CQ001-060-1__why-we-channel-conflict-into-something-productive,flagged on the first check and already needed Chat,,,
+CQ001-088-1__why-you-can-choose-how-long-you-carry-it,flagged on the first check and already needed Chat,,,
+CQ018-023-2__can-you-unlearn-something,flagged on the first check and already needed Chat,,,
+CQ018-037-1__why-were-clean-slates-when-we-enter-the-world,flagged on the first check and already needed Chat,,,
+CQ018-059-1__why-managing-your-emotions-is-work-that-never-ends,flagged on the first check and already needed Chat,,,
+CQ018-065-1__why-perception-is-not-reality,flagged on the first check and already needed Chat,,,
+CQ018-066-1__why-youre-only-one-mind-change-away-from-feeling-different,flagged on the first check and already needed Chat,,,
+CQ018-070-1__why-taking-time-to-reflect-brings-you-real-insight,flagged on the first check and already needed Chat,,,
+CQ018-074-1__why-its-easier-to-diagnose-people-than-to-understand-them,flagged on the first check and already needed Chat,,,
+CQ018-077-2__why-self-control-has-to-precede-our-own-growth,flagged on the first check and already needed Chat,,,
+CQ018-092-2__why-no-single-label-can-define-who-you-are,flagged on the first check and already needed Chat,,,
+CQ018-097-1__why-change-in-your-life-belongs-to-you-alone,flagged on the first check and already needed Chat,,,
+CQ018-102-2__why-you-are-not-what-you-do,flagged on the first check and already needed Chat,,,
+HELP__learn-cbt-for-free,flagged on the first check and already needed Chat,,,
+I08__hope-does-real-work,flagged on the first check and already needed Chat,,,
+change-is-the-only-constant,flagged on the first check and already needed Chat,,,
+cover-up-incompetence-with-head-knowledge,flagged on the first check and already needed Chat,,,
+fixed-or-growth-mindset,flagged on the first check and already needed Chat,,,
+fountain-or-a-drain,flagged on the first check and already needed Chat,,,
+growing-or-standing-still,flagged on the first check and already needed Chat,,,
+helping-people-help-themselves,flagged on the first check and already needed Chat,,,
+neuro-linguistic-programming,flagged on the first check and already needed Chat,,,
+rational-or-emotional-thinker,flagged on the first check and already needed Chat,,,
+self-confidence,flagged on the first check and already needed Chat,,,
+starvation-insights-from-ancel-keys-the-minnesota-experiment,flagged on the first check and already needed Chat,,,
