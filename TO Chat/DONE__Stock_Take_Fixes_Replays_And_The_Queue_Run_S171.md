@@ -45,3 +45,12 @@ OWED BACK: your three rulings above.
 - Quote pages, Q011 (45 records) now 28 ready (was 26); Q012 (50 records) now 22 ready (was 16). The biggest cause left in Q012 is the writer using "I" ("I read it as", "I'd"), which the gold quote page never does; I added a writer rule against it. Other causes: link text (5) and short originals growing past 130 per cent (2).
 - Help answers: the two five-record test runs replay at 4 of 5 and 3 of 5 ready; the causes are a changed link text and one fragment the fact check named.
 - The types stay held by your ruling. When Kain rules on the growth limit and gate lines, the worker needs one status change and a restart.
+
+**Final update, 18 October (Kain said yes to running quote pages and Help answers, and asked for batches side by side):**
+- **The queue now submits up to four batches of one type at once** (self-test passes, including a parallel case). It is finished again at **$100.13 of the $200 cap**.
+- **Totals, from the queue log: 28 of 31 batches, 1,065 of 1,180 records. Ready about 805, needs_chat 244, error 1.** (The log says 807 ready; two book notes were pulled back by the replay.)
+- **Help answers: all 8 batches, 324 records: 285 ready, 38 to you** (growth limit did not block them with the word budget given to the writer).
+- **Quote pages: 6 of 9 batches, 300 records: 150 ready, 145 to you. Stop rule 1 holds the type with 3 batches (115 records) not run.** First pass 35 of 200 ready; after the provenance-sentence fix 84 of 200. What still blocks most pages: the writer follows the pack's ruled provenance sentence ("taken from his course", with the course link), the fact check repairs it back to the record's original wording, and the link is lost. **Needs your ruling: which wording wins, the pack's formula or the record's original, and the repair should then keep the link.** I did not loosen any check.
+- **Still held for you:** Joseph Campbell's biography (title repeated), the judge ruling, the cloud review 2 gate lines. Nothing is on the live site; all pages wait for your read and Kain's signature.
+
+OWED BACK: the quote page provenance ruling, plus the three rulings above.
