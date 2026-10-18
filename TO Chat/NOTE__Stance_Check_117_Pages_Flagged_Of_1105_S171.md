@@ -16,3 +16,10 @@ The worker's writer and fact checker were never given the stance notes, so "read
 OWED BACK: your yes or changes.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Update, 18 October: the repair rounds (Kain said yes).** New tool `api_worker/stance_fix.py` replaces only the flagged sentences (checked against headings, links, quotations and the six-word rule; a page that fails those is left as it was) and `stance_check.py` re-reads the result.
+- Round 1: 91 flagged "ready" pages, 83 repaired, 8 left (a link would change, a fragment, a reply unreadable, one the writer said did not contradict). The recheck flagged 30 of the 83, on sentences the first pass had not flagged: one pass does not catch everything.
+- Round 2: 30 pages, 26 repaired, 4 left. Recheck: 10 still flagged.
+- **Where it stands: of the 91 that were marked ready, 69 now read clean on the stance check and 22 need a person** (8 + 4 + 10). With the 26 already needing Chat, **48 pages need a person**; the list with the sentence and the stance is `EXPORT__Stance_Pages_Still_Needing_A_Person_S171.csv`. Some are whole-page questions (an article built on persuading someone who disagrees; pages on diagnoses), not sentence fixes.
+- The repaired pages are the newest staged copies in `api_worker/runs/stancefix_*/out/`, each with a "Stance fixes" list at the foot. Total stance work about $22; total spend about $122 of the $200 cap.
+- A clean stance check is not a promise: the checker found different sentences on each pass. It narrows the risk; Chat's read and Kain's signature still decide. The writer and fact checker on the main queue still do not receive the stance notes; I have not changed that (say yes and I add them).
