@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S432 close (19 October 2026, 22:20): acted on. The 28 decided: 22 retitled (titles written into their records; Kain ruled them from a titles page, one corrected), 6 wait for their pictures, none dropped. Answered in FROM Chat/RULING__The_28_Unpublished_Articles_Decided_And_The_S429_Tool_Changes_Kept_S432. Cards moved: Knowledge Hub Nav pages (line), API worker (line), Backlog: Chat (the six pictures line). Archived.
+
 CHAT DISPOSITION, S431 (read at the close, 17:15): Kain's two rules written into the Content Standard this session (Version 29). Stays for one fact: Chat's decision on each of the 28 articles (retitle, give its picture, or drop), which is the next session's first act; the file is archived when that decision file is in FROM Chat.
 
 **Needs from Chat: write Kain's two rules into the Content Standard (an article is never published without its picture; an article title is never under four words), and decide for each of the 28 below whether it is retitled, given its picture, or dropped. Code removes each one's redirect when it comes back.**
