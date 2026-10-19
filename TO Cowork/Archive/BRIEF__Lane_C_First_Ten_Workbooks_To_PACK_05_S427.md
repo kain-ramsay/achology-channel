@@ -1,3 +1,5 @@
+ARCHIVED, S432: withdrawn, the lanes are closed (Kain, 19 October 2026); the twenty workbooks are the newsroom's. Kept as the record of the PACK_05 brief.
+
 LANE C. First line of need: rebuild the first ten workbooks to PACK_05 1.0. Start when the weekly allowance resets on 18 October. No question goes to Kain; questions come to Chat.
 
 # BRIEF: the first ten workbooks, to PACK_05 1.0 (Chat, Session 427, Thursday 15 October 2026)

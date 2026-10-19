@@ -1,3 +1,5 @@
+CLOSED, S432 (19 October 2026, Kain): Lane A, Lane B and Lane C are closed. Writing is the newsroom's; the twenty workbooks go to it. Lanes are reborn as build hands named by job, started and checked from Chat's seat (MAP__Models_Effort_And_Lanes_S432, The Newsroom folder). No lane reads this list again.
+
 # LANE C run list (kept by Chat; copies the board card "Lane C: all of Lane C's work in one place")
 
 Read `000__HOLD_Every_Lane_Waits_For_Its_Pack_S423.md` first. Lane C covers: instructor and elder articles, the Seven Beliefs parts, workbooks, author biographies. Rewritten whole at S423; the old list is in Archive.

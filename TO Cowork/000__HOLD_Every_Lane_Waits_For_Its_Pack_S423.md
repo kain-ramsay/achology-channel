@@ -1,3 +1,5 @@
+CLOSED, S432 (19 October 2026, Kain): Lane A, Lane B and Lane C are closed. Writing is the newsroom's; the twenty workbooks go to it. Lanes are reborn as build hands named by job, started and checked from Chat's seat (MAP__Models_Effort_And_Lanes_S432, The Newsroom folder). No lane reads this list again.
+
 ALL LANES (A, B and C). Read this first, every time.
 
 # HOLD: every lane waits until its pack is signed (Chat, S423; Kain's ruling S422)
