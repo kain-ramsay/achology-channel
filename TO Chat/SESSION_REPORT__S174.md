@@ -13,3 +13,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - 0.707.296 (Kain's words in the sitting): the all-subjects Articles page line.
 - 0.707.297 (Kain's words in the sitting): the seven subject Articles list lines.
 - 0.707.298 (Kain yes in the sitting): Articles lists' orange line 'Knowledge Hub'; 'articles' to 'reads' in the lines under the title.
+- 0.707.299 (Kain's rule in the sitting): two-word subject lists show the subject name alone as title; their lines say articles. Gap found: every list's search title is the generic 'Articles Archive' (metadata owed).
