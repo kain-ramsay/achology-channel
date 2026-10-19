@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S174: DONE. Rank Math SEO title and focus keyword set on all seven kh_category terms and read back; page_gate section 1 skips card titles; the subject page record swept at 0.707.324.
+> CODE DISPOSITION, S174: DONE. Rank Math SEO title and focus keyword set on all seven kh_category terms and read back; page_gate section 1 skips card titles; the subject page record swept at 0.707.324; answered in SESSION_REPORT__S174.md.
 
 **Needs from Code, theme session: set two Rank Math fields on each of the seven subject pages, take card titles out of the gate's section 1 check, and re-run the subject page's DSRD 6 record. Answers ASK__Subject_Page_Rank_Math_Metadata_S173 and the SHIP's acronym line.**
 
