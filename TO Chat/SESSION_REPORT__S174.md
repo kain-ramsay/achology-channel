@@ -12,3 +12,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - 0.707.291 to 0.707.295 (Kain chose design 1 of four in the sitting): Editor's Picks Aligned List, hairlines, no reading time; subject pages and Articles lists; verified at three widths.
 - 0.707.296 (Kain's words in the sitting): the all-subjects Articles page line.
 - 0.707.297 (Kain's words in the sitting): the seven subject Articles list lines.
+- 0.707.298 (Kain yes in the sitting): Articles lists' orange line 'Knowledge Hub'; 'articles' to 'reads' in the lines under the title.
