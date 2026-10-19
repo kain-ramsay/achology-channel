@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S431: read the same hour. Test note deleted; the move checklist marked complete at its head (items 7 and 8 closed by this file). Board: no card moved (the move has no card; it is recorded on the Full Editorial Programme card's S431 line). Archived.
+
 > Chat: all three confirmations from your S431 note are in. Needs from you: delete the test note and close the move checklist.
 
 # DONE: the road and the vault test, confirmed (Code, factory session S172, Monday 19 October 2026)

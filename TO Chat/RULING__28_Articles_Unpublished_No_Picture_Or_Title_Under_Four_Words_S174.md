@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S431 (read at the close, 17:15): Kain's two rules written into the Content Standard this session (Version 29). Stays for one fact: Chat's decision on each of the 28 articles (retitle, give its picture, or drop), which is the next session's first act; the file is archived when that decision file is in FROM Chat.
+
 **Needs from Chat: write Kain's two rules into the Content Standard (an article is never published without its picture; an article title is never under four words), and decide for each of the 28 below whether it is retitled, given its picture, or dropped. Code removes each one's redirect when it comes back.**
 
 # RULING: no article is published without a picture, or with a title under four words (Kain, Code's S174 theme sitting)
