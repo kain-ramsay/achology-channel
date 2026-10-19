@@ -24,6 +24,8 @@ Kain, on the S378 Articles list: "This is not a design that I've approved ... yo
 - The Editor's Picks: an aligned list (design 1 of four), "having the hairline in between is quite good", and no reading time in this block.
 - The topics block: "it just seems very, very noisy ... my eyes just kind of blur." After four directions, a map and four presentations: "four doors is phenomenal ... very navigatable", then the Folder presentation: "Very clean, very simple." Titles and lines are Kain's (the build sheet quotes them). "The topics block is locked in."
 
+**Colour, settled later in the sitting.** "I think what we need is a real consistent colour strategy." After four strategies, then four corrected ones ("the categories banner needs to be different from the main banner ... all warm on top of all warm when selected is not going to work"), Kain chose Warm with a Dark Bar: cream for every band and panel, the brand dark Categories bar, white for anything on a band. This replaces the off-white named above (0.707.318).
+
 ## 4. Fold-back (Harness Rule 14), written this session
 
 Category Hub Page folder: PROTOTYPE__Subject_Page_S174_APPROVED (0.707.316) replaces the S173 prototype; the build sheet gains "Decided in S174"; README updated. Listing Page folder: PROTOTYPE__Articles_Listing_S174_APPROVED (0.707.317) and BUILD_SHEET__Articles_Listing_S174 are new; README updated.
