@@ -18,3 +18,5 @@
 OWED BACK: the four calls. Code does not ask Kain to judge sentences.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Addendum, 19 October:** the lanes' folders (`~/Documents/Achology Lanes`, Lanes A, B, C) were scanned. Only two drafts sit there that are not in Content Records, both Lane B quote pages: `why-clear-requests-protect-boundaries` and `why-connection-determines-your-peace`. They have never been stance-checked or gated. Everything else the lanes drafted is already in Content Records and was stance-checked.
