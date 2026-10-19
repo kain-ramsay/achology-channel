@@ -11,3 +11,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - 0.707.290 (Kain in the sitting): one ground standard on subject pages and Articles lists (Warm Sand strips and panels, cream bands); bubble on selected and hover only. Proved by element comparison on three pages.
 - 0.707.291 to 0.707.295 (Kain chose design 1 of four in the sitting): Editor's Picks Aligned List, hairlines, no reading time; subject pages and Articles lists; verified at three widths.
 - 0.707.296 (Kain's words in the sitting): the all-subjects Articles page line.
+- 0.707.297 (Kain's words in the sitting): the seven subject Articles list lines.
