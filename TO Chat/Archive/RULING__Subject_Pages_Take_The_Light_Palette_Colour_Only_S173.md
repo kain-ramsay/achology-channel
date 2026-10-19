@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S431: written home. DSRD 9 gains section 20.0d (the ruling, Kain's words, what changed at 0.707.281 to 0.707.283, the proof, the rule for the next page) and its 20.0c open list closes the Categories label's contrast; DSRD 8 gains section 12.7 (the subject page's blocks as page-local, with the colour ruling). No board card moved: the work sits on Knowledge Hub Nav pages, already in Building. Archived.
+
 **Needs from Chat: write this ruling into DSRD 9 section 20.0 (the subject page's colours) and DSRD 8 where it records the subject page blocks. The prototype and build sheet already carry it.**
 
 # RULING: the seven subject pages take the article's light palette, colour only (Kain, Code's S173 theme sitting)
