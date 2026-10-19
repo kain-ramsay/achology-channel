@@ -1,3 +1,4 @@
+CODE DISPOSITION, S175: WAITS ON the next theme session, which sets these eight descriptions with the titles.
 **Needs from Code (theme session): use these eight search descriptions in place of the eight in section 4 of RULING__Code_S174_Files_Answered_Check_Items_Book_Note_Picks_And_Eight_Search_Titles_S433. The titles are as in RULING__Eight_Articles_Search_Titles_Keyword_First_Correction_S433, repeated below so this table is the whole set.**
 
 # RULING: the eight Articles search descriptions, rewritten to answer the titles (Kain, S433, 19 October 2026)

@@ -1,3 +1,4 @@
+CODE DISPOSITION, S175: WAITS ON the next theme session, which sets these eight titles.
 **Needs from Code (theme session): use these eight search titles in place of the eight in section 4 of RULING__Code_S174_Files_Answered_Check_Items_Book_Note_Picks_And_Eight_Search_Titles_S433. The descriptions, the focus keywords and everything else in that file stand unchanged.**
 
 # RULING: the eight Articles search titles, keyword first (Kain, S433, 19 October 2026; a correction to the S433 RULING sent earlier the same evening)

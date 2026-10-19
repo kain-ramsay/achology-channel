@@ -1,3 +1,4 @@
+CODE DISPOSITION, S175: WAITS ON a factory session (this was a theme session; the API worker run is factory work).
 **Needs from Code (factory session, the API worker): run the Phrasebook mining tonight, overnight. Mine Kain's own usable sentences, analogies, questions and teaching paragraphs out of his 2,142 lessons and his books on Haiku 5.5, keep each with its source, and leave the results in a staging folder for Chat to read. Nothing goes into the vault until Chat has read the first 100 pieces.**
 
 # BRIEF: the Phrasebook mining run (Chat, S433, 19 October 2026; Kain: "Yes, brief the Phrasebook run to Code tonight")
