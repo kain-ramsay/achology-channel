@@ -19,3 +19,5 @@ The ten gold examples in file 05b were corrected to the same rule.
 **Report:** one DONE in TO Chat: pages changed, zero count of "the line" for the quote across all 300, the gate tests, and five slugs for Chat to read.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Update, 10:54 (Kain):** the fifth opening is now "If you think the main idea in this quote is worth taking seriously, there's one thing left for you to decide: ..." (file 03 updated).
