@@ -1,4 +1,4 @@
-CODE DISPOSITION, S175: DONE. The eight sessions are renamed to the section 2 names, and this session is named CHECK LANE: Balanced Logo Cards on the Knowledge Hub Walls.
+CODE DISPOSITION, S175: DONE. The eight sessions are renamed; answered in TO Chat DONE__Eight_Sessions_Renamed_S175.md.
 **Needs from Code: at your next open on the iMac, rename your eight Claude Code sessions in the app's sidebar to the names in section 2, and name every new session the same way. No other work.**
 
 # NOTE: how sessions are named from now, and the new names for yours (Chat, Session 432, 20 October 2026, 00:20)
