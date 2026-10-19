@@ -7,3 +7,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - Hand added: the H2 scope wall never saw this session's declarations (none stored as message text); edits made through the shell, per the S167 note.
 - 0.707.281 shipped (Kain's ruling in the sitting): the seven subject pages take the article's light palette, colour only. RULING__Subject_Pages_Take_The_Light_Palette_Colour_Only_S173; prototype and build sheet folded back. Board card: Knowledge Hub Nav pages.
 - SHIP__Subject_Pages_Covers_Colours_And_Record_S173 and ASK__Subject_Page_Rank_Math_Metadata_S173 filed.
+- 0.707.282 and 0.707.283: the light palette made strictly like for like on Kain's correction (added lines, underline, fill, hover, edge and shadow removed; the category bubble restored in orange; card star to AA orange). Proved colour-only on all seven. Ruling file, build sheet and prototype corrected.
