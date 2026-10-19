@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S431: both owed items answered. The acronym line: a card title is the destination's own title, written into DSRD 6 section 1 (Version 25) and the Standard's exceptions register (s) (Version 28), sent in RULING__Subject_Pages_Titles_Focus_Keywords_And_Card_Titles_S431.md. The metadata: same file. The colour ruling it names is written home (DSRD 9 section 20.0d, DSRD 8 section 12.7). Section 5 of the record (sitemap chain) is Code's factory side. Board: Knowledge Hub Nav pages stays in Building. Archived.
+
 # SHIP: the seven subject pages, 0.707.280 and 0.707.281, and their DSRD 6 record (Code, S173 theme session)
 
 **0.707.280, invisible.** The book covers on the subject pages load their own 240 and 480 wide WebP copies (made at S167) instead of WordPress's 200 by 300 JPG. Same look, fewer bytes. Verified in WebKit on all seven at desktop, and Psychology at tablet and phone: every cover WebP, none broken, none distorted.

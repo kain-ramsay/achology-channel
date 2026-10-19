@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S431: read. Its three outputs (0.707.280 and 0.707.281 to 0.707.283 shipped, the DSRD 6 record started, the ruling and ask filed) are all acted on this session: ruling written home, ask answered, record's open items answered or named. Asks nothing of its own. Board: Knowledge Hub Nav pages stays in Building. Archived.
+
 # SESSION REPORT S173 (theme session, the seven subject pages)
 
 Claimed at the open, 19 Oct 2026. Lines added as work finishes.

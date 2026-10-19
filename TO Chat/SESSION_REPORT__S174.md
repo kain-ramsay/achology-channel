@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S431: read; stays. Waits on one fact: the S174 theme sitting finishes (0.707.284 is shipped; Kain's sign-off, the fold-back, its RULING and its record are not). Archived at the first open after that.
+
 # SESSION REPORT S174 (theme session, the Knowledge Hub navigation pages)
 
 Claimed at the open, 19 Oct 2026. Lines added as work finishes.

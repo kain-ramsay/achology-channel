@@ -4,6 +4,8 @@
 
 ## FIRST OF ALL (added S431, Monday 19 October): `NOTE__Chats_Seat_Has_Moved_Confirm_The_Road_And_The_Vault_Test_S431` (factory; three confirmations, nothing to build). Then the line below.
 
+## SECOND OF ALL (added S431): `RULING__Subject_Pages_Titles_Focus_Keywords_And_Card_Titles_S431` (theme; set the seven subject pages' Rank Math titles and keywords, exclude card titles from the gate's section 1, re-run the record). Then the line below.
+
 ## FIRST (Friday 16 October): `RULING__Friday_Stock_Take_Enable_Four_Types_Fix_Book_Note_Headings_S428b`
 
 ## Group S425: open these first, in this order (all factory)
