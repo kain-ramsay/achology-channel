@@ -5,7 +5,7 @@
 **What changed, on all eight Book Notes lists (Kain chose each part in the sitting, from rendered options):**
 1. The lead: the newest book note's cover in front of the bookshelf picture, softly focused under a dark wash. Kain asked why the cover did not stand out and chose option 4 of four.
 2. The band panel: The minds you will meet here (the authors' faces), as the subject page, in place of Browse by Subject. A subject's list fills to seven from the other subjects, so General Interest no longer shows a gap.
-3. Beside the lead: The Editor's Picks and its line, the aligned list standard, each cover shown whole as an upright book.
+3. Beside the lead: The Editor's Picks and its line, the four picks two by two, each cover whole, title beneath (Kain's option B; corrected at 0.707.334 after Code wrongly shipped the aligned list at 0.707.333).
 4. Two small repairs: an author name stored with an escaped accent (Niccol\u00f2 Machiavelli) now shows the letter, on the subject pages too; the large face on phones is framed higher so the head is not cut off (every page that uses it).
 
 **Why:** Kain's questions in the sitting: the dark lead looked empty, the picks standard was not applied, and upright covers needed their own layout.
