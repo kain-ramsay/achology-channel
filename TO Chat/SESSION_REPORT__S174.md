@@ -28,3 +28,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - 0.707.325 (Kain asked in the sitting): the nine Book Notes lists take the Articles lists' design; lead is the newest book note's cover on the dark stage; New Book Notes beside it. Verified at 1280, 834, 390. Not yet signed off by Kain; fold-back owed after his yes.
 - 0.707.326 (Kain's words in the sitting): the all-subjects Book Notes page line.
 - 0.707.327 (Kain's words in the sitting): the seven subject Book Notes lines.
+- 0.707.328 (Kain in the sitting): Book Notes subject lists titled by subject name alone; 'the theme of' in the Psychology and Motivation lines.
