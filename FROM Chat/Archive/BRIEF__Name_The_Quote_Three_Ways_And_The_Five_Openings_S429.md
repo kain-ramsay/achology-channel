@@ -21,3 +21,5 @@ The ten gold examples in file 05b were corrected to the same rule.
 *No em or en dashes in this file; checked before writing.*
 
 **Update, 10:54 (Kain):** the fifth opening is now "If you think the main idea in this quote is worth taking seriously, there's one thing left for you to decide: ..." (file 03 updated).
+
+**WITHDRAWN by Chat, S429 11:13, on Kain's ruling: no patching. Folded into one complete instruction set per content type, shown to Kain before anything goes to Code.**

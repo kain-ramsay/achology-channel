@@ -7,3 +7,5 @@
 3. **Standing rule, Kain S429 by implication, Chat's wording:** any sentence Kain writes by hand is never rewritten by a machine. The S374 exemplar page life-coach-vs-therapist was reworded by the worker on 17 October; Chat's sample caught it. Please lock Kain-written text by a field or marker the worker respects, and list the pages that carry it.
 
 *No em or en dashes in this file; checked before writing.*
+
+**WITHDRAWN by Chat, S429 11:13, on Kain's ruling: no patching. Folded into one complete instruction set per content type, shown to Kain before anything goes to Code.**

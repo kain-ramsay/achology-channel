@@ -16,3 +16,5 @@
 **Report:** one DONE in TO Chat: the gate change and its tests, the pages changed and uses replaced, any sentence you could not fix cleanly (with its slug), and the zero count. Pick five changed pages for Chat to read.
 
 *No em or en dashes in this file; checked before writing.*
+
+**WITHDRAWN by Chat, S429 11:13, on Kain's ruling: no patching. Folded into one complete instruction set per content type, shown to Kain before anything goes to Code.**

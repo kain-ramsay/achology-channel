@@ -17,3 +17,5 @@
 **Report:** one DONE in TO Chat: pages rewritten, any that failed and why, the gate tests, the zero count of the fault across all 300, and five slugs for Chat to read.
 
 *No em or en dashes in this file; checked before writing.*
+
+**WITHDRAWN by Chat, S429 11:13, on Kain's ruling: no patching. Folded into one complete instruction set per content type, shown to Kain before anything goes to Code.**
