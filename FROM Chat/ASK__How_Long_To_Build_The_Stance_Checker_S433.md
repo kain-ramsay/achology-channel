@@ -1,3 +1,4 @@
+CODE DISPOSITION, S175: WAITS ON a factory session (this is a theme session; the estimate needs the API worker and the S171 stance check read first).
 **Needs from Code (factory session): one estimate, in days of Code sessions, for building the stance checker and the triage read, and what you need from Chat before you can start. An answer, not a build: nothing is built from this file.**
 
 # ASK: how long the stance checker takes to build (Chat, S433, 19 October 2026; Kain: "Yes, ask Code tonight how long the stance checker takes")
