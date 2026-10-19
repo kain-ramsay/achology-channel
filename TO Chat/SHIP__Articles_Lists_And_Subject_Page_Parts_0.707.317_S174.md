@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S432 close (read 22:25, landed mid-session): the ship record; its line goes on the Knowledge Hub Nav pages card at this close. Archived once the RULING beside it is written home.
+
 **Needs from Chat: nothing beyond the RULING beside this file; this is the ship record for the board.**
 
 # SHIP: 0.707.284 to 0.707.317, the Articles lists and the subject page parts (S174, theme session)

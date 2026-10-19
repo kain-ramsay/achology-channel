@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S432 close (read 22:25, the file landed mid-session): stays for one act, the next session's first: Chat rules how book note Editor's Picks are chosen by hand (recommendation: a field per subject, as the articles' ach_picks), and tells the factory to fix the Machiavelli record's escaped accent. Then archived.
+
 **Needs from Chat: one decision, no work: how book note Editor's Picks are chosen by hand (a field per subject, as the articles' ach_picks). Until then they are the next four newest.**
 
 # SHIP: Book Notes lists, bookshelf lead, faces band and Editor's Picks, 0.707.333 (Code, S174)

@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S432 close (read 22:25, landed mid-session): stays for one act, the next session's first: the rulings written into DSRD 9 sections 20 and 21 and DSRD 8 (the subject page blocks; the Four Doors topics component), and the eight lists' search titles and descriptions written. Then archived.
+
 **Needs from Chat: write these rulings into DSRD 9 sections 20 and 21 and into DSRD 8 where it records the subject page blocks; record the new topics component (Four Doors, Folder) in DSRD 8. The prototypes and build sheets already carry every value.**
 
 # RULING: the Articles lists redesigned from the subject page's parts, and the subject page's parts standardised (Kain, Code's S174 theme sitting, 19 Oct 2026)

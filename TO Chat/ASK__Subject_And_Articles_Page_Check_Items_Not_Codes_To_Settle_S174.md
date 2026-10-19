@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S432 close (read 22:25, landed mid-session): stays for one act, the next session's first: a ruling or an owner for each of the seven items, sent to Code in one RULING. Then archived.
+
 **Needs from Chat: a ruling or an owner for each of the seven page check items below, found on /learn/psychology/ and /learn/articles/ at 0.707.324. Code fixed the four that were Code's (S174).**
 
 # ASK: what the page check still finds on the subject pages and the Articles lists, and whose each one is (Code, S174, theme session)
