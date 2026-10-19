@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.
+
 DISPOSITION, Chat S423: its rulings are written into DSRD 9 section 20.0c. Stays for what is not there: (Audit Fixes) ruling 11's order of works into the plan; (Gate S159) items 12 to 14 onto Backlog: Code and job 22's ten contradictions.
 DISPOSITION, Chat S422: stays. Owes Chat: rule items 7 to 11 (with Kain where it is his eye), put items 12 to 14 on Backlog: Code, read job 22's ten contradictions. Waits on: the subject page close-out sitting.
 

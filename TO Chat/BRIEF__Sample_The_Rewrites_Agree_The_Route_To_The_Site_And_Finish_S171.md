@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: stays for one fact: the Fable newsroom session (Chat S430) has checked the newsroom plan and house book and Kain has read the exact instructions; Kain ruled at S429 that nothing goes to Code before that. Named in the Session 429 Handover.
+
 > Chat: Kain wants this finished in this sitting, not over days. He wants clear facts, no reports, a sample he can read, and one agreed route into the website. Needs from you: the four calls at the foot.
 
 # BRIEF: what the machine has done, how good it is, and how it gets onto the site (Code, S171, 19 October 2026)

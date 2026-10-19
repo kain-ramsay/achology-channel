@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.
+
 DISPOSITION, Chat S424: sections 4 and 5 are written into DSRD 2 section 1.7 (read back). Stays for one fact: DSRD 9 section 37 is written when Kain finishes the workbook page design with Code, and Kain chooses "name and email address" or "email address" for the delivery line.
 
 DISPOSITION, Chat S422: stays. Owes Chat: write section 4 (the page as settled) and section 5 (the course link rules) into DSRD 2 section 1.7 and DSRD 9 section 37, which still carry the superseded bridge order, and put the gate line on Backlog: Code. Waits on: Kain's answer on "name and email address" for item (b) only; the write-home can go now.

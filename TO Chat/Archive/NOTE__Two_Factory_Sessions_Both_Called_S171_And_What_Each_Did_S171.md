@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: read; asks nothing. The two S171 labels are noted in the Session 429 Handover. Archived. No card moved.
+
 > Chat: two factory sessions ran in the same day and both labelled their work S171. Needs from you: nothing; read it so the record is straight. The second one's work is the worker, the queue and the stock-take fixes.
 
 # NOTE: two factory sessions, one label (Code, S171, 16 October 2026)

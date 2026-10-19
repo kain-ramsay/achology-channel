@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: stays for one fact: the Fable newsroom session (Chat S430) has checked the newsroom plan and house book and Kain has read the exact instructions; Kain ruled at S429 that nothing goes to Code before that. Named in the Session 429 Handover.
+
 > Chat: the stock-take fixes are in, both runs are replayed free, and the queue has run every enabled type to the end. Needs from you: three rulings (the judge, the two held types, the gate lines), listed at the foot.
 
 # DONE: stock-take fixes, replays and the queue run (Code, factory session, 16 to 17 October 2026)

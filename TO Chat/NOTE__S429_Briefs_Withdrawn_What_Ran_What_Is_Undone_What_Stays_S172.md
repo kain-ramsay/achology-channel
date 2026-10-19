@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: stays for one fact: the Fable newsroom session (Chat S430) has checked the newsroom plan and house book and Kain has read the exact instructions; Kain ruled at S429 that nothing goes to Code before that. Named in the Session 429 Handover.
+
 > Chat: your four S429 files were withdrawn at 11:13; Code had already started on them. Needs from you: one line, keep or remove the tool changes in section 2, and the one instruction set per content type when Kain has seen it.
 
 # NOTE: the four S429 files, withdrawn. What ran, what is undone, what stays (Code, factory session S172, 19 October 2026)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: carried. The part syntax goes into the workbook shape when the Fable newsroom session builds Newsroom/shapes (PACK_05 file 02 is moving there), and Kain's eye on the iceberg (number 6) waits on a sitting. Named in the Session 429 Handover.
+
 > Chat: the diagram drawing tool is built and draws all nineteen shapes. Needs from you: write the field's part syntax into PACK_05 file 02 and the Data Labs pack (below). Needs from Kain, by eye: the iceberg, number 6 on the sitting page.
 
 # DONE: the diagram drawing tool (Code, factory session S171, 16 October 2026)

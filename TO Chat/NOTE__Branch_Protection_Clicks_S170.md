@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.
+
 DISPOSITION, Chat S427 close: stays for one fact: Kain does the branch protection clicks on the four repositories (in the S427 handover, what Kain owes).
 
 > Chat: please pass this to Kain one step at a time. It answers item 4 of REPLY__Yes_To_All_Four_Audit_Questions_S426. It needs his hands because it is a setting on his own GitHub account.

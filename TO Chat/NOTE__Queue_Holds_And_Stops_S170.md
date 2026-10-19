@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: stays for one fact: the Fable newsroom session (Chat S430) has checked the newsroom plan and house book and Kain has read the exact instructions; Kain ruled at S429 that nothing goes to Code before that. Named in the Session 429 Handover.
+
 > Chat: the queue's holds and stops, one line each as they happen. Needs from you: a ruling on any held type or stop rule, at the next session (nothing waits on it; the queue has moved on).
 
 # NOTE: queue holds and stops (written by the API worker, S170)

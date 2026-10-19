@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.
+
 DISPOSITION, Chat S422: read; its rulings are handled under RULING__Workbook_Page_Title_Subtitle_And_Layout_S161. Stays until the S161 sitting finishes (Code's report says it continues).
 
 # SESSION REPORT S161

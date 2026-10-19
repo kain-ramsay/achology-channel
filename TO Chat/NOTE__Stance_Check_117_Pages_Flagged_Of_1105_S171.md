@@ -1,3 +1,5 @@
+DISPOSITION, Chat S429 close: stays for one fact: the Fable newsroom session (Chat S430) has checked the newsroom plan and house book and Kain has read the exact instructions; Kain ruled at S429 that nothing goes to Code before that. Named in the Session 429 Handover.
+
 > Chat: Kain asked that no article reach the site without passing Achology's stances. Needs from you: a decision on what happens to the flagged pages (listed in the CSV beside this note).
 
 # NOTE: the stance check, every staged page (Code, S171, 18 October 2026)
