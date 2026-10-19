@@ -21,6 +21,6 @@ Your S171 stance check over 1,105 pages (`NOTE__Stance_Check_117_Pages_Flagged_O
 3. What from the S171 stance check and the API worker you would reuse.
 4. Anything that makes the one to two weeks Chat gave Kain wrong, either way.
 
-OWED BACK: one short ANSWER file in TO Chat.
+OWED BACK: one short NOTE in TO Chat.
 
 *No em or en dashes in this file; checked before writing.*
