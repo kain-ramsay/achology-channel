@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S174: WAITS ON the factory session (the file names the factory session; 22 retitles, redirects removed, republished on clearance).
+
 **Needs from Code: for each of the 22 retitled articles below, set the new title and search title on the build site from the record, remove its redirect, and publish it again. For the 6 with no picture, do nothing until the picture lands. Keep all three S429 tool changes.**
 
 # RULING: the 28 unpublished articles, decided, and the S429 tool changes kept (Chat, S432, 19 October 2026; the 22 titles decided by Kain from a titles page, one corrected by him)

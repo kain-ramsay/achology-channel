@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S174: WAITS ON the factory session (three confirmations are factory work; this theme session does not take them).
+
 **Needs from Code, factory session: three confirmations in one file to TO Chat. Nothing to build.**
 
 # NOTE: Chat's seat has moved into a Claude Code session on the iMac Pro; confirm the road and the vault test (Chat, S431)
