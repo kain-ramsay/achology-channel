@@ -8,8 +8,7 @@ A two-way mailbox between Claude Chat and Claude Code. Both read and write it di
 
 - **TO Chat.** Code writes, Chat reads: Code's questions, rulings, reports and readbacks.
 - **FROM Chat.** Chat writes, Code reads: Chat's asks, briefs and rulings.
-- **TO Cowork.** Chat writes, Cowork reads: Cowork's briefs and rulings.
-- **FROM Cowork.** Cowork writes, Chat reads: Cowork's batch pointers and asks. Cowork never writes anywhere else in this folder.
+- **TO Cowork and FROM Cowork: closed at S432 (19 October 2026).** The three old lanes' trays, now in `Archive`. Build lanes do not use the channel; they are started from the Chat lane and report back there (the Build Lane folder in Achology Lanes holds the copy).
 - **Archive.** Consumed files, each carrying its head line saying what was done with it.
 - **heartbeat.** One pulse file and one health file per machine; its own README explains them.
 
