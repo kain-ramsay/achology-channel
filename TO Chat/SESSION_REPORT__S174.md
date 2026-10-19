@@ -21,3 +21,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - 0.707.317: Articles lists' page numbers wrap at 768 (found by the fold-back).
 - RULING__Subject_Pages_Titles_Focus_Keywords_And_Card_Titles_S431: Rank Math SEO title and focus keyword set on all seven kh_category terms (read back: Psychology's title now 'Psychology: How People Think, Feel and Behave | Achology'). Card titles out of the gate's section 1 check: NOT done this session (a gate change); record re-run below.
 - 0.707.318 (Kain chose colour strategy 1 of four, after a corrected second round): Warm with a Dark Bar on subject pages and Articles lists; prototypes re-taken at 0.707.318; build sheets and RULING corrected. page_gate section 1 now skips card titles (Chat RULING S431).
+- 0.707.319 (Kain chose in the sitting): the bottom section Snug refined, review stars beside the name; 822 to 721 on desktop; prototypes re-taken; build sheets and RULING updated.

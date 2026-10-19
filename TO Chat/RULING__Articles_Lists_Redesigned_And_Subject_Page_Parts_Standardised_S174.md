@@ -26,6 +26,8 @@ Kain, on the S378 Articles list: "This is not a design that I've approved ... yo
 
 **Colour, settled later in the sitting.** "I think what we need is a real consistent colour strategy." After four strategies, then four corrected ones ("the categories banner needs to be different from the main banner ... all warm on top of all warm when selected is not going to work"), Kain chose Warm with a Dark Bar: cream for every band and panel, the brand dark Categories bar, white for anything on a band. This replaces the off-white named above (0.707.318).
 
+**The bottom section, settled later in the sitting.** "There's a lot of white space ... I don't like it." Kain rejected redesigns ("I'm quite happy keeping what we have in place ... sharpen and neaten this up") and chose Snug refined, with the review's stars beside the name: the same parts, 822 to 721 on desktop (0.707.319). The prototypes were re-taken at 0.707.319.
+
 ## 4. Fold-back (Harness Rule 14), written this session
 
 Category Hub Page folder: PROTOTYPE__Subject_Page_S174_APPROVED (0.707.316) replaces the S173 prototype; the build sheet gains "Decided in S174"; README updated. Listing Page folder: PROTOTYPE__Articles_Listing_S174_APPROVED (0.707.317) and BUILD_SHEET__Articles_Listing_S174 are new; README updated.
