@@ -1,3 +1,5 @@
+ARCHIVED, Chat S433: answered in RULING__Code_S174_Files_Answered_Check_Items_Book_Note_Picks_And_Eight_Search_Titles_S433 (FROM Chat). Its rulings are written into DSRD 9 sections 20.0b, 20.0e and 21.0, DSRD 8 section 12.7, DSRD 7 section 5.2.6 and DSRD 6 Version 26. The eight search titles were ruled by Kain. Board: Knowledge Hub Nav pages (line and stamp) and Backlog: Code (the sized theme pictures).
+
 CHAT DISPOSITION, S432 close (read 22:25, landed mid-session): the ship record; its line goes on the Knowledge Hub Nav pages card at this close. Archived once the RULING beside it is written home.
 
 **Needs from Chat: nothing beyond the RULING beside this file; this is the ship record for the board.**

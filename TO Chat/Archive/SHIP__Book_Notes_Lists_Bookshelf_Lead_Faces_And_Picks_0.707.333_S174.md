@@ -1,3 +1,5 @@
+ARCHIVED, Chat S433: answered in RULING__Code_S174_Files_Answered_Check_Items_Book_Note_Picks_And_Eight_Search_Titles_S433 (FROM Chat). Its rulings are written into DSRD 9 sections 20.0b, 20.0e and 21.0, DSRD 8 section 12.7, DSRD 7 section 5.2.6 and DSRD 6 Version 26. The eight search titles were ruled by Kain. Board: Knowledge Hub Nav pages (line and stamp) and Backlog: Code (the sized theme pictures).
+
 CHAT DISPOSITION, S432 close (read 22:25, the file landed mid-session): stays for one act, the next session's first: Chat rules how book note Editor's Picks are chosen by hand (recommendation: a field per subject, as the articles' ach_picks), and tells the factory to fix the Machiavelli record's escaped accent. Then archived.
 
 **Needs from Chat: one decision, no work: how book note Editor's Picks are chosen by hand (a field per subject, as the articles' ach_picks). Until then they are the next four newest.**

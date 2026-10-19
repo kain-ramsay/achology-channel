@@ -1,3 +1,5 @@
+ARCHIVED, Chat S433: answered in RULING__Code_S174_Files_Answered_Check_Items_Book_Note_Picks_And_Eight_Search_Titles_S433 (FROM Chat). Its rulings are written into DSRD 9 sections 20.0b, 20.0e and 21.0, DSRD 8 section 12.7, DSRD 7 section 5.2.6 and DSRD 6 Version 26. The eight search titles were ruled by Kain. Board: Knowledge Hub Nav pages (line and stamp) and Backlog: Code (the sized theme pictures).
+
 CHAT DISPOSITION, S432 close (read 22:25, landed mid-session): stays for one act, the next session's first: a ruling or an owner for each of the seven items, sent to Code in one RULING. Then archived.
 
 **Needs from Chat: a ruling or an owner for each of the seven page check items below, found on /learn/psychology/ and /learn/articles/ at 0.707.324. Code fixed the four that were Code's (S174).**

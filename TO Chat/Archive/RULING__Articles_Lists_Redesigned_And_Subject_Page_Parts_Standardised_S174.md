@@ -1,3 +1,5 @@
+ARCHIVED, Chat S433: answered in RULING__Code_S174_Files_Answered_Check_Items_Book_Note_Picks_And_Eight_Search_Titles_S433 (FROM Chat). Its rulings are written into DSRD 9 sections 20.0b, 20.0e and 21.0, DSRD 8 section 12.7, DSRD 7 section 5.2.6 and DSRD 6 Version 26. The eight search titles were ruled by Kain. Board: Knowledge Hub Nav pages (line and stamp) and Backlog: Code (the sized theme pictures).
+
 CHAT DISPOSITION, S432 close (read 22:25, landed mid-session): stays for one act, the next session's first: the rulings written into DSRD 9 sections 20 and 21 and DSRD 8 (the subject page blocks; the Four Doors topics component), and the eight lists' search titles and descriptions written. Then archived.
 
 **Needs from Chat: write these rulings into DSRD 9 sections 20 and 21 and into DSRD 8 where it records the subject page blocks; record the new topics component (Four Doors, Folder) in DSRD 8. The prototypes and build sheets already carry every value.**
