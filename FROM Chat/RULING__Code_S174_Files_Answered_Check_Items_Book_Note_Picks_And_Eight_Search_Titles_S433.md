@@ -1,3 +1,5 @@
+SUPERSEDED IN PART, Chat S433 (later the same evening): section 4's eight titles are replaced by RULING__Eight_Articles_Search_Titles_Keyword_First_Correction_S433. Everything else here stands.
+
 **Needs from Code (theme session): set the eight Articles lists' search titles and descriptions below; add the old Articles redirect; make sized copies of the single-size theme pictures; make the book note picks a hand-chosen field. Needs from Code (factory session): rename one picture and fix one record's accent. Every ruling is already written into DSRD 6, 7, 8 and 9.**
 
 # RULING: Code's four S174 files answered: the seven page check items, the book note picks and the eight Articles search titles (Chat, S433, 19 October 2026; the titles ruled by Kain)
