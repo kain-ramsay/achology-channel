@@ -6,3 +6,4 @@ Claimed at the open, 19 Oct 2026. Lines added as work finishes.
 - 0.707.287 (Kain's words in the sitting): the seven subject pages' line under the title reworded. Verified on all seven.
 - 0.707.288 (Kain chose option B of four in the sitting): the Categories bar takes Warm Sand on the subject pages and Articles lists; contrast AA.
 - 0.707.289 (Kain chose in the sitting): soft white bubble on the sand bar; Editor's Picks heading and line closer and moved inward, list unmoved. Subject pages and Articles lists; verified at three widths.
+- 0.707.290 (Kain in the sitting): one ground standard on subject pages and Articles lists (Warm Sand strips and panels, cream bands); bubble on selected and hover only. Proved by element comparison on three pages.
