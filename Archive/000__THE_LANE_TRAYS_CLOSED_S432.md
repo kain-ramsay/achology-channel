@@ -1,0 +1,1 @@
+TO Cowork and FROM Cowork were the three old lanes' trays. The lanes closed at S432 (Kain, 19 October 2026). Build lanes do not use the channel: they are started from the Chat lane and report back there, with a copy in the Build Lane folder's reports. Both trays are kept here whole as the record. Code's trays, TO Chat and FROM Chat, are untouched.
