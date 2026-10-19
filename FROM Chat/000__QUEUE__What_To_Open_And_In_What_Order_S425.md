@@ -2,6 +2,8 @@
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S425)
 
+## FIRST OF ALL (added S431, Monday 19 October): `NOTE__Chats_Seat_Has_Moved_Confirm_The_Road_And_The_Vault_Test_S431` (factory; three confirmations, nothing to build). Then the line below.
+
 ## FIRST (Friday 16 October): `RULING__Friday_Stock_Take_Enable_Four_Types_Fix_Book_Note_Headings_S428b`
 
 ## Group S425: open these first, in this order (all factory)
