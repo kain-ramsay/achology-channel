@@ -29,7 +29,7 @@ Counted from the install today, published only.
 
 ## Two notes for the order
 
-1. Quote Articles today are almost all Kain Ramsay's quotes. The seven faces on the Quotes lists are Freud, Maslow, Jung, Rogers, Ellis, Kain Ramsay and Egan, and only Kain has quote articles published, so the 107 are the place to bring in the other six and more.
+1. Quote Articles today are 267 of Kain Ramsay's quotes and 25 of Gerard Egan's, counted on the install. The seven faces on the Quotes lists are Freud, Maslow, Jung, Rogers, Ellis, Kain Ramsay and Egan, and Freud, Maslow, Jung, Rogers and Ellis have none yet, so the 107 are the place to bring those five in, and more.
 2. Pieces may already sit drafted in the Stock. The Machine can check before anything new is written. Once they land, Code imports them through the Publish Ready Pipeline as usual.
 
 *No em or en dashes in this file; checked before writing.*

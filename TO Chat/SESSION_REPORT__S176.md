@@ -23,3 +23,5 @@
 - WAITS ON Kain's yes: an "All" item first in the Categories bar on every list type, the way back from a subject list to the whole list (today there is none).
 - DONE 0.707.371 to 0.707.372 (Kain's yes): "All" leads the Categories bar on every list type, the way back to the whole list; on a phone the bar opens at the current list.
 - DONE 0.707.373 (Kain): the Categories bar label becomes the "All Categories" link on every list and subject page; the separate All item removed.
+- DONE (Kain): the Quote Articles list SIGNED OFF at 0.707.373.
+- ASK filed: ASK__Fill_Every_Knowledge_Hub_Grid_171_Pieces_S176, Kain's request for a full grid of 24 in every category of every kind; 171 pieces short today.
