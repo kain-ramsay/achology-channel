@@ -16,3 +16,5 @@
 **The way back (Kain's yes, S176, 0.707.371 to 0.707.372).** "All" leads the Categories bar on every list type (Articles, Book Notes, Quotes, Workbooks). It links to the whole list and is lit there. On a phone the bar opens with the current list in view. Measured in WebKit on eight lists at three widths.
 
 **The way back, Kain's revision (S176, 0.707.373).** The separate "All" item is gone. The bar's own label now reads "All Categories" and is the link: on a list it goes to that type's whole list, and on a subject page it goes to the Knowledge Hub front page. It is quiet at rest and orange on hover and where you are, with no bubble. This applies to every Categories bar in the Knowledge Hub. Measured in WebKit on ten pages at two widths.
+
+**SIGNED OFF by Kain, S176, 20 October 2026, at 0.707.373:** "It's actually a very, very good-looking page."
