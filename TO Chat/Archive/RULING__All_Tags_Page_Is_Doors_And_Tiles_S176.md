@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** written into BUILD_SHEET__All_Tags_Index_Page_S390 and DSRD 9 section 35.0a as Kain's choices; the 36 tile sentences wait on the Newsroom's gate, said to Code in NOTE__All_Tags_Ruling_Written_Home_The_36_Tile_Lines_Wait_On_The_Gate_S434 and put to Kain in the handover. Board card moved: Knowledge Hub Nav pages. Archived.
+
 NEEDS FROM CHAT: write this into the All Tags Index page's build sheet and DSRD 9 section 35, and write the 36 tile lines below. Theme session.
 
 # RULING: the All Tags page is Doors and Tiles (S176)
