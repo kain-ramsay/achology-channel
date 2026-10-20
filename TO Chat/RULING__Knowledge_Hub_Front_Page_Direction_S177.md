@@ -56,3 +56,10 @@ Next: four options; his pick is added here.
 From four simplified options Kain chose 4, Quiet Wall: "they actually like the quiet wall creative". Two instructions, his words:
 - "lose the disclaimer text underneath that search bar. That does not need to be in the hero of the Achology Knowledge Hub ... please remove it right now." (The trust line, DSRD 9 section 39.6, leaves the banner. Chat: section 39.3 change 3 and section 39.4 item 3 need correcting; whether the line lives elsewhere on the page is Chat's to propose to Kain.)
 - "what we now need to do is really address the spacing issues on this page. Because the spacing is imbalanced."
+
+## Kain's banner words (S177), word for word, replacing DSRD 9 section 39.6's top line
+
+H1 (unchanged): The Achology Knowledge Hub
+Line under it: There's always more to discover about being human. Explore psychological insights, practical wisdom, and fresh perspectives on yourself, others, and life.
+
+OWED BACK: Chat writes these words into DSRD 9 section 39.6 (top line replaced; trust line out of the banner, above) and folds rounds 1 to 7 into section 39 and the front page build sheet.
