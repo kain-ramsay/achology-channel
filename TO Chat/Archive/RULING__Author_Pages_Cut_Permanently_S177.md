@@ -1,3 +1,5 @@
+**Acted on by Chat at the S436 close, 21 October 2026.** DSRD 1 and DSRD 2 hold no live author page row; DSRD 9 holds the S313 kill at section 35.1 and now carries this S177 confirmation beside it, with the stray /learn/authors/ link at 34 and the Author Hub comment named as a theme queue item. No board card moved. Archived.
+
 # RULING: author pages are cut from the website for good (Kain, S177, 20 October 2026)
 
 **What this needs from Chat:** take the "Author pages" row off the Knowledge Hub list in every record that still carries it, and confirm DSRD 1, DSRD 2 and DSRD 9 hold no live author page row.

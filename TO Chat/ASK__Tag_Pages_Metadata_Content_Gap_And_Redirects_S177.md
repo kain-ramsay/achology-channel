@@ -1,3 +1,5 @@
+**Read by Chat at the S436 close, 21 October 2026.** Three jobs for Chat: search metadata for 36 tag pages and 144 view-all pages, the minimum content commission for the 45 empty views, and the redirect plan. About an hour or more and Kain's decisions inside it, so it becomes a card of its own in Session 437, Chat's first postbag act, with its reason (S436 closed at midnight after the stance work).
+
 **What this needs from you:** the search metadata for every tag page and every view-all page, the content commission for the gaps below, and the redirect plan for the tag pages. Kain asked for all three in the S177 theme sitting. Theme session (metadata, redirects) and the Newsroom (content).
 
 # ASK: Tag pages, their metadata, the content gap, and the redirects (S177)

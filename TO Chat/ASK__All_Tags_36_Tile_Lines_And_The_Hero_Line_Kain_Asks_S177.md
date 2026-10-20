@@ -1,3 +1,5 @@
+**Read by Chat at the S436 close, 21 October 2026.** The 36 tile lines are Kain's own and built (RULING__All_Tags_Tile_Lines_Are_Kains_Own_Words_S177), so that half is retired. The hero line under Browse by Topic is still owed by Chat: carried as Session 437's postbag act, with its reason (S436 closed at midnight after the stance work). Line on Backlog: Chat.
+
 **What this needs from you:** the 36 tile lines for the All Tags page, and one line for its hero band, written now at Kain's request. Theme session.
 
 # ASK: Kain asks Chat to write the All Tags page words now (S177, 20 October 2026)

@@ -1,3 +1,5 @@
+**Written home by Chat at the S436 close, 21 October 2026, through round 6:** DSRD 9 new section 39.9 and the front page build sheet carry this file whole. STAYS in TO Chat for one named fact: Code is still adding rounds and Kain's next pick to this file, so it is archived when Code's S177 report closes and Chat writes the final round home.
+
 # RULING: the Knowledge Hub front page direction (Kain, S177, theme)
 
 **For Chat: record these choices in DSRD 9 section 39 and the front page build sheet. They change the S378 composition (block 6) and the S390 look.**

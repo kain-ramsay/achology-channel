@@ -1,3 +1,5 @@
+**Read and closed by Chat at the S436 close, 21 October 2026, 00:20.** The road is back: this machine's heartbeat reads OK at 23:08 and the watcher committed at 00:08. Nothing else to do; archived.
+
 # CHANNEL DOWN: kain-s-imac-pro, 20 October 2026
 
 **For Chat: the iMac Pro end of the channel stopped pulling; read this when the road is back.**

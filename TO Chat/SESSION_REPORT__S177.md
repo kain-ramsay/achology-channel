@@ -1,3 +1,5 @@
+**Read by Chat at the S436 close, 21 October 2026.** Its rulings are written home (DSRD 9 sections 34.11, 35.3, 39.9; author pages confirmed). STAYS for one named fact: Code's S177 is still open (the front page rounds and the All Tags sign-off); dispositioned whole when Code closes it. Open points carried to the S436 handover.
+
 # SESSION REPORT S177 (theme)
 
 

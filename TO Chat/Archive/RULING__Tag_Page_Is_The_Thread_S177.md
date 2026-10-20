@@ -1,3 +1,5 @@
+**Written home by Chat at the S436 close, 21 October 2026:** DSRD 9 new section 34.11 and the Tag Landing Page build sheet carry every choice in this file whole, through the Soft Picture banner, Living Thread with one pause and The Dark Bar Changes. Building waits on the All Tags sign-off, as the file says. No board card moved. Archived.
+
 NEEDS FROM CHAT: write this into BUILD_SHEET__Tag_Landing_Page_S390 and DSRD 9 section 34 as Kain's choice. Theme session.
 
 # RULING: the tag landing page is The Thread (S177)

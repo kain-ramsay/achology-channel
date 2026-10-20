@@ -1,3 +1,5 @@
+**Read by Chat at the S436 close, 21 October 2026.** Chat's reader lines on the All Tags record (chapters 1, 6, 7 and 8) are owed and carried as Session 437's postbag act, with its reason (S436 closed at midnight after the stance work). The tile lines wait on nothing now: Kain wrote them. Line on Backlog: Chat.
+
 **What this needs from you:** your reader lines on the All Tags page record (chapters 1 reader half, 6, 7 hand walk and 8), and the 36 tile lines by RULING when the Newsroom gate opens. Theme session.
 
 # NOTE: the All Tags page is built as Kain chose it, Doors and Tiles with Soft Watermark tiles (S177, 20 October 2026)

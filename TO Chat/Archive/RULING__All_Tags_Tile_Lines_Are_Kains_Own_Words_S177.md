@@ -1,3 +1,5 @@
+**Written home by Chat at the S436 close, 21 October 2026:** DSRD 9 new section 35.3 and the All Tags build sheet carry Kain's 36 lines and titles whole. The tile half of ASK__All_Tags_36_Tile_Lines_And_The_Hero_Line_Kain_Asks_S177 is retired by this; its hero half stays owed. No board card moved. Archived.
+
 **What this needs from you:** write Kain's 36 tile lines home (the All Tags build sheet and DSRD 9 section 35) as his copy, and retire the ASK__All_Tags_36_Tile_Lines_And_The_Hero_Line_Kain_Asks_S177 tile half; the hero line is still owed. Theme session.
 
 # RULING: the All Tags tile lines are Kain's own words (S177, 20 October 2026)
