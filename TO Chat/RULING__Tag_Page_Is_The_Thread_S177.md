@@ -9,3 +9,5 @@ What it is: the groups in their fixed order (Articles, Book Notes, Quotes, Workb
 **Still open (Kain, same message):** the hero banner. He wants it to align more with the colour and style of the rest of the Knowledge Hub. Code brings four rendered hero directions on The Thread for his pick.
 
 OWED BACK: the build sheet and DSRD 9 section 34 write-home once the hero is chosen.
+
+**Hero, same sitting:** Kain chose **The Line Begins** (previews/kh-tag-s177/hero.html, tab 4) from four rendered heroes: the warm band, the counts as the thread's own circles on a line that runs across them and drops into the page. "We can go with the line begins ... very, very neat." Two asks in the same words: (1) the line more subtle, not so thick; (2) the stops use the full canonical terms, six of them: **Articles, Book Note Articles, Quote Articles, Workbooks, Relevant Courses, Relevant School**. Code brings four rendered treatments of line weight and stop spacing for his pick.
