@@ -11,3 +11,5 @@ Two further asks from Kain in the same words:
 2. **The tiles made more visually striking** (an icon per topic was his first thought). Code brings four rendered treatments for his pick.
 
 OWED BACK: the 36 lines (tag slug, sentence), and the build sheet and DSRD 9 section 35 write-home.
+
+**Later the same sitting:** Kain chose **Family Tone** for the tiles (each family its own soft tone and coloured top edge, the topic's icon in the tile), from four rendered treatments: "we can definitely go with family tone", with the icon "fully into the image" and "a bit more subtle"; four variations of it to follow for his pick.
