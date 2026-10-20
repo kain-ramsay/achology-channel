@@ -25,3 +25,11 @@ So: six options. 1 = Band and Mosaic unchanged. 6 = The Living Wall with the ban
 From the six (1 Band and Mosaic to 6 The Living Wall of faces), Kain chose 6: "I absolutely love the living wall. The creative version ... this is definitely the direction we want to go in ... absolutely stunning ... genuinely beautiful to look at ... magnificent." The background of faces stays ("with this kind of background, love it").
 Open, in his words: "it's a wee bit harder to read the knowledge hub. Like the impact of the word the knowledge hub with the icon underneath that is just lost a little bit. Because the images are kind of pulling through"; "how we can make the entire hero slightly more balanced"; "there's also an opportunity to build in the know your psychology logo in this. Unquestionably, somewhere, but I'm not sure where."
 Next: six variations of The Living Wall answering those three; his pick is added here.
+
+## Round 4 (Kain, S177): TORCHLIGHT's depth; six variations of it
+
+From the six Living Wall variations, Kain chose the depth of 6, Torchlight: "The depth of the torchlight option feels right to me ... Some of the others just feel way too deep ... the knowledge hub is ... a gateway into all the knowledge throughout the website."
+Kept, his words: "the way that you've presented the heading, the text, the search bar, I love it."
+Rule, his words: "The Know Your Psychology logo, you've got to lose the white background ... the logos inside of the file system ... are just SVG and PNG versions, and they're all transparent backgrounds ... you've got to go back to the original logo." (The white-plate logo card belongs to the masonry walls only.)
+The torch itself: "I'm not convinced on the actual torchlight itself, because when you scroll over the dark words, you can't actually see ... as a concept, I think it's brilliant ... it might just need to dim down and become more subtle when it's hovering over the text."
+Next: six variations of Torchlight; his pick is added here.
