@@ -3,3 +3,4 @@
 
 **Later still, the Quote Article Anatomy (Kain, S176):** the Editor's Picks space beside the latest quote on the Quotes lists becomes a panel headed "Quote Article Anatomy", subheading in his words "How Achology quote articles are broken down." (one line), showing the quote page's four fixed parts. Kain chose **The Ladder** layout (four rungs on a rail, each with its own icon, "Part 1" to "Part 4" above each heading) from four designed versions; its colour treatment is still being chosen.
 Colour treatment chosen: **Warm Paper** (warm cream panel, white rungs lifted like cards, orange rail, white icon circles ringed in orange). The rungs' backgrounds are being refined in the same sitting.
+Rungs chosen: **Faint Numerals** (each part's number large and faint at the right of its card, as the All Tags tiles' Soft Watermark). A faint backdrop for the panel is being chosen in the same sitting.

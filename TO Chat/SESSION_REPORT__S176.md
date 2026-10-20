@@ -14,3 +14,4 @@
 - The Ladder, five versions (previews/quotes-wall-s176/ladder.html): Dark Glow, Warm Paper (recommended), Orange Medallions, Sand and Slate, Dusk; subheading on one line at every width; all fit the 440 panel; checked at 1280, 834, 390.
 - Hand added: Kain chose Warm Paper for The Ladder ('very very nice'); asked for something more on the four parts' backgrounds, without overdoing it.
 - Warm Paper rungs, five versions (previews/quotes-wall-s176/rungs.html): as chosen, Growing Warmth, Orange Edge, Faint Numerals (recommended), Soft Glow; numeral overlap and a too-faint glow fixed before showing; checked at 1280, 834, 390.
+- Hand added: Kain chose Faint Numerals for the Warm Paper rungs ('very, very good'); asked for a very faint backdrop in the panel (a library picture, perhaps).
