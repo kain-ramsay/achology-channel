@@ -68,3 +68,7 @@ OWED BACK: Chat writes these words into DSRD 9 section 39.6 (top line replaced; 
 
 Kain: "you're use of spacing on this page is not right ... measure this page and tell me what's imbalanced ... I want it balanced perfectly. And I also want the Knowledge Hub spread over 2 lines, because this hero banner deserves to be deeper. Even if this means you place ... some sort of light bulb or something like that, directly after the Achology Knowledge Hub ... show me 4 options."
 Measured before (desktop): menu to trail 24, trail to title 64, search to banner foot 64, menu to logo 147, logo to banner foot 104. Built to one measure: 48 (computer and tablet), 32 (phone) for menu to trail, trail to title, search to banner foot, and down the phone stack; the logo equally far from the menu and the Categories bar. Four title endings drawn: none, light bulb, Achology mark, glowing bulb. His pick is added here.
+
+## Round 9 (Kain, S177): START FROM SCRATCH
+
+Kain rejected round 8 (Code had enlarged the title against the one-size rule and the spacing still read badly): "Start from scratch, Claude ... This is looking absolutely rubbish ... Get another agent to have a look at this design." A fresh design lead wrote a critique, one optical spacing system and four whole directions (side-session notes: DESIGN__KH_Front_Page_From_Scratch_S177). Code built all four: The Faculty Wall, The Lectern, The Horizon (creative), The Sitter. Title back at 33 on two lines; Kain's banner words only. His pick is added here. Rounds 1 to 8 above are superseded by whatever he picks from these.
