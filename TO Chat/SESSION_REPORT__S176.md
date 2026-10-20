@@ -4,3 +4,4 @@
 - Hand added: Kain chose Family Tone for the All Tags tiles; asked for four variations with the icon fully inside the tile and more subtle.
 - Family Tone four ways (previews/tags-s176/tone.html): Corner Mark, Quiet Seal (recommended), Beside the Name, Soft Watermark; icon whole inside every tile; checked at 1280, 834, 390. Waiting on Kain's pick.
 - Hand added: Kain chose Soft Watermark for the All Tags tiles (RULING file updated).
+- 0.707.349 and 0.707.350 DEPLOYED (deploy.py: server, local and zip agree at 0.707.350). Real Quotes lists measured in WebKit at 1280, 834, 390 (all subjects and Motivation): columns on the Articles edges, every gap 24, no overlap, nothing cut off, no sideways scroll, photographs load. Opened in Safari for Kain's sign-off.
