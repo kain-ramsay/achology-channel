@@ -15,7 +15,7 @@
 **Metadata, written into the theme** (the page is a theme route with no post, so Rank Math has no field; filters hand it the words, as on the workbook thank-you page):
 - SEO title: Browse by Topic | Achology
 - Meta description (138 characters): Browse all 36 topics in the Achology Knowledge Hub, in four families, and find the articles, book notes, quotes and workbooks on each one.
-- Focus keyword: browse psychology topics
+- Focus keyword: none set. A theme route carries no Rank Math score, so none is claimed (as on the workbook thank-you page); any keyword waits on a live demand check.
 - Schema: CollectionPage (now carrying the description) and BreadcrumbList, Home, Learn, Tags.
 - GEO summary for AI readers: the Achology Knowledge Hub's index of its 36 topics in four families: outcomes people want, problems they want to remove, psychological approaches, and kinds of reading; each topic links to every piece tagged with it.
 - OG imagery is sitewide.
