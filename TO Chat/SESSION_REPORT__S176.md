@@ -17,3 +17,4 @@
 - Hand added: Kain chose Faint Numerals for the Warm Paper rungs ('very, very good'); asked for a very faint backdrop in the panel (a library picture, perhaps).
 - Anatomy panel backdrops (previews/quotes-wall-s176/backdrop.html): none, The Library (recommended), The Philosopher, The Achology Mark, Ruled Paper; theme's own pictures; checked at 1280, 834, 390.
 - Hand added: Kain chose The Library backdrop as the direction for the anatomy panel, but not as a flat, even backdrop: he wants it fading out toward the left; four variations asked. SAVED IDEA (Kain): the Ruled Paper treatment may belong on the quote cards in the Spotlight wall below; to be shown later, not built yet.
+- The Library, fading (previews/quotes-wall-s176/library.html): flat (for comparison), Fade From the Right (recommended), From the Top Corner, Soft Focus Fade, Warm Toned Fade; checked at 1280, 834, 390.
