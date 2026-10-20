@@ -39,3 +39,14 @@ Next: six variations of Torchlight; his pick is added here.
 From six Torchlight variations Kain chose 4, Face of the Moment: "yes, I do really like the face of the moment."
 Changes, his words: "the Know Your Psychology logo we've got to centralize that or position that where the logo anchor is ... just make the Know Your Psychology logo centralized on the right-hand side of the hero banner ... it feels like everything's crammed across the left-hand side"; "still use the face of the moment, spotlight option, but just have them hover over black and white faces ... Not color ones. So maybe just make them all black and white."
 Next: a few options in this direction; his pick is added here.
+
+## Round 6 (Kain, S177): THE LOGO INTRODUCES, simplified
+
+From four Face of the Moment options Kain chose 4, The Logo Introduces: "definitely like the logo introduces". Changes, his words:
+- "what I don't like is the name, and the dots underneath the actual logo" (no caption under the logo).
+- The names move into the search: "you could have like search the knowledge hub, but when someone hovers over the face, you could have names popping up in the knowledge hub search bar. So it's like someone's actually typing ... then someone obviously clicks into the search bar, they can type whatever they want."
+- Balance: "right align it to the edge of the container, maybe make it a little bit larger. And centralize it. With this left-hand block"; "The Know Your Psychology I would say needs to take a more prominent position, not just kind of dropped on the page."
+- The left block: "you've got knowledge hub, then the achology knowledge hub, and that doesn't make any sense" (the small "Knowledge Hub" label above the title goes).
+- "Simplify, more impactful, less noise."
+- Words: Kain will hand Code new text for the banner ("I'm going to give you the text to improve what's written in this hero banner"). Until it arrives the approved DSRD 9 section 39.6 words stay.
+Next: four options; his pick is added here.
