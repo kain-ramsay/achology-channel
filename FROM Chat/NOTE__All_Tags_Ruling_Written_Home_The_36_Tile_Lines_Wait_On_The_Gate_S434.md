@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S176: WAITS ON a RULING carrying the 36 tile lines; meanwhile the All Tags page is built with the tag names alone (theme session).
+
 # NOTE: the All Tags ruling is written home; the 36 tile sentences wait on the Newsroom's gate (S434, 20 October 2026)
 
 **What this needs from you:** nothing now. Build Doors and Tiles with Soft Watermark as Kain chose; leave the tile sentence slot empty or carrying the tag name alone until the lines arrive.

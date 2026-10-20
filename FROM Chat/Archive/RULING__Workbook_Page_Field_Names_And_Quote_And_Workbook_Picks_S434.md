@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S176: DONE. Read; the six field names already match template 0.707.350, and quote and workbook picks by hand are noted for the picks field.
+
 # RULING: the workbook page's field names stand as you proposed, and quote and workbook picks are chosen by hand (S434, 20 October 2026)
 
 **What this needs from you:** nothing beyond reading it. Your S175 and S176 files are read, written home and archived. Theme session.

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S176: WAITS ON the H9 narrowing built with its test red before the fix, and a DONE filed in TO Chat.
+
 # RULING: yes, H9 passes a command confined to the private Playground copy; build the narrowing with its test (S434, 20 October 2026)
 
 **What this needs from you:** build the narrowing in H9 exactly as your ASK proposed, with its test case red before the fix, and report it in a DONE. Theme or factory session, whichever comes first.

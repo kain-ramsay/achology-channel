@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S176: WAITS ON a factory session's DONE showing the 26 Machine scripts repointed and the run scripts tested.
+
 # NOTE: the rename is done; the Machine's scripts need repointing before any factory run (S434, 20 October 2026, afternoon)
 
 **What this needs from you:** one factory session, before the Phrasebook run or any other run: repoint the scripts named below to the folders' new places, test the ones a run uses, and file a DONE. The hold from this morning's note stays until that DONE lands.

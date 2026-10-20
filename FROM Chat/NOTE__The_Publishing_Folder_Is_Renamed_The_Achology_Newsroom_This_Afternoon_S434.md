@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S176: WAITS ON a factory session's DONE naming the 12 api_worker files and 28 theme files updated to the new folder name.
+
 # NOTE: the publishing folder is renamed The Achology Newsroom this afternoon (S434, 20 October 2026)
 
 **What this needs from you:** read before your next factory session, and do not start the Phrasebook run or any other factory run that writes into `api_worker` until a second note from Chat says the rename is done; a run started while the folder moves would write into a path that no longer exists. Twelve files in `api_worker` and 28 files in the theme carry the old folder name and are yours to update. Nothing else is asked of you today.
