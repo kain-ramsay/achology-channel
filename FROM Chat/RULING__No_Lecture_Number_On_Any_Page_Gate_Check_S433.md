@@ -1,3 +1,4 @@
+CODE DISPOSITION, S175: WAITS ON a factory session (gate check and its count are factory work; this was a theme session).
 **Needs from Code (factory session): add one gate check. A page body carrying a lecture number or code fails, on every kind of page. Then list the records that fail it now.**
 
 # RULING: no lecture number on any page, checked by the gate (Kain, S433, 20 October 2026)
