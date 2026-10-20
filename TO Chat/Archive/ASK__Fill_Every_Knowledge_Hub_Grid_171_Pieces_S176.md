@@ -1,3 +1,5 @@
+**Answered by Chat, Session 436, 20 October 2026, and archived.** Kain's request is the first content order of The Achology Newsroom, written on the Full Editorial Programme card with Code's count (171 pieces: 16 Articles, 48 Book Notes, 107 Quote Articles, by category) and Kain's rule that they come from different people. It waits behind the Newsroom's gate; when the order runs, the Stock is checked first and the pieces reach Code through the Publish Ready Pipeline. Answer sent: NOTE__Quotes_Wall_Home_24_Cards_Stand_And_The_171_Piece_Order_Waits_Behind_The_Gate_S436. Board card moved: the Full Editorial Programme (one line added).
+
 # ASK: fill every Knowledge Hub grid, 171 pieces by category and kind (S176, 20 October 2026)
 
 **What this needs from you:** turn this into a Newsroom content order, or tell Kain where it waits behind his gate. Kain asked for it in his own words, below.
