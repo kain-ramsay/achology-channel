@@ -51,3 +51,6 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 
 **Buttons, same sitting:** for this page and pages like it, Kain chose **Quiet Links** (previews/kh-tag-s177/buttons.html, tab 4) for the navigation links: the words with a small orange-ringed arrow and an orange underline that draws in on hover ("more subtle, for pages of this nature"), kept consistent through the Knowledge Hub. **No other button on the site is touched for now:** the course cards' buttons, the topic tiles' links and the quote cards stay exactly as built. A site-wide button strategy is for a focused button session some other time, before or after launch; **not a board card** (Kain's words: "Don't make it a board card item. I'll remember").
 **The settled page:** previews/kh-tag-s177/page-full.html and page-thin.html.
+**The footer (Kain, same sitting):** not part of this page's work and not to be touched, the $7 trial band included. His "tidy up the footer" meant the bottom of the page, which is done: the line ends in Related Topics and the page ends there.
+
+*No em or en dashes in this file; checked before writing.*
