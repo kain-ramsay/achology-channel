@@ -1,15 +1,12 @@
-**Disposition, S434 (Chat, 20 October 2026):** written into BUILD_SHEET__Articles_Listing_S174 as Kain's choice, with his words. Board card moved: Knowledge Hub Nav pages. Archived.
+**Disposition, S434 (Chat, 20 October 2026, second filing):** re-filed with the later choices of the sitting; supersedes the copy archived earlier today. Every choice and Kain's words are written into BUILD_SHEET__Articles_Listing_S174 (the Quotes lists section). Board card moved: Knowledge Hub Nav pages. Archived.
 
-NEEDS FROM CHAT: write this ruling into the Listing Page build sheet's record of Kain's choices. Theme session.
 
-# RULING: the Quotes list wall is Spotlight (S176)
+**Later the same sitting, the Editor's Picks on the Quotes lists:** Kain asked for an objective read (the share card squeezed into a square cut its words off; all four looked alike). From four rendered options (Speaker, The Words, Course Cover, Whole Card) he chose **Whole Card**: the quote's share card shown whole at its true shape beside the title. He asked in the same breath for the text centred beside it, and for the picks to show that each quote is an article, not only a quote.
 
-Kain, in the S176 theme sitting, 20 Oct 2026, choosing from four rendered card treatments of "The Words" on the Articles wall's exact grid: "Yeah, we can probably go with Spotlight, Claude."
+**Later still, the Quote Article Anatomy (Kain, S176):** the Editor's Picks space beside the latest quote on the Quotes lists becomes a panel headed "Quote Article Anatomy", subheading in his words "How Achology quote articles are broken down." (one line), showing the quote page's four fixed parts. Kain chose **The Ladder** layout (four rungs on a rail, each with its own icon, "Part 1" to "Part 4" above each heading) from four designed versions; its colour treatment is still being chosen.
+Colour treatment chosen: **Warm Paper** (warm cream panel, white rungs lifted like cards, orange rail, white icon circles ringed in orange). The rungs' backgrounds are being refined in the same sitting.
+Rungs chosen: **Faint Numerals** (each part's number large and faint at the right of its card, as the All Tags tiles' Soft Watermark). A faint backdrop for the panel is being chosen in the same sitting.
+Backdrop direction: **The Library** (the Book Notes bookshelf photograph, very faint), fading out toward the left; variations being chosen. **Saved for later (Kain):** the Ruled Paper treatment (faint notebook lines with an orange margin line) may suit the quote cards in the Spotlight wall.
+Backdrop chosen: **Soft Focus Fade** (the bookshelf photograph, softly blurred, clear on the right and fading out toward the left, behind the cards).
 
-What Spotlight is: the quote's own words set in type on warm cream cards (no baked quote picture on the wall), category label, speaker's name, the quote page's title with an arrow; one quote in every five is a wide feature, two columns across, dark, with the speaker's photograph fading in from the right. Wall measures match the Articles wall: four across on desktop, three on tablet, two on phone, 24 gap, 12 corners, card shadow; cards laid in reading order, every gap 24.
-
-Why: Kain called the picture wall "a bland brick wall" (S175); he asked for The Words made "more visually spectacular", measured properly (S176).
-
-Preview: the theme's previews folder, quotes-wall-s176 (tab 4). Not yet built into the theme; the build site was down all session (SiteGround power outage).
-
-OWED BACK: nothing beyond the write-home.
+**Kain's words for the Quotes lists, same sitting:** the latest item's label reads **"Latest Quote Article"** ("it's more than just a quote"); the page heading reads **"Quote Articles"** in place of "Quotes"; the line under the latest item opens **"Read our latest Achology quote article on ..."** in place of the author's name ("Kain Ramsay on why feeling like you don't understand enough yet ..."), the rest of the line unchanged.
