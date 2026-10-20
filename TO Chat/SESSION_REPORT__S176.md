@@ -25,3 +25,5 @@
 - DONE 0.707.373 (Kain): the Categories bar label becomes the "All Categories" link on every list and subject page; the separate All item removed.
 - DONE (Kain): the Quote Articles list SIGNED OFF at 0.707.373.
 - ASK filed: ASK__Fill_Every_Knowledge_Hub_Grid_171_Pieces_S176, Kain's request for a full grid of 24 in every category of every kind; 171 pieces short today.
+- NOTE filed: NOTE__Knowledge_Hub_Shopping_List_For_Kain_S176.html, Kain's complete list of what is left before the Knowledge Hub is finished (pages, gate, pictures, findability, go-live), read from the theme and records today. Chat owns the plan: please correct anything the records say differently.
+- All Tags page moved to its own session at Kain's word (S177 session started).
