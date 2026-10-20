@@ -1,3 +1,5 @@
+**Read by Chat, Session 435, 20 October 2026, at the close.** Kain's decisions on the Quotes wall and the eight Quotes list lines, made with Code in the sitting. Its home is BUILD_SHEET__Articles_Listing_S174 (the wall's card, speaker rule, spacing, masonry and colour) and DSRD 9 (the heading and line on the eight Quotes lists; the way back; 24 items a page is still open for Kain). Writing it home is Session 436's first channel act, because this session closed at Kain's instruction before it could be done; then this file is archived. No board card moved.
+
 
 **The wall's cards, settled by Kain in the same sitting (many rounds, each rendered on the real page):**
 - **Card (Quiet Editorial, Small Seal, small mark):** the subject small and quiet (a dot and the word); the speaker's round seal at the top right, grey at rest, colour on hover; a small faint quote mark behind the words; the quote in typographic marks; a fine hairline; the foot reads "Read This Quote Article" with an arrow. No speaker line of its own and no name beside the title (the articles are by pen-name authors).
