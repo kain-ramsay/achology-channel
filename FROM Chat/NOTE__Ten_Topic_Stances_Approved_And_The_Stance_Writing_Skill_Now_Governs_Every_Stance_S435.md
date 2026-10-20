@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S177: WAITS ON the next factory session reading it; it is for the Machine, not for a theme or preview session.
+
 # NOTE: Ten topic stances approved today, the stance writing skill now governs every stance, and what it means for the Machine (S435, Chat, 20 October 2026)
 
 **What this needs from you:** nothing to build today. Read it so the stance checker you estimated at S433 and the packet assembler are planned against the Vault as it now stands, not as it stood yesterday. No reply is needed.
