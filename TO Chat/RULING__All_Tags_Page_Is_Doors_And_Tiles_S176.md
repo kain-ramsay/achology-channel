@@ -13,3 +13,5 @@ Two further asks from Kain in the same words:
 OWED BACK: the 36 lines (tag slug, sentence), and the build sheet and DSRD 9 section 35 write-home.
 
 **Later the same sitting:** Kain chose **Family Tone** for the tiles (each family its own soft tone and coloured top edge, the topic's icon in the tile), from four rendered treatments: "we can definitely go with family tone", with the icon "fully into the image" and "a bit more subtle"; four variations of it to follow for his pick.
+
+**Final tile pick, same sitting:** Kain chose **Soft Watermark** from four Family Tone variations: each family its tone and coloured top edge, the topic's icon whole inside the tile, large and very faint behind the words, centred on the right. "I actually really like the soft watermark ... Let's go with that ... That's very, very good." Preview: previews/tags-s176/tone.html, tab 4.

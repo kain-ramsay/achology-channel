@@ -3,3 +3,4 @@
 - All Tags tiles: four treatments on Doors and Tiles (previews/tags-s176/tiles.html): Icon Badge, Family Tone (recommended), Hand Numbers, Feature Rhythm. Checked at 1280, 834, 390 (gutters 88, 32, 20; no sideways scroll; no text under 12). Waiting on Kain's pick.
 - Hand added: Kain chose Family Tone for the All Tags tiles; asked for four variations with the icon fully inside the tile and more subtle.
 - Family Tone four ways (previews/tags-s176/tone.html): Corner Mark, Quiet Seal (recommended), Beside the Name, Soft Watermark; icon whole inside every tile; checked at 1280, 834, 390. Waiting on Kain's pick.
+- Hand added: Kain chose Soft Watermark for the All Tags tiles (RULING file updated).
