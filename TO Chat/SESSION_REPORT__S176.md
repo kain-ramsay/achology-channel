@@ -22,3 +22,4 @@
 - DONE 0.707.367 to 0.707.370 (Kain): a wide quote card is never squashed into one column and never stacked; the logo goes only where the wall can end level; each Quotes subject list turns the seven faces round one place. Measured on every Quotes list with quotes, at three widths.
 - WAITS ON Kain's yes: an "All" item first in the Categories bar on every list type, the way back from a subject list to the whole list (today there is none).
 - DONE 0.707.371 to 0.707.372 (Kain's yes): "All" leads the Categories bar on every list type, the way back to the whole list; on a phone the bar opens at the current list.
+- DONE 0.707.373 (Kain): the Categories bar label becomes the "All Categories" link on every list and subject page; the separate All item removed.
