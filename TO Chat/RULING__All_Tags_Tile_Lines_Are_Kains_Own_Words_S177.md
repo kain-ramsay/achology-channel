@@ -43,9 +43,9 @@ Kain wrote all 36 himself in the S177 sitting (relayed by the S176 theme session
 35. beginner-friendly (tile title in his list: Beginner-Friendly): Discover clear, accessible introductions to unfamiliar subjects, with straightforward explanations and no prior knowledge required.
 36. professional-practice (tile title in his list: Professional Practice): Explore the skills, judgement, ethical responsibilities and personal qualities involved in effective helping practice.
 
-## Titles not changed, waiting on Kain
+## Titles: Kain's own, on the tiles (0.707.378, his word "use the titles that I give you")
 
-Where his title differs from the tag's registered name, the tile still shows the registered name, because renaming a tag can change its web address. The eight: 3 Develop Emotional Intelligence (his: Emotional Intelligence); 5 Find Purpose & Direction (his: Find Your Direction); 22 Strengthen Your Partnership (his: Strengthen Your Bond); 25 Improve Social Confidence (his: Build Social Confidence); 26 Learn NLP (his: Understand NLP); 27 Learn CBT (his: Understand CBT); 33 Practical Exercise (his: Practical Exercises); 34 Deep Dive (his: Deep Dive Articles). 9 Practice Mindfulness stays, his word.
+All 36 tiles show his titles. The tags themselves keep their registered names and web addresses (shown on the tiles only, so nothing moves). The eight that differ from the registered names: 3 Develop Emotional Intelligence (his: Emotional Intelligence); 5 Find Purpose & Direction (his: Find Your Direction); 22 Strengthen Your Partnership (his: Strengthen Your Bond); 25 Improve Social Confidence (his: Build Social Confidence); 26 Learn NLP (his: Understand NLP); 27 Learn CBT (his: Understand CBT); 33 Practical Exercise (his: Practical Exercises); 34 Deep Dive (his: Deep Dive Articles). 9 Practice Mindfulness stays, his word.
 
 ## Fit, measured in WebKit on the build site
 
