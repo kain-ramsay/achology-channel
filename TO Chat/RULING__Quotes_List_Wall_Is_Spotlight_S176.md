@@ -7,3 +7,4 @@
 - **Colour (Kain chose Never Touching):** four papers (white, warm cream, soft orange, cool grey); no two touching cards share one; all four used equally; one type size on every paper.
 - **Open for Kain:** 24 items a page (DSRD 7 section 17.1) on the Quotes lists.
 **Kain's words for every Quotes list (S176):** the heading **"Quote Articles"** on all eight (all subjects and each subject), and the line **"Quote Articles are as their title suggests: written responses to timeless, thought-provoking quotes."** on all eight.
+**Revised the same sitting (Kain):** the line on all eight now reads **"Quote Articles are as their title suggests: written responses to timeless, wise, and thought-provoking quotes."** (supersedes the line above).
