@@ -1,0 +1,8 @@
+
+**The wall's cards, settled by Kain in the same sitting (many rounds, each rendered on the real page):**
+- **Card (Quiet Editorial, Small Seal, small mark):** the subject small and quiet (a dot and the word); the speaker's round seal at the top right, grey at rest, colour on hover; a small faint quote mark behind the words; the quote in typographic marks; a fine hairline; the foot reads "Read This Quote Article" with an arrow. No speaker line of its own and no name beside the title (the articles are by pen-name authors).
+- **The speaker rule (Kain):** the quote wraps exactly as it would alone; a drawn dash and the speaker's name follow on its last line only if they fit there in full, otherwise they take the next line; the name never pulls a word down. The name and dash sit on the middle of the quote's letters (measured).
+- **Spacing (measured on the letters, Kain: "absolutely impeccable"):** small cards 20 at every edge space; the spaces above and below the quote always equal; wide cards 24 below the subject.
+- **Mixed masonry (Kain):** wide dark cards only for quotes of 80 to 160 characters, at least four small cards apart, none among a page's last six; each takes the next position in turn and never the previous wide card's columns, at least 300 below it; levelling shared through each column, no card growing more than 64.
+- **Colour (Kain chose Never Touching):** four papers (white, warm cream, soft orange, cool grey); no two touching cards share one; all four used equally; one type size on every paper.
+- **Open for Kain:** 24 items a page (DSRD 7 section 17.1) on the Quotes lists.
