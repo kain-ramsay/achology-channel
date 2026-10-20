@@ -16,3 +16,4 @@
 - Warm Paper rungs, five versions (previews/quotes-wall-s176/rungs.html): as chosen, Growing Warmth, Orange Edge, Faint Numerals (recommended), Soft Glow; numeral overlap and a too-faint glow fixed before showing; checked at 1280, 834, 390.
 - Hand added: Kain chose Faint Numerals for the Warm Paper rungs ('very, very good'); asked for a very faint backdrop in the panel (a library picture, perhaps).
 - Anatomy panel backdrops (previews/quotes-wall-s176/backdrop.html): none, The Library (recommended), The Philosopher, The Achology Mark, Ruled Paper; theme's own pictures; checked at 1280, 834, 390.
+- Hand added: Kain chose The Library backdrop as the direction for the anatomy panel, but not as a flat, even backdrop: he wants it fading out toward the left; four variations asked. SAVED IDEA (Kain): the Ruled Paper treatment may belong on the quote cards in the Spotlight wall below; to be shown later, not built yet.
