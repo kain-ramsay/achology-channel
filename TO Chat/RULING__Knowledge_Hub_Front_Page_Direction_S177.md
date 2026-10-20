@@ -72,3 +72,7 @@ Measured before (desktop): menu to trail 24, trail to title 64, search to banner
 ## Round 9 (Kain, S177): START FROM SCRATCH
 
 Kain rejected round 8 (Code had enlarged the title against the one-size rule and the spacing still read badly): "Start from scratch, Claude ... This is looking absolutely rubbish ... Get another agent to have a look at this design." A fresh design lead wrote a critique, one optical spacing system and four whole directions (side-session notes: DESIGN__KH_Front_Page_From_Scratch_S177). Code built all four: The Faculty Wall, The Lectern, The Horizon (creative), The Sitter. Title back at 33 on two lines; Kain's banner words only. His pick is added here. Rounds 1 to 8 above are superseded by whatever he picks from these.
+
+## Round 9 pick (Kain, S177): THE LECTERN
+
+"I'd be inclined to go with number two, the lectern ... the rest just feel clunky." Faults, his words: "the Know Your Psychology logo's ... huge. It overpowers the actual name of the Knowledge Hub, which doesn't make any sense." Asked for: "excellent graphic design effort ... four different options on how you can improve this from a spacing, graphic design, and visual perspective ... you can do more with a background of this option as well."
