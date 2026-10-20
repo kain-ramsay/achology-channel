@@ -13,3 +13,4 @@
 - Hand added: Kain chose The Ladder layout for the Quote Article Anatomy; subheading shortened (his words) to 'How Achology quote articles are broken down.' on one line; asked for four or five colour and presentation versions of it.
 - The Ladder, five versions (previews/quotes-wall-s176/ladder.html): Dark Glow, Warm Paper (recommended), Orange Medallions, Sand and Slate, Dusk; subheading on one line at every width; all fit the 440 panel; checked at 1280, 834, 390.
 - Hand added: Kain chose Warm Paper for The Ladder ('very very nice'); asked for something more on the four parts' backgrounds, without overdoing it.
+- Warm Paper rungs, five versions (previews/quotes-wall-s176/rungs.html): as chosen, Growing Warmth, Orange Edge, Faint Numerals (recommended), Soft Glow; numeral overlap and a too-faint glow fixed before showing; checked at 1280, 834, 390.
