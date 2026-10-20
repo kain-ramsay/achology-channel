@@ -15,3 +15,10 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home once the hero is cho
 **Line treatment, same sitting:** Kain ruled out Beads and Close Together ("definitely no"; he likes the stops filling out the screen) and is torn between **Fine Orange** and **Quiet Grey**. Code brings four further treatments between those two, each with the stops spread evenly, for his pick.
 
 **Line treatment, final pick, same sitting:** Kain chose **Grey Line, Orange Rings** (previews/kh-tag-s177/line2.html, tab 4; built as line6): the six stops spread evenly across the band on a 1px soft grey line, each stop's circle with a fine 1px orange ring; the thread down the page in the same grey with the same orange rings on its stations. "Let's go with grey line, orange ring ... it looks very, very, very good."
+
+**Words on the tag page (Kain, same sitting):** each tag page's heading is Kain's own title and its line is his own S177 line (RULING__All_Tags_Tile_Lines_Are_Kains_Own_Words_S177), the same as on its All Tags tile; DSRD 2 section 1.3.4's older descriptions are superseded on this page. Related Topics tiles carry his titles and lines too. Previews rebuilt with them (line6-full and line6-thin are the chosen page).
+
+**SETTLED, ready to build into taxonomy-kh_tag.php once the All Tags page is signed off:** The Thread; The Line Begins hero with the six canonical stops; Grey Line, Orange Rings.
+OWED BACK: the build sheet and DSRD 9 section 34 write-home.
+
+*No em or en dashes in this file; checked before writing.*
