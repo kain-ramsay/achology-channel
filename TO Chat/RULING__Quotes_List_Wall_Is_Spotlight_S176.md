@@ -5,3 +5,6 @@
 Colour treatment chosen: **Warm Paper** (warm cream panel, white rungs lifted like cards, orange rail, white icon circles ringed in orange). The rungs' backgrounds are being refined in the same sitting.
 Rungs chosen: **Faint Numerals** (each part's number large and faint at the right of its card, as the All Tags tiles' Soft Watermark). A faint backdrop for the panel is being chosen in the same sitting.
 Backdrop direction: **The Library** (the Book Notes bookshelf photograph, very faint), fading out toward the left; variations being chosen. **Saved for later (Kain):** the Ruled Paper treatment (faint notebook lines with an orange margin line) may suit the quote cards in the Spotlight wall.
+Backdrop chosen: **Soft Focus Fade** (the bookshelf photograph, softly blurred, clear on the right and fading out toward the left, behind the cards).
+
+**Kain's words for the Quotes lists, same sitting:** the latest item's label reads **"Latest Quote Article"** ("it's more than just a quote"); the page heading reads **"Quote Articles"** in place of "Quotes"; the line under the latest item opens **"Read our latest Achology quote article on ..."** in place of the author's name ("Kain Ramsay on why feeling like you don't understand enough yet ..."), the rest of the line unchanged.
