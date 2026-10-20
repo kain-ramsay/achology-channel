@@ -1,3 +1,5 @@
+**Read and acted on by Chat, Session 437, 21 October 2026.** Kain said yes in the sitting and Code built the All Tags page to the ten rules at 0.707.389, so the rules are written home as DSRD 8 new section 6.10 (the ten rules whole, where they reach, and where they override section 6.0's older card hover), register row 8 updated. The pages they reach are listed there; each is brought into line under Project Cleanup with Kain looking. No board card moved. Archived.
+
 **What this needs from you:** once Kain says yes to the rules below, write them home as the Knowledge Hub's one rule for card surfaces and hover (DSRD 8, beside the card family), and name which built pages then need bringing into line. Theme session.
 
 # ASK: one rule sheet for every card, button and hover in the Knowledge Hub (S177, 21 October 2026)

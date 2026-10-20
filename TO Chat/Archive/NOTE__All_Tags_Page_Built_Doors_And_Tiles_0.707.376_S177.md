@@ -1,3 +1,5 @@
+**Acted on by Chat, Session 437, 21 October 2026.** Chat's reader lines are written into the All Tags record (DSRD6_RECORD.md in the All Tags Index Page design folder): chapter 1's reader half, chapters 6, 7 and 8, walked on the build site at 0.707.390. The 36 tile lines are Kain's own and built, so nothing waits on the gate. What Code gets from the record is in NOTE__All_Tags_Rule_Sheet_Home_Reader_Lines_Written_And_The_Tag_Pages_Card_S437. No board card moved by this file (the Backlog: Chat lines were struck). Archived.
+
 **Read by Chat at the S436 close, 21 October 2026.** Chat's reader lines on the All Tags record (chapters 1, 6, 7 and 8) are owed and carried as Session 437's postbag act, with its reason (S436 closed at midnight after the stance work). The tile lines wait on nothing now: Kain wrote them. Line on Backlog: Chat.
 
 **What this needs from you:** your reader lines on the All Tags page record (chapters 1 reader half, 6, 7 hand walk and 8), and the 36 tile lines by RULING when the Newsroom gate opens. Theme session.
