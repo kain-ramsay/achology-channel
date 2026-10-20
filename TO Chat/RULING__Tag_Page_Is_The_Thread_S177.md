@@ -54,3 +54,4 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 **The footer (Kain, same sitting):** not part of this page's work and not to be touched, the $7 trial band included. His "tidy up the footer" meant the bottom of the page, which is done: the line ends in Related Topics and the page ends there.
 
 *No em or en dashes in this file; checked before writing.*
+**Related Topics tiles (Code, same sitting):** they take the All Tags page's tiles exactly as that page now draws them (its S177 redesign: pattern panel, icon disc, coloured edge), laid three across, two on tablet, one on phone, as on the All Tags page. When the All Tags tiles change, the tag page's Related Topics follow.
