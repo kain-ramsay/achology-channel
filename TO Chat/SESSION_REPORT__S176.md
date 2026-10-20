@@ -1,0 +1,1 @@
+- All Tags page: four options built on the twin list shell, rendered by the local WordPress copy from the theme (previews/tags-s176): Doors and Tiles (recommended), The Directory, The Doors All Open, The Topic Map. Checked in WebKit at 1280, 834, 390: no sideways scroll, all 36 topics link, no text under 12. Waiting on Kain's pick. Board card: Knowledge Hub Nav pages.
