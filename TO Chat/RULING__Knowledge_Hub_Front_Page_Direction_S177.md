@@ -33,3 +33,9 @@ Kept, his words: "the way that you've presented the heading, the text, the searc
 Rule, his words: "The Know Your Psychology logo, you've got to lose the white background ... the logos inside of the file system ... are just SVG and PNG versions, and they're all transparent backgrounds ... you've got to go back to the original logo." (The white-plate logo card belongs to the masonry walls only.)
 The torch itself: "I'm not convinced on the actual torchlight itself, because when you scroll over the dark words, you can't actually see ... as a concept, I think it's brilliant ... it might just need to dim down and become more subtle when it's hovering over the text."
 Next: six variations of Torchlight; his pick is added here.
+
+## Round 5 (Kain, S177): FACE OF THE MOMENT, black and white, logo centred on the right
+
+From six Torchlight variations Kain chose 4, Face of the Moment: "yes, I do really like the face of the moment."
+Changes, his words: "the Know Your Psychology logo we've got to centralize that or position that where the logo anchor is ... just make the Know Your Psychology logo centralized on the right-hand side of the hero banner ... it feels like everything's crammed across the left-hand side"; "still use the face of the moment, spotlight option, but just have them hover over black and white faces ... Not color ones. So maybe just make them all black and white."
+Next: a few options in this direction; his pick is added here.
