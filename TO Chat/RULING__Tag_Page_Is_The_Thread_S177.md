@@ -24,3 +24,10 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 *No em or en dashes in this file; checked before writing.*
 
 **Not yet settled (Kain, same sitting):** the banner as a whole. Kain keeps the line and circles (Grey Line, Orange Rings) and the Categories bar, but "something's not quite right" with the banner; he asked for four options of real graphic design excellence. Drawn as previews/kh-tag-s177/banner.html: Station Zero, Soft Picture, Framed Panel, The Deck. WAITS ON his pick.
+
+**Banner, final pick, same sitting:** Kain chose **Soft Picture** (previews/kh-tag-s177/banner.html, tab 2): the warm band; the family label, the larger title and his line on the left; the topic's newest article picture in soft-focus black and white fading in from the right (the first course's picture when a topic has no article yet), fading away above the stops; the six stops on the Grey Line, Orange Rings below. "I really like the soft picture ... very, very neat indeed." **And no stop is ever faded:** a stop with nothing in it yet (Workbooks today) shows at full strength, because every category will be covered for launch. "Actually, I really like this page. It's actually very nice."
+
+**SETTLED, ready to build into taxonomy-kh_tag.php once the All Tags page is signed off:** The Thread; The Line Begins with the six canonical stops; Grey Line, Orange Rings; the Soft Picture banner; no faded stops; Kain's own titles and lines. The chosen page is previews/kh-tag-s177/banner2-full.html and banner2-thin.html.
+OWED BACK: the build sheet and DSRD 9 section 34 write-home.
+
+*No em or en dashes in this file; checked before writing.*
