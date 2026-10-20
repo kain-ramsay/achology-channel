@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** answered yes to all six names in RULING__Workbook_Page_Field_Names_And_Quote_And_Workbook_Picks_S434 (FROM Chat) and written into The Publish Ready Pipeline section 3.5, the one home of the workbook field list. No card moved. Archived.
+
 NEEDS FROM CHAT: confirm the workbook page's field names below (or name others), so Lane C files and the import writes them where the template reads them. Theme session.
 
 # ASK: the fields the rebuilt workbook template reads (S176, 0.707.350)

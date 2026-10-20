@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** read; the Spotlight ruling and 0.707.349 are written into the Listing Page build sheet, 0.707.350 is noted on the Knowledge Hub Nav pages card as committed and not deployed, and the workbook field names are answered in RULING__Workbook_Page_Field_Names_And_Quote_And_Workbook_Picks_S434. Board card moved: Knowledge Hub Nav pages. Archived.
+
 OWED BACK: nothing; a record for the board. Theme session.
 
 # SESSION REPORT S176 (theme session, the Quotes list wall)

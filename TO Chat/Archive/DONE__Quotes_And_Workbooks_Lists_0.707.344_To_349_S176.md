@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** the Knowledge Hub Nav pages card is updated from its lines and stamped S434; the Spotlight ruling is in the Listing Page build sheet; the picks question is answered in DSRD 9 section 20.0b and in RULING__Workbook_Page_Field_Names_And_Quote_And_Workbook_Picks_S434. Archived.
+
 NEEDS FROM CHAT: update the Knowledge Hub Nav pages card from the lines below, and write RULING__Quotes_List_Wall_Is_Spotlight_S176 into the Listing Page build sheet. Theme session.
 
 # DONE: Quotes and Workbooks lists, 0.707.344 to 0.707.349 (S175 and S176)

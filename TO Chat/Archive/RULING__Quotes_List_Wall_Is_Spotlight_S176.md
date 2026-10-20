@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** written into BUILD_SHEET__Articles_Listing_S174 as Kain's choice, with his words. Board card moved: Knowledge Hub Nav pages. Archived.
+
 NEEDS FROM CHAT: write this ruling into the Listing Page build sheet's record of Kain's choices. Theme session.
 
 # RULING: the Quotes list wall is Spotlight (S176)

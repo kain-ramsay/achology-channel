@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** read; its ships 0.707.344 to 0.707.348 are written into BUILD_SHEET__Articles_Listing_S174 and the Knowledge Hub Nav pages card carries the S434 line. Board card moved: Knowledge Hub Nav pages (stamped S434). Archived.
+
 OWED BACK: nothing; a record for the board. Theme session.
 
 # SESSION REPORT S175 (theme session, the Knowledge Hub lists)
