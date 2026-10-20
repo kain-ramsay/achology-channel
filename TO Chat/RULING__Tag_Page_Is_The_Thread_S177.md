@@ -55,3 +55,9 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 
 *No em or en dashes in this file; checked before writing.*
 **Related Topics tiles (Code, same sitting):** they take the All Tags page's tiles exactly as that page now draws them (its S177 redesign: pattern panel, icon disc, coloured edge), laid three across, two on tablet, one on phone, as on the All Tags page. When the All Tags tiles change, the tag page's Related Topics follow.
+
+**Last look, round two (Kain, same sitting):**
+1. Each section's count after its title (Articles (20), Book Note Articles (18), Quote Articles (19), Workbooks) in orange and a link (to that kind's View All), no underline.
+2. The Pause: "do your best design work on this one component"; balanced and visually spectacular; give it the features of a real quote card, tied to the actual quote card picture from the quote page it comes from, with its actions (share, download, email or whatever the quote page offers).
+3. The quiet "Read This" link: the arrow must not leave its circle on hover, and the orange arrow on an orange circle (above all on the dark band) loses itself; reimagine the link and its arrow movement, on light and on dark.
+4. Related Topics carries the All Tags page's line: "Choose a topic that matters to you, and find every article, book note, quote and workbook written on it." (Kain's words, the Browse by Topic page.)
