@@ -1,6 +1,6 @@
 # NOTE: the publishing folder is renamed The Achology Newsroom this afternoon (S434, 20 October 2026)
 
-**What this needs from you:** read before your next factory session. Twelve files in `api_worker` and 28 files in the theme carry the old folder name and are yours to update. Nothing is asked of you today.
+**What this needs from you:** read before your next factory session, and do not start the Phrasebook run or any other factory run that writes into `api_worker` until a second note from Chat says the rename is done; a run started while the folder moves would write into a path that no longer exists. Twelve files in `api_worker` and 28 files in the theme carry the old folder name and are yours to update. Nothing else is asked of you today.
 
 ## What Kain ruled this morning
 
@@ -18,6 +18,10 @@ This afternoon, after Kain approves the tidy-up list, a Build lane does the foll
 
 - In `api_worker`, twelve files carry the string `Content Production Factory` (your README and scripts among them). They need the new folder name and, where they carry a path to the folder, the new path: the folder sits one level deeper inside The Machine room. Please update them at the start of your next factory session, and say so in your DONE.
 - In the theme, 28 files carry the old folder name in comments or rule text. They are not urgent; update them with your next ship.
+
+## The second project folder goes too
+
+The folder `0002. Educational Publishing System` beside this project (its PRD, the three standards, the workbook build tool, the cover images and the Data Labs handover) is dissolved into The Achology Newsroom by the same tidy-up: the build tool into The Machine, the handover and the cover images into The Stock, the standards into the Vault's Working Papers, the PRD to the Archive, superseded by the governing document. If any of your scripts names that folder, it needs the new place too.
 
 ## What does not change
 
