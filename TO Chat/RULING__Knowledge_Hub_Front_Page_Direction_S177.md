@@ -50,3 +50,9 @@ From four Face of the Moment options Kain chose 4, The Logo Introduces: "definit
 - "Simplify, more impactful, less noise."
 - Words: Kain will hand Code new text for the banner ("I'm going to give you the text to improve what's written in this hero banner"). Until it arrives the approved DSRD 9 section 39.6 words stay.
 Next: four options; his pick is added here.
+
+## Round 7 (Kain, S177): QUIET WALL; the trust line leaves the banner; balance the spacing
+
+From four simplified options Kain chose 4, Quiet Wall: "they actually like the quiet wall creative". Two instructions, his words:
+- "lose the disclaimer text underneath that search bar. That does not need to be in the hero of the Achology Knowledge Hub ... please remove it right now." (The trust line, DSRD 9 section 39.6, leaves the banner. Chat: section 39.3 change 3 and section 39.4 item 3 need correcting; whether the line lives elsewhere on the page is Chat's to propose to Kain.)
+- "what we now need to do is really address the spacing issues on this page. Because the spacing is imbalanced."
