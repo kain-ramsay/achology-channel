@@ -39,3 +39,6 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 4. Each section's description sits in two lines, the top line a word shorter than the bottom, capped so it never runs to three.
 5. Perhaps a Know Your Psychology logo, without overdoing the page.
 6. The course heading: he remembers a different heading with a subtitle used elsewhere on the site; Code to find it.
+
+**Below the banner, final shape, same sitting:** Kain chose version 1 of previews/kh-tag-s177/final.html: the small "View All" button on the right of each section heading, and **one pause only** ("one was kind of impactful, two is just too much"), with the line ending on the small Know Your Psychology logo. Also confirmed in the same build: the subtle light orange fill at the grey line's weight, two-line section lines (top shorter), the courses heading "Take Your Learning Further" with its subject-page line.
+**Open:** three menus stack while scrolling (site menu, Categories bar, the following stops bar); Kain: "three menus is just kind of silly". Code brings four ways to fix it.
