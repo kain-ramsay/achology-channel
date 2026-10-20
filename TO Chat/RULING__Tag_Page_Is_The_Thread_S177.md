@@ -69,3 +69,6 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 **SIGNED OFF by Kain, S177, 20 October 2026:** "Yes, Claude. Sign this one off. Let's get this one built into the site across all tag pages. This is great." The settled page is previews/kh-tag-s177/page-full.html and page-thin.html; the build into taxonomy-kh_tag.php is the theme session's, after the All Tags page is signed off.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Page count for the build (measured on the build site, S177, 36 tag pages read one a second):** 36 tag pages (one template; each already has its address, and gets the new design). New "view all" pages, one per tag and kind that has pieces: 99 today (Articles 32 tags, Book Notes 35, Quotes 32; Workbooks none yet, up to 36 more when workbooks publish). Learn Hypnotherapy has no pieces at all today; Start & Grow a Business has one.
+**Code's technical call for the build (SEO):** the 36 tag pages are indexed and each needs its Rank Math title, description and focus keyword (Chat's copy; Kain's 36 S177 lines can serve as the descriptions). The view-all pages are lists of pieces already indexed elsewhere: noindex, follow, with a templated title, so they add no metadata work and no thin pages to search.
