@@ -63,3 +63,8 @@ H1 (unchanged): The Achology Knowledge Hub
 Line under it: There's always more to discover about being human. Explore psychological insights, practical wisdom, and fresh perspectives on yourself, others, and life.
 
 OWED BACK: Chat writes these words into DSRD 9 section 39.6 (top line replaced; trust line out of the banner, above) and folds rounds 1 to 7 into section 39 and the front page build sheet.
+
+## Round 8 (Kain, S177): spacing balanced perfectly; the title on two lines
+
+Kain: "you're use of spacing on this page is not right ... measure this page and tell me what's imbalanced ... I want it balanced perfectly. And I also want the Knowledge Hub spread over 2 lines, because this hero banner deserves to be deeper. Even if this means you place ... some sort of light bulb or something like that, directly after the Achology Knowledge Hub ... show me 4 options."
+Measured before (desktop): menu to trail 24, trail to title 64, search to banner foot 64, menu to logo 147, logo to banner foot 104. Built to one measure: 48 (computer and tablet), 32 (phone) for menu to trail, trail to title, search to banner foot, and down the phone stack; the logo equally far from the menu and the Categories bar. Four title endings drawn: none, light bulb, Achology mark, glowing bulb. His pick is added here.
