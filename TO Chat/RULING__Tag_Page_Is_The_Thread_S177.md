@@ -22,3 +22,5 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home once the hero is cho
 OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Not yet settled (Kain, same sitting):** the banner as a whole. Kain keeps the line and circles (Grey Line, Orange Rings) and the Categories bar, but "something's not quite right" with the banner; he asked for four options of real graphic design excellence. Drawn as previews/kh-tag-s177/banner.html: Station Zero, Soft Picture, Framed Panel, The Deck. WAITS ON his pick.
