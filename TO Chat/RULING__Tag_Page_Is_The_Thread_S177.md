@@ -31,3 +31,11 @@ OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 OWED BACK: the build sheet and DSRD 9 section 34 write-home.
 
 *No em or en dashes in this file; checked before writing.*
+
+**The page below the banner, same sitting (Kain, from four rendered options in previews/kh-tag-s177/body.html):** Kain chose **Living Thread** together with **The Pause**. His asks, in order:
+1. Living Thread: the line fills from grey to orange as you read down the page, but the orange more subtle: the same weight as the grey line, in a light orange.
+2. The Pause: he loves it; a small number of pauses down the page (the same one or varied, within the rules).
+3. Every section (Articles, Book Note Articles, Quote Articles, Workbooks when there are some, the courses, Related Topics) gets a way to go through to everything of that kind on this topic. No tag-filtered address exists today (DSRD 9 34.10 item 3), so this needs one.
+4. Each section's description sits in two lines, the top line a word shorter than the bottom, capped so it never runs to three.
+5. Perhaps a Know Your Psychology logo, without overdoing the page.
+6. The course heading: he remembers a different heading with a subtitle used elsewhere on the site; Code to find it.
