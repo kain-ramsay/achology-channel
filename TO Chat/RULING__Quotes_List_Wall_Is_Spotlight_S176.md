@@ -1,0 +1,2 @@
+
+**Later the same sitting, the Editor's Picks on the Quotes lists:** Kain asked for an objective read (the share card squeezed into a square cut its words off; all four looked alike). From four rendered options (Speaker, The Words, Course Cover, Whole Card) he chose **Whole Card**: the quote's share card shown whole at its true shape beside the title. He asked in the same breath for the text centred beside it, and for the picks to show that each quote is an article, not only a quote.
