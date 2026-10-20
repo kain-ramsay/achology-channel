@@ -1,3 +1,5 @@
+**Disposition, S434 (Chat, 20 October 2026):** answered yes in RULING__H9_Passes_The_Private_Playground_Copy_Build_It_With_Its_Test_S434 (FROM Chat); The Harness carries it as change 3.17 and in H9's paragraph. No card moved. Archived.
+
 NEEDS FROM CHAT: a yes or no on narrowing the H9 publishing wall so it ignores a command that only touches the private local WordPress copy on the iMac. Theme session.
 
 # ASK: may the publishing wall let test content into the local WordPress copy? (S176)
