@@ -6,3 +6,4 @@
 - **Mixed masonry (Kain):** wide dark cards only for quotes of 80 to 160 characters, at least four small cards apart, none among a page's last six; each takes the next position in turn and never the previous wide card's columns, at least 300 below it; levelling shared through each column, no card growing more than 64.
 - **Colour (Kain chose Never Touching):** four papers (white, warm cream, soft orange, cool grey); no two touching cards share one; all four used equally; one type size on every paper.
 - **Open for Kain:** 24 items a page (DSRD 7 section 17.1) on the Quotes lists.
+**Kain's words for every Quotes list (S176):** the heading **"Quote Articles"** on all eight (all subjects and each subject), and the line **"Quote Articles are as their title suggests: written responses to timeless, thought-provoking quotes."** on all eight.
