@@ -19,3 +19,5 @@ STAYS, Chat S438 close (21 October 2026), for one named fact: Kain's yes in Code
 *No em or en dashes in this file; checked before writing.*
 
 **Addendum, 0.707.407 (Kain's yes, no visible change):** the All Tags logo card's faces now declare their true size and carry srcset (learn-tags.php). page_gate on All Tags: image-dimensions and image-responsive pass on all 139 images. Left: image-lcp-candidate on the shared header logo, a site-wide header question, not this page's.
+
+**Addendum, 0.707.409 and 0.707.410:** subject page faces carry srcset; the header logo carries fetchpriority high (both invisible). The lists' and subject pages' sections at 32 on a phone (Kain's yes on the rendered before and after). Section 3's exceptions are now APPROVED by Kain and in page_gate's page exceptions. Re-swept: on all five records the only machine fail left is chain-register, which passes at switch-on.
