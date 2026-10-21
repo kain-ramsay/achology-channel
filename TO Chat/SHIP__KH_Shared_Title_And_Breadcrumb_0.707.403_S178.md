@@ -15,3 +15,5 @@
 **4. Left alone by the brief:** chain-register, rank-math and keyword-density on theme routes, the IQ and NLP acronym lines (Kain's tile titles), orphan, and image lines on Newsroom files. Offered as a follow-up, invisible: All Tags' 126 face pictures declare 240 by 240 for 240 by 300 files and carry no smaller copies.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Addendum, 0.707.407 (Kain's yes, no visible change):** the All Tags logo card's faces now declare their true size and carry srcset (learn-tags.php). page_gate on All Tags: image-dimensions and image-responsive pass on all 139 images. Left: image-lcp-candidate on the shared header logo, a site-wide header question, not this page's.
