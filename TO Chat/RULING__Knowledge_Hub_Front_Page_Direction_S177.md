@@ -217,3 +217,7 @@ Pass 3, ten touches for Kain to choose from (player: kh-front-research-s178/touc
 
 ## S178 (Kain): build it on the real site
 Kain: "Why don't you just build this page in the actual website? So we can from here just make live edits ... We're so close to the direction now ... It's really, really good." Built and deployed as 0.707.421 (TO Chat SHIP__Knowledge_Hub_Front_Page_0.707.421_S178). The ten touches are next, on the real page. Not yet signed off.
+
+## S178 (Kain): standards first, then one touch at a time
+Kain on the built page (0.707.421): "rather than taking all 10, we could just do one at a time. So you propose what you're about to do, and then we do it ... first do a full evaluation of your use of spacing ... I'm just seeing spacing imbalance right down the page ... It's like a lot of information, knowledge, words just dumped on the page. The infrastructure's neat, the design is good ... there's evidently no integration of hairlines ... This is the minimum standard for every page ... there's no heading above the articles. The masonry grid."
+Code's scan, measured against the Psychology page: no hairline at any block boundary (DSRD 7 4.3 requires one, 48 above and below, 32 on a phone); the panel's heading is not the standard section header and the wall has none (DSRD 8 23 and 23.4: icon box, title, supporting line); the panel uses about nine text treatments, six coloured capital labels and two oranges, every word at weight 600. Fixes proposed one at a time; each pick is added here.
