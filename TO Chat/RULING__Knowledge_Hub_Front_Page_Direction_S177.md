@@ -108,3 +108,7 @@ Next question, his words: "we have the main bar, all categories, which are essen
 "that space around the logo is much better, Claude. Totally happy with that."
 New line under the title, word for word (replaces the earlier S177 line): There's always more to learn about being human. Explore psychological insights, practical wisdom, and fresh perspectives on yourself, others, and life in general.
 The title: "turn that into the equivalent of a logo, not necessarily with the achology bubble behind it, but maybe more of a light bulb ... subtly sitting behind it. It just makes it more of a visual something." Four options drawn; his pick is added here.
+
+## Round 14 pick (Kain, S177): BULB IN THE O
+
+"Yes, Claude, that is absolutely phenomenal." Then, his words: "there should be a little bit either more spacing above the Achology Knowledge Hub title or a little bit less space beneath the search bar ... It doesn't seem perfectly centralized ... measure your spacing between the Achology Knowledge Hub and the sentence that comes next, the subtitle. I think it's just a little bit too close ... come back to me once you are clear that the spacing ... is as per our design standards and absolutely immaculate."
