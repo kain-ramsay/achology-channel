@@ -83,3 +83,4 @@
 - Knowledge Hub front page: trail restored (Kain); banner spacing diagnosed and fixed (words centred on the band itself, trail not counted). Committed, measured, opened in Safari.
 - Knowledge Hub front page: Kain called the banner "perfect" and "phenomenal"; more room around the logo in the search and a softer fade behind the words, on his word. Committed, measured, opened in Safari. Banner done; lower blocks next.
 - Knowledge Hub front page round 15: Browse by Subject four ways (consolidation in mind); committed, checked at 1280, 834 and 390, opened in Safari. NOT FINISHED: waits on Kain's pick.
+- Knowledge Hub front page round 16: One Subject at a Time drawn as four journeys (design lead brief DESIGN__KH_Front_Page_Subject_Journey_S177); spacing round the block measured to the brief at 1280, 834 and 390; nothing below moves on change; committed, opened in Safari. NOT FINISHED: waits on Kain's pick.
