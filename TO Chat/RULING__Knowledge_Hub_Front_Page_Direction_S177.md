@@ -132,3 +132,7 @@ Kain: the banner's Categories bar and Browse by Subject offer "all categories al
 Code's inventory (S177): every list shares one skeleton; the signed Articles, Workbooks and subject-plus-kind lists also show the seven subjects twice (banner panel "Browse by Subject" above the same Categories bar); topics appear three ways (doors on lists and subject pages, doors and tiles on All Tags, pills on the front page); the four kinds two ways; section heads two ways.
 Agreed approach: the Categories bar stays the one way to jump between subjects; a subject block must tell a newcomer what each subject holds; designed once, it could later replace the duplicate subject panel on the three lists (only on Kain's word, page by page).
 Kain: "yes, draw the 4 options".
+
+## Round 15 pick (Kain, S177): ONE SUBJECT AT A TIME
+
+"Yes, Claude, like option 3, one subject at a time. Really like that ... very neat." Next, his words: "now just need to look at the actual design of this ... the best design efforts ... Four different directions or four different ways of presenting this. Immaculate spacing, I want this to look like a real journey that we're kind of offering to people. This page is about presenting the extent of what the Knowledge Hub is to any website visitor who lands on it ... the most user-friendly page. User experience here must be of paramount priority."
