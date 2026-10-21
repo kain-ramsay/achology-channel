@@ -112,3 +112,8 @@ The title: "turn that into the equivalent of a logo, not necessarily with the ac
 ## Round 14 pick (Kain, S177): BULB IN THE O
 
 "Yes, Claude, that is absolutely phenomenal." Then, his words: "there should be a little bit either more spacing above the Achology Knowledge Hub title or a little bit less space beneath the search bar ... It doesn't seem perfectly centralized ... measure your spacing between the Achology Knowledge Hub and the sentence that comes next, the subtitle. I think it's just a little bit too close ... come back to me once you are clear that the spacing ... is as per our design standards and absolutely immaculate."
+
+## Kain (S177): the trail knocks the centred banner out of balance
+
+"because we've centralized the text, we're not left aligning. I think there's a conflict here between how you've used spacing within this hero banner and the breadcrumbs ... you've assigned an entire line to that, whereas on this one page, I don't think you need to do that ... having a slightly larger hero banner is great. So I like the space that you have above ... the breadcrumbs line seems to be knocking this out."
+Built: on this page only the trail sits on the centred axis as the group's first, quietest line (24 above the title), and the whole group is centred in the band with equal space above and below; the band keeps its depth.
