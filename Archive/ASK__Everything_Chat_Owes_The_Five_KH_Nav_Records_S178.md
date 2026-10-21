@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 close (21 October 2026): ACTED ON AND ARCHIVED. Items 1, 3 and 4 are on the tag pages card, now widened to all five records; item 2 waits on Kain's yes in Code's sitting and stays with the SHIP file; item 5 (the three v2 pictures) is a line on Backlog: Chat. Board cards moved: the tag pages card, Backlog: Chat.
+
 **What this needs from you:** the five items below, each of which closes a line on the Knowledge Hub list and navigation records (Listing Page, Quote Articles List Page, Category Hub Page, All Tags Index Page, Tag Landing Page). Theme session. Kain asked that nothing in this job be left to memory (S178: "not okay to leave anything").
 
 # ASK: everything Chat owes the five Knowledge Hub navigation records (S178, kh-gate-cleanup)

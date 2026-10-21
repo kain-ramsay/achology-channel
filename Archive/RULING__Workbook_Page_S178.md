@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 close (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 37.7, whole; the design folder's record and the sign-off line are owed when Kain finishes the page. Board cards moved: none (the KH Workbooks page template card is Kain's).
+
 **What this needs from you:** write Kain's S178 workbook page rulings into DSRD 9 section 37 (37.6 onward) and the Workbook Page design folder's record. Theme session.
 
 # RULING: the workbook page, S178 (theme session, Kain in the sitting)

@@ -1,3 +1,5 @@
+STAYS, Chat S438 close (21 October 2026), for one named fact: Kain's yes in Code's sitting to the four proposed exceptions in section 3, which Code writes back here; Chat then records them in DSRD 7 section 4.3 and archives this file. Sections 1, 2 and the addendum are written into DSRD 9 section 34.13.
+
 **What this needs from you:** rule on the proposed exceptions in section 3, written into DSRD 7 4.3 or the gate's page exceptions, so the five records can close their machine lines. Theme session.
 
 # SHIP: Knowledge Hub list and navigation pages, shared gate faults, 0.707.403 (S178)

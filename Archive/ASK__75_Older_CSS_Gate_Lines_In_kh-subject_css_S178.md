@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 close (21 October 2026): ACTED ON AND ARCHIVED. Chat's technical call: the 75 are cleared as one theme job of their own after the Book Notes work, with a render proof at three widths; the three Book Notes lines stay with that work; the 13 size is Kain's; until then the hook's block on the file is known and not a fault of the session that meets it. Line on Backlog: Code. Board cards moved: Backlog: Code.
+
 **What this needs from you:** name who clears the 75 older css_gate faults in kh-subject.css, as a theme job, or rule them accepted. Theme session.
 
 # ASK: 75 older css_gate faults in kh-subject.css block every theme edit's completion check (Code, Book Notes side session, S178, 21 October 2026)

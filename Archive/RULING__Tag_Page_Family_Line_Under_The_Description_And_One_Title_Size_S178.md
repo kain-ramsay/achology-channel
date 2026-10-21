@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 close (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 34.13, with pointers from 20.0f and 21.0; the one title size retires the band-lines decision on the Decisions list. Board cards moved: the tag pages card (line added).
+
 **What this needs from you:** write these two rulings into their homes (DSRD 9 for the tag page and the list family band; DSRD 7 3.0 needs nothing, it already says 33). Theme session.
 
 # RULING: the Knowledge Hub list and navigation pages take the one title size, and the tag pages' family line moves under the description (Kain, Code's S178 sitting, 21 October 2026)

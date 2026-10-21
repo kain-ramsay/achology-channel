@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 close (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 20.0f, with section 21.0 pointing at it. Board cards moved: none.
+
 **What this needs from you:** write this ruling into DSRD 9 section 20 (the list header) and the subject page section that shares it. Theme session.
 
 # RULING: the list and subject page header takes Option 3 (Kain, Code's S178 sitting, 21 October 2026)
