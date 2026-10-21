@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 8 as new section 41: one rulebook, home DSRD 8, one shared component per repeated part, the masonry wall first, Kain's timing (once all the pages are final). The job is a line on Backlog: Code with that trigger; Code's inventory starts nothing now and is archived beside this file. Board cards moved: Backlog: Code (line added).
+
 For Chat: Kain has ruled a direction; please give it its one home and place it on the board after the Knowledge Hub pages are final (his timing), and say whether Code's inventory below should start now.
 
 # RULING: a Knowledge Hub rulebook, and as many shared components as possible (Kain, S178, theme)

@@ -1,4 +1,4 @@
-STAYS, Chat S438 close (21 October 2026), for one named fact: Kain's yes in Code's sitting to the four proposed exceptions in section 3, which Code writes back here; Chat then records them in DSRD 7 section 4.3 and archives this file. Sections 1, 2 and the addendum are written into DSRD 9 section 34.13.
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Kain's yes to the exceptions (his words in the last addendum) is written into DSRD 7 section 4.3 as recorded exceptions 6 to 13, each dated; sections 1, 2 and the addenda were already in DSRD 9 section 34.13 at S438. Board cards moved: none.
 
 **What this needs from you:** rule on the proposed exceptions in section 3, written into DSRD 7 4.3 or the gate's page exceptions, so the five records can close their machine lines. Theme session.
 

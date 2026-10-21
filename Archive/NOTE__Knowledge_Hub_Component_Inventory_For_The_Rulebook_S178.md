@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Kept here as the inventory the rulebook job reads first; DSRD 8 section 41 names it and the Backlog: Code line points at it. The rulebook's home is DSRD 8; the first shared components are the inventory's own section B order; the nineteen conflicts in section C are ruled when the rulebook job runs, after Kain says the Knowledge Hub pages are final. The DSRD 9 numbering faults it found are a line on Backlog: Chat, and its C18 (the count in DSRD 7 4.3) is mended at S440. Board cards moved: Backlog: Code and Backlog: Chat (lines added).
+
 For Chat: this is the inventory Kain asked Code to write for the Knowledge Hub rulebook (RULING__A_Knowledge_Hub_Rulebook_And_Shared_Components_S178); please use it to place the rulebook and its first shared components, and rule the conflicts in section C.
 
 # NOTE: every repeated Knowledge Hub part, where its rules live, and where the copies differ (Code, S178, theme)
