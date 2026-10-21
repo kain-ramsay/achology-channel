@@ -25,6 +25,10 @@ None of the movement plays for a reader who asks for reduced motion, and without
 
 Kain: "take this exact same task to all other of the three article pages. Once you've locked this in." The same exercise, ten touches each, shown played out Before and After, once the workbook page is built in.
 
+## 3. The four steps' sheets are stacks of pages that fan under the pointer
+
+Kain: "because the workbook actually typically contains multiple pages per section, it'd be great if this part of the page could reflect that ... if I can see one page, stacked upon other pages, I'm going to automatically assume this is quite a comprehensive resource ... they're actually genuinely going to be comprehensive resources." Four ways shown on the page (Neat Stack, Fanned, Thick Pad, Fan on Hover). Kain chose **Fan on Hover**, with two changes: "I need the background pages to all be different ... each of the background pages to all be a different design", and "the fanning out to be a little bit more subtle". So each step's sheet has two pages behind it, squared up at rest and fanning gently under the pointer, and each of the eight is laid out as that step's kind of page (teaching, reflection questions, the exercise, discussion questions), drawn by the theme, so every workbook has them with no extra files.
+
 OWED BACK: the two rulings in DSRD 9 section 37.7 (and, for section 2, the three pages' own sections when their touches are chosen).
 
 *No em or en dashes in this file; checked before writing.*
