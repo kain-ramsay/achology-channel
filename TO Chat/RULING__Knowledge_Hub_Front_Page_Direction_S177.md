@@ -125,3 +125,10 @@ Code moved the trail onto the centre line; Kain: "I didn't ask you to move the b
 ## Kain (S177): the banner is "absolutely perfect"; two finishing touches done
 
 "That's much better. That's absolutely perfect ... I love the design, the layout. This is clean ... really inviting ... phenomenal." Done on his word: more room around the Know Your Psychology logo in the search (8 above and below, 10 to the right edge); the cream clearing behind the words now fades in softly instead of a hard edge.
+
+## Kain (S177): Browse by Subject, and a consolidation pass
+
+Kain: the banner's Categories bar and Browse by Subject offer "all categories all over again"; "we're going to need to eventually do some sort of consolidation pass ... multiple different components ... that look different on different pages ... might be worthwhile doing this consolidation pass now as part of this page's design."
+Code's inventory (S177): every list shares one skeleton; the signed Articles, Workbooks and subject-plus-kind lists also show the seven subjects twice (banner panel "Browse by Subject" above the same Categories bar); topics appear three ways (doors on lists and subject pages, doors and tiles on All Tags, pills on the front page); the four kinds two ways; section heads two ways.
+Agreed approach: the Categories bar stays the one way to jump between subjects; a subject block must tell a newcomer what each subject holds; designed once, it could later replace the duplicate subject panel on the three lists (only on Kain's word, page by page).
+Kain: "yes, draw the 4 options".
