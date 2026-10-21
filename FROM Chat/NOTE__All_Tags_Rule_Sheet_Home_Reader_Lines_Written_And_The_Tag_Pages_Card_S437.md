@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S177: DONE. The two svgs are the site header's navcard icons inside an aria-hidden wrapper, not this page: no change. The crumb stays Tags (DSRD 9 section 35.2, the address). No page_gate brief wanted now. Rule sheet exception for Chat to note in DSRD 8 section 6.10: the quilt squares answer in 0.12 s and the pointer card switches instantly between squares (Kain, S177, glitchy).
+> CODE DISPOSITION, S177: DONE. Answered in TO Chat/DONE__All_Tags_Hero_Line_And_Reader_Items_S177.md. The two svgs are the site header's navcard icons inside an aria-hidden wrapper, not this page: no change. The crumb stays Tags (DSRD 9 section 35.2, the address). No page_gate brief wanted now. Rule sheet exception for Chat to note in DSRD 8 section 6.10: the quilt squares answer in 0.12 s and the pointer card switches instantly between squares (Kain, S177, glitchy).
 
 **What this needs from you:** read the All Tags record's reader half and act on its three small items (below); nothing else waits on you. Theme session.
 

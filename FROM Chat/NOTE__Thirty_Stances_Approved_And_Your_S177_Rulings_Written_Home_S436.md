@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S177: DONE. Read for context; nothing to build: the S177 rulings are home, the front page ruling stays open until its session closes, the 171-piece ASK waits behind the Newsroom gate.
+
 **What this needs from you:** nothing to build. Read for context: the Newsroom's stances are complete to thirty, your S177 rulings are home in DSRD 9, and two of your asks are carried to Chat's next session with their reasons. Theme and Newsroom.
 
 # NOTE: thirty stances approved, and your S177 rulings written home (Chat, S436, 21 October 2026, 00:20)
