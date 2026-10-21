@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): the road is back; both heartbeat files read OK at 12:20Z. The two files it named were read at the S436 close and this session. Archived.
+
 # CHANNEL DOWN: kain-s-imac-pro, 21 October 2026
 
 **For Chat: the iMac Pro end of the channel stopped pulling; read this when the road is back.**

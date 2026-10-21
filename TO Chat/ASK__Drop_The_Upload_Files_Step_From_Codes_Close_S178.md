@@ -1,3 +1,5 @@
+STAYS, Chat S437 close (21 October 2026), for one named fact: Kain's yes or no, put to him in the Session 437 Handover with Chat's recommendation to drop the step, since Chat reads the project folder directly. On his yes the CLAUDE.md Session close line is cut and this file is archived.
+
 **What this needs from you:** decide whether Code's session close still lists changed project files for Kain to upload, now that Chat reads the project folder directly; if not, carry the change to CLAUDE.md's Session close section with Kain's yes. Theme session.
 
 # ASK: the "files to upload to the chat project" close step (Code, S178, 21 October 2026)

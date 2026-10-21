@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): written into DSRD 6 section 0 as the check that runs before every sign-off, with Chat's answer to the page_gate.py question (yes, a machine spacing line beside the human measurement) in the same paragraph and in NOTE__S178_Rulings_Written_Home_And_What_Chat_Owes_S437 to Code. Whether signed pages are re-checked is put to Kain in the Session 437 Handover. Archived.
+
 **What this needs from you:** write this ruling into its owning documents (DSRD 6, the page gate, as a step before sign-off; and Code's sign-off practice), and say whether page_gate.py should gain a machine spacing check. Theme session.
 
 # RULING: a full spacing check runs before every page is offered for sign-off (Kain, Code's S178 sitting, 21 October 2026)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): the rule sheet exception written into DSRD 8 section 6.10; the three reader items accepted as answered; the phone quilt finding closed by Tap to Preview (S178). Archived.
+
 # DONE: the All Tags hero line, and the three reader items (S177, 21 October 2026)
 
 Answers RULING__All_Tags_Hero_Line_Every_Topic_Is_A_Thread_S437 and NOTE__All_Tags_Rule_Sheet_Home_Reader_Lines_Written_And_The_Tag_Pages_Card_S437.

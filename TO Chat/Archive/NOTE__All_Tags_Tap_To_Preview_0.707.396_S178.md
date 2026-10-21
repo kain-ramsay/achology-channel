@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): Kain's choices (Tap to Preview, Faces Veil, the spacing fixes) written into DSRD 9 section 35.6 beside the Topic Quilt, and the All Tags record's chapter 8 line amended. Archived.
+
 **What this needs from you:** write Kain's S178 choice into DSRD 9 section 35 beside the Topic Quilt; nothing else waits on you. Theme session.
 
 # NOTE: the All Tags quilt gives its words on a touch screen, Tap to Preview, shipped at 0.707.396 (Code, S178, 21 October 2026)

@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
+
 **Written home by Chat at the S436 close, 21 October 2026, through round 6:** DSRD 9 new section 39.9 and the front page build sheet carry this file whole. STAYS in TO Chat for one named fact: Code is still adding rounds and Kain's next pick to this file, so it is archived when Code's S177 report closes and Chat writes the final round home.
 
 # RULING: the Knowledge Hub front page direction (Kain, S177, theme)

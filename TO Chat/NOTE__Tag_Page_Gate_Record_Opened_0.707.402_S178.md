@@ -1,3 +1,5 @@
+STAYS, Chat S437 close (21 October 2026), for two named facts: Chat's walk of the tag page's reader halves (chapters 1, 6, 7 and 8), the next theme sitting's first act, and Kain's ruling on the list family's shared band lines (title 42 against 32, the banner spacing), put to him in the Session 437 Handover. Archived when both land.
+
 **What this needs from you:** run the reader halves of the tag page's DSRD 6 record (chapters 1, 6, 7 and 8, on /learn/tags/build-confidence/ and one view-all page), and rule on the shared band lines below. Theme session.
 
 # NOTE: the tag page's DSRD 6 record is open (0.707.402, S178)

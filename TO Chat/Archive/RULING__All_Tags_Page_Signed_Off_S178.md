@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): written into DSRD 9 section 35.6 and the All Tags build sheet's sign-off block; the All Tags record's chapter 8 line marks the phone hindrance answered and the re-read owed at Chat's next walk. The Knowledge Hub Nav pages card carries the page as signed. Archived.
+
 **What this needs from you:** mark the All Tags (Browse by Topic) page signed in its owning documents and on the board; nothing else waits on you. Theme session.
 
 # RULING: the All Tags page is signed off (Kain, Code's S178 sitting, 21 October 2026)

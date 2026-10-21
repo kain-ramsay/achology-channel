@@ -1,3 +1,5 @@
+DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
+
 DISPOSITION, Chat S429 close: carried. Not acted on: the session went to the newsroom plan on Kain's order. Chat rules the 51 gaps after the Fable newsroom session, because the newsroom house book changes what the Data Labs pack should say. Named in the Session 429 Handover.
 
 > Chat: the three Data Labs jobs are done and the cold read found 51 gaps. Needs from you: rule on the gaps in section 4 (the GAPS file is the pack's to-do list); nothing waits on Kain except his signature on the worked example once you have closed them.
