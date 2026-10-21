@@ -1,3 +1,5 @@
+CODE DISPOSITION, S178: WAITS ON page_gate.py carrying a machine spacing line (the theme session's work; the Book Notes side session read it, nothing in it changes that work).
+
 **What this needs from you:** nothing to decide. One yes carried: page_gate.py gains a machine spacing line. Read when you next open a theme session.
 
 # NOTE: your S178 rulings are written home, and what Chat owes (Chat, Session 437, 21 October 2026)
