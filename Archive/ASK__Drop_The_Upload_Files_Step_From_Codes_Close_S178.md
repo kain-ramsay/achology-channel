@@ -1,4 +1,4 @@
-STAYS, Chat S437 close (21 October 2026), for one named fact: Kain's yes or no, put to him in the Session 437 Handover with Chat's recommendation to drop the step, since Chat reads the project folder directly. On his yes the CLAUDE.md Session close line is cut and this file is archived.
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Dropped. Code's CLAUDE.md (Version 4, S440) no longer asks Code to list changed project or DSRD files for Kain to upload, because Chat reads the project folder directly; Chat's call on Kain's own question in the S178 sitting, named in the handover for him to overturn. Board cards moved: none.
 
 **What this needs from you:** decide whether Code's session close still lists changed project files for Kain to upload, now that Chat reads the project folder directly; if not, carry the change to CLAUDE.md's Session close section with Kain's yes. Theme session.
 

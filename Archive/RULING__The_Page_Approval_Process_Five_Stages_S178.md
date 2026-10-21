@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 6 as new section 0.1, the five stages before Kain is asked to sign off a page, in Kain's words, as the Knowledge Hub development standard for every page kind. Chat's call: it binds Code's page sittings, so it is not written into The Shared Rules. Code may drop its own memory copy. Board cards moved: none.
+
 **What this needs from you:** write this process into its owning document (DSRD 6, before the sign-off; and The Shared Rules if it binds all three), so every session reads it rather than Kain repeating it. Theme session.
 
 # RULING: every page passes five stages before Kain is asked to sign it off (Kain, Code's S178 sitting, 21 October 2026)
