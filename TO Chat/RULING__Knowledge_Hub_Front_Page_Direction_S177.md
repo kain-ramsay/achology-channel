@@ -92,3 +92,7 @@ Note for Chat: the prompts are published words. Code uses Kain's three examples 
 "Yes, Claude, let's go with number four. Faces answer the search. That's brilliant."
 1. The prompts lead straight to content: "the questions that are being asked in there reflect maybe a part of an article that's already been written somewhere on the site. So that essentially if someone types in what we're prompting them to type in, it takes them right to an article or right to a page."
 2. The Know Your Psychology logo stays in the search ("I think that's totally okay"), but not as a raised button: "make it flip round ... with like a search and an arrow or something like that. Please be more creative than what I'm suggesting here ... We don't want a button inside the search bar. We want it to be a real feature."
+
+## Round 13 pick (Kain, S177): THE LOGO ANSWERS
+
+"Yeah, go with the logo answers. Claude, that's actually pretty impressive." One change, his words: "expanding the size of the Know Your Psychology logo then, so that it essentially matches the same size as the search button ... equal padding above and beneath and to the right ... the Know Your Psychology to be the same height and depth as the search button, even if that means it's a little bit longer."
