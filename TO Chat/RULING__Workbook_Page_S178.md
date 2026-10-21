@@ -17,6 +17,9 @@ The band is the S162 Soft Light hero (RULING__Hero_Direction_Soft_Light_Picked_S
 5. **The In short note and the Used For notes** (Kain: "Is there some way you could dress them really subtly? Just to make them look a bit less bland?"): four dressings shown, tabbed (Ruled Paper, Washi Tape, Folded Corner, Sticky Note).
 6. **Kain chose Ruled Paper** ("I actually really like ruled paper"), with two changes on all five notes: **the pin sits on the paper**, not on its top edge ("Any real note would have the pin on the actual bit of paper. So the pin needs to be inside of the actual bit of paper"); and **each Used For note reads as one sentence after its number**, "1." then the text on the same line, to cut the white space ("keep the number one, two, three, and four, and then put a dot ... and then put the text following on from that"). The In short note's words are unchanged ("the top card is just spot on").
 
+7. **The email card** (Kain, showing it: "Are you suggesting that you are happy with this?"): its own spacing restored to the approved S152 card's (8 under the heading, 16 under the line, 12 above the privacy line; a reset had closed every gap), its field and button the band's size.
+8. **How This Workbook Helps You Learn** (Kain: "you have heavier text at the bottom and lighter text at the top. This is not good design practice"): the four step captions are 16 in the soft grey, a caption to each step's name and lighter than the lead above; balanced lines, a 32 gutter.
+
 ## The spacing check (RULING__A_Spacing_Check_Before_Every_Page_Sign_Off_S178)
 
 Run at 1280, 834 and 390 in WebKit: the hairlines between parts that the 0.707.350 build had dropped are back (48 above and below, 32 on a phone); the cover is exactly roof to foundation in the band; the tablet Where This Workbook Comes From panel wraps its words round the cover.
