@@ -146,3 +146,10 @@ Kain, widening it: "we really need to give some thought to how the sections in t
 
 "definitely think go with the three tiers." His challenge, his words: "We have a dark bar right underneath the hero banner. It says all categories. Psychology, helping people ... And then directly underneath that, you've gone and built another bar saying browse by subject ... exactly the same thing happening twice ... Your use of font, size, and spacing, isn't good."
 Agreed ("Yeah, just do it that way"): the block's own strip of seven pictures and its "Browse by Subject" label go; on this page the dark Categories bar does the choosing (a subject picked in the bar opens directly below, with its line, counts and three newest; the bar looks as everywhere else); the subject's name in the block links to its page; the block is rebuilt on the family's type sizes and measured; one version shown.
+
+## S177 close (Kain): fresh session for the two middle blocks
+
+Kain: "this is not your best design work ... shut the session down ... start up a new one ... leaving the header, the header's fine now, and leaving even right down to the masonry grid. That's perfect ... But the two blocks are literally the categories and explore by topic ... propose the best design you could possibly come up with, but in a new session with a fresh set of eyes."
+Signed: the banner, the dark Categories bar, the wall and everything below. Open: the subject block (Three Tiers concept, the dark bar chooses, one list of subjects) and Explore by Topic. The closing fault, his words: "Have a look at the size of the font and the subtitle of the main banner, and look at the size of the font you've used underneath ... the category name. It's ridiculous. It's completely unbalanced." (Block line 21 against the banner's 18.)
+
+OWED BACK: Chat folds the signed banner, the bar-as-chooser rule and the closing state into DSRD 9 section 39 and the front page build sheet; the page is not signed until the two blocks are.
