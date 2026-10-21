@@ -117,3 +117,7 @@ The title: "turn that into the equivalent of a logo, not necessarily with the ac
 
 "because we've centralized the text, we're not left aligning. I think there's a conflict here between how you've used spacing within this hero banner and the breadcrumbs ... you've assigned an entire line to that, whereas on this one page, I don't think you need to do that ... having a slightly larger hero banner is great. So I like the space that you have above ... the breadcrumbs line seems to be knocking this out."
 Built: on this page only the trail sits on the centred axis as the group's first, quietest line (24 above the title), and the whole group is centred in the band with equal space above and below; the band keeps its depth.
+
+## Kain (S177): the trail is never moved; the diagnosis agreed and fixed
+
+Code moved the trail onto the centre line; Kain: "I didn't ask you to move the breadcrumbs ... The breadcrumbs is consistent across the entire site ... Put that back." Put back. Diagnosis given and agreed ("That's the issue that we had"): the spacing above the title was counted from the trail line, so the centred words sat 107 below the band's top edge against 64 above its foot. Fixed: the trail stays where it is and no longer counts; the words are centred on the band itself, depth kept.

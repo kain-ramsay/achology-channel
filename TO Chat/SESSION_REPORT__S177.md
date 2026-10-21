@@ -80,3 +80,4 @@
 - Knowledge Hub front page round 14: Kain's new banner line in word for word; the title as a light-bulb lockup four ways; committed, balanced at 1280, 834 and 390, opened in Safari. NOT FINISHED: waits on Kain's pick, then the lower blocks one by one.
 - Knowledge Hub front page: Kain chose Bulb in the O; banner re-measured and corrected (words centred below the trail on 64/48/32, gap under the title from the bulb's foot). Committed, opened in Safari. NOT FINISHED: hero awaits his confirmation, then the lower blocks one by one.
 - Knowledge Hub front page: the trail joins the centred group on this page (Kain); equal space above and below; committed, measured at 1280, 834 and 390, opened in Safari.
+- Knowledge Hub front page: trail restored (Kain); banner spacing diagnosed and fixed (words centred on the band itself, trail not counted). Committed, measured, opened in Safari.
