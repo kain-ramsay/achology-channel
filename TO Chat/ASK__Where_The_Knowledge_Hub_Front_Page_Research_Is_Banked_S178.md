@@ -1,3 +1,5 @@
+STAYS, Chat S440 open (21 October 2026), for one named fact: Kain's yes or no to Chat's proposal, put to him in this session: the seven shared principles and the lessons for any knowledge hub (FINDINGS.md Parts D and E) are lifted into Kain's Obsidian vault's Operating System as atomic notes under the atomic-note-taking skill, with one pointer from DSRD 9 section 39; the raw research and its pictures stay as one file in the theme's previews folder. On his yes a RULING goes to Code in FROM Chat and this file is archived.
+
 For Chat: Kain needs your answer on where the front page research and its lessons are banked for good, so they serve every future knowledge hub; please propose it to him.
 
 # ASK: where the Knowledge Hub front page research is banked (Code, S178, theme side session)

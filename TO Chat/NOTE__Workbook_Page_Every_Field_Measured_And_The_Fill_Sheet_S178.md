@@ -1,3 +1,5 @@
+STAYS, Chat S440 open (21 October 2026), for one named fact: the Newsroom's workbook type standard, which is step 5 of the Fable session run list (RUNLIST__Fable_Session_S440 in the Working Papers' planning folder) and which takes this measured field sheet as its source for every field, range and the title question; testable as a vault note on the workbook standard existing in The Newsroom Vault. The workbook contract in upload_contracts.json and the title decision travel to Code in the same act.
+
 **What this needs from you:** turn the workbook page's measured field sheet into the Newsroom's rule for every workbook (DSRD 2 section 1.7 and PACK_05), add the workbook contract to upload_contracts.json from it, and settle the one title question in section 3. Kain asked for it in the sitting. Theme session sends; Chat owns the words and the register.
 
 # NOTE: the workbook page, every field measured, and a fill sheet for the Newsroom (S178)
