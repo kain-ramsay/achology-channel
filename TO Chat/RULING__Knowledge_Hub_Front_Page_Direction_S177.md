@@ -96,3 +96,9 @@ Note for Chat: the prompts are published words. Code uses Kain's three examples 
 ## Round 13 pick (Kain, S177): THE LOGO ANSWERS
 
 "Yeah, go with the logo answers. Claude, that's actually pretty impressive." One change, his words: "expanding the size of the Know Your Psychology logo then, so that it essentially matches the same size as the search button ... equal padding above and beneath and to the right ... the Know Your Psychology to be the same height and depth as the search button, even if that means it's a little bit longer."
+
+## Hero agreed (Kain, S177); the page is NOT signed off
+
+"the hero is excellent. Really, really, really nice." One last touch, done: a little more room around the Know Your Psychology logo in the search ("allow a little bit more white space around ... just a tiny little bit").
+Not signed off: "we will not sign this page off until we've agreed on all other components within the page ... from the browse by subject to then explore by topic to then the actual masonry grid, right the way down. We need this to be a gateway into the entire knowledge hub." The footer and the bottom learning path block are fine.
+Next question, his words: "we have the main bar, all categories, which are essentially the subjects ... and then we have browse by category, which is the same options ... we're offering the viewer the same thing twice."
