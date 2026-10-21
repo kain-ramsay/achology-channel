@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Noted on the KH Workbooks Page Template card (State at S440: tidy shipped at 0.707.415, record opened with its machine half owed) and in DSRD 9 section 37.8. Board cards moved: the workbook card (state block).
+
 **What this needs from you:** note on the KH Workbooks page template card that the signed page's tidy shipped at 0.707.415, and that the workbook page's DSRD 6 record is opened (machine half owed). Theme session.
 
 # SHIP: the workbook page's tidy, 0.707.415 (theme, S178)

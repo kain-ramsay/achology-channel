@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Noted on the KH Workbooks Page Template card (State at S440) and in DSRD 9 section 37.8; the sign-off line Kain later gave is written with RULING__Workbook_Page_Signed_Off_S178. Board cards moved: the workbook card (state block).
+
 **What this needs from you:** note the workbook page as built at 0.707.412 on its board card, and write the sign-off line into DSRD 9 section 37.7 when Kain gives it (he has not yet, in those words). Theme session.
 
 # SHIP: the workbook page, 0.707.412 (theme, S178)

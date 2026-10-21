@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 37.8: all ten touches, the reduced motion and no scripts sentence, Fan on Hover with Kain's two changes, and the same exercise next on the article, book note and quote pages (their sections take their touches when chosen). Board cards moved: none beyond the workbook card's state block.
+
 **What this needs from you:** add these two rulings to DSRD 9 section 37.7 (after RULING__Workbook_Page_S178, now archived). Theme session.
 
 # RULING: the workbook page's ten finishing touches, and the same task next on the other three content pages (theme session, S178)

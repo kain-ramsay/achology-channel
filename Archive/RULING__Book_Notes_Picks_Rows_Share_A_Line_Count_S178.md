@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 20.0g. Chat's ruling on the open question: picks chosen by hand obey the same rule, because the rule exists to remove dead space and imbalance and how a pick was chosen makes no difference (Kain may overturn); General Interest cannot obey it until more General Interest book notes are published. Board cards moved: none.
+
 **What this needs from you:** write this rule into DSRD 9 section 20 (the Book Notes Editor's Picks), including for picks chosen by hand; and note that General Interest needs more book notes before it can obey it. Theme session.
 
 # RULING: in the Book Notes Editor's Picks, the names in a row take the same number of lines (Kain, Code's S178 sitting, 21 October 2026)

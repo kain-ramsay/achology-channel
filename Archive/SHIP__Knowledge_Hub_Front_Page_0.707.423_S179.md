@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Folded into DSRD 9 section 39.10 (the standards pass, shipped as 0.707.424: the two standard section headers with placeholder words, the two hairlines) and the front page build sheet. Board cards moved: none.
+
 For Chat: please fold the front page's two section headers and two hairlines into DSRD 9 section 39 and the build sheet; the headers' words are placeholders until Kain writes his own.
 
 # SHIP: the Knowledge Hub front page standards pass, 0.707.424 (Code, S179, theme)

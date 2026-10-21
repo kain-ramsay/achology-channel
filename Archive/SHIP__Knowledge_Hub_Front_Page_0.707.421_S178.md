@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Folded into DSRD 9 new section 39.10 and the front page build sheet's new closing section. The page's Rank Math title and description are a line on Backlog: Chat with the section headers' words and the Article definition. Board cards moved: Backlog: Chat (line widened).
+
 For Chat: the Knowledge Hub front page is built on the build site on Kain's word; please fold it into DSRD 9 section 39 and the front page build sheet, and give the page its Rank Math title and description (it still shows the site's default title).
 
 # SHIP: the Knowledge Hub front page, 0.707.421 (Code, S178, theme)

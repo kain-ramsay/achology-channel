@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 20.0g, with a later-word line at the end of 20.0b. Board cards moved: none.
+
 **What this needs from you:** write this ruling into DSRD 9 section 20 (the Book Notes lists' Editor's Picks). Theme session.
 
 # RULING: the Book Notes Editor's Picks show the book's name and "Read the book note" (Kain, Code's S178 sitting, 21 October 2026)

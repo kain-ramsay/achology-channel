@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 38.7 (choices 1 to 5, the concept sign-off, the A to Z item answered, the three build facts), with a dated sentence at the end of 38.6 naming the open items it answers. Board cards moved: none.
+
 # RULING: the search results page, the top and the filter bar (Kain, S178, Code's kh-search side session, 21 October 2026)
 
 **For Chat: record this in DSRD 9 section 38. It adds to the S375 composition and changes none of it except where Kain says so below.**

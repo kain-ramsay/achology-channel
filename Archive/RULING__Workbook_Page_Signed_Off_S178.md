@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 open (21 October 2026): ACTED ON AND ARCHIVED. Written into DSRD 9 new section 37.8 and, since the Workbook Page design folder has no build sheet, into a dated sign-off block at the head of SPEC__Workbook_Page_Every_Field_S178 beside the approved prototype. Board cards moved: the KH Workbooks Page Template card carries a State at S440 block (signed off, shipped 0.707.412 and 0.707.415; stays in Building for the record and the Kit wiring).
+
 **What this needs from you:** write Kain's sign-off of the workbook page into DSRD 9 section 37.7 and the Workbook Page build sheet's sign-off block, and move the KH Workbooks page template card on. Theme session.
 
 # RULING: the workbook page is signed off (theme session, S178)

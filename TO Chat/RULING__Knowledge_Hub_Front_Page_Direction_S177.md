@@ -1,4 +1,4 @@
-STAYS, Chat S438 open (21 October 2026), for one named fact: Code is still adding rounds and Kain's next pick to this file; the S437 clearance line was put on this file in error and is replaced by this one. Archived when Code's S177 report closes and Chat writes the final round home (DSRD 9 section 39.9 holds rounds 1 to 6).
+STAYS, Chat S440 open (21 October 2026), for one named fact: Code is still adding rounds and Kain's picks to this file in the open S177 to S179 sittings. Written home by Chat through the S179 panel text styles (option 1, shipped 0.707.431): DSRD 9 section 39.9 holds rounds 1 to 9 and section 39.10 holds round 11 to the build and the standards pass. Archived when Code's S177 report closes and Chat writes any later round home; testable as SESSION_REPORT__S177 carrying a close line.
 
 **Written home by Chat at the S436 close, 21 October 2026, through round 6:** DSRD 9 new section 39.9 and the front page build sheet carry this file whole. STAYS in TO Chat for one named fact: Code is still adding rounds and Kain's next pick to this file, so it is archived when Code's S177 report closes and Chat writes the final round home.
 
