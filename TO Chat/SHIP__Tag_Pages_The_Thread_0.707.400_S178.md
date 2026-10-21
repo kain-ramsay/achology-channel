@@ -23,6 +23,10 @@ Kain's signed S177 design (DSRD 9 section 34.11, RULING__Tag_Page_Is_The_Thread_
 - A topic with nothing published yet (Learn Hypnotherapy) takes its own family's topics as Related Topics, so its line still ends somewhere.
 - The tag page's search description is Kain's line (the ruling allowed it); the older DSRD 2 section 1.3.4 descriptions are no longer read on this page.
 
+## 0.707.401, the spacing check (RULING__A_Spacing_Check_Before_Every_Page_Sign_Off_S178)
+
+The tag page itself was signed in S177 and measures identical to it, so it was not re-spaced. The view-all page's own new gaps were measured at 1280, 834 and 390: the gap from its station to Related Topics was 112 on a one-page list and 152 on a longer one, against the signed 64 between stations. Fixed: the page numbers now sit inside the station and draw only when there is a second page; every view-all now measures 64. Left alone and named: the 48 above the page numbers on a phone (DSRD 7 section 4.3 says 32 on a phone), because it is the page numbers' own value shared with the signed list pages.
+
 ## Waits on
 
 - Kain's last look in Safari (Build Confidence and Start and Grow a Business are open for him).
