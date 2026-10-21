@@ -136,3 +136,7 @@ Kain: "yes, draw the 4 options".
 ## Round 15 pick (Kain, S177): ONE SUBJECT AT A TIME
 
 "Yes, Claude, like option 3, one subject at a time. Really like that ... very neat." Next, his words: "now just need to look at the actual design of this ... the best design efforts ... Four different directions or four different ways of presenting this. Immaculate spacing, I want this to look like a real journey that we're kind of offering to people. This page is about presenting the extent of what the Knowledge Hub is to any website visitor who lands on it ... the most user-friendly page. User experience here must be of paramount priority."
+
+## Round 16 pick (Kain, S177): THE THREE STEPS, concept only
+
+"Quite inclined to go with the three steps option ... conceptually, yeah, this is the direction we want to go in. But visually, this looks terrible." Asked for: "four different ways of laying this out that's going to make the best use of space"; the section heading above it ("Browse by Subject" with its icon tile and line) "looks terrible ... That just can't be there"; "make this look like a creative work of art."
