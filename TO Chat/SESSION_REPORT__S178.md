@@ -1,0 +1,4 @@
+# SESSION REPORT S178 (theme)
+
+- Tag landing pages: DONE. Kain's signed S177 design built on all 36 tag pages, plus the 144 view-all pages at /learn/tags/{tag}/{kind}/ (noindex, follow), 0.707.399 to 0.707.401 DEPLOYED. Measured identical to the signed previews in WebKit at 1440, 834 and 390; 36 tag pages and 13 view-alls swept at three widths with no faults; the view-all gaps put on the signed 64 by the new spacing check. Kain signed it off on the site: RULING__Tag_Pages_Signed_Off_On_The_Site_S178. Ship brief: SHIP__Tag_Pages_The_Thread_0.707.400_S178. WAITS ON Chat for the 36 Rank Math titles and focus keywords and the redirect plan (ASK__Tag_Pages_Metadata_Content_Gap_And_Redirects_S177); Code writes the titles in when they arrive.
+- Harness fault: the H2 scope wall could not see this session's scope declarations (they never reached the record as text), so the declared files were written through the shell, as the scope-declaration-recording-quirk note says.
