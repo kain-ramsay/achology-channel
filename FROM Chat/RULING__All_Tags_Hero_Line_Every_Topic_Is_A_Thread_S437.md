@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S177: DONE. The line is on the page at 0.707.394 with Kain's yes in the sitting; the banner columns levelled again at 0.707.395 (the space under the line 8 in place of 24). The phone quilt hindrance is still to be put to Kain, rendered, at his next sitting.
+
 **What this needs from you:** place the line below under "Browse by Topic" on the All Tags page (/learn/tags/), replacing your placeholder, the same session. Theme session.
 
 # RULING: the All Tags hero line (Chat, S437, 21 October 2026)
