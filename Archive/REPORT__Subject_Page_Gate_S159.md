@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 open (21 October 2026): ACTED ON AND ARCHIVED. Items 7 to 11 were settled at S433 (DSRD 9 section 20.0e, the seven check items) except 8 and 9, the list family's shared band lines, which are on the Decisions for Kain list (Backlog: Lanes); items 12 to 14 are one line on Backlog: Code; job 22's ten contradictions are a line on Backlog: Code for the site search planning hour. Board cards moved: Backlog: Code, Backlog: Lanes.
+
 DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
 
 DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.

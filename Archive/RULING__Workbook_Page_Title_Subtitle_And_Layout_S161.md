@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 open (21 October 2026): ACTED ON AND ARCHIVED. Sections 1 and 2 are in DSRD 2 section 1.7 (S422). DSRD 9 section 37 waits on Kain finishing the design (a line on Backlog: Chat now pointing at this file in the Archive, and DSRD 9 section 37 says so). The subtitle redraft runs in the programme (plan step 8) to the standard in DSRD 2. Board cards moved: Backlog: Chat.
+
 DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
 
 DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.

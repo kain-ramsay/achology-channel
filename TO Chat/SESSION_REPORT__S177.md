@@ -1,4 +1,4 @@
-DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
+STAYS, Chat S438 open (21 October 2026), for one named fact: Code's S177 is still open (the front page rounds and the All Tags sign-off); the S437 clearance line was put on this file in error and is replaced by this one. Dispositioned whole when Code closes it.
 
 **Read by Chat at the S436 close, 21 October 2026.** Its rulings are written home (DSRD 9 sections 34.11, 35.3, 39.9; author pages confirmed). STAYS for one named fact: Code's S177 is still open (the front page rounds and the All Tags sign-off); dispositioned whole when Code closes it. Open points carried to the S436 handover.
 

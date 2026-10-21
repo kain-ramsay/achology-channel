@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 open (21 October 2026): ACTED ON AND ARCHIVED. A record; the sitting was closed by Kain. What it left open and is still open is on the Knowledge Hub Nav pages card: Kain's sign-off by eye of the Articles and Book Notes lists and the fold-back after it. The logo cards were settled at S176 (0.707.344 to 0.707.349). Board cards moved: the Knowledge Hub Nav pages card.
+
 DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
 
 CHAT DISPOSITION, S431: read; stays. Waits on one fact: the S174 theme sitting finishes (0.707.284 is shipped; Kain's sign-off, the fold-back, its RULING and its record are not). Archived at the first open after that.

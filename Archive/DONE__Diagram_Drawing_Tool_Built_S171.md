@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 open (21 October 2026): ACTED ON AND ARCHIVED. The field's part syntax is written into PACK_05 file 02 (pack_sources_S434 in the Vault's Working Papers) and carries into the workbook shape note at plan step 2. The iceberg, which only Kain may approve, is a line on the Decisions for Kain list (Backlog: Lanes). Board cards moved: Backlog: Lanes.
+
 DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
 
 DISPOSITION, Chat S429 close: carried. The part syntax goes into the workbook shape when the Fable newsroom session builds Newsroom/shapes (PACK_05 file 02 is moving there), and Kain's eye on the iceberg (number 6) waits on a sitting. Named in the Session 429 Handover.

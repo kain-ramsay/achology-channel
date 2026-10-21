@@ -1,3 +1,5 @@
+DISPOSITION, Chat S438 open (21 October 2026): ACTED ON AND ARCHIVED. OWED BACK 1 and 2 are in DSRD 9 section 20.0b (the picks are articles only, written S423; who chooses them, S414 and S434); 3 and 4, the seven category pages' Rank Math words, were set at S431 (RULING__Subject_Pages_Titles_Focus_Keywords_And_Card_Titles_S431). The two tool faults and the Chrome wrapper were Code's and are overtaken by page_gate v9 (NOTE S178). Cloud jobs 18 to 20 are line 16 on Backlog: Code. Board cards moved: none.
+
 DISPOSITION, Chat S437 close (21 October 2026): the fact this file waited on, the S430 newsroom session and Kain's reading of the exact instructions, has passed. It is cleared at the Session 438 open as that session's first act, before step 1 of the vault plan: acted on, its facts written into the document that owns them, and archived. Named in the Session 437 Handover as the harness break it is.
 
 DISPOSITION, Chat S429 close: still waiting on the same fact as the line below; not touched this session. Now across seven handovers: the S429 handover recommends the Monday theme sitting takes them or Chat archives them with their facts written into DSRD 9.
