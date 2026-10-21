@@ -78,3 +78,11 @@ Kain rejected round 8 (Code had enlarged the title against the one-size rule and
 ## Round 9 pick (Kain, S177): THE LECTERN
 
 "I'd be inclined to go with number two, the lectern ... the rest just feel clunky." Faults, his words: "the Know Your Psychology logo's ... huge. It overpowers the actual name of the Knowledge Hub, which doesn't make any sense." Asked for: "excellent graphic design effort ... four different options on how you can improve this from a spacing, graphic design, and visual perspective ... you can do more with a background of this option as well."
+
+## Round 11 pick (Kain, S177): THE LIBRARY, with three changes
+
+"what I actually really like here option number four ... the library option ... it's simple, it's centralized ... it's good it's clean, it's very, very simple."
+1. The Know Your Psychology logo: "just feels like it's kind of been dropped in there ... could we somehow build that into the search bar? See how you've got the button at the moment. Could you build Know Your Psychology as a logo into that search bar, so that when it gets hovered over, it presents itself as a button ... maybe you can come up with some options."
+2. The background: "while the books are okay, I'm wondering if you might be able to build that kind of background mosaic of faces ... prominent figures such as Freud, Abraham Maslow, faces that people would just typically recognize and associate with psychology."
+3. The search prompts: "not just names, but more kind of ... short questions or interesting ideas. Abraham Maslow's hierarchy of needs, Sigmund Freud's psychoanalysis, where can I study psychology online? ... to prompt the visitor to actually engage and use the search. All we need to then make sure is that the mechanism in the background actually serves the searcher."
+Note for Chat: the prompts are published words. Code uses Kain's three examples and real Knowledge Hub titles (no drafted copy); the final prompt list is Chat's to write with Kain, each prompt proven to return results.
