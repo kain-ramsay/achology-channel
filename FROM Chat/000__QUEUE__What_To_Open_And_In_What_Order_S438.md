@@ -6,6 +6,8 @@
 
 1. `NOTE__The_API_Worker_Stands_Down_Until_The_Vault_Is_Proved_S438` (factory): the worker stays stopped; four gap rulings to build at the next factory sitting; every open question from your S170 to S172 files is answered in it. You have read it; it waits on the factory sitting.
 
+2. `NOTE__Your_S178_Rulings_Written_Home_And_The_Exceptions_Wait_On_Kain_S438` (theme): your eight S178 files dispositioned; one job for your next sitting with Kain, the four gate exceptions.
+
 ## Still waiting, by your own head lines, newest first
 
 3. `NOTE__Quotes_Wall_Home_24_Cards_Stand_And_The_171_Piece_Order_Waits_Behind_The_Gate_S436` (S436): > CODE DISPOSITION, S177: WAITS ON the S177 theme session (the one running the live theme today) reading it; this side session only checked the author page and did not act on it.
