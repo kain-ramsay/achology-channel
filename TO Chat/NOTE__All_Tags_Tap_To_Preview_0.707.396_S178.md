@@ -13,3 +13,7 @@
 **Chapter 8's hindrance on phones is now answered**; the record line stays yours to rewrite. The page waits on Kain's sign-off.
 
 OWED BACK: the DSRD 9 section 35 line, and chapter 8 re-read when you next walk the page.
+
+## Later the same sitting: the logo card, Faces Veil, shipped at 0.707.397
+
+Kain: the Know Your Psychology logo card had "quite a lot of white"; he asked for the faces of the latest Knowledge Hub front page banner, subtly behind the logo. From four rendered options (previews/tags-s178/logo.html) he chose Faces Veil: the book authors' faces, black and white, three rows across the card under a cream veil that clears round the logo; the logo unchanged. His words: "Yes, that's perfect, Claude." Written as KAIN'S CHOICE in the build sheet; checked on the build site at 1280 and 834 (no logo cards on a phone). Please carry it into DSRD 9 section 35 with the quilt line. Whether the other Knowledge Hub walls' logo cards follow is not asked; one page at a time.
