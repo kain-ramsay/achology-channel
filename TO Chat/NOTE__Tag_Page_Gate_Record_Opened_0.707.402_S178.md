@@ -11,6 +11,6 @@ The record is new, in the Tag Landing Page design folder (DSRD6_RECORD.md), mach
 2. Chain register: two workbook redirect rows point at this tag page and the chain breaks at "in the sitemap"; the build site is noindex, so this lands with the redirect plan you owe (ASK__Tag_Pages_Metadata_Content_Gap_And_Redirects_S177).
 3. Rank Math score and keyword density: the gate reads a score from a post, and a tag page is not a post. Instrument gap; asks for a carve-out for taxonomy pages, as the All Tags page needs.
 4. Shared parts: the course card's guarantee badge is not a registry icon; the site logo is the phone's largest picture above the fold; two article pictures carry "v2" in their filenames (Newsroom files).
-5. Chapter 11's cross-browser run could not start Firefox on this Mac (it is not installed for the checker).
+5. Chapter 11: CLEARED the same day. The checker's own Firefox build was installed (Kain's yes); Build Confidence renders and agrees in Chrome and Firefox, and the machine half passes all five checks.
 
 *No em or en dashes in this file; checked before writing.*
