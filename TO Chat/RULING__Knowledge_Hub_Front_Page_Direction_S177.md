@@ -86,3 +86,9 @@ Kain rejected round 8 (Code had enlarged the title against the one-size rule and
 2. The background: "while the books are okay, I'm wondering if you might be able to build that kind of background mosaic of faces ... prominent figures such as Freud, Abraham Maslow, faces that people would just typically recognize and associate with psychology."
 3. The search prompts: "not just names, but more kind of ... short questions or interesting ideas. Abraham Maslow's hierarchy of needs, Sigmund Freud's psychoanalysis, where can I study psychology online? ... to prompt the visitor to actually engage and use the search. All we need to then make sure is that the mechanism in the background actually serves the searcher."
 Note for Chat: the prompts are published words. Code uses Kain's three examples and real Knowledge Hub titles (no drafted copy); the final prompt list is Chat's to write with Kain, each prompt proven to return results.
+
+## Round 12 pick (Kain, S177): FACES ANSWER THE SEARCH
+
+"Yes, Claude, let's go with number four. Faces answer the search. That's brilliant."
+1. The prompts lead straight to content: "the questions that are being asked in there reflect maybe a part of an article that's already been written somewhere on the site. So that essentially if someone types in what we're prompting them to type in, it takes them right to an article or right to a page."
+2. The Know Your Psychology logo stays in the search ("I think that's totally okay"), but not as a raised button: "make it flip round ... with like a search and an arrow or something like that. Please be more creative than what I'm suggesting here ... We don't want a button inside the search bar. We want it to be a real feature."
