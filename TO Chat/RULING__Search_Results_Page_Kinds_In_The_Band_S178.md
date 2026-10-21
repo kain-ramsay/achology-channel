@@ -14,6 +14,10 @@ The rule, as built: a word earns a place when it is a noun naming a theme and it
 
 **Choice 4, directed by Kain in the same message (no options; his words are the spec):** the pictures in the result cards slightly wider; book note cards show the book larger, on the same background the Book Notes pages give a book ("We need consistency throughout this entire site").
 
+**Choice 5: Code's ten improvements, all made at once on Kain's ask ("look at the page objectively ... ten areas that we have to improve"):** the A to Z across the full width with a row of letters to jump to; each word's count is the pages that really use it; the index columns start level; the band, the workbook box and the ask line run to the results' full width; the searched word is bold in each title; on a phone, titles take three lines and the kinds become one row the reader swipes; with no results, the A to Z words sharing the search's first letters appear under the hint. Preview commit d4dbd847.
+
+**CONCEPT SIGNED (Kain, S178):** "conceptually, this page is fine, all right? But what we now need to do is just build it into the actual website." Code builds it into the theme next; the page's sign-off follows on the built page, by the process Code defines for it (filed beside this ruling).
+
 **Earlier open item, now answered:**
 1. An A to Z way into the search on this page, beneath what it offers, so a reader who does not know what to type can click a theme instead ("procrastination ... confidence, self-knowledge, self-esteem ... the kind of word we would essentially have a stance on"). Code's proposed source: the 56 Achology Stances in the Newsroom Vault. The front page research session carries the same idea (a corner link "See every topic and theme, A to Z").
 
