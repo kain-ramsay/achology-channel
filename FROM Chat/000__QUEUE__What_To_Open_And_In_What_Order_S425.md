@@ -1,3 +1,5 @@
+SUPERSEDED by 000__QUEUE__What_To_Open_And_In_What_Order_S438 at the S438 close (21 October 2026); kept only until Code's next open reads the new one, then archived.
+
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat at the S425 close, Thursday 15 October 2026.**
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S425)
