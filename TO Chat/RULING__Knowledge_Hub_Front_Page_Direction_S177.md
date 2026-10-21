@@ -121,3 +121,7 @@ Built: on this page only the trail sits on the centred axis as the group's first
 ## Kain (S177): the trail is never moved; the diagnosis agreed and fixed
 
 Code moved the trail onto the centre line; Kain: "I didn't ask you to move the breadcrumbs ... The breadcrumbs is consistent across the entire site ... Put that back." Put back. Diagnosis given and agreed ("That's the issue that we had"): the spacing above the title was counted from the trail line, so the centred words sat 107 below the band's top edge against 64 above its foot. Fixed: the trail stays where it is and no longer counts; the words are centred on the band itself, depth kept.
+
+## Kain (S177): the banner is "absolutely perfect"; two finishing touches done
+
+"That's much better. That's absolutely perfect ... I love the design, the layout. This is clean ... really inviting ... phenomenal." Done on his word: more room around the Know Your Psychology logo in the search (8 above and below, 10 to the right edge); the cream clearing behind the words now fades in softly instead of a hard edge.
