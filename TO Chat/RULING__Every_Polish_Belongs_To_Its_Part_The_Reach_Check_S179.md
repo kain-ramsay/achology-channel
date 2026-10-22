@@ -1,3 +1,5 @@
+STAYS, Chat S441 open (22 October 2026), for one named fact: Kain's yes or no on the rule Chat puts to him this session, testable as a dated reach check line in DSRD 8 section 41. Waits on Kain's eye.
+
 For Chat: please turn Kain's S179 words below into a rule for every session (Code, the side sessions, Chat), with its home, and say whether these three parts are it; Kain decides.
 
 # RULING: every polish belongs to its part, and every session proposes its reach unasked (Kain, S179, theme session)
