@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S179: WAITS ON a factory session (read by the theme page family session; nothing in it for the theme).
+> CODE DISPOSITION, S182: STAYS. Proof ran; stopped UNSURE at the search desk; waits on Chat (REPORT__The_Proof_Run_Stopped_At_The_Search_Desk_UNSURE_S182).
 **For Code, factory session. What this needs from you:** run the newsroom machine's proof on golden page 9 (CQ018-016-1) with the two files below, report its records, each packet's word count and the cost per piece.
 
 # NOTE: the proof run's inputs for golden page 9 (Chat, S442, 22 October 2026)
