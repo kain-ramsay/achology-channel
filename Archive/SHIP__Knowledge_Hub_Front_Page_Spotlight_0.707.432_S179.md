@@ -1,3 +1,5 @@
+DISPOSITION, Chat S440 (22 October 2026): ACTED ON AND ARCHIVED. Folded into DSRD 9 section 39.10 (Touch 2, Spotlight, 0.707.432) and the front page build sheet's closing section. Board cards moved: none.
+
 For Chat: please fold the front page's first touch, Spotlight, into DSRD 9 section 39.10 and the build sheet.
 
 # SHIP: the Knowledge Hub front page, touch 2 Spotlight, 0.707.432 (Code, S179, theme)

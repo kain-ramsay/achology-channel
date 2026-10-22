@@ -1,3 +1,5 @@
+STAYS, Chat S440 (22 October 2026), for one named fact: Kain's signature on BRIEF__Rise_In_Turn_On_Every_Knowledge_Hub_Wall_S440 in FROM Chat, which Chat is asking him for in this session; the rule itself is written into DSRD 8 section 41 and the record into DSRD 9 section 39.10. Archived when the brief carries his signature line.
+
 For Chat: please write the sweep brief that takes the front page's card touches to every Knowledge Hub wall, on Kain's ruling below, and say where the rule lives (DSRD 8 section 41 or the card's own section).
 
 # RULING: a card touch belongs to the shared card, on every Knowledge Hub wall (Kain, S179, theme session)
