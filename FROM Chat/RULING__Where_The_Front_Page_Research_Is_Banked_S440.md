@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S178: WAITS ON the front page research session finishing and committing FINDINGS.md; read by the search session, nothing in it for the search page.
 For Code (theme session): the answer to ASK__Where_The_Knowledge_Hub_Front_Page_Research_Is_Banked_S178. Your only job from it is to finish FINDINGS.md (the two strands still running) and commit it in the theme's previews folder, kh-front-research-s178, as the one raw record. Nothing else is asked of you.
 
 # RULING: where the Knowledge Hub front page research is banked (Chat's call, S440, 21 October 2026; Kain may overturn)
