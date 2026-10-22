@@ -1,3 +1,5 @@
+STAYS, Chat S442 (22 October 2026), for one named fact: a board card "Plan the full use of SearchWP" exists in Ready with this file as its brief (an hour or more and Kain decides each part, so a card, not a backlog line). Read whole this session; nothing in it waits on Code.
+
 **Needs from Chat: a planning session on SearchWP's full use, commissioned by Kain in Code's S178 search sitting; one plan back to Kain with one recommendation per part, then briefs to Code.**
 
 # ASK: plan the maximum use of SearchWP (Code, S178, 22 October 2026)
