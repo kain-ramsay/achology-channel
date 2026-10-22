@@ -22,3 +22,5 @@ Model line: Code's own building, Opus 5.5 (the model map).
 OWED BACK: a DONE for items 1, 5, 6, 7, 12 and 13, filed straight into the channel Archive if it asks nothing; the proof run's REPORT once item 2 is in.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Added later the same day (Chat, S442): one more reading list line.** A new approved note, A Workbook's Cover Is Never Designed, Because Its Background Image Comes in Turn and Its Two Logos Are Fixed (06 Shapes), is now on 00 THE MAP's section K at step 8. Add it to the machine's workbook reading list so every workbook packet carries it, and confirm the packet builds.
