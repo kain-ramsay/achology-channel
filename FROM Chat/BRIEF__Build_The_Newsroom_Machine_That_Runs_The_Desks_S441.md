@@ -25,8 +25,9 @@ On the iMac Pro (64 GB), beside Ollama and the free fact checker, so the machine
 5. **The redraft gate** is code: it reads every checking desk's last word and the legal desk's; on any FAIL it hands the writer the piece, every desk's reasons and the same packet, once; the checking desks rerun fresh; a second fail is HELD. A legal HOLD goes to Chat whatever the others found. A piece marked KAIN READS THIS PAGE goes to the signature desk whole.
 6. **The sample desk's five** are chosen by the machine: UNSURE pieces Chat decided, then rewritten pieces, then the narrowest passes, then random.
 7. **Keeps every record** with the piece: each desk's full record, the packet's stamp, the model and the card version.
-8. **The weekly numbers:** for each desk, its catch rate and false fail rate against Kain's verdicts at the signature desk, reported apart, its UNSURE count, and whether it has cleared the bar (at least 20 pages Kain read, 9 in 10 caught, no more than 1 in 10 good pages failed). A change to a desk's model, card or packet notes restarts its count.
+8. **The weekly numbers:** for each desk, its catch rate and false fail rate against Kain's verdicts at the signature desk, reported apart, its UNSURE count, the count of pieces that reached each stance through a partial connection, and whether it has cleared the bar (at least 20 pages Kain read, 9 in 10 caught, no more than 1 in 10 good pages failed). A change to a desk's model, card or packet notes restarts its count.
 9. **The machine-writing detector** the copy editor's card names: a free one that runs on the Mac, chosen by you, flagging rather than failing until its false alarm rate on Kain's own writing is measured. Say which you chose and why.
+10. **Runs the stance gap scan before commissioning** for every book note, quote page and workbook, puts each nearest stance with its reaching sentence into the commissioning packet, never holds a piece on the scan's result, and counts each week how many pieces reached each stance through a partial connection, for Chat to bring to Kain (Kain's ruling A Missing Stance Never Blocks a Piece, Session 441).
 
 ## How it is proved
 
