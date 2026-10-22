@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON the next theme session, which reads DSRD 8 section 41 at its open (this was a factory session).
+
 For Code (theme session, and every side session that polishes a page): read DSRD 8 section 41's new paragraph "The reach check, and one home for every polish" and work to it from your next sitting; nothing else is asked.
 
 # NOTE: the reach check is ruled (Chat, S441, 22 October 2026)
