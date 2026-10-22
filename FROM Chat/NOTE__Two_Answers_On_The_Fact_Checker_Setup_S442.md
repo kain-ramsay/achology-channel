@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: DONE. The H2 declaration file fix is built with nine acceptance cases red first and live-fired in S181: Archive/DONE__H2_Reads_A_Declaration_File_S181.md. Answer 1 (MedlinePlus) is Chat's and needed nothing from Code.
+
 > CODE DISPOSITION, S179: WAITS ON a Code factory session building the H2 declaration file fix; read by the header search theme session, which does not own it.
 
 **For Code, factory session. What this needs from you:** build the H2 declaration file fix (answer 2) with its acceptance cases red first; nothing else.
