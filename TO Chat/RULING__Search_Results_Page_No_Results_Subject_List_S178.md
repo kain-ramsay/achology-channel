@@ -9,3 +9,7 @@ Shown on the real no-results page (/?s=enneagram) in the player (theme previews/
 So: the Subject List, and its design shown as four rendered options; his pick follows in this file.
 
 *No em or en dashes in this file; checked before writing.*
+
+Design, shown as four rendered options on the Subject List (theme previews/kh-search-subjects-s178): 1 Warm Numbers, 2 Subject Pictures, 3 Slate Rows, 4 Orange Edge. Code recommended 2. Kain: "That looks really scrappy. I actually prefer warm numbers, option number one. However, on the page, you haven't used spacing particularly well here. ... It's like you've just dropped the round circle button icons on top. You haven't designed this well. So yeah, let's go for option number one, warm numbers. And now design this really well."
+
+So the no-results subjects are a Warm Numbers list: warm cream rows, a large pale orange number for each subject, the name with its line beneath, the counts, an orange arrow disc, every gap on the spacing scale. It is the search page's own list (its own markup), so the shared subject card is left untouched for the rest of the family.
