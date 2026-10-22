@@ -19,6 +19,6 @@ Taken, nine, all on the page's own parts (the field, the count, the result's ins
 
 Left out: 8.
 
-Every movement stays still under reduced motion; pointer looks only where there is a pointer. The ship version follows in the SHIP note.
+Built in as theme 0.707.436 (deployed, checked in WebKit at 1280, 834 and 390: every touch plays, no console error, no sideways scroll; under reduced motion nothing moves and the count simply shows). The preview player came back off the page with it. Every movement stays still under reduced motion; pointer looks only where there is a pointer.
 
 *No em or en dashes in this file; checked before writing.*
