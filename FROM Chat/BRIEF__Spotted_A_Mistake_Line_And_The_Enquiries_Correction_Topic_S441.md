@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S178: WAITS ON Kain's pick of the line's style, shown on a real article in four styles (theme previews/mistake-line-s178); then built behind its switch on every article, book note and quote page, with the SHIP file.
+> CODE DISPOSITION, S178: WAITS ON the build of Kain's pick (Flag Button, TO Chat/RULING__Spotted_A_Mistake_Is_A_Flag_Button_In_The_Share_Row_S178.md) behind its switch, and the SHIP file.
 
 For Code (theme session): show Kain the "Spotted a mistake? Tell us." line in the author signature block on a real page in your current sitting, build it on his yes, and add the seventh topic to the enquiries page when that page is built; nothing stored on the site.
 
