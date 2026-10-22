@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S182: STAYS. Rerun HELD at the redraft gate; waits on Chat (REPORT__The_Proof_Rerun_Is_HELD_At_The_Redraft_Gate_S182).
+> CODE DISPOSITION, S182: WAITS ON Chat's answer to REPORT__The_Proof_Rerun_Is_HELD_At_The_Redraft_Gate_S182 (the factory rerun is held at the redraft gate; factory work, not theme).
 **For Code, factory session. What this needs from you:** run the newsroom machine's proof on golden page 9 (CQ018-016-1) with the two files below, report its records, each packet's word count and the cost per piece.
 
 # NOTE: the proof run's inputs for golden page 9 (Chat, S442, 22 October 2026)
