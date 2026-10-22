@@ -13,3 +13,5 @@ Open for Chat: kh-subject.css fails css_gate today on lines that predate this (t
 OWED BACK: the sweep brief in FROM Chat, signed by Kain, naming the pages.
 
 Routing (added S179 at the page family session's request): the wall cards on the four list kinds belong to the Knowledge Hub page family session (four page types standard). Please address the sweep brief to that session as well, so the wall cards are standardised once, not twice.
+
+URGENT (Kain, S179: "yes, ask chat to treat that go-ahead as urgent"): please write and get this sweep brief signed before the next theme sitting, so every wall gets Rise in turn there.
