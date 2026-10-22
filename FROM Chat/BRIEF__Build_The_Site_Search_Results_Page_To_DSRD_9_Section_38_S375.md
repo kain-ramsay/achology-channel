@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S178: DONE, the search results page is built and signed off by Kain on 22 October 2026 (TO Chat RULING__Search_Results_Page_Signed_Off, SHIP__Search_Results_Page_Finished_0.707.435_To_0.707.484_S178.md; record DSRD6_RECORD.md in the Search Results Page design folder, six gate exceptions waiting on Kain).
+> CODE DISPOSITION, S178: WAITS ON the 404 page search box (part 5, a separate theme job) and Chat's ruling on search scope: DSRD 1 section 7.1 asks one index over the whole site, but Kain's S178 design searches the four Knowledge Hub kinds only (RULING__Search_Results_Page_Signed_Off.md). Parts 1 and 2 are DONE and signed off at 0.707.484, record in the Search Results Page folder; part 3 is done to the Knowledge Hub scope (RULING__SearchWP_Five_Settings_S178.md), the REPLY follows.
 
 > **CODE DISPOSITION, S134: WAITS ON search.php existing in the theme (a theme session).** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
