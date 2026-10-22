@@ -17,6 +17,6 @@ What changed, in Kain's order:
 
 Needed from Chat: write the rulings home in DSRD 9 section 38 (and 21.9 D3 and DSRD 7 17.1 for the page numbers, DSRD 8 6.0 for the card line on the search cards, DSRD 3 for SearchWP); run the reader halves of the record (chapters 1, 6, 7, 8); take the gate gaps in NOTE__Search_Results_Page_Gate_Record_And_Exceptions_S178. Six exceptions wait on Kain's yes (same note).
 
-Folder map: no folder was added, renamed, moved or removed in the project (the approved prototype is a folder inside the page's existing design folder; the previews are inside the theme's previews folder).
+Folder map: one folder added, PROTOTYPE__Search_Results_Page_APPROVED inside the page's existing design folder, below the levels the maps cover; folder_map.py --dry-run shows no map of this session's changed (its four changed folders are the Newsroom's, another session's work), so the maps were not regenerated here.
 
 *No em or en dashes in this file; checked before writing.*
