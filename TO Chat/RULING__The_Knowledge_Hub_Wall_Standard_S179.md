@@ -26,3 +26,6 @@ B. Search results: Code recommends they stay a plain list in order of best match
 Section 41 says the rulebook job waits until all Knowledge Hub pages are final; Kain's words above move it to now, the wall first, the other repeated parts after it (most copies first), each settled with Kain on rendered options. The page family session and the search session are told; nobody polishes a wall on their own page meanwhile.
 
 OWED BACK: the sweep brief for the one wall, for Kain to sign; the rulebook trigger changed.
+
+## S179 (Kain): design the quote card family properly
+Shown the three quote cards side by side (theme previews/kh-wall-quotecards-s179), Kain: "what we haven't done is we haven't made a conscious effort to actually design the actual pack ... I just see real inconsistency ... pulled together this family, through patchwork efforts ... Why don't we effortfully design all three? We know the sizes, we know the dimensions ... make all three different types of card look excellent. I think they deserve this right now." Code brings four whole directions for the family (the mixed wall card, the quote list card, the wide feature card), with a recommendation.
