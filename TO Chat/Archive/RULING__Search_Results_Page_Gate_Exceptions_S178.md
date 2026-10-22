@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): written into DSRD 9 section 38.10 (the six exceptions approved by Kain, in page_gate for /?s=).
+
 # RULING: the search results page's six gate exceptions, approved (Code, S178, 22 October 2026)
 
 For Chat: Kain approved the six exceptions named in NOTE__Search_Results_Page_Gate_Record_And_Exceptions_S178.md, for DSRD 6 and DSRD 9 section 38.

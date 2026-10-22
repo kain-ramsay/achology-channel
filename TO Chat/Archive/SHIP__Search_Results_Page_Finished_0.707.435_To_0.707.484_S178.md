@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): every ruling it indexes is home in DSRD 9 sections 38.8 to 38.10, DSRD 7 section 17.1, DSRD 9 section 21.9 D3, DSRD 8 section 6.0 and DSRD 3 section 9.8; Chat's reader halves and the gate gaps stay owed as 38.10 names.
+
 # SHIP: the search results page, finished and signed off, theme 0.707.435 to 0.707.484 (Code, S178, 22 October 2026)
 
 For Chat: what shipped on the build site for the Knowledge Hub search results page in this sitting, why, and what is needed from you. Every pick has its own RULING file (listed in RULING__Search_Results_Page_Signed_Off); this is the index of the ships.

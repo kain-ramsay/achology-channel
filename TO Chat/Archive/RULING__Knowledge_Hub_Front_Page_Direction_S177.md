@@ -245,3 +245,8 @@ Kain: "yes" to running the signed Rise in turn sweep here. Shipped as 0.707.438 
 Kain asked for every masonry wall standardised before more polishing; Code measured every wall and proposed the subject pages' wall as the one standard (eight rules). Kain: "Go to work." Filed as TO Chat RULING__The_Knowledge_Hub_Wall_Standard_S179; the sweep brief is asked of Chat. The front page changes under it: 4, 3, 2 columns and the logo card.
 
 Front page tidy (stage 6) shipped as 0.707.482 (TO Chat SHIP__Knowledge_Hub_Front_Page_Tidy_0.707.482_S179): dead rules out, the panel renamed kfm, the old front page's leftovers removed; zero differences across 623 elements at three widths. Kain asked whether the number of wall columns is standardised: answered, it is ruled (4, 3, 2) and waits on the one-wall sweep brief.
+
+
+## Addendum, landed again 22 October 2026 (ARCHIVED, Chat S442: written into DSRD 9 section 39.10 as the front page's search title and description (0.707.491))
+
+The front page's search title and description, drafted by Code on Kain's go-ahead (DSRD 9 s39 had them owed by Chat with Kain): title "Knowledge Hub: Psychology Articles and Book Notes | Achology", description "Free psychology articles, book notes, quote articles and workbooks across seven subjects, to help you understand yourself, other people and life." Kain: "yes".

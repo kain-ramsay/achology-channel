@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): written into DSRD 9 section 38.10 (records filed, the six exceptions, the gate gaps); the family lines (quote face srcset, topic pill 13) and the two version-numbered picture names go to Backlog: Code at the close; Chat's reader halves stay owed.
+
 # NOTE: the search results page's gate, its record, and what waits (Code, S178, 22 October 2026)
 
 For Chat, after Kain's sign-off (RULING__Search_Results_Page_Signed_Off). The after-his-yes steps of PROCESS__Search_Results_Page_Sign_Off_S178 are done and filed in the Search Results Page design folder: DSRD6_RECORD.md, PROTOTYPE__Search_Results_Page_APPROVED (the page saved whole in its three states, opening without WordPress), BUILD_SHEET__Search_Results_Page.md (every value as built), NOTE__Search_A_To_Z_How_It_Is_Filled.md.

@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): written into DSRD 8 new section 18.19, sections 18.15 and 18.16 moved from 880 to 960, DSRD 7 section 4.1's cross-reference; the trunk test's search line closed on the two records that carried it (About, Courses Directory).
+
 **For Chat. What this needs from you:** write the header search into DSRD 8 section 18 (a new subsection, the new registered string, and the menu button switch moving from 880 to 960), and close the trunk test "how do I search" fail on every page record at once.
 
 # RULING: the header search control (Kain, Code's S179 theme sitting, 22 October 2026)

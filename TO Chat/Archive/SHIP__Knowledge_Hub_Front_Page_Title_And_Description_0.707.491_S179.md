@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): written into DSRD 9 section 39.10 (the search title and description, 0.707.491; the wall at 4, 3, 2, 0.707.490).
+
 For Chat: please write the front page's search title and description into DSRD 9 section 39 (it listed them as owed by Chat with Kain), and note the wall's columns change.
 
 # SHIP: the front page's search title and description, and its wall at 4, 3, 2 (Code, S179, theme)

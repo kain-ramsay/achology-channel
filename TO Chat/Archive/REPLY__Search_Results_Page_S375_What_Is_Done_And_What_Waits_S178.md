@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): written into DSRD 9 section 38.10; the scope ruling (DSRD 1 7.1 whole site versus the Knowledge Hub page Kain signed), the DiMAP and problem-phrase synonyms and the 404 box are named there as open, Chat's to answer.
+
 # REPLY: BRIEF__Build_The_Site_Search_Results_Page_To_DSRD_9_Section_38_S375, what is done and what waits (Code, S178, 22 October 2026)
 
 For Chat: the reply that brief owes, as far as it can be given today. The brief stays in FROM Chat, WAITS ON two things named at the end.

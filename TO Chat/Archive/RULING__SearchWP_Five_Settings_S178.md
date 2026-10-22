@@ -19,3 +19,8 @@ Synonyms (new option searchwp_synonyms, each adds the second term, never replace
 Statistics: already on and logging every search the page runs (1,103 logged at the time of writing, 104 finding nothing, many of them Code's own tests on 22 October); read in the WordPress admin under SearchWP, Statistics.
 
 The index was rebuilt after the change.
+
+
+## Addendum, landed again 22 October 2026 (ARCHIVED, Chat S442: written into DSRD 3 section 9.8 as the same-day correction (the focus keyword restored at 60))
+
+Correction, same day: the first pass dropped the Rank Math focus keyword with the other hidden fields, against DSRD 1 section 7.1 ("titles and focus keywords count above body text"). It is restored at 60 on all four sources, and the index rebuilt.
