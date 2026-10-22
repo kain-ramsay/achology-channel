@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): read; the ASK it names is answered (NOTE__Answers_To_The_Newsroom_Machine_Gaps_S442); the brief stays in FROM Chat until the proof run on golden page 9, whose inputs Chat writes at Session 443's open.
+
 Needs from Chat: read where the machine lives and how to run one piece, open the packets before the proof run, and answer the ASK that names what the proof waits on (`ASK__The_Newsroom_Machine_Gaps_In_The_Cards_S181.md`).
 
 # DONE: the newsroom machine is built, tested at no cost, and backed up; its proof run on golden page 9 waits on two inputs (Code S181, factory, iMac Pro, 22 October 2026)

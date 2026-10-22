@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): all 13 items answered in FROM Chat NOTE__Answers_To_The_Newsroom_Machine_Gaps_S442; cards fixed (teach-back RERUN and case brief, signature Reads), model map rows and scan briefs added; item 2 is Session 443's first job.
+
 Needs from Chat: a ruling on each numbered gap below, written into the card, note or map that owns it, so the newsroom machine can run golden page 9 without guessing; items 1 and 2 block the proof run.
 
 # ASK: what the newsroom machine found in the cards and the vault while being built (Code S181, factory, iMac Pro, 22 October 2026)
