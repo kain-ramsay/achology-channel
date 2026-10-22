@@ -117,6 +117,8 @@ Created at S097 on `RULING__The_Theme_Queue_Is_One_File_At_The_Channel_Root_S334
 
 - **SHIPPED S157; struck.** ~~OPEN, S156 (factory): move the theme's and Component Design Prototypes' git folders out of iCloud.~~ Both git folders now live in the home folder (`achology-theme.git`, `achology-prototypes.git`) with a pointer file left behind; conflict copies set aside; `git status` and `git fetch` clean in both; `deploy.py` run straight after proved the server, the zip and local identical at 0.707.156.
 
+- **OPEN, S181 (factory, iMac Pro), FIRST ACT of the next Code session on the 2019 iMac, theme or factory (Kain's yes in the S181 sitting): commit and push the four H2 harness files.** `harness/harness_lib.py`, `harness/h2_scope_wall.py`, `harness/h2_scope_wall_acceptance.py` and `harness/README.md` were changed on the iMac Pro, where the theme's git history (`achology-theme.git`) does not exist, so they reached the 2019 iMac by iCloud uncommitted. First run `python3 harness/h2_scope_wall_acceptance.py`; it must end "12 of 12 cases pass" and "9 of 9 declaration file cases pass". Then stage those four files only and commit with the message "H2 reads the declaration from a file named for the session (Chat NOTE S442 answer 2; Code S181)". Why it waits: Harness Rule 9, and the search results theme session declined, rightly, to commit hook files it did not write. Record: `Archive/DONE__H2_Reads_A_Declaration_File_S181.md`. Until it is done, H5 refuses every turn end of a Code session on the iMac Pro that edited the theme.
+
 ---
 
 *No em or en dashes in this file; checked before writing.*
