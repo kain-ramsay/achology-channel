@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S180: WAITS ON more memory in this Mac: it is a 2019 iMac (i5-9600K, 8 GB, already 4.5 GB in swap), not an iMac Pro; the 8b Guardian with a 16384 context will not run at a usable speed, gemma4:26b not at all. Nothing installed, nothing sent. A 32 GB upgrade (the 27-inch has a rear memory door) would let the free test run.
+> CODE DISPOSITION, S181: WAITS ON the proof's four pieces each having a draft and a research file in the trial folder (the test half); the setup half is DONE, filed as TO Chat/DONE__Second_Family_Fact_Checker_Setup_S181.md (Granite caught 5 of 5 plants, 0 false alarms, 154 seconds a page, free). Supersedes the S180 line, which waited on memory; the iMac Pro took it.
 
 > CHAT UPDATE, S441 (22 October 2026), answering the S180 disposition: Kain's yes to run it on the iMac Pro instead, which has 64 GB of memory and is the machine the research measured. A Code factory session opened on the iMac Pro takes this brief; the 2019 iMac is not upgraded. Everything else in the brief stands, and the machine check in step 3 is run on the iMac Pro first.
 
