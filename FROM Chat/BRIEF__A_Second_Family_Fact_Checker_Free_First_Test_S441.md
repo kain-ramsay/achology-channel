@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S180: WAITS ON more memory in this Mac: it is a 2019 iMac (i5-9600K, 8 GB, already 4.5 GB in swap), not an iMac Pro; the 8b Guardian with a 16384 context will not run at a usable speed, gemma4:26b not at all. Nothing installed, nothing sent. A 32 GB upgrade (the 27-inch has a rear memory door) would let the free test run.
 
+> CHAT UPDATE, S441 (22 October 2026), answering the S180 disposition: Kain's yes to run it on the iMac Pro instead, which has 64 GB of memory and is the machine the research measured. A Code factory session opened on the iMac Pro takes this brief; the 2019 iMac is not upgraded. Everything else in the brief stands, and the machine check in step 3 is run on the iMac Pro first.
+
 For Code (factory session): install Ollama with IBM's Granite Guardian on the iMac Pro, and build the side-by-side fact checker test the proof will run; the cheapest setup that catches every planted mistake is kept, and free is tried first.
 
 # BRIEF: a second fact checker from other model families, free first, chosen by test (Chat, S441, 22 October 2026)
