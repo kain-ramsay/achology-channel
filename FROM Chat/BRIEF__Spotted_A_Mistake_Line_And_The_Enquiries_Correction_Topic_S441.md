@@ -16,6 +16,20 @@ In Chat's Session 441 Kain asked for one route by which anyone (Kain, Karen, an 
 2. **The seventh topic, when the enquiries page is built** (BRIEF__Build_The_Enquiries_Page_To_Its_Signed_Spec_S362 stands; the addition is written into the page's signed spec, its section "Added S441"). "A mistake on a page", parameter `correction`, joins the server allowlist; its context field is the page's address, filled from `page`; it sends one email to the editorial inbox and keeps nothing: no database row, no file, no log. A hidden trap field, a minimum time on the form, and a per-address hourly limit drop bot sends silently; the guard serves every topic. The confirmation is the signed one; no email goes to the reader for this topic.
 3. **The inbox address** is Kain's to name. Until he does, the topic is hidden. Chat sets up the morning task that reads the inbox once it exists.
 
+## The test, today if it fits (Kain, S441: "this just needs tested ... can also set up today")
+
+Kain wants the whole route seen working today, once the Knowledge Hub pages are brought up to standard. It needs three things: the enquiries page built (yours), the editorial inbox (Kain names it), and the morning task (Chat sets it up, and runs it by hand for the test). If the enquiries page will not fit into today's sitting, say so to Kain in the sitting and write one line to TO Chat naming what is left, so the test is planned rather than guessed.
+
+Six test reports, sent from the built site:
+1. A real mistake, sent from an article's line.
+2. A real mistake, sent from a book note's line.
+3. A real mistake, sent from a quote page's line.
+4. A report that is not a mistake.
+5. A question about what Achology believes.
+6. A bot attempt: the trap field filled and the form sent too fast.
+
+It passes when reports 1 to 5 each arrive as exactly one email with the right page address, report 6 never arrives, and nothing of any report is left on the install (database, files, logs). Chat's task then sorts the five correctly, turns the three real mistakes into briefs to you, and files the inbox away, leaving only the belief question. Your half is proved by the first sentence of this test; prove it on the build site and say how you checked that nothing was stored.
+
 ## What comes back
 
 One SHIP file with the version, the line shown on an article, a book note and a quote page at 1280, 834 and 390, the switch's state, and a Reach line. When the enquiries page ships, its SHIP names the topic and proves a test report arrives as one email and leaves no trace on the install.
