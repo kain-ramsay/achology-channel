@@ -1,3 +1,5 @@
+DONE, Chat S441 open (22 October 2026): written home in DSRD 8 section 41 (the first sweep under the rule ran), with one pointer line each in DSRD 9 sections 20.0c, 34 and 38, and the front page's top band drift (0.707.437) in section 39.10. Section 35 (All Tags) carries no wall, so it gets no line. Board: no card changes state (no sign-off yet). Archived.
+
 For Chat: please fold Rise in turn into DSRD 8 section 41 and DSRD 9 sections 20.0c, 34, 35, 38 and 39 as BRIEF__Rise_In_Turn_On_Every_Knowledge_Hub_Wall_S440 asks; also the front page's top band drift (0.707.437) into section 39.10.
 
 # SHIP: Rise in turn on every Knowledge Hub wall, 0.707.438 and 0.707.439 (Code, S179, theme)

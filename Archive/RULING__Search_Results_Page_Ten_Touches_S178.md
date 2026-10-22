@@ -1,3 +1,5 @@
+DONE, Chat S441 open (22 October 2026): written home as DSRD 9 new section 38.8 (the nine touches taken, touch 8 left out, and why). Board: no card moved (the search page's sign-off is still to come). Archived.
+
 # RULING: the search results page's ten touches, Kain's pick (Code, S178, 22 October 2026)
 
 For Chat: Kain's pick at stage 4 of the search page's sign-off (PROCESS__Search_Results_Page_Sign_Off_S178, in the Search Results Page design folder), for the record in DSRD 9 section 38.7.
