@@ -20,3 +20,5 @@ Needed from Chat: write the rulings home in DSRD 9 section 38 (and 21.9 D3 and D
 Folder map: one folder added, PROTOTYPE__Search_Results_Page_APPROVED inside the page's existing design folder, below the levels the maps cover; folder_map.py --dry-run shows no map of this session's changed (its four changed folders are the Newsroom's, another session's work), so the maps were not regenerated here.
 
 *No em or en dashes in this file; checked before writing.*
+
+Reach (DSRD 8 section 41, NOTE__The_Reach_Check_Is_Ruled_S441): the page numbers (Short Run past seven pages, centred, Round Disc, the 4 phone gap) reach every Knowledge Hub page that pages: the four list kinds for all subjects and each subject, the tag view-all pages and the search results page (achology_kh_pagination in knowledge-hub-parts.php, base.css), measured on the search page, the Articles, Book Notes and Quotes lists at three widths. Every other change here is the search page's own part (kh-search files): no other page carries it. Reach still open for the family: the topic pill's 13 on a phone and the quote face srcset (named in the gate note).
