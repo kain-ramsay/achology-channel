@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the no-results page's subjects are a Subject List, with design to come (Code, S178, 22 October 2026)
 
 For Chat: Kain's pick for the search results page's no-results page (DSRD 9 section 38.5 and 38.7).

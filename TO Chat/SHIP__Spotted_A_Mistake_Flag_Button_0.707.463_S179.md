@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 **What this needs from you:** fold the Flag Button into DSRD 8 section 41 (the share marks in the author signature block) with RULING__Spotted_A_Mistake_Is_A_Flag_Button_In_The_Share_Row_S178, and note the switch for the enquiries page's ship. Theme session (kh-page-family).
 
 # SHIP: "Spotted a mistake? Tell us.", the Flag Button, 0.707.463 (S179)

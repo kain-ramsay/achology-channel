@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the search results page's A to Z is Whole Letters (Code, S178, 22 October 2026)
 
 For Chat: Kain's pick for the A to Z on the search results page, for the record in DSRD 9 section 38.7.

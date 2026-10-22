@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 **What this needs from you:** write the family standard below into DSRD 9 as one section governing the article, book note, quote page and workbook page together (beside 22.15 to 22.15c and 37.6 to 37.8), and bank Kain's two forward notes (section 4). Theme session (kh-page-family).
 
 # RULING: the four Knowledge Hub single pages are one family, the standard part by part (theme session kh-page-family, S179)

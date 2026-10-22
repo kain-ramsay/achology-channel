@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the search band's clear cross and count line (Code, S178, 22 October 2026)
 
 For Chat: Kain's picks for the two parts of the search results page's band that are the page's own (the field and the count line; the band, eyebrow, title, kinds bar and sort are the family's and were left alone), for DSRD 9 section 38.4 blocks 3 and 4 and 38.7.

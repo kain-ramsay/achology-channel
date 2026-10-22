@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 
 Later the same sitting, Kain replaced touch 2: the search words are coloured Achology orange with no highlighter (RULING__Search_Results_Page_Why_It_Matched_S178).
 

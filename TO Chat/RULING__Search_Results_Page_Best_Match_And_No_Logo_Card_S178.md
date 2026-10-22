@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the search results page's Best Match tag; no Know Your Psychology logo; even numbers (Code, S178, 22 October 2026)
 
 For Chat: three rulings by Kain on the search results page, for DSRD 9 section 38.4 and 38.7.

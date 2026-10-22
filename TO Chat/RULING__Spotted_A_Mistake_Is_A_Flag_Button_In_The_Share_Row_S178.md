@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 **What this needs from you:** write Kain's choice into DSRD 8 section 41 (the share marks in the author signature block) and the BRIEF's owning record. Theme session.
 
 # RULING: "Spotted a mistake?" is a flag button in the share row (Kain, S178, 22 October 2026)

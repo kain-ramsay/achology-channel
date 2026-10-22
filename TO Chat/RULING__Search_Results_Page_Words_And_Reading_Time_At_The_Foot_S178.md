@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: each search result carries the card rule's line at its foot (Code, S178, 22 October 2026)
 
 For Chat: Kain's pick for the search results page's result row (the page's own part), for DSRD 9 section 38.4 and 38.7, and DSRD 8 section 6.0 (the card rule now reaches the search results page's mini cards).

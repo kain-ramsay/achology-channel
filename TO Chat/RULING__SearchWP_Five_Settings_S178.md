@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: SearchWP, five settings changed (Code, S178, 22 October 2026)
 
 For Chat: Kain's yes in the sitting to Code's five SearchWP recommendations (NOTE__Search_Results_Page_SearchWP_Setup_And_The_Font_And_Spacing_Scan_S178), for DSRD 9 section 38 and DSRD 3. Asked "Shall I make the five SearchWP changes, then come back to you for the sign-off?", Kain: "yes, please do".

@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the search results page shows why each result matched; the search word in orange (Code, S178, 22 October 2026)
 
 For Chat: two picks by Kain on the search results page's result row (the page's own part), for DSRD 9 section 38.4 block 7 and 38.7.

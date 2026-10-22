@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the no-results block is Popular Searches; no hairline under Browse by Subject (Code, S178, 22 October 2026)
 
 For Chat: two rulings by Kain on the search results page's no-results page, for DSRD 9 section 38.5 and 38.7. The block's words below were proposed by Code at Kain's own ask in the sitting ("could I ask you to really think through what the best copy, the most efficient and concise copy could be ... and also the A to Z these kind of essentially tags, what is worldwide best practices for this?"), so this file carries them for Chat to write home.

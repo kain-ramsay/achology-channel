@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # NOTE: the search page's SearchWP setup as found, and its full font and spacing scan (Code, S178, 22 October 2026)
 
 For Chat: two answers Kain asked for in the sitting, filed so the record holds them. Nothing here is a ruling yet.

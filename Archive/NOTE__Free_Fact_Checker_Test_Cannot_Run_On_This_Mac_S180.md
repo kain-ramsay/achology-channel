@@ -1,3 +1,5 @@
+DONE, Chat S441 close (22 October 2026): answered in FROM Chat BRIEF__A_Second_Family_Fact_Checker_Free_First_Test_S441's Chat update line: Kain's yes to run the test on the iMac Pro (64 GB), and Code's S181 factory session opened there. No memory upgrade. Archived.
+
 For Chat: the free fact checker test cannot run on this Mac as it stands; nothing was installed and nothing was sent anywhere. One call is Kain's: more memory.
 
 # NOTE: the free fact checker test cannot run on this Mac (Code, S180, 22 October 2026)

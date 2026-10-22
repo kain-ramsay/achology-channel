@@ -1,3 +1,5 @@
+STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
+
 # RULING: the Knowledge Hub page numbers, Short Run on a long run, always centred (Code, S178, 22 October 2026)
 
 For Chat: two rulings by Kain for the whole Knowledge Hub family (every list kind, the subject and topic pages, the search results page), for DSRD 7 section 17.1, DSRD 9 section 21.9 D3 and section 38.7.
