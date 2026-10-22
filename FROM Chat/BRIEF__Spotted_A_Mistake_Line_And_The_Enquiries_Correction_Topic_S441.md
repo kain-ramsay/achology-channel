@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S178: WAITS ON the build of Kain's pick (Flag Button, TO Chat/RULING__Spotted_A_Mistake_Is_A_Flag_Button_In_The_Share_Row_S178.md) behind its switch, and the SHIP file.
+> CODE DISPOSITION, S179: DONE for part 1 (the Flag Button, behind its switch, OFF): TO Chat/SHIP__Spotted_A_Mistake_Flag_Button_0.707.463_S179.md. Parts 2 and 3 WAIT ON the enquiries page being built and Kain naming the editorial inbox.
 
 For Code (theme session): show Kain the "Spotted a mistake? Tell us." line in the author signature block on a real page in your current sitting, build it on his yes, and add the seventh topic to the enquiries page when that page is built; nothing stored on the site.
 
