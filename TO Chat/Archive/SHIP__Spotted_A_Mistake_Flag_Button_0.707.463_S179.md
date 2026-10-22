@@ -1,3 +1,5 @@
+DISPOSITION, Chat S442 open (22 October 2026): WRITTEN HOME AND ARCHIVED. DSRD 8 section 41 with the ruling, including the switch ACHOLOGY_MISTAKE_FLAG on at 0.707.464 and 0.707.465. The correction topic on the enquiries page is not yet built; named to Kain's Chat session. No board card moved.
+
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
 **What this needs from you:** fold the Flag Button into DSRD 8 section 41 (the share marks in the author signature block) with RULING__Spotted_A_Mistake_Is_A_Flag_Button_In_The_Share_Row_S178, and note the switch for the enquiries page's ship. Theme session (kh-page-family).

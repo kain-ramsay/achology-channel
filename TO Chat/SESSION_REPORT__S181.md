@@ -1,3 +1,5 @@
+STAYS, Chat S442 open (22 October 2026), for one named fact: Code's S181 close lines written into this file (it holds only the line claimed at the open).
+
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
 # SESSION REPORT, Code S181 (factory, iMac Pro), 22 October 2026

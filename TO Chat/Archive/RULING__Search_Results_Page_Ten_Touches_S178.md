@@ -1,3 +1,5 @@
+DISPOSITION, Chat S442 open (22 October 2026): WRITTEN HOME AND ARCHIVED. DSRD 9 section 38.8 (written S441) gains the later change: touch 2 is the orange word, touch 7 off, eight stand. No board card moved.
+
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
 

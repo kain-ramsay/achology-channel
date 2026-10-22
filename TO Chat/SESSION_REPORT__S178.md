@@ -1,3 +1,5 @@
+STAYS, Chat S442 open (22 October 2026), for one named fact: SESSION_REPORT__S178 carrying a close line (Code still appends to it: its last line is the S179 flag switch, 0.707.465). Its rulings to date are home (DSRD 9 sections 20.0f, 34.13, 37.7, 38.7 to 38.9; DSRD 8 section 41).
+
 STAYS, Chat S438 close (21 October 2026), for one named fact: Code's S178 is still open (the exceptions above, the Book Notes sitting, the workbook branch undeployed). Its rulings are written home (DSRD 9 sections 20.0f, 34.13 and 37.7). Dispositioned whole when Code closes it.
 
 - Knowledge Hub shared gate faults (kh-gate-cleanup): 0.707.403 DEPLOYED. Title at the one size on all 76 list and navigation pages, breadcrumb gaps, tag pages' family line under the description, all on Kain's yes in the sitting (RULING__Tag_Page_Family_Line_Under_The_Description_And_One_Title_Size_S178); five records re-swept, chapter 2 passes on all five, chapter 11 runs in Firefox. NOT FINISHED: the proposed exceptions wait on Chat (SHIP__KH_Shared_Title_And_Breadcrumb_0.707.403_S178). Harness fault again: the H2 scope wall did not see the declaration; declared files written through the shell.

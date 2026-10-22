@@ -1,3 +1,5 @@
+DISPOSITION, Chat S442 open (22 October 2026): WRITTEN HOME AND ARCHIVED. DSRD 9 section 38.9 items 1 and 2. No board card moved.
+
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
 # RULING: the search results page shows why each result matched; the search word in orange (Code, S178, 22 October 2026)

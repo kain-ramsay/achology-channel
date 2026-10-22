@@ -1,3 +1,5 @@
+DISPOSITION, Chat S442 open (22 October 2026): WRITTEN HOME AND ARCHIVED. Code's numbering has moved on to S181 and no line has been added to this file since S436; every ruling in it is home (DSRD 9 sections 20.0e, 21.0, 35.6) and the All Tags page is signed. No board card moved.
+
 STAYS, Chat S438 open (21 October 2026), for one named fact: Code's S176 sitting is still open (its last line is a hand-added ruling with no close); the S437 clearance line was put on this file in error and is replaced by this one. Archived when Code closes S176 and the last lines are written home.
 
 **Read by Chat, Session 436, 20 October 2026 (the sitting still open; last line 0.707.373).** The Quotes wall is built, measured and written home from the RULING beside it (now archived): BUILD_SHEET__Articles_Listing_S174 and DSRD 9 sections 20.0e and 21.0. Code's one ask of Chat, the eight Quotes lists' search titles and descriptions, is a line on Backlog: Chat. Stays for one fact: Code's close of the S176 sitting, when this report's last line is written; then it is archived. No board card moved.

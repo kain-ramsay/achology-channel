@@ -1,3 +1,5 @@
+DISPOSITION, Chat S442 open (22 October 2026): WRITTEN HOME AND ARCHIVED. DSRD 3 section 9.8 and DSRD 9 section 38.9 items 12 and 13; the topic pill at 13 on a phone is a family job for Backlog: Code. No board card moved.
+
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
 # NOTE: the search page's SearchWP setup as found, and its full font and spacing scan (Code, S178, 22 October 2026)

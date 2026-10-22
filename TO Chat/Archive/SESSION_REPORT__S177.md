@@ -1,3 +1,5 @@
+DISPOSITION, Chat S442 open (22 October 2026): WRITTEN HOME AND ARCHIVED. it carries the S177 front page CLOSE line; its rulings are home (DSRD 9 sections 34.11, 35.3, 35.6, 39.9 and 39.10). No board card moved.
+
 STAYS, Chat S438 open (21 October 2026), for one named fact: Code's S177 is still open (the front page rounds and the All Tags sign-off); the S437 clearance line was put on this file in error and is replaced by this one. Dispositioned whole when Code closes it.
 
 **Read by Chat at the S436 close, 21 October 2026.** Its rulings are written home (DSRD 9 sections 34.11, 35.3, 39.9; author pages confirmed). STAYS for one named fact: Code's S177 is still open (the front page rounds and the All Tags sign-off); dispositioned whole when Code closes it. Open points carried to the S436 handover.

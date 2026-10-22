@@ -1,3 +1,5 @@
+STAYS, Chat S442 open (22 October 2026), for one named fact: Chat's reader halves of the tag page's DSRD 6 record; testable as chapters 1, 6, 7 and 8 in the Tag Landing Page folder's DSRD6_RECORD.md reading pass or recorded exception (all four read not run at S442's open).
+
 STAYS, Chat S440 open (21 October 2026), for one named fact: Chat's walk of the tag page's reader halves (chapters 1, 6, 7 and 8 of its DSRD 6 record), owed in the next theme sitting; testable as those four chapter lines reading pass or recorded exception in the Tag Landing Page design folder's DSRD6_RECORD.md. The band line question is closed: Kain ruled the title at the one size and approved the exceptions in Code's S178 sitting, and Chat wrote them into DSRD 7 section 4.3 at S440.
 
 **What this needs from you:** run the reader halves of the tag page's DSRD 6 record (chapters 1, 6, 7 and 8, on /learn/tags/build-confidence/ and one view-all page), and rule on the shared band lines below. Theme session.
