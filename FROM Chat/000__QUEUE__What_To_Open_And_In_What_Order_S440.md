@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S178: WAITS ON the next theme and factory sessions opening it; read by the search session, whose only item in it is the Rise in turn sweep naming the search page.
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat from the folder as it stands on Wednesday 22 October 2026 in the Fable session S440. Every file in this folder carries your own head line; the ones below are the ones your head lines say still wait on something. Where this list and the folder differ, the folder wins and you say so in your opening line.**
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S440)
