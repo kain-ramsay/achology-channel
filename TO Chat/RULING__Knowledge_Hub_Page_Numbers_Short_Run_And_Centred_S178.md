@@ -8,6 +8,6 @@ Why it came up: walking the search results page before sign-off, Code found that
 
 2. Always centred. Kain, same turn: "on some pages is left aligned and others is center aligned, so we might as well just make this center aligned as a matter of rule across all page types throughout the entire knowledge hub." The search results page's left alignment goes; every Knowledge Hub page number row is centred.
 
-Also raised by Kain in the same turn, not yet ruled: the Achology speech bubble behind the current page in place of the orange square ("If that's too much work ... that's fine"). Code shows it rendered; his pick follows in this file.
+Also raised by Kain in the same turn: the Achology speech bubble behind the current page in place of the orange square. Shown on the two pages in the player against Before (the orange square): 1 Solid Bubble, 2 Outline Bubble, 3 Faint Mark (the real logo, pale), 4 Round Disc (an orange circle, no tail). Code recommended 1; Kain picked 4: "I think we'll actually just go for option 4, the round disk, an orange circle, no tail. I think that's neat enough." The current page is an orange circle on every Knowledge Hub page number row.
 
 *No em or en dashes in this file; checked before writing.*
