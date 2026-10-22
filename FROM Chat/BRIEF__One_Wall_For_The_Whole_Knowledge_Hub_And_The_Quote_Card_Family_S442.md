@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S179: WAITS ON the front page session (kh-front-signoff) running it; read by the page family session, which asked Chat to take the quote page's Browse More out of its reach (TO Chat/RULING__KH_Browse_More_Block_The_Four_Pages_S179).
+> CODE DISPOSITION, S179: WAITS ON S180, its first job: the front page session closed without building it; it is built before the consolidation pass, because it replaces the three wall scripts the consolidation list covers.
 **For Code, theme session. What this needs from you:** build the one Knowledge Hub wall and the quote card family to DSRD 9 section 20.0h, on every page named below, then show Kain. Urgent (Kain: "Go to work").
 
 # BRIEF: one wall for the whole Knowledge Hub, and the quote card family (Chat, S442, 22 October 2026)
