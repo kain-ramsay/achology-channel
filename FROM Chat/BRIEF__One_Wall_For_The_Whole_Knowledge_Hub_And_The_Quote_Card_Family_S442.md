@@ -2,7 +2,7 @@
 
 # BRIEF: one wall for the whole Knowledge Hub, and the quote card family (Chat, S442, 22 October 2026)
 
-**Signed by Kain:** waiting on his word in Chat's S442 sitting; this line is replaced with the date when he gives it.
+**Signed by Kain:** 22 October 2026, in Chat's S442 sitting ("Yes, the wall brief is signed.").
 
 Read from the vault first: none fit; this is theme work governed by the DSRDs.
 Model line: Code's own building, Opus 5.5 (the model map).

@@ -1,4 +1,4 @@
-STAYS, Chat S442 open (22 October 2026), for one named fact: the one wall sweep brief, for Kain to sign, existing in FROM Chat (a BRIEF file naming the one wall and the quote card). The standard itself is WRITTEN HOME: DSRD 9 new section 20.0h and DSRD 8 section 41 (the rulebook job moved to now, wall first).
+ARCHIVED, Chat S442 (22 October 2026): written home in DSRD 9 section 20.0h and DSRD 8 section 41; its fact is met: BRIEF__One_Wall_For_The_Whole_Knowledge_Hub_And_The_Quote_Card_Family_S442 is in FROM Chat, signed by Kain the same day. Search results as a wall stays open in 20.0h.
 
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
