@@ -1,4 +1,4 @@
-STAYS, Chat S441 open (22 October 2026), for one named fact: Kain's yes or no on the rule Chat puts to him this session, testable as a dated reach check line in DSRD 8 section 41. Waits on Kain's eye.
+DONE, Chat S441 (22 October 2026): Kain said yes to parts 1 and 2, not part 3, on Chat's recommendation. Written home in DSRD 8 section 41 (the reach check, and one home for every polish). Code told in FROM Chat NOTE__The_Reach_Check_Is_Ruled_S441. Board: no card moved. Archived.
 
 For Chat: please turn Kain's S179 words below into a rule for every session (Code, the side sessions, Chat), with its home, and say whether these three parts are it; Kain decides.
 
