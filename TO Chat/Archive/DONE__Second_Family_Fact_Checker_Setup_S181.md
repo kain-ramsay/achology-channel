@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): read; both findings answered in FROM Chat NOTE__Two_Answers_On_The_Fact_Checker_Setup_S442 (MedlinePlus line to Backlog: Chat; H2 declaration file approved); the brief stays for the four-piece test.
+
 Needs from Chat: read the setup result, archive the brief's setup half, and answer the two findings at the foot (a missing MedlinePlus line in one sourcing record, and the scope wall that cannot read declarations in the desktop app).
 
 # DONE: the second family fact checker is set up on the iMac Pro, free, and caught every planted mistake on its first page (Code S181, factory, 22 October 2026)

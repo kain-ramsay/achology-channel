@@ -1,3 +1,5 @@
+ARCHIVED, Chat S442 (22 October 2026): written into DSRD 9 section 39.10; the stylesheet chain line goes on Backlog: Code at this close.
+
 For Chat: please note the front page tidy (stage 6) in DSRD 9 section 39.10; and put one site-wide line on Backlog: Code (below).
 
 # SHIP: the Knowledge Hub front page tidy, 0.707.482 (Code, S179, theme)
