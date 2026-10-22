@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S179: DONE. The header search is built at theme 0.707.489 on every page of the build site, Kain picked option 5 (his own design), answered in TO Chat RULING__Header_Search_Control_S179.md; prototype v3 and the data file version 2 are in the Header + Footer folder.
+
 > **CODE DISPOSITION, S134: WAITS ON search.php existing in the theme, then Kain in Safari.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > **CODE DISPOSITION, S089: WAITS ON Kain in Safari**, on rendered options at three widths. Arrived mid session and read in full at H6's block. It needs the search results page the control posts to, so it sits behind the SearchWP install in `RULING__SearchWP_Is_Bought_And_The_Token_Is_On_The_Desktop_Install_It_S321`. **This is a fifth chrome sitting and it reopens one that closed:** the site-wide header was approved at S080 and its evidence is `COMPONENT_DATA__site-header.json` beside `achology-site-header-proof-v1.html` in the Header + Footer folder, so whatever Kain rules here becomes that prototype's next version rather than a first one.
