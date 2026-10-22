@@ -10,6 +10,10 @@ Model line: Code's own factory session on Opus 5.5 at xhigh, building the machin
 
 Kain, Session 441: "I'm also a great believer in not putting off until tomorrow what we could otherwise do today ... is this something that we can just commission right now?" The cards are the instructions; this is the machine that carries them out. Nothing in the Machine folder does it yet (Chat searched it today).
 
+## Where it runs
+
+On the iMac Pro (64 GB), beside Ollama and the free fact checker, so the machine calls the local checker directly (Kain's yes, Session 441, after Code found the 2019 iMac has 8 GB). The desks themselves call the Anthropic API, so this costs nothing extra in power.
+
 ## What the machine does
 
 1. **Assembles each packet** from the desk's reading list (the desk note's Reads and the map's row for the kind), with the piece's own files the card names. It refuses a packet that names a missing or unapproved note, stamps the packet's head with the date, the Content Standard's version, the model and the card's version, and counts its words. The tool `reading_list_counts.py` in the Working Papers' tools folder and `reading_lists.json` beside the step 8 drafts already resolve the lists; build on them.
