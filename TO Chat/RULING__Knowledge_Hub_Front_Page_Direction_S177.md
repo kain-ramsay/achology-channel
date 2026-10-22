@@ -1,0 +1,1 @@
+The front page's search title and description, drafted by Code on Kain's go-ahead (DSRD 9 s39 had them owed by Chat with Kain): title "Knowledge Hub: Psychology Articles and Book Notes | Achology", description "Free psychology articles, book notes, quote articles and workbooks across seven subjects, to help you understand yourself, other people and life." Kain: "yes".
