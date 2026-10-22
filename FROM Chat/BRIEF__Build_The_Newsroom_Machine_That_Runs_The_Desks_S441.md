@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON the iMac Pro factory session (S181), which runs it after the fact checker setup; the brief places the machine on the iMac Pro.
+
 For Code (factory session, after the second fact checker setup): build the newsroom machine that runs the 23 approved desk cards in order, assembles each desk's packet from the map, reads each verdict word, runs the redraft gate, and keeps the weekly numbers; and add the free machine-writing detector the copy editor's card expects.
 
 # BRIEF: build the newsroom machine that runs the desks (Chat, S441, 22 October 2026)
