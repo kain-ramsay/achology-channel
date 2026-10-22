@@ -1,3 +1,5 @@
+STAYS, Chat S442 close (22 October 2026): arrived during the S442 close; carried for room, named in the S442 handover as Session 443 work.
+
 For Chat: please take Kain's words below as the start of moving project and task management off the Notion board onto the Achology Build Board in Claude, and say how the board's cards move across and how Chat keeps it current; Kain decides the switch.
 
 # RULING: one build board in Claude, to replace the Notion board (Kain, S179, theme session, 22 October 2026)
