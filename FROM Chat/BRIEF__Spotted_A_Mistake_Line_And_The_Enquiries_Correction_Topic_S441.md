@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S178: WAITS ON Kain's pick of the line's style, shown on a real article in four styles (theme previews/mistake-line-s178); then built behind its switch on every article, book note and quote page, with the SHIP file.
+
 For Code (theme session): show Kain the "Spotted a mistake? Tell us." line in the author signature block on a real page in your current sitting, build it on his yes, and add the seventh topic to the enquiries page when that page is built; nothing stored on the site.
 
 # BRIEF: the "Spotted a mistake?" line and the enquiries page's correction topic (Chat, S441, 22 October 2026)
