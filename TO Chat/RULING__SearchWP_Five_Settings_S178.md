@@ -5,3 +5,13 @@ For Chat: Kain's yes in the sitting to Code's five SearchWP recommendations (NOT
 The five: 1 the topic tags and subjects searched; 2 the weights rebalanced so the article's own words count; 3 only the custom fields that carry reader words searched; 4 search statistics on; 5 synonyms added. What was set, and the before values, follow in this file as they are made.
 
 *No em or en dashes in this file; checked before writing.*
+
+## What was set (Code, S178, read back from the build site after writing)
+
+Default engine, all four sources (article, book_note, quote, workbook). Before: title 300, slug 300, author 300, content 1, excerpt 1, every custom field 1, no taxonomy. After: title 80, slug 60, excerpt 40, content 5 (SearchWP's own suggested balance); the WordPress author dropped (every piece shares one); taxonomy kh_tag 50, kh_category 20; custom fields only quote_author 40, quote_text 20, source_book_author 40, source_book_title 40, subject_name 40, whats_inside 10. The Help engine is unchanged. A copy of the old engine settings is kept on the server as engines_before.json in the account's home folder.
+
+Synonyms (new option searchwp_synonyms, each adds the second term, never replaces the first): cbt and cognitive behavioural therapy; nlp and neuro-linguistic programming; eq and emotional intelligence; self worth and self esteem with self-esteem; the American spellings behavior, behavioral, counseling, counselor with the British.
+
+Statistics: already on and logging every search the page runs (1,103 logged at the time of writing, 104 finding nothing, many of them Code's own tests on 22 October); read in the WordPress admin under SearchWP, Statistics.
+
+The index was rebuilt after the change.
