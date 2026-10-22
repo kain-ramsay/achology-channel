@@ -1,4 +1,4 @@
-For Code (theme session), and for the Knowledge Hub page family session (four page types standard) in the same words so the wall cards are standardised once: a sweep brief on Kain's S179 ruling that a card touch belongs to the shared card. It runs only once Kain's signature line at the foot is filled; until then it is a draft awaiting his yes, which Chat is asking for in this session.
+For Code (theme session), and for the Knowledge Hub page family session (four page types standard) in the same words so the wall cards are standardised once: a sweep brief on Kain's S179 ruling that a card touch belongs to the shared card. It is signed by Kain and runs at the next theme sitting; Kain marked it urgent.
 
 # BRIEF: Rise in turn on every Knowledge Hub wall (Chat, S440, 22 October 2026)
 
@@ -28,7 +28,7 @@ It does not touch kh-subject.css's older css_gate faults, which are their own jo
 
 One SHIP file naming the version, the pages measured, and the three-width proof, so Chat folds it into DSRD 9 (sections 20.0c, 34, 35, 38 and 39) and DSRD 8 section 41. Board card: the Knowledge Hub Nav pages card and the Knowledge Hub front page card.
 
-Signed by Kain: ______ (date and words)
+Signed by Kain, 22 October 2026, in the Fable session S440, in his words: "Yes. Signed by Kain, 22 October 2026: take Rise in turn to every Knowledge Hub wall as the brief says."
 
 OWED BACK: the SHIP file.
 
