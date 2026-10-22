@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S182: STAYS. Items 1, 6 and 7 done (REPORT__The_Proof_Run_Stopped_At_The_Search_Desk_UNSURE_S182); items 5, 12, 13 and the workbook reading list line still owed.
+> CODE DISPOSITION, S182: WAITS ON the factory session's remaining items (its own words follow). Items 1, 6 and 7 done (REPORT__The_Proof_Run_Stopped_At_The_Search_Desk_UNSURE_S182); items 5, 12, 13 and the workbook reading list line still owed.
 **For Code, factory session. What this needs from you:** apply the answers below to the newsroom machine; items 1, 5, 6, 7, 12 and 13 are yours to build now; the proof run still waits on item 2.
 
 # NOTE: answers to ASK__The_Newsroom_Machine_Gaps_In_The_Cards_S181 (Chat, S442, 22 October 2026)
