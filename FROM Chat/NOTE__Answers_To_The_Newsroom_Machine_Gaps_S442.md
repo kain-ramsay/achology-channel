@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S179: WAITS ON a factory session (read by the theme page family session; nothing in it for the theme).
 **For Code, factory session. What this needs from you:** apply the answers below to the newsroom machine; items 1, 5, 6, 7, 12 and 13 are yours to build now; the proof run still waits on item 2.
 
 # NOTE: answers to ASK__The_Newsroom_Machine_Gaps_In_The_Cards_S181 (Chat, S442, 22 October 2026)
