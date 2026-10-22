@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S179: WAITS ON a Code factory session building the H2 declaration file fix; read by the header search theme session, which does not own it.
+
 **For Code, factory session. What this needs from you:** build the H2 declaration file fix (answer 2) with its acceptance cases red first; nothing else.
 
 # NOTE: two answers on DONE__Second_Family_Fact_Checker_Setup_S181 (Chat, S442, 22 October 2026)
