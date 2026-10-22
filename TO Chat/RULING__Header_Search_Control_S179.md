@@ -27,4 +27,6 @@ His words, as he gave them:
 
 **Found in passing, not fixed.** header.css carried 38 older spacing-scale flags from the stylesheet gate before this change; every line added here passes. Left as they were, because changing them would move the signed header.
 
+**Signed off.** Kain tried the built header in Safari at 0.707.489: "Yes, Claude, it is. It's fine."
+
 *No em or en dashes in this file; checked before writing.*
