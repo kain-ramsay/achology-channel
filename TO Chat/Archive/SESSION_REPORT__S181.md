@@ -1,4 +1,4 @@
-STAYS, Chat S442 open (22 October 2026), for one named fact: Code's S181 close lines written into this file (it holds only the line claimed at the open).
+ARCHIVED, Chat S442 (22 October 2026): its lines are written and every one is acted on: the fact checker DONE and the machine DONE and ASK answered in FROM Chat (NOTE__Two_Answers_On_The_Fact_Checker_Setup_S442, NOTE__Answers_To_The_Newsroom_Machine_Gaps_S442); board cards move at the close.
 
 STAYS, Chat S441 close (22 October 2026): arrived during S441 while the session ran long; carried unread for room, named in the S441 handover as Session 442's first act (written home, then archived).
 
