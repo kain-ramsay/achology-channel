@@ -24,3 +24,5 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.506: Enquiries Dark Welcome behind ?enq-option=2 and the FAQs block (4715d07a; TO Chat/RULING__Enquiries_Page_Dark_Welcome_And_The_FAQs_Block_S180.md).
 - 0.707.507: Enquiries Dark Welcome line spacing (3e6c490d).
 - 0.707.508: the Courses page's ten preview tweaks behind ?courses-tweak=1 to 10 (c8aac0a5, side session courses-ten). NOT FINISHED: waits on Kain's picks.
+- 0.707.509 to 0.707.512: Enquiries title case, real Help quick answers, apostrophe fix, banner picture options (Enquiries side session).
+- 0.707.513: the Courses page takes Kain's nine of ten tweaks, bolder chosen answers and review fixes (Courses side session courses-ten).
