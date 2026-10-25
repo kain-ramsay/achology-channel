@@ -9,3 +9,6 @@ Claimed at the open, 25 October 2026. From the git log.
 - Hand added: BRIEF__Rise_In_Turn_On_Every_Knowledge_Hub_Wall_S440 marked DONE (built 0.707.438 and 0.707.439).
 
 OWED BACK: nothing; this is an index for the board.
+- 0.707.499: the eight Articles lists' search titles and descriptions; page_gate spacing-scale line; the 404 page's search field (TO Chat/NOTE__Three_Audit_Jobs_Shipped_S180.md; board: Knowledge Hub Nav pages, Search results).
+- 0.707.500: the 404 header line back to a true 48.
+- Hand added: the front page trust line closed by Kain for good (TO Chat/RULING__Front_Page_Trust_Line_Out_For_Good_S180.md).

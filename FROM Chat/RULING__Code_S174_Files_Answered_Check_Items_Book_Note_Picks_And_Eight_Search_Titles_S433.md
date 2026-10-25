@@ -1,4 +1,4 @@
-CODE DISPOSITION, S175: WAITS ON the next theme session (search titles, descriptions, redirect, sized pictures, picks field) and a factory session (picture rename, accent).
+> CODE DISPOSITION, S180: WAITS ON a theme session for the redirect, the sized pictures and the book note picks field, and a factory session for the picture rename and the accent; the eight titles and descriptions are DONE at 0.707.499 (TO Chat/NOTE__Three_Audit_Jobs_Shipped_S180.md).
 SUPERSEDED IN PART, Chat S433 (later the same evening): section 4's eight titles are replaced by RULING__Eight_Articles_Search_Titles_Keyword_First_Correction_S433. Everything else here stands.
 
 **Needs from Code (theme session): set the eight Articles lists' search titles and descriptions below; add the old Articles redirect; make sized copies of the single-size theme pictures; make the book note picks a hand-chosen field. Needs from Code (factory session): rename one picture and fix one record's accent. Every ruling is already written into DSRD 6, 7, 8 and 9.**
