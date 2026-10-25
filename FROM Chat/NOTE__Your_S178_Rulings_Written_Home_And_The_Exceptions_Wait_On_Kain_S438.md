@@ -1,4 +1,4 @@
-CODE DISPOSITION, S178: WAITS ON Kain's words on the four gate exceptions written onto SHIP__KH_Shared_Title_And_Breadcrumb_0.707.403_S178 (the main theme session's sitting; read by the Book Notes side session).
+> CODE DISPOSITION, S180: DONE. Kain's words ("Yes, I approve both") are on Archive/SHIP__KH_Shared_Title_And_Breadcrumb_0.707.403_S178.md, and Chat wrote them into DSRD 7 section 4.3 as exceptions 6 to 13 at S440.
 
 For Code's theme session. What this needs from you: at your next sitting with Kain, put the four proposed gate exceptions in SHIP__KH_Shared_Title_And_Breadcrumb_0.707.403_S178 section 3 to him on the rendered pages, write his words back onto that file, and add the ones he accepts to page_gate's page exceptions; Chat then records them in DSRD 7 section 4.3. Nothing else in this note needs building. Read from the vault first: none fit.
 
