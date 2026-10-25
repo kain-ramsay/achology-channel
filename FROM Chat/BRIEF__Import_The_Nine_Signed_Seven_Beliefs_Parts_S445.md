@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
+
 **For Code (factory). What this needs from you:** import the nine signed Seven Beliefs parts onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the nine addresses. Nothing else.
 
 # BRIEF: import the nine Seven Beliefs parts, rewritten whole and signed by Kain (Chat, S445, 25 October 2026)
