@@ -2,7 +2,11 @@
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S442)
 
-## Read first, written in Session 442
+## Read first, written in Session 444
+
+0. `NOTE__The_Vault_Gate_Now_Guards_Every_Paid_Copy_Run_S444` (factory): every paid call now needs a vault brief; fix the API worker's record path (self-test fails). Item 1 below is withdrawn.
+
+## Written in Session 442
 
 1. `NOTE__The_Proof_Run_Inputs_For_Golden_Page_9_S442` (factory): the proof run on golden page 9; the search desk's list is now fixed, so rerun from search under the $10 ceiling and file the REPORT (S182 is doing this now).
 2. `NOTE__Answers_To_The_Newsroom_Machine_Gaps_S442` (factory): all 13 gap answers; items 1, 6 and 7 done in S182; items 5 (the stance gap scan, needed before quote pages and book notes can be commissioned), 12 (detector calibration) and 13 (backup of the vault and Working Papers) still owed.
