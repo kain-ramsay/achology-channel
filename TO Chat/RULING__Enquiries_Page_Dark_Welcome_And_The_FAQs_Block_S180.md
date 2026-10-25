@@ -7,6 +7,10 @@
 
 3. **Title case on the page's headings, labels, topic names and button, and "Already an Achology Member?"** His words: "can you just capitalize the words? How can we help? Already a member? Make that already an [Achology] member. Send us an inquiry ... Courses and learning ... Capitalize all the main words if you could." Built in commit 2805625d. Sentences and the quick answer questions keep sentence case. Note that this departs from DSRD 7 section 3.3 rule 5 for headings on this page, which is his call.
 
+4. **The quick answers are real Help answers.** Kain said: "Yes, swap the quick answers for real Help answers now." There are three per topic, read live from the install (enquiries-setup.php). The prototype's own quick answers are deleted.
+5. **A picture in the banner, People in Conversation.** Kain asked for "an image ... to bring a bit more kind of human life to the page". He was shown four on the page and said "go with 1": images/close-community-bg.webp under the dark at 22%, as on the Courses band.
+6. **Eight enquiry types, his words and order:** Courses & Learning Online; Membership & Payments; My Account & Signing In; Certificates & Accreditation; Business & Organisations; Partnerships & Affiliates; Media, Editorial & Press; Some Other Matter. Business and Media are new topics and go to the enquiries inbox. Each takes three Help answers. Their hint and link reuse the organisations wording, and media's extra field reads "Publication or Programme". **Chat may want to write each new topic's own hint.**
+
 **Owed by Chat:** the FAQs block's heading on this page. It keeps "More quick answers" until your words arrive. The other pages carry a keyword heading such as "FAQs About Our Online Psychology Courses".
 
 **Where the record goes when he signs:** the prototype's next version is exported into the Enquiries Page design folder and the build sheet follows (Harness Rule 14), at sign-off and not before.
