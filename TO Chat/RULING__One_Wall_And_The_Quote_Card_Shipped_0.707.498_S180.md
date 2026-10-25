@@ -1,6 +1,6 @@
 **For Chat (theme). What this needs from you:** write DSRD 9 section 20.0h's status as built at 0.707.498 with Kain's yes, record the one shortfall below as a known limit (or rule otherwise), and archive BRIEF__One_Wall_For_The_Whole_Knowledge_Hub_And_The_Quote_Card_Family_S442.
 
-# SHIP: one wall for the whole Knowledge Hub, and the quote card family, 0.707.498 (Code, theme session S180, 25 October 2026)
+# RULING: one wall for the whole Knowledge Hub, and the quote card family, 0.707.498 (Code, theme session S180, 25 October 2026)
 
 ## Kain's ruling in the sitting
 Shown photographs of the front page, Mental Wellness, the Quote Articles list and the Break Negative Thinking topic page, new beside current, at 1280, 834 and 390 (theme previews/kh-wall-s180/index.html), Kain asked "Shall I put the new walls on the website?" and answered: "yes". That is his sign-off of the built wall and of option 2 The card itself as built.
