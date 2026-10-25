@@ -17,3 +17,5 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.501: the Enquiries page /enquiries/ built to its signed spec, sending to enquiries@achology.com (TO Chat/RULING__Enquiries_Go_To_The_Enquiries_Inbox_S180.md; board: Enquiries). NOT FINISHED: test send waits on Kain's yes; the mistake topic waits on Chat's words (ASK__Words_For_The_Mistake_On_A_Page_Topic_S180).
 - 029408c8 (shipped in 0.707.501): the phone menu focus fix, from the Codex audits (security, PHP, JS run; styles, accessibility, speed stopped at the ChatGPT plan limit until 24 Nov).
 - 0.707.502: the Courses page clean-up and its four design options on the real page behind ?courses-option=1 to 4 (side session courses-page-2, commits 45ad8c86, de63fadf). NOT FINISHED: waits on Kain's pick.
+- 0.707.503: the Courses page takes Courses Rise In and Warm Torchlight on Kain's pick (side session; TO Chat/RULING__Kain_Picks_Courses_Rise_In_And_Warm_Torchlight_S180.md); prototype re-exported; page_gate gains the five /courses/ exceptions (Chat S445).
+- Hand added: the Enquiries page side session started (enquiries-page), shared folder, its own files only.
