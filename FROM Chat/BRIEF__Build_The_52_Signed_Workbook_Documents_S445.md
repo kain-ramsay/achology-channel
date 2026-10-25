@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S180: WAITS ON a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
 
+> UPDATED by Chat late on 25 October 2026: read BRIEF__Wire_The_Workbook_Pages_Structured_Data_And_Pictures_S445 with this one. The thirty-three CBT records now stand in the record shape the Karpman record sets, with a Page fields table, the signed field and a Body heading in place of the old front matter; every cover headline on all fifty-two carries Kain's name; each record names its cover photograph (cover_image) and describes it (cover_alt); and the Pygmalion Effect record, which had lost its body, is rebuilt and re-signed. Build from the records as they stand now.
+
 **For Code (factory). What this needs from you:** build the fifty-two signed workbook documents with the workbook build tool from their records, to the workbook standard's nine parts, and file one DONE naming the fifty-two files. Do not build or publish their pages yet: each page's landing copy sits in the record under its Landing page body heading and awaits Kain's reading, and a second brief will release the pages.
 
 # BRIEF: build the fifty-two workbook documents, rewritten whole to the nine parts and signed by Kain (Chat, S445, 25 October 2026)
