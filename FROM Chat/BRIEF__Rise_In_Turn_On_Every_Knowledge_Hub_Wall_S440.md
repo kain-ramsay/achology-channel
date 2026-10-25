@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S180: DONE. Built at theme 0.707.438 and 0.707.439 (kh-subject.js section 5, data-arrive on every Knowledge Hub wall and the search list); the one wall at S180 keeps it. Chat's S442 queue item 8 says archive it.
+> CODE DISPOSITION, S180: DONE. Built at theme 0.707.438 and 0.707.439 (kh-subject.js section 5, data-arrive on every Knowledge Hub wall and the search list); the one wall at S180 keeps it. The ship record owed back is TO Chat/Archive/RULING__Knowledge_Hub_Front_Page_Direction_S177.md (its S179 sections name 0.707.438 and 0.707.439).
 For Code (theme session), and for the Knowledge Hub page family session (four page types standard) in the same words so the wall cards are standardised once: a sweep brief on Kain's S179 ruling that a card touch belongs to the shared card. It is signed by Kain and runs at the next theme sitting; Kain marked it urgent.
 
 # BRIEF: Rise in turn on every Knowledge Hub wall (Chat, S440, 22 October 2026)

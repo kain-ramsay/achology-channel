@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S180: WAITS ON the next factory session (this is a theme session; read in full, nothing in it touches the theme).
 **For Code (factory). What this needs from you:** know that every paid Claude call in The Machine now stops unless its batch brief was built from the vault, and fix the API worker's record path, which points at a folder that no longer exists.
 
 # NOTE: the vault gate guards every paid copy run (Chat, S444, 25 October 2026)
