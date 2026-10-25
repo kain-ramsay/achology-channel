@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
+
 **For Code (factory). What this needs from you:** build the fifty-two signed workbook documents with the workbook build tool from their records, to the workbook standard's nine parts, and file one DONE naming the fifty-two files. Do not build or publish their pages yet: each page's landing copy sits in the record under its Landing page body heading and awaits Kain's reading, and a second brief will release the pages.
 
 # BRIEF: build the fifty-two workbook documents, rewritten whole to the nine parts and signed by Kain (Chat, S445, 25 October 2026)
