@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Help answer theme side session; read in full, it touches no page here).
+
 **For Code (factory). What this needs from you:** three things on the workbook page, in this order. One, wire the page's structured data from the record's fields, one JSON-LD node declaring both LearningResource and DigitalDocument, as DSRD 10 section 9 has said since Session 353 and nothing has built. Two, read each record's two new picture fields, cover_image and cover_alt, and build and describe the covers from them, so that every picture on the page carries a description. Three, keep the pages unpublished until Chat's one-line release lands, because Kain has not yet signed the landing copy. Then file one DONE.
 
 # BRIEF: wire the workbook pages' structured data and pictures, and hold the pages for release (Chat, S445, 25 October 2026)
