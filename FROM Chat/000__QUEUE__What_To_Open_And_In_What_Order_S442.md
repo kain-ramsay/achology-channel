@@ -1,6 +1,6 @@
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat on Thursday 22 October 2026 at the Session 442 close from the folder as it stands; the older items keep their S441 order.**
 
-**Added at Chat S445 (25 October 2026), open first:** BRIEF__Import_The_Nine_Signed_Seven_Beliefs_Parts_S445 (factory: import nine signed pages) and RULING__Courses_Page_Five_Gate_Lines_Recorded_As_Exceptions_S445 (theme: five gate lines to record). Both are newer than this queue, so the folder is the truth, as The Shared Rules say.
+**Added at Chat S445 (25 October 2026), open first:** BRIEF__Import_The_Thirty_Signed_Author_Biographies_S445 (factory: import thirty signed pages), BRIEF__Import_The_Nine_Signed_Seven_Beliefs_Parts_S445 (factory: nine signed pages, on HOLD at its head until Kain rules) and RULING__Courses_Page_Five_Gate_Lines_Recorded_As_Exceptions_S445 (theme: five gate lines to record). Both are newer than this queue, so the folder is the truth, as The Shared Rules say.
 
 
 # QUEUE: what is waiting in FROM Chat, and in what order to open it (S442)
