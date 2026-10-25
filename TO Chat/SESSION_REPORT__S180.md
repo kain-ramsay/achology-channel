@@ -12,3 +12,5 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.499: the eight Articles lists' search titles and descriptions; page_gate spacing-scale line; the 404 page's search field (TO Chat/NOTE__Three_Audit_Jobs_Shipped_S180.md; board: Knowledge Hub Nav pages, Search results).
 - 0.707.500: the 404 header line back to a true 48.
 - Hand added: the front page trust line closed by Kain for good (TO Chat/RULING__Front_Page_Trust_Line_Out_For_Good_S180.md).
+- 0.707.501: the Enquiries page /enquiries/ built to its signed spec, sending to enquiries@achology.com (TO Chat/RULING__Enquiries_Go_To_The_Enquiries_Inbox_S180.md; board: Enquiries). NOT FINISHED: test send waits on Kain's yes; the mistake topic waits on Chat's words (ASK__Words_For_The_Mistake_On_A_Page_Topic_S180).
+- 029408c8 (shipped in 0.707.501): the phone menu focus fix, from the Codex audits (security, PHP, JS run; styles, accessibility, speed stopped at the ChatGPT plan limit until 24 Nov).
