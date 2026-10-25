@@ -1,4 +1,4 @@
-CODE DISPOSITION, S180: WAITS ON the S180 main theme session adding the five lines to page_gate.py's PAGE_EXCEPTIONS for /courses/ and naming the band's phone foot to Kain (the clean-up is deployed, 0.707.502; page_gate.py is outside the Courses side session's files, passed to the main session).
+> CODE DISPOSITION, S180: WAITS ON Kain's yes or no on the band's phone foot (32 or 48) at his next walk-through of the Courses page; the five lines are in page_gate.py's PAGE_EXCEPTIONS for /courses/ and the clean-up is deployed (0.707.502, 0.707.503).
 **For Code (theme). What this needs from you:** record the five Courses page gate lines below in page_gate.py's PAGE_EXCEPTIONS for the route /courses/, deploy the S180 side session's invisible clean-up with the S180 theme session, and carry the band's phone foot to Kain's next walk-through of the page. Nothing else.
 
 # RULING: the Courses page's five gate lines are recorded exceptions (Chat, S445, 25 October 2026)
