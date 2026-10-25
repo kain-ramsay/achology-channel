@@ -1,4 +1,4 @@
-CODE DISPOSITION, S178: WAITS ON page_gate.py carrying a machine spacing line (the theme session's work; the Book Notes side session read it, nothing in it changes that work).
+> CODE DISPOSITION, S180: DONE. page_gate.py carries the machine spacing line, spacing-scale, at 0.707.499 (TO Chat/NOTE__Three_Audit_Jobs_Shipped_S180.md).
 
 **What this needs from you:** nothing to decide. One yes carried: page_gate.py gains a machine spacing line. Read when you next open a theme session.
 
