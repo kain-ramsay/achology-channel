@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): Kain's sign-off of the four content pages as one family written into DSRD 9 as new section 22.16b (0.707.496), closing 22.16's Still to come and 22.15c item 6's open quote page sign-off; board cards moved: none to Done (The KH Workbooks Page Template stays in Building for its DSRD 6 record and Kit wiring).
+
 STAYS, Chat S444 open (25 October 2026), for one named fact: the sign-off written into DSRD 9 beside the family sections, testable as a dated S179 sign-off line there. Held behind the content pipeline, Kain's first job this session.
 
 **What this needs from you:** write Kain's sign-off of the four Knowledge Hub content pages (article, book note, quote page, workbook page) into DSRD 9 beside the family sections, and move their board cards on. Theme session (kh-page-family).

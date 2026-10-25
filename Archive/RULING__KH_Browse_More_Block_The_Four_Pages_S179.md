@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): Browse More and the close's Open Page backdrop written into DSRD 9 as new section 22.16a (0.707.492, 0.707.494), superseding 22.15b item 2's bubbles, and the quote page's Browse More taken out of section 20.0h's reach; board cards moved: none.
+
 STAYS, Chat S444 open (25 October 2026), for one named fact: the Browse More ruling written into DSRD 9 beside the family section. Held behind the content pipeline.
 
 STAYS, Chat S442 close (22 October 2026): arrived during the S442 close; carried for room, named in the S442 handover as Session 443 work.

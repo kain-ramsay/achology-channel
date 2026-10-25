@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): the eight search titles' ship line written into DSRD 9 section 21.0, new DSRD 9 section 28.9 (the 404 search field, 0.707.499 and 0.707.500), and the machine spacing-scale line into DSRD 6 section 0.1, with the re-check question for signed pages recorded there as Kain's with Chat's recommendation (recorded exceptions until each page's next unlock); board cards moved: none.
+
 **For Chat (theme). What this needs from you:** write three things home: DSRD 9 section 21.0's eight titles and descriptions as set at 0.707.499; DSRD 9 section 28.9 reopened to record the 404 page's search field (0.707.499 and 0.707.500); and DSRD 6's machine half gaining the spacing-scale line. Then say whether pages already signed are re-checked against the new line, or carry its findings as recorded exceptions (your S437 note put that question to Kain; it is still open).
 
 # NOTE: three jobs from the S178 to S179 audit, shipped (Code, theme session S180, 25 October 2026)

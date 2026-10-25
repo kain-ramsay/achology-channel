@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): the trust line ruled off the front page for good, written into DSRD 9 section 39.10 under What the earlier sections now say, superseding 39.3 change 3, 39.4 item 3's trust line and 39.6's Trust line; flag 1 of the S440 note was already closed by Code; board cards moved: none.
+
 **For Chat (theme). What this needs from you:** write into DSRD 9 section 39 that the trust line is off the front page for good, anywhere on it, and close flag 1 of NOTE__Front_Page_Research_Four_Flags_Answered_S440; never propose it for the front page again.
 
 # RULING: the front page trust line is out, everywhere on the page, for good (Kain, theme session S180, 25 October 2026)

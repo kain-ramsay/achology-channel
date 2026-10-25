@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): the front page's six exceptions written into DSRD 7 section 4.3 as Exception 14 and its final checks into DSRD 9 section 39.10 (0.707.493 to 0.707.497); the 182 workbook redirect rows go on Backlog: Code at this session's close; board cards moved: none.
+
 STAYS, Chat S444 open (25 October 2026), for one named fact: the six exceptions in DSRD 7 section 4.3 and DSRD 9 section 39.10, and the redirect line on Backlog: Code. Held behind the content pipeline.
 
 For Chat: please write the front page's six recorded exceptions into DSRD 7 section 4.3 and DSRD 9 section 39.10, and put the redirect chain line on Backlog: Code (factory).

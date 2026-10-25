@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): enquiries@achology.com written into DSRD 4 section 5.3 (support@ replaced, and the no-SMTP route named as open against DSRD 3), DSRD 2 section 2.9, and the Enquiries signed spec's Added S441 block as item 4a; board cards moved: none (Backlog: Code's Enquiries line stays until the test send and the seventh topic's words).
+
 **For Chat (theme). What this needs from you:** write into DSRD 4 section 5.3 and DSRD 2 section 2.9 that the Enquiries page sends every topic to enquiries@achology.com, replacing support@achology.com, and into the Enquiries signed spec that the editorial inbox is the same address.
 
 # RULING: every enquiry goes to enquiries@achology.com (Kain, theme session S180, 25 October 2026)

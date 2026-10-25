@@ -1,3 +1,5 @@
+STAYS, Chat S445 (25 October 2026), for one named fact: Code's S180 still open and appending (every line to date dispositioned: the wall, the three audit jobs, the trust line and the Enquiries files).
+
 # SESSION REPORT, S180 (theme session, Code)
 
 Claimed at the open, 25 October 2026. From the git log.

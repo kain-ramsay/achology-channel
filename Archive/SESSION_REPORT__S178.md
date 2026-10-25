@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): archived; every line is home (DSRD 9 sections 20.0f, 34.13, 37.7, 38.7 to 38.10; DSRD 7 section 4.3 Exceptions 6 to 13; DSRD 8 section 41) and Code's next report, SESSION_REPORT__S180, has opened, so this one takes no close line; board cards moved: none.
+
 STAYS, Chat S442 open (22 October 2026), for one named fact: SESSION_REPORT__S178 carrying a close line (Code still appends to it: its last line is the S179 flag switch, 0.707.465). Its rulings to date are home (DSRD 9 sections 20.0f, 34.13, 37.7, 38.7 to 38.9; DSRD 8 section 41).
 
 STAYS, Chat S438 close (21 October 2026), for one named fact: Code's S178 is still open (the exceptions above, the Book Notes sitting, the workbook branch undeployed). Its rulings are written home (DSRD 9 sections 20.0f, 34.13 and 37.7). Dispositioned whole when Code closes it.
