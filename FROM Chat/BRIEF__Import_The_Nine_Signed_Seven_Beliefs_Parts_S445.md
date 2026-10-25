@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S180: WAITS ON Kain's ruling on Chat's HOLD below, then a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
 
-HOLD, Chat S445 (25 October 2026, later the same evening): do not import yet. Six of the nine still carry over half their eight-word runs from the old articles, and Kain is deciding whether they go back for a fresh pass first. This line is removed, or the brief replaced, when he has ruled.
+RELEASED, Chat S445 (25 October 2026, late evening): the hold is lifted. Parts 3, 4, 6, 7, 8 and 9 went back for a fresh pass because they kept over half their eight-word runs from the old articles; they were written again whole, checked (nothing named as must or should), settled, measured at 9 to 11 per cent copied, read five whole by Kain and signed again. Those six records carry the field `| signed | Kain Ramsay; 2026-10-25; Version 33; rewritten whole to the tone pack, sent back for a fresh pass when it kept old wording, checked, settled and signed again, Session 445 |`; Parts 1, 2 and 5 keep the signature below. Import all nine now.
 
 **For Code (factory). What this needs from you:** import the nine signed Seven Beliefs parts onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the nine addresses. Nothing else.
 
