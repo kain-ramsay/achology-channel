@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Courses theme side session; read in full, it touches no page here).
+
 **For Code (factory). What this needs from you:** import the thirty signed author biographies onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the thirty addresses. Nothing else.
 
 # BRIEF: import the thirty author biographies, rewritten whole and signed by Kain (Chat, S445, 25 October 2026)
