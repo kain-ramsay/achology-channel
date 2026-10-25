@@ -1,3 +1,5 @@
+DONE, Chat S445 (25 October 2026): the five gate lines ruled recorded exceptions under Rule B and written into DSRD 7 section 4.3 as Exception 15; answered to Code as RULING__Courses_Page_Five_Gate_Lines_Recorded_As_Exceptions_S445 in FROM Chat; the band's phone foot named for Kain's next walk-through; board cards moved: none.
+
 NEEDS FROM CHAT: read and rule the five gate lines below as recorded exceptions (or say which to change); nothing else waits on you.
 
 # REPORT: Courses page gate exceptions and clean-up, S180 side session
