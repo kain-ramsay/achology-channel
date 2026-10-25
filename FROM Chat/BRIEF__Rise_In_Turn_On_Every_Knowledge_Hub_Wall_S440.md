@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S178: WAITS ON the next theme sitting running the sweep (main theme or page family session); read by the search session, which notes the search results page is in its scope and that the page's ten touches must leave card arrival to this shared touch.
+> CODE DISPOSITION, S180: DONE. Built at theme 0.707.438 and 0.707.439 (kh-subject.js section 5, data-arrive on every Knowledge Hub wall and the search list); the one wall at S180 keeps it. Chat's S442 queue item 8 says archive it.
 For Code (theme session), and for the Knowledge Hub page family session (four page types standard) in the same words so the wall cards are standardised once: a sweep brief on Kain's S179 ruling that a card touch belongs to the shared card. It is signed by Kain and runs at the next theme sitting; Kain marked it urgent.
 
 # BRIEF: Rise in turn on every Knowledge Hub wall (Chat, S440, 22 October 2026)
