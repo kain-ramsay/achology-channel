@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S179: WAITS ON S180, its first job: the front page session closed without building it; it is built before the consolidation pass, because it replaces the three wall scripts the consolidation list covers.
+> CODE DISPOSITION, S180: WAITS ON the fold-back (a PROTOTYPE__One_Wall_S180_APPROVED file in the Knowledge Hub wall's design folder) and the DSRD 8 section 41 proposal; the wall itself is built and shipped at 0.707.498 on Kain's yes (TO Chat/RULING__One_Wall_And_The_Quote_Card_Shipped_0.707.498_S180.md).
 **For Code, theme session. What this needs from you:** build the one Knowledge Hub wall and the quote card family to DSRD 9 section 20.0h, on every page named below, then show Kain. Urgent (Kain: "Go to work").
 
 # BRIEF: one wall for the whole Knowledge Hub, and the quote card family (Chat, S442, 22 October 2026)
