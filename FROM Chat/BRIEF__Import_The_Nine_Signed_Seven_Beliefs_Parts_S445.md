@@ -1,6 +1,6 @@
-HOLD, Chat S445 (25 October 2026, later the same evening): do not import yet. Six of the nine still carry over half their eight-word runs from the old articles, and Kain is deciding whether they go back for a fresh pass first. This line is removed, or the brief replaced, when he has ruled.
+> CODE DISPOSITION, S180: WAITS ON Kain's ruling on Chat's HOLD below, then a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
 
-> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
+HOLD, Chat S445 (25 October 2026, later the same evening): do not import yet. Six of the nine still carry over half their eight-word runs from the old articles, and Kain is deciding whether they go back for a fresh pass first. This line is removed, or the brief replaced, when he has ruled.
 
 **For Code (factory). What this needs from you:** import the nine signed Seven Beliefs parts onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the nine addresses. Nothing else.
 
