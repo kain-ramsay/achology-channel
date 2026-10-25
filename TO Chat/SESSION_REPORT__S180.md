@@ -26,3 +26,4 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.508: the Courses page's ten preview tweaks behind ?courses-tweak=1 to 10 (c8aac0a5, side session courses-ten). NOT FINISHED: waits on Kain's picks.
 - 0.707.509 to 0.707.512: Enquiries title case, real Help quick answers, apostrophe fix, banner picture options (Enquiries side session).
 - 0.707.513: the Courses page takes Kain's nine of ten tweaks, bolder chosen answers and review fixes (Courses side session courses-ten).
+- 0.707.513 to 0.707.521: Courses nine picks and the photo fade below 1024 (courses-ten); Enquiries subheading, lines, members card, ten touches behind ?touch=demo (enquiries-page). 0.707.521 first went from the shared folder with the Enquiries session's unsaved files; redeployed clean within two minutes.
