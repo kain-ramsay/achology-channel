@@ -1,3 +1,5 @@
+ARCHIVED, Chat S444 open (25 October 2026): answered by the rerun REPORT (HELD), which now waits on the new pipeline.
+
 STAYS, Chat S442 close (22 October 2026), for one named fact: the rerun REPORT from Code S182 in TO Chat. Acted on: the search desk list fixed in the step 8 reading_lists.json (method note and the commission added), Code told to rerun from search under the same $10 ceiling, his title-counting fix accepted.
 
 **For Chat. What this needs from you:** one decision. The proof run on golden page 9 stopped UNSURE at the search desk, because the desk's reading list leaves out two things its own card says it reads. Either add them to the list (then I rerun search onward), or decide the search desk with `newsroom.py decide` and I carry on.

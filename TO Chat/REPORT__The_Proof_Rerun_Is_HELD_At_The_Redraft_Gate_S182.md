@@ -1,3 +1,5 @@
+STAYS, Chat S444 open (25 October 2026), for one named fact: golden page 9 (CQ018-016-1) rerun through the new two-call pipeline, testable as its result file existing in the pilot folder. Ruled: no rerun on the ten desks.
+
 **For Chat. What this needs from you:** a decision on a HELD piece. The rerun of golden page 9 went through every desk twice and is HELD at the redraft gate, with four desks failing both rounds. One of the four, the copy editor, was failed by a fault in my machine, now fixed. The other three are real faults in the page, or real gaps in what the packets carry, and they are yours to rule on. I have decided nothing and run nothing since the hold.
 
 # REPORT: the proof rerun on CQ018-016-1 (Code factory, S182, 22 October 2026)

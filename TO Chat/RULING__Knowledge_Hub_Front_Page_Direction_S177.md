@@ -1,3 +1,5 @@
+STAYS, Chat S444 open (25 October 2026), for one named fact: the same write as SHIP__Knowledge_Hub_Front_Page_Final_Checks_0.707.497_S179, archived with it.
+
 STAYS, Chat S442 close (22 October 2026): arrived during the S442 close; carried for room, named in the S442 handover as Session 443 work.
 
 

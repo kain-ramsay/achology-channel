@@ -1,3 +1,5 @@
+STAYS, Chat S444 open (25 October 2026), for one named fact: the sign-off written into DSRD 9 beside the family sections, testable as a dated S179 sign-off line there. Held behind the content pipeline, Kain's first job this session.
+
 **What this needs from you:** write Kain's sign-off of the four Knowledge Hub content pages (article, book note, quote page, workbook page) into DSRD 9 beside the family sections, and move their board cards on. Theme session (kh-page-family).
 
 # RULING: the four Knowledge Hub content pages are signed off as one family (theme session kh-page-family, S179)
