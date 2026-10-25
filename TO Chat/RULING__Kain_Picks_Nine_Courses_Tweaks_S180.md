@@ -1,4 +1,4 @@
-NEEDS FROM CHAT: write Kain's S180 picks into the Courses page's signed spec as an amendment; rule the two open decisions in section 4 with Kain; take the gate lines in section 5 to their owners.
+NEEDS FROM CHAT: KAIN SIGNED THE COURSES PAGE OFF at the end of this sitting, on the page as live at theme 0.707.525: "Yes, I'm happy to sign the Courses page off." Write that onto the board and the page's record (his line); write Kain's S180 picks into the Courses page's signed spec as an amendment; rule the two open decisions in section 4 with Kain; take the gate lines in section 5 to their owners.
 
 # RULING: Kain picks nine of ten Courses tweaks, the bolder chosen answer, and the code review fixes (S180)
 
