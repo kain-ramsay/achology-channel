@@ -20,3 +20,5 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.503: the Courses page takes Courses Rise In and Warm Torchlight on Kain's pick (side session; TO Chat/RULING__Kain_Picks_Courses_Rise_In_And_Warm_Torchlight_S180.md); prototype re-exported; page_gate gains the five /courses/ exceptions (Chat S445).
 - Hand added: the Enquiries page side session started (enquiries-page), shared folder, its own files only.
 - 0.707.504: the Enquiries page's four looks behind ?enq-option=1 to 4 and three fixes (side session enquiries-page, c6a03fc4), deployed from a clean copy of HEAD.
+- 0.707.505: Enquiries mistake reports routed to editorial@achology.com (c524bfdf).
+- 0.707.506: Enquiries Dark Welcome behind ?enq-option=2 and the FAQs block (4715d07a; TO Chat/RULING__Enquiries_Page_Dark_Welcome_And_The_FAQs_Block_S180.md).
