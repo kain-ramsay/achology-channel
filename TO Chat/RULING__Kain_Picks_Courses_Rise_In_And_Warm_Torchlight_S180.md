@@ -14,7 +14,7 @@ NEEDS FROM CHAT: write Kain's S180 Courses pick into the Courses page's signed s
 
 **Fold-back (Harness Rule 14).**
 - **Build sheet updated:** BUILD_SHEET__Courses_Directory_Page.md in the Courses Directory Page design folder carries a Warm Torchlight row (section 2) and a Courses Rise In row (section 3). It also now carries the answer tiles as Kain chose them at S143, the fold-back the S393 amendment said would come at the next sitting.
-- **Prototype:** the prototype is exported from the deployed page (export_page.py copies the page's own markup), so `PROTOTYPE__Courses_Directory_Page_S138.html`'s next version is written into the same folder as soon as the main session deploys this build. It will be named in a one-line note when it lands.
+- **Prototype, written:** exported from the deployed page at theme 0.707.503 (export_page.py, the page's own markup with its 13 stylesheets inlined) as the next version of `PROTOTYPE__Courses_Directory_Page_S138.html`, in place in the Courses Directory Page design folder; git holds the S138 version. It carries the S143 answer tiles and both picks' rules, and was opened in WebKit to confirm it shows the whole page.
 
 **For the spec:** an amendment to 000__SIGNED_SPEC__Courses_Directory_Page_S362.md recording the two picks, in Chat's words.
 
