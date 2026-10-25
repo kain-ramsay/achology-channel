@@ -34,7 +34,7 @@ Not confirmed: the floating bar painting under the card pictures (the bar hides 
 - page_gate on 0.707.513: 40 passed, 7 failed. The accessibility-scan fail (23 to 26 colour-contrast nodes, varying run to run) is the scan catching cards mid-rise: the gate's own axe 4.10.2 run on the settled page, with reduced motion, and after a tick, reads zero violations every time. The gate scans before the page's motion has settled; that is an instrument question for the theme session, not a page fault.
 
 ## 4. Two decisions for Kain (to be shown, not described)
-1. **The overline over the photograph on tablet and phone** measures under AA at its worst pixel (834: 4.2, 390: 3.4; this morning, before today's work: 4.5 and 3.7). The fix fades the photograph away from behind the title on screens under 1024.
+1. **RULED, built and live at 0.707.521 (c96b6cc4).** The overline over the photograph on tablet and phone measured under AA at its worst pixel (834: 4.2, 390: 3.4; before today's work: 4.5 and 3.7). Shown three fixes on the real page at both widths, each measured to pass (a fourth, a lighter orange, was dropped because the phone breadcrumb stayed at 4.49), Kain said: "Yes, build option 1, Photo Fades Below the Title." Below 1024 the photograph now fades in from 30% to 60% of the band's height; the overline and breadcrumb measure 4.73 and 4.93 at 834 and 390, desktop unchanged. Build sheet section 1 and the prototype (re-exported at 0.707.521) carry it.
 2. **Courses Rise In replays every shown card on Explore More**, as he chose it ("Explore More" is in his rule); the reviewer would have only the new cards rise.
 
 ## 5. Gate lines still open, none from today's work, for their owners
