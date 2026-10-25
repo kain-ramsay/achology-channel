@@ -1,4 +1,5 @@
-> **CODE DISPOSITION, S134: WAITS ON a theme session; Karen's two reply window lines come through Chat.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
+> CODE DISPOSITION, S180: WAITS ON a test enquiry arriving at enquiries@achology.com (Kain's yes to send it) and Chat's words for the mistake topic (TO Chat/ASK__Words_For_The_Mistake_On_A_Page_Topic_S180.md); the page is built at 0.707.501 (TO Chat/RULING__Enquiries_Go_To_The_Enquiries_Inbox_S180.md).
+> **Earlier, S134: WAITS ON a theme session; Karen's two reply window lines come through Chat.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 
 > CODE DISPOSITION, S118: WAITS ON a theme session. This session opened and has run as a factory session throughout; per Harness Rule 1, a theme item found there is never taken on speculatively absent Kain's word given live in the sitting, and none was given for this page.
 
