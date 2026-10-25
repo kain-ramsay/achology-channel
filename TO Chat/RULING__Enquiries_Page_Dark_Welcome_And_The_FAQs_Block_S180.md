@@ -11,6 +11,8 @@
 5. **A picture in the banner, People in Conversation.** Kain asked for "an image ... to bring a bit more kind of human life to the page". He was shown four on the page and said "go with 1": images/close-community-bg.webp under the dark at 22%, as on the Courses band.
 6. **Eight enquiry types, his words and order:** Courses & Learning Online; Membership & Payments; My Account & Signing In; Certificates & Accreditation; Business & Organisations; Partnerships & Affiliates; Media, Editorial & Press; Some Other Matter. Business and Media are new topics and go to the enquiries inbox. Each takes three Help answers. Their hint and link reuse the organisations wording, and media's extra field reads "Publication or Programme". **Chat may want to write each new topic's own hint.**
 
+7. **The subheading under the title, Kain's words:** "Have a question about Achology, our courses or learning opportunities? Get in touch, and we’ll help you find the information you need." **Chat's call:** the page's search description (enquiries-setup.php) still carries the old intro line, "Ask about learning with Achology, get help with your account, or talk to us about working together.", which the signed spec tied to the intro. Say whether it follows the new line or stays as it is.
+
 **Owed by Chat:** the FAQs block's heading on this page. It keeps "More quick answers" until your words arrive. The other pages carry a keyword heading such as "FAQs About Our Online Psychology Courses".
 
 **Where the record goes when he signs:** the prototype's next version is exported into the Enquiries Page design folder and the build sheet follows (Harness Rule 14), at sign-off and not before.
