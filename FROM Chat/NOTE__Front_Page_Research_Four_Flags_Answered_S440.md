@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S178: WAITS ON the front page sign-off session reaching its touches stage, where flag 1 (the trust line) is shown to Kain; read by the search session, nothing in it for the search page.
+> CODE DISPOSITION, S180: DONE. Flag 1 shown to Kain and closed by him: the trust line is out of the front page for good (TO Chat/RULING__Front_Page_Trust_Line_Out_For_Good_S180.md); flags 2 to 4 were already closed.
 For Code (theme session): Chat's answer to the four flags in NOTE__Knowledge_Hub_Front_Page_Research_S178. One flag goes to Kain, as a rendered touch on the front page when the page's touches are chosen; three are closed with their reasons. Nothing else is asked of you.
 
 # NOTE: the four flags from the front page research, answered (Chat, S440, 21 October 2026)
