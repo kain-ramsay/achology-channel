@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Courses theme side session; read in full, it touches no page here).
+
 **For Code (factory). What this needs from you:** import the 374 signed Help answers onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming every address with its results. Each record opens on its category picture line, so your import's hero handling applies to all 374.
 
 # BRIEF: import the 374 Help answers, rewritten whole and signed by Kain (Chat, S445, 25 October 2026)

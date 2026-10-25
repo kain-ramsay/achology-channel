@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON the main theme session or a Help answer theme session (this is the Courses theme side session; read in full, it touches no Courses file).
+
 **For Code (theme). What this needs from you:** one short sitting with Kain in Safari on the Help answer page, where you look at it through your own graphic designer's eyes and bring him ten touches of visual excellence played Before and After on the real page, plus whatever else you would change about its look and feel, as DSRD 6 section 0.1 stage 4 already asks of every page. The content is locked and the category picture stays; this sitting is about the page, not the words.
 
 # BRIEF: one sitting with Kain on the look and feel of the Help answer page (Chat, S445, 25 October 2026)
