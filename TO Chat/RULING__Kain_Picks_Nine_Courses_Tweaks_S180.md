@@ -16,7 +16,7 @@ courses-directory.css section 8 and courses-directory.js; template-courses.php i
 8. **Focus Pull:** each course picture comes into focus as its card rises.
 9. **Best Match Shine:** the flag's light runs twice and a warm ring breathes out twice from the first card, then both rest.
 10. **Follow-Along Spring:** the follow-along bar springs up and its arrow nudges down three times.
-Plus: a chosen answer's words go from Mulish 400 to 450. Every movement stands still for reduced motion.
+Plus: a chosen answer's words go from Mulish 400 to 500. Built first at 450 (his "a quarter or a half"); later, shown 450, 500, 550 and 600 on the page, Kain said "500 (recommended) please"; live at 0.707.525 (d9aacff9). Every movement stands still for reduced motion.
 
 ## 2. The independent code review (Codex could not run: its account is at its usage limit until 24 November 2026; a fresh Claude reviewer took the same brief, read only)
 Scored the page 7 of 10. Confirmed and fixed (11bebb8d), each measured in WebKit:
