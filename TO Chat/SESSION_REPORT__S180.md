@@ -33,3 +33,6 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.528: the founder pages' spacing fixes and ten touches behind ?founder-touch=N, scoped to the three pages (side session founder-pages, b9bbde08).
 - 0.707.529: the Knowledge Hub front page takes Kain's seven touches (eb50a272).
 - 0.707.530: the Help answer page takes Kain's picks, the Halo band with the category picture ending it and all ten touches (f6da9822, side session help-answer-page).
+- 0.707.531 to 0.707.538: Help answer foot, facts line, Bare Thumbs vote, enquiry line in Kain's words (help-answer-page); front page learning block designs behind ?kf-path (kh-front-page).
+- 0.707.539: the Enquiries page takes Chat's S446 words, A Mistake on a Page switched on; the shared FAQs block spells out the Information Commissioner's Office (TO Chat/NOTE__Enquiries_Words_Shipped_0.707.539_S180.md).
+- Hand added: ASK__The_Learning_Path_Course_Label_On_Every_Hub_Page_S180 (the shared Most Popular Course label is untrue on most pages).
