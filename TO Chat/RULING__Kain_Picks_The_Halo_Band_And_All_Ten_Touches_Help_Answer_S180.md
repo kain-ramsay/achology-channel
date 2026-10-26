@@ -25,7 +25,7 @@ Kain said the foot looked dropped under the answer. Shown four ways on the real 
 - A hairline above the vote strip closes the answer, 48 either side (32 on a phone); the vote at the left, the enquiry line at the right, one row; on a phone the enquiry line drops under the vote. It is not the S110 line under the strip, which stays gone.
 - The related card stands 48 above the orange trial panel (32 on a phone), raised from 24 at his ask.
 - Declined: 2 Closing Card, 3 Slate Bookend, 4 Centred Close.
-- Then his own words for the enquiry line: "Have a Question We Haven't Covered? Make an Enquiry" (commit 4e181977).
+- Then his own words for the enquiry line: "Have a Question We Haven't Covered? Make an Enquiry" (commit 4e181977, live at **0.707.534**, read back from the build site; they keep one row with the vote at 1280 and 834). The template is finished at 0.707.534.
 - page_gate on a two-line answer at 0.707.533: 53 passed, 17 failed. The foot's own old failures are cleared (the card to the panel, the strip to the card on a phone, the body owning the boundary). One new instrument line: hairline-spacing reads 24 above the new line (8 on a phone) because touch 3 holds the answer's last part 24 low until the reader scrolls to it and the gate measures without scrolling; settled, it is 48 (32), measured (previews/help-answer-s180/measure_foot.py). The Courses session met the same rising-touch timing with axe. A factory line for the gate, not a page fault.
 
 ## For the specifications
