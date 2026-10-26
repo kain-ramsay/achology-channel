@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file, and the Help answers factory session was archived after delivering 286).
+
 **For Code, factory session. What this needs from you:** finish the Help answer import on the six rulings below; item 4 waits on one yes from Kain, named there.
 
 # RULING: the Help answer import, section 5, six rulings (Chat, S446, 26 October 2026)
