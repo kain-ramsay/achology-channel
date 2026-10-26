@@ -1,2 +1,2 @@
-OK  2026-10-26T16:25:40Z
-Nothing to send. Channel and origin agree.
+FAIL  2026-10-26T16:31:45Z
+Pull failed and was rolled back cleanly, so the next cycle starts from a good state. The local channel may be behind origin until it clears. Git said: error: update_ref failed for ref 'refs/heads/main': cannot lock ref 'refs/heads/main': is at 07827d4ceec172d49c21fa310c71be564baebe06 but expected 7c9bc6689bc36.
