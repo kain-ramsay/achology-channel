@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S163: WAITS ON the listen bar coming off every Help answer (single-faq_article.php still draws it). The quote page half shipped at 0.707.234, measured gone at five widths (SHIP__Hero_Soft_Light_S163 in TO Chat carries the owed-back line).
+> CODE DISPOSITION, S180: DONE. The listen bar is off every Help answer at 0.707.532, measured gone at 1280, 834 and 390; TO Chat/RULING__Kain_Picks_The_Halo_Band_And_All_Ten_Touches_Help_Answer_S180.md carries the owed-back line (the quote page half shipped at 0.707.234, SHIP__Hero_Soft_Light_S163).
 
 First line of need: Code, take the listen bar off every quote page and Help answer before launch (Backlog: Code line 26), and hold the S421 audit's machine fixes (line 25) until the content type packs route them.
 
