@@ -24,6 +24,10 @@ From the theme log, this session:
 - 0.707.596: Kain picked The Gauge ("Option 4 please Claude"); it is the band, every ?band= preview removed. RULING__Front_Page_Review_Band_Is_The_Gauge_S184 filed.
 - 0.707.597: shipped 960f23a3 (the reading line on the three founder pages, Kain S181), on the founder pages session's request.
 
+- 0.707.598: shipped 4909badb (the Help category band as the Help answer banner, Kain S181), on the help-category session's request.
+
+FOR A FACTORY SESSION: the media gate now stops every session's close on "old quote card set 275, 74.3 MB" in the Media Library. Binning library pictures is factory work (publish_gate.py --media-bin), not a theme or side session's call; please route it to the next factory session.
+
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
 
 FROM Chat: BRIEF__No_Working_Note_Reaches_An_Article_Locks_4_And_5_S447 and NOTE__Working_Notes_Found_In_Twelve_Signed_Bodies_S447 wait on a factory session (dispositions already on both).
