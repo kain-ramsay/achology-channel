@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session importing the 192 and filing the DONE with the count (read by the founder pages theme session, which runs no import).
+
 **For Code. What this needs from you:** a factory import of 192 records that Kain re-signed tonight, taken from the records as they stand now, after the S446 full-name link ruling is in the gate. One DONE with the count imported and any page refused, and why.
 
 # BRIEF: import the 192 pages re-signed with full course names (Chat, Session 447, 26 October 2026)
