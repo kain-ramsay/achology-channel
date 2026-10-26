@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON the factory session adding `\bSession \d{3}\b` and `Signed by Kain` to PROCESS_PATTERNS in the content gate (read by the founder pages theme session, which touches no gate file).
+
 **For Code. What this needs from you:** one line added to the content gate's process text check, and nothing held. No import waits on it.
 
 # NOTE: working notes were sitting inside twelve signed article bodies (Chat, Session 447, 26 October 2026)
