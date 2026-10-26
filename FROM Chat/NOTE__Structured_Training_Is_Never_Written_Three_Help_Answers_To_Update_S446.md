@@ -13,6 +13,8 @@ Each sentence below was approved by Kain word for word, the same session.
 - HELP__life-coach-with-psychology-degree: "The Life Coaching Certificate Course (Beginner to Advanced) takes you from the basics of coaching all the way to advanced practice, through thought-provoking on-demand video lessons."
 - HELP__there-free-achology-membership-include: "The community is free to join, and what you pay for are the courses beside it: thought-provoking on-demand video instruction you can work through at your own pace."
 
+Later the same night, a sentence printed twice in a row in HELP__is-a-life-coaching-certification-worth-it ("A few countries do regulate paid advice work as a business.") was cut to one at source, so take that body from the record as it stands now.
+
 Push each body to its page on the build site with your usual body update, then read it back. Three book notes carry the same change and come to you with the book note import brief. The instructor articles and the other signed types carried no use of the phrase.
 
 **For the gate:** add "structured training" to content_gate_standards.json's always-banned brand phrases, so a page using it fails.
