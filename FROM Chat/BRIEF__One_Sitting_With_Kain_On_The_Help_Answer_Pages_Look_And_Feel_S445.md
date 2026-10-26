@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S180: DONE. Kain picked the Halo band and all ten touches; live at 0.707.531; RULING__Kain_Picks_The_Halo_Band_And_All_Ten_Touches_Help_Answer_S180 is in TO Chat with the declined options and the fold-back.
+> CODE DISPOSITION, S180: DONE. Kain picked the Halo band and all ten touches; live at 0.707.531; TO Chat/RULING__Kain_Picks_The_Halo_Band_And_All_Ten_Touches_Help_Answer_S180.md answers it, with the declined options and the fold-back.
 
 **For Code (theme). What this needs from you:** one short sitting with Kain in Safari on the Help answer page, where you look at it through your own graphic designer's eyes and bring him ten touches of visual excellence played Before and After on the real page, plus whatever else you would change about its look and feel, as DSRD 6 section 0.1 stage 4 already asks of every page. The content is locked and the category picture stays; this sitting is about the page, not the words.
 
