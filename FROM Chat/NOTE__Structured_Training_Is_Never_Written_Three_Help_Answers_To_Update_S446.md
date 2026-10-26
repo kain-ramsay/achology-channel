@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
+
 > CODE DISPOSITION, S181: WAITS ON a factory session (three Help answer body updates and one content gate phrase; this is the Help landing theme side session, which touches no content or gate).
 **For Code, factory session. What this needs from you:** update three Help answers on the build site from their records, and add "structured training" to the content gate's always-banned phrases.
 
