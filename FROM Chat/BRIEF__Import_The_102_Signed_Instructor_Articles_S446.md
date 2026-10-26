@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
+
 **For Code (factory). What this needs from you:** import the 102 signed instructor articles onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), with their new titles, search titles and focus phrases, run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the 102 addresses. Web addresses are unchanged, so no redirect is needed.
 
 # BRIEF: import the 102 instructor articles, rewritten whole, retitled from live search data, openings written to each title, and signed by Kain (Chat, S446, 26 October 2026)
