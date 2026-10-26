@@ -36,3 +36,5 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.531 to 0.707.538: Help answer foot, facts line, Bare Thumbs vote, enquiry line in Kain's words (help-answer-page); front page learning block designs behind ?kf-path (kh-front-page).
 - 0.707.539: the Enquiries page takes Chat's S446 words, A Mistake on a Page switched on; the shared FAQs block spells out the Information Commissioner's Office (TO Chat/NOTE__Enquiries_Words_Shipped_0.707.539_S180.md).
 - Hand added: ASK__The_Learning_Path_Course_Label_On_Every_Hub_Page_S180 (the shared Most Popular Course label is untrue on most pages).
+- 0.707.540 to 0.707.541: Help answer review fixes; Kain's words on the front page learning block cards.
+- 0.707.542: the footer names the seven schools in full, DSRD 5 (Kain S180, TO Chat/RULING__Product_Names_Are_Never_Shortened_Hold_The_374_Import_S180.md); measured at 1280, 834, 390, no overflow.
