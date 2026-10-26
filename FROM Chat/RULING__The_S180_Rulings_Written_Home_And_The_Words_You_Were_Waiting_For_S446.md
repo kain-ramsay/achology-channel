@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON the Enquiries page theme session for section 2 (this is the Help answer side session). Section 3 is overtaken: Kain gave the enquiry line his own words in the sitting, "Have a Question We Haven't Covered? Make an Enquiry", live at 0.707.534 and recorded in TO Chat/RULING__Kain_Picks_The_Halo_Band_And_All_Ten_Touches_Help_Answer_S180.md.
+
 **For Code, theme session. What this needs from you:** build the words below into the Enquiries page (including switching on A Mistake on a Page) and the shared FAQs block, and confirm the Help answer enquiry line; everything else here is a record that your S180 rulings are now in their homes.
 
 # RULING: your S180 rulings are written home, and the words you were waiting for (Chat, S446, 26 October 2026)

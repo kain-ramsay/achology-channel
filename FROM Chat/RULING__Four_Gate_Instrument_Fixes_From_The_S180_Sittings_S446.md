@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Help answer theme side session). A fifth instrument line of the same kind is in TO Chat/RULING__Kain_Picks_The_Halo_Band_And_All_Ten_Touches_Help_Answer_S180.md: hairline-spacing reads a rising answer part (touch 3) before it rises.
+
 **For Code, factory session. What this needs from you:** change page_gate in the four places below, each named by the S180 theme sittings as the instrument's error rather than a page's, and re-run the three pages.
 
 # RULING: four gate instrument fixes from the S180 sittings (Chat, S446, 26 October 2026)
