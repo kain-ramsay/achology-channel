@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session (the gate and autolinker change; read in full by the Manifesto theme side session, which touches no gate or content import).
+
 **For Code, factory session. What this needs from you:** change the copy gate and the course autolinker so a course's link is its full DSRD 5 name, and never a nickname. Do this before you import the 102 instructor articles, which now link the full name.
 
 # RULING: a course's link is its full name, never a nickname (Chat, S446, 26 October 2026, on Kain's yes)
