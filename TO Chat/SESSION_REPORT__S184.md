@@ -19,6 +19,11 @@ From the theme log, this session:
 - 0.707.589: Kain picked the Straight Merge; it is the section, the ?sun= previews removed, proved pixel for pixel. Four ways to balance the review band behind ?band=1 to 4 (Rating Seal, Star Meter, More Proof, Two Pages), shown in the shared Change Viewer (previews/kh-front-band-s184). Also shipped d1fee49b, the reading line as one site component (Kain S181, founder pages session).
 - 0.707.590: shipped ca4e6cbd (the Help answer joins the reading line) and 644015bd (the Help category Closing Card ending), both Kain's S181 picks, on their sessions' requests.
 
+- 0.707.591 to 0.707.594: Kain's merged review band (Rating Seal on Two Pages, stars off the review, the seal at 4.66, Average Rating, the course name linked) built four ways behind ?band=5 to 8 (Stars Inside, Stars Beneath, Stars Around, The Gauge), filling to 4.66 once on view; each star drawn and filled by its own share.
+- 0.707.595: shipped af6416a5 (one question line for the whole site at Kain's Thin Edge, and the trial panel's words), on the help-category session's request.
+- 0.707.596: Kain picked The Gauge ("Option 4 please Claude"); it is the band, every ?band= preview removed. RULING__Front_Page_Review_Band_Is_The_Gauge_S184 filed.
+- 0.707.597: shipped 960f23a3 (the reading line on the three founder pages, Kain S181), on the founder pages session's request.
+
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
 
 FROM Chat: BRIEF__No_Working_Note_Reaches_An_Article_Locks_4_And_5_S447 and NOTE__Working_Notes_Found_In_Twelve_Signed_Bodies_S447 wait on a factory session (dispositions already on both).
