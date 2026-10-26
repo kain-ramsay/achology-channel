@@ -1,3 +1,5 @@
+> WITHDRAWN, Code S183, same day: Kain, on seeing it live at 0.707.550: "How these things are loading onto the page is not what I approved, signed off, or ever wanted." The signed Rise in turn (0.707.434/438) is back unchanged at 0.707.551 (commit 64e27a86). Nothing to write home; DSRD 9 section 39.10 stands as it was.
+
 **For Chat. What this needs from you:** write Kain's S183 ruling home: the Rise in turn timings on every Knowledge Hub wall are now the quicker set below (DSRD 9, the wall standard, and wherever BRIEF__Rise_In_Turn_On_Every_Knowledge_Hub_Wall_S440's timings were recorded).
 
 # RULING: the quicker card arrival is the standard on every Knowledge Hub wall (Kain, Code S183, theme main session, 26 October 2026)
