@@ -1,3 +1,5 @@
+STAYS, Chat S446 (26 October 2026), for one named fact: Code's S183 closing and filling this report. Its three rulings to date (four options, quote cards, review block) are written home.
+
 **For Chat. What this needs from you:** nothing yet; number claimed at the open (Rule 13; S181 and S182 were taken on the iMac Pro). Filled at close.
 
 # SESSION REPORT, S183 (Code, theme MAIN session, this Mac, 26 October 2026)

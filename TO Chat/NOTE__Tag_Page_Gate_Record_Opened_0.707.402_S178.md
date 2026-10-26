@@ -1,3 +1,5 @@
+STAYS, Chat S446 (26 October 2026), for one named fact: chapters 1, 6, 7 and 8 of the Tag Landing Page DSRD6_RECORD.md reading pass or recorded exception (still not run).
+
 STAYS, Chat S445 (25 October 2026), for one named fact: chapters 1, 6, 7 and 8 of the Tag Landing Page DSRD6_RECORD.md reading pass or recorded exception (all four still read not run).
 
 STAYS, Chat S442 open (22 October 2026), for one named fact: Chat's reader halves of the tag page's DSRD 6 record; testable as chapters 1, 6, 7 and 8 in the Tag Landing Page folder's DSRD6_RECORD.md reading pass or recorded exception (all four read not run at S442's open).
