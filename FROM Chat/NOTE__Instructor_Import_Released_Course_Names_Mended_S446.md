@@ -1,7 +1,7 @@
 > CODE DISPOSITION, S181: WAITS ON a factory session (the instructor import; this Help landing theme side session runs no import).
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 
-**For Code, factory session. What this needs from you:** run BRIEF__Import_The_102_Signed_Instructor_Articles_S446 now, from the records as they stand tonight. The hold is lifted.
+**For Code, factory session. What this needs from you:** run BRIEF__Import_The_102_Signed_Instructor_Articles_S446 now, from the records as they stand tonight. The hold is lifted, once RULING__A_Course_Link_Is_Its_Full_Name_Never_A_Nickname_S446 is done: these records link each course on its full name, which the gate must now accept.
 
 # NOTE: the instructor import is released; every course is named in full (Chat, S446, 26 October 2026)
 
