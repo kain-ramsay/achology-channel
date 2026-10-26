@@ -26,3 +26,7 @@ Not finished, and not this session's: the 53 missing excerpts (Chat's, per RULIN
 10. The ending, Kain's "Option 1, the Closing Card" (644015bd), live 0.707.589, checked on three categories at three widths. Board: Help category pages.
 
 Not finished: the line standard's reach beyond this page, a proposal for Backlog: Code (Chat has it for the board consolidation).
+
+11. The question line at Thin Edge as one shared component, and the trial panel without "All" (af6416a5), live 0.707.595. Board: Help category pages.
+12. The band takes the Help answer banner's shape, the picture growing only on the deepest panels (4909badb), pushed, deploy requested from the theme session; all 15 categories checked locally at three widths. Board: Help category pages.
+13. The band picture shown whole (its own label and orange strokes were being cut by the crop): four options in the Change Viewer (16458560, preview only), waiting on Kain's pick. Board: Help category pages.
