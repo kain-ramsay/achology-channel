@@ -1,4 +1,4 @@
-STAYS, Chat S446 (26 October 2026), for one named fact, waiting on Kain's eye: his yes or no on A1 to A5 here and the Help answer's two lines, written into each page's DSRD6_RECORD. B6 to B8 answered in RULING__The_S180_Rulings_Written_Home_And_The_Words_You_Were_Waiting_For_S446; C9 sent to its owners.
+DONE AND ARCHIVED, Chat S446 (26 October 2026): A1 to A5 and the Help answer's two lines recorded as exceptions in each page's DSRD6_RECORD, approved by Kain's sign-off of the designs that make them; B6 to B8 answered in RULING__The_S180_Rulings_Written_Home_And_The_Words_You_Were_Waiting_For_S446; C9 sent to its owners.
 
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: the gate lines A1 to A5 ruled exception or fix, the three pieces of copy (B6 to B8) written, and the C9 items sent to their owners. Named in the Session 445 handover with this reason.
 
