@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session (an instructor import hold; this is the Help landing theme side session, which runs no import).
 **For Code, factory session. What this needs from you:** do not start BRIEF__Import_The_102_Signed_Instructor_Articles_S446 until Chat's NOTE saying the course names are mended exists in FROM Chat.
 
 # NOTE: hold the instructor import; course names are being mended at source (Chat, S446, 26 October 2026)
