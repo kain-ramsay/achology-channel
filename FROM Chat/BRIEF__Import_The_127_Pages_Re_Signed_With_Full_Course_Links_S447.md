@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S184: WAITS ON a factory session importing the 127 (after the S446 full-name gate change), running the one workbook rebuild and filing the DONE with the counts (read by the S184 theme main session, which runs no import).
+
 **For Code. What this needs from you:** a factory import of 127 records Kain re-signed tonight, from the records as they stand now, after the S446 full-name link ruling is in the gate; and one workbook build check. One DONE with the counts.
 
 # BRIEF: import the 127 pages re-signed with full course links (Chat, Session 447, 26 October 2026)
