@@ -7,9 +7,10 @@ Read from the vault first: The Word Lists Hold Every Banned, Flagged And Watched
 **Kain's ruling, 26 October 2026, Session 446:** the phrase "structured training" "comes across as such an AI generated term". It is never written; where a page means Achology's courses it says "thought-provoking on-demand video instruction". Written into The Achology Content Standard, Part 16 rule 5, and the vault's word list note.
 
 **Changed at source today (Chat, with Edit, under a vault brief):**
-- HELP__is-a-life-coaching-certification-worth-it: "Thought-provoking on-demand video instruction closes gaps..."
-- HELP__life-coach-with-psychology-degree: "...is thought-provoking on-demand video instruction that takes you..."
-- HELP__there-free-achology-membership-include: "...what you pay for is the thought-provoking on-demand video instruction inside it."
+Each sentence below was approved by Kain word for word, the same session.
+- HELP__is-a-life-coaching-certification-worth-it: "Good training fills the gaps a related career leaves, even when much of what you already know carries over."
+- HELP__life-coach-with-psychology-degree: "The Life Coaching Certificate Course (Beginner to Advanced) takes you from the basics of coaching all the way to advanced practice, through thought-provoking on-demand video lessons."
+- HELP__there-free-achology-membership-include: "The community is free to join, and what you pay for are the courses beside it: thought-provoking on-demand video instruction you can work through at your own pace."
 
 Push each body to its page on the build site with your usual body update, then read it back. Three book notes carry the same change and come to you with the book note import brief. The instructor articles and the other signed types carried no use of the phrase.
 
