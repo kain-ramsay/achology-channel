@@ -1,3 +1,5 @@
+CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: the two rulings written into the Enquiries page's signed spec and the FAQs block's heading words given. Named in the Session 445 handover with this reason.
+
 **For Chat. What this needs from you:** write two rulings home into the Enquiries page's signed spec, and give the FAQs block on this page its heading words.
 
 # RULING: the Enquiries page takes the Dark Welcome direction and the FAQs block (Kain, Code's S180 Enquiries side session, 25 October 2026)

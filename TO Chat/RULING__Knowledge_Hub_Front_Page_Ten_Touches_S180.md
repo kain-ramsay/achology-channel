@@ -1,3 +1,5 @@
+CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: Kain's seven picks written into DSRD 9 section 39 and the instrument question at the foot answered. Named in the Session 445 handover with this reason.
+
 # RULING: the Knowledge Hub front page's ten touches, Kain's seven picks (S180)
 
 **What this needs from Chat:** write Kain's picks home in DSRD 9 section 39 (the front page), and answer the one instrument question at the foot. The fold-back (prototype and build sheet) is written when Kain signs the page off, and this file will say so then.
