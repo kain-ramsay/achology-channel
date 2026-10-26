@@ -16,7 +16,7 @@ BRIEF__Import_The_374_Signed_Help_Answers_S445 is DONE for the 286 it delivered;
 
 ## 2. The 15 records held or refused
 - **5 refused:** the 4 with no outside link are all answers about Achology itself, and PACK_04 file 02 says such an answer "carries none, and the report says so". The front door is wrong for them: let a help answer with no outside link through when its record says it is about Achology only, and import these 4. The stray "[" on best-browsers-devices-achology-community is a typing fault, not prose: remove the one character and import.
-- **10 held for an alias:** Chat mends these at source (the smallest change that lets the full DSRD 5 name stand, nothing else reworded) and writes a NOTE into FROM Chat naming each changed sentence. Waits on that NOTE existing; import them when it does.
+- **10 held for an alias:** DONE, see NOTE__The_Ten_Help_Answers_Mended_At_Source_S446. Chat mended these at source (the smallest change that lets the full DSRD 5 name stand, nothing else reworded) and writes a NOTE into FROM Chat naming each changed sentence. Waits on that NOTE existing; import them when it does.
 
 ## 3. The two stage 5 instrument lines: correct the checks
 Check 2: for help-answer, `sections: {}` means headings are free, as `_sections_note` says. Check 3: for help-answer, the picture is read from the body, as `_record_shape_note` says, and no `featured_image` field is required. Change `stage5_import_checks.py` for the help type only, and re-run it on all 364.
