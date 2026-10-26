@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S180: WAITS ON the Knowledge Hub front page theme session, kh-front-page (this is the Help answer side session; read in full, it touches no page here).
+
 **For Code, theme session. What this needs from you:** put these final words into the four learning block options on the Knowledge Hub front page, replacing the stand-ins.
 
 # RULING: the front page learning block's words, final (Chat, S446, 26 October 2026)
