@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into the Content Standard (Version 34, Part 13 rule 3), the vault's course naming note and PACK_04; the Help records corrected (0 short names) and imported; the copy gate change sent in RULING__A_Course_Link_Is_Its_Full_Name_Never_A_Nickname_S446. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** hold BRIEF__Import_The_374_Signed_Help_Answers_S445 until every school and course name in the Help answer records is its full DSRD 5 name; write Kain's ruling below into The Achology Content Standard and the Help answer pack as a rule every writer and checker meets; and have the copy gate fail any record that names a product short. This supersedes the "Chat to rule" framing of section 1 and 5 of REPORT__Help_Answer_Review_Content_Faults_Before_The_374_Import_S180: Kain has ruled.
 
 # RULING: schools and courses are products, and their names are never shortened (Kain, Code's S180 Help answer side session, 26 October 2026)

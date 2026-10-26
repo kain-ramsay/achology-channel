@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): recorded in 000__SIGNED_SPEC__Manifesto_Page_S446.md in the Manifesto Page folder, with its PAGE GATE line. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** record Kain's ruling on the Manifesto page, and write a page spec with its PAGE GATE line for it when you next can, so the gate has a home to read.
 
 # RULING: the Manifesto takes the hero strip and the facsimile; built on Kain's word (Code, S181, 26 October 2026)

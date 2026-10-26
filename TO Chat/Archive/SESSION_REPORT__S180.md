@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): Code's S180 closed; every line dispositioned at S445 and S446; its open jobs carried to Code's S181. Board: moves at the next session's board consolidation.
+
 STAYS, Chat S445 (25 October 2026), for one named fact: Code's S180 still open and appending (every line to date dispositioned: the wall, the three audit jobs, the trust line and the Enquiries files).
 
 # SESSION REPORT, S180 (theme session, Code)

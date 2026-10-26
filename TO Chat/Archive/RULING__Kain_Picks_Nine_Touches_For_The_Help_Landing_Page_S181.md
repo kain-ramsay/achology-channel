@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into DSRD 9 new section 42. Board: moves at the next session's board consolidation.
+
 RULING for the record: Kain took nine of ten visual touches for the Help landing page /help/ (Code's S181 help-landing side session, 26 October 2026). Needs from Chat: write them into the landing's DSRD 9 section with the Plain Top ruling.
 
 Kain's words: "all of them please, apart from five, light."

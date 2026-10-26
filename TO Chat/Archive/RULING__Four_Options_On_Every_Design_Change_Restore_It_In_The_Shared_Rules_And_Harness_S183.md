@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): The Shared Rules section 1 (Version 20), The Harness Rule 7 (Version 3.18) and the Project Instructions section 5 (master and the Chat seat's copy) now carry Kain's S183 rule. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** change The Shared Rules section 1 and The Harness Rule 7 so that every design change, Kain's own requests included, comes to him as four rendered options; the S414 "build the best version" sentence is what keeps making Code forget, because it loads first in every session.
 
 # RULING: four rendered options on every design change, written where every session reads it first (Kain, Code S183, theme main session, 26 October 2026)

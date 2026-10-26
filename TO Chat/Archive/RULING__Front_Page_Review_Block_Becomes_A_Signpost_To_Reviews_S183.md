@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into DSRD 9 section 39.14; no reviews register exists, so the featured review is recorded there; the section's final form is added when Kain picks. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** write Kain's S183 front page review block rulings home in DSRD 9 (the Knowledge Hub front page, its learning block), and the review into the reviews register as featured on the front page.
 
 # RULING: the front page review block becomes a signpost to the reviews page (Kain, Code S183, theme main session, 26 October 2026)

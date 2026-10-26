@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into DSRD 9 new section 42 and DSRD 2 section 2.24. Board: moves at the next session's board consolidation.
+
 RULING for the record: Kain picked option 1, Plain Top, for the Help landing page /help/ (Code's S181 help-landing side session, 26 October 2026). Needs from Chat: a DSRD 9 section for the landing, which has none.
 
 Kain's words: "1. Plain top please."

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into DSRD 9 section 20.0h, with the old 4 by 5 line marked withdrawn. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** write Kain's two S183 quote card rulings home into DSRD 9 section 20.0h (the one wall) and wherever BRIEF__One_Wall_For_The_Whole_Knowledge_Hub_And_The_Quote_Card_Family_S442 item 9's shapes were recorded.
 
 # RULING: upright quote cards fit their words, and a quote card is never stretched to level a wall (Kain, Code S183, theme main session, 26 October 2026)

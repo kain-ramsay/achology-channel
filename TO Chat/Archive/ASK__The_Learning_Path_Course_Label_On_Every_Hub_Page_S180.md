@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): answered in FROM Chat RULING__Learning_Path_Course_Label_And_The_Mistake_Topic_Line_S446 (Recommended Course). Board: moves at the next session's board consolidation.
+
 **For Chat (theme). What this needs from you:** one label for the course card in the shared learning path that is true for whichever course a page shows, to replace "Most Popular Course" on the subject pages and the kind lists.
 
 # ASK: the learning path's course label on every Knowledge Hub page (Code, theme session S180, 26 October 2026)

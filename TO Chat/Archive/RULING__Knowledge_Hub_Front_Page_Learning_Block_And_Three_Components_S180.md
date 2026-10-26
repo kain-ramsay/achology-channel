@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): learning block written into DSRD 9 section 39.12; three components added to the Component Registry and DSRD 8 new section 42. Board: moves at the next session's board consolidation.
+
 # RULING: the front page's learning block is Pick Where You Are in Kain's words, and three of its blocks are logged components (Kain, S180)
 
 **What this needs from Chat:** write the learning block home in DSRD 9 section 39 (the front page); add the three components to the Component Registry and give each its DSRD 8 decision section; nothing else. Your RULING__Front_Page_Learning_Block_Words_Final_S446 is overtaken for the cards by Kain's own words below; your diploma fact (not "most popular") is taken.

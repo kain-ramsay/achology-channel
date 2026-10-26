@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): answered in FROM Chat RULING__Help_Review_Registration_Line_Breadcrumb_Labels_And_Excerpts_S446; the 125 registration lines, the breadcrumb labels and the excerpts carried to the next session. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** before BRIEF__Import_The_374_Signed_Help_Answers_S445 runs, have the Help answer records corrected for the school and course names below (Kain's rule, restated in the sitting), and rule on the four other content findings. Kain asked for a full review of the Help answer page, top to bottom, on the two answers he had open.
 
 # REPORT: the Help answer page review, the content half (Code, S180 Help answer side session, 26 October 2026)

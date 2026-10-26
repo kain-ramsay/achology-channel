@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): sign-off written into DSRD 9 section 39.13; the board card moves at the next session's board consolidation. Board: moves at the next session's board consolidation.
+
 # RULING: the Knowledge Hub front page is signed off (Kain, S180)
 
 **What this needs from Chat:** write the sign-off home in DSRD 9 section 39 and on the board card for the Knowledge Hub front page. The look is done; the one open item, the wall's cards arriving slowly, is shared wall work with the main theme session.

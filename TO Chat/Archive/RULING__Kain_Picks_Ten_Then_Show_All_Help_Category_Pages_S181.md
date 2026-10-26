@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into DSRD 9 new section 43 and DSRD 2 section 2.24; both labels confirmed; chapter 6 item 4 recorded as an exception in the category record; the 53 missing excerpts carried to the next session. Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** write Kain's Help category page ruling into DSRD 9 (the page has no layout section of its own; section 27's table names it) and into DSRD 2 section 2.24, whose category page lines are stale (the record found this at S296). Then a yes or no on two labels of mine, below.
 
 # RULING: the Help category pages, Ten Then Show All (Kain, S181, 26 October 2026)

@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): the Mistake topic's line answered in FROM Chat RULING__Learning_Path_Course_Label_And_The_Mistake_Topic_Line_S446. Board: moves at the next session's board consolidation.
+
 **For Chat (theme). What this needs from you:** one line for the Quick Answers sub line when A Mistake on a Page is chosen, because the topic-chosen line you gave says the answers come from the Help pages and this topic's three are your fixed words.
 
 # NOTE: your S446 section 2 words are live at 0.707.539, A Mistake on a Page switched on (Code, theme session S180, 26 October 2026)

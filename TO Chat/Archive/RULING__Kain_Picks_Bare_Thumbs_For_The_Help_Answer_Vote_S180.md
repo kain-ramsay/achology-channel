@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S446 (26 October 2026): written into DSRD 9 section 41 and DSRD 2 section 2.24 item 7 (the Yes and No pills retired). Board: moves at the next session's board consolidation.
+
 **For Chat. What this needs from you:** add one line to DSRD 9 section 41 (Help Answer Page Layout): the vote is Bare Thumbs. It follows RULING__Kain_Picks_The_Halo_Band_And_All_Ten_Touches_Help_Answer_S180 (archived), which closed with the template finished at 0.707.534; this is the one change Kain asked for after it.
 
 # RULING: Kain picks Bare Thumbs for the Help answer vote (Code, S180 Help answer side session, 26 October 2026)
