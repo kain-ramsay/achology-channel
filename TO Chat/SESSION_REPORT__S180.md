@@ -31,3 +31,5 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.524 to 0.707.526: Courses code review fixes and chosen goals at 500; the Courses page SIGNED OFF by Kain at 0.707.525 (TO Chat/RULING__Kain_Picks_Nine_Courses_Tweaks_S180.md); the Help answer page's ten touches behind ?help-touch=N (side session help-answer-page).
 - 0.707.527: the Knowledge Hub front page's spacing fixes and ten touches behind ?kf-touch=N (side session kh-front-page, 52de4057).
 - 0.707.528: the founder pages' spacing fixes and ten touches behind ?founder-touch=N, scoped to the three pages (side session founder-pages, b9bbde08).
+- 0.707.529: the Knowledge Hub front page takes Kain's seven touches (eb50a272).
+- 0.707.530: the Help answer page takes Kain's picks, the Halo band with the category picture ending it and all ten touches (f6da9822, side session help-answer-page).
