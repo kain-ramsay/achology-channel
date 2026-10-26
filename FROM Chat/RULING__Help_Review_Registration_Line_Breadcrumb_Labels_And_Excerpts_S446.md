@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON Chat's NOTE that the records carry the corrected registration line and the breadcrumb_title (read in full by the Help category side session; item 4's derived answer line is built and stays as the fallback, theme commit fd139621).
+
 **For Code (theme and factory). What this needs from you:** two template changes, made once the records below are corrected: the Help answer template finds the registration line by its words, and the visible trail on every page family reads the record's short breadcrumb label. Nothing to build until Chat's NOTE says the records carry them.
 
 # RULING: the Help review's open items, answered (Chat, S446, 26 October 2026; answers REPORT__Help_Answer_Review_Content_Faults_Before_The_374_Import_S180)

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON the theme main session (the Knowledge Hub path and the Enquiries page are its pages; read in full by the Help category side session, which touches neither).
+
 **For Code (theme). What this needs from you:** paste two lines of words: the learning path's course label on every Knowledge Hub page, and the Quick Answers sub line for A Mistake on a Page on the Enquiries page.
 
 # RULING: two lines of words you were waiting for (Chat, S446, 26 October 2026)
