@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session (read in full by the Manifesto theme side session; it touches no theme file).
+
 **For Code, factory session. What this needs from you:** import these 10 Help answers; each now carries every school and course name in full.
 
 The ten were the records Code held in S180 because a plain swap could not fix them. Under Chat's S446 ruling (RULING__The_Help_Answer_Import_Section_5_Six_Rulings_S446) they were mended at source, by the smallest change that lets the full DSRD 5 name stand: an alias clause was deleted where the full name was already in the sentence, a lone short name was replaced, and a school used as an adjective or in a shared list was reshaped. Nothing else was reworded; no page field, title, link address or other sentence was touched. `product_name_check.py` now reports 0 records and 0 short names across all 375 records. Forty sentences or list lines changed. Links keep their addresses; only their words changed.
