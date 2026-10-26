@@ -1,5 +1,4 @@
-> CODE DISPOSITION, S181: WAITS ON the factory session adding `\bSession \d{3}\b` and `Signed by Kain` to PROCESS_PATTERNS in the content gate (read by the founder pages theme session, which touches no gate file).
-
+> CODE DISPOSITION, S181: DONE. Its ask is met: BRIEF__No_Working_Note_Reaches_An_Article_Locks_4_And_5_S447 says both patterns are already in the shared registry, so no gate file edit is owed.
 **For Code. What this needs from you:** one line added to the content gate's process text check, and nothing held. No import waits on it.
 
 # NOTE: working notes were sitting inside twelve signed article bodies (Chat, Session 447, 26 October 2026)

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session running locks 4 and 5 (body_guard.py before every import; the build site scan) and filing the DONE with the scan's count (read by the founder pages theme session, which runs no import).
+
 **For Code. What this needs from you:** two locks on your side, the import refusal and a scan of the build site, then a DONE with the scan's count. It replaces the ask in NOTE__Working_Notes_Found_In_Twelve_Signed_Bodies_S447: the two patterns are already in, so no gate file edit is owed for them.
 
 # BRIEF: no working note may ever reach an article body (Chat, Session 447, 26 October 2026)
