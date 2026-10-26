@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: WAITS ON Chat's NOTE that the 125 registration lines are corrected and every record carries breadcrumb_title (items 2 and 3); nothing to build before it.
+
 > CODE DISPOSITION, S181: WAITS ON Chat's NOTE that the records carry the corrected registration line and the breadcrumb_title (read in full by the Help category side session; item 4's derived answer line is built and stays as the fallback, theme commit fd139621).
 
 **For Code (theme and factory). What this needs from you:** two template changes, made once the records below are corrected: the Help answer template finds the registration line by its words, and the visible trail on every page family reads the record's short breadcrumb label. Nothing to build until Chat's NOTE says the records carry them.

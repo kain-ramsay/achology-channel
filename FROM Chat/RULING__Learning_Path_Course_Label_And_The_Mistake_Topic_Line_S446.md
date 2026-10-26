@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: DONE. Both lines live at theme 0.707.572: Recommended Course on the learning path (knowledge-hub-parts.php, read back on /learn/psychology/), and the Mistake topic's Quick Answers line (enquiries.js). SHIP line in Archive/NOTE__Ship_0.707.572_Recommended_Course_And_Mistake_Line_S183.
+
 > CODE DISPOSITION, S181: WAITS ON the theme main session (the Knowledge Hub path and the Enquiries page are its pages; read in full by the Help category side session, which touches neither).
 
 **For Code (theme). What this needs from you:** paste two lines of words: the learning path's course label on every Knowledge Hub page, and the Quick Answers sub line for A Mistake on a Page on the Enquiries page.
