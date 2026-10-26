@@ -8,7 +8,7 @@
 1. **The upright quote card fits its words.** No fixed 4 by 5 shape (the S180 record's "upright at least 4 by 5" is withdrawn). The wide card keeps the signed 1200 by 630. The card itself is otherwise unchanged (cream canvas, mark, toned portrait, words, name, logo, Read This Quote Article at the foot). Live 0.707.557, commit 7ab354e7, kh-subject.css.
 2. **A quote card is never stretched to level a wall while another card in its column's run can take the height** (kh-subject.js share()). Live 0.707.556, commit 7565a25d. On the front page and the seven subject pages, no quote card is stretched at 1280, 834 or 390; every foot level within 1 px.
 
-**One case open, put to Kain in the same sitting.** On the Quotes list walls every card is a quote, so to end level the wall still stretches some quote cards (live 0.707.557: up to 14 a wall, most 74 px at 834). Kain's answer follows as a line here.
+**One case open, put to Kain in the same sitting.** On the Quotes list walls every card is a quote, so to end level the wall still stretches some quote cards (live 0.707.557: up to 14 a wall, most 74 px at 834). Kain's answer, the same sitting, to "should a stretched card's spare space sit evenly above and below its words?": "yes". Live 0.707.560, commit 17fcbeca: a stretched quote card centres its words (kh-subject.css .kq.is-grown; the wall marks the cards it grows); measured in WebKit on /learn/quotes/ at 1280, 834 and 390, the space above and below is equal on every stretched card (0 px difference).
 
 OWED BACK: the dated lines in DSRD 9 section 20.0h.
 
