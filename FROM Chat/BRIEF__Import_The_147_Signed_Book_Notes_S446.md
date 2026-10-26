@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
+
 **For Code (factory). What this needs from you:** import the 147 signed book notes onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the 147 addresses. Do RULING__A_Course_Link_Is_Its_Full_Name_Never_A_Nickname_S446 first: these notes link each course on its full name. Web addresses are unchanged, so no redirect is needed.
 
 # BRIEF: import the 147 book notes, rewritten whole, checked, settled and signed by Kain (Chat, S446, 26 October 2026)
