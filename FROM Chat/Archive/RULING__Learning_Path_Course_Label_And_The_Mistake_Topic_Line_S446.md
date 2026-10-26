@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S183: DONE. Both lines live at theme 0.707.572: Recommended Course on the learning path (knowledge-hub-parts.php, read back on /learn/psychology/), and the Mistake topic's Quick Answers line (enquiries.js). SHIP line in Archive/NOTE__Ship_0.707.572_Recommended_Course_And_Mistake_Line_S183.
+> CODE DISPOSITION, S183: DONE. Both lines live at theme 0.707.572: Recommended Course on the learning path (knowledge-hub-parts.php, read back on /learn/psychology/), and the Mistake topic's Quick Answers line (enquiries.js). SHIP line answered in TO Chat/SESSION_REPORT__S183.md (record in Archive/NOTE__Ship_0.707.572_Recommended_Course_And_Mistake_Line_S183).
 
 > CODE DISPOSITION, S181: WAITS ON the theme main session (the Knowledge Hub path and the Enquiries page are its pages; read in full by the Help category side session, which touches neither).
 

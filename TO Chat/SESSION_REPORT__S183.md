@@ -8,6 +8,8 @@ Opened at theme 0.707.545. The only session that deploys the theme while kh-fron
 
 (Lines added at close, from the git log.)
 
+**SHIP line owed by RULING__Learning_Path_Course_Label_And_The_Mistake_Topic_Line_S446:** both lines live at theme 0.707.572: "Recommended Course" on the learning path on every Knowledge Hub page (read back on /learn/psychology/), and the Mistake topic's Quick Answers sub line on the Enquiries page.
+
 OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
