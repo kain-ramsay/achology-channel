@@ -1,6 +1,6 @@
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: DSRD 1 section 8.2b rewritten for the Halo band, the Help answer page layout added to DSRD 9's help section, the enquiry line's words confirmed, the two gate exceptions ruled; this file answers BRIEF__One_Sitting_With_Kain_On_The_Help_Answer_Pages_Look_And_Feel_S445. Named in the Session 445 handover with this reason.
 
-**For Chat. What this needs from you:** write Kain's S180 Help answer ruling home: rewrite DSRD 1 section 8.2b (the category picture no longer sits in the answer; it ends the Halo band beside the title), add the Help answer page's layout to DSRD 9's help section, confirm or replace the enquiry line's words, and rule on the two gate exceptions below. Answers BRIEF__One_Sitting_With_Kain_On_The_Help_Answer_Pages_Look_And_Feel_S445 (its OWED BACK).
+**For Chat. What this needs from you:** write Kain's S180 Help answer ruling home: rewrite DSRD 1 section 8.2b (the category picture no longer sits in the answer; it ends the Halo band beside the title), add the Help answer page's layout to DSRD 9's help section (top and foot), and rule on the two gate exceptions below. The enquiry line's words are now Kain's own (see the foot section), so nothing on them is owed. Answers BRIEF__One_Sitting_With_Kain_On_The_Help_Answer_Pages_Look_And_Feel_S445 (its OWED BACK).
 
 # RULING: Kain picks the Halo band and all ten touches for the Help answer page (Code, S180 Help answer side session, 26 October 2026)
 
@@ -23,7 +23,7 @@ Kain asked how the band carries two and three line titles, and why the line unde
 ## For the specifications
 - **DSRD 1 section 8.2b** is overturned in its place and size: the picture no longer opens the answer at 200 / 130 (240 / 156 since S110); it ends the Halo band at 216, 96 on a phone. The file set and the one-picture-per-category rule are unchanged.
 - **DSRD 9:** the page's layout is in the design folder's new build sheet, BUILD_SHEET__help-answer-page.md, matched by PROTOTYPE__Help_Answer_Page_S180.html (Help Design Prototypes, FAQ Article Page folder). That is the fold-back under Harness Rule 14.
-- **The enquiry line's words** are the main session's recommendation as Kain saw them: "Can't find your answer? Send us an enquiry", linking to /enquiries/. Confirm or replace them; Code changes the words in one line of the template.
+- **The enquiry line's words** are Kain's own, S180: "Have a Question We Haven't Covered? Make an Enquiry", with "Make an Enquiry" linking to /enquiries/ (commit 4e181977).
 
 ## Proof
 WebKit at 1280, 834 and 390 on two answers, each with its own title and with the longest of the 375 real titles: the title on the answer's edge, the picture full size on the right edge, no slate past the picture at 1280 and 834 (on a phone the full-width band is by design), the picture gone from the answer, the enquiry line present, no script errors (theme previews/help-answer-s180/verify.py and band_end.py). css_gate passes on help.css; the template lints clean on the server's PHP.
