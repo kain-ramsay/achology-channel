@@ -40,3 +40,4 @@ OWED BACK: nothing; this is an index for the board.
 - 0.707.542: the footer names the seven schools in full, DSRD 5 (Kain S180, TO Chat/RULING__Product_Names_Are_Never_Shortened_Hold_The_374_Import_S180.md); measured at 1280, 834, 390, no overflow.
 - 0.707.543 to 0.707.545: front page learning block cards; Pick Where You Are becomes /learn/'s own learning block (Kain's yes; kh-front-page).
 - Hand added: the Help answer page signed off by Kain at 0.707.540 (help-answer-page; its RULING in TO Chat); session archived. It started a factory side session, import-the-help-answers, which runs the 374 import.
+- Close: plan note updated; Build Board updated (Courses signed, Help finishing with the import, founder pages and front page finishing); deploying handed to the S181 main theme session (theme-main-s181). NOT FINISHED: Job 3 consolidation and Job 4 full review, carried to S181.
