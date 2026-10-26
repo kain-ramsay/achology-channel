@@ -30,7 +30,7 @@ Answers BRIEF__Import_The_374_Signed_Help_Answers_S445, released by Kain in RULI
 3. **Two stage 5 instrument lines:** check 2 reads the help type's `sections: {}` as "no heading allowed" where the standard says headings are free; check 3 demands a `featured_image` field the help record shape never carries. A gate's checks are Chat's to change.
 4. **239 pages under 90.** The sampled breakdown (post 262 at 80) fails keyword in permalink, in the first 10 per cent, in the content and in a subheading: the rewritten bodies no longer carry their focus keyword. The fix is in the words (Chat and the writers) or in the keywords, never on the install.
 5. Also listed in the NAMES file: 14 lines where a full name now reads without "the" ("After Diploma Course in Modern Applied Psychology (DiMAP)"), because no word was added; short names in four records' page fields (dimap-course-upgrade's title, first-course-complete-beginner's description, skilled-helper-course's keyword and title); 17 records naming a per-answer picture where the live page keeps its category picture.
-6. **Kain asked in the sitting** whether Rank Math can carry secondary keywords as Yoast did. It can (up to five). Proposal: the records' `query_variants` go into those slots at import, so the editor shows which answers miss a common phrasing. Chat to rule; nothing done.
+6. **Kain asked in the sitting** whether Rank Math can carry secondary keywords as Yoast did, and said yes to filing this proposal (S180). It can (up to five). Proposal: the records' `query_variants` go into those slots at import, so the editor shows which answers miss a common phrasing. Chat to rule; nothing done.
 
 ## 6. The 37 focus keywords written (record wins)
 | page | post | was | now |

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S180: WAITS ON a factory session (this is the Courses theme side session; read in full, it touches no page here).
+> CODE DISPOSITION, S180 factory: WAITS ON Chat's rulings in DONE__The_374_Help_Answers_Imported_With_Full_Product_Names_S180 section 5 (286 of 374 delivered; 73 new answers wait on the content gate ruling, 15 records wait on mends at source).
 
 **For Code (factory). What this needs from you:** import the 374 signed Help answers onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming every address with its results. Each record opens on its category picture line, so your import's hero handling applies to all 374.
 
