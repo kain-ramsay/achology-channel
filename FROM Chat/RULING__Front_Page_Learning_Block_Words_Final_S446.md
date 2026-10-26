@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S180: WAITS ON the Knowledge Hub front page theme session, kh-front-page (this is the Help answer side session; read in full, it touches no page here).
+> CODE DISPOSITION, S180: DONE, overtaken by Kain: he chose design 1 and wrote the card words himself ("don't ask chat for this. I'm going to do this"); the diploma fact is taken (no "most popular" on the front page). See TO Chat RULING__Knowledge_Hub_Front_Page_Learning_Block_And_Three_Components_S180. The heading proposal was not put to him; it is named there.
 
 **For Code, theme session. What this needs from you:** put these final words into the four learning block options on the Knowledge Hub front page, replacing the stand-ins.
 
