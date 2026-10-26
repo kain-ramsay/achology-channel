@@ -26,6 +26,9 @@ From the theme log, this session:
 
 - 0.707.598: shipped 4909badb (the Help category band as the Help answer banner, Kain S181), on the help-category session's request.
 
+- 0.707.599 to 0.707.600: the sky made sharper, four ways behind ?sky=1 to 4 (Clear Beams, Horizon Hills, Poster Sunburst, Stair of Light), shown in the shared Change Viewer; waits on Kain's pick.
+- 0.707.601: shipped d4239ba6 (Kain's Reading Size pick on the three founder pages, S181), on the founder pages session's request.
+
 FOR A FACTORY SESSION: the media gate now stops every session's close on "old quote card set 275, 74.3 MB" in the Media Library. Binning library pictures is factory work (publish_gate.py --media-bin), not a theme or side session's call; please route it to the next factory session.
 
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
