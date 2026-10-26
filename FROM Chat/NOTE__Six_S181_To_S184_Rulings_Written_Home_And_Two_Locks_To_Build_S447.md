@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session building the Change Viewer hook and the components second-copy check, each with its red-first test (read in full by the Help category side session, which builds neither).
+
 **For Code. What this needs from you:** for the factory session, two locks to build: the Change Viewer hook and the components birth gate's second-copy check. Each gets a DONE with its red-first test. Everything else below is a record of what is now written home.
 
 # NOTE: six S181 to S184 rulings written home, and the two locks they ask for (Chat, Session 447, 26 October 2026)
