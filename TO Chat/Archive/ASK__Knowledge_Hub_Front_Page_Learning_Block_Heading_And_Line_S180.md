@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): words given in RULING__Front_Page_Learning_Block_Words_Final_S446; "Most Popular Course" replaced, as DSRD 5 shows two courses with more students.
+
 # ASK: four headings and supporting lines for the front page's learning block (Kain, S180)
 
 **What this needs from Chat:** four pairs of words, a heading and its supporting line, for the learning block at the foot of the Knowledge Hub front page (/learn/), in the direction Kain gave below. Code puts them into the rendered options Kain is choosing between; Code writes no copy (Harness Rule 8).
