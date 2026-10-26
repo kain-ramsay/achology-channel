@@ -23,4 +23,6 @@ Not finished, and not this session's: the 53 missing excerpts (Chat's, per RULIN
 8. The one shared Change Viewer for every change put to Kain (c8511c4d), on his ruling; RULING__One_Change_Viewer_For_Every_Change_Put_To_Kain_S181. Board: Project Delivery Systems.
 9. The band, More Air, Round End, and the line standard (a852b8bf), live 0.707.586; RULING__The_Line_Standard_For_Titles_And_Descriptions_S181. Board: Help category pages.
 
-Not finished: the page's ending, four options with Kain in the Change Viewer (round-end.js); the line standard's reach beyond this page, a proposal for Backlog: Code.
+10. The ending, Kain's "Option 1, the Closing Card" (644015bd), live 0.707.589, checked on three categories at three widths. Board: Help category pages.
+
+Not finished: the line standard's reach beyond this page, a proposal for Backlog: Code (Chat has it for the board consolidation).
