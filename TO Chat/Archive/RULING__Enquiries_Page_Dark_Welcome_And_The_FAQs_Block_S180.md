@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): all eleven items in the Enquiries signed spec, Amendment 1; FAQs heading, new topic hints and the search description given in RULING__The_S180_Rulings_Written_Home_And_The_Words_You_Were_Waiting_For_S446.
+
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: the two rulings written into the Enquiries page's signed spec and the FAQs block's heading words given. Named in the Session 445 handover with this reason.
 
 **For Chat. What this needs from you:** write two rulings home into the Enquiries page's signed spec, and give the FAQs block on this page its heading words.

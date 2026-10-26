@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): closed with the nine tweaks ruling; picks in the Courses signed spec, Amendment 5.
+
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: closed with RULING__Kain_Picks_Nine_Courses_Tweaks_S180 once the Courses picks are in the signed spec. Named in the Session 445 handover with this reason.
 
 NEEDS FROM CHAT: write Kain's Courses picks into the signed spec from RULING__Kain_Picks_Nine_Courses_Tweaks_S180; nothing else from this session.

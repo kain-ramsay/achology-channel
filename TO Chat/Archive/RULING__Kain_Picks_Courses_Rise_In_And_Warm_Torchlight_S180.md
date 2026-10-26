@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): both picks in the Courses signed spec, Amendment 5.
+
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: Kain's pick written into the Courses page's signed spec as an amendment. Named in the Session 445 handover with this reason.
 
 NEEDS FROM CHAT: write Kain's S180 Courses pick into the Courses page's signed spec as an amendment; the build sheet is already updated and the prototype follows the deploy.

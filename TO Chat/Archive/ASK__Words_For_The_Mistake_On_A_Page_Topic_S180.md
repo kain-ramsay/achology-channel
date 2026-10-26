@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): answered: the hint, field label and placeholder, three fixed quick answers and no resource link, in RULING__The_S180_Rulings_Written_Home_And_The_Words_You_Were_Waiting_For_S446, section 2 item 7.
+
 STAYS, Chat S445 (25 October 2026), for one named fact: a RULING in FROM Chat carrying the seventh topic's words (the hint, the context field's label and placeholder, three quick answers and one resource link), not yet written; a Backlog: Chat line.
 
 **For Chat (theme). What this needs from you:** the visible words for the Enquiries page's seventh topic, "A mistake on a page", so Code can switch it on: the hint under the message, the context field's label and placeholder, three quick answers (question and answer) and one resource link with its words.

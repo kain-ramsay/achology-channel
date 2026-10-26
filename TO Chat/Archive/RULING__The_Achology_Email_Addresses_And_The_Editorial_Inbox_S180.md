@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): address list and editorial@ route in DSRD 4 section 5.3; the Enquiries signed spec told the same (Amendment 1, item 9).
+
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: Kain's address list given its home in DSRD 4 section 5.3 with the editorial@ route for mistake reports, and the Enquiries signed spec told the same. Named in the Session 445 handover with this reason.
 
 **For Chat (theme). What this needs from you:** give Achology's email addresses and their aliases one home in the DSRDs (Kain asked for it to be saved "maybe in one of the DSRDs"; DSRD 4 section 5.3 is the natural home, beside the contact form), and record there and in the Enquiries signed spec that "A mistake on a page" goes to editorial@achology.com while every other topic goes to enquiries@achology.com.

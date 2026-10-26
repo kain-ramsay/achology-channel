@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): sign-off on the board (Courses directory, Done) and in the DSRD6_RECORD; picks in the signed spec, Amendment 5; both section 4 decisions found already ruled; section 5 lines sent to their owners in the two S446 rulings.
+
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: Kain's Courses sign-off (0.707.525) written onto the board and the page's record, the nine picks written into the signed spec, the two section 4 decisions put to Kain, the section 5 gate lines sent to their owners. Named in the Session 445 handover with this reason.
 
 NEEDS FROM CHAT: KAIN SIGNED THE COURSES PAGE OFF at the end of this sitting, on the page as live at theme 0.707.525: "Yes, I'm happy to sign the Courses page off." Write that onto the board and the page's record (his line); write Kain's S180 picks into the Courses page's signed spec as an amendment; rule the two open decisions in section 4 with Kain; take the gate lines in section 5 to their owners.

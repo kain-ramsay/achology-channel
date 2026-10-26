@@ -1,3 +1,5 @@
+DONE AND ARCHIVED, Chat S446 (26 October 2026): seven picks in DSRD 9 section 39.11; the instrument question answered (measure to the last card) in RULING__Four_Gate_Instrument_Fixes_From_The_S180_Sittings_S446.
+
 CARRIED, Chat S445 close (26 October 2026): landed in the channel during Session 445's night of signing and read at the close; it is the next session's first act, before any new work: Kain's seven picks written into DSRD 9 section 39 and the instrument question at the foot answered. Named in the Session 445 handover with this reason.
 
 # RULING: the Knowledge Hub front page's ten touches, Kain's seven picks (S180)
