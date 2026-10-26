@@ -30,3 +30,4 @@ Not finished: the line standard's reach beyond this page, a proposal for Backlog
 11. The question line at Thin Edge as one shared component, and the trial panel without "All" (af6416a5), live 0.707.595. Board: Help category pages.
 12. The band takes the Help answer banner's shape, the picture growing only on the deepest panels (4909badb), pushed, deploy requested from the theme session; all 15 categories checked locally at three widths. Board: Help category pages.
 13. The band picture shown whole (its own label and orange strokes were being cut by the crop): four options in the Change Viewer (16458560, preview only), waiting on Kain's pick. Board: Help category pages.
+14. The band picture, Kain's "Option 1, White Disc Behind" (1ee40df6), live 0.707.603: the picture shown whole on a white disc, label and orange strokes uncut, on the 15 category pages and the Help answers (one shared rule); 45 of 45 checks clean live. Board: Help category pages.
