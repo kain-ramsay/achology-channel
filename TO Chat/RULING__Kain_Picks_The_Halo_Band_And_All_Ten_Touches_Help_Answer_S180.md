@@ -20,6 +20,14 @@ Kain asked how the band carries two and three line titles, and why the line unde
 - **This closes the S422 ruling's Help half** (RULING__Listen_Bar_Off_And_The_Content_Packs_Hold_S422, its OWED BACK: "one line in TO Chat when the listen bar is gone at three widths"): gone at 1280, 834 and 390 on three answers (verify.py, no_listen true at every width). The recordings stay in the uploads folder for the Post-Launch card.
 - page_gate on a two-line answer at 0.707.532 adds one line this change made: hairline-present at the band to the answer (48, 32 on a phone). The gate carves out a card that draws its own border as its own boundary, held to the same 48 outside it; a filled band is the same case and the gate does not yet know it. An instrument line for the factory session, not a page fault.
 
+## Later the same sitting: the foot, Two Ends (live at 0.707.533)
+Kain said the foot looked dropped under the answer. Shown four ways on the real page, he picked option 1, Two Ends: "I'm actually really happy with option number one ... it's clean and simple ... any more would be kind of like overkill. I think that's just neatened up the bottom of the page and the spacing perfectly." Commit b0073b8b.
+- A hairline above the vote strip closes the answer, 48 either side (32 on a phone); the vote at the left, the enquiry line at the right, one row; on a phone the enquiry line drops under the vote. It is not the S110 line under the strip, which stays gone.
+- The related card stands 48 above the orange trial panel (32 on a phone), raised from 24 at his ask.
+- Declined: 2 Closing Card, 3 Slate Bookend, 4 Centred Close.
+- Then his own words for the enquiry line: "Have a Question We Haven't Covered? Make an Enquiry" (commit 4e181977).
+- page_gate on a two-line answer at 0.707.533: 53 passed, 17 failed. The foot's own old failures are cleared (the card to the panel, the strip to the card on a phone, the body owning the boundary). One new instrument line: hairline-spacing reads 24 above the new line (8 on a phone) because touch 3 holds the answer's last part 24 low until the reader scrolls to it and the gate measures without scrolling; settled, it is 48 (32), measured (previews/help-answer-s180/measure_foot.py). The Courses session met the same rising-touch timing with axe. A factory line for the gate, not a page fault.
+
 ## For the specifications
 - **DSRD 1 section 8.2b** is overturned in its place and size: the picture no longer opens the answer at 200 / 130 (240 / 156 since S110); it ends the Halo band at 216, 96 on a phone. The file set and the one-picture-per-category rule are unchanged.
 - **DSRD 9:** the page's layout is in the design folder's new build sheet, BUILD_SHEET__help-answer-page.md, matched by PROTOTYPE__Help_Answer_Page_S180.html (Help Design Prototypes, FAQ Article Page folder). That is the fold-back under Harness Rule 14.
