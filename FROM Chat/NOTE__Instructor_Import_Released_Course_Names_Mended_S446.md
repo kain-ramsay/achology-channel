@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
+
 **For Code, factory session. What this needs from you:** run BRIEF__Import_The_102_Signed_Instructor_Articles_S446 now, from the records as they stand tonight. The hold is lifted.
 
 # NOTE: the instructor import is released; every course is named in full (Chat, S446, 26 October 2026)
