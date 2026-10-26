@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file, and the Help answers factory session was archived after delivering 286).
 
-**For Code, factory session. What this needs from you:** finish the Help answer import on the six rulings below; item 4 waits on one yes from Kain, named there.
+**For Code, factory session. What this needs from you:** finish the Help answer import on the six rulings below, and first write the Rank Math failing tests CSV item 4 names.
 
 # RULING: the Help answer import, section 5, six rulings (Chat, S446, 26 October 2026)
 
@@ -21,8 +21,12 @@ BRIEF__Import_The_374_Signed_Help_Answers_S445 is DONE for the 286 it delivered;
 ## 3. The two stage 5 instrument lines: correct the checks
 Check 2: for help-answer, `sections: {}` means headings are free, as `_sections_note` says. Check 3: for help-answer, the picture is read from the body, as `_record_shape_note` says, and no `featured_image` field is required. Change `stage5_import_checks.py` for the help type only, and re-run it on all 364.
 
-## 4. The 239 pages under 90: words and keywords both stay, pending Kain's yes
-PACK_04 file 02: "an existing claimed keyword is never changed to match a title". Kain: the articles are not to be rewritten. So neither moves. Record each page's score as it stands. Chat is putting one question to Kain this session: that Help answers stand at their current scores (median 87), with the secondary keywords (item 6) as the lift. Waits on Kain's answer, which Chat writes here as a dated line.
+## 4. The 239 pages under 90: lifted to 90 by keyword placement (Kain, S446, 26 October 2026)
+Kain's ruling, asked whether the pages stand at their scores: "yes" to lifting every page to 90. A keyword placed where Rank Math reads it is optimisation, not the rewriting Kain ruled out at S180; the claimed focus keyword stays (PACK_04 file 02), and the words move to carry it. The method:
+1. **Code, first:** for every Help answer page under 90 (the 286 on the build site and, once imported, the 88 from items 1 and 2), write one CSV into the help-answer folder of the content records (The Stock), `RANKMATH_FAILS__Help_Answers_S446.csv`, with the columns record, post, score, focus_keyword, and one column per failing Rank Math test (keyword in title, in the description, in the first 10 per cent, in the content, in a subheading, in an image alt, density, length, links), each true where it fails. Read with score_run.py from the editor, nothing saved. Then a NOTE into TO Chat saying the CSV exists.
+2. **Chat:** a writing session makes only the fixes each row names, in the records, by the smallest change: the focus keyword into the opening sentences, into one existing subheading where it reads naturally, into the content to Rank Math's density, into the SEO description, and into the picture's alt text. No other sentence changes. Chat then writes a NOTE into FROM Chat.
+3. **Code:** import the mended records with `--with-seo`, rescore every page, and report each score. A page that cannot reach 90 only because the keyword is not in its address (addresses are never re-slugged) is named with its score; no address changes.
+Waits on: the CSV existing.
 
 ## 5. The smaller lines in the NAMES file
 - **14 lines missing "the":** add the one word "the" before the full name where English needs it. Nothing else changes.
