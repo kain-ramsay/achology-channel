@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S181: WAITS ON a factory session (the instructor import; this Help landing theme side session runs no import).
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 
 **For Code, factory session. What this needs from you:** run BRIEF__Import_The_102_Signed_Instructor_Articles_S446 now, from the records as they stand tonight. The hold is lifted.
