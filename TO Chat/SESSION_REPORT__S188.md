@@ -12,6 +12,7 @@
 - FINISHED: 0.707.641, More About Achology card words on the founder pages (RULING__Founder_Pages_More_About_Achology_Card_Words_S188.md). Board card: founder pages.
 - FINISHED: 0.707.642, founder pages sign-off tidy: the quote panel's floated form, its token and the float-clearing rule removed with the Letter's callout; no visible change. Founders' Letter page gate: open on DSRD 6 chapters 3, 4, 5, 9, 10, 11, chapter 7 (site-wide cookie button, R1), Rank Math 84 (rescore), the signature card's own 2.
 - FINISHED: 0.707.643 to 0.707.646, site-wide: the footer's Cookie settings is the one control, in the footer's row, shown at every width, reopening the choices (S448 R1 done; WCAG 2.4.11). Founders' Letter record swept: machine halves pass on chapters 1, 2, 3, 5, 7, 10, 11; the sweep overwrote Chat's reader half and it was restored word for word from a copy taken first (the fault S191 met: the sweep tool needs mending, factory).
+- FINISHED: 0.707.647, Founders' Letter photograph a fifth smaller (RULING__Founders_Letter_Photograph_Smaller_S188.md). Board card: founder pages.
 - NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
