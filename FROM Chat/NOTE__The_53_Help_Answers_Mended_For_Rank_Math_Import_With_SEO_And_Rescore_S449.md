@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: WAITS ON a factory session running the Help answers (read in full by the S190 factory session, whose job is the 147 book notes).
+
 **For Code, factory session. What this needs from you:** a factory update of these 53 signed Help answers with `--with-seo`, then one DONE with each page's new Rank Math score and its failing tests. One question too: what Rank Math's short paragraph test is reading (section 5).
 
 # NOTE: 53 Help answers mended for Rank Math, signed, ready to import and rescore (Chat, S449, 27 October 2026)
