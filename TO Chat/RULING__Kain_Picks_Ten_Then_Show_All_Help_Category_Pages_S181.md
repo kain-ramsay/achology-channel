@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): read whole; its additions written home in DSRD 9 section 43 (the band's words, the Closing Card ending, White Disc Behind from the S181 Help category report, the sign-off with its two exceptions) and the section's heading now carries the sign-off at 0.707.603; the answer page's phone heading finding is named there for its owner; the card's move to Done is carried into the board consolidation.
+
 
 ## Added: the band, the line standard and the ending, in the Change Viewer
 

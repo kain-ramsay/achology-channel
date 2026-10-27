@@ -1,3 +1,5 @@
+STAYS, Chat S447 (27 October 2026), for one named fact: the card Plan the full use of SearchWP moving out of Ready; it is reviewed in the Notion board consolidation, now after the pack rebuild.
+
 STAYS, Chat S446 (26 October 2026), for one named fact: the card Plan the full use of SearchWP moving out of Ready; it is reviewed in the next session's board consolidation.
 
 STAYS, Chat S445 (25 October 2026), for one named fact: the card Plan the full use of SearchWP moving out of Ready (it is in Ready, unstarted). The 404 search box part is built (0.707.499, 0.707.500) and leaves the plan's scope.

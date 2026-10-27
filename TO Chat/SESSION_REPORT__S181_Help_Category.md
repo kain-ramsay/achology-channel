@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): read; its rulings are written home from their own RULING files (DSRD 7, DSRD 8, DSRD 9 and COMPONENT_REGISTRY.md). Its board moves are not made tonight: they are carried into the board consolidation, named in the Session 447 handover.
+
 **For Chat. What this needs from you:** move the Help category pages' card on, from the lines below. Side session of S181 (theme), the Help category pages only.
 
 # SESSION REPORT: the Help category pages (S181 side session, 26 October 2026)

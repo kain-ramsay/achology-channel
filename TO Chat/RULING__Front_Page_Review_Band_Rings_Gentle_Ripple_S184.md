@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): written home as its dated line in DSRD 9 section 39.15 (Gentle Ripple, 0.707.612); board cards moved: none.
+
 **For Chat. What this needs from you:** add one line to DSRD 9 section 39.15, beside the Soft Rings line: the rings ripple, Gentle Ripple.
 
 # RULING: the front page review band's rings ripple gently (Kain, Code S184, theme main session, 27 October 2026)

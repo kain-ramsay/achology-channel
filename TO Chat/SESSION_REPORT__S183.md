@@ -1,3 +1,5 @@
+STAYS, Chat S447 (27 October 2026), for one named fact: Code's S183 closing and filling this report.
+
 STAYS, Chat S446 (26 October 2026), for one named fact: Code's S183 closing and filling this report. Its three rulings to date (four options, quote cards, review block) are written home.
 
 **For Chat. What this needs from you:** read the lines below into the board; two RULINGs from this session wait in TO Chat (RULING__Four_Options_On_Every_Design_Change_Restore_It_In_The_Shared_Rules_And_Harness_S183, RULING__Front_Page_Learning_Section_Is_The_Staircase_S183).

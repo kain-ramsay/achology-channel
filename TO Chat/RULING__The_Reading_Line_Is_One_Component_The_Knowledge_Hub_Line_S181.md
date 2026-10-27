@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): COMPONENT_REGISTRY.md's Reading progress line row rewritten to the Knowledge Hub line at 1px with class prefix reading-line, and its home files and pages in the shared features table; its dated line in DSRD 8 new section 43; DSRD 9 section 41 notes the Help answer's own top line gone; board cards moved: none.
+
 **For Chat. What this needs from you:** rewrite the Reading progress line row in COMPONENT_REGISTRY.md to Kain's pick, with its home files and the pages that switch it on (below), and its dated line in DSRD 8. For the theme session.
 
 # RULING: the reading line is one site component, the Knowledge Hub line (Kain, Code's founder pages sitting, S181, 26 October 2026)

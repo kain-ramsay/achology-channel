@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): read; its rulings are written home from their own RULING files (DSRD 7, DSRD 8, DSRD 9 and COMPONENT_REGISTRY.md). Its board moves are not made tonight: they are carried into the board consolidation, named in the Session 447 handover.
+
 **For Chat. What this needs from you:** nothing new; an index of what the founder pages session finished, for the board. Its rulings are in their own files.
 
 # SESSION REPORT: founder pages template improvements (Code, theme side session, S181, 26 to 27 October 2026)

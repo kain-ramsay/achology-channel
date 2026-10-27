@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): entered in COMPONENT_REGISTRY.md's shared features table; its dated line in DSRD 8 new section 43; DSRD 9 section 41 notes the Help answer's touch 5 orange bullet retired; numbered lists named as the next pair for Kain; board cards moved: none.
+
 **For Chat. What this needs from you:** enter the list dot in COMPONENT_REGISTRY.md's shared features (home file, pages), its dated line in DSRD 8, and note in DSRD 9 section 41 that the Help answer's touch 5 orange bullet is retired. For the theme session.
 
 # RULING: the list dot is one site component, grey (Kain, Code's founder pages sitting, S181, 27 October 2026)

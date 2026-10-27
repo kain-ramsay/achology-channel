@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): entered in COMPONENT_REGISTRY.md's shared features table; its dated line in DSRD 8 new section 43; DSRD 9 section 41 notes that the Help answer's touch 4 now comes from the site component; board cards moved: none.
+
 **For Chat. What this needs from you:** enter the link hover wash in COMPONENT_REGISTRY.md's shared features, its dated line in DSRD 8, and note in DSRD 9 section 41 that the Help answer's touch 4 now comes from the site component. For the theme session.
 
 # RULING: the link hover wash is one site component, on every reading page (Kain, Code's founder pages sitting, S181, 27 October 2026)

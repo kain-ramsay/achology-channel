@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): written home as its dated line in DSRD 9 section 39.15 (Soft Rings, 0.707.608); board cards moved: none.
+
 **For Chat. What this needs from you:** write Kain's S184 pick home in DSRD 9 section 39.15, beside The Gauge line: the review band's finishing touches, Soft Rings.
 
 # RULING: the front page review band's finish is Soft Rings (Kain, Code S184, theme main session, 27 October 2026)

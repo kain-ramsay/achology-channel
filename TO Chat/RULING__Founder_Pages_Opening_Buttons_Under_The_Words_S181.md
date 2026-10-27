@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): the five founder page picks written home in DSRD 9 section 25, with what stays open (background art, the two grey panels, spacing check, page gate, sign-off); DSRD 7 section 4.3 Exception 2 amended so it no longer covers the Manifesto or the Code of Ethics; the repeated Code of Ethics opening sentence is named in DSRD 9 section 25 and put to Kain in the Session 447 handover, not decided here; board cards moved: none (carried into the board consolidation).
+
 **For Chat. What this needs from you:** write Kain's founder pages picks home (DSRD 9 section 25, the quiet text-led pages) and amend DSRD 7 section 4.3 Exception 2 for the Manifesto and the Code of Ethics. For the theme session.
 
 # RULING: the founder pages' picks, one round at a time, and the opening (Kain, Code's founder pages sitting, S181, 26 and 27 October 2026)

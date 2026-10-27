@@ -1,3 +1,5 @@
+STAYS, Chat S447 (27 October 2026), for one named fact: chapters 1, 6, 7 and 8 of the Tag Landing Page DSRD6_RECORD.md reading pass or recorded exception, taken up in the Notion board consolidation, now after the pack rebuild.
+
 STAYS, Chat S446 (26 October 2026), for one named fact: chapters 1, 6, 7 and 8 of the Tag Landing Page DSRD6_RECORD.md reading pass or recorded exception (still not run).
 
 STAYS, Chat S445 (25 October 2026), for one named fact: chapters 1, 6, 7 and 8 of the Tag Landing Page DSRD6_RECORD.md reading pass or recorded exception (all four still read not run).

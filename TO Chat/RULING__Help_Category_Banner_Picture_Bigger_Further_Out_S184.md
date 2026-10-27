@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): written home as its dated line in DSRD 9 section 43 (0.707.615) and as the one named exception under DSRD 7 section 14.0 rule 1 (a picture never breaches its container); board cards moved: none.
+
 **For Chat. What this needs from you:** write Kain's S184 pick home in DSRD 9 section 43 (the Help category band), and note in DSRD 7 that this picture is a named exception to "images never breach their container".
 
 # RULING: the Help category banner picture is Bigger, Further Out (Kain, Code S184, theme main session, 27 October 2026)

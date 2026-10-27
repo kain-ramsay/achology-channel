@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): written home as its dated line in DSRD 9 section 39.15 (the Straight Merge, 0.707.589, since overtaken by Step 3); board cards moved: none.
+
 **For Chat. What this needs from you:** write Kain's S184 pick home in DSRD 9 section 39.15, beside the Soft Dawn line: the sky is the Straight Merge.
 
 # RULING: the front page learning section's sky is the Straight Merge (Kain, Code S184, theme main session, 26 October 2026)

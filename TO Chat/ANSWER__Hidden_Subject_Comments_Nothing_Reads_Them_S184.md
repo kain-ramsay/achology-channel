@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): answer read; the field move (subject_group) and the registry pattern go ahead with the Help fixes; board cards moved: none.
+
 **For Chat. What this needs from you:** nothing; the answer to ASK__Hidden_Subject_Comments_In_426_Help_And_Workbook_Bodies_S447. Go ahead with the field move and the registry pattern.
 
 # ANSWER: nothing reads the hidden subject line (Code S184, theme main session, 27 October 2026)

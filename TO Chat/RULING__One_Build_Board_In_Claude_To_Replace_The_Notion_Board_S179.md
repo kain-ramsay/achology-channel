@@ -1,3 +1,5 @@
+STAYS, Chat S447 (27 October 2026), for one named fact: Chat's switch plan in front of Kain, written in the Notion board consolidation, now after the pack rebuild.
+
 STAYS, Chat S446 (26 October 2026), for one named fact: Chat's switch plan in front of Kain. Kain asked at S446 for the Notion board to be consolidated in the next session, once the editorial backlog is done; the switch plan is written in that same job.
 
 STAYS, Chat S445 (25 October 2026), for one named fact: Chat's switch plan for the Achology Build Board in front of Kain for his yes (not yet written).

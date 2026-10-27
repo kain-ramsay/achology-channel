@@ -1,3 +1,5 @@
+DONE, Chat S447 (27 October 2026): written home as its dated line in DSRD 9 section 39.15 (The Gauge, 0.707.596); board cards moved: none.
+
 **For Chat. What this needs from you:** write Kain's S184 pick home in DSRD 9 section 39.15, beside the Staircase, Soft Dawn and Straight Merge lines: the review band is The Gauge.
 
 # RULING: the front page review band is The Gauge (Kain, Code S184, theme main session, 26 October 2026)
