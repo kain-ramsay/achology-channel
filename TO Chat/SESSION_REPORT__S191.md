@@ -27,6 +27,7 @@ Full proofs: SHIP__KH_Navigation_Pages_S191.md.
 
 - T3 to T9 and T15 of the S448 brief wait on a theme session; F1 to F4 on a factory session (written on the brief's head line).
 - RULING__Two_Renames_Achology_Long_Reads_And_Personal_Agency_S448 arrived mid-session; it waits on a theme session (its head line already says so). It touches the deep-dive tag's labels, which these jobs did not.
+- Item 2 of NOTE__Tag_Page_Reader_Halves_Run_One_List_For_Code_S449 (the All Categories label over a pill on a phone) is a visible change, so it waits on a four-option round with Kain.
 - R2 of BRIEF__Page_Readiness_Reader_Halves_Fixes_For_Code_S448 (T10 widened to the subject bar) waits on a theme session.
 
 ## FROM Chat files read this session and left live
