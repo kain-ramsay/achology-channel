@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: WAITS ON the next factory session (read in full by the S190 factory session, whose job is the 147 book notes).
+
 **For Code (factory session). What this needs from you:** a factory import of five new hub question articles Kain signed today, the anxiety door of The Diagnosis Journey Series, then one DONE with the counts and the Rank Math score table.
 
 # BRIEF: import the five signed anxiety road articles (Chat, Session 448, 27 October 2026)

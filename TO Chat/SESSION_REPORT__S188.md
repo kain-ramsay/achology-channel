@@ -4,7 +4,8 @@
 - FINISHED: three independent reviews of the founder pages (notes in the side-session notes folder) turned into an eight-row board, tested in WebKit at 1268 and 390, open in Kain's Safari. Board card: founder pages.
 - FINISHED (hand added): dead-code pass on policies.css, proved clean by machine (every class used in the theme or on a page); nothing removed.
 - FILED: ASK__Two_Card_Lines_On_The_Founder_Pages_Look_Mistyped_S188.md.
-- NOT FINISHED: building the rows Kain answers Yes; spacing check, page gate and sign-off of the three founder pages.
+- FINISHED: 0.707.632 to 0.707.635, founder pages, the eight board rows Kain said yes to: RULING__Founder_Pages_Board_Eight_Yeses_Shipped_0.707.635_S188.md. Board card: founder pages (Built, not signed off).
+- NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
 
