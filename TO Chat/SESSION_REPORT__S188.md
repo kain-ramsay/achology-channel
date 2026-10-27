@@ -7,6 +7,7 @@
 - FINISHED: 0.707.632 to 0.707.635, founder pages, the eight board rows Kain said yes to: RULING__Founder_Pages_Board_Eight_Yeses_Shipped_0.707.635_S188.md. Board card: founder pages (Built, not signed off).
 - FINISHED: 0.707.637, book note template fifth heading "A Question That Deserves an Honest Answer" (theme queue S190, Kain's yes in the S190 factory sitting); queue line struck. Board card: book notes.
 - FINISHED: 0.707.638, founder pages even spacing set in steps of the spacing scale, quote source in the readable grey; page gate run on all three: spacing-scale passes on Manifesto and Code of Ethics, axe zero; Founders' Letter keeps two off-scale values (the S186 callout one-off 88, the signature card's own signed 2). Gate open: DSRD 6 chapters 3, 4, 5, 9, 10, 11 not run or fail; Rank Math 84 and 89 (Chat owes); the Code of Ethics training block line fails block-heading (signed words, Chat).
+- FINISHED: 0.707.639, Founders' Letter quote callout removed (RULING__Founders_Letter_Quote_Callout_Removed_S188.md) and Chat S449 card lines placed (DONE in Archive). Board card: founder pages.
 - NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
