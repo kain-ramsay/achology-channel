@@ -19,7 +19,9 @@
 - FINISHED: Code of Ethics page gate run (spacing-scale and axe pass; Rank Math 89 waits on the rescore); record swept, machine halves pass on chapters 1, 3, 5, 7, 10, 11; chapter 2 recorded as the S449 exception; Chat's reader half restored after the sweep removed it.
 - FINISHED: Code of Ethics page gate run (spacing-scale and axe pass; Rank Math 89 waits on the rescore); record swept, machine halves pass on chapters 1, 3, 5, 7, 10, 11; chapter 2 recorded as the S449 exception; Chat's reader half restored after the sweep removed it.
 - HANDED TO CHAT: the founder pages' rescore and final re-read (ASK__Founder_Pages_Rescore_And_Final_Reread_S188.md, Kain's yes). Also deployed for other sessions: 0.707.649 (safari-afternoon), 0.707.652 (sun-fix).
-- NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
+- FINISHED: 0.707.653, header menu school icons lazy (site-wide speed). Chapter 9 written on the three founder records as the S141 exception (Lighthouse 12.2.1 mobile: Letter 87, Manifesto 96, Ethics 97; misses only on shared stylesheets); theme queue line added for the one site-wide stylesheet fix. CHANNEL_DOWN__kain-s-imac-pro__2026-10-27.md filed.
+- NOT FINISHED: founder pages chapters 4 (schema), 3 and 5 second runners, 10 and 11 (cross-browser and Kain's eye), 7 (Chat re-read); rescore (Kain).
+- NOT FINISHED (older line): spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
 
