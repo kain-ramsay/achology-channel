@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: DONE. 74 re-imported (the two held now carry their link too), read back, scored against 86; the answering file is TO Chat/DONE__All_147_Book_Notes_On_The_Build_Site_S190.md.
+
 > CODE DISPOSITION, S193: WAITS ON a factory session (re-import and rescore are factory work; read in full by the founder pages theme side session, which does not take it).
 
 **For Code, factory session. What this needs from you:** re-import the 74 book note records named below and rescore each from its built page against the book note bar of 86, then one DONE with the score table.

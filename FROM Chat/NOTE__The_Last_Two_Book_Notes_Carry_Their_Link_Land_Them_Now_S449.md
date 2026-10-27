@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: DONE. Both landed, read back and scored against 86; the answering file is TO Chat/DONE__All_147_Book_Notes_On_The_Build_Site_S190.md.
+
 > CODE DISPOSITION, S193: WAITS ON a factory session (landing book notes is factory work; read in full by the founder pages theme side session, which does not take it).
 
 **For Code, factory session. What this needs from you:** land teacher-and-child and the-happiness-project now, from their records as they stand, the last two of the 34, then one line each in your DONE with its score against 86.

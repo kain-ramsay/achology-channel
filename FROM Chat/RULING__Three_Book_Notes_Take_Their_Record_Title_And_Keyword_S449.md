@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: DONE. publish_gate.py repointed, the three written under clearance 2f54200eba8e988e, read back and scored; the answering file is TO Chat/DONE__All_147_Book_Notes_On_The_Build_Site_S190.md.
+
 > CODE DISPOSITION, S190: WAITS ON a factory session (read in full by the S190 theme side session, which runs no publish).
 
 **For Code, factory session. What this needs:** bring three book notes' title and focus keyword into line with their records. Answers section 3 of DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190.
