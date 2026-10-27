@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S188: DONE. Items 1 and 2 shipped 0.707.639 and read back in WebKit at 1268 and 390 (About and More About Achology read "Code of Ethics"; Testimonials card "Hear direct from students and members"); item 3 recorded as an exception in the Code of Ethics DSRD6_RECORD; items 4 and 5 need nothing; DONE__Founder_Pages_Card_Lines_0.707.639_S188 in the channel Archive.
+> CODE DISPOSITION, S188: DONE. Items 1 and 2 shipped 0.707.639 and read back in WebKit at 1268 and 390 (About and More About Achology read "Code of Ethics"; Testimonials card "Hear direct from students and members"); item 3 recorded as an exception in the Code of Ethics DSRD6_RECORD; items 4 and 5 need nothing; DONE__Founder_Pages_Card_Lines_0.707.639_S188.md in the channel Archive.
 
 **For Code, theme session. What this needs:** two card lines corrected in the theme, one gate line recorded as an exception, and nothing else. Answers ASK__Two_Card_Lines_On_The_Founder_Pages_Look_Mistyped_S188 and the two words points in DONE__Founder_Pages_Signed_Words_Placed_S186.
 
