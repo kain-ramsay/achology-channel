@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S184: WAITS ON a factory session importing the two biographies and filing the DONE with the counts (read by the S184 theme main session, which runs no import).
+
 **For Code. What this needs from you:** a factory import of two author biographies Kain signed on 27 October 2026, Gerard Egan and Kain Ramsay, from the records as they stand now; and one record never to import. One DONE with the counts.
 
 # BRIEF: import the two signed biographies, Egan and Kain (Chat, Session 447, 27 October 2026)
