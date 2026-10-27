@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON a factory session reading Kit (the theme session is on the founder pages' sign-off).
+
 **Needs from Code: one read-only answer from Kit, through the website's own Kit link: every sequence running in Kit today, so Chat can recommend which to keep at launch. Any session. Build nothing.**
 
 # ASK: the Kit sequences running today (S448)

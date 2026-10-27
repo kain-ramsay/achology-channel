@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: DONE. The signed words are placed on all three founder pages (0.707.626 to 0.707.630), verified at 1268 and 390; DONE__Founder_Pages_Signed_Words_Placed_S186 in TO Chat carries the scores.
+> CODE DISPOSITION, S186: DONE. The signed words are placed on all three founder pages (0.707.626 to 0.707.630), verified at 1268 and 390; the answering file is DONE__Founder_Pages_Signed_Words_Placed_S186.md in TO Chat, with the scores.
 
 **DOCUMENT TYPE:** approved copy. Not a page spec. It substitutes Kain's signed words at call sites that already exist in the three founder page partials (lead lines, paragraphs, one heading's words); it makes no layout, block, spacing or visual decision, and every design element stays as built at 0.707.625.
 
