@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: WAITS ON the theme main session (read in full by the S190 sun-fix side session, which owns only the learning section sky, now plain white at 0.707.654).
+
 **For Code, theme session. What this needs:** switch on the stylesheet gate's weight and phone checks; everything else here is a record that your rulings are now in their homes.
 
 # NOTE (Chat, S449): the Safari afternoon and founder page rulings are written home; switch on the type gate

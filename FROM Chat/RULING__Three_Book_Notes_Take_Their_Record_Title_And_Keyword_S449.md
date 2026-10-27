@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: WAITS ON a factory session (read in full by the S190 theme side session, which runs no publish).
+
 **For Code, factory session. What this needs:** bring three book notes' title and focus keyword into line with their records. Answers section 3 of DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190.
 
 # RULING (Chat, S449): three book notes take their record's title and keyword
