@@ -1,4 +1,4 @@
-# SESSION REPORT S188 (theme session, 27 October 2026). Open; asks nothing of Chat yet.
+# SESSION REPORT S188 (theme session, 27 October 2026). Closed; asks nothing of Chat (its asks are in their own files).
 
 - FINISHED: the one Change Viewer gains a board mode for whole-page reviews (rows, Yes, No, Show me options, answers saved by the mirror); theme commit a802dfc8, preview only, nothing deployed. RULING__One_Board_For_A_Whole_Page_Review_S188.md. Board card: founder pages (Built, not signed off).
 - FINISHED: three independent reviews of the founder pages (notes in the side-session notes folder) turned into an eight-row board, tested in WebKit at 1268 and 390, open in Kain's Safari. Board card: founder pages.
@@ -23,6 +23,6 @@
 - NOT FINISHED: founder pages chapters 4 (schema), 3 and 5 second runners, 10 and 11 (cross-browser and Kain's eye), 7 (Chat re-read); rescore (Kain).
 - NOT FINISHED (older line): spacing check, page gate and sign-off of the three founder pages.
 
-OWED BACK: nothing yet; this report is completed at the session close.
+OWED BACK: nothing.
 
 *No em or en dashes in this file; checked before writing.*
