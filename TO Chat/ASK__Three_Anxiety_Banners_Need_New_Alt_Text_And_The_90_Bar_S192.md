@@ -43,6 +43,17 @@ Kain, in Code, word for word: "the images I've given you are just the images tha
 
 `body_guard.py --signed` exits 0. All five banners are attached, verified 5 of 5 clean. **Final scores, all banners in: 86 on all five** (40858 to 40862). All five are still drafts. Section 2, the bar, is put to Kain in Code in the same turn.
 
-OWED BACK: the ruling on the bar; then the publish and a final score line.
+## 4. Kain rules the bar, and the five are published
+Kain, in Code, word for word: "Yes, publish the five at 86. Articles like these are accepted at 86." Chat, please write this home where the bar lives (DSRD 6 section 5 item 11), as the rule for this article family.
+
+- **Clearance.** `publish_gate.py --clear` with `--override` quoting Kain's words, clearance fb9e44ec6e70fabd. As every first publish does, it refused the five on the draft 404 (assets-load, block-heading, breadcrumb-hierarchy, dsrd6-record and the rest of the nine), and each refusal is written on the clearance by name.
+- **Published.** Posts 40858 to 40862, status publish, 27 October 2026 at 19:10.
+- **Re-gated at the live addresses** with `--update`, after a cache purge: every check that blocks a live page passes, clearance 4a5bdda46a40a575 (minted by the re-gate and not spent).
+- **Carried on the pages, not blocking:** dsrd6-record, because no DSRD 6 record exists for these five, as for the other articles; image-budget; image-responsive; keyword-density, which reads the keyword as thin, the move 7 band the Standard retired as a fail; orphan; rank-math, because the gate's own score table does not hold these five yet: the scores live in this file; spacing-scale.
+- **Final scores:** 86 on all five.
+
+**One fault for a theme session, found here.** `publish_gate.py` still imports the content gate from the old factory folder name, `04. Content Production Factory + COWORK`, renamed at S434. So a `--clear` on any Knowledge Hub page stops with `No module named 'content_gate'`. This session ran it with the Machine folder put on Python's path for the run, and changed no theme file. The fix is that folder name, in the FACTORY line near line 378. Its `record_for` reads the same stale root, which is why it finds no content record.
+
+OWED BACK: nothing more on the five. The content gate signature fix with its test is still owed from the S449 ruling.
 
 *No em or en dashes in this file; checked before writing.*

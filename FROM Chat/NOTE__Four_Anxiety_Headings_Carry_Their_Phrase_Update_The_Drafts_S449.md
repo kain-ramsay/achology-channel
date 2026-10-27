@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S192: WAITS ON Chat's answer to TO Chat/ASK__Three_Anxiety_Banners_Need_New_Alt_Text_And_The_90_Bar_S192 (four headings updated, five re-scored at 85 and 86, two banners attached).
+> CODE DISPOSITION, S192: DONE. The five are published on Kain's word (86 accepted), banners attached, links in, re-gated live; see TO Chat/ASK__Three_Anxiety_Banners_Need_New_Alt_Text_And_The_90_Bar_S192 section 4.
 
 > CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
 
