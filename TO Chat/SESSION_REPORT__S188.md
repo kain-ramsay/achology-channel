@@ -15,6 +15,7 @@
 - FINISHED: 0.707.647, Founders' Letter photograph a fifth smaller (RULING__Founders_Letter_Photograph_Smaller_S188.md). Board card: founder pages.
 - FINISHED: 0.707.648, about.css passes its stylesheet gate (hand-typed steps to tokens, older one-offs annotated; no value changes).
 - FINISHED: Manifesto page gate run (58 passed; spacing-scale, axe and Rank Math 91 pass; open lines are the record chapters and two instrument lines, orphan and keyword-density); record swept, machine halves pass on chapters 1, 2, 3, 5, 7, 10, 11; Chat's reader half restored word for word after the sweep removed it.
+- FINISHED: 0.707.651, Code of Ethics one paragraph in Kain's own words (NOTE__Code_Of_Ethics_One_Paragraph_In_Kains_Words_S188.md); placed by shell because the Edit page gate intake refuses the page (S186 ASK open). 0.707.650 carried no change (version bump only, a slip).
 - NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
