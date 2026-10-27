@@ -13,7 +13,7 @@ Rank Math marked these pages down because the exact focus phrase was missing fro
 ## What changed
 - **Body, all 53 except first-course-complete-beginner:** the first sentence (sometimes the first two) and one existing subheading, each rewritten whole. No other body sentence moved. No title, `post_title` or address changed.
 - **`rm_seo_description`, 7 records:**
-  - difference-between-monthly-annual-achology-membership, course-included-free-membership-happens-when, achology-access-all-areas-pass (it carried a broken ",995"), dimap-course-upgrade and first-course-complete-beginner: the prices came out. first-course-complete-beginner is now 145 characters, down from 265.
+  - difference-between-monthly-annual-achology-membership, course-included-free-membership-happens-when, achology-access-all-areas-pass (it carried a broken ",995"), dimap-course-upgrade and first-course-complete-beginner: the prices came out. first-course-complete-beginner is now 142 characters, down from 265.
   - achology-course-prerequisites-requirements and mentorship-sessions-recorded-achology: rewritten so they read as sentences, with the phrase intact.
 - **`rm_seo_title`, 3 records:**
   - achology-members-host-workshops-events: now opens with its phrase ("Host Their Own Events: What Achology Members Can Run"), because its address can't carry the phrase.
