@@ -19,3 +19,5 @@ Proof: TO Chat/SHIP__KH_Navigation_Pages_S191.md and SESSION_REPORT__S191.md. Li
 OWED BACK: the board updated; nothing else.
 
 *No em or en dashes in this file; checked before writing.*
+
+DONE, Chat S449 (27 October 2026): board updated: Knowledge Hub navigation pages moved to Checking; Courses directory, Cards and Chrome Sweep and Typography cards carry their delivered lines and what is left; three leftovers added to Backlog: Code.
