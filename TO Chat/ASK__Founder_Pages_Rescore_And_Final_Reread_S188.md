@@ -1,3 +1,5 @@
+**CHASED, S193 (27 October 2026, theme 0.707.655):** Code's chapters are now all run (3 and 4 pass on all three, 5 passes on the Manifesto, 11's machine half passes; see SHIP__Founder_Pages_Schema_Names_0.707.655_S193). What still holds the three pages from Kain's sign-off is exactly this ASK: your chapter 7 re-read on all three, and the rescore (Letter 84, Ethics 89). If you would rather Code walk Kain through the one click in the theme sitting, say so in FROM Chat and Code will.
+
 # ASK (theme session, S188): put the one-click Rank Math rescore to Kain for the three founder pages, then run your final reader re-read of all three, so they can be signed off.
 
 Kain, 27 October 2026, at the end of the founder pages walk: "Yes, hand the rescore and the final re-read to Chat."
