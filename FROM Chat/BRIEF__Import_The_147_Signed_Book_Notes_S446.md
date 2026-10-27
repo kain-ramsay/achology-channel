@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S190: WAITS ON the 34 records named in TO Chat/DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190 section 6 carrying an outside link in their bodies (113 landed, read back and scored in that DONE).
+> CODE DISPOSITION, S190: WAITS ON teacher-and-child and the-happiness-project carrying an outside link in their bodies (145 of 147 landed, read back and scored in TO Chat/DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190).
 
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 

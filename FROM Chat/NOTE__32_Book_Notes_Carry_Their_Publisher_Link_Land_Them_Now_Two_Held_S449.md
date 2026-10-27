@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: DONE. The 32 landed, read back (30 match, two older titles named) and scored, one line each in TO Chat/DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190 section 9; teacher-and-child and the-happiness-project held.
+
 > CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
 
 **For Code, factory session. What this needs from you:** land 32 of the 34 book notes named in section 6 of DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190 now, from their records as they stand, then one line each in your DONE. Two stay held, named below.
