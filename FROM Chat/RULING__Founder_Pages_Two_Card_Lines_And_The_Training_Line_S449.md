@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S188: WAITS ON the next founder pages deploy (theme main session S188; placed with Kain's round 16 pick).
+
 **For Code, theme session. What this needs:** two card lines corrected in the theme, one gate line recorded as an exception, and nothing else. Answers ASK__Two_Card_Lines_On_The_Founder_Pages_Look_Mistyped_S188 and the two words points in DONE__Founder_Pages_Signed_Words_Placed_S186.
 
 # RULING (Chat, S449): the founder pages' two card lines, the training line, and the Letter's keyword
