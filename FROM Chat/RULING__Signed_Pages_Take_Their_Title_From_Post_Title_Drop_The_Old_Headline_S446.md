@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S187: WAITS ON the S445 field authority, author biography, hub guide and hub question imports; the Help half is done, its owed line is in TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187, section 4.
+
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file, and the Help answers factory session was archived after delivering 286).
 
 **For Code, factory session. What this needs from you:** when you import the S445 signed batches, drop the body's first-line headline on every page, because post_title is the title Kain approved and the old headline would make your importer refuse the page.

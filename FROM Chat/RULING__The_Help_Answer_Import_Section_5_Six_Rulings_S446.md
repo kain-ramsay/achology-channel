@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S187: WAITS ON a RULING in FROM Chat answering TO Chat/ASK__The_73_New_Help_Answers_Still_Fail_Two_Gate_Lines_The_Ruling_Did_Not_Name_S187 (item 1) and Chat's NOTE that the item 4 records are mended. Items 2, 3, 5 and 6 are done and item 4.1's CSV exists: TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187.
+
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file, and the Help answers factory session was archived after delivering 286).
 
 **For Code, factory session. What this needs from you:** finish the Help answer import on the six rulings below, and first write the Rank Math failing tests CSV item 4 names.

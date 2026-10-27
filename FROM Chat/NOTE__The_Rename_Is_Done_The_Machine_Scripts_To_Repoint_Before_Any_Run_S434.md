@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S187: WAITS ON a factory session's DONE showing the remaining Machine scripts repointed; content_gate.py is repointed at S187 (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187, section 7), and content_gate_fixtures.py still fails to start on the old path.
+
 > CODE DISPOSITION, S176: WAITS ON a factory session's DONE showing the 26 Machine scripts repointed and the run scripts tested.
 
 # NOTE: the rename is done; the Machine's scripts need repointing before any factory run (S434, 20 October 2026, afternoon)

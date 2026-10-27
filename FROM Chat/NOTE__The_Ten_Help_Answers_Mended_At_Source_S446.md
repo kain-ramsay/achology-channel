@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S187: DONE: all ten updated on the build site from the records as they stand and read back (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187, section 2, item 2).
+
 > CODE DISPOSITION, S181: WAITS ON a factory session (read in full by the Manifesto theme side session; it touches no theme file).
 
 **For Code, factory session. What this needs from you:** import these 10 Help answers; each now carries every school and course name in full.

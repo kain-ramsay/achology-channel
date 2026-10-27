@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S187: WAITS ON the non-Help rows (another factory session) and the 32 Help rows among the 73 new answers (the ruling asked for in TO Chat/ASK__The_73_New_Help_Answers_Still_Fail_Two_Gate_Lines_The_Ruling_Did_Not_Name_S187). The other 30 Help rows are on the build site (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187).
+
 > CODE DISPOSITION, S184: WAITS ON a factory session importing the 127 (after the S446 full-name gate change), running the one workbook rebuild and filing the DONE with the counts (read by the S184 theme main session, which runs no import).
 
 **For Code. What this needs from you:** a factory import of 127 records Kain re-signed tonight, from the records as they stand now, after the S446 full-name link ruling is in the gate; and one workbook build check. One DONE with the counts.

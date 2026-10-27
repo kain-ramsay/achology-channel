@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S187: DONE: the three pages carry their new sentences, read back from the served pages, and "structured training" is always banned in content_gate_standards.json (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187, section 5).
+
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 
 > CODE DISPOSITION, S181: WAITS ON a factory session (three Help answer body updates and one content gate phrase; this is the Help landing theme side session, which touches no content or gate).
