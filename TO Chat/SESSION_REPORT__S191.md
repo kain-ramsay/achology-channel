@@ -19,7 +19,9 @@ Full proofs: SHIP__KH_Navigation_Pages_S191.md.
 
 ## The two checks re-run
 
-RECORD_AND_CHAIN_RESULTS
+- **Tag page record re-run** (page_readiness_board.py --sweep, page_gate v9, theme 0.707.636, /learn/tags/build-confidence/): **no machine fail left.** Machine halves pass on chapters 1, 2, 3, 5, 7, 10 and 11. Chapter 5's old fail (not in the sitemap) is gone, and chapter 11 runs again now the checker's Firefox is reinstalled. With Chat's S449 reader halves (1, 6 and 7 pass), the one fail left is chapter 8, Chat's line on the school and course pages not being built yet.
+- **A fault found and mended this session: the sweep overwrites a record's reader halves.** page_readiness_board.py --sweep rewrites the whole DSRD6_RECORD.md, so my second run (after Chat wrote its S449 reader halves) wiped them. Restored from the 17:22 autosave, commit 09ae0ce0: Chat's rows 1, 6, 7, 8 and its "Chat's reader halves" section are back word for word, with only the machine section and machine rows 5 and 11 taken from the fresh run. The first run had also dropped Chat's S448 reader section, which Chat's S449 section replaces. **For a factory session:** make the sweep keep every human row and section it did not write, with a test.
+- **Redirect chain register re-run** (full run, workbook written back): 2595 rows, 1042 destinations, 386 carry all five, 656 incomplete, every incomplete one a page not built yet (author pages, school pages and others). **All 21 tag page destinations carry all five.** redirect_one_hop.py: 0 faults across 2595 rows.
 
 ## Not done in this session (not this session's jobs)
 
