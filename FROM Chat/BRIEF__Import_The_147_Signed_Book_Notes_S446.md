@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: WAITS ON the S190 line in 000__THE_THEME_QUEUE.md being struck and Chat's answer to TO Chat/ASK__The_147_Book_Notes_Three_Lines_Hold_The_Landing_S190 (importer ready, all 147 dry run, none landed).
+
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 
 **For Code (factory). What this needs from you:** import the 147 signed book notes onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the 147 addresses. Do RULING__A_Course_Link_Is_Its_Full_Name_Never_A_Nickname_S446 first: these notes link each course on its full name. Web addresses are unchanged, so no redirect is needed.
