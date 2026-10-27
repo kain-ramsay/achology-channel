@@ -5,6 +5,12 @@
 ## From the version control log (theme repo)
 - 96e89028 on branch safari-afternoon, merged by the founder-review session as 9a8d6ccb and deployed as **0.707.640**. The cards review view is removed (card-review.php deleted, its cards.css block cut, page-cards.php no longer routes ?view=review). Pick Where You Are now closes the seven subject pages and every list page (taxonomy-kh_category.php, learn-listing.php, kh-front-setup.php). The round Kain judged is in previews/kh-pick-s189. It was read back on the build site in WebKit at 1268 and 390 on seven pages: the block is drawn, the old path is gone, there is no sideways scroll, no picture is broken and there are no script errors. Board: Knowledge Hub Nav pages; Cards and Chrome Sweep.
 
+- 1808e1b7, 46b05b91 and 4e79bf3a on safari-afternoon (tip c092b9c2), merged by founder-review and deployed as **0.707.649**. These are Kain's three later rulings, filed in RULING__Course_Card_Stats_Balanced_Topic_Names_On_A_Phone_Strip_Soft_Fade_S189. Read back on the build site in WebKit at 1268, 390 and 320:
+  - **Course card stats:** stars flush left, hours flush right and students centred, with none cut at 1268 or 390, and 28 hidden "students" for screen readers. At 320 the row keeps its wrap.
+  - **All Tags:** 36 names show in two columns at 390 and 320, and none at 1268.
+  - **Category strip:** the fade is on at 390 and 320, and off at 1268.
+  Board: Courses page; Knowledge Hub Nav pages.
+
 ## Hand added (no repository record)
 - **Item 1, commerce cards:** ruled closed (RULING__Safari_Afternoon_Cards_Review_View_Removed_And_Pick_Where_You_Are_On_Every_Hub_Page_S189 section 1). Theme queue line struck.
 - **Items 2 to 6:** already signed at Code S080, S090 and S091. Nothing put to Kain.
@@ -15,8 +21,8 @@
 - **New memory:** reusing-a-signed-component-needs-no-options (Kain: "I didn't need to see the blocks ... I just wanted this exactly as I signed it").
 
 ## Not finished
-- **R5 (course card student count) and R10 (topic quilt on a phone):** four-option rounds for Kain, from BRIEF__Page_Readiness_Reader_Halves_Fixes_For_Code_S448. Not started.
-- **The tag page's All Categories label over a pill on a phone** (NOTE__Tag_Page_Reader_Halves_Run_One_List_For_Code_S449 item 2): a four-option round, not started.
+- **All Tags at 320 wide scrolls sideways.** This was so before today's change (it was measured on Before as well). It is a fault fix that changes nothing at other widths, for the next theme session.
+- **Cloud jobs 18 and 19:** released by Kain's yes on item 8, not merged.
 - **Dead rules** `.kh-hub__title` and `.kh-listing__title` (phone 33 to 24, no element draws them): to remove with a machine proof. Not started.
 - **The course page's buy block** still calls the old bundle and pass cards. This is for the course page sitting.
 
