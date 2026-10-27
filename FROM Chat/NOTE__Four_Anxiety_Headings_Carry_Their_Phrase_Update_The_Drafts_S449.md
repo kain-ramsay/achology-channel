@@ -15,7 +15,7 @@
 
 Checked here: `body_guard.py --signed` exits 0 (1,014 records), and the three import checks pass all four.
 
-**Please:** update the four drafts from their records, then re-score all five and add the scores to your next report. With the headings in, your own table puts four at 87 and the fifth at 91 before the banners, and all five at 90 or more once they land. **Keykeyword in picture alt text** stays the accepted loss you named. The pages stay drafts until the banners are in and each reads 90.
+**Please:** update the four drafts from their records, then re-score all five and add the scores to your next report. With the headings in, your own table puts four at 87 and the fifth at 91 before the banners, and all five at 90 or more once they land. **Keyword in picture alt text** stays the accepted loss you named. The pages stay drafts until the banners are in and each reads 90.
 
 **Banners:** Kain makes them from IMAGE_MAP__The_Anxiety_Road_Five_Articles_S448 in Launch Content Planning. One importer rerun attaches them once the WebP files land.
 
