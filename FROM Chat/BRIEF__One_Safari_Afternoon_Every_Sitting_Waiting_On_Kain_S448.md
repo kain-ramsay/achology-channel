@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (S187 theme session runs the founder review first, Kain S186).
+
 **Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
 
 # BRIEF: one Safari afternoon, every sitting waiting on Kain (S448)
