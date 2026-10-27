@@ -1,6 +1,6 @@
 **For Chat. What this needs from you:** read the score table and the findings in section 4; mend the 34 records at source (already your job by RULING__Gate_Lines_On_Signed_Words_..._S449); rule on the three pages in section 3. Factory session.
 
-# DONE: 113 of the 147 signed book notes are on the build site; the 34 wait on their publisher link (Code, S190 factory session, 27 October 2026)
+# DONE: 145 of the 147 signed book notes are on the build site (113, then 32 after their publisher links); two stay held (Code, S190 factory session, 27 October 2026)
 
 Answers BRIEF__Import_The_147_Signed_Book_Notes_S446 for 113 pages, with RULING__Kain_Lands_The_147_Book_Notes_S190 (Kain, in the sitting: "yes, please go ahead and do this claude") and RULING__Gate_Lines_On_Signed_Words_The_73_Help_Answers_The_147_Book_Notes_And_The_Five_Anxiety_Articles_S449, which confirms that reading. Every record was read as it stands today.
 
@@ -158,6 +158,47 @@ Read from each page's editor with score_run.py's session under `block_every_writ
 | the-social-animal-aronson | 35972 | 72 |
 | the-4-hour-body | 33824 | 36 |
 | tusculan-disputations | 33849 | 33 |
+
+## 9. The 32 landed after Chat's publisher links (NOTE__32_Book_Notes_Carry_Their_Publisher_Link_Land_Them_Now_Two_Held_S449)
+
+`body_guard.py --signed` exit 0 (1,014 records), then `article_body_update.py --apply --with-seo`: 32 of 32 updated in place, all still published, 0 refused. Read back against the records: 30 match; emotional-leonard-mlodinow (33799) and nature-emerson (33815) keep the older short titles "Emotional: Summary and Key Ideas" and "Nature: Summary and Key Ideas" against the records' "... by Leonard Mlodinow ..." and "... by Emerson ...", and nature-emerson's focus keyword is "Nature" against "nature by emerson"; both join section 3's ask. teacher-and-child and the-happiness-project stay held, as your note says, on their S150 bodies.
+
+Scores, read as in section 8: 15 at 88, 17 under 88, median 85.0. a-guide-to-rational-living and a-path-through-the-jungle read 42, failing keyword in title and title starts with keyword although their stored search titles carry the phrase; listed for the desk with the rest in the CSV.
+
+| Page (address name) | Post | Score | Read back |
+|---|---|---|---|
+| a-new-guide-to-rational-living | 38527 | 88 | match |
+| bittersweet | 37028 | 88 | match |
+| brainstorm-the-power-and-purpose-of-the-teenage-brain | 33793 | 88 | match |
+| coming-to-our-senses | 33796 | 88 | match |
+| creating-minds | 33797 | 88 | match |
+| critique-of-practical-reason | 38457 | 88 | match |
+| crucial-conversations-mcmillan | 35944 | 88 | match |
+| emotional-leonard-mlodinow | 33799 | 88 | title differs; focus keyword 'Emotional' vs 'emotional' |
+| finding-flow | 33801 | 88 | match |
+| have-a-little-faith | 36291 | 88 | match |
+| maps-of-meaning | 33812 | 88 | match |
+| money-master-the-game | 33814 | 88 | match |
+| noise | 33816 | 88 | match |
+| originals | 38465 | 88 | match |
+| quit | 37040 | 88 | match |
+| getting-past-no | 33803 | 85 | match |
+| keeping-the-love-you-find | 36293 | 85 | match |
+| linchpin | 33811 | 85 | match |
+| multiple-intelligences-new-horizons | 36214 | 85 | match |
+| nature-emerson | 33815 | 85 | title differs; focus keyword 'Nature' vs 'nature by emerson' |
+| shyness-what-it-is-what-to-do-about-it | 36208 | 85 | match |
+| stillness-speaks | 33823 | 82 | match |
+| the-brains-way-of-healing | 33827 | 82 | match |
+| the-maine-woods | 33838 | 82 | match |
+| the-origins-of-intelligence-in-children | 36216 | 82 | match |
+| the-republic-plato | 36551 | 82 | match |
+| the-way-to-love | 37052 | 82 | match |
+| toward-a-psychology-of-being | 33847 | 82 | match |
+| talking-to-crazy | 38451 | 79 | match |
+| time-and-free-will | 33846 | 79 | match |
+| a-guide-to-rational-living | 33788 | 42 | match |
+| a-path-through-the-jungle | 36287 | 42 | match |
 
 OWED BACK: the ask in section 3; the 34 mended at source; your word on section 4's course address.
 
