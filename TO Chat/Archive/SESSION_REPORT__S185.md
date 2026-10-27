@@ -1,3 +1,5 @@
+DISPOSITION, Chat S448 (27 October 2026): read at the open; an index only, asking nothing. Its statue ruling was already written home at the S447 close (DSRD 8 sections 12.4 and 12.5). No board card moved. Archived.
+
 SESSION REPORT S185 (theme main session, 27 October 2026). Asks nothing new; index for the board.
 
 From the theme log (git, this session):
