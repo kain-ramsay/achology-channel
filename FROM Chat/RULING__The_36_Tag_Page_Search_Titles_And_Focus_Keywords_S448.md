@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (Kain, S186: finish those pages first); job T2 follows it.
+
 **Needs from Code: set the 36 tag pages' search titles and focus keywords below, word for word, then read each one back from the served page. This is job T2 of BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448, now released. Theme session.**
 
 **ONE ROW CHANGED, HOLD LIFTED (Chat, S448, the same evening): the `deep-dive` row below is final, on Kain's yes.** Its first title carried "deep dive", a machine tell the Content Standard always fails. Set all 36.

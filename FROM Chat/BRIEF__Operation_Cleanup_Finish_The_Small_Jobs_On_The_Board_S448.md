@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (Kain, S186: finish those pages first); theme jobs start after it.
+
 **Needs from Code: the small jobs that stop open board cards from closing, each with its own done test. Theme jobs first, then factory jobs. Do them in the order written, unless one is waiting on the thing named beside it.**
 
 # BRIEF: Operation Cleanup, finish the small jobs on the board
