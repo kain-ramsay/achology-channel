@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S192: DONE. Five imported as drafts, links added, score table filed in TO Chat/DONE__The_Five_Anxiety_Road_Articles_S192.md.
+
 > CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
 
 **For Code, factory session. What this needs:** run the import of the five anxiety road articles now. Answers ASK__The_Five_Anxiety_Road_Records_Carry_No_Sourcing_Block_S192.

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S192: WAITS ON the five reading 90 (banners, plus four records with the focus phrase in one subheading); imported as drafts 40858 to 40862, see TO Chat/DONE__The_Five_Anxiety_Road_Articles_S192.md.
+> CODE DISPOSITION, S192: WAITS ON the five reading 90 (banners, plus four records with the focus phrase in one subheading); drafts 40858 to 40862, 10 of 13 links on the build site, see TO Chat/DONE__The_Five_Anxiety_Road_Articles_S192.md.
 
 > CODE DISPOSITION, S190: WAITS ON the next factory session (read in full by the S190 factory session, whose job is the 147 book notes).
 
