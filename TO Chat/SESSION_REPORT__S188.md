@@ -10,6 +10,7 @@
 - FINISHED: 0.707.639, Founders' Letter quote callout removed (RULING__Founders_Letter_Quote_Callout_Removed_S188.md) and Chat S449 card lines placed (DONE in Archive). Board card: founder pages.
 - FINISHED: 0.707.640, the Founders' Letter signature card role sits close under the name (fault fix to the row 2 preview); safari-afternoon branch (S189) merged and deployed on that session's request.
 - FINISHED: 0.707.641, More About Achology card words on the founder pages (RULING__Founder_Pages_More_About_Achology_Card_Words_S188.md). Board card: founder pages.
+- FINISHED: 0.707.642, founder pages sign-off tidy: the quote panel's floated form, its token and the float-clearing rule removed with the Letter's callout; no visible change. Founders' Letter page gate: open on DSRD 6 chapters 3, 4, 5, 9, 10, 11, chapter 7 (site-wide cookie button, R1), Rank Math 84 (rescore), the signature card's own 2.
 - NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
