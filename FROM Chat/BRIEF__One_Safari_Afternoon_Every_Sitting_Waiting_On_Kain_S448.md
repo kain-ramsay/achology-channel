@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S189: WAITS ON Kain's answer on item 7 (the type rules), and on the R5 and R10 option rounds. Items 1 and 8 are ruled and shipped at 0.707.640, items 2 to 6 were already signed and item 9 was settled in Chat (TO Chat/RULING__Safari_Afternoon_Cards_Review_View_Removed_And_Pick_Where_You_Are_On_Every_Hub_Page_S189).
+> CODE DISPOSITION, S189: WAITS ON the R5 and R10 option rounds (BRIEF__Page_Readiness_Reader_Halves_Fixes_For_Code_S448) and the tag page phone label round (NOTE__Tag_Page_Reader_Halves_Run_One_List_For_Code_S449 item 2) for Kain's eye; items 1 to 9 are all closed (TO Chat RULING__Safari_Afternoon_Cards_Review_View_Removed_And_Pick_Where_You_Are_On_Every_Hub_Page_S189 and RULING__The_Type_Weight_Rule_And_The_Phone_Rule_Written_From_What_The_Site_Does_S189).
 
 **Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him (item 9, the tag page counters, was settled by Kain in Chat the same evening: left as they are) and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
 
