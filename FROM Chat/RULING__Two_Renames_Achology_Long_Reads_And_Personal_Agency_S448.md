@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S192: WAITS ON a theme session (read in full by the S192 factory session, which touches no theme file).
 **Needs from Code: two label renames on the build site, both approved by Kain today, plus two synonym lines. Theme session. Do it with or after the Knowledge Hub navigation jobs (T1, T2, T10 to T14).**
 
 # RULING: two renames, Achology Long Reads and Personal Agency (S448)
