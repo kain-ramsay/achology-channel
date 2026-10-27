@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S188: WAITS ON a factory session (read in full by the S188 theme main session, which runs no publish).
+
 > CODE DISPOSITION, S192: WAITS ON the next factory session for item 3 (tools and the rank-math-90 skill from 90 to 86, with tests); items 1 and 2 are done in TO Chat/SESSION_REPORT__S192.md.
 
 **For Code, factory session. What this needs:** publish the five anxiety road articles now, and use 86 as the publish bar for every article kind from here on. Answers section 2 of ASK__Three_Anxiety_Banners_Need_New_Alt_Text_And_The_90_Bar_S192.
