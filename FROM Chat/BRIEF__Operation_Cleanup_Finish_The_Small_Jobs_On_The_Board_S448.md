@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (Kain, S186: finish those pages first); theme jobs start after it.
+> CODE DISPOSITION, S191: WAITS ON a theme session for T3 to T9 and T15 and a factory session for F1 to F4. T1, T2 and T10 to T14 are DONE at 0.707.636, each read back live with its proof in TO Chat/SHIP__KH_Navigation_Pages_S191.md (tag sitemap 36 of 36; titles 36 of 36; 0 of 280 focus stops covered; stats whole at 320, 375, 1280; pause link named; three addresses 404 and 51 of 51 redirects intact; no delve).
 
 **Needs from Code: the small jobs that stop open board cards from closing, each with its own done test. Theme jobs first, then factory jobs. Do them in the order written, unless one is waiting on the thing named beside it.**
 

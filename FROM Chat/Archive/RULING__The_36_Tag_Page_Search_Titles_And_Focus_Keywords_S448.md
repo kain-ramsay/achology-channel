@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (Kain, S186: finish those pages first); job T2 follows it.
+> CODE DISPOSITION, S191: DONE. All 36 titles and focus keywords set word for word on the kh_tag terms; read back from the served page source one by one, 36 of 36 titles exact and none reads Archives; Rank Math keeps the focus keyword on a term, 36 of 36 read back exact (TO Chat/SHIP__KH_Navigation_Pages_S191.md, theme 0.707.636).
 
 **Needs from Code: set the 36 tag pages' search titles and focus keywords below, word for word, then read each one back from the served page. This is job T2 of BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448, now released. Theme session.**
 
