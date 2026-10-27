@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S192: DONE. The five are published on Kain's word (86 accepted), banners attached, links in, re-gated live; see TO Chat/ASK__Three_Anxiety_Banners_Need_New_Alt_Text_And_The_90_Bar_S192 section 4.
+> CODE DISPOSITION, S192: DONE. The five are published on Kain's word (86 accepted), banners attached, links in, re-gated live, answered in TO Chat/DONE__The_Five_Anxiety_Road_Articles_S192.md and TO Chat/ASK__Three_Anxiety_Banners_Need_New_Alt_Text_And_The_90_Bar_S192.md.
 
 > CODE DISPOSITION, S190: WAITS ON the next factory session (read in full by the S190 factory session, whose job is the 147 book notes).
 
