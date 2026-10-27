@@ -41,6 +41,9 @@ From the theme log, this session:
 
 - Hand added: Kain approved, as it looks, the review's extra top space on a computer (the Staircase's slope room, the page gate's spacing-scale line): "As it looks, i love it - please dont make any more changes". Written into the front page's DSRD6 record as an approved exception; the front page is finished and is not to be changed further.
 
+- 0.707.611: the Soft Rings made to ripple, four ways behind ?rip=1 to 4 in the shared Change Viewer.
+- 0.707.612: Kain picked Gentle Ripple; the rings drift outward one ring every 9 seconds, every ?rip= preview removed, proved pixel for pixel. RULING__Front_Page_Review_Band_Rings_Gentle_Ripple_S184 filed.
+
 FOR A FACTORY SESSION: the media gate now stops every session's close on "old quote card set 275, 74.3 MB" in the Media Library. Binning library pictures is factory work (publish_gate.py --media-bin), not a theme or side session's call; please route it to the next factory session.
 
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
