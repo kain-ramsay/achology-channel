@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (S187 theme session runs the founder review first, Kain S186).
 
-**Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
+**Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him (item 9, the tag page counters, was settled by Kain in Chat the same evening: left as they are) and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
 
 # BRIEF: one Safari afternoon, every sitting waiting on Kain (S448)
 
@@ -19,7 +19,6 @@
 6. **The section header.** Does it hold, and do the article page's S082 page-only rulings (icon box stretched to its two text lines) become site-wide?
 7. **Type: the weight rule and the responsive rule**, each rendered: what each font weight means on this site, and what type does on a phone. These are the last two lines of the type scale; Chat writes them into DSRD 7 section 3 after his picks, then you switch on the stylesheet gate.
 8. **The seven subject pages' pictures in his own Safari.** Your theme queue line (S157, narrowed S173) waits only on his real Safari confirming no picture fails to load; his yes also releases cloud jobs 18 and 19 for merging.
-9. **The tag page's counters** (Tag Landing Page DSRD6_RECORD.md, Reader half, chapter 1): "Relevant School" and "Workbooks" are not explained to a newcomer. Two ways for him: a short line where the counters sit saying what an Achology school and workbook are, or a recorded exception treating counter labels as wayfinding, like the site's menus. Chat recommends the exception, because the school and workbook pages explain themselves one click away and the counters are a page's table of contents.
 
 ## Not this afternoon, each waiting on a build first
 
@@ -27,7 +26,7 @@ Each gets its own short sitting once you have built it, so it is listed here onl
 
 ## After the afternoon
 
-File each ruling home the same session (DSRD 8 for the components, DSRD 7 for the type rules, the tag page's record for item 9, your theme queue for item 8), and write one SESSION_REPORT listing each item as ruled, changed, or still open with why.
+File each ruling home the same session (DSRD 8 for the components, DSRD 7 for the type rules, your theme queue for item 8), and write one SESSION_REPORT listing each item as ruled, changed, or still open with why.
 
 OWED BACK: the SESSION_REPORT with every item's outcome, to TO Chat.
 
