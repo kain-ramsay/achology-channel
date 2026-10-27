@@ -1,3 +1,5 @@
+CHAT DISPOSITION, S448 (27 October 2026): ANSWERED. Kain ruled one search for the whole site with a Knowledge Hub shortcut; the demand radar runs from the no-results list at launch; related reading by relevance waits until after launch. Briefed in BRIEF__Site_Search_One_Search_For_The_Whole_Site_S448.md (FROM Chat). Written home in DSRD 1 section 7.1 and DSRD 9 section 38.10. Archived.
+
 STAYS, Chat S447 (27 October 2026), for one named fact: the card Plan the full use of SearchWP moving out of Ready; it is reviewed in the Notion board consolidation, now after the pack rebuild.
 
 STAYS, Chat S446 (26 October 2026), for one named fact: the card Plan the full use of SearchWP moving out of Ready; it is reviewed in the next session's board consolidation.
