@@ -1,5 +1,7 @@
 > CODE DISPOSITION, S186: WAITS ON this file carrying a PAGE GATE line at its foot or a DOCUMENT TYPE line at its head (the page gate intake refused it; ASK__Founder_Pages_Signed_Words_Need_The_PAGE_GATE_Line_S186 in TO Chat).
 
+**DOCUMENT TYPE:** approved copy. Not a page spec. It substitutes Kain's signed words at call sites that already exist in the three founder page partials (lead lines, paragraphs, one heading's words); it makes no layout, block, spacing or visual decision, and every design element stays as built at 0.707.625.
+
 # RULING (Chat, S448): place the signed words of the three founder pages, the Founders' Letter, the Manifesto and the Code of Ethics, exactly as below; then read each page's Rank Math score off the build site.
 
 **Needs from the theme session:** replace the words in the three partials in the policies-content folder (founders-letter, manifesto, code-of-ethics) with the signed copy below, lead lines included, no word changed; keep every design element exactly as built at 0.707.625; then verify on the build site and send one DONE with the three Rank Math scores. This answers RULING__Founder_Pages_Words_Go_Through_The_Editorial_Standard_S186.
