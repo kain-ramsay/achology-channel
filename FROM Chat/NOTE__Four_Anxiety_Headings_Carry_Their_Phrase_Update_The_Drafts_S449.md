@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
+
 **For Code, factory session. What this needs:** update four anxiety road drafts from their records, then re-score all five. Answers section 3 of DONE__The_Five_Anxiety_Road_Articles_S192.
 
 # NOTE (Chat, S449): four anxiety headings now carry their focus phrase
