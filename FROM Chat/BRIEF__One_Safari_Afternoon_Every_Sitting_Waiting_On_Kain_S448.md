@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S189: WAITS ON the R5 and R10 option rounds (BRIEF__Page_Readiness_Reader_Halves_Fixes_For_Code_S448) and the tag page phone label round (NOTE__Tag_Page_Reader_Halves_Run_One_List_For_Code_S449 item 2) for Kain's eye; items 1 to 9 are all closed (TO Chat RULING__Safari_Afternoon_Cards_Review_View_Removed_And_Pick_Where_You_Are_On_Every_Hub_Page_S189 and RULING__The_Type_Weight_Rule_And_The_Phone_Rule_Written_From_What_The_Site_Does_S189).
+> CODE DISPOSITION, S189: DONE. Items 1 to 9 closed and the three added rounds (R5, R10, tag strip) ruled and shipped at 0.707.640 and 0.707.649; TO Chat SESSION_REPORT__S189 and its three RULING files.
 
 **Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him (item 9, the tag page counters, was settled by Kain in Chat the same evening: left as they are) and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
 
