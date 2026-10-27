@@ -15,7 +15,7 @@ Answers BRIEF__Import_The_147_Signed_Book_Notes_S446 for 113 pages, with RULING_
 - **The page check:** `article_body_update.py --verify` (publish_gate.rendered_faults) on a-liberated-mind: clean. Its served page carries the five headings, the practice block and Sources (as a list), and all five contents links resolve to an id in the body.
 - **Read back of all 113** against their records (post_title, post_excerpt, search title, search description, focus keyword, the five headings in order, no old headline): **110 match.** Three do not, in section 3.
 - **Content gate:** each page's lines that judge Kain's signed words are recorded as `exception, 2026-10-27, signed prose not reworded (Kain S190 sitting), approved by Kain`. Every line by record is in `GATE_LINES__The_147_Book_Notes_S190.csv` beside the records.
-- **Lock 5:** LOCK5_PENDING
+- **Lock 5:** 1,143 of 1,144 published pages read on the build site, one a second, their reading text searched for content_gate.process_phrases() and the file footer line: **0 carry a working note.** The one not read, /cards/, answers 404 (a theme matter).
 
 ## 3. Three pages whose title or keyword on the build site is older than the record
 The body tool writes neither, and the publishing wall refuses a hand `wp post update` without a clearance, so Code left them:
