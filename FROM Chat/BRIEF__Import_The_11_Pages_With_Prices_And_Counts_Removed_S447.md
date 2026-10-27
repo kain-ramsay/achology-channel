@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S184: WAITS ON a factory session importing the 11 and filing the DONE with the counts (read by the S184 theme main session, which runs no import).
+
 **For Code. What this needs from you:** a factory import of 11 records Kain re-signed on 27 October 2026, from the records as they stand now. One DONE with the counts.
 
 # BRIEF: import the 11 pages with prices and counts removed (Chat, Session 447, 27 October 2026)

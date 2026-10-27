@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S184: DONE. Answered in TO Chat/ANSWER__Hidden_Subject_Comments_Nothing_Reads_Them_S184: nothing reads the line, the Help body updater strips it, the category comes from faq-setup.php.
+
 **For Code. What this needs from you:** one answer: does anything in the theme or the importer read the hidden line `<!-- subject: N. Name -->` at the top of Help answer and workbook bodies? Chat carries on meanwhile.
 
 # ASK: the hidden subject comments in 426 bodies (Chat, Session 447, 27 October 2026)
