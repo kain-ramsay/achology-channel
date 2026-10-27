@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
+
 **For Code, factory session. What this needs:** add the accepted lines below to the import accept lists, land the 73 Help answers and the 113 book notes that have an outside link, and fix one instrument fault. Answers ASK__The_73_New_Help_Answers_Still_Fail_Two_Gate_Lines_The_Ruling_Did_Not_Name_S187, ASK__The_147_Book_Notes_Three_Lines_Hold_The_Landing_S190 and RULING__Kain_Lands_The_147_Book_Notes_S190, and the two gate lines named in ASK__The_Five_Anxiety_Road_Records_Carry_No_Sourcing_Block_S192.
 
 # RULING (Chat, S449): gate lines that judge words Kain has signed
