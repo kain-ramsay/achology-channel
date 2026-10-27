@@ -6,7 +6,7 @@ Answers BRIEF__Import_The_147_Signed_Book_Notes_S446 for 113 pages, with RULING_
 
 ## 1. What reached the build site
 - **113 book notes updated in place**, all still published; none created, none unpublished. Through the theme's `article_body_update.py --apply --with-seo`, after the theme deployed the S440 template at 0.707.637 (contents list and badge on "A Question That Deserves an Honest Answer"; the S190 theme queue line struck by that session).
-- Body for all 113. Excerpt for all 113. Search title and description for the 32 records that carry `rm_seo_title` and `rm_seo_description`; the other 81 carry only `prod_rm_*` and the tool reads `rm_*`, so their stored search title and description were left as they were. The read back below found them already equal to the record's `prod_rm_*` values.
+- Body for all 113. Excerpt for all 113. Search title and description for the 33 records that carry `rm_seo_title` and `rm_seo_description`; the other 80 carry only `prod_rm_*` and the tool reads `rm_*`, so their stored search title and description were left as they were. The read back below found them already equal to the record's `prod_rm_*` values.
 - No course link was written into any record by the autolinker this run; no record changed.
 
 ## 2. Checks
@@ -43,7 +43,121 @@ Refused by the body tool, before any write, for no outside link (DSRD 6 section 
 ## 8. The score table: 113 pages
 Read from each page's editor with score_run.py's session under `block_every_write`, nothing saved, by Rank Math's own analyser on the primary keyword (its result manager's score). 0 at 90 or above (the ceiling is 88), 34 at 88, 79 under; median 82. Every page under 90, with its failing tests and primary keyword, is in `RANK_MATH_FAILURES__Book_Notes_S190.csv` beside the records, keyed by post id. Tests failing: internal link 56 (section 4), short paragraphs 38, keyword in subheadings 4, title starts with keyword 2, keyword in title 2, keyword in first 10% 2, keyword in image alt 1, keyword in content 1.
 
-SCORE_TABLE
+| Page (address name) | Post | Score |
+|---|---|---|
+| a-treatise-of-human-nature | 35932 | 88 |
+| as-a-man-thinketh | 35934 | 88 |
+| authentic-happiness-seligman | 36529 | 88 |
+| awaken-the-giant-within | 36531 | 88 |
+| awakenings | 33792 | 88 |
+| before-happiness | 37026 | 88 |
+| born-for-love | 38453 | 88 |
+| chasing-the-scream | 33794 | 88 |
+| coaching-with-the-brain-in-mind | 33795 | 88 |
+| counseling-the-culturally-diverse | 36537 | 88 |
+| daring-to-trust | 36289 | 88 |
+| discipline-equals-freedom | 35946 | 88 |
+| embracing-uncertainty | 37030 | 88 |
+| emotional-intelligence-goleman | 35948 | 88 |
+| feeling-good-burns | 35952 | 88 |
+| free-will-sam-harris | 33802 | 88 |
+| games-people-play | 35956 | 88 |
+| how-to-know-a-person | 33807 | 88 |
+| humble-inquiry | 33808 | 88 |
+| internal-family-systems-therapy | 33809 | 88 |
+| journey-to-the-heart | 33810 | 88 |
+| leader-effectiveness-training | 37034 | 88 |
+| make-your-bed | 35958 | 88 |
+| mans-search-for-meaning | 10901 | 88 |
+| mothers-who-cant-love | 38461 | 88 |
+| necessary-endings | 37036 | 88 |
+| on-the-origin-of-species | 33817 | 88 |
+| open-when | 36295 | 88 |
+| overcoming-depression | 33818 | 88 |
+| radical-compassion | 33820 | 88 |
+| recovering-from-emotionally-immature-parents | 33821 | 88 |
+| the-diet-trap-solution | 33831 | 88 |
+| the-farther-reaches-of-human-nature | 33833 | 88 |
+| words-that-work | 35980 | 88 |
+| fierce-self-compassion | 33800 | 86 |
+| a-liberated-mind | 33790 | 85 |
+| best-self-be-you-only-better | 35938 | 85 |
+| childhood-and-society | 36533 | 85 |
+| cognitive-behavior-therapy-second-edition | 35942 | 85 |
+| come-together | 38455 | 85 |
+| decisive | 33798 | 85 |
+| difficult-conversations-patton | 36539 | 85 |
+| extreme-ownership-willink | 35950 | 85 |
+| frames-of-mind | 35954 | 85 |
+| further-along-the-road-less-travelled | 37032 | 85 |
+| homage-to-catalonia | 33804 | 85 |
+| how-the-mighty-fall | 33805 | 85 |
+| how-to-fix-a-broken-heart | 33806 | 85 |
+| identity-youth-and-crisis | 36212 | 85 |
+| meditations-for-mortals | 38459 | 85 |
+| mental-efficiency | 33813 | 85 |
+| notes-on-a-nervous-planet | 37038 | 85 |
+| on-the-tranquility-of-mind | 38463 | 85 |
+| peace-power-and-plenty | 33819 | 85 |
+| the-beck-diet-solution | 36210 | 85 |
+| the-honest-truth-about-dishonesty | 33836 | 85 |
+| boundaries-cloud | 35940 | 82 |
+| resilient | 36206 | 82 |
+| running-on-empty-no-more | 37042 | 82 |
+| speak-peace-in-a-world-of-conflict | 33822 | 82 |
+| stoicism-and-the-art-of-happiness | 36541 | 82 |
+| the-advantage | 36299 | 82 |
+| the-advice-trap | 33826 | 82 |
+| the-bridge-across-forever | 33828 | 82 |
+| the-confidence-gap | 33829 | 82 |
+| the-dichotomy-of-leadership | 33830 | 82 |
+| the-high-5-habit | 37048 | 82 |
+| the-history-of-philosophy | 35960 | 82 |
+| the-jealousy-cure | 36303 | 82 |
+| the-life-cycle-completed | 33837 | 82 |
+| the-nicomachean-ethics | 35962 | 82 |
+| the-open-society-and-its-enemies | 36545 | 82 |
+| the-philosophy-of-freedom | 35966 | 82 |
+| the-places-that-scare-you | 33839 | 82 |
+| the-power-of-now | 36547 | 82 |
+| the-power-of-truth | 33840 | 82 |
+| the-prince-machiavelli | 35968 | 82 |
+| the-problems-of-philosophy | 36549 | 82 |
+| the-psychology-of-self-esteem | 33841 | 82 |
+| the-road-less-travelled | 36553 | 82 |
+| the-science-of-being-well | 33843 | 82 |
+| the-selfish-gene | 35970 | 82 |
+| the-stoic-challenge | 37050 | 82 |
+| the-time-paradox | 36557 | 82 |
+| the-upside-of-stress | 33844 | 82 |
+| thinking-fast-and-slow | 36559 | 82 |
+| thus-spoke-zarathustra | 35976 | 82 |
+| truth-and-repair | 33848 | 82 |
+| utilitarianism | 36561 | 82 |
+| why-zebras-dont-get-ulcers | 33852 | 82 |
+| words-that-change-minds | 35978 | 82 |
+| yes-50-scientifically-proven-ways-to-be-persuasive | 36218 | 81 |
+| shift | 37044 | 79 |
+| surrounded-by-psychopaths | 37046 | 79 |
+| the-8th-habit | 33825 | 79 |
+| the-art-of-the-good-life | 36301 | 79 |
+| the-doors-of-perception | 33832 | 79 |
+| the-feeling-good-handbook | 33834 | 79 |
+| the-gap-and-the-gain | 33835 | 79 |
+| the-perennial-philosophy | 35964 | 79 |
+| the-quick-and-easy-way-to-effective-speaking | 38467 | 79 |
+| the-relationship-cure | 33842 | 79 |
+| the-six-pillars-of-self-esteem | 36555 | 79 |
+| the-skilled-helper | 35418 | 79 |
+| the-tao-of-fully-feeling | 38529 | 79 |
+| the-tao-te-ching | 35974 | 79 |
+| the-ultimate-life-coaching-handbook | 35419 | 79 |
+| thrift | 33845 | 79 |
+| what-do-you-say-after-you-say-hello | 33850 | 79 |
+| what-life-could-mean-to-you | 33851 | 79 |
+| the-social-animal-aronson | 35972 | 72 |
+| the-4-hour-body | 33824 | 36 |
+| tusculan-disputations | 33849 | 33 |
 
 OWED BACK: the ask in section 3; the 34 mended at source; your word on section 4's course address.
 
