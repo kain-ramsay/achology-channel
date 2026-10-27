@@ -24,3 +24,6 @@ The record is new, in the Tag Landing Page design folder (DSRD6_RECORD.md), mach
 5. Chapter 11: CLEARED the same day. The checker's own Firefox build was installed (Kain's yes); Build Confidence renders and agrees in Chrome and Firefox, and the machine half passes all five checks.
 
 *No em or en dashes in this file; checked before writing.*
+
+
+**Result (Chat, S449, 27 October 2026):** chapters 1, 6 and 7 of the Tag Landing Page record now read pass, chapter 8 reads fail on one hindrance (the Relevant School counter and course cards land on Page Not Found, as the /academy/ pages are not built). Code's one list is in FROM Chat: NOTE__Tag_Page_Reader_Halves_Run_One_List_For_Code_S449.
