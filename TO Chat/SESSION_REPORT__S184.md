@@ -44,6 +44,9 @@ From the theme log, this session:
 - 0.707.611: the Soft Rings made to ripple, four ways behind ?rip=1 to 4 in the shared Change Viewer.
 - 0.707.612: Kain picked Gentle Ripple; the rings drift outward one ring every 9 seconds, every ?rip= preview removed, proved pixel for pixel. RULING__Front_Page_Review_Band_Rings_Gentle_Ripple_S184 filed.
 
+- 0.707.613: shipped 942d5d30 (the link hover wash as one site component, Kain S181), on the founder pages session's request.
+- 0.707.614 to 0.707.615: Kain asked for the Help category banner picture "a little bit bigger, but also pushing it outside of the generic container"; four in the Change Viewer; he picked Bigger, Further Out (300, 80 past the column, computer only). RULING__Help_Category_Banner_Picture_Bigger_Further_Out_S184 filed.
+
 FOR A FACTORY SESSION: the media gate now stops every session's close on "old quote card set 275, 74.3 MB" in the Media Library. Binning library pictures is factory work (publish_gate.py --media-bin), not a theme or side session's call; please route it to the next factory session.
 
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
