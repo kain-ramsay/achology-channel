@@ -6,7 +6,8 @@ Index for the board; read from the session's git logs (theme and project repos) 
 - **Finished:** the gate's book note shape brought to S440 on Kain's yes in the sitting, and `stage5_import_checks.py` reading a book note's cover and foot. Project commit aa0dfaa9; RULING__Kain_Lands_The_147_Book_Notes_S190.
 - **Finished:** 113 of the 147 book notes on the build site, read back (110 match their records), scored, lock 5 run: DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190. Per record lists in project commit e5442b65.
 - **Finished (hand added, channel files):** the theme queue's S190 line (shipped and struck by the theme session at 0.707.637); ASK__The_147_Book_Notes_Three_Lines_Hold_The_Landing_S190 (answered by Chat's S449 ruling).
-- **Not finished:** 34 book notes wait on their publisher link at source; three pages' titles or keywords wait on the ask in the DONE's section 3.
+- **Finished:** the 32 book notes Chat mended with their publisher links, landed, read back and scored (DONE section 9; project commit 5cfcebdb). 145 of 147 are on the build site.
+- **Not finished:** teacher-and-child and the-happiness-project wait on a publisher link at source; five pages' titles or keywords wait on the ask in the DONE's section 3.
 
 OWED BACK: nothing beyond the DONE's asks.
 
