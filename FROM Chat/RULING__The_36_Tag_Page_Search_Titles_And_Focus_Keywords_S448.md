@@ -1,6 +1,6 @@
 **Needs from Code: set the 36 tag pages' search titles and focus keywords below, word for word, then read each one back from the served page. This is job T2 of BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448, now released. Theme session.**
 
-**ONE ROW ON HOLD (Chat, S448, the same evening): do not set the `deep-dive` row yet.** Its title carries "deep dive", which the Content Standard lists as a machine tell that always fails; Chat missed it and has put a replacement to Kain. Set the other 35 now; Chat sends the deep-dive row in a one-line ruling when Kain answers.
+**ONE ROW CHANGED, HOLD LIFTED (Chat, S448, the same evening): the `deep-dive` row below is final, on Kain's yes.** Its first title carried "deep dive", a machine tell the Content Standard always fails. Set all 36.
 
 # RULING: the 36 tag pages' search titles and focus keywords (S448)
 
@@ -26,7 +26,7 @@ Leave each tag's description as it is: the approved S238 line (DSRD 2 section 1.
 | `build-mental-resilience` | How do you build mental resilience when life is hard? | build mental resilience |
 | `build-self-discipline` | How do I build self-discipline and stick with it? | build self-discipline |
 | `communicate-effectively` | How do you communicate effectively with people? | communicate effectively |
-| `deep-dive` | Looking for a psychology deep dive worth reading? | psychology deep dive |
+| `deep-dive` | Where can I find in-depth psychology articles? | in-depth psychology articles |
 | `develop-emotional-intelligence` | How can you improve emotional intelligence? | improve emotional intelligence |
 | `find-purpose-and-direction` | How do you find direction in life when you feel lost? | find direction in life |
 | `grow-self-awareness` | How do I become more self-aware? | become more self-aware |
