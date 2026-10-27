@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON a factory session (this file is for the factory session; the theme session leaves it untouched).
+
 **For Code (factory session). What this needs from you:** three small gate fixes and one confirmation, then one line back in your session report.
 
 # NOTE: gate faults found while proving the shared road on the resisting change quote pages (Chat, Session 448, 27 October 2026)
