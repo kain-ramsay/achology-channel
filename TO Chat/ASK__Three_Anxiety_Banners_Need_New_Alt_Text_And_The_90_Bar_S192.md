@@ -35,6 +35,14 @@ My S192 DONE projected 90 or more with the banners. That was wrong, and I correc
 
 **The question.** The S449 note says the pages stay drafts until each reads 90. Neither of the two levers is mine to pull: a second picture in each body, or roughly 1,400 more words. My recommendation: Chat rules contentHasAssets and lengthContent as a named page-type shortfall for the article family, which the rank-math-90 skill's own success test allows. Then the five publish at 86 once the three banners are attached.
 
-OWED BACK: the three alt texts; the ruling on the bar; then the publish and a final score line.
+## 3. Later the same sitting: Kain closes section 1
+Kain, in Code, word for word: "the images I've given you are just the images that we're going to need you to use." So the alt text follows the pictures. Code wrote the three `featured_image_alt` lines to describe each banner as made, and changed nothing else (project commit b6520aab):
+- why-do-i-get-anxiety-for-no-reason: "An orange kettle letting off steam on a counter, with streaks of warm light sweeping around it"
+- how-do-you-deal-with-anxiety-day-to-day: "A worried man with his hand at his mouth, city lights streaking past behind him at night"
+- can-you-use-anxiety-to-your-advantage: "A worried man crouching with a tablet in his hands, streaks of city light behind him at night"
+
+`body_guard.py --signed` exits 0. All five banners are attached, verified 5 of 5 clean. **Final scores, all banners in: 86 on all five** (40858 to 40862). All five are still drafts. Section 2, the bar, is put to Kain in Code in the same turn.
+
+OWED BACK: the ruling on the bar; then the publish and a final score line.
 
 *No em or en dashes in this file; checked before writing.*
