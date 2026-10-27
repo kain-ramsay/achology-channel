@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which touches no gate).
+
 **For Code, factory session. What this needs:** one change to the content gate's quote page entry, with its acceptance test. It does not hold any import.
 
 # NOTE (Chat, S449): the gate asks quote pages for an outside source link that their card forbids
