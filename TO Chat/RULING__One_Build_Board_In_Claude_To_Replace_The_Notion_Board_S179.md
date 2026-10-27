@@ -1,3 +1,5 @@
+STAYS, Chat S449 (27 October 2026), for one named fact: Kain said "Not now. Leave the board switch for later." Chat writes the switch plan only when Kain asks for it.
+
 STAYS, Chat S447 (27 October 2026), for one named fact: Chat's switch plan in front of Kain, written in the Notion board consolidation, now after the pack rebuild.
 
 STAYS, Chat S446 (26 October 2026), for one named fact: Chat's switch plan in front of Kain. Kain asked at S446 for the Notion board to be consolidated in the next session, once the editorial backlog is done; the switch plan is written in that same job.
