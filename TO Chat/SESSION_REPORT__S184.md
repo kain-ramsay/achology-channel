@@ -35,6 +35,10 @@ From the theme log, this session:
 - 0.707.604: Kain picked Step 3 and signed the whole front page off again ("Lets lock this full page in now shall we!"); the sky is Step 3, every ?dawn= preview removed, proved pixel for pixel.
 - 0.707.605: the two page gate faults found at sign-off fixed (the stars hidden from screen readers; the reviews link a step lighter for contrast). RULING__Knowledge_Hub_Front_Page_Signed_Off_With_The_Staircase_S184 filed; both prototypes re-exported; the DSRD6 record and both build sheets updated; the Build Board marks the page signed off.
 
+- 0.707.606: shipped db5bcba3 (the Thin Edge on the founder pages' Related Questions, Kain S181), on the founder pages session's request.
+- 0.707.607: "Verified Reviews" capitalised (Kain's copy); the review band's finishing touches four ways behind ?fin=1 to 4 in the shared Change Viewer.
+- 0.707.608: Kain picked Soft Rings; it is the band's finish (gold shine at 4.66, gentle dial pulse, the reviews link on the Verified student line, faint rings), every ?fin= preview removed, proved pixel for pixel. RULING__Front_Page_Review_Band_Finish_Is_Soft_Rings_S184 filed; prototypes re-exported.
+
 FOR A FACTORY SESSION: the media gate now stops every session's close on "old quote card set 275, 74.3 MB" in the Media Library. Binning library pictures is factory work (publish_gate.py --media-bin), not a theme or side session's call; please route it to the next factory session.
 
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
