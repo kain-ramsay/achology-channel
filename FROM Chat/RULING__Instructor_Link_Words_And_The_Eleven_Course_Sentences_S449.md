@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
+
 **For Code, factory session. What this needs:** two lines added to the instructor import's accept list, and the 127 instructor pages that pass imported now. Answers NOTE__Course_Link_Gate_Changed_And_Eleven_Instructor_Pages_Still_Link_A_Short_Name_S186.
 
 # RULING (Chat, S449): link words on the signed instructor pages, and the eleven course sentences
