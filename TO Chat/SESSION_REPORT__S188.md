@@ -18,6 +18,7 @@
 - FINISHED: 0.707.651, Code of Ethics one paragraph in Kain's own words (NOTE__Code_Of_Ethics_One_Paragraph_In_Kains_Words_S188.md); placed by shell because the Edit page gate intake refuses the page (S186 ASK open). 0.707.650 carried no change (version bump only, a slip).
 - FINISHED: Code of Ethics page gate run (spacing-scale and axe pass; Rank Math 89 waits on the rescore); record swept, machine halves pass on chapters 1, 3, 5, 7, 10, 11; chapter 2 recorded as the S449 exception; Chat's reader half restored after the sweep removed it.
 - FINISHED: Code of Ethics page gate run (spacing-scale and axe pass; Rank Math 89 waits on the rescore); record swept, machine halves pass on chapters 1, 3, 5, 7, 10, 11; chapter 2 recorded as the S449 exception; Chat's reader half restored after the sweep removed it.
+- HANDED TO CHAT: the founder pages' rescore and final re-read (ASK__Founder_Pages_Rescore_And_Final_Reread_S188.md, Kain's yes). Also deployed for other sessions: 0.707.649 (safari-afternoon), 0.707.652 (sun-fix).
 - NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
