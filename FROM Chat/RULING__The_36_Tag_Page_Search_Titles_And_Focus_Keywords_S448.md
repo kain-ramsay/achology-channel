@@ -1,5 +1,7 @@
 **Needs from Code: set the 36 tag pages' search titles and focus keywords below, word for word, then read each one back from the served page. This is job T2 of BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448, now released. Theme session.**
 
+**ONE ROW ON HOLD (Chat, S448, the same evening): do not set the `deep-dive` row yet.** Its title carries "deep dive", which the Content Standard lists as a machine tell that always fails; Chat missed it and has put a replacement to Kain. Set the other 35 now; Chat sends the deep-dive row in a one-line ruling when Kain answers.
+
 # RULING: the 36 tag pages' search titles and focus keywords (S448)
 
 **From:** Claude Chat, Session 448, Tuesday 27 October 2026. **To:** Claude Code.

@@ -33,6 +33,18 @@
 
 **T9. Fetch the captions for the 14 member testimonial videos.** For the card Testimonials and Reviews pages: one full review of both, the improvements, then the 14 new videos (created S448; it replaces Finish Member Testimonials Page). Do not change either page yet: the review comes first, and you build every approved change to both pages in one go afterwards. Fetching captions does not need the speakers' names, so it does not wait on Kain: pull each caption track from Vimeo folder 20119371, or make a transcript from the audio where none exists. Today the page shows 9 videos. **Done when** 14 transcripts sit in the Video Testimonials Page folder, one file per video, named by its Vimeo number.
 
+**Added the same day, from Chat's reading of the tag page's DSRD 6 record (chapters 1, 7 and 8, written into the Tag Landing Page folder's DSRD6_RECORD.md, Reader half, S448).** Five small fixes, each tested on /learn/tags/build-confidence/.
+
+**T10. Stop the pinned counter bar hiding the focused link (WCAG 2.2, 2.4.11).** The scroll padding is 80px for the header, but the counter bar pins beneath it to about 113px, so a link brought to the top by keyboard sits under the bar. Raise the scroll padding on pages that carry the pinned bar so it clears both. **Done when** a link tabbed to from below, then shift-tabbed back up, is never covered by the header or the bar.
+
+**T11. Stop the course card cutting off its third stat (WCAG 1.4.10).** "13+ hrs Video" runs past the card edge at 320 and 375 wide. This is the shared course card (DSRD 8), so the fix lands everywhere the card appears. How it wraps is your technical choice; nothing may change at desktop width. **Done when** every stat on the course card is whole at 320, 375 and 1280.
+
+**T12. Name the pause's "Read This Quote Article" link.** The six quote cards' links each name their quote; the pause's link does not. Give it the same pattern of name. **Done when** the accessibility tree shows the pause link naming its quote article.
+
+**T13. Turn off WordPress's guessing of a page from a missing address, site-wide.** Today a missing address is redirected to whatever post's slug starts with its last part: /academy/personal-growth/ (the unbuilt school page, which the tag page's Relevant School counter links to) lands on the article personal-growth-requires-discomfort; /people/ lands on people-first-leadership; /courses/life-coaching/ lands on a Help answer. A missing page must answer 404 until its real page exists, or the redirect map's checks cannot be trusted either. **Done when** those three addresses answer 404 on the build site, and every redirect you set on purpose still works.
+
+**T14. One word on a shared line (Chat's call, inside the approved frame; Kain may overturn it).** In taxonomy-kh_tag.php and the shared panel in knowledge-hub-parts.php, "ready to delve into human psychology" becomes "ready to go deeper into human psychology". "Delve" is on the Content Standard's list of machine tells that always fail. Leave the verbatim reviews alone. **Done when** no page the theme renders carries "delve" outside a quoted review.
+
 ## Factory jobs
 
 **F1. Finish the redirect map's road to staging.** Your brief is BRIEF__The_Redirect_Maps_Remaining_Build_Chain_Register_Through_Staging_S339. The order the card holds: add the redirect mode to publish_gate.py (row ruled in the workbook, the five chain facts TRUE, the one hop test passing, a 301), then type the eleven folded addresses from RULING__The_Eleven_Folded_Addresses_Row_By_Row_For_You_To_Type_S346, leave the homepage row with no redirect at all, then run the redirect checker on staging. **Done when** the checker's result on staging is in your report with its count of passing rows.
@@ -53,6 +65,6 @@ Chat owes its own share and is doing it now: the 36 tag page titles (for T2), th
 
 One SESSION_REPORT per session, as usual, with each line above marked done (with its proof), waiting (on what), or not started. Chat updates the board from your report the same day.
 
-OWED BACK: each of the 13 jobs marked done with its proof, waiting on what, or not started, in your SESSION_REPORT, to TO Chat.
+OWED BACK: each of the 18 jobs marked done with its proof, waiting on what, or not started, in your SESSION_REPORT, to TO Chat.
 
 *No em or en dashes in this file; checked before writing.*
