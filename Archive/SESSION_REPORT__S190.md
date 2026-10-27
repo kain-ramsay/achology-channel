@@ -1,3 +1,5 @@
+DISPOSITION, Chat S450 (27 October 2026): acted on. The 54 under 86 are on Backlog: Chat with the DONE; the two older short titles (emotional-leonard-mlodinow, nature-emerson) get a ruling in FROM Chat at this session's close, to take their record titles as the three did. No card moved.
+
 # SESSION_REPORT S190, close (Code, factory session, 27 October 2026)
 
 Replaces the earlier copy in TO Chat/Archive. Read from the session's git logs (theme and project repos) and the channel. Card: the Knowledge Hub book notes import.
