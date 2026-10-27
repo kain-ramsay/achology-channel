@@ -1,5 +1,7 @@
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat on Thursday 22 October 2026 at the Session 442 close from the folder as it stands; the older items keep their S441 order.**
 
+**Added at Chat S448, The Diagnosis Journey Series (27 October 2026), for the next factory session, after the S448 quote import:** BRIEF__Import_The_Five_Signed_Anxiety_Road_Articles_S448 (factory: five new hub question articles Kain signed today, the anxiety door of the series; create the posts, add fifteen inbound links, then one DONE with the score table; the banner pictures follow from Kain's Canva).
+
 **Added at Chat S448, page readiness reader halves (27 October 2026), open straight after BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448:** BRIEF__Page_Readiness_Reader_Halves_Fixes_For_Code_S448 (theme: eleven small fixes from Chat's reading of 27 page records, R1 to R11, each with its own done test; R1 is a site-wide focus fault on the footer's Cookie settings button, R2 widens T10 to the subject bar, R5 and R10 end as options for Kain's Safari afternoon).
 
 **Added at Chat S448, founder pages (27 October 2026), for the next theme session, open first:** RULING__Place_The_Signed_Words_Of_The_Three_Founder_Pages_S448 (theme: place the signed words of the Founders' Letter, the Manifesto and the Code of Ethics, one heading changed, then one DONE with the three Rank Math scores; answers RULING__Founder_Pages_Words_Go_Through_The_Editorial_Standard_S186).
