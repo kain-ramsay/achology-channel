@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S189: WAITS ON the theme session that owns the tag pages (kh-nav-card); read in full by the S189 Safari afternoon session, nothing in it touches this work.
+
 The tag page's reader halves (chapters 1, 6, 7 and 8 of its DSRD 6 record) are run and written into the record. Chapters 1, 6 and 7 pass. Chapter 8 fails on one hindrance that is not a template fault.
 
 **What this needs from you:** the list below is the whole list. Nothing here blocks the template; item 1 waits on pages, item 2 is yours to size.
