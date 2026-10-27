@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S188: WAITS ON the founder pages sign-off (Kain, S186: finish those pages first); theme job for the next theme session after it.
+
 **Needs from Code: set the search titles and descriptions of the eight Quotes lists and the eight Book Notes lists, word for word from DSRD 9 section 21.0, the same way you set the eight Articles lists at 0.707.499, then read all sixteen back. Theme session.**
 
 # RULING: the 16 Quotes and Book Notes list search titles (S448)
