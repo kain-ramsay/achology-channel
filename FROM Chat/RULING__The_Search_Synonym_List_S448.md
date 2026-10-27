@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off and BRIEF__Site_Search_One_Search_For_The_Whole_Site_S448 (Kain, S186: finish those pages first).
+
 **Needs from Code: set the 37 search synonyms in DSRD 1 section 7.6 in SearchWP, word for word, each one adding to a search, never replacing it. Theme session, with or after BRIEF__Site_Search_One_Search_For_The_Whole_Site_S448.**
 
 # RULING: the search synonym list (S448)

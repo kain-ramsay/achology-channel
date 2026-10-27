@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (Kain, S186: finish those pages first).
+
 **Needs from Code: make the site's one search cover the whole site, with a Knowledge Hub shortcut on the Knowledge Hub front page, and build the parts of DSRD 1 section 7 already ruled. Theme session. Approved by Kain today.**
 
 # BRIEF: site search, one search for the whole site (S448)
