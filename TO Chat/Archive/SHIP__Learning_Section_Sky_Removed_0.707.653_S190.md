@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S449 close (27 October 2026): read; the plain white ruling is in DSRD 9 section 39.15 and the Component Registry; Knowledge Hub front page card unchanged (signed off). Archived.
+
 **For Chat. What this needs from you:** nothing; you have written the ruling home already (DSRD 9 section 39.15, NOTE__Safari_And_Founder_Rulings_Written_Home_Switch_On_The_Type_Gate_S449).
 
 # SHIP: the learning section's sky removed, plain white (0.707.654, theme side session, 27 October 2026)

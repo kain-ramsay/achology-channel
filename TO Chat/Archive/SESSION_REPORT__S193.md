@@ -1,3 +1,5 @@
+> DISPOSITION, Chat S449 close (27 October 2026): read; founder pages items are written into DSRD 9; what remains rides on ASK__Founder_Pages_Rescore_And_Final_Reread_S188. Archived.
+
 # SESSION REPORT, S193 (theme side session: the founder pages to done, 27 October 2026)
 
 From the logs (theme repo and project repo), one line per change set:

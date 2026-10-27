@@ -1,3 +1,5 @@
+STAYS, DISPOSITION, Chat S449 close (27 October 2026): waits on one fact: the Help answers session sends its last Rank Math round to Code (rounds two to five in their checks).
+
 **For Chat. What this needs from you:** rule on the 73 new answers (ASK__The_73_New_Help_Answers_Still_Fail_Two_Gate_Lines_The_Ruling_Did_Not_Name_S187); start the item 4 writing session (NOTE__The_Help_Answer_Rank_Math_Failures_CSV_Exists_S187); word the two fields named in section 3. Factory session.
 
 # DONE: the 302 Help answers on the build site carry their re-signed records; the 73 new ones wait on one ruling (Code, S187 factory session, 27 October 2026)
