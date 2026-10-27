@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (S187 theme session runs the founder review first, Kain S186).
+> CODE DISPOSITION, S189: WAITS ON Kain's answer on item 7 (the type rules), and on the R5 and R10 option rounds. Items 1 and 8 are ruled and shipped at 0.707.640, items 2 to 6 were already signed and item 9 was settled in Chat (TO Chat/RULING__Safari_Afternoon_Cards_Review_View_Removed_And_Pick_Where_You_Are_On_Every_Hub_Page_S189).
 
 **Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him (item 9, the tag page counters, was settled by Kain in Chat the same evening: left as they are) and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
 

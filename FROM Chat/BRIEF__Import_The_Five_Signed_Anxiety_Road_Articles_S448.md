@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S192: WAITS ON the five reading 90 (banners, plus four records with the focus phrase in one subheading); imported as drafts 40858 to 40862, see TO Chat/DONE__The_Five_Anxiety_Road_Articles_S192.md.
+
 > CODE DISPOSITION, S190: WAITS ON the next factory session (read in full by the S190 factory session, whose job is the 147 book notes).
 
 **For Code (factory session). What this needs from you:** a factory import of five new hub question articles Kain signed today, the anxiety door of The Diagnosis Journey Series, then one DONE with the counts and the Rank Math score table.
