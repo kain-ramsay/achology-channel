@@ -9,6 +9,7 @@
 - FINISHED: 0.707.638, founder pages even spacing set in steps of the spacing scale, quote source in the readable grey; page gate run on all three: spacing-scale passes on Manifesto and Code of Ethics, axe zero; Founders' Letter keeps two off-scale values (the S186 callout one-off 88, the signature card's own signed 2). Gate open: DSRD 6 chapters 3, 4, 5, 9, 10, 11 not run or fail; Rank Math 84 and 89 (Chat owes); the Code of Ethics training block line fails block-heading (signed words, Chat).
 - FINISHED: 0.707.639, Founders' Letter quote callout removed (RULING__Founders_Letter_Quote_Callout_Removed_S188.md) and Chat S449 card lines placed (DONE in Archive). Board card: founder pages.
 - FINISHED: 0.707.640, the Founders' Letter signature card role sits close under the name (fault fix to the row 2 preview); safari-afternoon branch (S189) merged and deployed on that session's request.
+- FINISHED: 0.707.641, More About Achology card words on the founder pages (RULING__Founder_Pages_More_About_Achology_Card_Words_S188.md). Board card: founder pages.
 - NOT FINISHED: spacing check, page gate and sign-off of the three founder pages.
 
 OWED BACK: nothing yet; this report is completed at the session close.
