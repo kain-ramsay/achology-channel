@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S193: WAITS ON a factory session (re-import and rescore are factory work; read in full by the founder pages theme side session, which does not take it).
+
 **For Code, factory session. What this needs from you:** re-import the 74 book note records named below and rescore each from its built page against the book note bar of 86, then one DONE with the score table.
 
 # NOTE: 74 book notes have their course address mended; re-import and rescore (Chat, S449, 27 October 2026)
