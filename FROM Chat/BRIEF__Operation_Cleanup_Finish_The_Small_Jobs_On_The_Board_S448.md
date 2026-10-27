@@ -47,6 +47,8 @@
 
 **T14. One word on a shared line (Chat's call, inside the approved frame; Kain may overturn it).** In taxonomy-kh_tag.php and the shared panel in knowledge-hub-parts.php, "ready to delve into human psychology" becomes "ready to go deeper into human psychology". "Delve" is on the Content Standard's list of machine tells that always fail. Leave the verbatim reviews alone. **Done when** no page the theme renders carries "delve" outside a quoted review.
 
+**T15. Two words off the workbook thank-you page (Kain's yes, S448).** In page-workbook-thank-you.php the delivery line ends "make sure you entered your name and email address correctly", but the form asks for email only. It becomes "make sure you entered your email address correctly" (DSRD 2 section 1.7, item 5, now reads so). **Done when** the thank-you page on the build site shows the new words.
+
 ## Factory jobs
 
 **F1. Finish the redirect map's road to staging.** Your brief is BRIEF__The_Redirect_Maps_Remaining_Build_Chain_Register_Through_Staging_S339. The order the card holds: add the redirect mode to publish_gate.py (row ruled in the workbook, the five chain facts TRUE, the one hop test passing, a 301), then type the eleven folded addresses from RULING__The_Eleven_Folded_Addresses_Row_By_Row_For_You_To_Type_S346, leave the homepage row with no redirect at all, then run the redirect checker on staging. **Done when** the checker's result on staging is in your report with its count of passing rows.
@@ -67,6 +69,6 @@ Chat owes its own share and is doing it now: the 36 tag page titles (for T2), th
 
 One SESSION_REPORT per session, as usual, with each line above marked done (with its proof), waiting (on what), or not started. Chat updates the board from your report the same day.
 
-OWED BACK: each of the 18 jobs marked done with its proof, waiting on what, or not started, in your SESSION_REPORT, to TO Chat.
+OWED BACK: each of the 19 jobs marked done with its proof, waiting on what, or not started, in your SESSION_REPORT, to TO Chat.
 
 *No em or en dashes in this file; checked before writing.*
