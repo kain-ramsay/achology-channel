@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S190: WAITS ON a theme session (read in full by the S190 factory session, which runs the book note import and touches no theme file).
+
 **Needs from Code: eleven small jobs found by Chat's reading of 27 page readiness records on the build site, each with its own done test. Theme jobs; open after BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448, because R2 widens its T10.**
 
 # BRIEF: the fixes from Chat's reader halves on the page readiness records
