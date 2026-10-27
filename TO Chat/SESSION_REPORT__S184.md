@@ -47,6 +47,11 @@ From the theme log, this session:
 - 0.707.613: shipped 942d5d30 (the link hover wash as one site component, Kain S181), on the founder pages session's request.
 - 0.707.614 to 0.707.615: Kain asked for the Help category banner picture "a little bit bigger, but also pushing it outside of the generic container"; four in the Change Viewer; he picked Bigger, Further Out (300, 80 past the column, computer only). RULING__Help_Category_Banner_Picture_Bigger_Further_Out_S184 filed.
 
+- 0.707.616: shipped 3fe408d5 (the founder pages' opening, Buttons Under the Words, Kain S181), on the founder pages session's request.
+- Hand added: ANSWER__Hidden_Subject_Comments_Nothing_Reads_Them_S184 filed (nothing reads the line; the Help body updater strips it).
+- Hand added: JOB 3 consolidation, first tranche (52 declarations a later identical rule overrides, in knowledge-hub.css and kh-subject.css) was built on copies and compared through two read-only mirrors; the pages with walls differ even live against live, and the front page and one tag page showed differences the control did not, so the tranche was NOT shipped. The copies were in the session scratchpad, lost at the restart; JOB 3 stays open.
+- Hand added, the close: Kain said after the restart that the front page "background image doesn't seem to be displaying ... a line going horizontally behind the four cards". Checked at 1268: nothing is broken, it is Step 3 as approved (pixel-proved at 0.707.604); the pale sun sits almost wholly behind the diploma card and in the white fade under the header, so the horizon line is nearly all that shows. Code proposed four ways to bring the sun out beside or above the card; Kain has not answered. Session wound down at 0.707.616 on Kain's instruction via theme-main-s181.
+
 FOR A FACTORY SESSION: the media gate now stops every session's close on "old quote card set 275, 74.3 MB" in the Media Library. Binning library pictures is factory work (publish_gate.py --media-bin), not a theme or side session's call; please route it to the next factory session.
 
 Hand added: the four-tab options page was tested in WebKit at 1268 (each tab clicked, no cookie notice, section in view) and each scene at 390, then opened in Kain's Safari. Code recommends Sunrise.
