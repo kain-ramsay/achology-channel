@@ -4,7 +4,7 @@
 
 Searched 27 October 2026, the whole theme (PHP, JS, Python tools, harness) and the Machine's own scripts, for `<!-- subject` and for any reader of a body's first comment.
 
-- **Nothing sets `faq_category` from it.** A Help answer's category comes from the slug-to-category map in faq-setup.php (achology_faq_answer_categories and its siblings), never from the body.
+- **Nothing sets `faq_category` from it.** A Help answer's category comes from faq-setup.php: each answer's primary term (achology_faq_primary_term, achology_pin_faq_primaries) and the slug-to-category map achology_faq_secondary_categories, never from the body.
 - **The Help body updater strips it.** tools/article_body_update.py, help_body_of(): "THE S445 RECORDS OPEN ON TWO LINES NO PAGE CARRIES ... a `<!-- subject: ... -->` note for the writers ... both are taken off here". Every leading HTML comment is dropped before a body is pushed, so on that route the line never reaches a post.
 - **The Help category template and the workbook build do not read it.** taxonomy-faq_category.php and tools/workbook_page_draft.py hold no reference to it.
 
