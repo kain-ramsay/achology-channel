@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S189: DONE. Items 1 to 9 closed and the three added rounds (R5, R10, tag strip) ruled and shipped at 0.707.640 and 0.707.649; the answering file is TO Chat/SESSION_REPORT__S189.md, with its three RULING files.
+> CODE DISPOSITION, S189: DONE. Items 1 to 9 and the three added rounds ruled and shipped at 0.707.640 and 0.707.649; answered by TO Chat/SESSION_REPORT__S189.md.
 
 **Needs from Code: prepare and run one Safari afternoon with Kain that clears every sitting waiting on him (item 9, the tag page counters, was settled by Kain in Chat the same evening: left as they are) and ready on the build site today, in the running order below, and file each ruling home the same session. Theme session. Kain asked for it today.**
 
