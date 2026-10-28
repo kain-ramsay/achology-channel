@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S197: WAITS ON Chat's NOTE answering TO Chat/ASK__Two_New_Help_Answers_Carry_Empty_List_Lines_S197 for skilled-helper-course (its mended fields pass the gate; it is held only for one empty list line in its body), and on Chat's ruling named in the S194 line below.
+
 > CODE DISPOSITION, S194: WAITS ON Chat's ruling in TO Chat/DONE__The_50_Help_Answers_Lifted_For_Rank_Math_Updated_And_Rescored_S194 (50 of 53 updated and scored; two Achology-only answers and the 34 at 88 wait on it; skilled-helper-course lands with the 73).
 
 > CODE DISPOSITION, S190: WAITS ON a factory session running the Help answers (read in full by the S190 factory session, whose job is the 147 book notes).
