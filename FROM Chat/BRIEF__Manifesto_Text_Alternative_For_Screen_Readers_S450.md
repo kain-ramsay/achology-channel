@@ -10,6 +10,8 @@ No vault note bears on this job beyond DSRD 6 §7.
 
 OWED BACK: the theme version, and any word in the image you could not read with certainty.
 
+DOCUMENT TYPE: accessibility amendment to a signed page spec (the Manifesto, S446); it adds one visually hidden block carrying the page's existing signed words and no visible block, value or copy.
+
 *No em or en dashes in this file; checked before writing.*
 
-DOCUMENT TYPE: accessibility amendment to a signed page spec (the Manifesto, S446); it adds one visually hidden block carrying the page's existing signed words and no visible block, value or copy. PAGE GATE: 3 blocks reused (header, kh-hero, footer) / 0 new visible blocks (1 visually hidden text block, `policy-doc-text`) / 0 variants awaiting ruling · data: the facsimile image's own words, transcribed · class audit: Code at build · contrast: unchanged · anchors 0 unresolved · dashes 0
+PAGE GATE: 3 blocks reused (header, kh-hero, footer) / 0 new visible blocks (1 visually hidden text block, `policy-doc-text`) / 0 variants awaiting ruling · data: the facsimile image's own words, transcribed · class audit: Code at build · contrast: unchanged · anchors 0 unresolved · dashes 0
