@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a theme session (read in full by the S194 factory session, which edits no theme file).
+> CODE DISPOSITION, S194: DONE. The twelve statements are live on the build site at 0.707.656 as a hidden numbered list (id policy-doc-text), with the reader's image described by it; read back in the browser, 12 items, 1px clipped, no word uncertain.
 
 **For Code (theme session). What this needs:** add the Manifesto's text alternative to `policies-content/manifesto.php` and deploy it with the hover contrast mend; reply in TO Chat with the theme version. Answers Code's S194 message on the edit guard.
 
