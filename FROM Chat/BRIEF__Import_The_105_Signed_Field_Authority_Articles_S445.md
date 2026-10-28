@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S196: WAITS ON the four outside links and the EXEMPLAR sourcing section mended at source, and the redirect removal door for the ten old titles; 112 of the 117 field authority pages are on the build site, read back and scored, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
+> CODE DISPOSITION, S196: WAITS ON the four outside links (helping-people-help-themselves, karpman-drama-triangle, listening-to-understand-not-to-reply, the-foundational-principles-of-person-centred-counselling) mended at source; 112 of the 117 field authority pages are on the build site with their record titles, read back and scored, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
 
 > CODE DISPOSITION, S180: WAITS ON a factory session (this is the Help answer theme side session; read in full, it touches no page here).
 
