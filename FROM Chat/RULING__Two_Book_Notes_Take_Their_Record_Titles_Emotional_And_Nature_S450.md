@@ -8,7 +8,7 @@ Same ruling as the three. Under a publish_gate clearance, as before, set from ea
 - **emotional-leonard-mlodinow:** post_title and headline "Emotional by Leonard Mlodinow: Summary and Key Ideas"; search title and focus phrase as the record carries them (`rm_focus_keyword`: "emotional").
 - **nature-emerson:** post_title and headline "Nature by Emerson: Summary and Key Ideas"; search title "Nature by Emerson: Summary and Key Ideas | Achology" and focus phrase "nature by emerson" (the record carries them as `prod_rm_seo_title` and `prod_rm_focus_keyword`).
 
-No body changes; addresses unchanged. Both titles are Kain's signed record titles, so no new signature is needed. "emotional" alone is a weak search phrase; Chat will put a better one to Kain later, and it does not hold this up.
+No body changes; addresses unchanged. Both titles are Kain's signed record titles, so no new signature is needed. "emotional" alone is a weak search phrase; Chat will put a better one to Kain later, and that need not wait for this.
 
 OWED BACK: one line in TO Chat with both set and their new scores against 86.
 
