@@ -10,3 +10,5 @@
 - WAITS ON Chat: DSRD 8 s18 and DSRD 5 lines (foot of the RULING file).
 
 *No em or en dashes in this file; checked before writing.*
+- DONE: publish-ready pass on the new header, 0.707.666 and 0.707.667 (SHIP__Five_Plain_Doors_Main_Menu_S194, last paragraph).
+- WAITS ON a page session: /about/ page gate fails on its own content (story-proof label 6px gaps, 960 article container).
