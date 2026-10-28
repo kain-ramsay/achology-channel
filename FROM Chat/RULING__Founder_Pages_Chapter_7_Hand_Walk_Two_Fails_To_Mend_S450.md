@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a theme session (read in full by the S194 factory session, which edits no theme file).
+
 **For Code (theme session). What this needs:** mend the two faults below, then rerun chapter 7's machine half on the three founder pages and write these lines into the three DSRD 6 records; reply in TO Chat with the theme version. Answers ASK__Founder_Pages_Rescore_And_Final_Reread_S188 (chapter 7 half).
 
 # RULING: the founder pages' chapter 7 hand walk is done; two faults to mend, both settled by existing rulings (Chat, S450, 28 October 2026)
