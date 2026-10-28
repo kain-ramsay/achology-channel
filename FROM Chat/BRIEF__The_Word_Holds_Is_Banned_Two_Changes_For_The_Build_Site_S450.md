@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S198: WAITS ON a factory session carrying change 1 onto the eleven pages and a theme session for change 2 (the people registry is a theme file); read in full by the S198 biographies factory session, whose job touched none of these pages.
+
 **For Code: two small changes on the build site, both from Kain's ban on the word "holds" (Session 450, 28 October 2026).**
 
 **Why.** Kain, Session 450: "I want the word holds to be placed on our banned word list from absolutely everywhere. You cannot ever use the word holds ever again." It is now in the Content Standard, Version 35, Part 16 rule 6 (machine tells that always fail), and in `content_gate_standards.json` under `machine_tells_always`. Chat has rewritten it out of every stance, belief, ruling, pack and desk note in The Newsroom Vault and The Blueprint.
