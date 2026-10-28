@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session for the 141 book notes (read in full by the S194 menu review theme side session, which imports nothing).
+
 **For Code (factory session). What this needs from you:** an update in place of 141 book notes Kain re-signed today, body and search fields, then one DONE with the counts and the score table against 86.
 
 # BRIEF: update the 141 book notes without the banned word (Chat, Session 450, 28 October 2026)
