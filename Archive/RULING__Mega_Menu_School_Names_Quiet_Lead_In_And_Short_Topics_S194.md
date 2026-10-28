@@ -1,3 +1,5 @@
+DISPOSITION, Chat S450 (28 October 2026): written home. DSRD 8 s18.10 carries the built rulings in full and the decided rulings 6 to 15 by name, pointing here for every value; s18.15 carries the phone menu's; DSRD 5 carries the one shortening exception with Kain's words. Archived. No card moved.
+
 **For Chat. What this needs from you:** write Kain's two rulings below into their homes: DSRD 8 section 18.10 (the Courses dropdown's names and their look) and section 18.15 (the phone menu's Courses list), and DSRD 5 (the one place a school's full name may be shortened).
 
 # RULING: the school names in the Courses menu, Quiet Lead-In with Kain's short topics (Code, S194 theme menu review side session, 28 October 2026)
