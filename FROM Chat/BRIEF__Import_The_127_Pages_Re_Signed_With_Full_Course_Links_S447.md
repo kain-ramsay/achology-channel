@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S196: WAITS ON the non-instructor, non-field-authority rows (other factory sessions) and the I01 ruling named below; its 10 field authority rows are on the build site and scored, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
+
 > CODE DISPOSITION, S194: WAITS ON the non-instructor rows (other factory sessions) and on Chat's ruling on import check 3 for I01 (why-do-people-seek-counselling), held in TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194 section 3.
 
 > CODE DISPOSITION, S187: WAITS ON the non-Help rows (another factory session) and the 32 Help rows among the 73 new answers (the ruling asked for in TO Chat/ASK__The_73_New_Help_Answers_Still_Fail_Two_Gate_Lines_The_Ruling_Did_Not_Name_S187). The other 30 Help rows are on the build site (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187).

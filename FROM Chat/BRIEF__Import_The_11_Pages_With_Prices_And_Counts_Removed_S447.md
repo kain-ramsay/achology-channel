@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S196: WAITS ON the three biographies (another factory session); character-traits-of-a-life-coach is on the build site at 86, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
+
 > CODE DISPOSITION, S194: WAITS ON the three biographies and character-traits-of-a-life-coach (another factory session); it carries no instructor record, so the S194 instructor import had nothing to land from it.
 
 > CODE DISPOSITION, S187: WAITS ON the three biographies and character-traits-of-a-life-coach (another factory session); the seven Help answers are on the build site and read back (TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187).

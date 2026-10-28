@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S196: WAITS ON the hub question, biography, hub guide, Seven Beliefs and book note rows (other factory sessions) and the field authority pages held in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md sections 2 and 3 (EXEMPLAR, karpman-drama-triangle, listening-to-understand-not-to-reply, the-foundational-principles-of-person-centred-counselling, helping-people-help-themselves, and ten old titles); its other field authority rows are landed.
+
 > CODE DISPOSITION, S181: WAITS ON a factory session importing the 192 and filing the DONE with the count (read by the founder pages theme session, which runs no import).
 
 **For Code. What this needs from you:** a factory import of 192 records that Kain re-signed tonight, taken from the records as they stand now, after the S446 full-name link ruling is in the gate. One DONE with the count imported and any page refused, and why.
