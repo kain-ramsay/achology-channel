@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON one live read of Kit for sequence counts, subject lines and subscribers, which needs the plugin's stored login. A factory session already sent what the website's saved Kit copy (30 September) holds: no sequences, none of the five Website tags, one form (Powell form), in TO Chat/ANSWER__The_Kit_Sequences_Forms_And_Tags_Read_From_The_Website_Link_S448.md.
+> CODE DISPOSITION, S186: DONE. Read live from Kit with Kain's yes on 28 October 2026: no sequences exist, none of the five Website tags, two forms (Newsletter site, Powell form); answer in TO Chat/ANSWER__The_Kit_Sequences_Forms_And_Tags_Read_From_The_Website_Link_S448.md.
 
 **Needs from Code: one read-only answer from Kit, through the website's own Kit link: every sequence running in Kit today, so Chat can recommend which to keep at launch. Any session. Build nothing.**
 
