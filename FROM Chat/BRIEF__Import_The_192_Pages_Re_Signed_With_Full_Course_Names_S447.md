@@ -1,6 +1,6 @@
 > CODE DISPOSITION, S198: WAITS ON the hub question, hub guide, Seven Beliefs and book note rows and the held field authority pages named in the S196 line below; its 21 biography rows are on the build site, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.
 
-> CODE DISPOSITION, S196: WAITS ON the hub question, biography, hub guide, Seven Beliefs and book note rows (other factory sessions) and the field authority pages held in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md sections 2 and 3 (EXEMPLAR, karpman-drama-triangle, listening-to-understand-not-to-reply, the-foundational-principles-of-person-centred-counselling, helping-people-help-themselves, and ten old titles); its other field authority rows are landed.
+> CODE DISPOSITION, S196: WAITS ON the hub question, biography, hub guide, Seven Beliefs and book note rows (other factory sessions) and the field authority pages held in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md sections 2 and 3 (EXEMPLAR, karpman-drama-triangle, listening-to-understand-not-to-reply, the-foundational-principles-of-person-centred-counselling, helping-people-help-themselves); its other field authority rows are landed with their record titles.
 
 > CODE DISPOSITION, S181: WAITS ON a factory session importing the 192 and filing the DONE with the count (read by the founder pages theme session, which runs no import).
 
