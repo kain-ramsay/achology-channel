@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON the eleven records of item 2 carrying a signature after Version 33 Session 446; item 1 is done and the DONE for the landed pages is filed (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194).
+
 > CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).
 
 **For Code, factory session. What this needs:** two lines added to the instructor import's accept list, and the 127 instructor pages that pass imported now. Answers NOTE__Course_Link_Gate_Changed_And_Eleven_Instructor_Pages_Still_Link_A_Short_Name_S186.

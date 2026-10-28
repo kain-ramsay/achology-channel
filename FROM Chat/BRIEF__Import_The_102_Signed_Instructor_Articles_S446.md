@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON Chat's ruling on the 19 pages held by import check 3, two records gaining an outside link, and the eleven re-signed; the rest landed (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194, sections 2 and 3).
+
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 
 **For Code (factory). What this needs from you:** import the 102 signed instructor articles onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), with their new titles, search titles and focus phrases, run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the 102 addresses. Web addresses are unchanged, so no redirect is needed.

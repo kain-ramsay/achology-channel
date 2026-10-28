@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON AN04, AW03, AW04 and GK03 carrying an outside link in their bodies; the other 32 landed (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194).
+
 > CODE DISPOSITION, S184: WAITS ON a factory session importing the 36 (after the S446 full-name gate change) and filing the DONE with the counts (read by the S184 theme main session, which runs no import).
 
 **For Code. What this needs from you:** a factory import of the 36 instructor articles by the six elder authors, signed by Kain tonight, from the records as they stand now, after the S446 full-name gate change. One DONE with the counts.

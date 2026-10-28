@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: DONE. The hold was lifted by NOTE__Instructor_Import_Released_Course_Names_Mended_S446 and the import ran (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194).
+
 > CODE DISPOSITION, S181: WAITS ON a factory session (an instructor import hold; this is the Help landing theme side session, which runs no import).
 **For Code, factory session. What this needs from you:** do not start BRIEF__Import_The_102_Signed_Instructor_Articles_S446 until Chat's NOTE saying the course names are mended exists in FROM Chat.
 

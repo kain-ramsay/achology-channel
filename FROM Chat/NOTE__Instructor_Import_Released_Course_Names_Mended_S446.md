@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: DONE. 102 of the 127 instructor articles landed with the product name check passed on all 102 and all 127 (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194).
+
 > CODE DISPOSITION, S181: WAITS ON a factory session (the instructor import; this Help landing theme side session runs no import).
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).
 
