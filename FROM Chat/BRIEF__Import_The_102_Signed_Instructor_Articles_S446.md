@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S202: WAITS ON the six instructor records held for no outside link and the eleven re-signed records (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194.md section 3); the 19 held by import check 3 are landed in TO Chat/DONE__The_19_Instructor_Articles_And_The_Last_Help_Answers_On_The_Build_Site_S202.md section 1.
+
 > CODE DISPOSITION, S194: WAITS ON Chat's ruling on the 19 pages held by import check 3, two records gaining an outside link, and the eleven re-signed; the rest landed (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194, sections 2 and 3).
 
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file).

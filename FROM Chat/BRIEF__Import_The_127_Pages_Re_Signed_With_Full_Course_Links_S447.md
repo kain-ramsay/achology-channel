@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S202: WAITS ON the Seven Beliefs and workbook rows and the rows held in other factory sessions; its I01 row (why-do-people-seek-counselling) is landed in TO Chat/DONE__The_19_Instructor_Articles_And_The_Last_Help_Answers_On_The_Build_Site_S202.md section 1 and its last Help row, skilled-helper-course, is published in section 2.
+
 > CODE DISPOSITION, S199: WAITS ON the Help, Seven Beliefs, workbook and I01 rows named in the S196 line below; its 14 hub question rows are on the build site, in TO Chat/DONE__The_Hub_Question_Articles_On_The_Build_Site_S199.md.
 
 > CODE DISPOSITION, S198: WAITS ON the rows named in the S196 line below (Help, hub question, Seven Beliefs, workbook, I01); its 7 biography rows are on the build site, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.

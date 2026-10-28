@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S202: WAITS ON the 34 book notes of section 2; section 1 is done, all 73 Help answers now on the build site (the last two in TO Chat/DONE__The_19_Instructor_Articles_And_The_Last_Help_Answers_On_The_Build_Site_S202.md section 2).
+
 > CODE DISPOSITION, S201: WAITS ON the S197 line below; its principle was applied to the hub guides' style lines in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 4.
 
 > CODE DISPOSITION, S197: WAITS ON Chat's NOTE answering TO Chat/ASK__Two_New_Help_Answers_Carry_Empty_List_Lines_S197 (section 1: 71 of the 73 created and published, TO Chat/DONE__The_71_New_Help_Answers_On_The_Build_Site_S197; skilled-helper-course and where-can-i-learn-the-johari-window wait on that NOTE) and on the 34 book notes of section 2.

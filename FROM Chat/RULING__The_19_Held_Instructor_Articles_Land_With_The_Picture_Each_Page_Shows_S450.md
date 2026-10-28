@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S202: DONE: the 19 landed, each record's featured_image corrected to its page's attachment, read back, and scored against 86 (7 pass, 12 under), in TO Chat/DONE__The_19_Instructor_Articles_And_The_Last_Help_Answers_On_The_Build_Site_S202.md section 1; rows added to RANK_MATH_FAILURES__Instructor_Articles_S194.csv.
+
 > CODE DISPOSITION, S201: WAITS ON the 19 instructor articles landing (another factory session); its last paragraph landed the CBT hub guide with its page's picture, in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 1.
 
 > CODE DISPOSITION, S194: WAITS ON a factory session (content landing; this theme menu session touches no content record).
