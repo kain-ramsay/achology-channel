@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S196: WAITS ON a factory session for the book notes (read in full by the S196 field authority factory session, which imports no book note).
+
 **For Code, factory session. What this needs from you:** a factory update of these 48 signed book notes with `--with-seo`, then one DONE with each page's new Rank Math score and its failing tests; and the six named in section 6 mended on the build site and rescored in the same DONE.
 
 # NOTE: 48 book notes mended for Rank Math's paragraph test, signed, ready to update and rescore (Chat, S450, 28 October 2026)
