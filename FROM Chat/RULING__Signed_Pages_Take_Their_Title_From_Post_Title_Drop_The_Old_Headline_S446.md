@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S198: WAITS ON the hub guide and hub question imports; the biography half is done, its owed line is in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md, section 1.
+
 > CODE DISPOSITION, S187: WAITS ON the S445 field authority, author biography, hub guide and hub question imports; the Help half is done, its owed line is in TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187, section 4.
 
 > CODE DISPOSITION, S183: WAITS ON a factory session (read in full by the theme main session; it touches no theme file, and the Help answers factory session was archived after delivering 286).

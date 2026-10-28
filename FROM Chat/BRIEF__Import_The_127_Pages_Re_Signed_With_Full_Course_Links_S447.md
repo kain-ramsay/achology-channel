@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S198: WAITS ON the rows named in the S196 line below (Help, hub question, Seven Beliefs, workbook, I01); its 7 biography rows are on the build site, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.
+
 > CODE DISPOSITION, S196: WAITS ON the non-instructor, non-field-authority rows (other factory sessions) and the I01 ruling named below; its 10 field authority rows are on the build site and scored, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
 
 > CODE DISPOSITION, S194: WAITS ON the non-instructor rows (other factory sessions) and on Chat's ruling on import check 3 for I01 (why-do-people-seek-counselling), held in TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194 section 3.

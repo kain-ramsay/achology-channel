@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S198: DONE: the three biographies (Adler, Jung, Frankl) are on the build site, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md; the other eight rows were landed by the S187 and S196 sessions.
+
 > CODE DISPOSITION, S196: WAITS ON the three biographies (another factory session); character-traits-of-a-life-coach is on the build site at 86, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
 
 > CODE DISPOSITION, S194: WAITS ON the three biographies and character-traits-of-a-life-coach (another factory session); it carries no instructor record, so the S194 instructor import had nothing to land from it.

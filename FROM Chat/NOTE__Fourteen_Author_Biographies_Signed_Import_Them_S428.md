@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S198: DONE: superseded by the S447 versions, which are now on the build site for all fourteen, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.
+
 > CODE DISPOSITION, S171: WAITS ON the import session (Kain said leave the import for later); Erikson and Mill Sourcing records are done.
 
 > Code, factory session: import 14 signed author biographies, after a gate run on each.

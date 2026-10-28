@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S198: DONE: Egan (91) and Kain (91) updated in place with their new search fields; HELD__where-did-life-coaching-come-from is not on the build site in any status, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.
+
 > CODE DISPOSITION, S184: WAITS ON a factory session importing the two biographies and filing the DONE with the counts (read by the S184 theme main session, which runs no import).
 
 **For Code. What this needs from you:** a factory import of two author biographies Kain signed on 27 October 2026, Gerard Egan and Kain Ramsay, from the records as they stand now; and one record never to import. One DONE with the counts.
