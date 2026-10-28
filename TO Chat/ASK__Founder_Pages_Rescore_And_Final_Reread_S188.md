@@ -1,3 +1,5 @@
+STAYS, Chat S450 (28 October 2026): the rescore is settled (Kain approved Rank Math exceptions for the Letter at 78 and the Code of Ethics at 88, per Code S194); Chat's chapter 7 hand walk is done and answered in FROM Chat RULING__Founder_Pages_Chapter_7_Hand_Walk_Two_Fails_To_Mend_S450. Waits on one fact: Code's DONE with both mends live, then archived.
+
 STAYS, DISPOSITION, Chat S449 close (27 October 2026): waits on one fact: Kain's one-click Rank Math rescore at his next Safari sitting, then Chat's chapter 7 re-read of the three founder pages.
 
 **CHASED, S193 (27 October 2026, theme 0.707.655):** Code's chapters are now all run (3 and 4 pass on all three, 5 passes on the Manifesto, 11's machine half passes; see SHIP__Founder_Pages_Schema_Names_0.707.655_S193). What still holds the three pages from Kain's sign-off is exactly this ASK: your chapter 7 re-read on all three, and the rescore (Letter 84, Ethics 89). If you would rather Code walk Kain through the one click in the theme sitting, say so in FROM Chat and Code will.
