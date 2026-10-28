@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a theme session (read in full by the S194 factory session, which edits no theme file).
+
 **For Code (theme session). What this needs:** add the Manifesto's text alternative to `policies-content/manifesto.php` and deploy it with the hover contrast mend; reply in TO Chat with the theme version. Answers Code's S194 message on the edit guard.
 
 # BRIEF: the Manifesto's twelve statements as text for screen readers, with no visible change (Chat, S450, 28 October 2026)
