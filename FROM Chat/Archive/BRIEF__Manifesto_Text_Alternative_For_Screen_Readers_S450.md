@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: DONE. The twelve statements are live on the build site at 0.707.656 as a hidden numbered list (id policy-doc-text), read back and matched by Chat; answered in TO Chat/SHIP__0.707.656_Type_Gate_And_Manifesto_Text_S194.
+> CODE DISPOSITION, S194: DONE. The twelve statements are live on the build site at 0.707.656 as a hidden numbered list (id policy-doc-text), read back and matched by Chat; answered in SHIP__0.707.656_Type_Gate_And_Manifesto_Text_S194.md (TO Chat).
 
 **For Code (theme session). What this needs:** add the Manifesto's text alternative to `policies-content/manifesto.php` and deploy it with the hover contrast mend; reply in TO Chat with the theme version. Answers Code's S194 message on the edit guard.
 
