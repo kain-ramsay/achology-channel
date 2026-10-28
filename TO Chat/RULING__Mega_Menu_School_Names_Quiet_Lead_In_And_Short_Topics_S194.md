@@ -50,6 +50,10 @@ Theme 0.707.659 (commit fa78fa0a), deployed from a clean copy; local, server and
 
 - **Ruling 12, the Courses menu's heading (Kain's own words, placed as given).** "Find Your Starting Point: Where Would You Like to Begin?" replaces "Identify a Starting Point for Your Learning" (DSRD 8 s18.10). Kain asked Code for suggestions; Code offered four short lines; Kain wrote this one, joining two of them.
 
+- **Ruling 13, the Knowledge Hub menu (four shown).** Search First: the menu's heading as now, then the Hub's own search box ("Search Knowledge Hub"), then the four kinds of reading, then the seven subjects. Kain: "I think the search first is absolutely spectacular ... Definitely four, search first."
+- **Ruling 14, the Knowledge Hub menu's card words (Kain's own, placed as given).** New to Achology? / Find Your Community / "Connect with like-minded learners and practitioners. Enjoy live events, free coaching and mentorship in a supportive learning community. Try it for just $7 for 30 days." / Get Started for $7. Replaces DSRD 8 s18.11's nudge copy for this menu.
+- **Ruling 15, the seven subjects' layout (four shown).** Even Grid: eight equal buttons in two rows of four, the seven subjects from the Hub's own bar and "Every topic, in one place" (to the All Tags page) as the eighth, outlined in orange. Kain: "Yes, option 2 Even Grid." This adds the seven subject pages and All Tags to the menu (they had no route there before).
+
 ## The fold-back (Harness Rule 14), written
 Header + Footer design folder: achology-site-header-proof-v4.html, exported at 0.707.662 (v3's stylesheets with today's header.css, and the header, overlay and phone menu markup as the build site serves it), opened in WebKit at 1268 and 1024 with the same panel heights as the build site; v3 moved to Archive (Superseded); COMPONENT_DATA__site-header.json and the folder README name v4 and what it carries. Still open, not ruled: at 320 wide the phone list's Person-Centred Counselling & Psychology takes two lines.
 
