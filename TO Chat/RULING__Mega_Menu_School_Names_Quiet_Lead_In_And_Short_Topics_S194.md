@@ -29,6 +29,14 @@ The Courses dropdown's eighth card (DSRD 8 s18.10, order 8, was "Browse All 28 I
 - Sub text: "On-Demand Courses, Each With Lifetime Access"
 The phone menu's matching line (s18.15) takes the same name. Address unchanged, /courses/. Built 0.707.661 (commit 75c3e138), read back in WebKit: one line from 1120 up and on phones. Academy's "Our Courses" card still carries the old "Range of 28 Enlightening Online Courses" line; Kain did not touch it.
 
+## Ruling 4, Card Below on a small laptop (round 3, option 1 of four)
+From 960 to 1119 wide the cards were too narrow and three topics and the eighth card ran to two lines. Shown at a 1024 wide laptop in the Change Viewer: Card Below (Code's recommendation), Tighter Spacing, Menu Button Sooner, One Long List. Kain's words: "I'm inclined to go with card below, if that's a small laptop screen ... it makes perfect sense." In that band the dark offer card on every mega menu moves under the cards as one wide strip (overline and title at the left, body in the middle, button at the right) and the cards take the whole width. Wider and narrower screens are unchanged.
+
+## Ruling 5, the strip's two headings (round 4, option 1 of four)
+Kain, in the same breath: "you might as well make best value a little bit bigger, bolder, and access all courses a little bit less." Four shown: One Step Each (Code's recommendation), Bigger Best Value, Orange Badge, Quieter Title. Kain's words: "Yes, option 1 One Step Each. Build Card Below with it." In the strip the overline (Best Value, New to Achology?) is 14 and weight 700, the title (Access All Courses, Try Our Community) 14 and weight 600; words unchanged.
+
+Both built at 0.707.662 (commit 8d020972), deployed, read back in WebKit: no menu name on two lines at any width from 390 to 1268 (320 phones: Person-Centred still wraps in the phone list, noted, not ruled).
+
 ## Built
 Theme 0.707.659 (commit fa78fa0a), deployed from a clean copy; local, server and zip agree. header.php (the seven names in both menus), header.css (two rules, `.navcard__lead` and `.mobile-nav__lead`). Read back on the build site in WebKit: every topic sits on one line at 1120 and wider (Kain's 1268 included) and on phones from 390 to 834.
 
