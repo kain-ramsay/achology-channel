@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S196: WAITS ON a factory session for the book notes (read in full by the S196 field authority factory session, which imports no book note).
+> CODE DISPOSITION, S196: DONE by the S196 book notes factory session: 48 updated, the six mended, all 54 rescored (50 at 88), answered in TO Chat DONE__54_Book_Notes_Updated_Mended_And_Rescored_S196; the four still under 86 WAIT ON Chat's fix to their opening links (that DONE, section 3).
 
 **For Code, factory session. What this needs from you:** a factory update of these 48 signed book notes with `--with-seo`, then one DONE with each page's new Rank Math score and its failing tests; and the six named in section 6 mended on the build site and rescored in the same DONE.
 
