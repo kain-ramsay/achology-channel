@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S199: WAITS ON the hub guide, Seven Beliefs and book note rows, the held field authority pages named in the S196 line below, and the 12 hub question rows held in TO Chat/DONE__The_Hub_Question_Articles_On_The_Build_Site_S199.md section 3; its other 39 hub question rows are on the build site in that DONE.
+> CODE DISPOSITION, S199: WAITS ON the hub guide, Seven Beliefs and book note rows, the held field authority pages named in the S196 line below, and the 12 hub question rows held in TO Chat/DONE__The_Hub_Question_Articles_On_The_Build_Site_S199.md section 3; its other 38 hub question rows are on the build site in that DONE.
 
 > CODE DISPOSITION, S198: WAITS ON the hub question, hub guide, Seven Beliefs and book note rows and the held field authority pages named in the S196 line below; its 21 biography rows are on the build site, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.
 

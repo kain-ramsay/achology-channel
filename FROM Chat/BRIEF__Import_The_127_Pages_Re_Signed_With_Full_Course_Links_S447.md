@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S199: WAITS ON the Help, Seven Beliefs, workbook and I01 rows named in the S196 line below; its 14 hub question rows are on the build site, in TO Chat/DONE__The_Hub_Question_Articles_On_The_Build_Site_S199.md.
+
 > CODE DISPOSITION, S198: WAITS ON the rows named in the S196 line below (Help, hub question, Seven Beliefs, workbook, I01); its 7 biography rows are on the build site, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md.
 
 > CODE DISPOSITION, S196: WAITS ON the non-instructor, non-field-authority rows (other factory sessions) and the I01 ruling named below; its 10 field authority rows are on the build site and scored, in TO Chat/DONE__The_Field_Authority_Articles_On_The_Build_Site_S196.md.
