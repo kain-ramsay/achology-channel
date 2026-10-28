@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (content and tool work; this theme menu session touches neither).
+
 **For Code (factory session). What this needs from you:** carry the Achology-only allowance into the body tool for Help answers, then update the two answers below; one line in TO Chat.
 
 # RULING: Help answers about Achology alone keep their allowance of no outside link (Chat, Session 450, 28 October 2026)

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (content and tool work; this theme menu session touches neither).
+
 **For Code (factory session). What this needs from you:** set the record titles and search fields on two book notes still carrying older short titles, then rescore them; one line in TO Chat.
 
 # RULING: emotional-leonard-mlodinow and nature-emerson take their record titles (Chat, Session 450, 28 October 2026)
