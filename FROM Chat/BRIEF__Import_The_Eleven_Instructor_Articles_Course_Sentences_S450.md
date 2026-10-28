@@ -20,7 +20,7 @@ Read from the vault first: The Shared Road Every Kind of Page Travels, From Kain
 
 **What Chat checks on the build site afterwards:** each page opens at its address, its course sentence reads as signed with the full course name as the one link, and Code's score for it is 86 or more.
 
-**Coming next on the same eleven:** a fact-mend batch (PLAN__Fact_Mend_Of_The_Eleven_Instructor_Articles_S449 in 99 Working Papers) is being researched now and comes to Kain as its own reading page; it will need a second body import when signed. Import this one now so the build site carries the signed course sentences meanwhile.
+**Added the same day: the fact mends, signed too, so one import carries both.** Batch `fix_instructor_facts_s450`: 37 statements of fact checked against their primary sources (5 kept, 30 rewritten, 2 cut), paid-checked and settled, signed by Kain on the same eleven records: "Kain Ramsay; 28 October 2026; yes (the 37 fact mends, each checked against its primary source, read on S450_eleven_fact_mends.html)". The records now hold both signed changes; import the current records once. Link changes to expect: five-symptoms-mean-depression drops the NPR link on "Unhinged" and gains a Surís, Holliday and North link; the-rise-in-autism-diagnoses-real gains a link on "a 273 per cent rise" to the California DDS 1999 report (dds.ca.gov refuses scripts, so a link checker may report it blocked; it opens in a browser); ai-give-you-a-second-opinion gains an arXiv link; self-report-decide-a-diagnosis gains a Freud Museum link.
 
 OWED BACK: one DONE with the eleven updated, the score table against 86, and any page under the bar with its failing tests.
 
