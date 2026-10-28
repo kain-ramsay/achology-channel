@@ -23,6 +23,12 @@ Kain gave the four short topics himself, word for word:
 
 The other three keep their full topic: Neuro-Linguistic Programming, Personal Growth and Development, Cognitive Behavioural Psychology. Every one reads "The School of" above it, in the computer mega menu and the phone menu alike.
 
+## Ruling 3, Kain's own words on the eighth card (copy he handed over, placed as given)
+The Courses dropdown's eighth card (DSRD 8 s18.10, order 8, was "Browse All 28 Individual Courses" over "Range of 28 Enlightening Online Courses") now reads, word for word as Kain typed it:
+- Name: "Explore Achology’s Full range of Courses"
+- Sub text: "On-Demand Courses, Each With Lifetime Access"
+The phone menu's matching line (s18.15) takes the same name. Address unchanged, /courses/. Built 0.707.661 (commit 75c3e138), read back in WebKit: one line from 1120 up and on phones. Academy's "Our Courses" card still carries the old "Range of 28 Enlightening Online Courses" line; Kain did not touch it.
+
 ## Built
 Theme 0.707.659 (commit fa78fa0a), deployed from a clean copy; local, server and zip agree. header.php (the seven names in both menus), header.css (two rules, `.navcard__lead` and `.mobile-nav__lead`). Read back on the build site in WebKit: every topic sits on one line at 1120 and wider (Kain's 1268 included) and on phones from 390 to 834.
 
