@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON a factory session reading Kit (the theme session is on the founder pages' sign-off).
+> CODE DISPOSITION, S186, updated 28 October 2026: PARTLY DONE by a factory session. The website's saved Kit copy (30 September) was read: no sequences, none of the five Website tags, one form (Powell form); answer in TO Chat/ANSWER__The_Kit_Sequences_Forms_And_Tags_Read_From_The_Website_Link_S448.md. WAITS ON one live read of Kit for sequence counts, subject lines and subscribers, which needs the plugin's stored login.
 
 **Needs from Code: one read-only answer from Kit, through the website's own Kit link: every sequence running in Kit today, so Chat can recommend which to keep at launch. Any session. Build nothing.**
 
