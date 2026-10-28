@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (read in full by the T7 AI crawler theme side session, which edits no gate script).
+
 **For Code (factory session). What this needs:** two small changes to `content_gate.py` for gate type quote-page, then one line in TO Chat with the commit.
 
 # RULING: the quote article's closing question has no character band, and its question paragraph is outside the paragraph rule (Kain, S450, 28 October 2026)
