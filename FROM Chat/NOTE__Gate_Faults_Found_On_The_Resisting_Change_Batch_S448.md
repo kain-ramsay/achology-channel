@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S195: WAITS ON a factory session for items 2 and 3; item 1 is confirmed (no importer calls body_guard.is_signed), in TO Chat/DONE__The_Eight_Resisting_Change_Quote_Pages_S195 section 5.
+
 > CODE DISPOSITION, S186: WAITS ON a factory session (this file is for the factory session; the theme session leaves it untouched).
 
 **For Code (factory session). What this needs from you:** three small gate fixes and one confirmation, then one line back in your session report.

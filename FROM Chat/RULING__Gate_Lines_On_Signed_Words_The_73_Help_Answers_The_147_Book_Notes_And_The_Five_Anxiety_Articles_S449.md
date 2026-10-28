@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S195: WAITS ON the 73 Help answers' DONE and the 34 book notes; section 3's signature fix and its test are done (content_gate.py, TO Chat/DONE__The_Eight_Resisting_Change_Quote_Pages_S195 section 5).
+
 > CODE DISPOSITION, S190: WAITS ON the 73 Help answers' DONE and the content gate's signature fix (section 2, the 113 book notes, is done in TO Chat/DONE__113_Book_Notes_On_The_Build_Site_34_Wait_On_Their_Publisher_Link_S190).
 
 > CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).

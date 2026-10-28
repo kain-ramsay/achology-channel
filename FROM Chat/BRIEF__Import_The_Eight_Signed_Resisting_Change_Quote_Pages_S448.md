@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S195: WAITS ON Chat's sentences for the 24 inbound links (TO Chat/ASK__The_Resisting_Change_Inbound_Links_Need_Their_Sentences_S195) and the record mends for Q07016 and Q07042 at 85; the eight are on the build site, published, six redirects proved and scored (TO Chat/DONE__The_Eight_Resisting_Change_Quote_Pages_S195).
+
 > CODE DISPOSITION, S186: WAITS ON the next factory import session (this S186 factory session changed the course link gate first and stopped before any import).
 
 **For Code (factory session). What this needs from you:** a factory import of the eight quote pages Kain signed today, updating the eight existing quote posts in place, then one DONE with the counts and the Rank Math score table.
