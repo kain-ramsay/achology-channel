@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (read in full by the S194 theme main session, which runs no import).
+
 **For Code (factory session). What this needs from you:** a factory import of the eleven instructor articles Kain re-signed today, updating the eleven existing posts in place (body only), then one DONE with the counts and the Rank Math score table against the bar of 86.
 
 # BRIEF: import the eleven instructor articles with their warm course sentences (Chat, Session 450, 28 October 2026)
