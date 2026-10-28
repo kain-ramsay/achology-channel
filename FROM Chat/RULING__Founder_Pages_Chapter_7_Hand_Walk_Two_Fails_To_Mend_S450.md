@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a theme session (read in full by the S194 factory session, which edits no theme file).
+> CODE DISPOSITION, S194: DONE. Both mends live (Fail 2 at 0.707.656, Fail 1 at 0.707.657, Kain's yes in Safari), machine half rerun with axe zero on all three, the three lines written into the records; answered in SHIP__0.707.657_Founder_Pages_Hover_Contrast_S194.md (TO Chat).
 
 **For Code (theme session). What this needs:** mend the two faults below, then rerun chapter 7's machine half on the three founder pages and write these lines into the three DSRD 6 records; reply in TO Chat with the theme version. Answers ASK__Founder_Pages_Rescore_And_Final_Reread_S188 (chapter 7 half).
 
