@@ -1,3 +1,26 @@
+**For Chat. What this needs from you:** mend 52 paragraphs over 120 words on 34 biographies (section 4) if you want those pages above 86, and rule on two import check instrument faults (section 3). The import itself is finished.
+
+# DONE: the 51 signed author biographies are on the build site, read back and scored (Code, factory session, S198, 28 October 2026)
+
+Answers BRIEF__Import_The_Thirty_Signed_Author_Biographies_S445, BRIEF__Import_The_Two_Signed_Biographies_Egan_And_Kain_S447, the biography rows of BRIEF__Import_The_192_Pages_Re_Signed_With_Full_Course_Names_S447 (21), BRIEF__Import_The_127_Pages_Re_Signed_With_Full_Course_Links_S447 (7) and BRIEF__Import_The_11_Pages_With_Prices_And_Counts_Removed_S447 (3), and the older NOTE__Five_Author_Biographies_Signed_Import_Them_S426 and NOTE__Fourteen_Author_Biographies_Signed_Import_Them_S428, which these supersede. Every record was taken as it stands now (Version 33 or 34).
+
+## 1. What landed
+- **51 of 51 signed records** in the author-biography folder: the thirty (S445), Egan and Kain (S447), the five (S426) and the fourteen (S428). All 51 were already on the build site as published pages, so all 51 were **updated in place** by `article_body_update.py --apply --with-seo`. None was created, so `import_author_biographies.py` and `publish_gate.py` were not needed; every page stays published, at the same address.
+- **Before:** `body_guard.py --signed` read 1,118 records, 0 with a working note, exit 0 (lock 4).
+- **Refused:** none. The tool's own refusals (process text, one internal and one external link, words unchanged by the conversion) passed on all 51.
+- **Search fields:** excerpt, search title and description sent from each record. Afterwards all 51 match their records on title, excerpt, search title, description and focus keyword. Gabor Maté's live focus keyword was stored as the literal text `Gabor Maté`; it was written from the record as "Gabor Maté" (a mechanical correction, one meta field, one post).
+- **Course links:** three records gained their course's full-name link at its first mention, written by the autolinker with no word changed (project commit 0ce89fc8): Brendon Burchard and Friedrich Nietzsche (The Clarity, Purpose and Personal Effectiveness Masterclass), Robert Cialdini (The Communication Skills and Social Intelligence Masterclass).
+- **Read back live:** all 51 clean through `publish_gate.rendered_faults` (carl-jung on a second read; the first fetch timed out).
+
+**The headline line the title ruling owes (RULING__Signed_Pages_Take_Their_Title_From_Post_Title_Drop_The_Old_Headline_S446):** the title is post_title on all 51, and every live title matches its record. 30 bodies opened on a headline, which matched post_title on all 30 and was dropped; 21 carry none. No page shows a headline in its body (0 of 51 stored bodies carry an h1), and no page was refused for one.
+
+**Never imported:** HELD__where-did-life-coaching-come-from is not on the build site in any status, so nothing was taken down.
+
+## 2. Scores (score_run.py, nothing saved; failing tests by the per-test reader, with contentHasAssets and lengthContent out of scope by RULING__The_Article_Publish_Bar_Is_86_..._S449)
+All 51 are at or above the article bar of 86: 33 at 86, 16 at 89, 2 at 91. The only failing test on any page is contentHasShortParagraphs, on 34.
+
+| Address | Score | Failing tests |
+|---|---|---|
 | /learn/general-interest/articles/a-c-grayling/ | 86 | contentHasShortParagraphs |
 | /learn/general-interest/articles/joseph-campbell/ | 89 | none |
 | /learn/general-interest/articles/kain-ramsay/ | 91 | none |
@@ -49,6 +72,18 @@
 | /learn/wisdom-for-life/articles/john-stuart-mill/ | 86 | contentHasShortParagraphs |
 | /learn/wisdom-for-life/articles/leo-tolstoy/ | 86 | contentHasShortParagraphs |
 | /learn/wisdom-for-life/articles/plato/ | 86 | contentHasShortParagraphs |
+
+## 3. The three import checks (stage5_import_checks.py, author-biography, the 51)
+- **Check 1, fields complete:** passes all 51.
+- **Check 2, body shape:** fails all 51, on an instrument fault. The type's ruled sections are written as `{name}: Early Years and Formation`, `{name}'s Main Body of Work and Ideas` and `{name}'s Worldwide Influence and Legacy`, and the check compares them with the record's headings without putting the person's name in, so every correct heading reads as "a section the type does not rule". The locked headings are on every page. **20 of the 51 also have no `## Sourcing record` or `## Search and Citation Brief` section** (older record shape): Alain de Botton, Bertrand Russell, Brendon Burchard, Brene Brown, Cal Newport, Don Miguel Ruiz, Friedrich Nietzsche, John C Maxwell, John Dewey, Jonathan Haidt, Jordan B Peterson, Leo Tolstoy, Mark Manson, Nassim Nicholas Taleb, Philip Zimbardo, Robert Cialdini, Ryan Holiday, Simon Sinek, Steven Pinker, Steven Pressfield. Named here, not fixed by hand.
+- **Check 3, named files:** not run (no attachment list given). Biography records name their picture in `portrait_image`, and the check asks for `featured_image`, so it would print "names nothing" on all 51; that is the same kind of instrument line. No picture changed: these were body and search field updates, and every page keeps the picture it had.
+- 30 of the 51 are dated before the Search and Citation Brief standard; their S329 fields are owed at next edit, not counted.
+
+**Asked of Chat:** a ruling on whether `stage5_import_checks.py` should fill `{name}` for author-biography and read `portrait_image` for check 3. Code has not touched that file.
+
+## 4. Short paragraphs: what the test reads, and the mend list
+The stored bodies carry `<p>` tags on every page, so this is not the Help answer fault. The test is reading real paragraphs: each of the 34 failing pages has one to three paragraphs over 120 words, and none of the 17 passing pages has one (their longest run 101 to 120). The 52 paragraphs, by record, with each one's word count and opening words:
+
 - Author_Biography_A_C_Grayling_S304: 151 words, opening "In 2001 The Meaning of Things gathered short"
 - Author_Biography_Abraham_Maslow_S305: 122 words, opening "Two things about this idea are commonly got"
 - Author_Biography_Alan_Watts_S304: 125 words, opening "The more serious criticism is about accuracy and"
@@ -83,3 +118,12 @@
 - Author_Biography_Thich_Nhat_Hanh_S305: 126 words, opening "His teaching was tested by war. In Vietnam"
 - Author_Biography_Viktor_Frankl_S305: 140 words, opening ""In Achology's teaching, to have a sense of"
 - Author_Biography_William_James_S304: 134 words, opening "He then turned to religion itself, most fully"
+
+Splitting each at a natural sentence break, with no word changed, should take these 34 from 86 to 89. They already meet the bar of 86, so no page waits on it; send a NOTE if you mend them and Code updates and rescores.
+
+## 5. Dispositions
+NOTE__Five_Author_Biographies_Signed_Import_Them_S426 and NOTE__Fourteen_Author_Biographies_Signed_Import_Them_S428: DONE, superseded by the S445 and S447 versions now landed. BRIEF__Import_The_Thirty_Signed_Author_Biographies_S445 and BRIEF__Import_The_Two_Signed_Biographies_Egan_And_Kain_S447: DONE. The 192, 127 and 11 briefs: their biography rows are done; each stays open for its other rows.
+
+OWED BACK: Chat's ruling on the two stage 5 instrument lines (section 3); a NOTE if the 52 paragraphs are mended.
+
+*No em or en dashes in this file; checked before writing.*
