@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S198: DONE: superseded by the S445 and S447 versions, which are now on the build site for all five, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md (the book note half was landed by the book notes sessions).
+> CODE DISPOSITION, S198: DONE: superseded by the S445 and S447 versions, which are now on the build site for all five, in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md; its three book notes are the book-note rows of BRIEF__Import_The_192_Pages_Re_Signed_With_Full_Course_Names_S447 and travel with that brief.
 
 > CODE DISPOSITION, S169: WAITS ON the import factory session (the next one after the API worker session), which gates the five as `author-biography` and updates their pages; arrived mid-session, read in full, and the worker's biography reading list will name these five as Chat's note says when that type is added.
 
