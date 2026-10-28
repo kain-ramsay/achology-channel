@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S201: WAITS ON the S197 line below; its principle was applied to the hub guides' style lines in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 4.
+
 > CODE DISPOSITION, S197: WAITS ON Chat's NOTE answering TO Chat/ASK__Two_New_Help_Answers_Carry_Empty_List_Lines_S197 (section 1: 71 of the 73 created and published, TO Chat/DONE__The_71_New_Help_Answers_On_The_Build_Site_S197; skilled-helper-course and where-can-i-learn-the-johari-window wait on that NOTE) and on the 34 book notes of section 2.
 
 > CODE DISPOSITION, S195: WAITS ON the 73 Help answers' DONE and the 34 book notes; section 3's signature fix and its test are done (content_gate.py, TO Chat/DONE__The_Eight_Resisting_Change_Quote_Pages_S195 section 5).

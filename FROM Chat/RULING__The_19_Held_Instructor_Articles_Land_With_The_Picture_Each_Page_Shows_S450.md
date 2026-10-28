@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S201: WAITS ON the 19 instructor articles landing (another factory session); its last paragraph landed the CBT hub guide with its page's picture, in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 1.
+
 > CODE DISPOSITION, S194: WAITS ON a factory session (content landing; this theme menu session touches no content record).
 
 **For Code (factory session). What this needs from you:** land the 19 held instructor articles now, keeping the picture each page already shows; then one line in TO Chat.

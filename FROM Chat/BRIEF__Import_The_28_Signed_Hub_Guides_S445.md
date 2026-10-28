@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S201: WAITS ON the eight hub guide records held for no outside link (behavioural-psychology, cognitive-psychology, developmental-psychology, human-nature-and-behaviour, hypnotherapy, skilled-helper, social-psychology, values-and-decision-making) carrying one; the other 21 are on the build site, read back and scored in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md.
+
 > CODE DISPOSITION, S180: WAITS ON a factory session (this is the Courses theme side session; read in full, it touches no page here).
 
 **For Code (factory). What this needs from you:** import the twenty-eight signed hub guides onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), with their new titles and search titles, run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the twenty-eight addresses. Nothing else.

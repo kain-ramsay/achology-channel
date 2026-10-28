@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S201: WAITS ON behavioural-psychology 39456, cognitive-psychology 39460, developmental-psychology 39464, hypnotherapy 39480 and social-psychology 39508 (held for no outside link) and the six picture articles; 13 retitled hub guides are published again with their redirects off, in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 1.
+
 > CODE DISPOSITION, S174: WAITS ON the factory session (the file names the factory session; 22 retitles, redirects removed, republished on clearance).
 
 **Needs from Code: for each of the 22 retitled articles below, set the new title and search title on the build site from the record, remove its redirect, and publish it again. For the 6 with no picture, do nothing until the picture lands. Keep all three S429 tool changes.**

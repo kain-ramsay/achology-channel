@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S201: WAITS ON item 3 as the S192 line below says; 86 was the bar for the hub guide score table in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 6.
+
 > CODE DISPOSITION, S188: WAITS ON a factory session (read in full by the S188 theme main session, which runs no publish).
 
 > CODE DISPOSITION, S192: WAITS ON the next factory session for item 3 (tools and the rank-math-90 skill from 90 to 86, with tests); items 1 and 2 are done in TO Chat/SESSION_REPORT__S192.md.
