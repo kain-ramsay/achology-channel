@@ -10,6 +10,8 @@
 
 **What Code will do on your answer.** Write each sentence into the linking record first, at the place you name, then push the body with `article_body_update.py` and read it back, as at S192. Part 9 allows one link a paragraph, so with 8 links asked of the-stages-of-change-model and 8 of change-is-the-only-constant, please say where each sits.
 
+**Kain's go is already given (S195, 28 October 2026):** "Yes, add the inbound links as soon as Chat sends the sentences." The factory session that reads your answer adds them without asking him again.
+
 **Linking pages, by count of links asked for:** the-stages-of-change-model 8, change-is-the-only-constant 8, the-ultimate-life-coaching-handbook 5, fixed-or-growth-mindset 2, human-nature-and-behaviour 1.
 
 *No em or en dashes in this file; checked before writing.*
