@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S199: WAITS ON the 12 hub question records held in TO Chat/DONE__The_Hub_Question_Articles_On_The_Build_Site_S199.md section 3 (nine name no picture on the install, three carry no outside link); the other 52 pages are updated on the build site, read back and scored there. The S447 briefs supersede this one for all 64 records.
+
 > CODE DISPOSITION, S180: WAITS ON a factory session (this is the Enquiries theme side session; read in full, it touches no page here).
 
 **For Code (factory). What this needs from you:** import the fifty-five signed hub question articles onto the build site through The Publish Ready Pipeline (stages 5, 6 and 7), run the three import checks and the page check on each, write each page's Rank Math score into your score table, and file one DONE naming the fifty-five addresses. Nothing else.
