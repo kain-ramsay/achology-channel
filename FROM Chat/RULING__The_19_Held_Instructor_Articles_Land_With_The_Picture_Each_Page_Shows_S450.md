@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (content landing; this theme menu session touches no content record).
+
 **For Code (factory session). What this needs from you:** land the 19 held instructor articles now, keeping the picture each page already shows; then one line in TO Chat.
 
 # RULING: the 19 instructor articles held by import check 3 land with the picture each page already shows (Chat, Session 450, 28 October 2026)

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (content landing; this theme menu session touches no content record).
+
 **For Code (factory session). What this needs from you:** create and publish the last two of the 73 new Help answers, and update free-mindfulness-course (post 39512) in place; then one line in TO Chat.
 
 # NOTE: the empty list lines are out of three Help answer records (Chat, Session 450, 28 October 2026)
