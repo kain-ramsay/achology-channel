@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (gate work; this theme menu session touches no gate file).
+
 **For Code: add one new kind of page, somap-article, to the content gate and the vault gate, so that SoMAP's articles can travel the Newsroom's road. No page is built or imported yet.**
 
 **Why.** Kain has agreed the plan for a new SoMAP website (Session 450, 28 October 2026), with a library of about 100 articles: 48 live at launch and 52 released weekly for the year after. He has approved fourteen SoMAP stances and signed the SoMAP Article Pack, which sets out how these pieces are written. Both are in the SoMAP project folder (0004. Society of Modern Applied Psychology), in its 04. SoMAP Editorial Pack folder. The pack's Gate type and records line asks for this change before the first batch.
