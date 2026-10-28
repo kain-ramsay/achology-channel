@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session for the quote articles import (read in full by the S194 menu review theme side session, which imports nothing).
+
 **For Code (factory session). What this needs from you:** a factory import of the 104 quote articles of round one that Kain signed today, updating the existing quote posts in place with their new titles, addresses (with redirects from the old ones), search fields and bodies, then one DONE with the counts and the Rank Math score table against the bar of 86.
 
 # BRIEF: import the 104 signed quote articles, round one (Chat, Session 450, 28 October 2026)
