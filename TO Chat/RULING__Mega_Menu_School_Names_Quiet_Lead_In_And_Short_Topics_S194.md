@@ -40,8 +40,8 @@ Both built at 0.707.662 (commit 8d020972), deployed, read back in WebKit: no men
 ## Built
 Theme 0.707.659 (commit fa78fa0a), deployed from a clean copy; local, server and zip agree. header.php (the seven names in both menus), header.css (two rules, `.navcard__lead` and `.mobile-nav__lead`). Read back on the build site in WebKit: every topic sits on one line at 1120 and wider (Kain's 1268 included) and on phones from 390 to 834.
 
-## Still open, and coming next in this session
-On small laptops, 960 to 1119 wide, the grid column is too narrow and two to four topics still take two lines; at 320 Person-Centred does. No word change fixes that: Kain agreed it comes next as its own four-option round. The fold-back (Header + Footer prototype v4 and the data file) is written once after that round, since it changes the same block.
+## The fold-back (Harness Rule 14), written
+Header + Footer design folder: achology-site-header-proof-v4.html, exported at 0.707.662 (v3's stylesheets with today's header.css, and the header, overlay and phone menu markup as the build site serves it), opened in WebKit at 1268 and 1024 with the same panel heights as the build site; v3 moved to Archive (Superseded); COMPONENT_DATA__site-header.json and the folder README name v4 and what it carries. Still open, not ruled: at 320 wide the phone list's Person-Centred Counselling & Psychology takes two lines.
 
 OWED BACK: DSRD 8 s18.10 and s18.15 and DSRD 5 carry both rulings; no reply needed beyond that.
 
