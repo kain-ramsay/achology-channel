@@ -7,6 +7,11 @@ Shown in the one shared Change Viewer on the build site's Courses and Knowledge 
 
 What it is: "The School of" sits on its own line above the topic, in the same typeface and size as the name, regular weight, soft grey; the topic sits under it in the name's usual weight and colour. In the phone menu the same lead line sits one step smaller.
 
+## Ruling 1 REPLACED the same day: Topic Alone (round 2, option 1 of four)
+Kain saw the Quiet Lead-In built and asked: "Take The School of out of the menu altogether and show me that first." Four options shown in the Change Viewer, each without the lead line: Topic Alone (Code's recommendation), Orange Topic, Softer Topic, More Air. Kain's words: "Yes, option 1 Topic Alone. Build it."
+
+What it is now: each school is shown by its topic alone, in the name's usual weight and colour, with no "The School of" anywhere in the Courses mega menu or the phone menu's Courses list. Everything else in the card is as signed. Built at 0.707.660 (commit 4273c28d); the Quiet Lead-In of 0.707.659 is gone, and both lead-line style rules are removed from header.css.
+
 ## Ruling 2, the words: the menu may shorten a school's full name
 Kain's words: "we need to be flexible with our school canonical name rules as well, because what I don't want to see is especially in the mega menu, a school name rolling over into two lines. We need this to be really tidy. So this will be the area on the website where we break our own canonical name terms everywhere, because it's important that a brand new visitor to the website is just going to click on the general topic that they're interested in."
 
