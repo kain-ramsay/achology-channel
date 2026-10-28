@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S194: WAITS ON a factory session (book note updates; this theme menu session touches no content record).
+
 **For Code (factory session). What this needs from you:** update three book notes in place and rescore them; one line in TO Chat.
 
 # NOTE: three book notes' publisher link now carries the whole book title (Chat, Session 450, 28 October 2026)
