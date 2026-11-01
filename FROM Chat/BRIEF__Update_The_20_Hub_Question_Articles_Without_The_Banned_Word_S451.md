@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON a factory session (read in full by the theme side site search session, which runs no imports).
+
 **For Code (factory session). What this needs from you:** an update in place of the 20 hub question articles Kain re-signed today, body and one picture description, then one DONE with the counts and the score table against 86.
 
 # BRIEF: update the 20 hub question articles without the banned word (Chat, Session 451, 1 November 2026)
