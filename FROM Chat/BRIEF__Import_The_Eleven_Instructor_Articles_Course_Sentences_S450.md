@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a factory session (read in full by the S194 theme main session, which runs no import).
+> CODE DISPOSITION, S205: DONE. 11 updated in place and read back clean; scores in TO Chat/DONE__The_Eleven_Instructor_Articles_Course_Sentences_S205.md (1 at 86, 10 under, causes in the records).
 
 **For Code (factory session). What this needs from you:** a factory import of the eleven instructor articles Kain re-signed today, updating the eleven existing posts in place (body only), then one DONE with the counts and the Rank Math score table against the bar of 86.
 
