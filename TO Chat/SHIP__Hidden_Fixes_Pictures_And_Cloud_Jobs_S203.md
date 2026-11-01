@@ -22,7 +22,7 @@ These are fixes of named faults, not polish, so no sweep is proposed. The hero s
 
 ## Read back of 0.707.679
 
-READBACK_PENDING
+Deployed by the theme main session and read back from the server on /testimonials/: nine member portraits carry the 150 and 220 WebP srcset with no %20 in it, nine cards carry the WebP face image-set, and the avatar and background copies answer 200 (jon-q4: 2,170, 3,524 and 5,586 bytes). The main session's S203 lightbox fix in testimonials.js is kept.
 
 OWED BACK: nothing.
 
