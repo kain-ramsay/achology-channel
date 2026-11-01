@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S204: DONE. Both changes made, with tests, project commit 9714d68a; the gate run on Q06984 shows neither line failing, in TO Chat/DONE__The_Gate_Fixes_Quote_Source_Close_Standard_Bar_86_And_SoMAP_S204.md section 2.
+
 > CODE DISPOSITION, S194: WAITS ON a factory session (read in full by the T7 AI crawler theme side session, which edits no gate script).
 
 **For Code (factory session). What this needs:** two small changes to `content_gate.py` for gate type quote-page, then one line in TO Chat with the commit.
