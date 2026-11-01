@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off and BRIEF__Site_Search_One_Search_For_The_Whole_Site_S448 (Kain, S186: finish those pages first).
+> CODE DISPOSITION, S203: DONE. The 39 lines of DSRD 1 section 7.6 are set in SearchWP word for word, replace off; all five tests pass on the build site (TO Chat/SHIP__Site_Search_Whole_Site_S203.md).
 
 **Needs from Code: set the 37 search synonyms in DSRD 1 section 7.6 in SearchWP, word for word, each one adding to a search, never replacing it. Theme session, with or after BRIEF__Site_Search_One_Search_For_The_Whole_Site_S448.**
 

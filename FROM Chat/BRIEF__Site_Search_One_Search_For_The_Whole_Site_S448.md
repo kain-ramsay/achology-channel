@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S186: WAITS ON the founder pages' sign-off (Kain, S186: finish those pages first).
+> CODE DISPOSITION, S203: WAITS ON Kain's pick of four for the as-you-type preview (item 4, a Change Viewer round); items 1, 2, 3 and 5 and the answers to 6 and 7 are built and read back at 0.707.681 to 0.707.683 (TO Chat/SHIP__Site_Search_Whole_Site_S203.md).
 
 **Needs from Code: make the site's one search cover the whole site, with a Knowledge Hub shortcut on the Knowledge Hub front page, and build the parts of DSRD 1 section 7 already ruled. Theme session. Approved by Kain today.**
 
