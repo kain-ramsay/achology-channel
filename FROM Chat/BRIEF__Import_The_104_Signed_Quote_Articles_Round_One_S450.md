@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a factory session for the quote articles import (read in full by the S194 menu review theme side session, which imports nothing).
+> CODE DISPOSITION, S205: DONE. 104 on the build site (83 updated, 21 created and published), 104 redirects proved, scores in TO Chat/DONE__The_104_Quote_Articles_Round_One_On_The_Build_Site_S205.md (3 at 86 or more, 101 under, causes in the records).
 
 **For Code (factory session). What this needs from you:** a factory import of the 104 quote articles of round one that Kain signed today, updating the existing quote posts in place with their new titles, addresses (with redirects from the old ones), search fields and bodies, then one DONE with the counts and the Rank Math score table against the bar of 86.
 
