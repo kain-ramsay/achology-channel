@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory import session (local_7a10ce1e) reaching it after the 141 book notes and the 27 hub guides; read by the theme side session, which runs no import.
+
 **For Code (factory session). What this needs from you:** an update in place of the 95 field authority articles Kain re-signed today, body and search fields, then one DONE with the counts and the score table against 86.
 
 # BRIEF: update the 95 field authority articles without the banned word (Chat, Session 451, 1 November 2026)
