@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S204: DONE. Items 2 and 3 made with tests (project commit 9714d68a), item 1 confirmed at S195, item 4 Chat's own; in TO Chat/DONE__The_Gate_Fixes_Quote_Source_Close_Standard_Bar_86_And_SoMAP_S204.md section 3.
+
 > CODE DISPOSITION, S195: WAITS ON a factory session for items 2 and 3; item 1 is confirmed (no importer calls body_guard.is_signed), in TO Chat/DONE__The_Eight_Resisting_Change_Quote_Pages_S195 section 5.
 
 > CODE DISPOSITION, S186: WAITS ON a factory session (this file is for the factory session; the theme session leaves it untouched).

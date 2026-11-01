@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S204: DONE. Item 3: search_gate.py holds every article kind to 86 (theme commit b2b9d65f) and the rank-math-90 skill's success test reads 86, both with tests; items 1 and 2 were done at S192. In TO Chat/DONE__The_Gate_Fixes_Quote_Source_Close_Standard_Bar_86_And_SoMAP_S204.md section 4.
+
 > CODE DISPOSITION, S201: WAITS ON item 3 as the S192 line below says; 86 was the bar for the hub guide score table in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 6.
 
 > CODE DISPOSITION, S188: WAITS ON a factory session (read in full by the S188 theme main session, which runs no publish).

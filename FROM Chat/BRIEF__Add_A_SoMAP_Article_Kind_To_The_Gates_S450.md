@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S204: DONE. somap-article is in the content gate and the vault gate, the records folder exists, and both done tests pass (project commit 9714d68a); in TO Chat/DONE__The_Gate_Fixes_Quote_Source_Close_Standard_Bar_86_And_SoMAP_S204.md section 5.
+
 > CODE DISPOSITION, S194: WAITS ON a factory session (gate work; this theme menu session touches no gate file).
 
 **For Code: add one new kind of page, somap-article, to the content gate and the vault gate, so that SoMAP's articles can travel the Newsroom's road. No page is built or imported yet.**
