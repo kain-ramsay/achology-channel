@@ -15,7 +15,7 @@
 - **R7 half DONE, 0.707.671.** "Ten ways into everything Achology offers" stands under Ten Different Ways to Experience Achology on /about/. Reach: the same shared block is on /reviews/ and /testimonials/, and it changed there too. "Achology's journey is one for the history books." is HELD: the H2 page gate intake refuses edits to page-about.php under this brief, which has no DOCUMENT TYPE line.
 - **R8 DONE, 0.707.671.** /pricing/ shows "members at the senior and master levels of Achology's five-level certification pathway".
 - **R9, R10** not this session: R9 belongs to the site search brief, R10 to the Safari afternoon.
-- **R11** waits on the theme main session's CSS board shipping.
+- **R11, 0.707.678.** On a phone (below 768) the four doors on /learn/tags/ take 14px words with tokened padding and gap, and the arrow keeps its size. Before, measured in WebKit: at 375 the Quote Articles arrow was squeezed to zero width, and at 320 the Quote Articles and Book Notes words ran past the door's edge. After: all four doors show their whole label and arrow at 320 (Quote Articles on two lines), 375 and 1280, and 1280 is unchanged. css_gate shows 75 failures before and after, none on the new lines. Reach: this rule is only on the All Tags doors (`.kh-tags`).
 
 ## BRIEF__Operation_Cleanup_Finish_The_Small_Jobs_On_The_Board_S448
 
