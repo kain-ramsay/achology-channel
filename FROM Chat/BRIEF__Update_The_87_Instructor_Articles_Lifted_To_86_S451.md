@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory import session (local_7a10ce1e) reaching it, first of all per the S451 queue line; read in full by the theme side session, which runs no import.
+
 **For Code (factory session). What this needs from you:** a factory update of 87 instructor articles Kain signed today, in place, with their search fields; 54 address moves with redirects; 135 inbound links repointed; then one DONE with the counts and the Rank Math score table against the bar of 86.
 
 # BRIEF: update the 87 instructor articles lifted to the 86 bar (Chat, Session 451, 1 November 2026)
