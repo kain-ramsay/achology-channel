@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory import session (local_7a10ce1e) reaching it after Kain's seven S450 items; read in full by the theme main session and passed to that session.
+
 **For Code (factory session). What this needs from you:** an update in place of the 27 hub guides Kain re-signed today, body only, then one DONE with the counts and the score table against 86.
 
 # BRIEF: update the 27 hub guides without the banned word (Chat, Session 451, 1 November 2026)
