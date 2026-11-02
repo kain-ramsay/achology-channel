@@ -16,7 +16,7 @@ Chapters 10 and 11 written to pass, with Kain's words, in the DSRD 6 records of 
 
 ## Open lines, not of this sign-off
 
-- Rank Math: scores 82 to 89 stored; they wait on Kain's one-click rescore (the S203 policy page exception stands).
+- Rank Math, after Kain's one-click rescore (2 November 2026), read from the install: Privacy 95, Terms 95, Disclaimers 92, Cookie 89, Refund 89, Trust 89, Accessibility 89, How We Write 82. The five under 90 sit under the S203 policy page exception Kain approved.
 - Copy, Chat's: "IDTAs" on Privacy (already a recorded checker exception, S296); "A real question" on How We Write has a 9 word supporting line where the gate wants 12 to 25; the "In short" box words.
 - Two header picture sizes read one pixel off the file at a rounded width, and two assets were refused by the host's bot filter during the paced run; neither is a page fault.
 
