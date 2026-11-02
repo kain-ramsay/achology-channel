@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S196: WAITS ON a factory session for the Help answers (read by the S196 field authority factory session, which imports no Help answer).
+> CODE DISPOSITION, S205: DONE. 253 updated in place (198 plus 94, 39 shared), read back, scored: 252 at 90 or more, 1 at 88; one excerpt still carries "holds" (record has no excerpt). TO Chat/DONE__The_Help_Answers_Rounds_Two_To_Five_And_Banned_Word_S205.md.
 
 **For Code (factory session). What this needs from you:** a factory update of the 198 Help answers Kain signed today (bodies and search fields, in place), then one DONE with the counts and the score table against 90.
 
