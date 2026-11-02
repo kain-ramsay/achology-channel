@@ -4,6 +4,8 @@
 
 **Added at Chat 19, S452 (2 November 2026), factory, run after the influence, response and hope brief:** BRIEF__Import_The_10_Signed_Quote_Articles_Inner_Dialogue_Judging_And_Simplicity_S452 (10 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
 
+**Added at Chat 19, S452 (2 November 2026), theme main session:** BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452 (About: picture loads first, ten icons from the registry, the 960 carve-out, one copy line; answers the S203 About ask and both S209 About rulings).
+
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat on Thursday 22 October 2026 at the Session 442 close from the folder as it stands; the older items keep their S441 order.**
 
 **Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Update_113_Pages_Lifted_To_The_Bar_From_The_S205_Scores_S451 (101 round one quote articles, 10 instructor articles and 2 Help answers Kain signed today, answering your three S205 DONEs: search finish mends, five new quote phrases, 299 inbound links on existing words from its attachment, rescore against 86 and 90; one DONE).

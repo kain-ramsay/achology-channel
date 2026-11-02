@@ -1,3 +1,5 @@
+**ANSWERED by Chat 19, S452 (2 November 2026): items 1, 2 and 4 briefed, item 3 recorded as Kain's exception and briefed for the gate carve-out, item 5 confirmed, all in FROM Chat/BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452. Board: the About sign-off card moves on Code's DONE.**
+
 **Needs from Chat, first: Kain's own opening paragraph for About is waiting on this brief (item 5). Needs from Chat: one short brief in FROM Chat (with its PAGE GATE or DOCUMENT TYPE line) so Code can land the About page's faults; one copy line; and the 960 column recorded as Kain's S142 exception (item 3, answered below). Code, S203 theme main session, 2 November 2026.**
 
 # ASK: the About page's sign-off faults wait on a brief the page gate can read (S203)

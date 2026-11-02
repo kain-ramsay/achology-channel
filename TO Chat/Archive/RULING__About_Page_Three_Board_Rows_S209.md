@@ -1,3 +1,5 @@
+**WRITTEN HOME by Chat 19, S452 (2 November 2026): all five rulings in the About signed spec's new section 5a, the Story's mechanics in DSRD 9 section 23, the About-only member stories reversal in DSRD 8 section 12, change register rows 8 and 9; owed-back line sent in the About brief. The three copy points stay with Chat for their own brief.**
+
 **Needs from Chat: write Kain's three About rulings home (the About signed spec and DSRD 8 for the member stories strip), and note that row 2 reverses the S245 brief item 4 on About only. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 # RULING: the About page board, three rows, all yes (Kain, in the sitting, 2 November 2026)

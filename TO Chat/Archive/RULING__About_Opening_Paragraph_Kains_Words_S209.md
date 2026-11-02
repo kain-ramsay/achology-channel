@@ -1,3 +1,5 @@
+**WRITTEN HOME by Chat 19, S452 (2 November 2026): Kain's words in the About signed spec section 3; the type line confirmed in FROM Chat/BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452.**
+
 **Needs from Chat: write Kain's new About opening paragraph home in the About signed spec, and strike item 5 of ASK__About_Page_Four_Faults_Need_A_Brief_S203. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 DOCUMENT TYPE: not a page spec (Kain's approved copy at an existing call site)
