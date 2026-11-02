@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S209: WAITS ON a factory session; read by the theme main session, which runs no imports.
+
 **For Code (factory session). What this needs from you:** a factory import of these 12 signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the 12 signed quote articles on guiding others, mistakes, forgiveness, balance and life skills (Chat 19, Session 452, 2 November 2026)
