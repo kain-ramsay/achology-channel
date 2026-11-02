@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a factory session (content and tool work; this theme menu session touches neither).
+> CODE DISPOSITION, S205: DONE. Both titles and focus phrases set under clearance 4d10a7eb1089d17f and read back; emotional 88, nature 82 (keyword not in its kept address). TO Chat/DONE__Three_Small_Rulings_Book_Note_Titles_Help_Links_Publisher_Links_S205.md.
 
 **For Code (factory session). What this needs from you:** set the record titles and search fields on two book notes still carrying older short titles, then rescore them; one line in TO Chat.
 

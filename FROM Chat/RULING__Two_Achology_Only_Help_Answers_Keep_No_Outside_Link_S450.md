@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a factory session (content and tool work; this theme menu session touches neither).
+> CODE DISPOSITION, S205: DONE. Allowance in article_body_update.py (theme e2a3e44f, H9 re-hashed, 3 cases), both answers updated; 91 and 84. TO Chat/DONE__Three_Small_Rulings_Book_Note_Titles_Help_Links_Publisher_Links_S205.md.
 
 **For Code (factory session). What this needs from you:** carry the Achology-only allowance into the body tool for Help answers, then update the two answers below; one line in TO Chat.
 

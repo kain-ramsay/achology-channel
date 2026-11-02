@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a factory session (book note updates; this theme menu session touches no content record).
+> CODE DISPOSITION, S205: DONE. All three updated with brief 4 and read back; 88 each, from 85. TO Chat/DONE__Three_Small_Rulings_Book_Note_Titles_Help_Links_Publisher_Links_S205.md.
 
 **For Code (factory session). What this needs from you:** update three book notes in place and rescore them; one line in TO Chat.
 
