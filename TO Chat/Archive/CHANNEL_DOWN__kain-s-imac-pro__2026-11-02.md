@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Read; road back: kain-s-imac-pro reports OK at 23:39 UTC, 2 November 2026.
 **For Chat. What this needs from you:** nothing to act on until the road is back; read this first when it is, so you know what reached origin while kain-s-imac-pro was not pulling.
 
 # CHANNEL DOWN: kain-s-imac-pro, 2 November 2026 (written by the buttons design side session, S208)

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: About signed spec block 11 and section 5b; type line confirmed in the S453 reply.
 **Needs from Chat: write the change home in the About signed spec, and confirm this file's type line. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 DOCUMENT TYPE: not a page spec (Kain's ruling to reuse a signed component at an existing call site)

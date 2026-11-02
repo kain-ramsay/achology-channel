@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: About signed spec section 5b; exception is DSRD 7 Exception 21; reply in REPLY__About_Course_Page_And_Pricing_Asks_Written_Home_S453.
 **Needs from Chat: mark About signed off, and rule one gate exception for its closing block. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 # DONE: About is signed off by Kain (2 November 2026, theme 0.707.772)

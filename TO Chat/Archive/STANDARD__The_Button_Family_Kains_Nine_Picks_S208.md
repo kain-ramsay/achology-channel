@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: DSRD 7 sections 5.1, 5.2.4, 5.3, 5.5, 17.1 and 17.2; sweep brief queued.
 **For Chat. What this needs from you:** write Kain's new button family into DSRD 7 section 5.1 (and its tab, pill and icon homes), replacing the parts his picks supersede; then put the site-wide rollout to Kain as its own decision. Nothing here is built into the theme or the build site.
 
 # STANDARD: the button family, Kain's nine picks (buttons design side session, S208, 2 November 2026)

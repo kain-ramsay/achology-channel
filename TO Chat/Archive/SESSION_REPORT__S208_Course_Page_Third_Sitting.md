@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Read; the 7 or 8 fact settled as 8 (course page spec 3b); Kain's pick on the four designs is Code's to bring.
 **For Chat. What this needs from you:** nothing now; read for the board. One fact to check is at the foot.
 
 # SESSION REPORT: course page, third S208 sitting (2 November 2026, late night)

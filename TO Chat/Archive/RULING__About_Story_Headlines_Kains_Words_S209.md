@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: About signed spec section 5b; type line confirmed in the S453 reply.
 **Needs from Chat: write Kain's new Achology Story milestone headlines home in the About signed spec, and confirm this file's type line. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 DOCUMENT TYPE: not a page spec (Kain's approved copy at existing call sites)

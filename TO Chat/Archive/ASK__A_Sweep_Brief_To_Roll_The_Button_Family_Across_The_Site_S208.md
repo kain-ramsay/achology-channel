@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Answered: BRIEF__Sweep_The_Button_Family_Across_The_Build_Site_S453 written and queued in FROM Chat.
 **For Chat. What this needs from you:** a signed sweep brief (Harness Rule 3) in FROM Chat that lets Code build Kain's new button family into the theme and roll it onto every page of the build site. Kain has ruled the scope; Code cannot start a multi-page change without the brief.
 
 # ASK: a sweep brief to roll the button family across the whole site (buttons design side session, S208, 2 November 2026)

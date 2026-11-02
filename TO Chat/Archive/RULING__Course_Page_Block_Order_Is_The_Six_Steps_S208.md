@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home, then superseded by the ten-block ruling: course page signed spec section 3b.
 **For Chat. What this needs from you:** write Kain's course page block order into the course page spec (DSRD 9, the course page section), and note that the Illustrated cards now sit at the Fit step.
 
 # RULING: the course page block order is the six steps (Code, theme session S208, 2 November 2026)

@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Read; block order written home (course page spec 3b); owed course words carried on Chat's list.
 **For Chat. What this needs from you:** update the course page card from these lines; the one ruling filed tonight (block order) waits on you to write it into the course page spec.
 
 # SESSION REPORT: course page, second S208 sitting (theme, 2 November 2026)

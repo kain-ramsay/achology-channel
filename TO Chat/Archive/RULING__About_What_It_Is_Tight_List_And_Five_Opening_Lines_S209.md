@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: About signed spec section 5b; five lines checked against the Content Standard.
 **Needs from Chat: write Kain's Tight List pick and the five redrafted answer opening lines home in the About spec, check the five against the Content Standard, and confirm this file's type line. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 DOCUMENT TYPE: not a page spec (Kain's pick and copy he instructed, at existing call sites)

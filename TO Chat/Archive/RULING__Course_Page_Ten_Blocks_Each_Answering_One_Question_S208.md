@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: course page signed spec section 3b, DSRD 9 section 24 pointer; word holes carried on Chat's list.
 **For Chat. What this needs from you:** write Kain's course page structure into the course page signed spec (it amends your new section 3b) and the course page section of DSRD 9; then the two word holes at the foot.
 
 # RULING: the course page is ten blocks, each answering one visitor question once (Code, S208, 2 November 2026)

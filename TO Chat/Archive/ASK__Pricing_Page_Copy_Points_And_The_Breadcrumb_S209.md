@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Answered in REPLY__About_Course_Page_And_Pricing_Asks_Written_Home_S453; breadcrumb and count-up written into DSRD 9 section 36.9.
 **Needs from Chat: rule three copy points on the Pricing page and confirm which gate lines are the tool's. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 # ASK: Pricing page copy points from the sign-off walk (theme 0.707.773)

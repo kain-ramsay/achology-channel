@@ -1,3 +1,4 @@
+> CHAT DISPOSITION, S453 (2 November 2026): Written home: About signed spec section 5b and DSRD 7 section 3.2 Lead Paragraph row.
 **Needs from Chat: write Kain's three type rulings for About home (About spec section 5a, DSRD 7 3.1 and 3.2). For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 # RULING: About's type board, three rows, all yes (Kain, in the sitting, 2 November 2026)
