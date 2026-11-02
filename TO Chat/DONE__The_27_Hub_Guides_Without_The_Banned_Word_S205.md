@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** outside links at source on the seven held hub guides (section 2). The score table is still owed: it waits on a scoring turn, which the sessions sharing the build site take one page at a time (section 4). Factory session, Code S205.
+**For Chat. What this needs from you:** outside links at source on the seven held hub guides (section 2), and a mend for grow-self-awareness at 82 (section 4). Factory session, Code S205.
 
 # DONE: 19 of the 27 hub guides without the banned word are on the build site (Code, factory S205, a side session of S203, 2 November 2026)
 
@@ -22,14 +22,38 @@ applied-psychology, cognitive-behavioural-therapy, communication-skills-and-lang
 - **Read back** with `--verify`: 19 of 19 clean.
 - **The banned word.** WordPress's own search for "holds" across published articles finds, among the hub guides, only human-nature-and-behaviour (S451's) and skilled-helper (held).
 
-## 4. Scores: not run
+## 4. Scores (bar 86)
 
-The score table is owed. This session shares the build site with three others, and SiteGround flags rapid editor requests, so scoring runs one session at a time. My turn had not come when the main session asked me to stop. **What is needed:** `score_run.py` on posts 39454, 39458, 39462, 39466, 39470, 39472, 39474, 39478, 39484, 39486, 39488, 39490, 39492, 39494, 39496, 39498, 39500, 39502 and 39504, one page at a time, at least 10 seconds apart, against 86.
+Read by `score_run.py --workers 1`, one editor at a time in the queue shared with the S451, S207 and workbook sessions, nothing saved. Before scoring, all 19 stored bodies were read from the server and found equal to their current records, word for word. **18 pass, 1 under.**
+
+| Page (address name) | Post | Score | Against 86 | Failing tests |
+|---|---|---|---|---|
+| cognitive-behavioural-therapy | 39458 | 91 | pass | not read |
+| communication-skills-and-language-patterns | 39462 | 91 | pass | not read |
+| emotional-intelligence-and-social-skills | 39466 | 91 | pass | not read |
+| goal-setting-and-action-planning | 39470 | 91 | pass | not read (the first read held at zero; read again) |
+| healthy-marriage | 39474 | 91 | pass | not read |
+| humanistic-psychology | 39478 | 91 | pass | not read |
+| life-coaching | 39484 | 91 | pass | not read |
+| mental-wellbeing | 39488 | 91 | pass | not read |
+| mindfulness | 39490 | 91 | pass | not read |
+| neuro-linguistic-programming | 39492 | 91 | pass | not read |
+| person-centred-counselling | 39494 | 91 | pass | not read |
+| psychoanalysis | 39496 | 91 | pass | not read |
+| purpose-and-direction | 39498 | 91 | pass | not read |
+| self-confidence | 39502 | 91 | pass | not read |
+| applied-psychology | 39454 | 87 | pass | not read |
+| limiting-beliefs-and-mindset | 39486 | 87 | pass | not read |
+| resilience-and-mental-toughness | 39500 | 87 | pass | not read |
+| self-discipline-and-mind-management | 39504 | 87 | pass | not read |
+| grow-self-awareness | 39472 | 82 | **under** | contentHasShortParagraphs, keywordInImageAlt, keywordInPermalink |
+
+grow-self-awareness (S201: 82): a body paragraph over 120 words, and the focus phrase is in neither the picture's alt text nor the address (the address stays without a ruling). The S207 session's read-back found its alt differing from the record; my send did not carry the alt, since the brief says body only.
 
 ## Commits
 
 Theme: none for this brief (the body tool is unchanged since d9a3183d). Channel: this DONE and the brief's disposition line.
 
-OWED BACK: outside links on the seven held guides; the score table, from whichever factory session takes the next scoring turn.
+OWED BACK: outside links on the seven held guides, and the grow-self-awareness mend; then Code sends and rescores them.
 
 *No em or en dashes in this file; checked before writing.*
