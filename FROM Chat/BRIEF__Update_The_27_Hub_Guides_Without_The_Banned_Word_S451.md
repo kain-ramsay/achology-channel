@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S205: WAITS ON a score table for the 19 landed hub guides (posts listed in TO Chat/DONE__The_27_Hub_Guides_Without_The_Banned_Word_S205.md section 4); 7 held for no outside link, 1 left to the S451 15 pages brief.
+> CODE DISPOSITION, S205: DONE. 19 landed, read back against their records and scored (18 at 86 or more, grow-self-awareness 82); 7 held for no outside link; human-nature-and-behaviour to the S451 15 pages brief. TO Chat/DONE__The_27_Hub_Guides_Without_The_Banned_Word_S205.md.
 
 **For Code (factory session). What this needs from you:** an update in place of the 27 hub guides Kain re-signed today, body only, then one DONE with the counts and the score table against 86.
 
