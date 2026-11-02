@@ -54,6 +54,12 @@ Home; About; Advisory Board; Governance; Partners; Our standards; Code of Ethics
 
 Steps 1 to 3 give Kain a working site with articles and no Credentials Centre; that is a real launch if the Centre needs longer.
 
+## The 48 signed articles, ready to import (added the same day)
+
+Kain signed all 48 SoMAP launch articles on 2 November 2026 (Session 451). They are in the content records as signed records, from batches somap_launch_01 to 04 and somap_voice_01. The paid check could not run (API credit empty); fresh readers checked instead, which Kain knows.
+
+The site pages the articles link to, which must exist before launch: /standards/ , /standards/how-verification-works/ (15 links), /standards/code-of-ethics/ (12), /standards/code-of-character-and-conduct/ , /register/ , /credentials/ , /verify/ , /raise-a-concern/ . Every article-to-article link points at one of the 48 slugs, so the link check should find no gaps there. Banners come later from Kain's Canva template; import with no banner until then.
+
 ## Cost
 
 The theme, the plugins listed and the build cost nothing beyond the SiteGround plan Kain already has. If Code finds anything that costs money (a licensed plugin, a theme upgrade, extra hosting), it stops and names the amount in the next brief back to Chat. Chat puts it to Kain.
