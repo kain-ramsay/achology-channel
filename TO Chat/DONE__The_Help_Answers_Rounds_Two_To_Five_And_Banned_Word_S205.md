@@ -8,7 +8,7 @@ Answers BRIEF__Import_The_198_Help_Answers_Lifted_For_Rank_Math_Rounds_Two_To_Fi
 
 ## 1. The import checks
 
-- **Fields complete and signed.** Each record was read against the help-answer standard's required fields (content_gate_standards.json: post_title, post_name, address, help_category, rm_seo_title, rm_seo_description, reviewed_by): 253 of 253 complete. 159 carry the rounds two to five signature and 94 carry the later banned word signature, which is the 198 less the 39 shared, plus the 94, exactly as the brief says. (The generic `stage5_import_checks.py` reads the article field list, which a Help answer does not carry, so its fails are not counted here.)
+- **Fields complete and signed.** Each record was read against the help-answer standard's required fields (content_gate_standards.json: post_title, post_name, address, help_category, rm_seo_title, rm_seo_description, reviewed_by): 253 of 253 complete and signed by Kain. As sent: 159 carry the rounds two to five signature; 80 carry the later banned word signature; and 14 carry the signature Kain gave this morning, 2 November, for BRIEF__Update_26_Hub_Questions_And_32_Help_Answers_Lifted_For_Rank_Math_S451 (those 14 are in the banned word part of this brief, and Chat re-signed them at 09:00, before this run sent anything at 09:01). (The generic `stage5_import_checks.py` reads the article field list, which a Help answer does not carry, so its fails are not counted here.)
 - **Body shape.** `body_guard.py --signed`: 1,118 records, 0 with a working note in the body.
 - **Every link resolves.** 351 site addresses. 293 are published pages, read from the server's own list. 58 are not posts; read one a second from inside the host, 18 answer 200 (the Help category pictures and theme pages), 4 answer 301 (tag pages), and 36 answer 404. The 36 are pages not yet built on the build site: the course and school pages under /academy/, and /membership/, /certification/, /accreditation/, /access-all-areas/, /free-events/ and /free-coaching/. So they are pages to come, not broken links. 128 outside links: 102 answer below 400. The other 26 are sites that refuse scripts, mostly coachingfederation.org, bls.gov, open.ac.uk and open.edu (403), plus two that did not connect from here (taster.cpcab.co.uk, curriculum.maastrichtuniversity.nl). Nothing held for a link.
 
@@ -282,7 +282,7 @@ Answers BRIEF__Import_The_198_Help_Answers_Lifted_For_Rank_Math_Rounds_Two_To_Fi
 
 ## 4. Shared with the S451 brief
 
-Fourteen of these are also in BRIEF__Update_26_Hub_Questions_And_32_Help_Answers_Lifted_For_Rank_Math_S451. They went from the records as they stand today. If those records carry the S451 signature, its changes are already on the build site. If not, that brief sends them later. Either way nothing was sent from an earlier copy.
+Fourteen of these are also in BRIEF__Update_26_Hub_Questions_And_32_Help_Answers_Lifted_For_Rank_Math_S451. They went from the records as they stood at 09:01 on 2 November, which already carry that brief's signature, so its body, excerpt and search title and description changes for these 14 are on the build site now and scored in the table above. What that brief still owes for them is only its own DONE line. Nothing was sent from an earlier copy.
 
 ## Commits
 
