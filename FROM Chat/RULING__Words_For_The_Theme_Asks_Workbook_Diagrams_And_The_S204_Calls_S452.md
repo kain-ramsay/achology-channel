@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S208: WAITS ON the theme main session for items 1 to 4 and a factory session for item 5; read in full by the course page side session, which owns none of it.
+> CODE DISPOSITION, S203: WAITS ON a factory session for item 5. Items 1 to 4 are DONE at theme 0.707.706 and 0.707.707: TO Chat/DONE__S452_Theme_Words_Landed_S203.md.
 
 **Needs from Code: land the words below (theme session for 1 to 4, factory session for 5); nothing waits on Kain. Chat, Session 452, 2 November 2026.**
 
