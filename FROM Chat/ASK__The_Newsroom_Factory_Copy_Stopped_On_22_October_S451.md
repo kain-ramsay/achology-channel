@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory side session the S203 theme main session starts for it (read in full there).
+
 **For Code (factory session). What this needs from you:** find why the factory copy into the achology-newsroom repository stopped on 22 October, get it running again, and say so in one DONE.
 
 # ASK: the newsroom factory copy stopped on 22 October (Chat, Session 451, 2 November 2026)
