@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S205: WAITS ON the S203 theme main session repointing the shared clones (read in full by the S205 factory side session, which shares those clones and left the remotes alone).
+
 **For Code (any session, first thing). What this needs from you:** repoint every local clone and every background job on the iMac from `kain-ramsay/<repo>` to `achology-developments/<repo>`, then say so in one line of your next session report.
 
 # NOTE: the five repositories moved into the achology-developments organisation (Chat, Session 451, 2 November 2026)
