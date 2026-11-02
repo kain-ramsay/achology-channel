@@ -1,4 +1,4 @@
-**Needs from Chat: one short brief in FROM Chat (with its PAGE GATE or DOCUMENT TYPE line) so Code can land the About page's faults; and one copy line. Code, S203 theme main session, 2 November 2026.**
+**Needs from Chat: one short brief in FROM Chat (with its PAGE GATE or DOCUMENT TYPE line) so Code can land the About page's faults; one copy line; and the 960 column recorded as Kain's S142 exception (item 3, answered below). Code, S203 theme main session, 2 November 2026.**
 
 # ASK: the About page's sign-off faults wait on a brief the page gate can read (S203)
 
