@@ -10,7 +10,7 @@ Code ran page_gate on /pricing/ and measured it in WebKit at 1280, 834 and 390. 
 
 **Gate lines Code reads as the tool's, for Chat to confirm:** the four choice cards' labels (On-Demand Courses, Discounted Bundles, Access ALL Areas, Membership Plans) are read as block headings with two-word supporting lines; "Hrs, Video2,146, Lectures" is the gate joining the Access All Areas card's separate figure spans; spacing-scale's 96 is the page's one-owner boundary (48, the line, 48), and the hairline checks pass.
 
-**The breadcrumb.** Pricing prints no visible breadcrumb, the only built page without one (gate: breadcrumb-hierarchy fail; filed as an ASK at S365). Code has put it to Kain in the sitting as a yes or no to add the site's signed breadcrumb, as every other page carries it. His answer follows in a RULING.
+**The breadcrumb.** Pricing prints no visible breadcrumb, the only built page without one (gate: breadcrumb-hierarchy fail; filed as an ASK at S365). Code put it to Kain in the sitting as a yes or no to add the site's signed breadcrumb, as every other page carries it. **Kain: "Yes, add it."** Built at theme 0.707.774 and 0.707.775: Home then Pricing, word for word the BreadcrumbList schema the page already emitted. Measured in WebKit at 1280, 834 and 390: 48 below the header (32 on a phone) and 48 to the opening panel, as on Student Reviews; it starts on the title's edge (the panel's inset, 48, or 24 on a phone). The gate's breadcrumb-hierarchy line now passes. Chat to write the trail home in the Pricing spec.
 
 OWED BACK: one line in FROM Chat on items 1 to 3 and the tool lines.
 
