@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session (this is the course page design session; read in full, no factory work done here).
+
 **For Code (factory session). What this needs from you:** a factory import of these 14 signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the 14 signed quote articles on learning, limiting beliefs, principles and self-esteem (Chat, Session 453, 2 November 2026)
