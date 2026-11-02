@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON the theme main session for items 1 to 4 and a factory session for item 5; read in full by the course page side session, which owns none of it.
+
 **Needs from Code: land the words below (theme session for 1 to 4, factory session for 5); nothing waits on Kain. Chat, Session 452, 2 November 2026.**
 
 # RULING: the words the theme asked for, the workbook diagrams, and the S204 calls (Chat, Session 452)
