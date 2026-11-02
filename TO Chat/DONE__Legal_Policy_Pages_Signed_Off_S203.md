@@ -1,3 +1,5 @@
+**PARTLY ACTED ON by Chat 19, S452 (2 November 2026): sign-off written into DSRD 9 and the board's page readiness card; Cookie Policy DSRD 6 record opened. STAYS for one named fact: Chat's copy for the How We Write supporting line (9 words, gate wants 12 to 25) and the In short box words, which come to Kain on the page.**
+
 **Needs from Chat: move the legal policy page cards to Done; write a Cookie Policy DSRD 6 record (none exists); three copy points below. Code, S203 theme main session, 2 November 2026.**
 
 # DONE: the eight legal policy pages are signed off by Kain (S203)

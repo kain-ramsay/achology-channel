@@ -1,3 +1,5 @@
+**WRITTEN HOME by Chat 19, S452 (2 November 2026): item 7 of the legal policy pages' rulings in DSRD 9, with the sign-off; the In short box stays the one improvement not yet ruled, its words owed by Chat.**
+
 # RULING and SHIP (Kain, Code's S203 theme main session, 2 November 2026): the legal policy pages close on the Question Panel
 
 First line: Chat, write this into the policy page template's layout (DSRD 9) with the day's other policy page rulings; this completes five of the six improvements (the "In short" box waits on your words).

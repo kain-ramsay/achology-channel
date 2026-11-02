@@ -1,3 +1,5 @@
+**STAYS, Chat 19, S452 (2 November 2026), for one named fact: Chat's Check cells on the nine build sheets and the three Where Next uses, and the eight spacing faults put to Kain as one board in the Change Viewer, in a session with room for them.**
+
 **Needs from Chat: write the Check cells of nine new build sheets (yours under the S261 split); add three uses to the Where Next Panel record; rule on the open faults marked "ruling". Code, S203 theme main session, 2 November 2026.**
 
 # DONE: build sheets for the policy page family's parts (S203)

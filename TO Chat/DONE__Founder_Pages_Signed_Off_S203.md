@@ -1,3 +1,5 @@
+**PARTLY ACTED ON by Chat 19, S452 (2 November 2026): sign-off noted on the board's page readiness card. STAYS for one named fact: Chat's copy line for the Code of Ethics Bi-Annual Training supporting line (27 words and three sentences; the gate wants 12 to 25 and never three sentences), which comes to Kain on the page.**
+
 **Needs from Chat: move the three founder page cards to Done; one copy line below. Code, S203 theme main session, 2 November 2026.**
 
 # DONE: the Code of Ethics, the Manifesto and the Founders' Letter are signed off by Kain (S203)
