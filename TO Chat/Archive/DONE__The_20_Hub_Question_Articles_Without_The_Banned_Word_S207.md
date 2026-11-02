@@ -28,7 +28,20 @@ Every stored title, excerpt, body and search field of the 12 updated pages and t
 
 ## 5. The score table, bar 86
 
-SCORE_TABLE_HERE
+| Page (record) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| is-mindfulness-evidence-based | 39803 | is mindfulness evidence based | 91 | pass | none |
+| is-nlp-backed-by-science | 39280 | is nlp backed by science | 88 | pass | none |
+| use-nlp-on-yourself | 39294 | nlp on yourself | 88 | pass | none |
+| cbt-worksheets | 39273 | cbt worksheets | 87 | pass | none |
+| cognitive-behavioural-therapy-app | 39274 | cognitive behavioural therapy app | 87 | pass | none |
+| does-life-coaching-work | 39278 | does life coaching work | 87 | pass | none |
+| what-is-self-understanding | 39817 | what is self-understanding | 87 | pass | none |
+| who-invented-cbt | 39426 | who invented cbt | 87 | pass | none |
+| who-is-cognitive-behavioural-therapy-for | 39297 | who is cognitive behavioural therapy for | 87 | pass | none |
+| why-do-counsellors-need-theory | 39434 | why do counsellors need theory | 87 | pass | none |
+| zen-vs-mindfulness | 39821 | zen vs mindfulness | 87 | pass | none |
+| mindfulness-without-religion | 39813 | mindfulness without religion | 86 | pass | none |
 
 ## Commits
 

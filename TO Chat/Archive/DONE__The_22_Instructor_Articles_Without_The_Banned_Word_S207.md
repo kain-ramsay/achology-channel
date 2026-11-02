@@ -36,7 +36,30 @@ Every stored title, excerpt, body and search field of the 22, read on the server
 
 ## 5. The score table, bar 86
 
-SCORE_TABLE_HERE
+| Page (record) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| I01__why-people-seek-help | 34254 | why do people seek counselling | 89 | pass | none |
+| ai-agree-with-everything-you-say | 36508 | ai agree with everything you say | 89 | pass | none |
+| freedom-vs-security | 36881 | freedom vs security | 89 | pass | none |
+| I04__blind-spots-that-keep-people-stuck | 35161 | psychological blind spots | 88 | pass | none |
+| I05__how-to-challenge-without-breaking-the-relationship | 34260 | challenging skills in counselling | 88 | pass | none |
+| I06__resistance-in-helping-is-information | 34262 | client resistance in counselling | 88 | pass | none |
+| I14__meaningful-life-versus-busy-life | 35163 | busy but not fulfilled | 88 | pass | none |
+| K05__meet-people-where-they-are | 35784 | meet people where they are | 88 | pass | none |
+| K10__growth-mindset-at-work | 35794 | growth mindset at work | 88 | pass | none |
+| AW06__what-is-self-leadership | 39663 | what is self-leadership | 86 | pass | none |
+| ER02__how-do-you-set-boundaries-without-ruining-a-relationship | 39665 | set boundaries | 86 | pass | none |
+| GK05__what-does-it-mean-to-listen-without-fixing | 39841 | listen without fixing | 86 | pass | none |
+| GK06__how-can-faith-and-psychology-work-together | 39675 | faith and psychology | 86 | pass | none |
+| GT04__how-do-you-say-what-you-mean-clearly-and-concisely | 39679 | say what you mean | 86 | pass | none |
+| GT05__what-does-it-mean-to-mean-what-you-say | 39842 | mean what you say | 86 | pass | none |
+| build-self-control | 36853 | build self-control | 86 | pass | none |
+| disagreement-vs-division | 36867 | disagreement vs division | 86 | pass | none |
+| think-objectively | 36982 | think objectively | 86 | pass | none |
+| the-definition-of-mental-disorder | 36639 | the definition of mental disorder | 85 | **under** | keywordInSubheadings |
+| a-false-epidemic-happen-without-anyone-lying | 36605 | a false epidemic happen without anyone lying | 81 | **under** | contentHasShortParagraphs, keywordIn10Percent |
+| self-report-decide-a-diagnosis | 36637 | self-report decide a diagnosis | 81 | **under** | contentHasShortParagraphs, keywordIn10Percent |
+| what-is-concept-creep | 36647 | what is concept creep | 81 | **under** | contentHasShortParagraphs, keywordIn10Percent |
 
 ## Commits
 

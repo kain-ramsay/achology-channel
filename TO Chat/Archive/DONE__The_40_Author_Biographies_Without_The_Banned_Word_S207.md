@@ -28,7 +28,48 @@ Every stored title, excerpt, body and search field of the 40, read on the server
 
 The Author Biography Pack names no bar of its own, and The Shared Road sets 86 for every article kind; biographies are articles on the build site, so the table reads against 86, as at S198.
 
-SCORE_TABLE_HERE
+| Page (record) | Post | Focus phrase | Score | Against 89 | Failing tests |
+|---|---|---|---|---|---|
+| Author_Biography_Gerard_Egan_S298 | 33605 | Gerard Egan | 91 | pass | none |
+| Author_Biography_Aristotle_S304 | 33592 | Aristotle | 89 | pass | none |
+| Author_Biography_Arthur_Schopenhauer_S304 | 33593 | Arthur Schopenhauer | 89 | pass | none |
+| Author_Biography_Carl_Jung_S304 | 33598 | Carl Jung | 89 | pass | none |
+| Author_Biography_Gabor_Mate_S304 | 33604 | Gabor Maté | 89 | pass | none |
+| Author_Biography_Howard_Gardner_S305 | 33712 | Howard Gardner | 89 | pass | none |
+| Author_Biography_James_Allen_S304 | 33607 | James Allen | 89 | pass | none |
+| Author_Biography_Jonathan_Haidt_S304 | 33611 | Jonathan Haidt | 89 | pass | none |
+| Author_Biography_Joseph_Campbell_S304 | 33612 | Joseph Campbell | 89 | pass | none |
+| Author_Biography_Robert_Greene_S304 | 33620 | Robert Greene | 89 | pass | none |
+| Author_Biography_Ryan_Holiday_S304 | 33621 | Ryan Holiday | 89 | pass | none |
+| Author_Biography_Sigmund_Freud_S304 | 33622 | Sigmund Freud | 89 | pass | none |
+| Author_Biography_Simon_Sinek_S305 | 33623 | Simon Sinek | 89 | pass | none |
+| Author_Biography_Steven_Pinker_S304 | 33624 | Steven Pinker | 89 | pass | none |
+| Author_Biography_A_C_Grayling_S304 | 33589 | A. C. Grayling | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Abraham_Maslow_S305 | 33708 | Abraham Maslow | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Alan_Watts_S304 | 33591 | Alan Watts | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Alfred_Adler_S305 | 33709 | Alfred Adler | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Brendon_Burchard_S304 | 33595 | Brendon Burchard | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Brene_Brown_S304 | 33596 | Brené Brown | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Cal_Newport_S304 | 33597 | Cal Newport | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Charles_Duhigg_S304 | 33599 | Charles Duhigg | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Daniel_Goleman_S304 | 33600 | Daniel Goleman | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Erich_Fromm_S304 | 33602 | Erich Fromm | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Erik_Erikson_S305 | 33711 | Erik Erikson | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Friedrich_Nietzsche_S304 | 33603 | Friedrich Nietzsche | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Irvin_Yalom_S304 | 33606 | Irvin Yalom | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_John_C_Maxwell_S304 | 33608 | John C. Maxwell | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_John_Dewey_S304 | 33609 | John Dewey | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_John_Stuart_Mill_S304 | 33610 | John Stuart Mill | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Jordan_B_Peterson_S305 | 33714 | Jordan B. Peterson | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Judith_S_Beck_S305 | 33715 | Judith S. Beck | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Leo_Tolstoy_S304 | 33614 | Leo Tolstoy | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Mark_Manson_S304 | 33616 | Mark Manson | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Nassim_Nicholas_Taleb_S304 | 33618 | Nassim Nicholas Taleb | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Plato_S304 | 33619 | Plato | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Rick_Hanson_S305 | 33717 | Rick Hanson | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Robert_Cialdini_S305 | 33718 | Robert Cialdini | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_Viktor_Frankl_S305 | 33627 | Viktor Frankl | 86 | **under** | contentHasShortParagraphs |
+| Author_Biography_William_James_S304 | 33628 | William James | 86 | **under** | contentHasShortParagraphs |
 
 ## Commits
 

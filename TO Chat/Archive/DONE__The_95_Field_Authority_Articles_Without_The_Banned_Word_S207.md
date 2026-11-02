@@ -35,7 +35,99 @@ Every stored title, excerpt, body and search field of the 95 read on the server:
 
 Read by `score_run`'s settled score, one page every 12 seconds, nothing saved, with the per-test list from the same editor load. contentHasAssets and lengthContent are out of scope (RULING S449). **50 pass (20 at 86, 4 at 87, 22 at 89, 4 at 91), 41 under, median 86.** Compared with the S196 table by post id, **90 of the 91 score exactly as they did at S196**, so the causes are in the records, not in this batch. SIGMUND_LINE Across the 41: keywordInImageAlt 31, keywordInMetaDescription 30, keywordInSubheadings 29, keywordInPermalink 28, keywordIn10Percent 27, contentHasShortParagraphs 25, keywordInContent 25, titleStartWithKeyword 19, keywordInTitle 18. Most of the pages far under carry a focus phrase that appears in neither their title, address, description nor body, from the S445 retitle.
 
-SCORE_TABLE_HERE
+| Page (record) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| 20-common-cognitive-biases-that-influence-your-decisions | 35182 | cognitive biases | 91 | pass | none |
+| learned-helplessness-experiment-the-psychology-of-helplessness | 35244 | learned helplessness experiment | 91 | pass | none |
+| social-conformity-insights-from-the-asch-conformity-experiment | 35274 | asch conformity experiment | 91 | pass | none |
+| the-complete-history-of-life-coaching-and-its-predecessors | 35278 | history of life coaching | 91 | pass | none |
+| 12-psychological-principles | 35178 | psychological principles | 89 | pass | none |
+| an-antidote-to-narcissism | 35482 | narcissism | 89 | pass | none |
+| an-exploration-of-the-pygmalion-effect-experiment-on-expectations | 35192 | pygmalion effect | 89 | pass | none |
+| benefits-of-practical-learning-why-experience-outweighs-academic-knowledge | 35196 | practical learning | 89 | pass | none |
+| exploration-of-the-split-brain-experiment-by-roger-sperry | 35222 | split brain experiment | 89 | pass | none |
+| exploring-self-determination-theory-key-principles-applications | 35224 | self-determination theory | 89 | pass | none |
+| gerard-egans-skilled-helper-model-using-the-3-stage-framework | 35230 | skilled helper model | 89 | pass | none |
+| how-irresponsibility-leads-to-personal-disempowerment | 35234 | disempowerment | 89 | pass | none |
+| insights-from-mary-ainsworths-the-strange-situation-study | 35238 | strange situation | 89 | pass | none |
+| jean-piagets-contributions-to-developmental-psychology | 35240 | piaget | 89 | pass | none |
+| learn-about-the-psychologist-dr-albert-ellis | 35242 | albert ellis | 89 | pass | none |
+| life-coaching-listening-skills | 35529 | listening skills | 89 | pass | none |
+| maslows-hierarchy-of-needs | 35248 | maslow's hierarchy of needs | 89 | pass | none |
+| mastering-the-art-of-persuasion | 35250 | art of persuasion | 89 | pass | none |
+| navigating-life-with-a-sound-mind | 35256 | sound mind | 89 | pass | none |
+| the-dynamics-of-cognitive-dissonance | 35282 | cognitive dissonance | 89 | pass | none |
+| the-origins-of-humanistic-psychology | 35438 | humanistic psychology | 89 | pass | none |
+| the-origins-of-positive-psychology | 35294 | positive psychology | 89 | pass | none |
+| the-power-of-useful-thinking | 35579 | useful thinking | 89 | pass | none |
+| the-road-to-character-10-lessons-from-david-brooks-classic | 35296 | the road to character | 89 | pass | none |
+| unraveling-apathy-insights-from-the-bystander-effect-study | 35310 | the bystander effect | 89 | pass | none |
+| what-is-the-meaning-of-life-a-comprehensive-exploration | 35322 | meaning of life | 89 | pass | none |
+| delayed-gratification-insights-from-the-marshmallow-test-study | 35428 | marshmallow test | 87 | pass | none |
+| exploration-of-the-cognitive-maps-experiment-by-edward-tolman | 35218 | cognitive maps experiment | 87 | pass | none |
+| mimicking-aggression-insights-from-the-bobo-doll-experiment | 35252 | bobo doll experiment | 87 | pass | none |
+| misattribution-of-arousal-study-insights-into-emotional-perception | 35254 | misattribution of arousal | 87 | pass | none |
+| albert-banduras-social-learning-theory | 35188 | social learning theory | 86 | pass | none |
+| character-traits-of-a-life-coach | 35490 | life coach | 86 | pass | none |
+| essential-character-traits-for-personal-growth-and-development | 35210 | personal growth | 86 | pass | none |
+| ethically-questionable-insights-from-the-robbers-cave-experiment | 35212 | robbers cave experiment | 86 | pass | none |
+| examining-the-doll-test | 35214 | doll test | 86 | pass | none |
+| finding-purpose-how-human-values-shape-your-lifes-direction | 35228 | human values | 86 | pass | none |
+| outgrowing-your-limiting-beliefs | 35541 | limiting beliefs | 86 | pass | none |
+| psychology-understanding-the-blue-eyes-brown-eyes-experiment | 35266 | blue eyes brown eyes experiment | 86 | pass | none |
+| stereotyping-the-unseen-threat-to-diversity-and-inclusion | 35276 | diversity and inclusion | 86 | pass | none |
+| the-dark-side-of-human-behavior-the-impact-of-the-zimbardo-deindividuation-study | 35280 | deindividuation | 86 | pass | none |
+| the-impact-of-the-hawthorne-studies-on-workplace-dynamics | 35286 | hawthorne studies | 86 | pass | none |
+| the-impact-of-the-invisible-gorilla-experiment-explained | 35288 | invisible gorilla experiment | 86 | pass | none |
+| the-origin-of-cognitive-therapy | 35574 | cognitive therapy | 86 | pass | none |
+| the-origin-of-the-drama-triangle | 35576 | drama triangle | 86 | pass | none |
+| the-role-of-freedom-in-personal-autonomy-and-decision-making | 35298 | personal autonomy | 86 | pass | none |
+| the-truth-about-active-listening | 35590 | active listening | 86 | pass | none |
+| understanding-the-cognitive-load-theory-experiment | 35601 | cognitive load theory | 86 | pass | none |
+| unlock-personal-empowerment-with-the-empowerment-dynamic | 35604 | the empowerment dynamic | 86 | pass | none |
+| voices-of-vulnerability-insights-from-the-monster-study-experiment | 35316 | monster study | 86 | pass | none |
+| what-is-counselling-psychology-a-search-for-a-definition | 35613 | counselling psychology | 86 | pass | none |
+| aaron-beck-the-pioneer-who-revolutionized-cognitive-psychology | 35186 | aaron beck | 84 | **under** | keywordInImageAlt, keywordInSubheadings |
+| understanding-your-core-values | 35440 | core values | 82 | **under** | contentHasShortParagraphs, keywordInSubheadings |
+| finding-lifes-purpose-with-viktor-frankls-mans-search-for-meaning | 35226 | man's search for meaning | 78 | **under** | contentHasShortParagraphs, keywordInImageAlt, keywordInMetaDescription, keywordInSubheadings |
+| exploration-of-dr-howard-gardners-nine-types-of-intelligence | 35216 | multiple intelligences | 75 | **under** | keywordIn10Percent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink |
+| how-philosophy-illuminates-our-understanding-of-psychology | 35236 | philosophy and psychology | 75 | **under** | keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, titleStartWithKeyword |
+| timeless-lessons-from-the-life-and-works-of-hans-j-eysenck | 35595 | hans eysenck | 75 | **under** | contentHasShortParagraphs, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink |
+| lessons-from-how-to-win-friends-influence-people | 35246 | how to win friends and influence people | 72 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink |
+| the-smart-goal-setting-framework | 35300 | smart goals | 72 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink |
+| twenty-pivotal-moments-in-psychologys-history | 35306 | history of psychology | 72 | **under** | contentHasShortParagraphs, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| dynamics-of-leading-effective-diplomatic-discussions | 35208 | diplomatic communication | 68 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| embracing-your-shadow-side | 35502 | shadow self | 68 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| from-roots-to-revolution | 35430 | third force psychology | 68 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| history-and-timeline-of-counselling-psychology | 35232 | history of counselling psychology | 68 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| how-immediacy-shapes-engaging-and-impactful-conversations | 35432 | immediacy in counselling | 68 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| the-reality-of-life-coaching | 35583 | what is life coaching | 68 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| embracing-your-innermost-values | 35500 | core values | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| psychology-theories-for-motivation | 35264 | theories of motivation | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| starvation-insights-from-ancel-keys-the-minnesota-experiment | 35553 | minnesota starvation experiment | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| the-core-competencies-of-coaching | 35559 | icf core competencies | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| the-eisenhower-decision-making-matrix | 35565 | eisenhower matrix | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| unlocking-life-coaching-excellence | 35606 | grow coaching model | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| what-habits-are-and-why-people-get-stuck | 35318 | what are habits | 65 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings |
+| the-stages-of-change-model | 35588 | stages of change model | 44 | **under** | keywordInTitle, titleStartWithKeyword |
+| unraveling-behaviorism-psychology-a-historical-perspective | 35312 | behaviorism | 44 | **under** | keywordInTitle, titleStartWithKeyword |
+| conditioning-fear-insights-from-the-little-albert-experiment | 35202 | little albert experiment | 40 | **under** | contentHasShortParagraphs, keywordInTitle, titleStartWithKeyword |
+| psychology-history-timeline | 35262 | psychology history timeline | 40 | **under** | contentHasShortParagraphs, keywordInTitle, titleStartWithKeyword |
+| the-4-stages-of-human-evolution | 35556 | 4 stages of human evolution | 40 | **under** | contentHasShortParagraphs, keywordInTitle, titleStartWithKeyword |
+| the-myth-of-having-it-all | 35572 | having it all | 40 | **under** | contentHasShortParagraphs, keywordInTitle, titleStartWithKeyword |
+| a-guide-to-breaking-bad-habits | 35424 | breaking bad habits | 38 | **under** | contentHasShortParagraphs, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| the-psychology-of-self-improvement | 35581 | psychology of self improvement | 29 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| neuro-linguistic-programming-myths | 35538 | neuro linguistic programming | 25 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| a-guide-to-building-inner-resilience | 35479 | building resilience | 22 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| rosalynn-carter-and-mental-health-stigma | 35548 | rosalynn carter mental health | 22 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| books-about-person-centred-psychology | 35198 | person centred therapy books | 21 | **under** | keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| an-exploration-of-freuds-psychoanalytic-theory | 35190 | freud psychoanalytic theory | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| dialogue-versus-monologue | 35497 | dialogue vs monologue | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| sigmund-freuds-defence-mechanisms | 35270 | freud defense mechanisms | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| skills-for-highly-effective-counseling | 35272 | counselling skills | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| the-impact-of-transference-and-counter-transference | 35290 | transference and countertransference | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| two-factor-models-of-personality | 35599 | two factor model of personality | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
+| unveiling-attachment-insights-from-harlows-monkey-experiments | 35314 | harlow monkey experiment | 19 | **under** | contentHasShortParagraphs, keywordIn10Percent, keywordInContent, keywordInImageAlt, keywordInMetaDescription, keywordInPermalink, keywordInSubheadings, keywordInTitle, titleStartWithKeyword |
 
 ## Commits
 

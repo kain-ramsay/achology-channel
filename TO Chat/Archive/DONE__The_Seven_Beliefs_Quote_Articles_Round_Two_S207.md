@@ -31,7 +31,15 @@ Each record's `inbound_from` names three linking pages and a sentence for each. 
 
 ## 4. Rank Math scores, bar 86
 
-SCORE_TABLE_HERE
+| Page (record) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| CQ018-054-3__are-beliefs-shaped-by-our-past-experiences | 36401 | shaped by our past experiences | 81 | **under** | keywordInSubheadings, linksHasExternals, linksNotAllExternals |
+| CQ001-037-1__how-are-beliefs-formed-over-a-lifetime | 43286 | beliefs formed over a lifetime | 80 | **under** | keywordInSubheadings, linksHasExternals, linksNotAllExternals |
+| CQ018-005-3__do-our-beliefs-decide-how-we-behave | 36318 | beliefs decide how we behave | 80 | **under** | keywordInSubheadings, linksHasExternals, linksNotAllExternals |
+| CQ018-063-1__are-our-beliefs-really-just-guesses | 36410 | beliefs really just guesses | 80 | **under** | keywordInSubheadings, linksHasExternals, linksNotAllExternals |
+| CQ018-063-2__do-we-really-know-what-we-believe | 36411 | know what we believe | 80 | **under** | linksHasExternals, linksNotAllExternals, titleStartWithKeyword |
+| CQ018-072-2__how-to-tell-what-someone-really-believes | 36425 | what someone really believes | 80 | **under** | keywordInSubheadings, linksHasExternals, linksNotAllExternals |
+| CQ001-012-1__can-you-have-no-beliefs-at-all | 40330 | no beliefs at all | 76 | **under** | keywordInSubheadings, linksHasExternals, linksNotAllExternals, titleStartWithKeyword |
 
 ## Commits
 
