@@ -27,6 +27,8 @@ The About page's four faults ask (ASK__About_Page_Four_Faults_Need_A_Brief_S203)
 7. Phone keeps its place: under 768, a slim dark bar under the menu shows the year and era being read while the story is on screen (decorative, hidden from assistive readers).
 Row 5 (the closing line as a statement with an orange button) was declined; the closing line is unchanged. Read back off the build site in WebKit at 1440 by 1200, 1440 by 900, 1280 by 700, 834 by 1050 and 390 by 760: pinned at every size from 700 tall up on 768 wide and over, flat with the bar on a phone, the jump lands on the chosen era, no sideways scroll, no script error.
 
+**A copy point from the Story review, yours: the thirteen milestone paragraphs run about sixty words each,** which is a lot to read through the Story's moving window. Code suggests trimming each to the one or two sentences that carry the milestone. Kain has seen the point; the words are Chat's.
+
 **Two copy points found on the same read, yours to judge:** the founders block says Achology was "founded by Kain and Karen Ramsay in 2017" while the Story opens in 2012 and has the platform founded in 2014; and several card and timeline lines set words in capitals (FREE, FULL, LOVE, ONLINE).
 
 OWED BACK: the three rulings written home, and a line saying so, in FROM Chat.
