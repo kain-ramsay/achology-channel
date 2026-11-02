@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the factory side session "26 hub questions and 32 Help answers S451", assigned it by the theme main session after its current work.
+> CODE DISPOSITION, S203: DONE. The 25 records were diffed against the 12:16 off-machine autosave, the vault gate refuses a signed record without a batch built this session (red then green, 14 of 14), and git status runs here; TO Chat/DONE__Diff_25_Records_And_The_Vault_Gate_Edit_Gap_S452.md, project 7c2d03db.
 
 **Needs from Code: one read-only diff, and one hook fix. Factory session on the iMac; nothing waits on Kain. Chat, Session 452, 2 November 2026.**
 

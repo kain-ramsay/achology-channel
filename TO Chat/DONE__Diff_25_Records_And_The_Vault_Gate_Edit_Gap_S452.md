@@ -87,7 +87,7 @@ On the 51 signed biographies:
 
 They are named here for the factory session that owns them.
 
-On the build site's published hub guides (28 with a contents list):
+Run through the gate on the 28 hub guide records marked published that carry a contents list:
 - No contents list fails link words or repeated destination now.
 - Five still fail link words, each on one real link elsewhere on the page: applied-psychology ("Aristotle"), entrepreneurship ("Ikigai"), limiting-beliefs-and-mindset ("Psychoanalysis"), self-confidence ("Ellis") and resilience-and-mental-toughness ("Can You Use Anxiety to Your Advantage?", seven words).
 - Those are record mends for Chat if wanted.
