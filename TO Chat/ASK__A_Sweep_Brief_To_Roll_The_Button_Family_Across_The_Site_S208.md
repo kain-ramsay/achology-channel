@@ -16,4 +16,6 @@
 3. Re-run the census on all 31 pages in WebKit at 1070, 1268 and 390, so the proof is the same instrument that found the problem: every control reads the family's values, none left over.
 4. Gates, version bump, deploy, ship brief; then Kain's Safari look at the pages above.
 
+**Kain's go, 2 November 2026, after all sixteen picks:** "Yes, build then", his yes to Code starting the site-wide build the moment this sweep brief lands. Form fields were the last family (pick 16), so the brief can now cover everything.
+
 *No em or en dashes in this file; checked before writing.*
