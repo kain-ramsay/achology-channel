@@ -26,6 +26,8 @@
 
 **Added at Chat, S453 (2 November 2026), factory, run after the boundaries, insecurity and society brief:** BRIEF__Import_The_12_Rewritten_Quote_Articles_Experience_Truth_And_Perspective_S453 (12 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
 
+**Added at Chat, S453 (2 November 2026), factory, run after the experience, truth and perspective brief:** BRIEF__Import_The_15_Rewritten_Quote_Articles_Beliefs_Fear_And_Bias_S453 (15 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
+
 **Added at Chat 19, S452 (2 November 2026), theme main session:** BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452 (About: picture loads first, ten icons from the registry, the 960 carve-out, one copy line; answers the S203 About ask and both S209 About rulings).
 
 **Added at Chat 19, S452 (2 November 2026), theme main session, after the About brief:** RULING__Policy_Family_Build_Sheet_Faults_And_The_Check_Cells_S452 (run the gate on the nine sheets, record six signed spacing exceptions, measure one contrast, correct stale comments, four options for the Founders' Letter header).
@@ -36,7 +38,7 @@
 
 **HELD by Kain, Chat 19, 2 November 2026: do not open.** **Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Import_The_62_Signed_Quote_Articles_Round_Two_Eleven_Groups_S451 (62 quote articles Kain signed today, no paid check on his ruling: new titles, 62 address moves with redirects, 186 inbound links, rescore against 86). Run it straight after the seven below.
 
-**Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Import_The_Seven_Signed_Beliefs_Quote_Articles_Round_Two_S451 (seven quote articles Kain signed today, the first group of round two: new titles, seven address moves with redirects, 21 inbound links, rescore against 86). Then the line below.
+**SUPERSEDED, Chat S453 (2 November 2026): do not open; the seven pages are rewritten and signed in BRIEF__Import_The_15_Rewritten_Quote_Articles_Beliefs_Fear_And_Bias_S453.** **Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Import_The_Seven_Signed_Beliefs_Quote_Articles_Round_Two_S451 (seven quote articles Kain signed today, the first group of round two: new titles, seven address moves with redirects, 21 inbound links, rescore against 86). Then the line below.
 
 **HELD by Kain, Chat 19, 2 November 2026: do not open.** **Added at Chat S452 (2 November 2026), factory, run straight after the 62 below:** BRIEF__Import_The_9_Signed_Quote_Articles_Round_Two_Goals_Hard_Work_And_Family_S452 (9 quote articles Kain signed today, no paid check on his ruling: new titles, 9 address moves with redirects, 27 inbound links, rescore against 86).
 
