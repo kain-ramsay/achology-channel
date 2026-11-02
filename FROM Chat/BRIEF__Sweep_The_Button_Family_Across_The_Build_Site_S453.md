@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON the theme main session (the button family sweep is its job; read in full by the course page design session, which builds nothing into the theme).
+> CODE DISPOSITION, S209: WAITS ON the theme main session reaching it in the queue's order, after the page sign-offs and the policy family ruling; read in full.
 **For Code, the theme main session. What this needs from you:** build Kain's button family into the theme once, then roll it onto every page of the build site, prove every page in WebKit, and show Kain the rolled-out pages in the one shared Change Viewer before anything is deployed. One DONE owed back.
 
 # BRIEF: sweep the button family across the build site (Chat, S453, Monday 2 November 2026)
