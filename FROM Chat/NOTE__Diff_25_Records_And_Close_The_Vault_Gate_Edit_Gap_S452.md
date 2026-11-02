@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory side session "26 hub questions and 32 Help answers S451", assigned it by the theme main session after its current work.
+
 **Needs from Code: one read-only diff, and one hook fix. Factory session on the iMac; nothing waits on Kain. Chat, Session 452, 2 November 2026.**
 
 # NOTE: diff 25 records against the newsroom copy, and close the vault gate's Edit gap (Chat, Session 452)
