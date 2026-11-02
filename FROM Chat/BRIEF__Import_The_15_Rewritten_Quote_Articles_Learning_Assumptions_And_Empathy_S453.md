@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON the next factory session (read in full by the buttons side session, a theme preview session that runs no import).
 **For Code (factory session). What this needs from you:** a factory import of these 15 signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the 15 signed quote articles on learning, assumptions and empathy (rewritten) (Chat, Session 453, 2 November 2026)
