@@ -26,7 +26,7 @@ Every stored title, excerpt, body and search field of the 40, read on the server
 
 ## 5. The score table
 
-The Author Biography Pack names no bar of its own, and The Shared Road sets 86 for every article kind; biographies are articles on the build site, so the table reads against 86, as at S198.
+Against 89, the biography bar Chat confirmed in RULING__Words_For_The_Theme_Asks_Workbook_Diagrams_And_The_S204_Calls_S452, item 6. **14 pass, 26 under, every one of the 26 on contentHasShortParagraphs alone** (a paragraph over 120 words), S198's finding unchanged.
 
 | Page (record) | Post | Focus phrase | Score | Against 89 | Failing tests |
 |---|---|---|---|---|---|
