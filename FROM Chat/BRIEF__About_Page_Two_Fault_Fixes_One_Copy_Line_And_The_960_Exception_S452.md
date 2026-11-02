@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S209: DONE. All five items landed at theme 0.707.728 (artwork end-on-line fix 0.707.729), page gate and WebKit read-back in TO Chat/DONE__About_Page_Brief_Landed_S209.md.
+
 > CODE DISPOSITION, S208: WAITS ON the theme main session (this is the course page hero design session; read in full, About page untouched here).
 
 **For Code (theme main session). What this needs from you:** land two invisible fault fixes and one copy line on the About page, add the 960 carve-out to page_gate.py, and confirm in one DONE.
