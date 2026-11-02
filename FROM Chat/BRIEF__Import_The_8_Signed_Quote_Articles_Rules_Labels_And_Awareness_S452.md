@@ -1,4 +1,4 @@
-> CODE DISPOSITION, factory, 2 November 2026: DONE. 8 of 8 imported (5 updated, 3 drafts), 8 redirects proved, 0 of 24 inbound links (new wording, waits on Chat), scores 1 at 86 and 7 under (75 to 82); see TO Chat/DONE__Import_The_8_Signed_Quote_Articles_Rules_Labels_And_Awareness_S452.md.
+> CODE DISPOSITION, S452: DONE. 8 of 8 imported (5 updated, 3 drafts), 8 redirects proved, 0 of 24 inbound links (new wording, waits on Chat), scores 1 at 86 and 7 under (75 to 82); see TO Chat/DONE__Import_The_8_Signed_Quote_Articles_Rules_Labels_And_Awareness_S452.md.
 > CODE DISPOSITION, S208: WAITS ON a factory session (this is the course page hero design session; read in full, no factory work done here).
 
 **For Code (factory session). What this needs from you:** a factory import of these 8 signed quote articles, then one DONE with the counts and the score table.
