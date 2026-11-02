@@ -10,7 +10,7 @@ Model line: no writing or checking model is needed for this job; it is an import
 
 **Kain's signature, word for word, as the vault gate wrote it into each record:** "Kain Ramsay; 2 November 2026; Yes, sign them (quote articles round two, 62 pages in eleven idea groups, paid check dropped on his ruling, read on one reading page)"
 
-**What changed.** Every page has a new title (post_title, the headline and rm_seo_title set together), a new focus phrase claimed in KEYWORD_REGISTER.csv against its new address, a new description, excerpt, practice block and body, and a new address (post_name) with the old one in `redirect_from`. Match each post by its quote_id, never by its old address. Where a quote_id has no post on the build site yet, create it from the record. Three records were signed once before and may already be on the build site: CQ001-002-2 and CQ001-009-1 (8 October, Version 14), whose new signature replaces that version whole; and no other.
+**What changed.** Every page has a new title (post_title, the headline and rm_seo_title set together), a new focus phrase claimed in KEYWORD_REGISTER.csv against its new address, a new description, excerpt, practice block and body, and a new address (post_name) with the old one in `redirect_from`. Match each post by its quote_id, never by its old address. Where a quote_id has no post on the build site yet, create it from the record. Two records were signed once before and may already be on the build site: CQ001-002-2 and CQ001-009-1 (8 October, Version 14), whose new signature replaces that version whole.
 
 | quote_id | Record | New title | New post_name (old in brackets) | Focus phrase |
 |---|---|---|---|---|
