@@ -1,5 +1,5 @@
 > CODE DISPOSITION, S209: WAITS ON a factory session for its factory lines; read in full by the theme main session, whose two theme lines (the About brief, DONE; the policy family ruling, after the page sign-offs) are in hand.
-**HELD, Kain, 2 November 2026 (Chat 19):** the four round two quote article import briefs below (62, 9, 9 and 11 pages, 91 in all) are held. Kain read the writing and rejected it as empty and without Achology's stances. Do not import any of the 91. If any has already landed, stop and tell Chat. The seven Beliefs pages are not held.
+**SUPERSEDED, Chat S453 (2 November 2026): all 98 held and Beliefs pages are now rewritten and signed in the eight BRIEF__Import_The_*_Rewritten_Quote_Articles_*_S453 briefs; never open the four held briefs below.** **HELD, Kain, 2 November 2026 (Chat 19):** the four round two quote article import briefs below (62, 9, 9 and 11 pages, 91 in all) are held. Kain read the writing and rejected it as empty and without Achology's stances. Do not import any of the 91. If any has already landed, stop and tell Chat. The seven Beliefs pages are not held.
 
 **Added at Chat 19, S452 (2 November 2026), factory, open first of all:** BRIEF__Import_The_10_Signed_Quote_Articles_Influence_Response_And_Hope_S452 (10 quote articles Kain signed, the first written to the new standard after the hold; import by quote_id, redirects, links, score against 86).
 
@@ -36,6 +36,8 @@
 **Added at Chat, S453 (2 November 2026), factory, run after the maturity, communication and good intent brief:** BRIEF__Import_The_15_Rewritten_Quote_Articles_Being_Yourself_Confidence_And_Conformity_S453 (15 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
 
 **Added at Chat, S453 (2 November 2026), factory, run after the being yourself, confidence and conformity brief:** BRIEF__Import_The_13_Rewritten_Quote_Articles_Outlook_Fulfilment_And_Relatability_S453 (13 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
+
+**Added at Chat, S453 (2 November 2026), factory, run after the outlook, fulfilment and relatability brief:** BRIEF__Import_The_14_Rewritten_Quote_Articles_Goals_Family_And_Habits_S453 (14 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
 
 **Added at Chat 19, S452 (2 November 2026), theme main session:** BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452 (About: picture loads first, ten icons from the registry, the 960 carve-out, one copy line; answers the S203 About ask and both S209 About rulings).
 
