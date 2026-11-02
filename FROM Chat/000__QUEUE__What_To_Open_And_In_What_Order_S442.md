@@ -1,5 +1,7 @@
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat on Thursday 22 October 2026 at the Session 442 close from the folder as it stands; the older items keep their S441 order.**
 
+**Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Import_The_Seven_Signed_Beliefs_Quote_Articles_Round_Two_S451 (seven quote articles Kain signed today, the first group of round two: new titles, seven address moves with redirects, 21 inbound links, rescore against 86). Then the line below.
+
 **Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Update_26_Hub_Questions_And_32_Help_Answers_Lifted_For_Rank_Math_S451 (26 hub question articles and 32 Help answers Kain signed today: search fields with `--with-seo`, three address moves with redirects, one inbound link repointed, rescore against 86 and 90). Then the 87 instructor articles below.
 
 **Added at Chat S451 (1 November 2026), factory, open first of all:** BRIEF__Update_The_87_Instructor_Articles_Lifted_To_86_S451 (87 instructor articles Kain signed today: search fields with `--with-seo`, 54 address moves with redirects, 135 inbound links repointed, rescore against 86). It carries every use of hold in those 87 pages too, so the holds branch will not need an instructor batch for them.
