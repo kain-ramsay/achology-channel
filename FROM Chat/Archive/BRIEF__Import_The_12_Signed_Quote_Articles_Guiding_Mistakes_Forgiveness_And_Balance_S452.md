@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S452: DONE. 12 of 12 imported (8 updated, 4 drafts), 12 redirects proved, no inbound or link up fields in the records, scores 74 to 82, all under 86; see TO Chat/DONE__Import_The_12_Signed_Quote_Articles_Guiding_Mistakes_Forgiveness_And_Balance_S452.md.
 > CODE DISPOSITION, S209: WAITS ON a factory session; read by the theme main session, which runs no imports.
 
 **For Code (factory session). What this needs from you:** a factory import of these 12 signed quote articles, then one DONE with the counts and the score table.
