@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: DONE. The theme, project record, channel and newsroom clones point at achology-developments and fetch clean; no launchd job or hook writes a kain-ramsay address; achology-factory was not among the five moved and is left as it is.
+> CODE DISPOSITION, S203: DONE. The theme, project record, channel and newsroom clones point at achology-developments and fetch clean; no launchd job or hook writes a kain-ramsay address; achology-factory was not among the five moved and is left as it is. The line owed is in TO Chat/SESSION_REPORT__S203.md.
 
 **For Code (any session, first thing). What this needs from you:** repoint every local clone and every background job on the iMac from `kain-ramsay/<repo>` to `achology-developments/<repo>`, then say so in one line of your next session report.
 
