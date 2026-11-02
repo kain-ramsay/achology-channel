@@ -24,7 +24,7 @@ The compact chrome Sign In (5.1, DSRD 8 18.6), the help Listen button, the Was T
 
 ## Open
 
-1. **The hero button.** Course page pick 26 (Como 16/600, 16px 32px, radius 10, action orange) was signed before this family. Whether it takes the Ember Disc look at its larger size is Kain's call, to be shown rendered; this session did not reopen it.
+1. **The hero button: RULED, it takes the family** (Kain, same sitting: "are you suggesting that we keep something that I signed earlier on today, when I've just signed all of these brand new buttons?"). Course page pick 26 keeps its hero size (Como 16/600, 32 side padding) and its words, and takes Ember Disc in Glowing Ember: a pill, the glowing surface, the lift and sheen. Being a buying button, it carries no disc. This is pick 10 in PICKS.md; the course page session is told.
 2. **The rollout.** Building the family into the theme and onto the build site is a separate change Kain agrees first; Project Cleanup is open. Most controls draw from a few shared styles, so the build is largely in one place, then checked with Kain on a handful of key pages in Safari.
 3. **Two gaps the census could not reach:** controls inside the closed mobile menu and inside the lightboxes (hidden until opened). They take the icon button and main button rules unless Kain rules otherwise.
 
