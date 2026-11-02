@@ -16,6 +16,8 @@ Kain asked Code to review the About page block by block as a senior designer. El
 
 The About page's four faults ask (ASK__About_Page_Four_Faults_Need_A_Brief_S203) still stands: items 1 and 2 need your brief, item 3 is recorded there as Kain's S142 exception, item 4 is your copy line.
 
+**A fourth ruling, same sitting: "What It Is, and Who It's For" on a computer.** Kain found the block bland on desktop and asked Code to make it look better. Four options went to him in the Change Viewer (previews/about-board-s209/round-pfq.js: Answer Card, Framed Panel, Connected Questions, Dark Answer). His words: "3 Connected questions please." Built at 0.707.722 in about.css, 1024 and up only: a 2px line in brand orange at 30% runs through the five question marks (each mark on a white disc), the open answer carries a 3px brand orange rule down its left side with 24px between rule and words, and the answer's first line is set in the heading font at 21, weight 600. His S043 and S044 selector rulings (orange closed questions, circle marks, weights, the open question's wash and arrow) are unchanged. Read back in WebKit at 1280 and 1024 (changed) and 834 and 390 (unchanged), no sideways scroll. Please write it into the About spec's selector line.
+
 **Two copy points found on the same read, yours to judge:** the founders block says Achology was "founded by Kain and Karen Ramsay in 2017" while the Story opens in 2012 and has the platform founded in 2014; and several card and timeline lines set words in capitals (FREE, FULL, LOVE, ONLINE).
 
 OWED BACK: the three rulings written home, and a line saying so, in FROM Chat.
