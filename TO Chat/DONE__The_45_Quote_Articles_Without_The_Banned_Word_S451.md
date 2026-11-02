@@ -42,10 +42,10 @@ Read one editor at a time, 12 seconds apart, nothing saved, in turns agreed with
 | Record | Post | Address | Focus phrase | Score | Against 86 |
 |---|---|---|---|---|---|
 | CQ001-016-1 | 40333 | /learn/mental-wellness/quotes/why-not-every-idea-is-true/ | not every idea is true | 91 | pass |
-| CQ001-023-1 | 40337 | /learn/mental-wellness/quotes/why-you-must-leave-the-old-way-behind/ | leave the old way behind | 91 | pass |
+| CQ001-023-1 | 40337 | /learn/motivation/quotes/why-you-must-leave-the-old-way-behind/ | leave the old way behind | 91 | pass |
 | CQ001-054-1 | 42131 | /learn/motivation/quotes/growing-beyond-the-limits-of-your-self-awareness/ | limits of your self-awareness | 88 | pass |
-| CQ001-005-1 | 40324 | /learn/mental-wellness/quotes/why-what-you-think-is-true-might-not-be/ | why what you think is true might not be | 87 | pass |
-| CQ001-015-1 | 40332 | /learn/mental-wellness/quotes/why-we-talk-ourselves-out-of-what-we-want/ | why we talk ourselves out of what we want | 87 | pass |
+| CQ001-005-1 | 40324 | /learn/motivation/quotes/why-what-you-think-is-true-might-not-be/ | why what you think is true might not be | 87 | pass |
+| CQ001-015-1 | 40332 | /learn/motivation/quotes/why-we-talk-ourselves-out-of-what-we-want/ | why we talk ourselves out of what we want | 87 | pass |
 | CQ018-009-1 | 36325 | /learn/mental-wellness/quotes/why-do-i-resist-change-so-much/ | resist change so much | 87 | pass |
 | CQ018-018-1 | 36344 | /learn/mental-wellness/quotes/is-it-human-nature-to-resist-change/ | human nature to resist change | 87 | pass |
 | CQ018-027-1 | 36361 | /learn/mental-wellness/quotes/why-is-it-so-hard-to-change-your-mindset/ | hard to change your mindset | 87 | pass |

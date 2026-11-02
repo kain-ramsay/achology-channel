@@ -38,7 +38,7 @@ Read one editor at a time, 12 seconds apart, nothing saved, in turns agreed with
 | Record | Post | Address | Focus phrase | Score | Against 86 |
 |---|---|---|---|---|---|
 | Q07016__ready-to-change | 36267 | /learn/helping-people/quotes/why-we-resist-change-even-when-its-positive/ | resist change even when it's positive | 88 | pass |
-| yes-50-scientifically-proven-ways-to-be-persuasive | 36218 | /learn/personal-growth/book-notes/yes-50-scientifically-proven-ways-to-be-persuasive/ | Yes! 50 Scientifically Proven Ways to Be Persuasive | 88 | pass |
+| yes-50-scientifically-proven-ways-to-be-persuasive | 36218 | /learn/psychology/book-notes/yes-50-scientifically-proven-ways-to-be-persuasive/ | Yes! 50 Scientifically Proven Ways to Be Persuasive | 88 | pass |
 | Q07042__why-change-never-happens-overnight | 38503 | /learn/helping-people/quotes/why-is-change-so-hard/ | why is change so hard | 85 | **under** |
 
 **Q07042, 85:**
