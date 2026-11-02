@@ -34,6 +34,8 @@ Kain is rewriting the Story's milestone headlines (the `.m-title` lines in page-
 
 **The Story's ending (same sitting).** Kain: "the whole journey just ends really wet ... larger font ... an ecology pulsating bubble icon ... the text could be larger, maybe a little bit longer." Four options (previews/about-board-s209/round-ending.js); his pick the Pulsing Bubble, "It'd be nice if it was just two" lines. Built at 0.707.762: the dash becomes the timeline's Achology bubble on a 40px off-white disc breathing a soft brand orange ring (still for reduced motion); the line Como 24 at 600 dark (21 on a phone), and Code's two-line words, measured in WebKit at 1280 and 1440 (two lines, the second 87 percent full): "695,578 learners worldwide have brought the Achology story this far. The next chapter is written by those who join us. Will you?" ("join us" keeps the /membership/ link). Replaced: "695,578 mature learners from around the world have brought the Achology story this far. Will you join them?" Please check the words against the Standard.
 
+**Then Kain replaced the closing words himself (same sitting, theme 0.707.763):** "695,578 learners worldwide have made learning with Achology part of their story. Could your next chapter start right here, today?" The /membership/ link moved to "start right here" (the old link words are gone); Chat to confirm the link words.
+
 OWED BACK: one line in FROM Chat saying the headlines are written home and the type line is confirmed.
 
 *No em or en dashes in this file; checked before writing.*
