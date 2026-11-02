@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON a theme session (read in full by a factory side session, which touches no theme file).
+> CODE DISPOSITION, S203: WAITS ON the S203 theme main session's run, after the pricing heading fix (read in full there; not started).
 
 **For Code (theme session). What this needs from you:** one run of page_gate.py's spacing-scale line over every page Kain has already signed off, then one DONE listing what it found and what you did.
 

@@ -8,6 +8,6 @@ The look: between 768 and 1199.98 wide, one card to a row, the whole 145/100 pic
 
 Shipped at 0.707.680 (`kh-front.css`, theme commit 5266607c). Read on the build site at 950 wide: four cards 886 wide, each picture 290 wide. Measured in the round at 780, 950 and 1150, and unchanged at 1268 and 390.
 
-Fold-back (Harness Rule 14): the block's prototype and build sheet, if its design folder carries one for the tablet band, still need this state written in; Code owes that export and names it here as not yet done.
+Fold-back (Harness Rule 14): DONE. The Knowledge Hub Homepage prototype in its design folder is re-exported at 0.707.685 by tools/fold_back.py with this ruling in its header (project commit a45dce5c); it fits at 1200, 768 and 390.
 
 OWED BACK: nothing from Chat beyond writing the ruling home.
