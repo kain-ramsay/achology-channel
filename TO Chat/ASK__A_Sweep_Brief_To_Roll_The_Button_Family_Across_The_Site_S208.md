@@ -7,7 +7,7 @@
 **What the brief needs to name, so it is complete enough to build:**
 1. **The bodies of work:** every template and page that draws a control, which is all of them. Code's census photographed 106 kinds on 31 pages (every template); the list is census.json in the theme's preview folder button-standard-s208.
 2. **The signed pages it reaches.** Many are signed (DSRD 6 records). Kain's ruling brings them all into the family; the brief should say the button change is the only change on each, and that the page records take a new line for it rather than a fresh full gate.
-3. **What stays as signed:** the compact Sign In, Listen, the Was This Helpful pills, the cookie pair, the form fields and dropdowns, the course card's View button (as listed in the standard).
+3. **Nothing stays as it was** (Kain, pick 11: "everything means everything"): the six signed exceptions take the family too, the 5.1 and 5.5 registered exceptions are retired, and the brief covers every link and control on the site, including links inside sentences, the main menu and its panels, the footer link columns, breadcrumbs, card and row links, toggles, and the controls inside the mobile menu and lightboxes. The one condition kept is law: the cookie Accept and Reject stay identical to each other.
 4. **Kain's look:** the handful of pages he sees in Safari before it is called done. Code proposes: the home page, Courses, a course page, Pricing, About, the Knowledge Hub front page, a list page, an article, the search page.
 
 **Code's plan once the brief lands, in order:**
