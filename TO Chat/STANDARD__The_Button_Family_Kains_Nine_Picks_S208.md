@@ -26,6 +26,10 @@
 
 11. **Open and close toggles: Ring to Fire** (pick 15). One mark for everything that opens and closes: a plus in a hairline circle, which turns orange and becomes a minus when open. Replaces the chevrons, the About question's open wash and pointer, and the article contents' own round plus and minus.
 
+12. **Form fields: Pill, Fire Focus** (pick 16). Every search box, dropdown, email box and text field is a white hairline pill 46 tall, level with the main button beside it; while typed in, it wears the fire frame. Replaces DSRD 7 5.5's 44 height, 10 corners and focus ring for fields; 5.5's dropdown behaviour and accessibility stand.
+
+**Every part is now decided:** sixteen picks in PICKS.md, nothing left out, one exception (school colours), one legal condition (the cookie pair stays identical).
+
 ## Nothing is left out (Kain, same sitting, pick 11)
 
 Kain: "I said everything, and everything means everything." Code had kept six signed controls out (the compact Sign In, DSRD 8 18.6; the help Listen button and the Was This Helpful controls, 5.1 registered exceptions; the cookie consent pair; the form fields, dropdowns and submits, 5.5; the course card's View button, DSRD 8 section 7) and had not reached several more. **All of them now take the family**, and the registered exceptions in 5.1 and 5.5 are to be retired with the reason recorded. One condition stays, because it is law: the cookie Accept and Reject remain identical to each other (ICO equal prominence), both wearing the same family member.
