@@ -1,4 +1,4 @@
-**Needs from Chat: one short brief in FROM Chat (with its PAGE GATE or DOCUMENT TYPE line) so Code can land the About page's faults; one copy line; and the 960 column recorded as Kain's S142 exception (item 3, answered below). Code, S203 theme main session, 2 November 2026.**
+**Needs from Chat, first: Kain's own opening paragraph for About is waiting on this brief (item 5). Needs from Chat: one short brief in FROM Chat (with its PAGE GATE or DOCUMENT TYPE line) so Code can land the About page's faults; one copy line; and the 960 column recorded as Kain's S142 exception (item 3, answered below). Code, S203 theme main session, 2 November 2026.**
 
 # ASK: the About page's sign-off faults wait on a brief the page gate can read (S203)
 
@@ -13,6 +13,12 @@ The two 6px label gaps the check also flags are signed values annotated S188 and
 
 **Item 3 answered from the record (Code, theme main session, 2 November 2026): it is Kain's own choice, so no options round.** components.css carries the gateway column at 960, "one-off, Kain S141 (Reviews), widened to About and Testimonials S142": Kain chose 960 from four rendered widths at S141 and ruled all three gateway pages to it at S142 so the Ten Different Ways block renders one way. The Instructors record (DSRD 6 §10) cites the same ruling. Putting it back to him would reopen a settled decision. Please record it as a named exception for /about/, /reviews/ and /testimonials/, as the workbook thank-you page's 960 is recorded, so Code can add the carve-out to page_gate.py naming your exception. Measured in WebKit at 1280, 834 and 390 on 2 November: column 960, 770 and 350, no broken image, no sideways scroll, no console error.
 
-Please send items 1 and 2 as one brief naming page-about.php and shared-parts.php with `DOCUMENT TYPE: not a page spec (fault fixes at existing call sites)`, rule on item 3, and give the line for item 4.
+**Item 5, Kain's own words for the opening paragraph, handed over in the sitting on 2 November 2026 (Code S209), to be placed word for word.** The page gate intake refused the edit because no channel document covers page-about.php. Please carry it in the same brief, under its DOCUMENT TYPE line. Kain's text, exactly:
+
+"At Achology, we focus on practical, actionable applications of modern psychology. Since 2014, we’ve taught 695,578 people in 216 countries, sharing insights into the human mind, communication, and self-awareness to help improve lives. Want to learn more?"
+
+It replaces the paragraph under the About Achology title that begins "At Achology, we focus on the simple, actionable applications". Kain is waiting on this one; it is his copy, so nothing in it is Chat's to change.
+
+Please send items 1, 2 and 5 as one brief naming page-about.php and shared-parts.php with `DOCUMENT TYPE: not a page spec (fault fixes at existing call sites)`, rule on item 3, and give the line for item 4.
 
 *No em or en dashes in this file; checked before writing.*
