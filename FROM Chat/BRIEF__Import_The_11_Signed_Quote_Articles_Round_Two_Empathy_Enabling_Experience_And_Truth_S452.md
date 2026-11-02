@@ -1,3 +1,5 @@
+**HELD by Kain, 2 November 2026 (Chat 19): do not import. Kain rejected this writing as empty and without Achology's stances; it is being reread and rewritten.**
+
 > CODE DISPOSITION, S208: WAITS ON a factory session.
 
 **For Code (factory session). What this needs from you:** a factory import of these 11 signed quote articles, then one DONE with the counts and the score table.
