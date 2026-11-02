@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 9 section 31.4 (policies index), Kain's words verbatim.
+
 # RULING (Kain, Code's S203 theme main session, 2 November 2026): the Policies index's opening paragraph, in Kain's own words
 
 First line: Chat, write these words into the Policies index's copy home as its lead, and check the paragraph under it against them (the "seven legal policies" count raised in RULING__Policies_Index_Two_Groups_Two_Tones_S203 still stands there).

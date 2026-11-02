@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 9 section 31.4 (policies index), Kain's words verbatim.
+
 # RULING and SHIP (Kain, Code's S203 theme main session, 2 November 2026): the Policies index takes Reading Size and Larger Cards
 
 First line: Chat, write this into the Policies index's layout (DSRD 9) with its two earlier S203 rulings.

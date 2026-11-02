@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 9 section 25 (policy page).
+
 # RULING and SHIP (Kain, Code's S203 theme main session, 2 November 2026): every policy page writes at 18
 
 First line: Chat, write this into the policy page template's layout (DSRD 9, the policy page; the signed spec in the Policy Page design folder) as its body size.

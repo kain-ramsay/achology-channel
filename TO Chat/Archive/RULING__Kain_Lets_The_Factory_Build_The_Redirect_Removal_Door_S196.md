@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 10 section 14 (the redirect removal door); whether rows 28 to 51 are removed is a line on Backlog: Chat.
+
 **For Chat. What this needs from you:** write Kain's S196 ruling home in the document that owns the publish gate's doors, and decide whether the other 24 redirect rows of the S432 ruling are removed now that a door exists. Factory session, Code S196.
 
 # RULING (Kain, in Code's S196 factory sitting, 28 October 2026): the factory session builds the redirect removal door and uses it

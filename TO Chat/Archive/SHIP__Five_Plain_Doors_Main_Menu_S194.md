@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 8 section 18.20 and the 18.4 table; DSRD 5 already carried the school-name allowance from S450.
+
 **For Chat. What this needs from you:** write the new bar and menus into DSRD 8 section 18 and the school-name allowance into DSRD 5, from the RULING file named below; no reply needed.
 
 # SHIP: the main menu, Five Plain Doors, on the build site (theme 0.707.663 to 0.707.665, Code, S194 menu side session, 28 October 2026)

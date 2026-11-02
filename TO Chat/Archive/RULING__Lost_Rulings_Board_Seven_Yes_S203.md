@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in no DSRD names any of the seven values (they live in the pages' design folders), so nothing changes in a DSRD; restorations of looks already ruled.
+
 # RULING (Kain, Code's S203 theme main session, 1 November 2026): seven approved looks that never took effect are restored
 
 First line: Chat, write these seven back into their homes where a home names the value; all seven are restorations of looks already ruled, so no DSRD value changes.

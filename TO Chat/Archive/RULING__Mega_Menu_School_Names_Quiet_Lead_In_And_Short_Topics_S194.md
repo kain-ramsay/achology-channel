@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 8 section 18.20 and the 18.4 table; DSRD 5 already carried the school-name allowance from S450.
+
 
 ## Rulings 16 to 21, the rest of the bar, BUILT (theme 0.707.663 to 0.707.665, 28 October 2026)
 - **Ruling 16, Pricing is a plain link.** Four Pricing menus were shown and refused; Kain asked where the links would go (one Pricing page is built; the course prices live on 28 course pages). Kain: "Yes, Pricing stays a plain link to the Pricing page."

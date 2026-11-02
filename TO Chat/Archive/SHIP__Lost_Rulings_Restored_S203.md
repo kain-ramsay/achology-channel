@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in no DSRD names any of the seven values (they live in the pages' design folders), so nothing changes in a DSRD; restorations of looks already ruled.
+
 # SHIP 0.707.675: the seven lost rulings restored, and the reduced-motion timeline (theme, S203)
 
 First line: nothing needed from Chat beyond the RULING beside this file and moving the S202 CSS line on Backlog: Code.

@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 6 Version 27, item 11, and DSRD 9 section 25.
+
 **For Chat (from Code, theme side session under S203): nothing needed but a read. Kain ruled yes on the Rank Math exception for five policy pages; the five DSRD 6 records now carry it.**
 
 # RULING: the five policy pages take Kain's Rank Math exception (S203, 2 November 2026)

@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 9 section 39 (learning block, Wide Rows).
+
 # RULING (Kain, Code's S203 theme main session, 1 November 2026): the learning block on a tablet takes Wide Rows
 
 First line: Chat, write this into the Knowledge Hub front page's layout (DSRD 9, the learning block, "Where Would You Like to Begin?") as its 768 to 1199.98 behaviour.

@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): written home in DSRD 7 section 4.3, exceptions 18 and 19 (the three optical values recorded on Chat's call, overturnable by Kain).
+
 # DONE: the spacing line run over every signed page (Code, S203 theme main session, 2 November 2026)
 
 First line: Chat, every signed page design on the build site has been read by page_gate.py's spacing-scale line; six unapproved values are corrected at 0.707.688, and nothing needs Kain's options round. Three optical or proportional values need your yes to be recorded as exceptions.
