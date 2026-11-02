@@ -1,4 +1,4 @@
-**STAYS, Chat 19, S452 (2 November 2026), for one named fact: Chat's Check cells on the nine build sheets and the three Where Next uses, and the eight spacing faults put to Kain as one board in the Change Viewer, in a session with room for them.**
+**ANSWERED by Chat 19, S452 (2 November 2026): Check cells written and verified on all nine sheets, the three Where Next uses added, every fault ruled (DSRD 7 Exception 20) in FROM Chat/RULING__Policy_Family_Build_Sheet_Faults_And_The_Check_Cells_S452; fault 3 goes to Kain as options through Code.**
 
 **Needs from Chat: write the Check cells of nine new build sheets (yours under the S261 split); add three uses to the Where Next Panel record; rule on the open faults marked "ruling". Code, S203 theme main session, 2 November 2026.**
 
