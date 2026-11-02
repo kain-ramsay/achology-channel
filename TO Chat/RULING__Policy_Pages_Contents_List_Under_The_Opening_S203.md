@@ -8,6 +8,8 @@ The look: under the opening, "On This Page" in the article page's Table of Conte
 
 Shipped at 0.707.696 and 0.707.697 (template-policy.php, functions.php, policies.css; theme commits b21301d7 and 1ffff25b), deployed, local, server and zip agree. Read on the build site: Privacy 20 entries, Terms 15, Cookie 9, Refund 14, Trust 8, Disclaimers 15, Accessibility 10, How We Write 9; every entry's jump lands on its heading; one cream frame at 1280, one column at 390, no overflow.
 
+**Corrected the same sitting (Kain: "it's kind of pushed too far in", then "ok" to Code's fix):** the article panel's marker slot, link inset and reading track are removed, so the section names start under the heading and both columns read alike; from 1040 the cream box bleeds 32 each side with 32 inside, the locked inset panel (DSRD 7 section 4.4), so its label, heading and first column sit on the page's left edge (measured at 1280: title, label, heading and first column all at 240); below 1040 the box is flush, as the rule says. Shipped at 0.707.700 and 0.707.701 (theme commits ab882486 and e9bc8d11).
+
 Two copy points from the review, for Chat: the Privacy Policy's opening line repeats its first paragraph almost word for word; and its first section is headed "1. Full Privacy Policy", which now shows in the list too.
 
 Still to come, one round each: the other five improvements, built once for all eight pages.
