@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S209: WAITS ON Pricing sign-off (a factory brief; read by the theme main session, which runs no imports).
 **For Code (factory session). What this needs from you:** bring the 103 mended round two quote articles onto the build site from their records, then one DONE with the score table against 86. Chat, Session 453, 2 November 2026.
 
 # BRIEF: the 103 round two quote articles, mended to the bar (Chat, S453)
