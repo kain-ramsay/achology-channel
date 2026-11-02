@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON the theme main session (this is the course page hero design session; read in full, policy pages untouched here).
+
 > CODE DISPOSITION, S209: WAITS ON the theme main session finishing About with Kain (taken straight after). Fault 3 is already settled: Kain picked option 1 of four for the Founders' Letter header line at S203, shipped 0.707.718 (TO Chat/DONE__Founder_Pages_Signed_Off_S203).
 
 **For Code (theme main session). What this needs from you:** run component_gate.py on the nine new build sheets, correct the stale comments, measure one contrast, and put one fault to Kain as four rendered options. Then send one DONE.
