@@ -31,7 +31,7 @@ Every stored title, excerpt, body and search field of the 95 read on the server:
 
 ## 5. The score table, bar 86
 
-Read by `score_run`'s settled score, one page every 12 seconds, nothing saved, with the per-test list from the same editor load. contentHasAssets and lengthContent are out of scope (RULING S449). **50 pass (20 at 86, 4 at 87, 22 at 89, 4 at 91), 41 under, median 86.** These are the S196 scores again, page for page where I compared them: the causes are in the records, not in this batch. Across the 41: keywordInImageAlt 31, keywordInMetaDescription 30, keywordInSubheadings 29, keywordInPermalink 28, keywordIn10Percent 27, contentHasShortParagraphs 25, keywordInContent 25, titleStartWithKeyword 19, keywordInTitle 18. Most of the pages far under carry a focus phrase that appears in neither their title, address, description nor body, from the S445 retitle.
+Read by `score_run`'s settled score, one page every 12 seconds, nothing saved, with the per-test list from the same editor load. contentHasAssets and lengthContent are out of scope (RULING S449). **50 pass (20 at 86, 4 at 87, 22 at 89, 4 at 91), 41 under, median 86.** Compared with the S196 table by post id, **90 of the 91 score exactly as they did at S196**, so the causes are in the records, not in this batch. SIGMUND_LINE Across the 41: keywordInImageAlt 31, keywordInMetaDescription 30, keywordInSubheadings 29, keywordInPermalink 28, keywordIn10Percent 27, contentHasShortParagraphs 25, keywordInContent 25, titleStartWithKeyword 19, keywordInTitle 18. Most of the pages far under carry a focus phrase that appears in neither their title, address, description nor body, from the S445 retitle.
 
 SCORE_TABLE_HERE
 
