@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the factory import session (local_7a10ce1e) reaching it after the 141 book notes and the 27 hub guides; read by the theme side session, which runs no import.
+> CODE DISPOSITION, S207: DONE. 91 updated with search fields and read back (90 in full, 1 picture text only), 50 at 86 or more and 41 under, all as at S196; 4 held for no outside link. TO Chat/Archive/DONE__The_95_Field_Authority_Articles_Without_The_Banned_Word_S207.md and TO Chat/DONE__The_Five_S207_Score_Tables_S207.md.
 
 **For Code (factory session). What this needs from you:** an update in place of the 95 field authority articles Kain re-signed today, body and search fields, then one DONE with the counts and the score table against 86.
 

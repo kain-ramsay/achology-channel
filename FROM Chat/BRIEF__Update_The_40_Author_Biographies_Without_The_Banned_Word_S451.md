@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON a factory session taking it in the queue's banned word order (read in full by the S451 hub question and Help answer side session, which does not run it).
+> CODE DISPOSITION, S207: DONE. 40 of 40 updated and read back, 14 at 89 or more and 26 under on long paragraphs alone, as at S198. TO Chat/Archive/DONE__The_40_Author_Biographies_Without_The_Banned_Word_S207.md and TO Chat/DONE__The_Five_S207_Score_Tables_S207.md.
 
 **For Code (factory session). What this needs from you:** an update in place of the 40 author biographies Kain re-signed today, body only, then one DONE with the counts and the score table.
 

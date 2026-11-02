@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the factory side session "five banned word batches" (S207), which takes it next after the batch it is on, as the theme main session assigned it.
+> CODE DISPOSITION, S207: WAITS ON the attachment of 16 inbound link sentences from a Chat writing session (RULING__Buy_Cards_Inbound_Links_Instrument_Lines_And_Contents_Lists_S452, item 2); the rest is DONE: 7 imported (6 updated, 1 created and published), 7 redirects proved, 0 of 7 at 86 (no outside link). TO Chat/Archive/DONE__The_Seven_Beliefs_Quote_Articles_Round_Two_S207.md and TO Chat/DONE__The_Five_S207_Score_Tables_S207.md.
 
 **For Code (factory session). What this needs from you:** a factory import of these seven signed quote articles, then one DONE with the counts and the score table.
 

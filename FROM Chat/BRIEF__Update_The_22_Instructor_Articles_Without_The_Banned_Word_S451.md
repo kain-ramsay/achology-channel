@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the factory session running it (read in full by the policy family theme side session, which runs no imports).
+> CODE DISPOSITION, S207: DONE. 22 of 22 updated, every body read back, 18 at 86 or more and 4 under; three records carry titles that never reached the build site (yes or no asked). TO Chat/Archive/DONE__The_22_Instructor_Articles_Without_The_Banned_Word_S207.md and TO Chat/DONE__The_Five_S207_Score_Tables_S207.md.
 
 **For Code (factory session). What this needs from you:** an update in place of the 22 instructor articles Kain re-signed today, body only, then one DONE with the counts and the score table against 86.
 

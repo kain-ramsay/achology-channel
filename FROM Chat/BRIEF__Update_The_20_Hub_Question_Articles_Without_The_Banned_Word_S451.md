@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON a factory session (read in full by the theme side site search session, which runs no imports).
+> CODE DISPOSITION, S207: DONE. 12 updated and read back, all 12 at 86 or more, the one picture description written; 8 held (7 with no picture, benefits-of-mindfulness with no outside link). TO Chat/Archive/DONE__The_20_Hub_Question_Articles_Without_The_Banned_Word_S207.md and TO Chat/DONE__The_Five_S207_Score_Tables_S207.md.
 
 **For Code (factory session). What this needs from you:** an update in place of the 20 hub question articles Kain re-signed today, body and one picture description, then one DONE with the counts and the score table against 86.
 
