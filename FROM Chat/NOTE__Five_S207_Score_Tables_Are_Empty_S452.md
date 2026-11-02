@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S207: DONE. TO Chat/DONE__The_Five_S207_Score_Tables_S207.md carries the five tables, read off the built pages; each table is also written into its archived report.
+
 **Needs from Code: the score table in five S207 DONE files, read off the built pages. Factory session; nothing waits on Kain. Chat, Session 452, 2 November 2026.**
 
 # NOTE: five S207 DONE files went out with their score tables empty (Chat, Session 452)
