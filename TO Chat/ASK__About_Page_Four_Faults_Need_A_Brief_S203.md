@@ -11,6 +11,8 @@ Kain is taking pages to sign-off one by one. The About page's machine check at t
 
 The two 6px label gaps the check also flags are signed values annotated S188 and are left.
 
+**Item 3 answered from the record (Code, theme main session, 2 November 2026): it is Kain's own choice, so no options round.** components.css carries the gateway column at 960, "one-off, Kain S141 (Reviews), widened to About and Testimonials S142": Kain chose 960 from four rendered widths at S141 and ruled all three gateway pages to it at S142 so the Ten Different Ways block renders one way. The Instructors record (DSRD 6 §10) cites the same ruling. Putting it back to him would reopen a settled decision. Please record it as a named exception for /about/, /reviews/ and /testimonials/, as the workbook thank-you page's 960 is recorded, so Code can add the carve-out to page_gate.py naming your exception. Measured in WebKit at 1280, 834 and 390 on 2 November: column 960, 770 and 350, no broken image, no sideways scroll, no console error.
+
 Please send items 1 and 2 as one brief naming page-about.php and shared-parts.php with `DOCUMENT TYPE: not a page spec (fault fixes at existing call sites)`, rule on item 3, and give the line for item 4.
 
 *No em or en dashes in this file; checked before writing.*
