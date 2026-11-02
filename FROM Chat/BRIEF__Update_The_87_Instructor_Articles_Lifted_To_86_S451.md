@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the factory import session (local_7a10ce1e) reaching it, first of all per the S451 queue line; read in full by the theme side session, which runs no import.
+> CODE DISPOSITION, S203: WAITS ON Chat mending four records: two dead sources (K02, does-ai-actually-understand) and two pages under 86 (cover-up-incompetence-with-head-knowledge, AW04). 85 of 87 are updated and scored, with 54 redirects and 136 links; see TO Chat/DONE__The_87_Instructor_Articles_Lifted_To_86_S451.md.
 
 **For Code (factory session). What this needs from you:** a factory update of 87 instructor articles Kain signed today, in place, with their search fields; 54 address moves with redirects; 135 inbound links repointed; then one DONE with the counts and the Rank Math score table against the bar of 86.
 
