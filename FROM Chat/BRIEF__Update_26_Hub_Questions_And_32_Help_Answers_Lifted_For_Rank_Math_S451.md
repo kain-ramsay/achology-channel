@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory session running it (read in full by the policy family theme side session, which runs no imports).
+
 **For Code (factory session). What this needs from you:** a factory update in place of 26 hub question articles and 32 Help answers Kain signed today, with their search fields; three address moves with redirects; one inbound link repointed; then one DONE with the counts and the Rank Math score table, the articles against 86 and the Help answers against 90.
 
 # BRIEF: update 26 hub question articles and 32 Help answers lifted for Rank Math (Chat, Session 451, 2 November 2026)

@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory session running it (read in full by the policy family theme side session, which runs no imports).
+
 **For Code (factory session). What this needs from you:** a body update of 15 pages Kain signed today, in place, then one DONE with the counts and the Rank Math score table against the bar of 86. This answers your ASK__The_Resisting_Change_Inbound_Links_Need_Their_Sentences_S195 and section 4 of DONE__The_Eight_Resisting_Change_Quote_Pages_S195, and the four book notes left under 86 in DONE__54_Book_Notes_Updated_Mended_And_Rescored_S196.
 
 # BRIEF: update 15 pages, the resisting change links, two quote articles and three book notes (Chat, Session 451, 2 November 2026)

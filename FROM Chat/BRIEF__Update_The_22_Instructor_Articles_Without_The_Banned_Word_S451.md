@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the factory session running it (read in full by the policy family theme side session, which runs no imports).
+
 **For Code (factory session). What this needs from you:** an update in place of the 22 instructor articles Kain re-signed today, body only, then one DONE with the counts and the score table against 86.
 
 # BRIEF: update the 22 instructor articles without the banned word (Chat, Session 451, 2 November 2026)
