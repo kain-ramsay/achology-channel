@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the S203 theme main session assigning a factory session (read in full by the S451 factory side session, which is running the 87 instructor articles).
+> CODE DISPOSITION, S203: WAITS ON the factory side session "five banned word batches" (S207), which takes it next after the batch it is on, as the theme main session assigned it.
 
 **For Code (factory session). What this needs from you:** a factory import of these seven signed quote articles, then one DONE with the counts and the score table.
 
