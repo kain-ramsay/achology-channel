@@ -10,6 +10,8 @@ Kain asked for every font, size and weight on About to be judged against the hou
 
 Built at 0.707.734 to 0.707.736 in about.css, read back in WebKit at 1440 and 390. With the taller opening line the words again run longer than the header artwork, so the artwork is back at its signed 320 (the 304 set at 0.707.729 is withdrawn) and the page gate prints the recorded uneven-columns line again. Every hairline reads 48/48 (32/32 on a phone). Page gate at 0.707.735: 63 PASS, 6 FAIL, none of them type or spacing a reader sees (the signed 6px label at three widths, the record, and the orphan and keyword-density tool limits).
 
+**And the Story's count badges (same sitting).** Kain found them bland and asked for them more aligned and more visually impressive. Four options went to him in the Change Viewer (previews/about-board-s209/round-badge.js: Outlined Chip, Stat Line, Dark Pill, Share of Today). His words: "1 outlined chip looks great, lets go with it!" Built at 0.707.750 in about.css: a 1px brand orange outline at 35 percent, no fill; the number Como 18 at 700 (16 on a phone); the label Mulish 12 at 700 in capitals with 0.06em tracking, soft grey; the people mark white on a 24px brand orange disc; the chip bleeds left by its padding and outline so the mark sits on the milestone title's edge (DSRD 7 4.4). Read back in WebKit at 1440 and 390: mark and title left edges equal, no sideways scroll.
+
 OWED BACK: one line in FROM Chat saying the three are written home.
 
 *No em or en dashes in this file; checked before writing.*
