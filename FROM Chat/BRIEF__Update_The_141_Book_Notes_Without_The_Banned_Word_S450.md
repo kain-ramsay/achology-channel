@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S194: WAITS ON a factory session for the 141 book notes (read in full by the S194 menu review theme side session, which imports nothing).
+> CODE DISPOSITION, S205: DONE for 138 (updated, read back, titles matched, all at 86 or more); WAITS ON a-way-of-being, atomic-habits-clear and civilization-and-its-discontents carrying the ruled fifth heading at source. TO Chat/DONE__The_141_Book_Notes_Without_The_Banned_Word_S205.md.
 
 **For Code (factory session). What this needs from you:** an update in place of 141 book notes Kain re-signed today, body and search fields, then one DONE with the counts and the score table against 86.
 
