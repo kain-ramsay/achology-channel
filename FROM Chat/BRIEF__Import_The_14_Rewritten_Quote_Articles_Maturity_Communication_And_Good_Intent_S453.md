@@ -1,4 +1,3 @@
-> CODE DISPOSITION, S208: WAITS ON the next factory session (read in full by the buttons side session, a theme preview session that runs no import).
 > CODE DISPOSITION, S208: WAITS ON the next factory session (read by the course page design session, which runs no imports).
 **For Code (factory session). What this needs from you:** a factory import of these 14 signed quote articles, then one DONE with the counts and the score table.
 
