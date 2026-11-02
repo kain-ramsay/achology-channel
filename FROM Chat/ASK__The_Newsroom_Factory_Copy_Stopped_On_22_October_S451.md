@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S203: WAITS ON the factory side session the S203 theme main session starts for it (read in full there).
+> CODE DISPOSITION, S203: DONE. The copy had no schedule and no session ran it after 22 October; it now runs daily at 19:00 and at login, first new copy e863801 (TO Chat/DONE__The_Newsroom_Factory_Copy_Runs_Daily_Again_S451.md).
 
 **For Code (factory session). What this needs from you:** find why the factory copy into the achology-newsroom repository stopped on 22 October, get it running again, and say so in one DONE.
 
