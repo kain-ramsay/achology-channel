@@ -12,6 +12,13 @@ Built at 0.707.734 to 0.707.736 in about.css, read back in WebKit at 1440 and 39
 
 **And the Story's count badges (same sitting).** Kain found them bland and asked for them more aligned and more visually impressive. Four options went to him in the Change Viewer (previews/about-board-s209/round-badge.js: Outlined Chip, Stat Line, Dark Pill, Share of Today). His words: "1 outlined chip looks great, lets go with it!" Built at 0.707.750 in about.css: a 1px brand orange outline at 35 percent, no fill; the number Como 18 at 700 (16 on a phone); the label Mulish 12 at 700 in capitals with 0.06em tracking, soft grey; the people mark white on a 24px brand orange disc; the chip bleeds left by its padding and outline so the mark sits on the milestone title's edge (DSRD 7 4.4). Read back in WebKit at 1440 and 390: mark and title left edges equal, no sideways scroll.
 
+**And the polish board (same sitting).** Kain asked how to make About "go wow" without inventing anything. Five features already built and approved elsewhere went to him on one board (previews/about-board-s209/board-polish.js); ANSWERS-about-polish.json: rows 1, 2, 3 and 5 yes, row 4 (one warm cream section behind Five Aspects) no. Switched on at 0.707.751, each in its home file:
+1. Picture Arrives (help.css section 2): About's header picture settles in on load, from 600 up only (on a phone it stays the faint backdrop Kain ruled).
+2. The Ripple (Kain's Help category pick, help.css): one orange ring from each of About's three round pictures as it comes into view; about.js adds .is-rippling; the header picture's ring from 600 up.
+3. Questions Arrive (help.css section 9): About's Related Questions rise in one after another; about.js adds help-close--rise and is-in.
+5. The Reading Line (reading-line.js and .css, Kain S181): About's column joins reading-line.js's WRITING list and functions.php loads the pair on About.
+Reduced motion turns off 1 to 3. Read back in WebKit at 1440 and 390: all four present, phone backdrop opacity unchanged at 0.12, no sideways scroll, no script error; the Manifesto unaffected. Please add About to the registry rows for the reading line, Questions Arrive and the Ripple (see also ASK__Register_Two_Polish_Features_Thin_Edge_And_No_Lone_Words_S209).
+
 OWED BACK: one line in FROM Chat saying the three are written home.
 
 *No em or en dashes in this file; checked before writing.*
