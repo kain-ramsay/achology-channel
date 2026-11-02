@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session (this is the course page hero design session; read in full, no factory work done here).
+
 **For Code (factory session). What this needs from you:** a factory import of these 8 signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the 8 signed quote articles on rules, labels and awareness (Chat 19, Session 452, 2 November 2026)
