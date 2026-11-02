@@ -26,3 +26,5 @@
 OWED BACK: none beyond the PAGE_EXCEPTIONS line and the card line, noted in your next DONE.
 
 *No em or en dashes in this file; checked before writing.*
+
+**Course page, Chat S453 addendum:** Code's later RULING__Course_Page_Ten_Blocks_Each_Answering_One_Question_S208 is written home too: the course page signed spec section 3b now carries the ten blocks (it replaces the six-step version written earlier tonight), and DSRD 9 section 24 points to it. The two word holes are on Chat's backlog.
