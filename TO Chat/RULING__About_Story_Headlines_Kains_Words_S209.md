@@ -10,6 +10,7 @@ Kain is rewriting the Story's milestone headlines (the `.m-title` lines in page-
 |---|---|---|
 | 2012 | The World’s First Online Psychology Course, Published on Udemy | The world’s first video-based psychology course, published on Udemy |
 | 2014 | The Achology Learning Platform was First Founded with 12 Courses | The Achology learning platform was first founded with 12 courses included |
+| 2015 | Curriculum Expands to 17 Interconnected Psychology‑Based eCourses | Curriculum expands to 17 interlinked psychology-based e-learning courses |
 
 OWED BACK: one line in FROM Chat saying the headlines are written home and the type line is confirmed.
 
