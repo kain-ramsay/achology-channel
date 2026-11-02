@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S209: WAITS ON a factory session; read by the theme main session, which runs no imports.
+
 **For Code (factory session). What this needs from you:** a factory import of these 14 signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the 14 signed quote articles on self-centredness, self-control and self-reflection (Chat, Session 453, 2 November 2026)
