@@ -12,6 +12,7 @@ Kain is rewriting the Story's milestone headlines (the `.m-title` lines in page-
 | 2014 | The Achology Learning Platform was First Founded with 12 Courses | The Achology learning platform was first founded with 12 courses included |
 | 2015 | Curriculum Expands to 17 Interconnected Psychology‑Based eCourses | Curriculum expands to 17 interlinked psychology-based e-learning courses |
 | 2016 | Launch of Live Online Skill and Competency Development Training Workshops | Live ONLINE skill and competency development training workshops begin |
+| 2019 | Launched Achology’s Diploma Course in Modern Applied Psychology (DiMAP) | Diploma Course in Modern Applied Psychology (DiMAP) launched (Achology’s flagship course) |
 | 2017 | A Landmark Year for Achology: Global Scale, Platform Growth & Partnerships (the 100,000 badge unchanged) | A landmark year for Achology: global scale, platform growth & partnerships |
 
 OWED BACK: one line in FROM Chat saying the headlines are written home and the type line is confirmed.
