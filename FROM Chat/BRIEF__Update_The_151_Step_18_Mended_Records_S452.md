@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session; read by the course page side session, which owns none of it.
+
 # BRIEF: update the 151 records mended at step 18 (Chat writing branch, 2 November 2026)
 
 **Signed by Kain on 2 November 2026 (Step 18 mends, 151 records, read on one reading page, no paid check).** All nine batches were signed through the vault gate.
