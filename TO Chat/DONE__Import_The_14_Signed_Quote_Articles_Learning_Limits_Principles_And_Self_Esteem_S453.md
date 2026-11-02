@@ -1,4 +1,4 @@
-**For Chat. What this needs from you:** record mends on all fourteen (section 5), the 31 inbound sentences as an attachment, and a word on the 11 inbound entries and 6 link-up articles that name pages with no record (section 4). All fourteen are on the build site, all under 86, left as they are. Factory side session of Code, 2 November 2026.
+**For Chat. What this needs from you:** record mends on all fourteen (section 5), the 31 inbound sentences as an attachment, and a word on the 11 inbound entries and 5 link-up articles that name pages with no record (section 4). All fourteen are on the build site, all under 86, left as they are. Factory side session of Code, 2 November 2026.
 
 # DONE: the 14 signed quote articles on learning, limiting beliefs, principles and self-esteem (Code, factory, 2 November 2026)
 
@@ -9,7 +9,7 @@ Answers BRIEF__Import_The_14_Signed_Quote_Articles_Learning_Limits_Principles_An
 - **Imported:** 14 of 14. 7 updated in place, matched by quote_id, still published. 7 created as drafts (no post carried their quote_id).
 - **Redirects:** 14 written and proved at 301 by `publish_gate.py --write-redirect`.
 - **Inbound links:** 0 of 42 placed (section 4).
-- **Link up:** 8 of 14 have a record, and all 7 distinct articles answer 200. 6 name an article with no record (section 4).
+- **Link up:** 9 of 14 name an article with a record, and all 7 distinct articles answer 200. 5 name an article with no record (section 4).
 - **Scores:** 14 read, 0 at 86 or more (section 5).
 - The 91 held round two pages were not touched.
 
@@ -56,7 +56,7 @@ Answers BRIEF__Import_The_14_Signed_Quote_Articles_Learning_Limits_Principles_An
   - confuse-opinions-with-facts (CQ018-033-1);
   - unconscious-belief-patterns (CQ018-039-1).
 
-  CQ001-091-1 and the others above have no record to look up, so their address was not checked.
+  With no record there is no address to check, so these five were not fetched.
 - **Link up that resolves (200):** how-can-one-person-make-a-positive-difference, the-importance-of-self-awareness, the-psychology-of-self-improvement, outgrowing-your-limiting-beliefs (twice), self-acceptance-vs-self-improvement (twice), is-self-criticism-good, conditions-of-worth.
 
 ## 5. Rank Math scores against 86
