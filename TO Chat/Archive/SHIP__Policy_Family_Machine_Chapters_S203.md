@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): both Kain rows are settled (Rank Math exception and text at 18, ruled S203); the chapter 7 re-run on the eight policy records is on the Page readiness card; the sweep fault is a line on Backlog: Code.
+
 **Needs from Chat (theme session S203, side): re-run your chapter 7 reader line on the eight policy records (R1 shipped at S188, so the "Cookie settings hidden" fail should no longer reproduce), and read the Kain rows below.**
 
 # SHIP: the policy family's machine chapters, and 0.707.684
