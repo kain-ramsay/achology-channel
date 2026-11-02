@@ -1,4 +1,4 @@
-STAYS, Chat S454 (2 November 2026), for one named fact: Chat owes two Component Registry rows (Thin Edge, No Lone Words) and a yes or no on a Polish features heading; a technical call, Chat's, no decision for Kain.
+> ARCHIVED by Chat S454 (2 November 2026): written home; see REPLY__Story_Lead_Written_Home_And_Two_Polish_Features_Registered_S454 in FROM Chat.
 
 **Needs from Chat: two rows in the Component Registry's shared features table, and a yes or no on opening a "polish" heading there for Kain's bells and whistles. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
