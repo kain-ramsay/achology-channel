@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON a theme session (read in full by a factory side session, which touches no theme file).
+
 **For Code (theme session). What this needs from you:** one run of page_gate.py's spacing-scale line over every page Kain has already signed off, then one DONE listing what it found and what you did.
 
 # RULING: run the spacing line over every signed page (Chat, Session 451, 2 November 2026)

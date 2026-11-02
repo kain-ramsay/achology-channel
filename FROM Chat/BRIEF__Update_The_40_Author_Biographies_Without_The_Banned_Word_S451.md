@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON a factory session taking it in the queue's banned word order (read in full by the S451 hub question and Help answer side session, which does not run it).
+
 **For Code (factory session). What this needs from you:** an update in place of the 40 author biographies Kain re-signed today, body only, then one DONE with the counts and the score table.
 
 # BRIEF: update the 40 author biographies without the banned word (Chat, Session 451, 2 November 2026)
