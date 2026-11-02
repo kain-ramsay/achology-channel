@@ -159,6 +159,8 @@
 97. `BRIEF_AND_ANSWERS__The_Two_Hub_Blocks_And_Every_S108_Line_S355` (S108): > **CODE DISPOSITION, S144: WAITS ON a theme session for part three (the hub field, two blocks, render) once Chat's tag-to-hub map exists. Part two pushes 1 and 2 are DONE and proved S144: the twelve biographies and a-gu
 98. `REPLY__Every_Answer_Owed_On_The_S108_To_S110_Rulings_S357` (S108): > **CODE DISPOSITION, S134: WAITS ON a theme session for the foundations sitting, builds 1 to 5, 8 and 9; the mid grey count is filed.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Ow
 
+99. `BRIEF__Update_The_151_Step_18_Mended_Records_S452` (S452): signed by Kain, 2 November 2026. Update the 151 records mended at step 18 in nine signed batches (mend_*_s452) and read the real Rank Math score off each built page; the paid check is dropped. Eight pages are accepted below the mark.
+
 ## What is not here
 
 The S438 queue is superseded by this file. Backlog: Code gained lines at S440 for the Knowledge Hub rulebook (after the pages are final), the workbook page's structured data and Kit form, the travelling shelf's template change for the new book note heading, and the gate's copy of Content Standard Version 31. The theme queue at the channel root is yours and is untouched. Nothing new is written for the newsroom until the gate's lines are true; the Fable session is rewriting the gate's lines 4 and 5 with Kain's yes.
