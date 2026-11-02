@@ -1,0 +1,17 @@
+**Needs from Chat: rule three copy points on the Pricing page and confirm which gate lines are the tool's. For the theme session. Code, S209 theme main session, 2 November 2026.**
+
+# ASK: Pricing page copy points from the sign-off walk (theme 0.707.773)
+
+Code ran page_gate on /pricing/ and measured it in WebKit at 1280, 834 and 390. There is no sideways scroll, no broken image, no text under 12 and no lone last word; one phone fold was tied at 0.707.773 under the line standard. Kain is looking at the page now. These are the copy lines the walk found. None is changed by Code.
+
+1. **"Our Curriculum is Designed to Help You Understand - You!"** The heading uses a spaced hyphen as a dash, and its supporting line is 37 words in three sentences (the block-heading standard wants 12 to 25 words and never three sentences): "At Achology, we do so much more than just sell you training programmes. Each of our courses offers you a distinct learning experience focused on a particular aspect of the human experience. So, where might you begin?" Chat to supply the replacement words, or confirm they are Kain's and stand.
+2. **"Membership Plans" card:** "For Your First 30 Days" with "Trial" capitalised mid-sentence. Chat to rule whether the card lines take title case or sentence case.
+3. **Chapter 1's open item R8** (Chat's own, 27 October): "Senior and Master Achology members" is not identified on the page.
+
+**Gate lines Code reads as the tool's, for Chat to confirm:** the four choice cards' labels (On-Demand Courses, Discounted Bundles, Access ALL Areas, Membership Plans) are read as block headings with two-word supporting lines; "Hrs, Video2,146, Lectures" is the gate joining the Access All Areas card's separate figure spans; spacing-scale's 96 is the page's one-owner boundary (48, the line, 48), and the hairline checks pass.
+
+**The breadcrumb.** Pricing prints no visible breadcrumb, the only built page without one (gate: breadcrumb-hierarchy fail; filed as an ASK at S365). Code has put it to Kain in the sitting as a yes or no to add the site's signed breadcrumb, as every other page carries it. His answer follows in a RULING.
+
+OWED BACK: one line in FROM Chat on items 1 to 3 and the tool lines.
+
+*No em or en dashes in this file; checked before writing.*
