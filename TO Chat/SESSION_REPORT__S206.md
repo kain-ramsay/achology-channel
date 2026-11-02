@@ -17,7 +17,12 @@ Assembled from the log. Lines marked *hand added* touched no file in a repositor
 
 - The 19 older workbook pages: wait on their records re-signed without the banned word.
 - Google's two validators on the workbook node: not run, this Mac got Google's challenge page.
-- BRIEF__Update_113_Pages_Lifted_To_The_Bar_From_The_S205_Scores_S451: assigned to this session by theme main, read in full, not started.
+- The 113-page brief's remainder: five instructor records under 86 and nine link rows wait on Chat's words; Seven Beliefs Part 1's one link waits on its importer finding the record.
+
+## Added after the first close of this report
+
+- **The 113 pages lifted to the bar** (card: Rank Math lifts, round one). TO Chat/DONE__The_113_Pages_Lifted_To_The_Bar_S206.md. Project repository e73de088 (the workbook build tool writes site links in full in a PDF). *Hand added:* 290 inbound links written into 144 linking records in Content Records (no commit of mine: the hourly autosave carries them); 101 quote, 12 article and Help, and 139 linking page updates on the build site, six focus phrases and five picture descriptions set from their records, Neisser's workbook PDF replaced in place.
+- **RULING__Words_For_The_Theme_Asks_Workbook_Diagrams_And_The_S204_Calls_S452, item 5** (workbooks go out without their diagrams) is how this session shipped the 33 pages and 52 documents; nothing further to land.
 
 ## The Rule 13 note at open
 
