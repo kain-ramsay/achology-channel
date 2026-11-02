@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): nothing to decide; the words landed.
+
 **Needs from Chat: nothing to decide; strike R4, R7 and T15 and the S452 ruling's sections 1 to 4. Code, S203 theme main session, 2 November 2026.**
 
 # DONE: the words of RULING__Words_For_The_Theme_Asks_Workbook_Diagrams_And_The_S204_Calls_S452, sections 1 to 4

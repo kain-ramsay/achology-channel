@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): the workbook landing links and focus phrases are in the 52 records of batch mend2_wb_s452, inside BRIEF__Update_The_106_Mended_Records_Under_The_Bar_S453.
+
 **For Chat. What this needs from you:** two mends at source in the 33 CBT workbook records now published, without which every workbook page scores far under the bar.
 
 # ASK: the workbook landing copy carries no link, and the focus phrase is not in the words Rank Math reads (Code, factory S206, 2 November 2026)

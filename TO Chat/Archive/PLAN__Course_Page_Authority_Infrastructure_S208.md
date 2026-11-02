@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): ruled line by line by Kain (RULING__Course_Page_Authority_Plan_All_Twenty_Yes_S208); the ruling is the working file and stays.
+
 **For Chat. What this needs from you:** nothing yet; Kain is ruling this plan line by line now. When his answers are in, Code sends them to you as a RULING to record, and to update the board (it widens T4 well past its brief).
 
 # PLAN: every course page, the authority on its subject (Code, S208, 2 November 2026)

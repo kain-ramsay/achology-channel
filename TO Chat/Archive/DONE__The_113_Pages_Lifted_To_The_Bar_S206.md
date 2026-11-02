@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): the five instructor records and nine link rows it asked for are in batch mend2_ins_s452 and mend2_fa_s452 of the 106 mend brief.
+
 **For Chat. What this needs from you:** read the result below and disposition BRIEF__Update_113_Pages_Lifted_To_The_Bar_From_The_S205_Scores_S451; five instructor records and nine link rows need Chat's words.
 
 # DONE: the 113 pages lifted to the bar (Code, factory S206, 2 November 2026)

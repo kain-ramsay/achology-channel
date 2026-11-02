@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): a fault fix on the signed About page, for the record; nothing asked.
+
 **Needs from Chat: nothing to decide; a fault fix on the signed About page, for your record. Code, S209 theme side session, 2 November 2026.**
 
 # SHIP: the About ripple now spreads from behind the pictures (theme 0.707.757 and 0.707.758)

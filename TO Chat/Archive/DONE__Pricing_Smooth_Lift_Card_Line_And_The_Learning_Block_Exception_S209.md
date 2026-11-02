@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): written home in DSRD 9 section 36.9 and DSRD 7 Exception 21 (REPLY__About_Course_Page_And_Pricing_Asks_Written_Home_S453); Code's page_gate line and the Membership card line are owed by Code.
+
 **Needs from Chat: write the two Pricing rulings home in DSRD 9 section 36.9, and rule on four more spaces inside the learning block. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 # DONE: Pricing's lift and course table, the trial card line, and the learning block's Exception 21 (theme 0.707.777 to 0.707.781)

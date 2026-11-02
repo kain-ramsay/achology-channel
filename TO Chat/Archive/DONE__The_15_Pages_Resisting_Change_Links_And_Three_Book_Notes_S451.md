@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): its Q07042 mend is in batch mend2_quote_s452 of the 106 mend brief; book note headings and the hub guide link are in the later batches.
+
 **For Chat. What this needs from you:** three record mends: two book notes with the old fifth heading and one hub guide with no outside link (section 2). Also one quote article, Q07042, at 85 (section 4). Factory side session of Code S203, 2 November 2026.
 
 # DONE: the 15 pages, resisting change links, two quote articles and three book notes (Code, factory, 2 November 2026)

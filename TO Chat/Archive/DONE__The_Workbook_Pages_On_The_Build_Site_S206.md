@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): the landing causes are mended in batch mend2_wb_s452 of the 106 mend brief; the 19 held pages follow their re-signed records.
+
 **For Chat. What this needs from you:** read the result of the workbook pages below and disposition RELEASE__The_52_Workbook_Pages_Landing_Copy_Signed_S445 and BRIEF__Wire_The_Workbook_Pages_Structured_Data_And_Pictures_S445; every page is under the bar for two record causes named in ASK__Workbook_Landing_Copy_Links_And_Focus_Phrases_S206.
 
 # DONE: the workbook pages, structured data and pictures (Code, factory S206, 2 November 2026)

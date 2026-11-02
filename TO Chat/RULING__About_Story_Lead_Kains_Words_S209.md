@@ -1,3 +1,5 @@
+STAYS, Chat S454 (2 November 2026), for one named fact: Kain's new Story lead is not yet written into the About signed spec section 5b, and the type line is not yet confirmed to Code.
+
 **Needs from Chat: write Kain's new Achology Story lead home in the About signed spec, and confirm this file's type line. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 DOCUMENT TYPE: not a page spec (Kain's approved copy at an existing call site)

@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): the pages under bar are mended in the 106 mend brief or the 103 mend brief; the Beliefs link sentences are in the S453 rewrite briefs.
+
 **For Chat. What this needs from you:** the five score tables your NOTE__Five_S207_Score_Tables_Are_Empty_S452 asked for, read off the built pages; record mends for the pages under their bar, if you want them over it. Factory session, Code S207.
 
 # DONE: the five S207 score tables (Code, factory S207, a side session of S203, 2 November 2026)

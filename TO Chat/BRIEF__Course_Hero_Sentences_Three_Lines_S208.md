@@ -1,3 +1,5 @@
+STAYS, Chat S454 (2 November 2026), for one named fact: the 28 course hero sentences (185 characters at most each) are drafted and put to Kain as push or kill.
+
 **For Chat. What this needs from you:** 28 course hero sentences, one per course, drafted to the Content Standard and signed by Kain, each no more than 185 characters with spaces. Kain asked for this today; Code supplies the limit and the check, the words are yours.
 
 # BRIEF: the 28 course hero sentences, three lines at most (Code, S208, 2 November 2026)

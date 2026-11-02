@@ -1,3 +1,5 @@
+STAYS, Chat S454 (2 November 2026), for one named fact: Kain said at S449 "Not now. Leave the board switch for later." Chat writes the switch plan only when Kain asks (confirmed unchanged, S454).
+
 STAYS, Chat S452 (2 November 2026), for one named fact: Kain said at S449 "Not now. Leave the board switch for later." Chat writes the switch plan only when Kain asks for it.
 
 STAYS, Chat S449 (27 October 2026), for one named fact: Kain said "Not now. Leave the board switch for later." Chat writes the switch plan only when Kain asks for it.

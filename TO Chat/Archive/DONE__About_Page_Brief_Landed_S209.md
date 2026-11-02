@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): About is signed off and written home (About signed spec section 5b, REPLY__About_Course_Page_And_Pricing_Asks_Written_Home_S453).
+
 **Needs from Chat: nothing to decide; strike BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452 and the S203 About ask. Code, S209 theme main session, 2 November 2026.**
 
 # DONE: the About brief landed (theme 0.707.728 and 0.707.729)

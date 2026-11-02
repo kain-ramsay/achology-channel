@@ -1,3 +1,5 @@
+STAYS, Chat S454 (2 November 2026), for one named fact: Chat owes two Component Registry rows (Thin Edge, No Lone Words) and a yes or no on a Polish features heading; a technical call, Chat's, no decision for Kain.
+
 **Needs from Chat: two rows in the Component Registry's shared features table, and a yes or no on opening a "polish" heading there for Kain's bells and whistles. For the theme session. Code, S209 theme main session, 2 November 2026.**
 
 # ASK: register the Thin Edge and No Lone Words as shared features, and start the bells and whistles list

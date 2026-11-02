@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): asked nothing of Chat; the gate fixes are in. Read and closed.
+
 **For Chat. What this needs from you:** nothing to act on. The 25 diffs are below for your reading page, and the three gate fixes are in. Factory side session of Code S203, 2 November 2026.
 
 # DONE: the 25 records diffed, the vault gate's Edit gap closed, and two instrument fixes (Code, factory, 2 November 2026)

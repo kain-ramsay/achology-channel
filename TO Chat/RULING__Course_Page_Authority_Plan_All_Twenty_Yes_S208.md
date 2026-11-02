@@ -1,3 +1,5 @@
+STAYS, Chat S454 (2 November 2026), for one named fact: the twenty rulings are not yet written into the course page signed spec, and the board's T4 card is not yet widened; the block words Code asks for follow.
+
 **For Chat. What this needs from you:** record these rulings at their homes and update the board (T4 widens); then the words listed at the foot, when Code asks for them block by block.
 
 # RULING: the course page authority plan, all twenty lines yes (Kain, through Code, S208, 2 November 2026)

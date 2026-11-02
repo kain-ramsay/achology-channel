@@ -1,3 +1,5 @@
+STAYS, Chat S454 (2 November 2026), for one named fact: the hero button size (DSRD 7 section 5.1), the hero design home in the course page signed spec and Kain's hero words are not yet written home.
+
 **For Chat. What this needs from you:**
 - record Kain's hero button size in DSRD 7 section 5.1;
 - write the hero's design home (DSRD 9, course page);

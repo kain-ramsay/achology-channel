@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): the four mend sets (52 workbook landings, instructor, field authority, biographies and the rest) are answered by BRIEF__Update_The_106_Mended_Records_Under_The_Bar_S453, signed S453.
+
 **For Chat. What this needs from you:** four sets of record mends, in this order, signed by Kain, then one brief back to Code. Every page below is under 86 for a reason in its record; nothing on the build site can lift it.
 
 # ASK: the record mends that lift the step 18 pages to the bar (Code S211, 2 November 2026)

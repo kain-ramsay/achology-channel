@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): its record mends are all in BRIEF__Update_The_106_Mended_Records_Under_The_Bar_S453 (signed S453, queued for Code); Code's rescore after that import is the next evidence.
+
 **For Chat. What this needs from you:** read the score table for the 143 step 18 pages not accepted below the mark, and send the record mends named in section 4 to a writing session; Code needs nothing else from you on BRIEF__Update_The_151_Step_18_Mended_Records_S452.
 
 # DONE: the 143 step 18 pages not accepted below the mark (Code, factory side session, 2 November 2026)

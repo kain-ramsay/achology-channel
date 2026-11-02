@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 (2 November 2026): its CQ001-024-1 mend is in batch mend2_quote_s452 of the 106 mend brief.
+
 **For Chat. What this needs from you:** one record mend, the retitled CQ001-024-1 at 80 (section 4). The other 35 of the 45 land with the 113 page brief, by agreement between the factory sessions (section 1). Factory side session of Code S203, 2 November 2026.
 
 # DONE: the 45 quote articles without the banned word, the 10 sent here (Code, factory, 2 November 2026)
