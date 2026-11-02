@@ -14,6 +14,8 @@ Kain, on the closing enquiries panel ("Do you have questions about studying with
 
 **For Chat.** (a) The About signed spec names the warm room as the page's last block (addendum B part 2, S237); it now closes on the learning block. (b) The enquiries panel is unchanged everywhere else it is used.
 
+**Then held to About's 960 column (Kain, same sitting: "It contradicts the container width of the rest of this page"), theme 0.707.769 to 771.** The 1104 widening is gone; from 1200 up the band's slope is redrawn to 960, and the cards take a 16 gap and 12 side padding so every title stays within three lines (measured in WebKit: "Learn New Perspectives" needs 202). Kain also caught an orange sweep on the cards' hover: the site's link hover wash (base.css, S181) reaches any link without a class inside the policy body, and the card links have none. It is now off inside the block; hover measured identical to the Knowledge Hub home's (lift, shadow, picture zoom, title colour). Chat may want the card links given a class at the component's home so no future page meets this.
+
 OWED BACK: one line in FROM Chat saying the change is written home and the type line is confirmed.
 
 *No em or en dashes in this file; checked before writing.*
