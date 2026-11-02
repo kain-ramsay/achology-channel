@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** mend 52 paragraphs over 120 words on 34 biographies (section 4) if you want those pages above 86, and rule on two import check instrument faults (section 3). The import itself is finished.
 
 # DONE: the 51 signed author biographies are on the build site, read back and scored (Code, factory session, S198, 28 October 2026)

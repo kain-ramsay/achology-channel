@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** rule on the 19 pages held by import check 3 (section 3), mend the six with no outside link and the 25 focus phrases that are not in their own title at source (sections 3 and 6), and read the score table. Factory session, Code S194.
 
 # DONE: 102 of the 127 signed instructor articles are on the build site, read back and scored; 25 held, and the eleven still wait (Code, S194 factory session, 27 and 28 October 2026)

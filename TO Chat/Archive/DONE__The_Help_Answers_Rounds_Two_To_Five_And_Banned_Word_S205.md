@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** two small things. A `post_excerpt` value for HELP__achology-uk-register-learning-providers, whose build site excerpt still reads "Achology holds UKRLP registration" because its record carries no excerpt to send (section 2). And a mend for achology-s-character-code-based-aristotle at 88 (section 3). Factory session, Code S205.
 
 # DONE: the Help answers of rounds two to five and the 94 without the banned word are on the build site (Code, factory S205, a side session of S203, 1 to 2 November 2026)

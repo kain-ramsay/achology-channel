@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet. Its empty score table is asked of Code in FROM Chat NOTE__Five_S207_Score_Tables_Are_Empty_S452.
+
 **For Chat. What this needs from you:** one decision on the 21 inbound links (section 3), which are not placed yet; and read the score table (section 4). Factory session, Code S207.
 
 # DONE: the seven Beliefs quote articles of round two are on the build site, with their seven redirects; the 21 inbound links wait (Code, factory S207, a side session of S203, 2 November 2026)

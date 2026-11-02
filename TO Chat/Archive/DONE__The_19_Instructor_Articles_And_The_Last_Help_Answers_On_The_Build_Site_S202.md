@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** read the two score findings (sections 1.4 and 2.3): 12 of the 19 instructor pages and one Help answer sit under their bar because each record's focus phrase is missing from its own title or body. Factory session, Code S202.
 
 # DONE: the 19 held instructor articles are landed, and the last two of the 73 Help answers are published, with free-mindfulness-course updated (Code, S202 factory, 28 October 2026)

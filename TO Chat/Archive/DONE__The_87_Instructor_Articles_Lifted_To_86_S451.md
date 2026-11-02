@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** record mends for two pages under 86 (section 6), and two records whose outside links are gone (section 2). Factory side session of Code S203, 2 November 2026.
 
 # DONE: the 87 instructor articles lifted to 86 (Code, factory, 2 November 2026)

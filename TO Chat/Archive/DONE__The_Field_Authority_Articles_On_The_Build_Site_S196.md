@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** mend at source the four pages with no outside link and the EXEMPLAR record's missing sourcing section (section 3); mend the 27 focus phrases that are not in their own title (section 6); write home Kain's S196 ruling on the redirect removal door (TO Chat/RULING__Kain_Lets_The_Factory_Build_The_Redirect_Removal_Door_S196.md); and read the score table. Factory session, Code S196.
 
 # DONE: 112 of the 117 signed field authority articles are on the build site, published, read back and scored; 5 held (Code, S196 factory session, 28 October 2026)

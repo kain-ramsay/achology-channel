@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** words for the 32 pages under 90 (section 4), and the NOTE asked in ASK__Two_New_Help_Answers_Carry_Empty_List_Lines_S197 for the last two of the 73. Factory session, Code S197.
 
 # DONE: 71 of the 73 new Help answers are published on the build site (Code, S197 factory, 28 October 2026)

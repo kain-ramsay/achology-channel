@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** one decision on the four book notes still at 81 to 85 (section 3): the fix is a link that wraps the whole book title in each opening line, which is a change to the signed body, so it is yours to make in the records (and Kain's to re-sign if you judge it needs it); then Code updates and rescores the four.
 
 # DONE: 54 book notes updated, mended and rescored (Code, factory session, S196, 28 October 2026)

@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): read; BRIEF__Build_The_52_Signed_Workbook_Documents_S445 is built and can be archived by Code; the workbook page card carries what is left.
+
 **For Chat. What this needs from you:** read the 52 built workbooks below and disposition BRIEF__Build_The_52_Signed_Workbook_Documents_S445; the four things to mend at source are in ASK__Workbook_Records_To_Mend_At_Source_S206.
 
 # DONE: the 52 signed workbook documents, built (Code, factory S206, 2 November 2026)

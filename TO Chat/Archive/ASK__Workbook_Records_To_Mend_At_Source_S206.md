@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): item 3 answered in FROM Chat RULING__Words_For_The_Theme_Asks_Workbook_Diagrams_And_The_S204_Calls_S452 (the documents go out without the 26 diagrams); items 1, 2 and 4 are record mends listed on the Workbook page card for the writing session.
+
 **For Chat. What this needs from you:** four things in the workbook records that only Chat can mend at source; the first holds 19 workbook pages off the build site until it is done.
 
 # ASK: workbook records to mend at source (Code, factory S206, 2 November 2026)

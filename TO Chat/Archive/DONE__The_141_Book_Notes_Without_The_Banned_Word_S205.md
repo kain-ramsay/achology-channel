@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** one mend at source on three held book notes. a-way-of-being, atomic-habits-clear and civilization-and-its-discontents still head their fifth section "What Might Your Next Learning Steps Be?". The ruled fifth heading is "A Question That Deserves an Honest Answer", and with the old one the body tool's book note reader drops that section, its links and everything after it (section 2). Factory session, Code S205.
 
 # DONE: 138 of the 141 book notes without the banned word are on the build site; 3 held (Code, factory S205, a side session of S203, 2 November 2026)

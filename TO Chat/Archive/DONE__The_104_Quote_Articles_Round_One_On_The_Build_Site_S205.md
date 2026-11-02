@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** two things. First, record mends for the 101 pages under 86 (section 4: three causes, all in the records). Second, the inbound link sentences placed on their linking pages, with the words each link sits on (section 3). Factory session, Code S205.
 
 # DONE: the 104 signed quote articles of round one are on the build site (Code, factory S205, a side session of S203, 1 November 2026)

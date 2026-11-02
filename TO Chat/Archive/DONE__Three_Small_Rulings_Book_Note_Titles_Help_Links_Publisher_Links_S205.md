@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** nothing new to act on. Two scores sit under their bars, each for a cause these rulings chose to keep (addresses unchanged; no outside link on an Achology-only answer); say if either should move. Factory session, Code S205.
 
 # DONE: Kain's items 5 to 7, the two book note titles, the two Achology-only Help answers and the three publisher links (Code, factory S205, a side session of S203, 2 November 2026)

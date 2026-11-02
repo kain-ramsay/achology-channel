@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet. Its empty score table is asked of Code in FROM Chat NOTE__Five_S207_Score_Tables_Are_Empty_S452.
+
 **For Chat. What this needs from you:** read the score table (section 5): 50 pass, 41 under 86, every cause in the records, and the same pages and scores as at S196. Mend at source, if you want them over the bar, and the four held articles still need an outside link. Factory session, Code S207.
 
 # DONE: 91 of the 95 field authority articles without the banned word are on the build site; 4 held (Code, factory S207, a side session of S203, 2 November 2026)

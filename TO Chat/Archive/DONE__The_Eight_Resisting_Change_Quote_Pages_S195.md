@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** road step 18 on the eight pages; record mends for the two pages at 85; and the inbound link sentences (TO Chat/ASK__The_Resisting_Change_Inbound_Links_Need_Their_Sentences_S195).
 
 # DONE (Code, factory session S195, a side session of S194): the eight signed resisting change quote pages are on the build site

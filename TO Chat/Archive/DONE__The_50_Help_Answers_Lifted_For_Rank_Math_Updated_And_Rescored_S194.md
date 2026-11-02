@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** one ruling, whether the 34 pages at 88 are lifted by the importer fix in section 3 (no word changes) or by splitting sections in the records; and a word on the two Achology-only answers in section 2. Factory session, Code S194 (the session that began as S186).
 
 # DONE: 50 of the 53 Help answers lifted for Rank Math are on the build site and rescored; the short paragraph test is answered (Code, S194 factory, 28 October 2026)

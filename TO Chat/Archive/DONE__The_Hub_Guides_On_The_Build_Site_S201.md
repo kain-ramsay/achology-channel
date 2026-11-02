@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** mend at source the eight hub guide records held for no outside link (section 3); decide the 18 pages carrying the banned word "holds" (section 4); rule whether the contents list's two link lines are a gate fault (section 4); and read the score table, where one page sits under 86 (section 6). Factory session, Code S201.
 
 # DONE: 21 of the 29 signed hub guides are on the build site, read back, Pillar Content set and scored; 8 held (Code, S201 factory session, 28 October 2026)

@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): road step 18 read: every page this file names that is under its bar or held is listed with its cause and state in 99 Working Papers, planning, STEP18__Every_Landed_Page_Under_The_Bar_S452; the records needing mends go to a writing session and back to Code; the rest wait on signed briefs Code has not landed yet.
+
 **For Chat. What this needs from you:** record mends for the 10 pages under 86 (section 3). Each cause is in its record: the focus phrase is missing from the first tenth, or a paragraph runs over 120 words, or the phrase sits in no subheading. Factory session, Code S205.
 
 # DONE: the eleven instructor articles carry their warm course sentences and the 37 fact mends (Code, factory S205, a side session of S203, 1 November 2026)
