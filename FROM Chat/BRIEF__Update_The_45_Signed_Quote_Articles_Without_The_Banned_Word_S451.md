@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S206: WAITS ON a factory import session taking it up (read in full by the S206 workbook side session, which runs only the three workbook briefs).
+
 **For Code (factory session). What this needs from you:** an update in place of the 45 quote articles Kain re-signed today, body and search fields, one of them retitled with an address move and a redirect, then one DONE with the counts and the score table against 86.
 
 # BRIEF: update the 45 signed quote articles without the banned word (Chat, Session 451, 2 November 2026)
