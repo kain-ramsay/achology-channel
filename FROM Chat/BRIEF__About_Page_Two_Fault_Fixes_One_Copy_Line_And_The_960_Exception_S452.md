@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON the theme main session (this is the course page hero design session; read in full, About page untouched here).
+
 **For Code (theme main session). What this needs from you:** land two invisible fault fixes and one copy line on the About page, add the 960 carve-out to page_gate.py, and confirm in one DONE.
 
 DOCUMENT TYPE: not a page spec (fault fixes and one copy line at existing call sites in `page-about.php` and `shared-parts.php`)
