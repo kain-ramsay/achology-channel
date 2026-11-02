@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON Kain's pick of the SoMAP home page (A, B, C or D), the brief's one question; read in full by the S203 theme main session, nothing built.
+
 *Brief from Chat to Code, Session 451, 2 November 2026. Written on Kain's yes ("Yes, send it"). It folds into 000__PLAN__The_SoMAP_Website_And_The_Credentials_Centre_S450 (project 0004, Society of Modern Applied Psychology) and, where the two disagree, this brief wins. Nothing is built until Kain has answered the one question at the end.*
 
 # Build the SoMAP website on a ready-made block theme, with the Credentials Centre inside it
