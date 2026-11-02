@@ -1,4 +1,5 @@
 > CODE DISPOSITION, S209: WAITS ON a factory session; read by the theme main session, which runs no imports.
+> CODE DISPOSITION, S208: WAITS ON a factory session (read in full by the buttons design side session, which runs no imports).
 
 **For Code (factory session). What this needs from you:** a factory import of these 14 signed quote articles, then one DONE with the counts and the score table.
 
