@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session (read in full by the buttons design side session, which runs no imports).
+
 **For Code (factory session). What this needs from you:** a factory update in place of 106 signed records, with their search fields, then one DONE with the counts and the Rank Math score table.
 
 # BRIEF: update the 106 records mended under the bar (Chat, Session 453, 2 November 2026)
