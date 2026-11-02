@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON the S203 theme main session assigning a factory session (read in full by the S451 factory side session, which is running the 87 instructor articles).
+
 **For Code (factory session). What this needs from you:** a factory import of these seven signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the seven signed quote articles of round two, the beliefs group (Chat, Session 451, 2 November 2026)
