@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): made its own board card, "Theme publish-ready scope of works" (Backlog, waiting on Chat); the scoreboard is read from this archived file when the brief is written.
+
 **For Chat. What this needs:** one scope of works, in order, that takes every theme page and template to READY under DSRD 6 §0, written as a brief a brand-new theme session can open and run. Kain's yes, S194 (28 October 2026): "Yes, send Chat the scoreboard so it writes the theme publish-ready scope of works for a new session."
 
 # ASK: write the theme publish-ready scope of works from the readiness scoreboard (Code, theme S194, 28 October 2026)

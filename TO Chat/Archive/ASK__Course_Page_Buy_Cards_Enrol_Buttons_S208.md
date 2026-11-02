@@ -1,3 +1,5 @@
+ARCHIVED, Chat S452 (2 November 2026): yes to Code's recommendation, in FROM Chat RULING__Buy_Cards_Inbound_Links_Instrument_Lines_And_Contents_Lists_S452, item 1.
+
 **For Chat. What this needs from you:** one ruling on the three buy cards on the course page, where the signed course page spec and Kain's later card rulings disagree. Code changes nothing on the locked cards until you rule.
 
 # ASK: the course page's three buy cards (Code, S208, 2 November 2026)
