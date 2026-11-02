@@ -24,7 +24,7 @@ Two lines to hold above all: the orange disc points the way, and the fire frame 
 
 ## How each page is proved
 
-Re-run your census on every page in WebKit at 1070, 1268 and 390 (desktop, tablet, phone), the same instrument that found the problem: every control reads its member's values and none of the old ones is left. Check hover, keyboard focus and pressed states, the dark bands, and the open mobile menu and lightboxes, which the first census could not reach. Run the page gate on each page; contrast is checked on every state, hover included (white on the Glowing Ember band keeps 4.55:1). A page is "changed, not verified" until its three widths pass.
+Re-run your census on every page in WebKit at a desktop, a tablet and a phone width (1268, 768 and 390, plus 1070 where the first census ran), the same instrument that found the problem: every control reads its member's values and none of the old ones is left. Check hover, keyboard focus and pressed states, the dark bands, and the open mobile menu and lightboxes, which the first census could not reach. Run the page gate on each page; contrast is checked on every state, hover included (white on the Glowing Ember band keeps 4.55:1). A page is "changed, not verified" until its three widths pass.
 
 ## Kain's look, before anything is deployed
 

@@ -43,6 +43,8 @@
 
 **Added at Chat 19, S452 (2 November 2026), theme main session, after the About brief:** RULING__Policy_Family_Build_Sheet_Faults_And_The_Check_Cells_S452 (run the gate on the nine sheets, record six signed spacing exceptions, measure one contrast, correct stale comments, four options for the Founders' Letter header).
 
+**Added at Chat, S453 (2 November 2026), theme main session, after the policy family ruling:** BRIEF__Sweep_The_Button_Family_Across_The_Build_Site_S453 (Kain's button family, DSRD 7 section 5.1, onto every control of every page: tokens and components first, then page by page; census rerun in WebKit at three widths; nothing deployed until Kain has seen the pages in the Change Viewer; five open questions to put to him as options; one DONE). Answers ASK__A_Sweep_Brief_To_Roll_The_Button_Family_Across_The_Site_S208.
+
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat on Thursday 22 October 2026 at the Session 442 close from the folder as it stands; the older items keep their S441 order.**
 
 **Added at Chat S451 (2 November 2026), factory, open first of all:** BRIEF__Update_113_Pages_Lifted_To_The_Bar_From_The_S205_Scores_S451 (101 round one quote articles, 10 instructor articles and 2 Help answers Kain signed today, answering your three S205 DONEs: search finish mends, five new quote phrases, 299 inbound links on existing words from its attachment, rescore against 86 and 90; one DONE).
