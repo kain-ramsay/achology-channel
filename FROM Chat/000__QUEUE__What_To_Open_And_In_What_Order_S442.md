@@ -2,9 +2,9 @@
 
 **Added at Chat 19, S452 (2 November 2026), factory, open first of all:** BRIEF__Import_The_10_Signed_Quote_Articles_Influence_Response_And_Hope_S452 (10 quote articles Kain signed, the first written to the new standard after the hold; import by quote_id, redirects, links, score against 86).
 
-**Added at Chat 19, S452 (2 November 2026), factory, run after the inner dialogue, judging and simplicity brief:** BRIEF__Import_The_8_Signed_Quote_Articles_Rules_Labels_And_Awareness_S452 (8 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
-
 **Added at Chat 19, S452 (2 November 2026), factory, run after the influence, response and hope brief:** BRIEF__Import_The_10_Signed_Quote_Articles_Inner_Dialogue_Judging_And_Simplicity_S452 (10 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
+
+**Added at Chat 19, S452 (2 November 2026), factory, run after the inner dialogue, judging and simplicity brief:** BRIEF__Import_The_8_Signed_Quote_Articles_Rules_Labels_And_Awareness_S452 (8 quote articles Kain signed, written to the new standard; import by quote_id, redirects, links, score against 86).
 
 **Added at Chat 19, S452 (2 November 2026), theme main session:** BRIEF__About_Page_Two_Fault_Fixes_One_Copy_Line_And_The_960_Exception_S452 (About: picture loads first, ten icons from the registry, the 960 carve-out, one copy line; answers the S203 About ask and both S209 About rulings).
 
