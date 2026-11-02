@@ -45,6 +45,8 @@ Answers BRIEF__Update_26_Hub_Questions_And_32_Help_Answers_Lifted_For_Rank_Math_
   - picture description (articles);
   - the stored body, character for character, against `article_body_update`'s own conversion of the record.
 
+**Correction, added after filing.** Factory S205 then found that the record reader cut a field at any pipe. Two of the shared Help answers carry " | Achology.com" in their search title: what-do-you-learn-in-behavioural-psychology and what-do-you-learn-in-social-psychology. So the send and this read-back both used the shortened title, and "match" was true only of the shortened value. S205 fixed the body tool (theme d9a3183d) and re-sent both pages whole. None of the other 56 records carries a pipe in any search field.
+
 ## 4. Redirects
 
 Written and proved by `publish_gate.py --write-redirect`. Each old address answers 301 to its new one:
