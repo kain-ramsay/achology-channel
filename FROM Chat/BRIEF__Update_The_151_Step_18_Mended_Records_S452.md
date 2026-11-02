@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S211: DONE. 148 of 151 on the build site from their records and read back (3 hub questions have no post and no picture, not created); 52 workbooks rebuilt, 19 published new, 33 updated; 5 held hub guides published; 62 of 143 at 86 or more, the 8 accepted read 48 to 84. See TO Chat/DONE__Step_18_Mends_143_Pages_S452.md and TO Chat/DONE__Step_18_Mends_Eight_Accepted_Below_The_Mark_S452.md.
+
 > CODE DISPOSITION, S208: WAITS ON a factory session; read by the course page side session, which owns none of it.
 
 # BRIEF: update the 151 records mended at step 18 (Chat writing branch, 2 November 2026)
