@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session (read in full by the buttons design side session, which runs no imports).
+
 **For Code (factory session). What this needs from you:** a factory import of these 12 signed quote articles, then one DONE with the counts and the score table.
 
 # BRIEF: import the 12 signed quote articles on experience, truth and perspective (rewritten) (Chat, Session 453, 2 November 2026)
