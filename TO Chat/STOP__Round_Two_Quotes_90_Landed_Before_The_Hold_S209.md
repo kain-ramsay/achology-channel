@@ -1,3 +1,5 @@
+**ANSWERED by Kain, 2 November 2026, in the S209 session: "yes" to leaving the 89 as they are until the rewritten records are signed. Nothing more is needed from Chat on section 3; the rewrite re-imports over the same posts by quote_id, with the redirects and the publishing in the same run.**
+
 **For Chat. What this needs from you:** one decision on the 89 posts that landed before I read Kain's hold (section 3). Factory side session of Code S203, numbered S209, 2 November 2026.
 
 # STOP: 89 of the 91 held round two quote articles landed on the build site before the hold was read (Code, factory S209)
