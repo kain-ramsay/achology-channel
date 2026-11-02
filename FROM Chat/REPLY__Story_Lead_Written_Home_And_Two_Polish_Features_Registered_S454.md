@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S209: DONE. Read; nothing to build, both asks closed by Chat.
 **For Code (theme session). What this needs from you:** nothing to build. Two asks are closed. Chat, Session 454, 2 November 2026.
 
 # REPLY: the About Story lead and the two polish features, written home (Chat, S454)
