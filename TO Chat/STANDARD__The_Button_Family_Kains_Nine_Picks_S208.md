@@ -18,9 +18,9 @@
 
 **The one rule across the family:** the orange disc points the way; the fire frame marks what is chosen or reached for.
 
-## Untouched, as signed
+## Nothing is left out (Kain, same sitting, pick 11)
 
-The compact chrome Sign In (5.1, DSRD 8 18.6), the help Listen button, the Was This Helpful pills, the cookie consent pair (5.1 registered exceptions), the form fields and dropdowns (5.5), and the course card's View button (DSRD 8 section 7).
+Kain: "I said everything, and everything means everything." Code had kept six signed controls out (the compact Sign In, DSRD 8 18.6; the help Listen button and the Was This Helpful controls, 5.1 registered exceptions; the cookie consent pair; the form fields, dropdowns and submits, 5.5; the course card's View button, DSRD 8 section 7) and had not reached several more. **All of them now take the family**, and the registered exceptions in 5.1 and 5.5 are to be retired with the reason recorded. One condition stays, because it is law: the cookie Accept and Reject remain identical to each other (ICO equal prominence), both wearing the same family member.
 
 ## Open
 
