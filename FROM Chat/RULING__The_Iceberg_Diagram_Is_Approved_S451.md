@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S203: WAITS ON a session that touches the diagram tool (read in full by the S203 theme main session, which does not).
+
 **For Code (any session that touches the diagram tool). What this needs from you:** mark shape 6, the iceberg on the ABC model, as approved in the tool's records and on SITTING__Every_Shape_Drawn_By_The_Tool_S171.
 
 # RULING: the iceberg diagram is approved (Chat, Session 451, 2 November 2026)
