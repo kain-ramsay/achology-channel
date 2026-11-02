@@ -20,6 +20,8 @@
 
 8. **Links in the writing: Faint Line that Firms** (pick 12). Every link inside a sentence on every page: plain AA orange words (#B8460F, #FFC08F on dark), a 1px underline in the same orange at 25 per cent that turns solid when pointed at or focused. No wash, no motion. Kain chose it plain on purpose ("I don't want this to be a feature"); it **replaces the link hover wash** of DSRD 8 section 43 for links in the writing.
 
+9. **Navigation links: Line that Firms** (pick 13). The header menu, breadcrumbs, article contents and footer columns keep their sizes and colours; pointed at or focused, a 1px orange line appears under the words, and the page you are on keeps it. With pick 12, every link on the site answers one way.
+
 ## Nothing is left out (Kain, same sitting, pick 11)
 
 Kain: "I said everything, and everything means everything." Code had kept six signed controls out (the compact Sign In, DSRD 8 18.6; the help Listen button and the Was This Helpful controls, 5.1 registered exceptions; the cookie consent pair; the form fields, dropdowns and submits, 5.5; the course card's View button, DSRD 8 section 7) and had not reached several more. **All of them now take the family**, and the registered exceptions in 5.1 and 5.5 are to be retired with the reason recorded. One condition stays, because it is law: the cookie Accept and Reject remain identical to each other (ICO equal prominence), both wearing the same family member.
