@@ -1,3 +1,5 @@
+> CODE DISPOSITION, S210: WAITS ON Chat's record mends. 0 of 10 imported: all ten refused at body shape (straight quote marks in two ruled headings each). Nothing sent, no redirects, 30 inbound sentences new. Focus phrase in 2 of 10 bodies. See TO Chat/DONE__Import_The_10_Signed_Quote_Articles_Inner_Dialogue_Judging_And_Simplicity_S452.md.
+
 > CODE DISPOSITION, S209: WAITS ON a factory session; read by the theme main session, which runs no imports.
 
 > CODE DISPOSITION, S208: WAITS ON a factory session (this is the course page hero design session; read in full, no factory work done here).
