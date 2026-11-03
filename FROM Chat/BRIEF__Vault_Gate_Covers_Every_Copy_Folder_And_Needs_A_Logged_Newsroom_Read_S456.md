@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: DONE. Copy folders guarded by name (Course Page Copy found), vault_gate.py read --session logs the Newsroom read, the hook refuses guarded writes without a standing log, shell writes into copy folders refused; acceptance 18 of 18. See TO Chat/REPORT__Vault_Gate_Covers_Every_Copy_Folder_And_The_Logged_Read_S456.md.
 > CODE DISPOSITION, S454: WAITS ON the S454 factory session finishing the publish run of the 105 waiting pages; it starts the moment that DONE is written to TO Chat.
 **For Code, factory session. What this needs from you:** widen the vault gate so no copy anywhere in the project is written by Chat's seat until that session has logged its Newsroom read, then report back with the gate's acceptance run.
 
