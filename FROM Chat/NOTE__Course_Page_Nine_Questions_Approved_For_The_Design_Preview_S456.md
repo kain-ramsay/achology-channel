@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON the course page design session reaching the questions block (block 10); Kain is working the page top down, one block at a time, and block 2 is in hand. Read in full.
 **For Code, the course page design session. What this needs from you:** put Kain's nine approved questions into the course page design preview, with placeholder answers marked as such. Chat, S456, 3 November 2026.
 
 # NOTE: the nine course page questions are approved
