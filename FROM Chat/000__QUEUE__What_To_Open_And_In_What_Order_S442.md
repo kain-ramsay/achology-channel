@@ -1,3 +1,5 @@
+**Added at Chat, S456 (3 November 2026), factory, open first of all, on Kain's yes:** BRIEF__Import_The_72_Signed_Quote_Articles_The_100_Inbound_Articles_And_The_Karpman_Workbook_S456 (the last 72 quote articles, 100 articles with inbound sentences, the Karpman workbook with its added fields, and one Code of Ethics line; its Karpman part supersedes the Karpman part of BRIEF__Import_The_Karpman_Workbook_Mend_The_17_Link_Addresses_And_Two_Re_Pushes_S456).
+
 **Added at Chat, S456 (3 November 2026), factory, on Kain's yes:** BRIEF__Lift_The_49_Workbook_Landing_Pages_To_86_Phrase_And_Pictures_S456 (focus phrase to match the address, and the picture test to count the template's pictures; rescore).
 
 **Added at Chat, S456 (3 November 2026), factory, on Kain's yes:** BRIEF__Publish_The_90_Quote_Articles_And_The_Nine_Seven_Beliefs_Parts_S456 (publish the 99 waiting pages on the build site after a record and score check).
