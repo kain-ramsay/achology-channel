@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON Chat releasing it (its HELD line below); read in full by the course page design session, whose block 2 (Kain's pick 74, pattern 18, outcome tiles three across) takes the nine-box grid when it is released.
 **HELD. Do not run.** Chat releases this brief by replacing this line once Kain has answered the nine decisions on `000__DECISIONS__Buyer_Questions_And_Lecture_Pages_S456.html` (the Course Page design folder). Until then it is a draft, written against Chat's recommendations.
 
 **For Code (theme session). What this needs from you:** three changes to the course page template, each shown to Kain as four rendered options in the Change Viewer where it is visual, then one DONE naming the theme version.
