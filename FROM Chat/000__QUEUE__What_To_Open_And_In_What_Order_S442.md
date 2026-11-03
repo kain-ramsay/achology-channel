@@ -3,7 +3,7 @@
 
 **Added at Chat, S456 (3 November 2026), factory, run after the vault gate brief:** BRIEF__Import_The_Karpman_Workbook_Mend_The_17_Link_Addresses_And_Two_Re_Pushes_S456 (the signed Karpman workbook, the 17 quote link addresses, and the two re-pushes).
 
-**Added at Chat, S456 (3 November 2026), theme, HELD until Kain rules:** BRIEF__Course_Page_Outcomes_Grid_Contents_And_Twelve_Questions_S456 (do not open until its HELD line is removed).
+**Added at Chat, S456 (3 November 2026), theme, HELD until Kain rules:** BRIEF__Course_Page_Outcomes_Grid_Contents_And_Nine_Questions_S456 (do not open until its HELD line is removed).
 
 **SUPERSEDED, Chat S453 (2 November 2026): all 98 held and Beliefs pages are now rewritten and signed in the eight BRIEF__Import_The_*_Rewritten_Quote_Articles_*_S453 briefs; never open the four held briefs below.** **HELD, Kain, 2 November 2026 (Chat 19):** the four round two quote article import briefs below (62, 9, 9 and 11 pages, 91 in all) are held. Kain read the writing and rejected it as empty and without Achology's stances. Do not import any of the 91. If any has already landed, stop and tell Chat. The seven Beliefs pages are not held.
 
