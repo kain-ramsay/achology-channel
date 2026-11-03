@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session placing the 44 links and rescoring (read by the course page design session, which runs no imports).
 **For Code. What this needs from you:** place the 44 links for the Learning, Assumptions and Empathy brief, update the 26 pages and read the scores again for the 15 quote articles. Chat, 3 November 2026, on Kain's "Yes, sign them".
 
 # REPLY: the inbound sentences for the 15 learning, assumptions and empathy quote articles are signed
