@@ -39,9 +39,9 @@
 | 9 | Can I start an Achology course with no experience? | `q-experience` | /help/learning-experience/achology-course-prerequisites-requirements/ |
 | 10 | What support do I get from Achology while I study? | `q-support` | /help/events-and-mentorship/mentoring-opportunities-achology-membership/ |
 | 11 | Are Achology courses the same as Kain Ramsay's on Udemy? | `q-udemy` | /help/comparisons-and-alternatives/kain-ramsay-udemy-vs-achology-courses/ |
-| 12 | Is online certification as valuable as in-person training? | `q-online` | /help/certificates-cpd-accreditation/... see note |
+| 12 | Is online certification as valuable as in-person training? | `q-online` | /help/comparisons-and-alternatives/are-psychology-certificates-worth-it/ |
 
-  Note on row 12: the signed Help answer is `are-psychology-certificates-worth-it`, at /help/comparisons-and-alternatives/are-psychology-certificates-worth-it/. Use the address its record carries.
+  Every address above is the one its Help record carries in Content Records; check each against the install before it is printed.
 
 - **The short answer is no longer found by matching the question to a Help answer's title.** The twelve questions are worded differently from the Help answers they point to, on purpose, so no two pages share a title. Each question carries its own short answer (one to three paragraphs, written by Chat's delivery session after this brief is released) and the fixed address above. Read the short answers from one theme data file, one row per anchor, so Kain and Karen can edit them; Chat sends that file's words when they are signed. Until then each question renders with no panel, as today.
 - **The link line stays** *Read the full answer*, to the address in the table, opening in the same tab.
