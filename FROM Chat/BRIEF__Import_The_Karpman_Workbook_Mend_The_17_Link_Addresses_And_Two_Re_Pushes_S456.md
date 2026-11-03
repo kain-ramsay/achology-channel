@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: WAITS ON the S454 factory session, which takes it now inside the publish run (the 17 quote re-pushes first, so the prejudice pages can meet 86 before publishing).
 **For Code (factory session). What this needs from you:** a factory import of the mended Karpman workbook, a re-import of 17 quote articles whose link address changed, and two re-pushes (the grow-self-awareness search title and the self-report-decide-a-diagnosis phrase), then one DONE with the counts and the score table.
 
 # BRIEF: the Karpman workbook mend, 17 link addresses and two re-pushes (Chat, Session 456, 3 November 2026)
