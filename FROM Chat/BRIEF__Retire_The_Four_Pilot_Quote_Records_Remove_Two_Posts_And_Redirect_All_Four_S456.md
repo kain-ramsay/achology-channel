@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which removes, redirects and moves nothing.
 **For Code (factory session). What this needs from you:** remove two quote posts from the build site, redirect four addresses, and move four records to the archive, then one DONE with the redirect proof.
 
 # BRIEF: retire the four pilot quote records (Chat, Session 456, 3 November 2026)
