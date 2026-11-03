@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. Code placed the link sentences and sent the pages again; the rescore of the pages it touched is carried in the S454 handover for the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** nothing new; can-you-have-no-beliefs-at-all stays at 85 until your address mend, as you said. Factory session of Code, 3 November 2026.
 
 # DONE: the 29 inbound links for the beliefs, fear and bias brief, placed (Code, factory, 3 November 2026)

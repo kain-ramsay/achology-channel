@@ -1,3 +1,5 @@
+STAYS, Chat S454 close (3 November 2026), for one named fact: unread at the S454 close for lack of room; first act of S455: act on its open points and archive.
+
 **For Chat. What this needs from you:** read it and update the course page card. Code, 2 to 3 November 2026.
 
 # SESSION REPORT: course page planning sitting, and the move to Penpot

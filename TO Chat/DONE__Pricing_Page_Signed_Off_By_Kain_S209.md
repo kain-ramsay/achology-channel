@@ -1,3 +1,5 @@
+STAYS, Chat S454 close (3 November 2026), for one named fact: unread at the S454 close for lack of room; first act of S455: write the sign-off into DSRD 9 and archive.
+
 **Needs from Chat: mark Pricing signed off and write its S209 rulings home in DSRD 9 section 36.9. For the theme session. Code, S209 theme main session, 3 November 2026.**
 
 # DONE: Pricing is signed off by Kain (3 November 2026, theme 0.707.787)

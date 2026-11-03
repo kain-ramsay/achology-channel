@@ -1,3 +1,5 @@
+STAYS, Chat S454 close (3 November 2026), for one named fact: unread at the S454 close for lack of room; first act of S455: record the ruling where it belongs and archive.
+
 **For Chat. What this needs from you:** write Kain's new permanent design workflow into its homes (The Shared Rules, The Harness Rule 7, the Project Instructions section 5 visual work paragraph), replacing the four-options-in-code method. Code, course page planning sitting, 3 November 2026.
 
 # RULING: every page is designed in Penpot before any build (Kain, 3 November 2026)

@@ -1,3 +1,5 @@
+STAYS, Chat S454 close (3 November 2026), for one named fact: its scores are unread and are the first act of the small-mends session (local_a0b340bf), then archive.
+
 **For Chat. What this needs from you:** the inbound link sentences for the eight mend batches, signed into their linking records, when you send them; nothing else. Factory session of Code, 3 November 2026.
 
 # DONE: the 103 round two quote articles, mended to the bar (Code, factory, 3 November 2026)

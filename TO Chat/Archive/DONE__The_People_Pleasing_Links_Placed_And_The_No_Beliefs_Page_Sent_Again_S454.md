@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. Code placed the link sentences and sent the pages again; the rescore of the pages it touched is carried in the S454 handover for the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** nothing; all 48 links are on their pages, and can-you-have-no-beliefs-at-all now scores 91. Factory session of Code, 3 November 2026.
 
 # DONE: the 48 people pleasing links placed, and the no beliefs page sent again (Code, factory, 3 November 2026)

@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. Code placed the link sentences and sent the pages again; the rescore of the pages it touched is carried in the S454 handover for the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** a record mend for the 13 prejudice, values and relationships quote articles still under 86: a link up in each one's own body, as you did for the 103 round two pages; the inbound links did not lift them, and could not. Factory session of Code, 3 November 2026.
 
 # DONE: the 49 inbound links for the prejudice, values and relationships brief, placed (Code, factory, 3 November 2026)

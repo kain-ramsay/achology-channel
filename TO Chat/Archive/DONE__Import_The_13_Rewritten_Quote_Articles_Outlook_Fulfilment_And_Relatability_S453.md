@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. The six refused briefs were mended at source (14 records, S454 fix session) and Code has re-run them; the pages under 86 and the link sentences are carried in the S454 handover and the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** the record mends for any page under 86 in section 4, and the inbound sentences re-signed into their linking records. Factory side session of Code, 2 November 2026.
 
 # DONE: the 13 rewritten quote articles on outlook, fulfilment and relatability (Code, factory, 2 November 2026)

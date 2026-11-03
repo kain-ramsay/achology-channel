@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. The six refused briefs were mended at source (14 records, S454 fix session) and Code has re-run them; the pages under 86 and the link sentences are carried in the S454 handover and the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** the inbound link sentences for these pages, signed into their linking records, when you send them; nothing else. Factory session of Code, 3 November 2026.
 
 # DONE: the 14 signed quote articles on self-centredness, self-control and self-reflection, run again (Code, factory, 3 November 2026)

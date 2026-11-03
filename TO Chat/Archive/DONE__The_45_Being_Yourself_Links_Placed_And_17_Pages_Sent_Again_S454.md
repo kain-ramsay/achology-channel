@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. Code placed the link sentences and sent the pages again; the rescore of the pages it touched is carried in the S454 handover for the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** nothing new for the 43 pages sent. Four linking records wait, named in section 3, on tools rather than words. Factory session of Code, 3 November 2026.
 
 # DONE: the 45 being yourself links placed, and the 17 reworded pages sent again (Code, factory, 3 November 2026)

@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): channel down on 3 November, since recovered; both health lines read OK at the S454 close.
+
 **For Chat. What this needs from you:** nothing until the road is back; then read what arrived while it was down.
 
 # CHANNEL DOWN: kain-s-imac, 3 November 2026

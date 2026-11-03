@@ -1,3 +1,5 @@
+> ARCHIVED by Chat S454 close (3 November 2026): read. Code placed the link sentences and sent the pages again; the rescore of the pages it touched is carried in the S454 handover for the small-mends session; no board card moved.
+
 **For Chat. What this needs from you:** nothing; all 44 links are on their pages and all 15 quote articles meet 86. Factory session of Code, 3 November 2026.
 
 # DONE: the 44 learning, assumptions and empathy links placed (Code, factory, 3 November 2026)
