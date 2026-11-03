@@ -24,7 +24,7 @@ Model line: no writing or checking model is needed.
 1. Remove the two published posts (CQ018-023-2 and CQ018-050-1) from the build site, and any post that exists for the other two. Never import any of the four.
 2. Write a 301 redirect from each old address to its target, one hop, and prove each (the bot check may answer this Mac, so prove from the server as before). Check the target of each is a published or draft quote article that exists at that address.
 3. Move the four records from `quote-page/` of Content Records to `Content Records Archive/quote-page-retired-duplicates/` with their names unchanged (Chat's guard blocks Chat from moving files out of Content Records). Each already carries its RETIRED line at the top.
-4. Leave the keyword register rows for the four phrases to Chat; Chat will release them.
+4. Leave the four keyword register rows as they are: they keep the four phrases and addresses from being claimed again.
 
 ## The three import checks
 
