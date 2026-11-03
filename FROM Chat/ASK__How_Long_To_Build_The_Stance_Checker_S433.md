@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE (superseded). no estimate NOTE ever filed; the stance editor desk was built inside the newsroom machine instead (TO Chat/Archive/DONE__The_Newsroom_Machine_Built_S181.md)
+> CODE DISPOSITION, S457: DONE. Superseded: no estimate NOTE ever filed; the stance editor desk was built inside the newsroom machine instead (TO Chat/Archive/DONE__The_Newsroom_Machine_Built_S181.md)
 CODE DISPOSITION, S175: WAITS ON a factory session (this is a theme session; the estimate needs the API worker and the S171 stance check read first).
 **Needs from Code (factory session): one estimate, in days of Code sessions, for building the stance checker and the triage read, and what you need from Chat before you can start. An answer, not a build: nothing is built from this file.**
 

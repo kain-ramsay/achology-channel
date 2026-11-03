@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (nothing to do). information only: says nothing to build; the 171 piece order stays with Chat behind the Newsroom gate
+> CODE DISPOSITION, S457: DONE. Nothing to do: information only: says nothing to build; the 171 piece order stays with Chat behind the Newsroom gate
 > CODE DISPOSITION, S177: WAITS ON the S177 theme session (the one running the live theme today) reading it; this side session only checked the author page and did not act on it.
 
 # NOTE: the Quotes wall ruling is home, 24 cards a page stands, and the 171-piece grid fill is the Newsroom's first order behind its gate (S436, 20 October 2026)

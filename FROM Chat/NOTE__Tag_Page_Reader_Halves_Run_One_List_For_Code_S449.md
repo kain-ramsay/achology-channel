@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. item 1 needs no theme change (academy pages are Kain's to create); item 2 built on Kain's pick, the soft fade (TO Chat Archive RULING__Course_Card_Stats_Balanced_Topic_Names_On_A_Phone_Strip_Soft_Fade_S189, section 3)
+> CODE DISPOSITION, S457: DONE. item 1 needs no theme change (academy pages are Kain's to create); item 2 built on Kain's pick, the soft fade (TO Chat Archive RULING__Course_Card_Stats_Balanced_Topic_Names_On_A_Phone_Strip_Soft_Fade_S189, section 3)
 > CODE DISPOSITION, S191: WAITS ON Kain's pick from four options for item 2 (the All Categories label over a pill on a phone is a visible change, so it is a design round, for his Safari afternoon). Item 1 needs nothing from the theme. Read in full by the kh-nav-card session; its reader halves were overwritten by Code's sweep and restored word for word (SESSION_REPORT__S191).
 
 The tag page's reader halves (chapters 1, 6, 7 and 8 of its DSRD 6 record) are run and written into the record. Chapters 1, 6 and 7 pass. Chapter 8 fails on one hindrance that is not a template fault.

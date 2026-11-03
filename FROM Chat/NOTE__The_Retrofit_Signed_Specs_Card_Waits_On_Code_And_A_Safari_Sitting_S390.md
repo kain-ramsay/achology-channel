@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: Safari sitting with Kain: yes to the Policies index, policy template, About and Testimonials specs, the Testimonials copy words and preview images; file the RULING; needs a theme session to confirm
+> CODE DISPOSITION, S457: WAITS ON a theme session: Safari sitting with Kain: yes to the Policies index, policy template, About and Testimonials specs, the Testimonials copy words and preview images; file the RULING; needs a theme session to confirm
 > CODE DISPOSITION, S139: WAITS ON Kain in Safari for the Retrofit sitting (step 1 done: TO Chat/REPLY__The_Built_Site_Facts_Parts_A_To_F_S139.md).
 
 **Needs from Code:** answer the ask below, then take the Retrofit card to one Safari sitting with Kain. Nothing to build.

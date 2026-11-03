@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: fix redirect_chain_register.py row 429 crash, build bulk redirect mode, write about 2,600 rows proved live, then the staging check
+> CODE DISPOSITION, S457: WAITS ON a factory session: fix redirect_chain_register.py row 429 crash, build bulk redirect mode, write about 2,600 rows proved live, then the staging check
 > **CODE DISPOSITION, S148: WAITS ON a session in which Kain allows edits to `redirect_chain_register.py` and `publish_gate.py`, both in the theme folder (his S148 instruction was no theme files).** Step 3 needs the register's row 429 crash fixed first (S145: "argument list too long" on its SSH call) and a bulk redirect mode, then about 2,600 single writes to the build site, each proved live. Read-only check run S148: `redirect_one_hop.py`, 0 faults across 2,595 rows.
 
 > **CODE DISPOSITION, S134: WAITS ON step 3, the bulk write of the map's buildable rows, then step 5, the staging check (factory, needs nobody).** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.

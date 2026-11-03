@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. 68 attached at S143 (REPORT__The_Publishing_Push_S143: 39 question articles, 29 hub guides; exemplar left alone on purpose) and the 9 Seven Beliefs pictures attached at S454 (DONE__The_Nine_Seven_Beliefs_Parts_Brought_Up_To_Date_S454)
+> CODE DISPOSITION, S457: DONE. 68 attached at S143 (REPORT__The_Publishing_Push_S143: 39 question articles, 29 hub guides; exemplar left alone on purpose) and the 9 Seven Beliefs pictures attached at S454 (DONE__The_Nine_Seven_Beliefs_Parts_Brought_Up_To_Date_S454)
 > CODE DISPOSITION, S143: WAITS ON the nine Seven Beliefs articles existing on the install (their nine pictures are converted only when those records are imported). 68 of the 78 are attached (39 question articles, 29 hub guides); see REPORT__The_Publishing_Push_S143.
 
 **Needs from Code:** add the 78 article pictures to their articles, in your current session. They are in.

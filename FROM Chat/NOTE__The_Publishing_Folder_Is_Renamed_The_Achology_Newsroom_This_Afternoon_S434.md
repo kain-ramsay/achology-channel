@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: update the 10 theme files at the next ship and file the DONE
+> CODE DISPOSITION, S457: WAITS ON a theme session: update the 10 theme files at the next ship and file the DONE
 > CODE DISPOSITION, S176: WAITS ON a factory session's DONE naming the 12 api_worker files and 28 theme files updated to the new folder name.
 
 # NOTE: the publishing folder is renamed The Achology Newsroom this afternoon (S434, 20 October 2026)

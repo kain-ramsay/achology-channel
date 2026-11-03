@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: the three Long Reads label changes and Personal Agency in the A to Z, checked at 1280, 834 and 390, with read-backs in a SESSION_REPORT
+> CODE DISPOSITION, S457: WAITS ON a theme session: the three Long Reads label changes and Personal Agency in the A to Z, checked at 1280, 834 and 390, with read-backs in a SESSION_REPORT
 > CODE DISPOSITION, S192: WAITS ON a theme session (read in full by the S192 factory session, which touches no theme file).
 **Needs from Code: two label renames on the build site, both approved by Kain today, plus two synonym lines. Theme session. Do it with or after the Knowledge Hub navigation jobs (T1, T2, T10 to T14).**
 

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: accessibility-statement.php still says the site is being rebuilt, targets WCAG 2.1 and carries the fixed 1 July 2026 date; Chat's replacement wording for Kain; chapter 7 re-run on the Page readiness card
+> CODE DISPOSITION, S457: WAITS ON a theme session: accessibility-statement.php still says the site is being rebuilt, targets WCAG 2.1 and carries the fixed 1 July 2026 date; Chat's replacement wording for Kain; chapter 7 re-run on the Page readiness card
 > **CODE DISPOSITION, S135: WAITS ON the sweep's own theme change set (header images done ahead of it at 0.668.0, see TO Chat/REPORT__Policy_Pages_Header_Images_And_Scores_S135.md); order after the Reviews close as briefed.**
 
 **Needs from Code:** one sweep across all eleven policy pages and the site chrome images, so every policy page closes its DSRD 6 record the way How We Write did.

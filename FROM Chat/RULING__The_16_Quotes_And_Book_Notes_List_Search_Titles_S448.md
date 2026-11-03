@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: set the eight Quotes and eight Book Notes list titles and descriptions from DSRD 9 section 21.0 and read all sixteen back
+> CODE DISPOSITION, S457: WAITS ON a theme session: set the eight Quotes and eight Book Notes list titles and descriptions from DSRD 9 section 21.0 and read all sixteen back
 > CODE DISPOSITION, S188: WAITS ON the founder pages sign-off (Kain, S186: finish those pages first); theme job for the next theme session after it.
 
 **Needs from Code: set the search titles and descriptions of the eight Quotes lists and the eight Book Notes lists, word for word from DSRD 9 section 21.0, the same way you set the eight Articles lists at 0.707.499, then read all sixteen back. Theme session.**

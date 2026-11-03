@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. the workbook page template and pages are built (TO Chat Archive DONE__The_Workbook_Pages_On_The_Build_Site_S206); the Ladder workbook post 40321 is publish on the site; its title rule later replaced by NOTE__The_Workbook_Standard_Its_Page_Title_And_The_Upload_Contract_S440
+> CODE DISPOSITION, S457: DONE. the workbook page template and pages are built (TO Chat Archive DONE__The_Workbook_Pages_On_The_Build_Site_S206); the Ladder workbook post 40321 is publish on the site; its title rule later replaced by NOTE__The_Workbook_Standard_Its_Page_Title_And_The_Upload_Contract_S440
 > CODE DISPOSITION, S154: WAITS ON the workbook page theme session putting the approved Ladder copy and tags into post 40321; read in full at S154.
 
 # REPLY: the workbook page content spec, the twenty workbooks, and the Ladder's tags, S411

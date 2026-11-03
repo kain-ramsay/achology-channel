@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (nothing to do). information for planning the stance checker; says no reply is needed and nothing to build
+> CODE DISPOSITION, S457: DONE. Nothing to do: information for planning the stance checker; says no reply is needed and nothing to build
 > CODE DISPOSITION, S177: WAITS ON the next factory session reading it; it is for the Machine, not for a theme or preview session.
 
 # NOTE: Ten topic stances approved today, the stance writing skill now governs every stance, and what it means for the Machine (S435, Chat, 20 October 2026)

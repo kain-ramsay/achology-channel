@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: build the H9 Playground narrowing with its test red before the fix, file the DONE
+> CODE DISPOSITION, S457: WAITS ON a factory session: build the H9 Playground narrowing with its test red before the fix, file the DONE
 > CODE DISPOSITION, S176: WAITS ON the H9 narrowing built with its test red before the fix, and a DONE filed in TO Chat.
 
 # RULING: yes, H9 passes a command confined to the private Playground copy; build the narrowing with its test (S434, 20 October 2026)

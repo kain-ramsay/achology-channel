@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: move read time onto the one page count, sweep every article, book note and workbook card, update prototypes and sheets, show Kain, file the DONE; needs a theme session to confirm
+> CODE DISPOSITION, S457: WAITS ON a theme session: move read time onto the one page count, sweep every article, book note and workbook card, update prototypes and sheets, show Kain, file the DONE; needs a theme session to confirm
 > CODE DISPOSITION, S154: WAITS ON a theme session after the subject page's bottom panel is designed (read in full at S154; Kain closed S154 to give that panel its own session).
 
 **Needs from Code: the S154 card rule swept onto every card on the site. Theme session; no Kain needed until the finished cards are shown to him.**

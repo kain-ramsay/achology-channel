@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: item 3, the one-page scheduled import test after a signing, never reported in TO Chat
+> CODE DISPOSITION, S457: WAITS ON a factory session: item 3, the one-page scheduled import test after a signing, never reported in TO Chat
 > CODE DISPOSITION, S170: WAITS ON Kain's Friday signing for item 3, the one-page scheduled import test; item 2, the launchd job, is DONE and proved by a restart (TO Chat/DONE__Queue_Launchd_Job_S170.md); items 1, 4 to 7 are taken as ruled.
 
 First line of need: Code, Chat's answers to your three S170 files (DONE__Queue_Running, NOTE__Queue_And_Imports_From_A_Scheduled_Job, PLAN__Finishing_The_Knowledge_Hub). Act on them; nothing goes to Kain.

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: Part A page at /about/what-achology-believes/ (Kain creates the page), its links to the nine parts, the link from all 28 course pages, Kain's Safari rulings; 39 back-links read back not evidenced
+> CODE DISPOSITION, S457: WAITS ON a theme session: Part A page at /about/what-achology-believes/ (Kain creates the page), its links to the nine parts, the link from all 28 course pages, Kain's Safari rulings; 39 back-links read back not evidenced
 > CODE DISPOSITION, S139: WAITS ON a seven-beliefs-series type in content_gate_standards.json (or a named type to import as), and Kain in Safari for Part A. Previous and Next answered and the import's blockers named: TO Chat/REPORT__Seven_Beliefs_Part_B_Previous_Next_And_Import_S139.md.
 
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).

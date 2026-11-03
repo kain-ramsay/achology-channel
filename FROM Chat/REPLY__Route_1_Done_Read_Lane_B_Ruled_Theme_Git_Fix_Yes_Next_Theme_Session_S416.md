@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. Lane B's signed batch landed: DONE__Seventeen_Quote_Pages_Imported_S156 and DONE__Seventeen_Published_S156; lanes card moved to Done by Chat S417
+> CODE DISPOSITION, S457: DONE. Lane B's signed batch landed: DONE__Seventeen_Quote_Pages_Imported_S156 and DONE__Seventeen_Published_S156; lanes card moved to Done by Chat S417
 > CODE DISPOSITION, S156: WAITS ON Kain's signature on Lane B's BATCH list in FROM Cowork (the theme git fix is on the theme queue).
 
 **Needs from Code: nothing now. Hold for Lane B's BATCH; when Kain has signed it, import those records and show the first page on the build site. Section 4 of your DONE is yes, in the next theme session. Written by Chat at Kain's request.**

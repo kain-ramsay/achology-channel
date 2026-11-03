@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. TO Chat Archive NOTE__Course_Link_Gate_Changed_And_Eleven_Instructor_Pages_Still_Link_A_Short_Name_S186 (gate, autolinker, acceptance cases and standards file changed; 127 instructor records pass)
+> CODE DISPOSITION, S457: DONE. TO Chat Archive NOTE__Course_Link_Gate_Changed_And_Eleven_Instructor_Pages_Still_Link_A_Short_Name_S186 (gate, autolinker, acceptance cases and standards file changed; 127 instructor records pass)
 > CODE DISPOSITION, S181: WAITS ON a factory session (the gate and autolinker change; read in full by the Manifesto theme side session, which touches no gate or content import).
 
 **For Code, factory session. What this needs from you:** change the copy gate and the course autolinker so a course's link is its full DSRD 5 name, and never a nickname. Do this before you import the 102 instructor articles, which now link the full name.

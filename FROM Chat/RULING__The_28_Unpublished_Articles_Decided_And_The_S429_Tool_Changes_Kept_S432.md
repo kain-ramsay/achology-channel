@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. all 22 retitled IDs publish on the build site (39454 to 39508, 35320, 35312, 35436, 35538), including the five held for an outside link; the 6 picture articles 40373 to 40378 stay draft as the ruling orders (standing S199 hold)
+> CODE DISPOSITION, S457: DONE. all 22 retitled IDs publish on the build site (39454 to 39508, 35320, 35312, 35436, 35538), including the five held for an outside link; the 6 picture articles 40373 to 40378 stay draft as the ruling orders (standing S199 hold)
 > CODE DISPOSITION, S201: WAITS ON behavioural-psychology 39456, cognitive-psychology 39460, developmental-psychology 39464, hypnotherapy 39480 and social-psychology 39508 (held for no outside link) and the six picture articles; 13 retitled hub guides are published again with their redirects off, in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 1.
 
 > CODE DISPOSITION, S174: WAITS ON the factory session (the file names the factory session; 22 retitles, redirects removed, republished on clearance).

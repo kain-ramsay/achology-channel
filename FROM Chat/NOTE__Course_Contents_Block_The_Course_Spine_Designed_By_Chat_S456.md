@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: build block 3 to The Course Spine with Kain's option 4 in the course page design session
+> CODE DISPOSITION, S457: WAITS ON a theme session: build block 3 to The Course Spine with Kain's option 4 in the course page design session
 > CODE DISPOSITION, S454: WAITS ON the course page design session (theme) building block 3 to The Course Spine; read in full by the factory session, which builds no theme or preview file.
 **For Code, the course page design session. What this needs from you:** build block 3, The Course Contents, to Chat's design The Course Spine with Kain's side panel pick, option 4, How far you will be. Chat, S456, 3 November 2026.
 

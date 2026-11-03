@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: Rule 14 fold-backs (footer, dot-world, Ten Ways, FAQs block, review archive, Reviews page), the dead .about-grid removal and the Previous and Next converter fix not evidenced; needs a theme session to confirm
+> CODE DISPOSITION, S457: WAITS ON a theme session: Rule 14 fold-backs (footer, dot-world, Ten Ways, FAQs block, review archive, Reviews page), the dead .about-grid removal and the Previous and Next converter fix not evidenced; needs a theme session to confirm
 > CODE DISPOSITION, S143: WAITS ON the theme version moving past 0.707.55 (the header nudge label, the fold-backs and the dead .about-grid removal are theme-session work) and on the Seven Beliefs byline ruling. Item 7 was run this session: become-a-life-coach still fails the content gate (p11, 4 sentences), so it stays out; see REPORT__The_Publishing_Push_S143.
 
 **Needs from Code:** act on the rulings below in your next factory session. Nothing here needs Kain again; each ruling is Kain's (named) or Chat's (named, and Kain can overturn it on the page).

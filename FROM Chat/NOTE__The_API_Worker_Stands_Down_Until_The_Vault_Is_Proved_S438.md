@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: gaps 2, 5, 6 and 12 built into the gate with a test each, or ruled overtaken by the Newsroom
+> CODE DISPOSITION, S457: WAITS ON a factory session: gaps 2, 5, 6 and 12 built into the gate with a test each, or ruled overtaken by the Newsroom
 CODE DISPOSITION, S178: WAITS ON the factory session's next sitting (this note is for the factory session; read by the Book Notes theme side session, which runs no API work).
 
 For Code's factory session. What this needs from you: leave the API worker stopped, build the four gap rulings that are the gate's (section 3, gaps 2, 5, 6 and 12) at your next factory sitting with a test each, and send one line back if any fact below is wrong. Read from the vault first: the plan `PLAN__From_Stances_To_A_Newsroom_Ready_Vault_S437` in the Vault's Working Papers (The Achology Newsroom folder), and `00 THE MAP` at the head of the Achology Newsroom vault. Model line: no API run is started by this note.

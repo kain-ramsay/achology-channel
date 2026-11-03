@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: the workbook contract built from the S440 ranges with a red and a green test, and one line to Chat
+> CODE DISPOSITION, S457: WAITS ON a factory session: the workbook contract built from the S440 ranges with a red and a green test, and one line to Chat
 > CODE DISPOSITION, S178: WAITS ON the next factory sitting building the workbook contract; read by the search session, nothing in it for the search page.
 For Code (factory session; one theme line at the foot): the workbook's standard is filed on Kain's yes of 22 October 2026, and it settles the two things your S178 field sheet left open. This note asks you for one thing: the workbook contract in upload_contracts.json, built from the ranges below, at the next factory sitting.
 

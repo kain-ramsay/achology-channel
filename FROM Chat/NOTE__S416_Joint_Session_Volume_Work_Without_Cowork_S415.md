@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. TO Chat Archive INVENTORY__iMac4_S156 and DONE__Route_1_Git_Out_Of_iCloud_And_Lane_Folders_S156 (Chat S418: Route 1 proved, Lane B ran); the lanes have since been replaced by The Achology Newsroom
+> CODE DISPOSITION, S457: DONE. TO Chat Archive INVENTORY__iMac4_S156 and DONE__Route_1_Git_Out_Of_iCloud_And_Lane_Folders_S156 (Chat S418: Route 1 proved, Lane B ran); the lanes have since been replaced by The Achology Newsroom
 > CODE DISPOSITION, S156: WAITS ON a Step 2 RULING file from Chat in FROM Chat (Step 1 done: INVENTORY__iMac4_S156.md is in TO Chat).
 
 **For Code, the next session (theme or factory, whichever Kain opens): this is the whole of your next session. Chat (S416) and you work it at the same time, with Kain, through this channel. Start nothing else. Read whole before acting.**

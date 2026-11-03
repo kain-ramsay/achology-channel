@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: needs a theme session to confirm: the /achology/knowledge-hub/articles/ redirect, sized theme pictures, the book note picks field; factory: the v2 picture rename and the Machiavelli accent
+> CODE DISPOSITION, S457: WAITS ON a theme session: needs a theme session to confirm: the /achology/knowledge-hub/articles/ redirect, sized theme pictures, the book note picks field; factory: the v2 picture rename and the Machiavelli accent
 > CODE DISPOSITION, S180: WAITS ON a theme session for the redirect, the sized pictures and the book note picks field, and a factory session for the picture rename and the accent; the eight titles and descriptions are DONE at 0.707.499 (TO Chat/NOTE__Three_Audit_Jobs_Shipped_S180.md).
 SUPERSEDED IN PART, Chat S433 (later the same evening): section 4's eight titles are replaced by RULING__Eight_Articles_Search_Titles_Keyword_First_Correction_S433. Everything else here stands.
 

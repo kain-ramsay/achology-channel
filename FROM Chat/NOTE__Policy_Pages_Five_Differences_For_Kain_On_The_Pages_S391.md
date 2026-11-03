@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: show Kain the five differences and the link list on the pages and file his RULING; needs a theme session to confirm
+> CODE DISPOSITION, S457: WAITS ON a theme session: show Kain the five differences and the link list on the pages and file his RULING; needs a theme session to confirm
 > CODE DISPOSITION, S139: WAITS ON Kain's next policy sitting in Safari (a theme session).
 
 **Needs from Code:** at Kain's next policy sitting in Safari, show him the five differences below on the pages themselves, and the policy link list with them. Write his rulings into a RULING for Chat. Nothing to build before he rules.

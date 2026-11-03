@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: the eight pen-name pages photo and qualification check report not found; Our People phone measure, help strip tabbed render and junk redirect row deletion not confirmed
+> CODE DISPOSITION, S457: WAITS ON a theme session: the eight pen-name pages photo and qualification check report not found; Our People phone measure, help strip tabbed render and junk redirect row deletion not confirmed
 > CODE DISPOSITION, S145: WAITS ON Kain's pick of option A, B, C or D for the Reviews note (Safari tabs open), then I do in order: the Our People phone measure (item 1), the help strip tabbed render for his next sitting (item 2), delete the junk redirect row (item 4), and the section 5 acts (A1 inventory, the eight pen-name pages check); items 3 and A5 are noted and wait for the gate rebuild.
 
 **For Code. Needs from Code: the four acts in section 5, and nothing else from this file.**

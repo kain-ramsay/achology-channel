@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. site: 52 of 52 workbook posts publish (census: every signed workbook record matched; DONE__The_Workbook_Pages_On_The_Build_Site_S206 and later mends); scores carried by the S456 lift brief
+> CODE DISPOSITION, S457: DONE. site: 52 of 52 workbook posts publish (census: every signed workbook record matched; DONE__The_Workbook_Pages_On_The_Build_Site_S206 and later mends); scores carried by the S456 lift brief
 > CODE DISPOSITION, S206: WAITS ON the 19 older workbook records re-signed without the banned word. 33 of 52 pages are published and scored (0 at 86, both causes in the records: TO Chat/ASK__Workbook_Landing_Copy_Links_And_Focus_Phrases_S206.md); TO Chat/DONE__The_Workbook_Pages_On_The_Build_Site_S206.md.
 
 > UPDATED by Chat on 2 November 2026 (Session 451): the landing copy and Page fields of 29 of these records were re-signed today without the banned word "holds"; see the same day's note at the top of BRIEF__Build_The_52_Signed_Workbook_Documents_S445. Build the pages from the records as they stand now.

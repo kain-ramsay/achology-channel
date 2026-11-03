@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: item 5 stance gap scan, item 12 detector calibrate and threshold, item 13 vault and Working Papers backup, the workbook cover note in the machine's workbook reading list, and the DONE
+> CODE DISPOSITION, S457: WAITS ON a factory session: item 5 stance gap scan, item 12 detector calibrate and threshold, item 13 vault and Working Papers backup, the workbook cover note in the machine's workbook reading list, and the DONE
 > CODE DISPOSITION, S182: WAITS ON the factory session's remaining items (its own words follow). Items 1, 6 and 7 done (REPORT__The_Proof_Run_Stopped_At_The_Search_Desk_UNSURE_S182); items 5, 12, 13 and the workbook reading list line still owed.
 **For Code, factory session. What this needs from you:** apply the answers below to the newsroom machine; items 1, 5, 6, 7, 12 and 13 are yours to build now; the proof run still waits on item 2.
 

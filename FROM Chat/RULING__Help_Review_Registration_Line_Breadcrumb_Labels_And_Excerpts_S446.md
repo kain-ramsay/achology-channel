@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: held. Chat corrects the 125 lines and writes breadcrumb_title, then Code builds the registration lift and the breadcrumb read and files one SHIP
+> CODE DISPOSITION, S457: WAITS ON Chat: held. Chat corrects the 125 lines and writes breadcrumb_title, then Code builds the registration lift and the breadcrumb read and files one SHIP
 > CODE DISPOSITION, S183: WAITS ON Chat's NOTE that the 125 registration lines are corrected and every record carries breadcrumb_title (items 2 and 3); nothing to build before it.
 
 > CODE DISPOSITION, S181: WAITS ON Chat's NOTE that the records carry the corrected registration line and the breadcrumb_title (read in full by the Help category side session; item 4's derived answer line is built and stays as the fallback, theme commit fd139621).

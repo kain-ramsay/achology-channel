@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Kain's word: held. Kain's word to switch on; then the finish line, permission floor check, usage line and the one-hour unattended proof run with its DONE
+> CODE DISPOSITION, S457: WAITS ON Kain's word: held. Kain's word to switch on; then the finish line, permission floor check, usage line and the one-hour unattended proof run with its DONE
 > CODE DISPOSITION, S156: WAITS ON Kain's word to switch it on (held on the allowance, RULING__Overnight_Setup_On_Hold_S156.md in TO Chat; the template is built in Achology Lanes/_template).
 
 **Needs from Code, after Lane B's proving batch is imported (not before): write the finish line and the usage line into the lane set-up, so a lane started before Kain goes to bed is finished in the morning, never waiting on him. For the factory session. Kain's words: "I'll sometimes commission a task before going to bed ... only to wake up in the morning ... and realise the task has been blocked by you asking for permission that I can't give." Approved by Kain at S416.**
