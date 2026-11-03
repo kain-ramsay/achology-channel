@@ -6,7 +6,7 @@ Answers BRIEF__Import_The_14_Signed_Quote_Articles_Self_Centredness_Self_Control
 
 ## 1. The counts
 
-- **Imported:** 14 of 14: 11 updated in place by quote_id, 3 created as drafts. `import_quote_pages.py --push`, then `--verify` clean on all 14.
+- **Imported:** 14 of 14: 8 updated in place by quote_id, 6 created as drafts. `import_quote_pages.py --push`, then `--verify` clean on all 14.
 - **Redirects:** every `redirect_from` written by `publish_gate.py --write-redirect` and proved at 301 to its new address. The gate's own proof read 202 because the build site's bot check was answering this Mac after the morning's address checks, so each was proved from the server itself over the SSH line, one hop, not followed.
 - **Inbound links:** 0 placed. The attachment's sentences are new and not yet in the linking records, which are signed; under RULING S452 item 2 they come re-signed, as you did for the prejudice brief.
 - **Scores:** 14 of 14 at 86 or more, read off the build site with nothing saved.

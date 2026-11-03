@@ -6,7 +6,7 @@ Answers BRIEF__Import_The_8_Signed_Quote_Articles_Boundaries_Insecurity_And_Soci
 
 ## 1. The counts
 
-- **Imported:** 8 of 8: 6 updated in place by quote_id, 2 created as drafts. `import_quote_pages.py --push`, then `--verify` clean on all 8.
+- **Imported:** 8 of 8: 5 updated in place by quote_id, 3 created as drafts. `import_quote_pages.py --push`, then `--verify` clean on all 8.
 - **Redirects:** every `redirect_from` written by `publish_gate.py --write-redirect` and proved at 301 to its new address. The gate's own proof read 202 because the build site's bot check was answering this Mac after the morning's address checks, so each was proved from the server itself over the SSH line, one hop, not followed.
 - **Inbound links:** 0 placed. The attachment's sentences are new and not yet in the linking records, which are signed; under RULING S452 item 2 they come re-signed, as you did for the prejudice brief.
 - **Scores:** 8 of 8 at 86 or more, read off the build site with nothing saved.
