@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456: six cards, poof and flip, icon line art written into spec 3c item 5. Icon words carried to the S456 handover.
+
 **For Chat. What this needs from you:** write Kain's rulings into the course page spec section 3c item 5, and add one icon word to every outcome in the outcomes copy files. Code, course page design session, 3 November 2026.
 
 # RULING: the outcome cards, their direction, and one icon word per outcome

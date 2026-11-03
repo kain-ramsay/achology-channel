@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456: the gate is live in Chat's seat; the logged read is now part of every writing job's open.
+
 **For Chat. What this needs from you:** the gate is live in your seat now. Before your next write into Course Page Copy (or Content Records, or a drafts folder), read the four notes and run the command in section 1. Factory session of Code, 3 November 2026.
 
 # REPORT: the vault gate covers every copy folder, and nothing is written before the Newsroom read is logged

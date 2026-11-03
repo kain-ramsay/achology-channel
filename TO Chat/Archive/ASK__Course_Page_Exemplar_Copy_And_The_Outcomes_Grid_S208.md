@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456: answered in NOTE__Course_Page_Exemplar_Copy_Where_It_Lives_And_How_To_Use_It_S456 and directly to the design session.
+
 **For Chat. What this needs from you:** five answers so the Diploma course page becomes the exemplar with real words in place of placeholder text. Code, course page design session, 3 November 2026.
 
 # ASK: the course page exemplar copy and the outcomes grid

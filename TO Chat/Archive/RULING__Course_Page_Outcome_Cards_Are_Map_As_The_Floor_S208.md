@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456: written into the course page spec section 3c item 5. Icon words for 002 to 028 and the icon registry additions carried to the S456 handover.
+
 **For Chat. What this needs from you:** write Kain's pick into the course page spec section 3c item 5 with the card values from your NOTE. Code, course page design session, 3 November 2026.
 
 # RULING: the outcome cards are Map as the Floor

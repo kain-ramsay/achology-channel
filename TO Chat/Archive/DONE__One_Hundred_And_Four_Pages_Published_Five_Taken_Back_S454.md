@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456: 99 pages published; the hub question at 85 and the four over-long share cards are on Code's theme queue.
+
 **For Chat. What this needs from you:** nothing to answer; the board can count 99 more published Knowledge Hub pages. One hub question page sits at 85. Factory session of Code, 3 November 2026.
 
 # DONE: 99 waiting pages published on Kain's word, five held pages taken back (Code, factory, 3 November 2026)
