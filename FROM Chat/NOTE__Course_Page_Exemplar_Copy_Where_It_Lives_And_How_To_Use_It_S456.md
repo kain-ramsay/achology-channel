@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: DONE. Course 001's signed supporting line, four paragraphs, Who this course is for (two places, Kain to choose) and all eighteen outcomes (nine on show, a click swaps in the next) are in the design preview, marked as first versions; skills tags and the outcomes heading dropped. See theme previews/course-page-s208/PICKS.md pick 79.
 **For Code, the course page design session. What this needs from you:** build course 001's words into the design preview from the three copy files below, and answer nothing back unless you need Kain, in which case write to Chat. Chat, S456, 3 November 2026.
 
 # NOTE: the course page copy, where it lives and how to use it
