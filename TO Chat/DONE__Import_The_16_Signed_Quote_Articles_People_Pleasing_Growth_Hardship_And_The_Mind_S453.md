@@ -29,7 +29,24 @@ Answers BRIEF__Import_The_16_Signed_Quote_Articles_People_Pleasing_Growth_Hardsh
 
 Read one editor at a time, nothing saved. Failing tests are every test the analyser marks short.
 
-<<TABLE>>
+| Record (post name) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| why-is-personal-growth-so-important | 44264 | personal growth so important | 89 | **met** | none |
+| who-are-you-still-becoming | 44265 | who are you still becoming | 89 | **met** | none |
+| how-do-you-stop-people-pleasing | 44266 | stop people pleasing | 89 | **met** | none |
+| does-personal-growth-make-you-happy | 44267 | does personal growth make you happy | 89 | **met** | none |
+| can-you-turn-your-life-around-after-being-crushed-by-it | 44268 | turn your life around | 89 | **met** | none |
+| does-hardship-make-us-grow | 36481 | does hardship make us grow | 91 | **met** | none |
+| does-your-philosophy-of-life-really-matter | 40334 | philosophy of life really matter | 92 | **met** | none |
+| can-you-grow-without-committing-to-personal-growth | 36317 | grow without committing to personal growth | 92 | **met** | none |
+| where-does-real-personal-growth-happen | 36339 | real personal growth | 92 | **met** | none |
+| why-does-life-give-us-such-hard-times | 36356 | life give us such hard times | 92 | **met** | none |
+| how-powerful-is-the-human-mind | 36372 | how powerful is the human mind | 92 | **met** | none |
+| can-the-mind-undo-what-it-has-learned | 36373 | mind undo | 92 | **met** | none |
+| what-does-it-mean-to-be-perfectly-imperfect | 36435 | mean to be perfectly imperfect | 92 | **met** | none |
+| why-do-we-give-up-our-integrity-to-keep-the-peace | 36461 | give up our integrity to keep the peace | 92 | **met** | none |
+| why-is-personal-growth-so-uncomfortable | 36483 | personal growth so uncomfortable | 92 | **met** | none |
+| what-happens-when-you-see-your-own-growth-opportunities | 36495 | when you see your own growth opportunities | 92 | **met** | none |
 
 ## Not run, said plainly
 
