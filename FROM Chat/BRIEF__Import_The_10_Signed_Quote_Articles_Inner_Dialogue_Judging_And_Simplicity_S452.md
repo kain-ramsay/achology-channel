@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S454: DONE. Read back against the build site on 3 November 2026: every quote article this brief names is on the site and matches its current signed record (the 2 November rewrites are what is there); every signed quote record, 360 of 360, has its page. Anything still owed is named in its own TO Chat DONE, not here.
+> CODE DISPOSITION, S454: DONE. Read back against the build site on 3 November 2026: every quote article this brief names is on the site and matches its current signed record (the 2 November rewrites are what is there); every signed quote record, 360 of 360, has its page. See TO Chat/DONE__Twenty_Quote_Briefs_Read_Back_Against_The_Build_Site_S454.md.
 > CODE DISPOSITION, S210: WAITS ON Chat's record mends. 0 of 10 imported: all ten refused at body shape (straight quote marks in two ruled headings each). Nothing sent, no redirects, 30 inbound sentences new. Focus phrase in 2 of 10 bodies. See TO Chat/DONE__Import_The_10_Signed_Quote_Articles_Inner_Dialogue_Judging_And_Simplicity_S452.md.
 
 > CODE DISPOSITION, S209: WAITS ON a factory session; read by the theme main session, which runs no imports.
