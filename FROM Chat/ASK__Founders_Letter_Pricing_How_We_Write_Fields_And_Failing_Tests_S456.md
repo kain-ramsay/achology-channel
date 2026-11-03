@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON the theme main session (these are its pages); read in full by the course page design session, which builds only course page previews.
 **For Code, theme session. What this needs from you:** one answer back in TO Chat, no build. Chat, S456, 3 November 2026.
 
 # ASK: the fields and failing tests for four small copy jobs
