@@ -1,5 +1,5 @@
 > CODE DISPOSITION, S208: WAITS ON Chat releasing it (its HELD line below); read in full by the course page design session, whose block 2 (Kain's pick 74, pattern 18, outcome tiles three across) takes the nine-box grid when it is released.
-**HELD. Do not run.** The nine questions are ruled (Kain, S456). Chat releases this brief by replacing this line once Kain has answered decisions 2 to 9 on `000__DECISIONS__Buyer_Questions_And_Lecture_Pages_S456.html` (the Course Page design folder). Until then it is a draft, written against Chat's recommendations.
+**HELD. Do not run.** The nine questions and their links are ruled (Kain, S456). Chat releases this brief by replacing this line once Kain has answered decisions 3 to 9 on `000__DECISIONS__Buyer_Questions_And_Lecture_Pages_S456.html` (the Course Page design folder). Until then it is a draft, written against Chat's recommendations.
 
 **For Code (theme session). What this needs from you:** three changes to the course page template, each shown to Kain as four rendered options in the Change Viewer where it is visual, then one DONE naming the theme version.
 
@@ -42,7 +42,7 @@
   Every address above is the one its Help record carries in Content Records; check each against the install before it is printed.
 
 - **The short answer is no longer found by matching the question to a Help answer's title.** The nine questions are worded differently from the Help answers they point to, on purpose, so no two pages share a title. Each question carries its own short answer (one to three paragraphs, written by Chat's delivery session after this brief is released) and the fixed address above. Read the short answers from one theme data file, one row per anchor, so Kain and Karen can edit them; Chat sends that file's words when they are signed. Until then each question renders with no panel, as today.
-- **The link line stays** *Read the full answer*, to the address in the table, opening in the same tab.
+- **The link line stays** *Read the full answer*, to the address in the table, opening in the same tab (Kain, S456: "Yes, link them").
 - **No question names Achology, a person or a certificate (Kain, S456).** The questions never name a course either. A short answer may need the course's own price or name; if Chat's answers use a slot, it is written `{course_name}` or `{course_price}` and filled from `courses-setup.php`, never typed.
 - **Visual.** The question selector at nine (the About page's selector, or a plain accordion) is still Kain's open ruling from spec section 6: four rendered options, your recommendation named.
 - **Markup.** Whether the nine carry FAQ markup is yours under DSRD 3 section 5; say which in the DONE.
