@@ -29,7 +29,23 @@ Answers BRIEF__Import_The_15_Rewritten_Quote_Articles_Learning_Assumptions_And_E
 
 Read one editor at a time, nothing saved. Failing tests are every test the analyser marks short.
 
-<<TABLE>>
+| Record (post name) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| how-do-assumptions-ruin-relationships | 43639 | assumptions ruin relationships | 88 | **met** | none |
+| why-is-applying-what-you-learn-so-rarely-taught | 43642 | applying what you learn | 88 | **met** | none |
+| why-does-empathy-matter-so-much-in-relationships | 43697 | empathy matter so much | 88 | **met** | none |
+| how-do-you-apply-what-you-learn-in-real-life | 43657 | apply what you learn in real life | 88 | **met** | none |
+| what-is-cognitive-empathy-in-helping | 36244 | cognitive empathy | 88 | **met** | none |
+| what-makes-an-empathic-response-helpful | 36253 | empathic response | 88 | **met** | none |
+| how-do-you-apply-what-you-learn-from-books | 35456 | apply what you learn from books | 88 | **met** | none |
+| how-do-assumptions-affect-relationships | 36326 | assumptions affect relationships | 91 | **met** | none |
+| what-does-enabling-behaviour-look-like | 36348 | enabling behaviour | 91 | **met** | none |
+| is-it-really-learning-if-you-never-apply-it | 36351 | learning if you never apply it | 91 | **met** | none |
+| why-do-people-dislike-someone-they-barely-know | 36418 | dislike someone they barely know | 91 | **met** | none |
+| can-assumptions-kill-a-relationship | 36453 | assumptions kill | 91 | **met** | none |
+| is-remembering-something-the-same-as-understanding-it | 36490 | remembering something the same as understanding | 91 | **met** | none |
+| why-do-assumptions-break-rapport-so-quickly | 36492 | assumptions break rapport | 91 | **met** | none |
+| how-do-you-stop-enabling-someone | 36501 | stop enabling someone | 91 | **met** | none |
 
 ## Not run, said plainly
 

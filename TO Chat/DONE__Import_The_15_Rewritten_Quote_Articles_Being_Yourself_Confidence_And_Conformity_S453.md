@@ -29,7 +29,23 @@ Answers BRIEF__Import_The_15_Rewritten_Quote_Articles_Being_Yourself_Confidence_
 
 Read one editor at a time, nothing saved. Failing tests are every test the analyser marks short.
 
-<<TABLE>>
+| Record (post name) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| why-is-being-yourself-so-frightening | 43638 | being yourself so frightening | 88 | **met** | none |
+| why-is-confidence-so-often-mistaken-for-arrogance | 43646 | confidence so often mistaken for arrogance | 88 | **met** | none |
+| what-does-healthy-confidence-look-like | 43648 | healthy confidence | 88 | **met** | none |
+| can-you-be-confident-and-humble-at-the-same-time | 43650 | confident and humble | 88 | **met** | none |
+| does-conformity-stop-you-making-your-own-mark | 43654 | conformity stop you | 88 | **met** | none |
+| why-does-conformity-happen | 43655 | conformity happen | 88 | **met** | none |
+| should-we-always-follow-societys-rules | 43656 | always follow society's rules | 88 | **met** | none |
+| can-you-stop-needing-societys-approval | 43658 | stop needing society's approval | 88 | **met** | none |
+| is-playing-it-safe-the-enemy-of-progress | 38504 | playing it safe | 88 | **met** | none |
+| are-you-the-same-person-in-public-and-in-private | 43637 | same person in public and in private | 89 | **met** | none |
+| is-it-better-to-be-yourself-or-to-fit-in | 43649 | better to be yourself or to fit in | 89 | **met** | none |
+| do-you-have-to-let-go-to-get-more-from-life | 36324 | have to let go | 91 | **met** | none |
+| how-do-you-resist-conformity | 36377 | how do you resist conformity | 91 | **met** | none |
+| who-are-you-when-no-one-is-looking | 36398 | when no one is looking | 91 | **met** | none |
+| what-does-it-really-mean-to-be-yourself | 36431 | really mean to be yourself | 91 | **met** | none |
 
 ## Not run, said plainly
 

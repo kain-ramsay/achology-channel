@@ -29,7 +29,23 @@ Answers BRIEF__Import_The_15_Rewritten_Quote_Articles_Beliefs_Fear_And_Bias_S453
 
 Read one editor at a time, nothing saved. Failing tests are every test the analyser marks short.
 
-<<TABLE>>
+| Record (post name) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| can-you-have-no-beliefs-at-all | 40330 | possible to have no beliefs | 85 | **under** | lengthContent, keywordInPermalink, contentHasAssets |
+| why-is-it-important-to-understand-cognitive-bias | 43641 | important to understand cognitive bias | 88 | **met** | none |
+| panic-about-the-future-and-control | 43644 | panic about the future | 88 | **met** | none |
+| is-anxiety-always-about-the-future | 43651 | anxiety always about the future | 88 | **met** | none |
+| how-do-you-overcome-cognitive-bias | 43653 | overcome cognitive bias | 88 | **met** | none |
+| why-do-we-worry-about-the-future-so-much | 38502 | worry about the future | 88 | **met** | none |
+| does-growth-really-happen-outside-your-comfort-zone | 43645 | growth really happen outside your comfort zone | 89 | **met** | none |
+| how-are-beliefs-formed-over-a-lifetime | 43286 | beliefs formed over a lifetime | 91 | **met** | none |
+| can-always-wanting-what-you-cant-have-make-you-unhappy | 36310 | wanting what you can't have | 91 | **met** | none |
+| do-our-beliefs-decide-how-we-behave | 36318 | beliefs decide how we behave | 91 | **met** | none |
+| what-causes-anxiety-about-the-future | 36347 | what causes anxiety about the future | 91 | **met** | none |
+| are-beliefs-shaped-by-our-past-experiences | 36401 | beliefs shaped by our past experiences | 91 | **met** | none |
+| are-our-beliefs-really-just-guesses | 36410 | are our beliefs really just guesses | 91 | **met** | none |
+| do-we-really-know-what-we-believe | 36411 | really know what we believe | 91 | **met** | none |
+| how-to-tell-what-someone-really-believes | 36425 | tell what someone really believes | 91 | **met** | none |
 
 ## Not run, said plainly
 
