@@ -19,7 +19,7 @@ The independent audit after 0.707.788 and 0.707.789 found controls still in the 
 
 **Removed, the old paint the family overrides:** the link hover wash, the old .btn hover shadow and lift, the enquiry send button's glow, shimmer and press, the old contents toggle ring and colours, the About question's hover and open wash and its mark colours, the mobile menu chevron's colour and turn, the icon tiles' old edge and radius, the old field focus rings in enquiries, kh-front, kh-search and header, the radius and fill copies on every changed control, and the duplicate underline guards. A search of every stylesheet for paint the family forces on its parts finds nothing left except the About question's plain button reset, which is needed.
 
-**Net change:** 15 theme files, 137 lines added and 325 removed, 188 fewer in all.
+**Net change:** 15 theme files, 131 lines added and 325 removed, 194 fewer in all.
 
 **Proof:** css_gate passes on every file touched, except header.css (33) and kh-subject.css (75), whose older failures are unchanged in count. On 28 page types at 1280, 834 and 390 in WebKit, every element was measured before and after, and nothing moved except the About rails. One tag page title span varies from load to load because of that page's own two-line splitter, untouched by this work. Each change was photographed off and on, at rest and pointed at or focused, and Kain saw them one switch at a time in the Change Viewer. On the build site after the deploy, each fixed control reports the family's corners and colours.
 
