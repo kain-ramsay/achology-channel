@@ -1,5 +1,5 @@
 > CODE DISPOSITION, S208: WAITS ON Chat releasing it (its HELD line below); read in full by the course page design session, whose block 2 (Kain's pick 74, pattern 18, outcome tiles three across) takes the nine-box grid when it is released.
-**HELD. Do not run.** The nine questions and their links are ruled (Kain, S456). Chat releases this brief by replacing this line once Kain has answered decisions 3 to 9 on `000__DECISIONS__Buyer_Questions_And_Lecture_Pages_S456.html` (the Course Page design folder). Until then it is a draft, written against Chat's recommendations.
+**HELD. Do not run.** The nine questions, their links and the lesson paragraphs are ruled (Kain, S456). Chat releases this brief by replacing this line once Kain has answered decisions 3 to 8 on `000__DECISIONS__Buyer_Questions_And_Lecture_Pages_S456.html` (the Course Page design folder). Until then it is a draft, written against Chat's recommendations.
 
 **For Code (theme session). What this needs from you:** three changes to the course page template, each shown to Kain as four rendered options in the Change Viewer where it is visual, then one DONE naming the theme version.
 
@@ -51,7 +51,7 @@
 
 ## What Chat checks afterwards
 
-On the build site, on the Diploma and on course 027: all eighteen outcomes in the page source and nine on show; every lesson's full description in the source and only its question on show; no lesson link; the nine questions in order with their anchors; every "Read the full answer" address opening a signed page.
+On the build site, on the Diploma and on course 027: all eighteen outcomes in the page source and nine on show; every signed course's lesson paragraphs in the source, each opening on click under its name and question; no lesson link; the nine questions in order with their anchors; every "Read the full answer" address opening a signed page.
 
 OWED BACK: one DONE naming the theme version, the option Kain chose for each visual, and the three checks above as you ran them.
 
