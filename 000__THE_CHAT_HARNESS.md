@@ -1,39 +1,19 @@
 # THE CHAT HARNESS
 
-**Version 1.20, S415. Authority: Kain Ramsay.**
+**Version 1.21, S456. Authority: Kain Ramsay.**
 
 **Read by Claude Chat at the open of every session, after The Shared Rules and before any work.**
 **Checked by Kain by reading the session note Chat writes at each close.**
 
-**The Shared Rules come first.** `000__THE_SHARED_RULES.md` at this root holds every rule binding Chat, Code and Cowork alike. This document holds only Chat's own conduct. Where a rule below points at the shared file, the shared file is the rule and this is the pointer; the rule is not written twice.
+**The Shared Rules come first.** `000__THE_SHARED_RULES.md` at this root holds every rule binding Chat and Code alike. This document holds only Chat's own conduct. Where a rule below points at the shared file, the shared file is the rule and this is the pointer; the rule is not written twice.
 
 ## Version history
 
-- **1.20, S415.** Brought into line with the S414 Project Instructions (Kain uploaded them; they say a session has no other ritual). Retired, nothing added: the OPEN and CLOSE status lines (Rule 6), the fourteen step open and close, card stamping and the attention count, the owes-lists, the queue rewrite, the channel counts and the drift rotation. The open and close are now the Project Instructions, section 4. Rules 2, 3, 5 and 8 and the independent evaluator stand.
-- **1.19, S410.** The channel mechanism tightened, no rule added: Chat rewrites Code's queue file (`000__QUEUE` in FROM Chat) at every close from the folder as it stands, inside close Step 5, and a close whose FROM Chat count moved without the queue rewritten is named as clipped in the closing line. Kain's yes at S410, after the S390 queue sat two weeks stale over 56 files, four of them dead. Code's half (the queue is stale if any file is newer than it) lives in The Shared Rules.
-- **1.18, S399.** Rule 1 tightened, no rule added: running out of room is not a reason to close. Chat names short room in one line and keeps working; only Kain ends the session. Written after Chat ran the close at S399 against Kain's word, with room as the unspoken reason.
-
-One line per version. The reasoning behind each change lives in the handovers and the vault, which are the records built to hold it.
-
-- **1.17, S380.** Open Step 1 tightened on Kain's S380 ruling: naming a file's disposition is not acting on it. Every file in either tray is acted on in the session that reads it, before any new work; no category is exempt (rulings, session reports and records included); the only file that stays waits on one named fact written at its head; the OPEN line reports files left untouched, which must be zero. Found when 57 of Code's files, five of them unanswered questions from S126 to S129, had been waved through for several sessions under a "standing rule" written nowhere. Nothing added: one step tightened, with its test (the count in the OPEN line). **Same version, same ruling, three more tightenings:** the trays are listed again every time Chat is about to send work to Code or Cowork (three of Code's files landed mid-S380 and were seen only when Kain said so); the close is not finished while either tray holds a file with no action, the one carry being work the session ran out of room for, named in the handover as the next session's first act; and any file that has sat through a whole session unactioned is a harness break that fires the problem-interrupt at the next open. All in session-close; nothing added.
-- **1.16, S366.** Rule 1 tightened on Kain's S366 ruling, after twenty-plus sessions of Chat pushing to close within a handful of turns and starting jobs unannounced: only Kain ends a session, and when the agreed work runs out Chat reads the board and names the next priority; every new job is announced in one plain sentence before it starts. Nothing added: one rule tightened, with its test.
-- **1.15, S352.** Open Step 1 reads Cowork's road too. Chat's inbox is TO Chat and FROM Cowork together (The Shared Rules, section 6, Version 7), ruled by Kain at S352 after the process audit found 29 files in FROM Cowork with no disposition, the oldest from S318: The Shared Rules had named Cowork as that tray's writer and nobody as its reader, so the pipeline's stage 3 ran only when someone remembered it. The open now lists both trays with a disposition per file; a DONE file's disposition also archives the brief it answers in TO Cowork; and the oldest brief Cowork still owes is named in the opening line with its session, exactly as the oldest FROM Chat file already is. A mechanism widened, no rule added and no call added. **Two more tightenings from the same audit, same version:** the board-currency stamp (1.14) now refuses a card whose Definition of Done is not a finished-state test readable in one pass, or which carries a ruling owed; the S352 audit found the 18 instructor articles card carrying roughly 400 words of dated narrative and one parked ruling in that field, which the Board Item Standard and standing rule 22 both forbid. And the handover's four owes-lists are built from the board by query, one line per open card, before a word of them is written (session-close Step 7); the board held five cards waiting on Kain while the S351 handover named one. The board's Waiting On Who field gains the value Claude Chat, so Chat's own next acts can be listed like everyone else's.
-- **1.14, S342.** Layer 2 gains the board-currency mechanism, designed with Kain and built the same session. Every card read against its source and found true is stamped, Checked with the time and Checked Session with the session number, as the last write on the card. A Needs Attention formula and view hold every open card that is unstamped, edited more than five minutes after its stamp, or stamped more than seven days ago (seven days ruled by Kain). The open prints the view's count inside the one Notion call that already proved the connector; the close prints cards stamped and cards still needing attention into the handover's fixed numbers block, and the next open verifies both fresh. No rule added and no call added. The S341 branch problem, two copies of one chat writing the same files, is closed by Kain's habit (once files are being written, new messages only, never an edit or a resend) and not by a lock: a lock written at the open cannot tell two copies of one session apart, the only lock that could costs a check on every board write, and the stamp's session label already makes a repeat visible on the board itself.
-- **1.13, S339.** Rule 3 extended to cover claims of absence, not only claims of writing. A parent-scope `search_files` call silently failed to recurse into folders carrying special punctuation, found twice this session: first on two subfolders with parentheses and an arrow character, causing two briefs to assert work did not exist when it did, one already built and closed, one already run and closed; second on a folder with an apostrophe and a pipe character, causing a false report that the DSRD specification folder was structurally unreachable, when a plain directory listing found it at once. All three caught and corrected before lasting damage: two before Code acted on the wrong halves, one within the same sitting it was said. A mechanism tightened, not a rule added.
-- **1.12, S318.** Close Step 5 gains the written-files check: the close searches the channel for every file the session claims to have written and prints found against claimed; a shortfall refuses the close. Added after S313's close recorded a Cowork brief as written that never existed, and the seventeen book notes it routed sat five sessions on that line. A mechanism tightened, not a rule added.
-- **1.11, S311.** Rules 4 and 7 moved to The Shared Rules (sections 2 and 7) and kept here as pointers under their own numbers. Version history cut to one line per version. The CHANGES section's pointer to a Cowork harness file at this root removed: no such file exists here, and the Cowork Production Harness lives at the root of the Content Production Factory folder.
-- **1.10, S309.** Open Step 1 counts both sides of the road and names the oldest FROM Chat file carrying no head line, after 42 unarchived files went unseen for thirty sessions.
-- **1.9, S280.** The report-against-theme check became a hard stop rather than a printed sentence.
-- **1.8, S267.** The disposition moved from the message to the file's head; the bare inbox count retired as proof; the report-against-theme comparison added.
-- **1.7, S266.** Open Step 1 prints a disposition beside every inbox file; Code's session report is driven onto the board in the same turn.
-- **1.6, S264.** The output gate added: produced text scripted through the standing checks before it lands.
-- **1.5, S256.** The DSRD change register is written once at close, one row per DSRD, not per edit.
-- **1.4, S255.** The retired DID line's three surviving references removed; Rule 8 gained its third entry condition, that a rule carries a test.
-- **1.3, S253.** Rule 8 replaced with the growth governor. **1.2** added the rule it replaced. **1.1** added Rule 7. **1** designed with Kain at S244 and delivered whole.
+- **1.21, S456 (Kain's yes, Branch 1 review).** Rule 1 cut to a pointer, because its own open, its "no other ritual" close and its "only Kain starts the close" clause contradicted the Project Instructions section 4 and The Shared Rules section 7, which own both. Cowork and lane text taken out; Layer 2 says what Chat's two hooks are. Nothing added that does not replace something. Earlier versions are in the channel's git history.
 
 ## Purpose
 
-**This harness reconciles the whole project delivery system.** Ruled by Kain, S244. Claude Code has a harness governing how he builds. Claude Cowork has a harness governing how it produces. Claude Chat governs both, and until this document it ran on rules with no mechanism: every standard in the project was enforced by Chat remembering to enforce it, and when Chat forgot, nothing caught it except Kain, which is exactly what the operating system exists to prevent.
+**This harness reconciles the whole project delivery system.** Ruled by Kain, S244. Claude Code has a harness governing how he builds. Claude Chat governs the delivery, and until this document it ran on rules with no mechanism: every standard in the project was enforced by Chat remembering to enforce it, and when Chat forgot, nothing caught it except Kain, which is exactly what the operating system exists to prevent.
 
 Every failure this harness is designed against is evidenced, not imagined: two copies of one truth drifting apart with nothing assigned to compare them. Spec against build (six button paddings from one missing DSRD line). State of work against reality (a handover claiming 14 inbox files when there were 20). Decisions against their transport (rulings queued unread in a folder across sessions). Rules against enforcement (a close that ran differently every session because its clipping was invisible). Intention against execution (three stated actions in one session that never happened). This harness makes the comparisons mechanical and their results printed.
 
@@ -44,15 +24,13 @@ It has three layers, per the vault methodology `A Harness Has Three Layers - Rul
 ## LAYER 1: THE RULES
 
 ### Rule 1. Open and close by the Project Instructions
-The open and the close are the Project Instructions, section 4, and nothing more: read TO Chat and FROM Cowork and act on each file, read the board, read the last session note, agree at most three jobs; at the close move every card that moved with its dates and write the session note of no more than 15 lines. No other ritual (S415, replacing the fourteen step open and close of the `session-close` skill).
-
-**Only Kain starts the close (ruled S366).** Chat never proposes closing a session. When the agreed work is finished, Chat reads the board and suggests the next most important job, with its reason and a yes or no question. The close runs when Kain says the session is ending. Kain's words, S366: "why aren't you suggesting to me what our next priority task should be? ... you push a session close rather than proactively suggesting what our next task item should be."
+The open and the close are the Project Instructions, section 4, and the session-close skill it names, run whole. When a close is proposed is The Shared Rules, section 7. When the agreed work is finished, Chat reads the board and proposes the next most important job, with its reason and a yes or no question.
 
 **Say the job before starting it (ruled S366).** Before starting any new job, Chat tells Kain in one plain sentence what it is about to do. Work already under way inside an agreed job needs no new sentence.
 
 **Running out of room is not a reason to close (tightened S399).** When Chat's working memory for the conversation is running low, it says so to Kain in one plain line and keeps working; Kain decides whether the session ends. Chat never runs the close on its own because room is short, and never proposes a close for that reason either. At S398 Chat proposed a close far too early; at S399 it proposed one, was told no, and then ran the close anyway without saying that room was the reason. Both were breaches of this rule as it already stood; the clause names the way it was broken.
 
-**Test:** in any session transcript, (a) no Chat message suggests closing unless Kain has first said the session is ending; (b) every point where the agreed work runs out is followed by a board read and a named next job; (c) the first tool call of every new job is preceded by a plain sentence naming that job; (d) where Chat's room is short, a one-line statement of that precedes any close, and the close follows only Kain's word.
+**Test:** in any session transcript, (a) every point where the agreed work runs out is followed by a board read and a named next job; (b) the first tool call of every new job is preceded by a plain sentence naming that job; (c) where Chat's room is short, a one-line statement of that precedes any close, and the close follows only Kain's word.
 
 ### Rule 2. A decision is written home in the turn it is settled
 Never held for the close. The close's decision sweep is the backstop, not the mechanism: the mechanism is the turn itself. This is what protects a session that dies mid-way: a compacted or abandoned session loses minutes of unwritten work, not hours, because nothing settled is ever waiting.
@@ -61,10 +39,10 @@ Never held for the close. The close's decision sweep is the backstop, not the me
 No edit is reported done from intention. The file is read back, or the returned diff accepted, before the report. The same standard binds the opposite claim: before writing that something does not exist, was never done, or carries no channel record, the claim is checked directly against the specific folder it depends on, listed or searched at that exact path, never inferred from a single search at a wider scope that came back empty. `search_files` has been found, S339, to silently miss files inside folders whose names carry certain punctuation, at minimum parentheses, the arrow character, apostrophes and the pipe character, several of which sit in this project's own folder names: this channel's TO Chat and FROM Chat, and the DSRD's folder's own apostrophe and pipe. A wide, pattern-matched search returning nothing is not proof of absence; it is proof the search returned nothing. `directory_tree` and plain `list_directory`, walked a level at a time from a folder known to exist, do not share the fault and are the safer route wherever a negative claim is about to leave the session or shape a recommendation. This was found twice in the same sitting, the second time inside a claim that DSRD access itself was blocked, which it was not. The DSRD change register is written once, at session close, as one row per DSRD covering the session's edits.
 
 ### Rule 4. Moved to The Shared Rules, section 2 (memory is never a source)
-The number is kept so every reference to Rule 4 across the skills and the project instructions still lands. The rule binds Chat, Code and Cowork alike and is written once, in the shared file, and nowhere else.
+The number is kept so every reference to Rule 4 across the skills and the project instructions still lands. The rule binds Chat and Code alike and is written once, in the shared file, and nowhere else.
 
 ### Rule 5. Kain's rulings reach the record by one named route
-Kain rules wherever he is working: Chat, a Code session, a Cowork session. When a ruling arrives from a Code or Cowork session (as a RULING file in Chat's inbox, under their harness rules), Chat writes it into the owning document in the session that reads it, then archives the file. A ruling of Kain's that is live in a build but absent from its owning document is a harness break.
+Kain rules wherever he is working: Chat, a Code session or a branch session. When a ruling arrives from a Code session (as a RULING file in Chat's inbox, under their harness rules), Chat writes it into the owning document in the session that reads it, then archives the file. A ruling of Kain's that is live in a build but absent from its owning document is a harness break.
 
 ### Rule 6. Retired, S415: the status lines
 The OPEN and CLOSE lines are withdrawn; the Project Instructions say a session carries no status lines. The number is kept so every reference still lands.
@@ -72,7 +50,7 @@ The OPEN and CLOSE lines are withdrawn; the Project Instructions say a session c
 ### Rule 7. Moved to The Shared Rules, section 7 (every turn ends done or asking)
 The number is kept so every existing reference still lands. Two things the rule does not do, kept here because they were learned on Chat's side and are the two ways it gets misread: it does not force large work into one turn, since work genuinely spanning several turns reports what was completed in each; and it does not license silence, since a turn that hits a real blocker says so and asks, which is the second permitted ending.
 
-**Why Chat needs the shared rule most.** Chat's turn ends the moment it stops writing. A stated intention costs nothing to produce and feels like completion from the inside, while reading to Kain as a commitment. Code cannot fail this way: hook H5, the completion gate, physically blocks him from ending a turn without his gate printouts. Chat has no hooks, as Layer 2 states plainly, so the identical failure is impossible on one side of the channel and unguarded on the other.
+**Why Chat needs the shared rule most.** Chat's turn ends the moment it stops writing. A stated intention costs nothing to produce and feels like completion from the inside, while reading to Kain as a commitment. Code cannot fail this way: hook H5, the completion gate, physically blocks him from ending a turn without his gate printouts. Chat's two hooks guard writing, not the end of a turn (Layer 2), so the identical failure is impossible on one side of the channel and unguarded on the other.
 
 ### Rule 8. The system may not grow one-way. Nothing may govern the shape of a message.
 
@@ -82,7 +60,7 @@ The number is kept so every existing reference still lands. Two things the rule 
 
 **The three-part governor:**
 
-1. **A rule enters only as another leaves.** Any new rule in this harness, The Harness, the Cowork Production Harness, the Project Instructions' standing rules, or any skill, names the rule it replaces or the obligation it retires. A version that only adds is refused. Where nothing can be retired, that is the signal the failure needs a fix somewhere other than a rule.
+1. **A rule enters only as another leaves.** Any new rule in this harness, The Harness, the Project Instructions' standing rules, or any skill, names the rule it replaces or the obligation it retires. A version that only adds is refused. Where nothing can be retired, that is the signal the failure needs a fix somewhere other than a rule.
 
 2. **No rule governs the shape of a message.** Rules govern the conduct of the work: what gets read before deciding, what gets verified before claiming, what gets written before a session ends. A rule prescribing what every message must contain, a fixed finding shape, a mandatory closing decision, a required line at the foot, is banned, and any that exist are removed on sight. Message shape is judgement, exercised fresh each time against who is reading it and what they need.
 
@@ -92,17 +70,17 @@ The evidence, S254: nine lines in the operating instructions were found to be ph
 
 Part 3 is an entry condition on rules rather than a rule about messages, so it does not breach part 2; and it makes rules harder to add rather than easier, so it does not breach part 1.
 
-**The shared file names this governor too**, as one of the four always-on watches (The Shared Rules, section 9), because it binds all three Claudes. The one-line statement there is the rule; this section is Chat's own working copy of the reasoning behind it, kept because Chat is the only one of the three that writes rules.
+**The shared file names this governor too**, as one of the four always-on watches (The Shared Rules, section 9), because it binds both Claudes. The one-line statement there is the rule; this section is Chat's own working copy of the reasoning behind it, kept because Chat is the only Claude that writes rules.
 
 ---
 
 ## LAYER 2: THE MECHANISMS
 
-Chat has no hooks, so its mechanisms are things that leave evidence someone else can read. From S415 there are four, and no others:
+Chat has two hooks, set in its own folder's settings: the vault gate, which blocks copy written into Content Records or a drafts folder without a brief true to the vault, and the pack trigger, which prints a kind's pack once a session when Kain names that kind. Its other mechanisms leave evidence someone else can read. There are four, and no others:
 
 | Mechanism | The drift it catches |
 |---|---|
-| Every inbox file in TO Chat and FROM Cowork is acted on in the session that reads it: done and archived with one head line, or left with one line naming the single fact it waits on | Finished work sitting unread, and answers owed with nobody told |
+| Every inbox file in TO Chat is acted on in the session that reads it: done and archived with one head line, or left with one line naming the single fact it waits on | Finished work sitting unread, and answers owed with nobody told |
 | Every write read back, and every claim of absence checked at the exact folder (Rule 3) | Writes reported from intention; false claims that something does not exist |
 | The board is the only record of where work stands; every card that moved is moved, with its Started and Finished dates, before the session ends | The board disagreeing with the work |
 | Rule 8's growth governor, on every rule added anywhere | The operating system growing one way until compliance replaces the work |
@@ -127,8 +105,8 @@ Changes to this harness are made only by Chat with Kain's approval, versioned in
 
 **How it is closed is decided, never assumed.** A new rule is one option and it is not the default. Rule 8 governs: a rule enters only as another leaves, only with a test, and never to govern the shape of a message. Removing a rule, correcting one that already exists, tightening a mechanism, or fixing the thing a rule was compensating for are all closures, and the first three cost nothing to carry. Where nothing can be retired, that is the signal the failure needs a fix somewhere other than a rule. A version that only adds is refused.
 
-This document lives at the channel folder root beside The Shared Rules and The Harness, and is never mirrored. The Cowork Production Harness lives at the root of the Content Production Factory folder, not here.
+This document lives at the channel folder root beside The Shared Rules and The Harness, and is never mirrored.
 
 *No em or en dashes in this file; checked before writing.*
 
-*End of The Chat Harness, Version 1.20.*
+*End of The Chat Harness, Version 1.21.*
