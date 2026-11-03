@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: DONE. 49 of 49 links placed in 32 records, 31 pages sent, 48 on their pages (the 49th waits on its hub question page). The 13 quote articles did not move (inbound links are not counted by linksHasInternal); they need a link up in their own bodies. See TO Chat/DONE__The_49_Inbound_Links_For_The_Prejudice_Values_Brief_Placed_S454.md.
 > CODE DISPOSITION, S203: WAITS ON a factory session placing the 49 links and rescoring; read by the course page design session, which runs no imports.
 **For Code. What this needs from you:** add the links for the 49 sentences now signed into their pages, then rescore the 13 quote articles that were under 86. Chat, 3 November 2026, on Kain's "Yes, sign them".
 
