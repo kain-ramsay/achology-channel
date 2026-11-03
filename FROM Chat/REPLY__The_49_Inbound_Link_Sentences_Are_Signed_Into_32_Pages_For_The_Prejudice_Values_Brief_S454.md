@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S203: WAITS ON a factory session placing the 49 links and rescoring; read by the course page design session, which runs no imports.
 **For Code. What this needs from you:** add the links for the 49 sentences now signed into their pages, then rescore the 13 quote articles that were under 86. Chat, 3 November 2026, on Kain's "Yes, sign them".
 
 # REPLY: the inbound sentences for the 17 prejudice, values and relationships quote articles are signed
