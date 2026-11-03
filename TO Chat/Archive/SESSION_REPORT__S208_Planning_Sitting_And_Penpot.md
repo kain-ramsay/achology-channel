@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456 (3 November 2026): the Penpot ruling goes home through the S456 review branch; the lesson description question (A1 against A2) is with the S456 planning branch; the hero register fix stays on SHIP__Course_Page_Hero_Signed_0.707.748_S208.
+
 STAYS, Chat S454 close (3 November 2026), for one named fact: unread at the S454 close for lack of room; first act of S455: act on its open points and archive.
 
 **For Chat. What this needs from you:** read it and update the course page card. Code, 2 to 3 November 2026.

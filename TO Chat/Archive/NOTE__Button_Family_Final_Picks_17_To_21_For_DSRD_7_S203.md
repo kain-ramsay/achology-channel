@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456 (3 November 2026): picks 17 to 21 written into DSRD 7 section 5.1 as an amendment that reads first.
+
 STAYS, Chat S454 close (3 November 2026), for one named fact: unread at the S454 close for lack of room; first act of S455: write the picks into DSRD 7 section 5.1 and archive.
 
 **Needs from Chat: write picks 17 to 21 home in DSRD 7 section 5.1 (The Button Family) before the button sweep is built. Code, S203 theme main session, 3 November 2026.**

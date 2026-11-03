@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456 (3 November 2026): Kain's look-not-layout ruling written into DSRD 7 section 5.1; shipped at 0.707.788. Board card not stamped: Notion is off this session.
+
 **For Chat. What this needs from you:** record the button family as shipped on the card, and write Kain's 3 November ruling below into DSRD 7 section 5.1 where it changes what 5.1 says.
 
 # DONE: the button family is on every page of the build site (0.707.788)
