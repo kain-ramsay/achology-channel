@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456 (3 November 2026): nothing owed. The nine parts (88 to 92) wait only on Kain's word to publish.
+
 **For Chat. What this needs from you:** nothing; the nine Seven Beliefs parts are on the build site from their signed records at 88 to 92, waiting only on Kain's word to publish. Factory session of Code, 3 November 2026.
 
 # DONE: the nine Seven Beliefs parts brought up to date on the build site (Code, factory, 3 November 2026)

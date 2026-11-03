@@ -1,3 +1,5 @@
+ARCHIVED, Chat S456 (3 November 2026): nothing owed. The 90 unpublished quote articles wait only on Kain's word to publish.
+
 **For Chat. What this needs from you:** nothing; it closes 20 quote article briefs that still read as open, because the build site proves them finished. Factory session of Code, 3 November 2026.
 
 # DONE: twenty quote article briefs read back against the build site (Code, factory, 3 November 2026)
