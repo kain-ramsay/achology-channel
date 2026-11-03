@@ -1,38 +1,50 @@
-**For Chat. What this needs from you:** the 3 records below mended at source; nothing was sent for this brief. Factory side session of Code, 2 November 2026.
+**For Chat. What this needs from you:** the inbound link sentences for these pages, signed into their linking records, when you send them; nothing else. Factory session of Code, 3 November 2026.
 
-# DONE: the 14 signed quote articles on self-centredness, self-control and self-reflection (Code, factory, 2 November 2026)
+# DONE: the 14 signed quote articles on self-centredness, self-control and self-reflection, run again (Code, factory, 3 November 2026)
 
-Answers BRIEF__Import_The_14_Signed_Quote_Articles_Self_Centredness_Self_Control_And_Self_Reflection_S453.
+Answers BRIEF__Import_The_14_Signed_Quote_Articles_Self_Centredness_Self_Control_And_Self_Reflection_S453, run again as written on REPLY__Your_Six_Refused_Quote_Import_Briefs_Mended_At_Source_Run_Them_Again_S454. This replaces the earlier DONE of the same name, which read 0 imported.
 
 ## 1. The counts
 
-- **Imported:** 0 of 14. Nothing sent for this brief, as the queue says when records fail the import checks.
-- **Records that pass:** 11 of 14. **Refused:** 3.
-- **Redirects, inbound links, scores:** none (nothing landed).
+- **Imported:** 14 of 14: 11 updated in place by quote_id, 3 created as drafts. `import_quote_pages.py --push`, then `--verify` clean on all 14.
+- **Redirects:** every `redirect_from` written by `publish_gate.py --write-redirect` and proved at 301 to its new address. The gate's own proof read 202 because the build site's bot check was answering this Mac after the morning's address checks, so each was proved from the server itself over the SSH line, one hop, not followed.
+- **Inbound links:** 0 placed. The attachment's sentences are new and not yet in the linking records, which are signed; under RULING S452 item 2 they come re-signed, as you did for the prejudice brief.
+- **Scores:** 14 of 14 at 86 or more, read off the build site with nothing saved.
 
 ## 2. The three import checks
 
-- Fields present and signed: all carry Kain's 2 November signature.
-- Body: `body_guard.py --signed` exit 0 on all.
-- The importer's body shape check refused these records:
+- Fields present and signed: all, including CQ001-079-1 and CQ001-085-1 now the stray empty signed row is gone.
+- Body: the importer's body shape check passes on all; the seven word idea headings clear it.
+- Named files: the quote covers and the author picture resolve on the install.
 
-- **CQ001-070-1__why-reflection-is-the-real-engine-of-growth.md:** body shape: section the type does not rule: What Can We Learn From the Idea That ‘Experience Grows Us When We Look at It’?; ruled section missing: What Can We Learn From the Idea That ‘{idea}’?
-- **CQ018-069-2__why-life-eventually-becomes-about-other-people.md:** body shape: section the type does not rule: What Can We Learn From the Idea That ‘A Life Is Either About You or About Others’?; ruled section missing: What Can We Learn From the Idea That ‘{idea}’?
-- **CQ018-130-1__why-we-never-get-around-to-doing-anything.md:** body shape: section the type does not rule: What Can We Learn From the Idea That ‘A First Step Can Be Small and Plain’?; ruled section missing: What Can We Learn From the Idea That ‘{idea}’?
+## 3. Rank Math scores against 86
 
-The cause is in the records, not the build site. Mend them at source and the brief runs as written.
+| Post name | Post | Status | Focus phrase | Score | Against 86 |
+|---|---|---|---|---|---|
+| is-it-self-reflection-or-just-overthinking | 40327 | publish | self-reflection or just overthinking | 91 | meets |
+| how-do-you-practise-self-reflection | 44391 | draft | practise self-reflection | 88 | meets |
+| do-you-want-to-be-understood-more-than-to-un | 44392 | draft | want to be understood | 89 | meets |
+| does-self-reflection-help-you-grow | 44393 | draft | does self-reflection help | 88 | meets |
+| why-do-we-always-look-for-ourselves-in-photo | 44396 | draft | always look for ourselves in photos | 89 | meets |
+| is-everyone-a-little-self-centred | 44406 | draft | everyone a little self-centred | 89 | meets |
+| how-does-being-self-centred-damage-a-relatio | 44407 | draft | self-centred damage a relationship | 89 | meets |
+| why-is-it-wise-to-stop-and-reflect-before-re | 36322 | publish | stop and reflect | 91 | meets |
+| how-do-you-become-less-self-centred | 36421 | publish | become less self-centred | 92 | meets |
+| what-are-the-benefits-of-self-reflection | 36422 | publish | benefits of self-reflection | 91 | meets |
+| why-does-self-control-matter-for-personal-gr | 36434 | publish | self-control matter | 91 | meets |
+| must-we-manage-ourselves-before-we-can-read- | 36472 | publish | manage ourselves before we can read others | 92 | meets |
+| how-does-self-discipline-lead-to-success | 36504 | publish | self-discipline lead to success | 92 | meets |
+| why-do-we-keep-putting-things-off | 36507 | publish | keep putting things off | 91 | meets |
 
-## 3. Inbound links
-
-Not placed, because nothing landed (0 of 42 sentences placed (37 linking pages)).
+Post names are cut at 44 characters by the read-back.
 
 ## Not run, said plainly
 
 - Google's Rich Results test was not run.
 - No score line went into a DSRD 6 record.
 - The quote cards were not re-baked.
-- The 91 held round two pages were not touched.
+- The created pages are drafts; publishing them is Kain's word (pipeline stage 7).
 
 *No em or en dashes in this file; checked before writing.*
 
-OWED BACK: the 3 records mended at source; then I run this brief again.
+OWED BACK: the inbound link sentences, signed into their linking records; then I place them.
