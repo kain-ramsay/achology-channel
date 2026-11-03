@@ -18,8 +18,10 @@
 
 ## 2. The course contents (block 3)
 
-- **Each lesson shows its name, and under it its guiding question** (the first paragraph of its description, as `achology_course_lesson_summary()` already returns). This is decision 9.
-- **The rest of the description is put into the delivered page, out of sight until the lesson is opened.** Today only the first paragraph is printed, so the spec's own line, "Every lesson name and description is in the delivered page and hidden visually only", is not yet met. Nothing loads on click.
+- **Each lesson shows its name, and under it its guiding question** (the first paragraph of its Standardised Description, as `achology_course_lesson_summary()` already returns).
+- **Clicking a lesson opens one paragraph of 60 to 80 words saying what the lesson teaches** (Kain, S456: "we need a paragraph for each ... a block that allows the website visitor to navigate through exploring exactly what is taught in every lecture of the course"; course 001 signed: "totally user friendly ... exactly what I was looking for"). The paragraph replaces the rest of the Standardised Description on the page; the description itself is not printed.
+- **Where the paragraphs come from.** One copy file per course in the Course Page folder's `Course Page Copy`, `000__COPY__Course_Lesson_Paragraphs_{NNN}_S456.md`, each paragraph under a bold line that starts with its lesson key (`**001-006 ...**`). Build one theme data file from them (a `paragraph` field per lesson, keyed by lesson key, beside or inside `data/lectures/{slug}.json`), with a build step so a re-signed copy file can be rebuilt without hand edits. Print only courses whose copy file says signed; a course not yet signed shows the name and question with no paragraph.
+- **The look Kain signed** is in `Course Contents Previews S456/000__PREVIEW__Course_Contents_001_S456.html`: sections fold as option 1, each lesson is one button carrying its name, a plus mark and its question, and the paragraph opens beneath it. Every paragraph is in the delivered HTML and hidden visually only, so the spec's line "Every lesson name and description is in the delivered page and hidden visually only" is met; nothing loads on click. The button states `aria-expanded` and controls its paragraph.
 - **No lesson links out.** The course page reaches the lesson articles only through its one line to its home hub (DSRD 1 section 6, link line 5). This is decision 6.
 - Courses 012 and 027 keep their named cases (no section structure; one section).
 
