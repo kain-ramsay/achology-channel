@@ -7,7 +7,7 @@
 
 ## 1. Install Anthropic's design skill, on by default
 
-Install Anthropic's official frontend-design plugin: `/plugin marketplace add anthropics/claude-code`, then `/plugin install frontend-design@claude-code-plugins`. Enable it in the theme project's own `.claude/settings.json`, so every Code session in the theme loads it without anyone asking. Keep the visual-design-craft skill on beside it.
+Install Anthropic's official frontend-design plugin, which lives in `anthropics/claude-plugins-official` (plugins/frontend-design), not in anthropics/claude-code as first written: `/plugin marketplace add anthropics/claude-plugins-official`, then `/plugin install frontend-design@claude-plugins-official`. Also turn on ui-ux-pro-max (nextlevelbuilder/ui-ux-pro-max-skill), which is already among the account's skills, and use the Playwright MCP already on this machine to screenshot every design. Enable it in the theme project's own `.claude/settings.json`, so every Code session in the theme loads it without anyone asking. Keep the visual-design-craft skill on beside it.
 
 ## 2. A hook that fires on every design file
 
