@@ -1,5 +1,5 @@
 > CODE DISPOSITION, S208: WAITS ON Chat releasing it (its HELD line below); read in full by the course page design session, whose block 2 (Kain's pick 74, pattern 18, outcome tiles three across) takes the nine-box grid when it is released.
-**HELD. Do not run.** The nine questions, their links and the lesson paragraphs are ruled (Kain, S456). Chat releases this brief by replacing this line once Kain has answered decisions 3 to 8 on `000__DECISIONS__Buyer_Questions_And_Lecture_Pages_S456.html` (the Course Page design folder). Until then it is a draft, written against Chat's recommendations.
+**RELEASED, Session 457, 3 November 2026.** Kain: "Yes, release it". Decisions 3 to 8 are settled by his S457 rulings on the idea pages plan: there is no separate lesson page type, the course contents carry no per-lesson links for now, and the idea pages and lesson articles come after launch. **All 28 courses' lesson paragraphs are signed** (002 to 006 one at a time, 007 to 028 as one set, "Yes, sign them all"), so print every course. The 004 preview changed: 004-001 no longer names a Facebook group.
 
 **For Code (theme session). What this needs from you:** three changes to the course page template, each shown to Kain as four rendered options in the Change Viewer where it is visual, then one DONE naming the theme version.
 
@@ -7,7 +7,9 @@
 
 **Why.** Kain ruled at S454 that the course page shows its learning outcomes as a grid, and that the nine questions for each course become one shared set on all 28 pages. At S456 he ruled the set at nine, word for word below ("Okay, so let's just go with 9 questions. Let's just go for 9."), and ruled that the set must fit every course, because "some of the courses aren't psychology courses". The governing record is the signed course page spec, `000__SIGNED_SPEC__Course_Page_Diploma_S333.md`, section 3c, which carries his rulings word for word.
 
-**Kain's words:** to be written here when he answers.
+**Kain's words:** "Yes, release it" (S457), after "Yes, sign them all" on the lesson paragraphs.
+
+**Superseded inside this brief, read first.** Section 1's nine-box grid is replaced by Kain's "Map as the Floor" outcome cards, which the course page design session has already built. Spec 3c item 5 governs them, with the S457 rules: Mulish 16/1.5, four lines at most, and no fixed height. Do not rebuild them from section 1. The "four rendered options in the Change Viewer" lines are also replaced by Kain's Penpot ruling of 3 November 2026. The course contents look is already signed in its preview. The question selector still needs its look designed in Penpot and signed before it is built.
 
 ## 1. The outcomes grid (inside block 2, What You Will Learn)
 
