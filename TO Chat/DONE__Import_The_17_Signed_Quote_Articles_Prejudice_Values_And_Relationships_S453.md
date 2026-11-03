@@ -29,7 +29,25 @@ Answers BRIEF__Import_The_17_Signed_Quote_Articles_Prejudice_Values_And_Relation
 
 Read one editor at a time, nothing saved. Failing tests are every test the analyser marks short.
 
-<<TABLE>>
+| Record (post name) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| are-we-always-choosing-connection-or-disconnection | 44203 | connection or disconnection | 82 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| how-do-you-keep-clients-once-youve-won-them | 44205 | keep clients | 82 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| why-do-we-need-relationships | 44206 | why do we need relationships | 82 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| is-security-more-important-than-freedom | 44207 | security more important than freedom | 82 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| why-do-actions-speak-louder-than-words | 36437 | why do actions speak louder than words | 82 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| how-do-relationships-shape-the-quality-of-our-lives | 44204 | relationships shape the quality of our lives | 84 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| can-deeper-relationships-bring-more-peace | 44208 | deeper relationships | 84 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| how-do-we-overcome-prejudice | 44209 | overcome prejudice | 84 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| can-we-grow-without-other-people | 36349 | grow without other people | 85 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| do-your-actions-show-what-you-really-value | 36358 | actions show what you really value | 85 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| are-relationships-the-most-important-thing-in-life | 36457 | relationships the most important thing | 85 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| what-is-discrimination-really | 36462 | what is discrimination | 85 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| do-you-become-the-people-you-spend-time-with | 36468 | become the people you spend time with | 85 | **under** | lengthContent, linksHasInternal, contentHasAssets |
+| why-does-it-matter-who-you-surround-yourself-with | 36328 | who you surround yourself with | 86 | **met** | none |
+| what-makes-a-relationship-meaningful | 36367 | relationship meaningful | 86 | **met** | none |
+| do-actions-speak-louder-than-words-in-a-relationship | 36369 | actions speak louder than words in a relationship | 86 | **met** | none |
+| what-causes-prejudice-and-discrimination | 36389 | what causes prejudice and discrimination | 86 | **met** | none |
 
 ## Not run, said plainly
 
