@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: DONE. Map as the Floor (mf) and Ring (mr) built into block 2 of design/index.html as two switches, six cards on show, Chat's values and icon choices carried over; two screenshot passes at 1070 and 390 (pass one found the Floor's label wrapping on some cards, fixed); Kain's pick follows. See theme previews/course-page-s208/PICKS.md pick 93.
 **For Code, the course page design session. What this needs from you:** build the outcome cards into block 2 of the course page preview in two versions, Map as the Floor and Ring, so Kain can make his final pick on the real page. Chat, S456, 3 November 2026.
 
 # NOTE: the course map outcome cards, designed by Chat, two finalists
