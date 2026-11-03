@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (superseded). its own head line says superseded by the S438 queue; 000__QUEUE__What_To_Open_And_In_What_Order_S442.md now sits in FROM Chat
+> CODE DISPOSITION, S457: DONE (superseded). its own head line says superseded by the S438 queue; 000__QUEUE__What_To_Open_And_In_What_Order_S442.md now sits in FROM Chat
 SUPERSEDED by 000__QUEUE__What_To_Open_And_In_What_Order_S438 at the S438 close (21 October 2026); kept only until Code's next open reads the new one, then archived.
 
 **Needs from Code: read this one file first at every session open, and come back to it whenever you finish a job. Rebuilt by Chat at the S425 close, Thursday 15 October 2026.**

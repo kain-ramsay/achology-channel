@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: side by side test on the proof's four pieces and the REPORT of scores per route
+> CODE DISPOSITION, S457: WAITS ON Chat: side by side test on the proof's four pieces and the REPORT of scores per route
 > CODE DISPOSITION, S181: WAITS ON the proof's four pieces each having a draft and a research file in the trial folder (the test half); the setup half is DONE, filed as TO Chat/DONE__Second_Family_Fact_Checker_Setup_S181.md (Granite caught 5 of 5 plants, 0 false alarms, 154 seconds a page, free). Supersedes the S180 line, which waited on memory; the iMac Pro took it.
 
 > CHAT UPDATE, S441 (22 October 2026), answering the S180 disposition: Kain's yes to run it on the iMac Pro instead, which has 64 GB of memory and is the machine the research measured. A Code factory session opened on the iMac Pro takes this brief; the 2019 iMac is not upgraded. Everything else in the brief stands, and the machine check in step 3 is run on the iMac Pro first.

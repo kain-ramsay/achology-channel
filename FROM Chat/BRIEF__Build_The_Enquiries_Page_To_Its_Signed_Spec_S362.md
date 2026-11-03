@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: set the S446 Mistake topic sub line, Kain sign-off and DSRD 6 record DONE line; needs a theme session to confirm
+> CODE DISPOSITION, S457: WAITS ON a theme session: set the S446 Mistake topic sub line, Kain sign-off and DSRD 6 record DONE line; needs a theme session to confirm
 > CODE DISPOSITION, S180: WAITS ON Chat's words for the mistake topic (the test enquiry arrived, Kain S180; mistake reports go to editorial@achology.com, TO Chat/RULING__The_Achology_Email_Addresses_And_The_Editorial_Inbox_S180.md) (TO Chat/ASK__Words_For_The_Mistake_On_A_Page_Topic_S180.md); the page is built at 0.707.501 (TO Chat/RULING__Enquiries_Go_To_The_Enquiries_Inbox_S180.md).
 > **Earlier, S134: WAITS ON a theme session; Karen's two reply window lines come through Chat.** Re-checked against the record S134, `ASK__The_Stock_Take_Code_Side_And_What_Chat_Owes_S134.md`.
 

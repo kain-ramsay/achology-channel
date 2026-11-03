@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. TO Chat Archive RULING__Kain_Says_The_Reviews_Card_Can_Close_S145 and REPORT__The_Reviews_Page_Sitting_S145; Chat marked the card Done S398
+> CODE DISPOSITION, S457: DONE. TO Chat Archive RULING__Kain_Says_The_Reviews_Card_Can_Close_S145 and REPORT__The_Reviews_Page_Sitting_S145; Chat marked the card Done S398
 > **CODE DISPOSITION, S140: WAITS ON a PAGE GATE line (or DOCUMENT TYPE line) at the foot of this brief so the closing panel wrapper edit can land; item 1's spacing half shipped at v0.707.5. See TO Chat/ASK__The_Reviews_Brief_Needs_Its_Page_Gate_Line_Before_The_Closing_Panel_Edit_S140.md.**
 
 > **CODE DISPOSITION, S135: WAITS ON a theme change set for /reviews/ (not started; this sitting is on the Courses page at Kain's direction) and TO Chat/REPORT__Reviews_Page_Card_Closed with the returned DSRD 6 record.**

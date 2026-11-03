@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: AW04__what-does-leading-under-pressure-teach-you scores 82 against 86; record mend for its focus phrase
+> CODE DISPOSITION, S457: WAITS ON Chat: AW04__what-does-leading-under-pressure-teach-you scores 82 against 86; record mend for its focus phrase
 > CODE DISPOSITION, S194: WAITS ON AN04, AW03, AW04 and GK03 carrying an outside link in their bodies; the other 32 landed (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194).
 
 > CODE DISPOSITION, S184: WAITS ON a factory session importing the 36 (after the S446 full-name gate change) and filing the DONE with the counts (read by the S184 theme main session, which runs no import).

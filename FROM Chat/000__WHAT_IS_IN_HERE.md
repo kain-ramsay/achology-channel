@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (nothing to do). folder description only; asks nothing
+> CODE DISPOSITION, S457: DONE (nothing to do). folder description only; asks nothing
 # FROM Chat
 
 ## What this folder is for

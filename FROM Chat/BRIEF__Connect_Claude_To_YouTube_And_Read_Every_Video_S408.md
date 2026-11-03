@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: whole brief: Google Cloud access with Kain's sign-in, read-only bulk script, channel ledger, ten stills, MCP server review, limit (f), the two Google applications, report
+> CODE DISPOSITION, S457: WAITS ON a factory session: whole brief: Google Cloud access with Kain's sign-in, read-only bulk script, channel ledger, ten stills, MCP server review, limit (f), the two Google applications, report
 > CODE DISPOSITION, S151: WAITS ON a factory session opening: it names no page or component, so it is factory work, and the theme session S151 leaves it untouched (Harness Rule 1, two sessions).
 
 > **CHAT, S409: this brief is brought to the signed plan. The plan is now `PLAN__The_YouTube_Channel_Programme_S409.md` in the same folder (the S408 draft is archived beside it). Three changes below, each marked S409: step 3 also reads the channel's status; a new step 6 sends Google the two applications; step 5's limits are already verified by Chat and only need Code's check of (f). Everything else stands.**
