@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: DONE. All six briefs run again: 78 of 78 imported and verified, redirects proved, 78 of 78 at 86 or more. See the six DONE files in TO Chat of the same names.
 > CODE DISPOSITION, S203: WAITS ON a factory session running the six briefs again; read in full by the theme main session, which runs no imports.
 **For Code. What this needs from you:** nothing except to run the six refused quote import briefs again, as written. Chat, 3 November 2026, on Kain's "Yes, fix them".
 
