@@ -29,7 +29,21 @@ Answers BRIEF__Import_The_13_Rewritten_Quote_Articles_Outlook_Fulfilment_And_Rel
 
 Read one editor at a time, nothing saved. Failing tests are every test the analyser marks short.
 
-<<TABLE>>
+| Record (post name) | Post | Focus phrase | Score | Against 86 | Failing tests |
+|---|---|---|---|---|---|
+| what-is-the-difference-between-faith-and-fear | 43712 | difference between faith and fear | 88 | **met** | none |
+| can-you-ever-be-objective-about-yourself | 43643 | be objective about yourself | 88 | **met** | none |
+| why-are-first-impressions-so-hard-to-change | 43713 | first impressions so hard to change | 89 | **met** | none |
+| is-intelligence-fixed-or-can-it-grow | 43714 | intelligence fixed | 89 | **met** | none |
+| is-there-a-limit-to-how-much-you-can-grow | 43715 | limit to how much you can grow | 89 | **met** | none |
+| is-fulfilment-better-than-happiness | 36320 | fulfilment better than happiness | 91 | **met** | none |
+| how-can-you-be-a-more-relatable-person | 36334 | be a more relatable person | 91 | **met** | none |
+| what-makes-someone-relatable | 36371 | what makes someone relatable | 91 | **met** | none |
+| difference-between-happiness-and-fulfilment | 36394 | difference between happiness and fulfilment | 91 | **met** | none |
+| will-reaching-your-goals-ever-bring-fulfilment | 36475 | reaching your goals | 91 | **met** | none |
+| can-a-fixed-mindset-be-changed | 36488 | fixed mindset | 91 | **met** | none |
+| are-you-driven-by-fear-or-by-freedom | 36333 | driven by fear or by freedom | 92 | **met** | none |
+| why-do-some-people-seem-so-hard-to-relate-to | 36391 | people seem so hard to relate to | 92 | **met** | none |
 
 ## Not run, said plainly
 
