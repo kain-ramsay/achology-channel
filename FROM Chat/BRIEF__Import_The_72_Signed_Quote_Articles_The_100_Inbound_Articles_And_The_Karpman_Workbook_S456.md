@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which imports, scores and publishes nothing.
 **For Code (factory session). What this needs from you:** a factory import of these 72 signed quote articles, the update in place of 100 signed articles that gained inbound link sentences, the import of the signed Karpman workbook, and one wording change on the Code of Ethics page, then one DONE with the counts and the score table.
 
 # BRIEF: import the 72 signed quote articles of writer C's list, the 100 articles with inbound sentences, the Karpman workbook mend and one Code of Ethics line (Chat, Session 456, 3 November 2026)

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which imports, scores and publishes nothing.
 **For Code, factory session. What this needs from you:** set the 90 waiting quote articles and the nine Seven Beliefs parts to published on the build site, then report back. Chat, S456, 3 November 2026, on Kain's yes.
 
 # BRIEF: publish the 90 quote articles and the nine Seven Beliefs parts on the build site
