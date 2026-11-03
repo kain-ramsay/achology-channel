@@ -29,18 +29,18 @@
 
 | # | Question | Anchor | Read the full answer goes to |
 |---|---|---|---|
-| 1 | Is this course right for me? | `q-fit` | /help/achology-basics-and-identity/who-is-achology-designed-for/ |
-| 2 | Do I need any experience before I start? | `q-experience` | /help/learning-experience/achology-course-prerequisites-requirements/ |
-| 3 | What do I get when I buy this course? | `q-included` | /help/comparisons-and-alternatives/what-makes-achology-different/ |
-| 4 | How are the lessons in an online course delivered? | `q-lessons` | /help/learning-experience/how-achology-courses-work-self-paced/ |
-| 5 | How long do I have to finish the course? | `q-time` | /help/pricing-and-payments/achology-lifetime-access-explained/ |
-| 6 | Can I study at my own pace around work? | `q-pace` | /help/learning-experience/how-long-achology-courses-take-timelines/ |
-| 7 | Can I ask questions while I'm studying? | `q-questions` | /help/community-and-conduct/ask-questions-achology-community/ |
-| 8 | What happens when my included membership ends? | `q-membership` | /help/membership-and-access/course-included-free-membership-happens-when/ |
-| 9 | Can I pay for the course in monthly instalments? | `q-instalments` | /help/pricing-and-payments/pay-instalments-achology-courses/ |
-| 10 | What if the course turns out not to be for me? | `q-refund` | /help/refunds-and-billing/does-achology-offer-a-money-back-guarantee/ |
-| 11 | Is this course any good? | `q-good` | /reviews/ |
-| 12 | Why pay for a course when so much is free online? | `q-free` | /help/comparisons-and-alternatives/why-pay-achology-when-free-content-exists/ |
+| 1 | Is this the right course for me to start with? | `q-start` | /help/getting-started/first-course-complete-beginner/ |
+| 2 | Do I need a background in psychology before I start? | `q-background` | /help/getting-started/is-achology-suitable-for-beginners/ |
+| 3 | Will this help me in my own life, or only with clients? | `q-own-life` | /help/outcomes-and-expectations/achology-course-outcomes/ |
+| 4 | Will I learn practical skills, or mostly theory? | `q-practical` | /help/achology-basics-and-identity/achology-teaching-philosophy/ |
+| 5 | How is this different from a university psychology course? | `q-university` | /help/comparisons-and-alternatives/achology-vs-university-psychology/ |
+| 6 | Should I buy this course alone or the whole school? | `q-school` | /help/curriculum-and-subjects/which-courses-included-each-school-bundle/ |
+| 7 | How many hours a week will the course take? | `q-hours` | /help/learning-experience/how-long-achology-courses-take-timelines/ |
+| 8 | How long do I have to finish the course? | `q-time` | /help/pricing-and-payments/achology-lifetime-access-explained/ |
+| 9 | Will I get to practise what I learn with other people? | `q-practise` | /help/events-and-mentorship/achology-live-events-types/ |
+| 10 | What happens when my included membership ends? | `q-membership` | /help/membership-and-access/course-included-free-membership-happens-when/ |
+| 11 | Can I pay for the course in monthly instalments? | `q-instalments` | /help/pricing-and-payments/pay-instalments-achology-courses/ |
+| 12 | What if the course turns out not to be for me? | `q-refund` | /help/refunds-and-billing/does-achology-offer-a-money-back-guarantee/ |
 
   Every address above is the one its Help record carries in Content Records; check each against the install before it is printed.
 
