@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S203: WAITS ON the factory session (191. Factory Backlog Prioritization), passed by SendMessage; read only by the button family session, which runs no imports.
 **For Code. What this needs from you:** place the links for the 38 new Outlook sentences, take off the 18 links whose sentences were removed, and send again the pages listed below, so the live text matches the records. Chat, 3 November 2026, on Kain's "yes" to the one reading page.
 
 # REPLY: the link sentences for 54 pages are signed
