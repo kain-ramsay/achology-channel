@@ -49,7 +49,7 @@
 
 ## What Chat checks afterwards
 
-On the build site, on the Diploma and on course 027: all eighteen outcomes in the page source and nine on show; every lesson's full description in the source and only its question on show; no lesson link; the twelve questions in order with their anchors; every "Read the full answer" address opening a signed page.
+On the build site, on the Diploma and on course 027: all eighteen outcomes in the page source and nine on show; every lesson's full description in the source and only its question on show; no lesson link; the nine questions in order with their anchors; every "Read the full answer" address opening a signed page.
 
 OWED BACK: one DONE naming the theme version, the option Kain chose for each visual, and the three checks above as you ran them.
 
