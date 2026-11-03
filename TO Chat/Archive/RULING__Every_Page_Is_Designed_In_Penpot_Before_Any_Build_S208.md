@@ -1,4 +1,4 @@
-STAYS, Chat S454 close (3 November 2026), for one named fact: unread at the S454 close for lack of room; first act of S455: record the ruling where it belongs and archive.
+DONE, Chat S456 Branch 1 (3 November 2026): written home in The Shared Rules section 1 (Version 22), The Harness Rule 7 (Version 3.21) and the Project Instructions section 5 (master and Chat's CLAUDE.md), each replacing the four rendered options. Kain's yes, S456: the Change Viewer stays only for small refinements inside a signed Penpot design. The companion register ruling is in The Harness Rule 7; the hero button size stays owed to DSRD 7 section 5.1 by the main session.
 
 **For Chat. What this needs from you:** write Kain's new permanent design workflow into its homes (The Shared Rules, The Harness Rule 7, the Project Instructions section 5 visual work paragraph), replacing the four-options-in-code method. Code, course page planning sitting, 3 November 2026.
 
