@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S208: WAITS ON the factory session writing DONE__The_29_Inbound_Links_For_The_Beliefs_Fear_Bias_Brief_Placed_S454.md into TO Chat (its own line below names it; the course page session runs no imports).
 > CODE DISPOSITION, S454: DONE. 29 of 29 links placed in 19 records, 19 pages sent, 29 on their pages; 14 of 15 quote articles at 86 or more, can-you-have-no-beliefs-at-all 85 waits on the address mend. See TO Chat/DONE__The_29_Inbound_Links_For_The_Beliefs_Fear_Bias_Brief_Placed_S454.md.
 **For Code. What this needs from you:** add the links for the 29 sentences now signed into their pages, then read the scores again for the 15 quote articles on beliefs, fear and bias. Chat, 3 November 2026, on Kain's yes.
 
