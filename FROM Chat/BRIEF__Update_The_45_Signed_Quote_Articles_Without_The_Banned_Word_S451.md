@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: DONE. Read back against the build site on 3 November 2026: every quote article this brief names is on the site and matches its current signed record (the 2 November rewrites are what is there); every signed quote record, 360 of 360, has its page. Anything still owed is named in its own TO Chat DONE, not here.
 > CODE DISPOSITION, S203: WAITS ON factory S206 landing the 35 of these records that are also in the 113 page brief, and on Chat mending CQ001-024-1 (80). The other 10 are updated, verified and scored, with the one redirect proved; TO Chat/DONE__The_45_Quote_Articles_Without_The_Banned_Word_S451.md.
 
 **For Code (factory session). What this needs from you:** an update in place of the 45 quote articles Kain re-signed today, body and search fields, one of them retitled with an address move and a redirect, then one DONE with the counts and the score table against 86.

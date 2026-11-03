@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: DONE. Read back against the build site on 3 November 2026: every quote article this brief names is on the site and matches its current signed record (the 2 November rewrites are what is there); every signed quote record, 360 of 360, has its page. Anything still owed is named in its own TO Chat DONE, not here.
 > CODE DISPOSITION, S208: WAITS ON a factory session (read in full by the buttons design side session, which runs no imports).
 
 **For Code (factory session). What this needs from you:** a factory import of these 12 signed quote articles, then one DONE with the counts and the score table.
