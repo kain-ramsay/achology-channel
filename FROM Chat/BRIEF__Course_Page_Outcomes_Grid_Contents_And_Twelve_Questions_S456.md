@@ -29,24 +29,24 @@
 
 | # | Question | Anchor | Read the full answer goes to |
 |---|---|---|---|
-| 1 | Is Achology recognised, and who accredits its courses? | `q-recognised` | /help/outcomes-and-expectations/will-employers-recognise-achology-certificate/ |
-| 2 | What does it mean to be Achology certified? | `q-certified` | /help/certificates-cpd-accreditation/difference-between-certificate-completion-certificate-achievement/ |
-| 3 | Can I work with clients after an Achology course? | `q-clients` | /help/outcomes-and-expectations/call-myself-certified-achology-credentials/ |
-| 4 | What do Achology reviews from past learners say? | `q-reviews` | /reviews/ |
-| 5 | How much does an Achology course cost, and what's included? | `q-cost` | /help/pricing-and-payments/achology-pricing-versus-udemy-universities/ |
-| 6 | Can I pay for an Achology course in monthly instalments? | `q-instalments` | /help/pricing-and-payments/pay-instalments-achology-courses/ |
-| 7 | Can I get a refund if an Achology course isn't for me? | `q-refund` | /help/refunds-and-billing/does-achology-offer-a-money-back-guarantee/ |
-| 8 | How long do I have to finish an Achology online course? | `q-time` | /help/pricing-and-payments/achology-lifetime-access-explained/ |
-| 9 | Can I start an Achology course with no experience? | `q-experience` | /help/learning-experience/achology-course-prerequisites-requirements/ |
-| 10 | What support do I get from Achology while I study? | `q-support` | /help/events-and-mentorship/mentoring-opportunities-achology-membership/ |
-| 11 | Are Achology courses the same as Kain Ramsay's on Udemy? | `q-udemy` | /help/comparisons-and-alternatives/kain-ramsay-udemy-vs-achology-courses/ |
-| 12 | Is online certification as valuable as in-person training? | `q-online` | /help/comparisons-and-alternatives/are-psychology-certificates-worth-it/ |
+| 1 | Is this course right for me? | `q-fit` | /help/achology-basics-and-identity/who-is-achology-designed-for/ |
+| 2 | Do I need any experience before I start? | `q-experience` | /help/learning-experience/achology-course-prerequisites-requirements/ |
+| 3 | What do I get when I buy this course? | `q-included` | /help/comparisons-and-alternatives/what-makes-achology-different/ |
+| 4 | How are the lessons in an online course delivered? | `q-lessons` | /help/learning-experience/how-achology-courses-work-self-paced/ |
+| 5 | How long do I have to finish the course? | `q-time` | /help/pricing-and-payments/achology-lifetime-access-explained/ |
+| 6 | Can I study at my own pace around work? | `q-pace` | /help/learning-experience/how-long-achology-courses-take-timelines/ |
+| 7 | Can I ask questions while I'm studying? | `q-questions` | /help/community-and-conduct/ask-questions-achology-community/ |
+| 8 | What happens when my included membership ends? | `q-membership` | /help/membership-and-access/course-included-free-membership-happens-when/ |
+| 9 | Can I pay for the course in monthly instalments? | `q-instalments` | /help/pricing-and-payments/pay-instalments-achology-courses/ |
+| 10 | What if the course turns out not to be for me? | `q-refund` | /help/refunds-and-billing/does-achology-offer-a-money-back-guarantee/ |
+| 11 | Is this course any good? | `q-good` | /reviews/ |
+| 12 | Why pay for a course when so much is free online? | `q-free` | /help/comparisons-and-alternatives/why-pay-achology-when-free-content-exists/ |
 
   Every address above is the one its Help record carries in Content Records; check each against the install before it is printed.
 
 - **The short answer is no longer found by matching the question to a Help answer's title.** The twelve questions are worded differently from the Help answers they point to, on purpose, so no two pages share a title. Each question carries its own short answer (one to three paragraphs, written by Chat's delivery session after this brief is released) and the fixed address above. Read the short answers from one theme data file, one row per anchor, so Kain and Karen can edit them; Chat sends that file's words when they are signed. Until then each question renders with no panel, as today.
 - **The link line stays** *Read the full answer*, to the address in the table, opening in the same tab.
-- **Course name in an answer.** The questions never name a course. A short answer may need the course's own price or name; if Chat's answers use a slot, it is written `{course_name}` or `{course_price}` and filled from `courses-setup.php`, never typed.
+- **No question names Achology, a person or a certificate (Kain, S456).** The questions never name a course either. A short answer may need the course's own price or name; if Chat's answers use a slot, it is written `{course_name}` or `{course_price}` and filled from `courses-setup.php`, never typed.
 - **Visual.** The question selector at twelve (the About page's selector, or a plain accordion) is still Kain's open ruling from spec section 6: four rendered options, your recommendation named.
 - **Markup.** Whether the twelve carry FAQ markup is yours under DSRD 3 section 5; say which in the DONE.
 
