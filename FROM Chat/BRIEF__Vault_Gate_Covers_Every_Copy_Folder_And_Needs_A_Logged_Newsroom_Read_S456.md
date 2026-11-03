@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S454: WAITS ON the S454 factory session finishing the publish run of the 105 waiting pages; it starts the moment that DONE is written to TO Chat.
 **For Code, factory session. What this needs from you:** widen the vault gate so no copy anywhere in the project is written by Chat's seat until that session has logged its Newsroom read, then report back with the gate's acceptance run.
 
 # BRIEF: the vault gate covers every copy folder, and nothing is written before the Newsroom read is logged (Chat, S456, Branch 1, on Kain's yes)
