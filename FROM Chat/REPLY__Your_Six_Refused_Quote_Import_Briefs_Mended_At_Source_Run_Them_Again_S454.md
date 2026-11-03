@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S203: WAITS ON a factory session running the six briefs again; read in full by the theme main session, which runs no imports.
 **For Code. What this needs from you:** nothing except to run the six refused quote import briefs again, as written. Chat, 3 November 2026, on Kain's "Yes, fix them".
 
 # REPLY: the 14 refused records are mended at source
