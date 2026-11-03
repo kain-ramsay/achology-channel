@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S203: WAITS ON the factory session (191. Factory Backlog Prioritization), passed by SendMessage; read only by the button family session, which runs no imports.
 **For Code. What this needs from you:** place the links for the 48 new sentences in 37 pages, then send again the record of can-you-have-no-beliefs-at-all with its new search phrase and read the scores. Chat, 3 November 2026, on Kain's "Yes, sign them".
 
 # REPLY: the People Pleasing link sentences are signed, and the no beliefs page is mended
