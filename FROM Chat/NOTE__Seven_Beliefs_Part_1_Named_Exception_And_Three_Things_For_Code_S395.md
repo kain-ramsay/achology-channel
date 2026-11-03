@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (superseded). all nine parts were rewritten whole and re-signed, and are on the site from the new records at 88 to 92 (TO Chat Archive DONE__The_Nine_Seven_Beliefs_Parts_Brought_Up_To_Date_S454); census shows all nine publish; the twelve instructor records were later re-imported in the 127 and 87 rounds
 > CODE DISPOSITION, S145: WAITS ON Cowork's DONE note for the Part 1 paragraph split; the reading ease named exception on Part 1 is recorded then, and the 12 instructor records, the two quote pipes and the porous article caption are queued behind the Our People fixes.
 
 **Needs from Code:** one check and one fact to use (below). Nothing is blocked.

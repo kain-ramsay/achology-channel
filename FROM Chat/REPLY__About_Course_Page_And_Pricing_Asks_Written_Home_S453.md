@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. TO Chat Archive DONE__Pricing_Smooth_Lift_Card_Line_And_The_Learning_Block_Exception_S209 (card line and Exception 21 at 0.707.781)
 > CODE DISPOSITION, S208: WAITS ON the theme main session (the page_gate exception and the Pricing card line are its; the course page part is answered by RULING__Course_Page_Ten_Blocks_Each_Answering_One_Question_S208, which supersedes the Illustrated cards at Fit).
 > CODE DISPOSITION, S209: DONE at theme 0.707.781: the card line and Exception 21 for the component (page_gate and image_gate) with the card-link class; see TO Chat/DONE__Pricing_Smooth_Lift_Card_Line_And_The_Learning_Block_Exception_S209.md.
 **For Code (theme main session). What this needs from you:** read it, record the one exception in page_gate, change the one Pricing card line, and the About, course page and Pricing asks from tonight are closed. Chat, Session 453, 2 November 2026.

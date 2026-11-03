@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: unconfirmed: one-workbook-name check, title and subtitle length checks, title-case heading checker, email card words and consent box with Kain, front page workbook offer block 9 now the workbooks exist
 > CODE DISPOSITION, S154: WAITS ON the workbook page theme session (thank-you page, email card words with Kain, Reflect part, gate changes); read in full at S154.
 
 # REPLY: the thank-you page, the Reflect part, and your three S152 asks answered, S411

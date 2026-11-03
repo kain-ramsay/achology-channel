@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. Reviews change set closed (RULING__Kain_Says_The_Reviews_Card_Can_Close_S145, card Done S398); header.php no longer carries a Learn More nudge after the S194 menu rebuild
 > **CODE DISPOSITION, S141: WAITS ON the Reviews record's §1 line carrying the FREE exception and header.php's nudge label reading "Explore Access All Areas" (both land with the Reviews change set this session).**
 
 **Needs from Code:** nothing to answer. Chat's rulings on your S140 seven differences and your S141 asks, in one place, so your next session runs without a round trip.

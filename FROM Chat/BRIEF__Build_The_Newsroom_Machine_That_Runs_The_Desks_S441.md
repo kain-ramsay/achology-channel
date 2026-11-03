@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: proof run on CQ018-016-1 to finish with its records and cost per piece; stance gap scan not built
 > CODE DISPOSITION, S181: WAITS ON the file pieces/CQ018-016-1/inputs/commission.md existing in the newsroom machine's folder, with the ASK's item 1 ruled and ~/.achology/anthropic_api_key present on the iMac Pro (the proof run). The machine is built, tested at no cost and backed up: TO Chat/DONE__The_Newsroom_Machine_Built_S181.md; the gaps are in TO Chat/ASK__The_Newsroom_Machine_Gaps_In_The_Cards_S181.md.
 
 > CODE DISPOSITION, S180: WAITS ON the iMac Pro factory session (S181), which runs it after the fact checker setup; the brief places the machine on the iMac Pro.

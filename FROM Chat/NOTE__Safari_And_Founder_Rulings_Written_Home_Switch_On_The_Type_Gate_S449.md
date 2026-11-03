@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: All Tags sideways scroll at 320: no proof found that it is fixed; needs a theme session to confirm
 > CODE DISPOSITION, S194: WAITS ON the rest of the theme session: the gate's weight and phone checks are ON with 28 red and green cases (css_gate_acceptance.py) and the two dead phone rules are gone at 0.707.656, proved by css_deletion_proof at 767 and 390; still owed here: the sky-less re-exports, cloud jobs 18 and 19, All Tags at 320.
 
 > CODE DISPOSITION, S190: WAITS ON the theme main session (read in full by the S190 sun-fix side session, which owns only the learning section sky, now plain white at 0.707.654).

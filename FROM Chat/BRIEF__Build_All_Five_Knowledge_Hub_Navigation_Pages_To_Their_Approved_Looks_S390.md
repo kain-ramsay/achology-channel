@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: no sign-off found for the listing pages and subject pages, their DSRD 6 records, the subject pages' Rank Math metadata (theme queue S157 line open) and the one closing REPORT
 > CODE DISPOSITION, S152: WAITS ON Kain's eye in Safari. Pages 3, 4 and 5 built and live at 0.707.138 to 0.707.140 (/learn/, 36 of 36 tag pages, /learn/tags/ answer 200); pages 1 and 2 fixed at 0.707.137. Kain's S152 order of works puts this sitting after the four reading pages (RULING__Knowledge_Hub_Order_Of_Works_Workbook_First_S152). Words owed in ASK__Front_Page_Workbook_Offer_And_Three_Missing_Lines_S152.
 
 > CODE DISPOSITION, S138: WAITS ON its turn in 000__QUEUE__What_To_Open_And_In_What_Order_S390 (the Courses page is published, S138; the next session is a factory session on the S389 push, Kain's word).

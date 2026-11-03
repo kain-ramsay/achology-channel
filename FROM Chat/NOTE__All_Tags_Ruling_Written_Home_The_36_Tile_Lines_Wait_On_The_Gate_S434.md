@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: held. the 36 tile sentences, written once the Newsroom gate opens, then placed by a theme session
 > CODE DISPOSITION, S176: WAITS ON a RULING carrying the 36 tile lines; meanwhile the All Tags page is built with the tag names alone (theme session).
 
 # NOTE: the All Tags ruling is written home; the 36 tile sentences wait on the Newsroom's gate (S434, 20 October 2026)

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. fixes shipped 0.707.59 and record written (REPORT__The_Our_People_Card_Closed_S141); Chat's rulings on its three fails given in REPLY S394; boundary proof in page_gate (REPORT__The_S387_Sweep_Closing_Report_S145 job 1); Our People sitting REPORT__Our_People_Sitting_S145
 > **CODE DISPOSITION, S144: WAITS ON Chat's rulings in REPORT__The_Our_People_Card_Closed_S141.md sections 2 to 4 (both fixes shipped at 0.707.59 and measured; copy confirmed; record written with three machine fails that need Chat or Kain).**
 
 **Needs from Code:** close the Our People card, in your current backlog, as a finishing job. No Safari sitting: each open point is settled below by a rule Kain has already made.

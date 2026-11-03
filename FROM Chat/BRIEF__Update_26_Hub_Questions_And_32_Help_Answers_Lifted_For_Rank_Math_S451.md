@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: four held hub question pages (conditions-of-worth, cbt-vs-dbt, counselling-vs-psychotherapy, counselling-vs-cbt) wait on six dead outside links mended at source, then land and score; conditions-of-worth was among the S456 inbound-sentence records
 > CODE DISPOSITION, S203: WAITS ON Chat mending six dead outside links in four held hub question records (54 of 58 updated, read back and scored at or over the bar; TO Chat/DONE__The_26_Hub_Questions_And_32_Help_Answers_Lifted_For_Rank_Math_S451.md).
 
 **For Code (factory session). What this needs from you:** a factory update in place of 26 hub question articles and 32 Help answers Kain signed today, with their search fields; three address moves with redirects; one inbound link repointed; then one DONE with the counts and the Rank Math score table, the articles against 86 and the Help answers against 90.

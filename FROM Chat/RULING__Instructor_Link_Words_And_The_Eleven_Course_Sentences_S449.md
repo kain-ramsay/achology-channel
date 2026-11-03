@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. TO Chat Archive DONE__The_127_Instructor_Articles_On_The_Build_Site_S194 and DONE__The_Eleven_Instructor_Articles_Course_Sentences_S205
 > CODE DISPOSITION, S194: WAITS ON the eleven records of item 2 carrying a signature after Version 33 Session 446; item 1 is done and the DONE for the landed pages is filed (TO Chat/DONE__The_127_Instructor_Articles_On_The_Build_Site_S194).
 
 > CODE DISPOSITION, S189: WAITS ON a factory session (read in full by the S189 theme side session, which runs no import).

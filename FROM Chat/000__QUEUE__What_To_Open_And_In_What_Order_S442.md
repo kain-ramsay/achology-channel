@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: the queue is Chat's list; its S456 factory items are answered in TO Chat this session (S457), and its theme lines wait on a theme session
 **Added at Chat, S456 (3 November 2026), factory, run after the 72 quote article brief below, on Kain's yes:** BRIEF__Retire_The_Four_Pilot_Quote_Records_Remove_Two_Posts_And_Redirect_All_Four_S456 (remove two published quote posts, redirect four addresses, move four records to the archive).
 
 **Added at Chat, S456 (3 November 2026), factory, open first of all, on Kain's yes:** BRIEF__Import_The_72_Signed_Quote_Articles_The_100_Inbound_Articles_And_The_Karpman_Workbook_S456 (the last 72 quote articles, 100 articles with inbound sentences, the Karpman workbook with its added fields, and one Code of Ethics line; its Karpman part supersedes the Karpman part of BRIEF__Import_The_Karpman_Workbook_Mend_The_17_Link_Addresses_And_Two_Re_Pushes_S456).

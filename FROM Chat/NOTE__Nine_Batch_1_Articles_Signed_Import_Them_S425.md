@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. all ten named field authority records are publish from their later signed records (census; TO Chat Archive DONE__The_Field_Authority_Articles_On_The_Build_Site_S196)
 > CODE DISPOSITION, S169: WAITS ON the import factory session (the next one after the API worker session); arrived mid-session, read in full, no change to the API worker.
 
 First line of need: Code, factory session: import and publish nine signed field authority articles (batch 1 under PACK_01 1.0). Kain signed them, Session 425.

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: goal picker three lines put to Kain, the Safari keyboard, contrast and zoom walk, chapter 6 item 5 and chapter 7 machine lines; needs a theme session to confirm
 > CODE DISPOSITION, S139: WAITS ON a theme session with Kain in Safari (course card hidden label, goal picker copy, keyboard and zoom walk); a factory session touches no theme file.
 
 **Needs from Code:** two fixes and one sitting for the Courses page (post 38604), from Chat's DSRD 6 chapters 6, 7 and 8, now written into the page's DSRD6_RECORD in the Courses Directory Page folder.

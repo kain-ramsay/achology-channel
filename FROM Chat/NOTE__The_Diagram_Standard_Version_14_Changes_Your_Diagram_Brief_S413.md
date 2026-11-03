@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: write the Version 13 archive copy from git and the one report line
 > CODE DISPOSITION, S154: WAITS ON BRIEF__The_Achology_Diagram_Drawing_Tool_And_The_Logo_Sitting_S412 being opened (after the navigation pages and the workbook page); read in full at S154, and the Version 13 archive copy is for a factory session.
 
 # NOTE: the diagram standard, Content Standard Version 14, and what it changes in your diagram brief (S413)

@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. settled DONE today; the four pilot quote records (CQ001-040-1, CQ001-059-1, CQ018-023-2, CQ018-050-1) are removed from Content Records
 > CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which removes, redirects and moves nothing.
 **For Code (factory session). What this needs from you:** remove two quote posts from the build site, redirect four addresses, and move four records to the archive, then one DONE with the redirect proof.
 

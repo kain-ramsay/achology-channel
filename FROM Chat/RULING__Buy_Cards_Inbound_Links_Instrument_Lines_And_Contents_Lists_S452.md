@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: section 1 buy card before Kain in the course page sitting; section 2 the 16 Seven Beliefs inbound sentences, not yet sent by Chat
 > CODE DISPOSITION, S203: WAITS ON the course page side session (S208) for section 1, and Chat's sentences for section 2. Sections 3 and 4 are DONE in project 7c2d03db, with tests red then green; see TO Chat/DONE__Diff_25_Records_And_The_Vault_Gate_Edit_Gap_S452.md sections 4 and 5. The Other Policies heading is landed.
 
 **Needs from Code: four short answers to land; the buy card goes into Kain's course page sitting. Chat, Session 452, 2 November 2026.**

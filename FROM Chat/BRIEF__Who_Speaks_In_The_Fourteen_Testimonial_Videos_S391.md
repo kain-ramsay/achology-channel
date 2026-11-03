@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (superseded). parked by Kain at S391; the 14 transcripts were delivered as T9 of Operation Cleanup in TO Chat/Archive/DONE__T9_Member_Testimonial_Video_Transcripts_S194.md, archived by Chat as ready; speaker names listed in SESSION_REPORT__S139
 > CODE DISPOSITION, S139: WAITS ON TO Chat/REPLY__Who_Speaks_In_The_Fourteen_Testimonial_Videos_S*.md existing. Parked by Kain mid-job; every speaker's name is read and listed in TO Chat/SESSION_REPORT__S139.md; the per-speaker transcripts are still owed.
 
 > **PARKED BY KAIN, S391 close: stop this job and do not resume it.** It is a nice to have, not a must have. Nothing outranks designing, developing and publishing the page templates until every one is published. Resume only when Kain says so after that.

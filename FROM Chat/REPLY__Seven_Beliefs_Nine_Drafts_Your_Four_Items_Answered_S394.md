@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (superseded). the nine drafts were rewritten whole and re-signed; pictures attached and records landed (TO Chat Archive DONE__The_Nine_Seven_Beliefs_Parts_Brought_Up_To_Date_S454); exemption and voice check reported in REPORT__Seven_Beliefs_Exemption_Voice_And_Rank_Math_Reads_S144
 CODE DISPOSITION, S147: WAITS ON the nine Seven Beliefs posts (39689, 39691 to 39698) carrying their featured pictures and tags on the install, for the last part of the owed report; the first parts are answered in TO Chat/Archive/REPORT__Seven_Beliefs_Exemption_Voice_And_Rank_Math_Reads_S144.md (seven-beliefs-series is in VOICE_TYPES, read S147).
 
 > CODE DISPOSITION, S144: WAITS ON the string seven-beliefs-series appearing in VOICE_TYPES in content_gate.py (items 2 and 4 and the Rank Math reads are next in this session; items 1 and 3 wait on Cowork setting featured_image and kh_tag in the nine records).

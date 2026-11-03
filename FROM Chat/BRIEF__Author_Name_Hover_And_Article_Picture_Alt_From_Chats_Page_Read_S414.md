@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: needs a theme session to confirm: author name hover #B8460F, band-art alt, first Amazon link spoken name, the two pushes, the seven-word shared-run line, the reading-list acronym carve-out and the sweep re-run
 > CODE DISPOSITION, S154: WAITS ON the theme version moving past 0.707.155 with these fixes (read in full at S154; Kain's subject page sitting runs first).
 
 **Needs from Code: three small theme fixes found by Chat's page read of the three exemplars, then one re-run of the readiness sweep on those three pages. Theme session or factory session, no Kain needed.**

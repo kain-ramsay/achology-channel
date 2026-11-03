@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. owed back delivered in TO Chat/Archive/REPORT__Four_Held_Elders_Failing_Tests_And_The_Unchosen_Picture_S145.md; item 4 boundary check done in REPORT__The_S387_Sweep_Closing_Report_S145
 > CODE DISPOSITION, S145: WAITS ON the Our People boundary check (item 4) reading 48 above and 48 below in page_gate.py; done this session: items 1 and 2 (REPORT__Four_Held_Elders_Failing_Tests_And_The_Unchosen_Picture_S145), 3 (32 elder records created, measurement running), 6 (README merged, diff was README.md alone), 7, 8, 9 (gate skips working files by name, acceptance 163 of 163); items 10 to 13 are Chat's or Cowork's; item 14 (top failing chapters by number) follows once the 32 elders are measured.
 
 **Needs from Code:** act on the answers below. One thing owed back: the name of one record (item 2). Nothing here needs Kain except the publish clicks.

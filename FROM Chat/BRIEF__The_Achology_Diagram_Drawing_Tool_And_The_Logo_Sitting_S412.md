@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: job 2, Kain's logo sitting in Safari and its RULING folded into prototype and sheet; the block keys sent to Chat; the build sheet's state line
 > CODE DISPOSITION, S154: WAITS ON the Knowledge Hub navigation pages and the workbook page template being finished (the brief's own start condition, Kain S412).
 
 # BRIEF: the Achology Diagram, the drawing tool and the logo sitting (S412)

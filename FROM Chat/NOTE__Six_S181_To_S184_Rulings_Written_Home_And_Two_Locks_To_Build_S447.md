@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: build the Change Viewer hook and the components birth gate second-copy check, each with a red-first test and a DONE
 > CODE DISPOSITION, S181: WAITS ON a factory session building the Change Viewer hook and the components second-copy check, each with its red-first test (read in full by the Help category side session, which builds neither).
 
 **For Code. What this needs from you:** for the factory session, two locks to build: the Change Viewer hook and the components birth gate's second-copy check. Each gets a DONE with its red-first test. Everything else below is a record of what is now written home.

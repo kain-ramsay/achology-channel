@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a factory session: add the lecture code check with a pass and a fail test, report the gate's count against Chat's 71
 CODE DISPOSITION, S175: WAITS ON a factory session (gate check and its count are factory work; this was a theme session).
 **Needs from Code (factory session): add one gate check. A page body carrying a lecture number or code fails, on every kind of page. Then list the records that fail it now.**
 

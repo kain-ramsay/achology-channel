@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON Chat: held. rerun the golden page 9 proof only when Chat releases it on the new pipeline
 > CODE DISPOSITION, S182: WAITS ON Chat's answer to REPORT__The_Proof_Rerun_Is_HELD_At_The_Redraft_Gate_S182 (the factory rerun is held at the redraft gate; factory work, not theme).
 **For Code, factory session. What this needs from you:** run the newsroom machine's proof on golden page 9 (CQ018-016-1) with the two files below, report its records, each packet's word count and the cost per piece.
 

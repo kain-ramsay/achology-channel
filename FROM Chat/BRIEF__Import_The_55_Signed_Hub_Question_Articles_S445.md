@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE (superseded). replaced for all its records by BRIEF__Import_The_192_Pages_Re_Signed_With_Full_Course_Names_S447 (its own S199 line says so); every signed hub question record publishes except the 9 held at S199
 > CODE DISPOSITION, S199: WAITS ON the 12 hub question records held in TO Chat/DONE__The_Hub_Question_Articles_On_The_Build_Site_S199.md section 3 (nine name no picture on the install, three carry no outside link); the other 52 pages are updated on the build site, read back and scored there. The S447 briefs supersede this one for all 64 records.
 
 > CODE DISPOSITION, S180: WAITS ON a factory session (this is the Enquiries theme side session; read in full, it touches no page here).

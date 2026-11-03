@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. 73 Help answers on the site (DONE__The_71_New_Help_Answers_S197, DONE__The_19_Instructor_Articles_And_The_Last_Help_Answers_S202); census: all 150 signed book notes publish; gate signature fix in DONE__The_Eight_Resisting_Change_Quote_Pages_S195
 > CODE DISPOSITION, S202: WAITS ON the 34 book notes of section 2; section 1 is done, all 73 Help answers now on the build site (the last two in TO Chat/DONE__The_19_Instructor_Articles_And_The_Last_Help_Answers_On_The_Build_Site_S202.md section 2).
 
 > CODE DISPOSITION, S201: WAITS ON the S197 line below; its principle was applied to the hub guides' style lines in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 4.

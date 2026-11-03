@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): DONE. worker line fixed (its S169 head line); census: is-mental-health-genetic imported as draft 40375, held unpublished since S199 by standing fact
 > CODE DISPOSITION, S169: WAITS ON the import factory session for is-mental-health-genetic (part 2); part 1 is DONE, the worker's paragraph line now reads as Chat worded it, and no free check or checker rule fails a paragraph for passing 120 words.
 
 First line of need: Code, factory session: two small things. (1) The API worker's writer rule says paragraphs are "none over 120 words"; the Standard says 120 is a target, never a fail. Fix the line. (2) Lift your import hold on is-mental-health-genetic and import it.

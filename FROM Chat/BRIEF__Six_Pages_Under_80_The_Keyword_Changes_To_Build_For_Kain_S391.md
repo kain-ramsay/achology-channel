@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: works H2 still prints the first name (template-author-profile.php); pricing FAQ H2 still reads Commonly Asked Pricing-Related Questions; profile keywords on 34343 (73), 189 (74) and 187 (80) unconfirmed; Kain's rulings and DSRD 6 records not filed
 > CODE DISPOSITION, S139: WAITS ON a theme session with Kain in Safari (template and people-setup edits, his words ruled on the page); not started in this factory session, per his S139 standing go.
 
 **Needs from Code:** build these six changes on the build site, show each page to Kain in Safari, and let him rule the words there. Answers `ASK__Six_Pages_Under_80_Put_Each_Keyword_On_Its_Page_S138`. After his rescore, read each stored score into the score table and each page's DSRD 6 record.

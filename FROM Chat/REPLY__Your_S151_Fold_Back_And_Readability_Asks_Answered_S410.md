@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457 (factory, walk against the build site): WAITS ON a theme session: Safari sitting on the three readability colours (previews/contrast-s151/) and its RULING; state 1200 or 1280 for the one hero
 > CODE DISPOSITION, S153: WAITS ON Kain's eye in Safari for the three readability colours (previews/contrast-s151/), and on the card author line reading #5E6B75 in a deployed theme version.
 
 **For Code: your two S151 asks answered (the Book note page's build sheet, the four stale pointers, and where the readability faults go in the queue). Asks you for one Safari sitting with Kain and one fix without a ruling. Written by Chat, S410, Wednesday 7 October 2026, on Kain's yes to each.**
