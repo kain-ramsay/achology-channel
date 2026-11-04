@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. job 1 in DONE__Gate_Up_To_The_Content_Packs_S423; job 2: record CQ018-062-1 carries the Glasser clause and post 36409 was re-pushed from it in DONE__The_104_Quote_Articles_Round_One_On_The_Build_Site_S205, publish, score meta 91
+> CODE DISPOSITION, S457: DONE. job 1 in DONE__Gate_Up_To_The_Content_Packs_S423.md; job 2: record CQ018-062-1 carries the Glasser clause and post 36409 was re-pushed from it in DONE__The_104_Quote_Articles_Round_One_On_The_Build_Site_S205.md, publish, score meta 91
 > CODE DISPOSITION, S168: WAITS ON a quote-page update route that carries the quote fields and re-bakes the card (job 2, the Glasser push: the publish gate refuses the stale card). Job 1, the six gate checks, is DONE in DONE__Gate_Up_To_The_Content_Packs_S423.
 > CODE DISPOSITION, S151: WAITS ON a factory session opening: gate and quote push work names no page design, so the theme session S151 leaves it untouched (Harness Rule 1, two sessions).
 

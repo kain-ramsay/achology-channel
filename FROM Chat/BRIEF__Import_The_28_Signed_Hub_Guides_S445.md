@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. all 29 signed hub-guide records are publish, including the eight held for no outside link at S201 (census); TO Chat Archive DONE__The_Hub_Guides_On_The_Build_Site_S201 and DONE__The_27_Hub_Guides_Without_The_Banned_Word_S205
+> CODE DISPOSITION, S457: DONE. all 29 signed hub-guide records are publish, including the eight held for no outside link at S201 (census); TO Chat Archive DONE__The_Hub_Guides_On_The_Build_Site_S201.md and DONE__The_27_Hub_Guides_Without_The_Banned_Word_S205.md
 > CODE DISPOSITION, S201: WAITS ON the eight hub guide records held for no outside link (behavioural-psychology, cognitive-psychology, developmental-psychology, human-nature-and-behaviour, hypnotherapy, skilled-helper, social-psychology, values-and-decision-making) carrying one; the other 21 are on the build site, read back and scored in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md.
 
 > CODE DISPOSITION, S180: WAITS ON a factory session (this is the Courses theme side session; read in full, it touches no page here).

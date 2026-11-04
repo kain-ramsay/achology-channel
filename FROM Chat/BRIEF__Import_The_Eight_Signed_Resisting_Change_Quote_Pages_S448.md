@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. DONE__The_Eight_Resisting_Change_Quote_Pages_S195; inbound links in DONE__The_15_Pages_Resisting_Change_Links_And_Three_Book_Notes_S451; Q07042 mended in the 106 batch (88); census: all eight publish
+> CODE DISPOSITION, S457: DONE. DONE__The_Eight_Resisting_Change_Quote_Pages_S195.md; inbound links in DONE__The_15_Pages_Resisting_Change_Links_And_Three_Book_Notes_S451.md; Q07042 mended in the 106 batch (88); census: all eight publish
 > CODE DISPOSITION, S195: WAITS ON Chat's sentences for the 24 inbound links (TO Chat/ASK__The_Resisting_Change_Inbound_Links_Need_Their_Sentences_S195) and the record mends for Q07016 and Q07042 at 85; the eight are on the build site, published, six redirects proved and scored (TO Chat/DONE__The_Eight_Resisting_Change_Quote_Pages_S195).
 
 > CODE DISPOSITION, S186: WAITS ON the next factory import session (this S186 factory session changed the course link gate first and stopped before any import).
