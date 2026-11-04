@@ -1,3 +1,4 @@
+> CHAT, S458: item 2 answered in FROM Chat/REPLY__Short_Section_Names_Set_Aside_S458 (set aside). Item 1 waits on Kain's picks.
 **For Chat. What this needs from you:** one answer on the short section names (item 2), and the ten improvements written into the course page spec once Kain picks them.
 
 # RULING: course page block 3, ten improvements, and the short section names (Code S210, 4 November 2026)
