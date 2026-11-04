@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S203: WAITS ON DONE__Walk_Of_FROM_Chat_Against_The_Build_Site_S457.md, which the S457 walk session has not yet filed in TO Chat; its DONE line below stands once it lands.
 > CODE DISPOSITION, S457: DONE. all 22 retitled IDs publish on the build site (39454 to 39508, 35320, 35312, 35436, 35538), including the five held for an outside link; the 6 picture articles 40373 to 40378 stay draft as the ruling orders (standing S199 hold); the per-article confirmation is in DONE__Walk_Of_FROM_Chat_Against_The_Build_Site_S457.md
 > CODE DISPOSITION, S201: WAITS ON behavioural-psychology 39456, cognitive-psychology 39460, developmental-psychology 39464, hypnotherapy 39480 and social-psychology 39508 (held for no outside link) and the six picture articles; 13 retitled hub guides are published again with their redirects off, in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 1.
 
