@@ -13,7 +13,9 @@ BRIEF__Course_Page_Outcomes_Grid_Contents_And_Nine_Questions_S456 says the outco
 
 **Course 001 is signed too** (Kain, S458: "Yes, sign them"), after the same check corrected outcomes 5, 9 and 14. Its home is the 001 block of `000__COPY__Course_Learning_Outcomes_S454.md` in the Course Page folder's copy folder, whose status line says so. So all 28 courses' outcomes are signed.
 
-OWED BACK: the theme version that carries them, in the course page DONE.
+**The icons are in.** The CSV now carries an `icon` column for all 484 rows, one of the thirteen in build.py's M_ICON set, chosen by each outcome's meaning, with no repeat among a course's first nine apart from one in the reserve. DSRD 7 section 5.2 now lists the thirteen and the nine still owed to the registry (eye, heart, mountain, layers, zap, triangle, checks, compare, up), which you register from lucide-static before block 2 ships. Each card's section label is the course's short name, from `000__COPY__Course_Spine_Short_Section_Names_S458.md` (see REPLY__Short_Section_Names_Go_On_The_Outcome_Cards_S458).
+
+OWED BACK: the theme version that carries them, in the course page DONE. Also: the nine registry keys, read back from shared-parts.php.
 
 *No em or en dashes in this file; checked before writing.*
 
