@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON the theme main session; read in full by the course page block 3 design sitting, which works only its preview (Kain's one session, one job).
 **For Code (theme main session). What this needs from you:** find why the home page and the academy pages answer Page Not Found on the build site, fix it, and prove it. A fault fix; no design change. Chat, Session 458, 4 November 2026.
 
 # BRIEF (fault): the home page and every course and school page are Page Not Found
