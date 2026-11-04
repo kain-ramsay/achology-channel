@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON Chat's answer to TO Chat/RULING__Course_Page_Block_3_Ten_Improvements_S210 (Kain's pick 150 put "Section One, Two" under the bar in place of the short names, so they show nowhere on 001 today).
 **For Code (the course page design session, theme). What this needs from you:** use these short section names under The Course Spine on every course page. Chat, Session 458, 4 November 2026.
 
 # NOTE: the spine's short section names, courses 002 to 028

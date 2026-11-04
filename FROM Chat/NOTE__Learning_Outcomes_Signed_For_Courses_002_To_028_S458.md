@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON block 3 of the course page being signed by Kain; the course page session then builds all 28 courses' outcome cards from the signed homes (001's three corrected outcomes included).
 **For Code (the course page design session, theme). What this needs from you:** build the outcome cards for courses 002 to 028 from the signed data file named below. Chat, Session 458, 4 November 2026.
 
 # NOTE: the learning outcomes for courses 002 to 028 are signed
