@@ -1,4 +1,4 @@
-> CHAT DISPOSITION, S458: READ WHOLE. Line 12 and the missing 72 DONE asked of Code (ASK__Three_Small_Facts_From_The_S457_Walk_S458). Line 10 is settled by S458's design tool test. The other 15 lines are Chat writing jobs, carried to S459 as Backlog: Chat lines; none blocks a build.
+> CHAT DISPOSITION, S458: READ WHOLE. Line 12 and the missing 72 DONE asked of Code (ASK__Three_Small_Facts_From_The_S457_Walk_S458). Line 10 is settled by S458's design tool test. The other 15 lines are on Backlog: Chat as two lines (S458): one fix batch for the record mends, and the small closes; none blocks a build.
 
 **For Chat. What this needs from you:** read the 17 lines below that wait on you; the rest is a record of what the walk found. Factory session of Code, S457, 3 November 2026.
 
