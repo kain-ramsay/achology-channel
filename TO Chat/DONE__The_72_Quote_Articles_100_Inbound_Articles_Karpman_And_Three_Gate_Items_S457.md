@@ -89,7 +89,7 @@ One of the 24 new pages reaches the bar: CQ001-062-1 at 86. The share cards for 
 
 ## 2. The 100 articles with inbound sentences
 
-98 bodies sent by `article_body_update.py --apply` and 2 Seven Beliefs parts (thinking-errors 39693, change-your-life-from-the-inside-out 39696) by their importer; 100 of 100 read back clean, status unchanged. Scores: 92 of 100 at 86 or more, top 94. Under the bar: decide-with-confidence-10-timeless-principles-for-wise-decision-making, dynamics-of-leading-effective-diplomatic-discussions, psychology-theories-for-motivation, triggers-that-lead-to-relationship-breakdowns, embracing-your-innermost-values and the-myth-of-having-it-all, each at 84. psychological-blind-spots (35161) and the-psychology-of-self-improvement (35581) read 0, which is a failed reading, not a score; they are being read again.
+98 bodies sent by `article_body_update.py --apply` and 2 Seven Beliefs parts (thinking-errors 39693, change-your-life-from-the-inside-out 39696) by their importer; 100 of 100 read back clean, status unchanged. Scores: 94 of 100 at 86 or more, top 94. Under the bar: decide-with-confidence-10-timeless-principles-for-wise-decision-making, dynamics-of-leading-effective-diplomatic-discussions, psychology-theories-for-motivation, triggers-that-lead-to-relationship-breakdowns, embracing-your-innermost-values and the-myth-of-having-it-all, each at 84. psychological-blind-spots (35161) and the-psychology-of-self-improvement (35581) first read 0, a failed reading; read again, they are 88 and 89.
 
 ## 3. The Karpman workbook
 
