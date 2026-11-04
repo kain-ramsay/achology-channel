@@ -85,7 +85,7 @@ Answers BRIEF__Import_The_72_Signed_Quote_Articles_The_100_Inbound_Articles_And_
 | CQ018-093-1 | 36464 | updated, published | 91 | /learn/mental-wellness/quotes/why-does-telling-people-theyre-wrong-never-help/ |
 | CQ018-107-1 | 36484 | updated, published | 91 | /learn/mental-wellness/quotes/can-we-ever-fully-understand-another-person/ |
 
-Two of the 24 new pages (CQ001-062-1 at 86, and none else) reach the bar. The share cards for the 24 new pages are not baked yet; that follows publishing.
+One of the 24 new pages reaches the bar: CQ001-062-1 at 86. The share cards for the 24 new pages are not baked yet; that follows publishing.
 
 ## 2. The 100 articles with inbound sentences
 

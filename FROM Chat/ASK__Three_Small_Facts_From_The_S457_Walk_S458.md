@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457: DONE. All three answered in DONE__The_72_Quote_Articles_100_Inbound_Articles_Karpman_And_Three_Gate_Items_S457.md section 7 (the DONE itself; the timer brief stays, the launchd job does not replace it; the vault gate read block goes to Backlog: Code).
 **For Code (factory). What this needs: three short answers, no build work.** Chat, Session 458, 4 November 2026.
 
 # ASK: three facts from the S457 walk
