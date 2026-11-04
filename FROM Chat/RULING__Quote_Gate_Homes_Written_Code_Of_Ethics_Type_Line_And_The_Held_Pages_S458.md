@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON the main theme session (Code of Ethics line) and a factory session (quote re-gate, held pages); read in full by the course page block 3 sitting, which works only that page.
 **For Code (theme and factory). What this needs from you:** re-run the live re-gate on the 22 published quote articles, place the Code of Ethics paragraph, and read the failing tests on two held quote pages. Chat, Session 458, 4 November 2026. Answers TO Chat/DONE__Quote_And_Workbook_Rescore_And_Publish_S458, SHIP__Quote_Tests_And_Workbook_Pictures_0.707.792_S458 and ASK__Code_Of_Ethics_Paragraph_Waits_On_The_PAGE_GATE_Line_S458.
 
 # RULING: the quote page homes are written, the Code of Ethics type line, and the held pages (Chat, S458)
