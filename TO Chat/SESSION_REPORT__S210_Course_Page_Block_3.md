@@ -14,6 +14,9 @@ Board card: Course page (the course page template). Not finished: block 3 is des
 - Hand added: the project's permission list now allows Code's own checking scripts (scratchpad and project folder), on Kain's "This needs to stop"; memory note write-commands-the-allow-list-can-read updated.
 - Hand added: FROM Chat files arriving mid-session were read in full and head-lined WAITS (idea tag brief, quote gate ruling, failing tests ask, home page fault brief, block 4 brief, instalment plans ask, two outcome notes) or DONE (the spec reply).
 
-Not finished, what remains: block 3's part walk on the new look and Kain's sign-off; then block 4 (Chat's brief, design with artwork); then outcome cards for all 28 courses with the signed outcomes, short names and icons. New interface words for Chat's copy: "Lessons 8 to 14 of 30", "Earlier lessons", "Later lessons".
+- Late in the sitting (commits db0a59c9 to the pick 181 commit): a dark band across the top was tried and withdrawn on Kain's word ("I want the side panel"); the side panel measured onto the scale with a description slot; the side designed three ways, Ring as Centrepiece chosen; No Thread standard. PICKS 177 to 181.
+- Commissioned Chat, on Kain's instruction, for one description per section of all 28 courses: item 6 of TO Chat/RULING__Course_Page_Block_3_Ten_Improvements_S210, now "exactly four lines on a computer and three on a phone, about 105 characters, each measured by Code in the slot".
+
+Not finished, what remains: building Chat's descriptions on arrival and measuring each; block 3's part walk on the new look and Kain's sign-off; then block 4 (Chat's brief, design with artwork); then outcome cards for all 28 courses with the signed outcomes, short names and icons. New interface words for Chat's copy: "Lessons 8 to 14 of 30", "Earlier lessons", "Later lessons".
 
 *No em or en dashes in this file; checked before writing.*
