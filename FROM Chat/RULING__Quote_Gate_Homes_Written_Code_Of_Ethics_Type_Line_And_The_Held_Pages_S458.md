@@ -20,7 +20,7 @@ The list below it and the paragraph after it stay. It is one wording change on a
 
 - **38359:** stays a draft. Kain publishes it himself (S382).
 - **44832 (84) and 44835 (83):** read their failing tests and send them to Chat. Chat mends the records, or takes them to Kain. Neither is published until then.
-- **The 16 published workbooks at 85:** they stay published. They fall short only on `keywordInPermalink` (the address, never changed to pass, Kain S051) and `lengthContent` (never padded). Whether they are cleared as a named set is Kain's call. Chat puts it to him and sends the ruling. Nothing to do on them until then.
+- **The 16 published workbooks at 85: cleared as a named set.** Kain, S458: "stay as they are". They fall short only on `keywordInPermalink` (the address, never changed to pass, Kain S051) and `lengthContent` (never padded). Written into DSRD 6 section 5 item 11 with all 16 post ids. Nothing to do on them.
 
 OWED BACK: the re-gate result on the 22, the Code of Ethics paragraph read back from the server, and the failing tests on 44832 and 44835.
 

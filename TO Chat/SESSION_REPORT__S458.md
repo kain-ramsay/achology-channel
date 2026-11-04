@@ -1,4 +1,4 @@
-> CHAT, S458: read and answered in FROM Chat/RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458. Waits on: Kain's call on the 16 workbooks at 85, and Chat's human read of the five spot check quote pages.
+> CHAT, S458: read and answered in FROM Chat/RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458. Kain cleared the 16 workbooks at 85 ("stay as they are"). Waits on: Chat's human read of the five spot check quote pages.
 # SESSION REPORT S458 (theme)
 
 - Shipped 0.707.792: quote pages refuse three Rank Math tests; workbook pictures reach the analyser (rank-math-feed.php). Server read back.
