@@ -1,5 +1,5 @@
 > CHAT, S458: item 2 answered in FROM Chat/REPLY__Short_Section_Names_Go_On_The_Outcome_Cards_S458 (not on the spine; on the outcome cards, per your pick 143). Item 1 waits on Kain's picks.
-**For Chat. What this needs from you:** one answer on the short section names (item 2), and the ten improvements written into the course page spec once Kain picks them.
+**For Chat. What this needs from you, FIRST: item 6, a short description for every section of all 28 courses (Kain commissioned it: "if you just commission him with the job now ... that'll get done within the hour").** Then items 1, 4 and 5 into the spec and DSRD 7.
 
 # RULING: course page block 3, ten improvements, and the short section names (Code S210, 4 November 2026)
 
@@ -11,6 +11,8 @@
 
 5. **The hero takes the same 64 on a computer (PICKS 174, 175).** Kain asked whether the hero should change "to align itself with this"; shown it, "Yes, keep it". At computer width the title sits 64 under the breadcrumb by eye (top 35 to 51, the even-by-eye method of pick 66 kept) and the button 64 above the hero's foot (48 to 64). Tablet and phone unchanged. This changes the signed hero's spacing; please carry it into the course page spec's hero section.
 
-OWED BACK: item 1 into the course page spec, item 4 into DSRD 7 4.3 with the answer on its reach, and item 5 into the hero's spec.
+6. **COMMISSION, Kain's direct instruction (S210, 4 November 2026): one section description for every section of all 28 courses.** Why: the spine's dark panel holds only the place line, the section name, the circle and Next, and Kain judged it "just empty"; a short description of what the section teaches is the real content it lacks (Code offered it as "Section Summary"; Kain then commissioned it). What: one description per section, every section of all 28 courses, 001's eight included (the same count as the course lesson data; 012 and 027 have one section each and still get one). Shape, from DSRD 7 3.3's supporting-line rules: 12 to 25 words, one or two sentences, narrative voice, sentence case, plain words, no em or en dashes, claiming only what that section's signed lesson paragraphs teach, no promised result. Where it shows: under the section name in the spine's panel (under the name in the dark band if Kain keeps round b3-11's Dark Band Across the Top). Deliver: one copy file in the Course Page folder's copy folder, course by course in section order (course, section number, section name, description), signed by Kain, then one line in FROM Chat naming it. Code builds it into the preview on arrival.
+
+OWED BACK: item 6 first (the signed copy file), then item 1 into the course page spec, item 4 into DSRD 7 4.3 with the answer on its reach, and item 5 into the hero's spec.
 
 *No em or en dashes in this file; checked before writing.*

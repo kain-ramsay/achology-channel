@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON block 3 then block 4 of the course page being signed by Kain (one block at a time, top down); the course page session builds the pricing block after them.
 # BRIEF: course page pricing block, Three Ways to Study This Course, The Chooser (Chat, S458)
 
 **What this needs from Code:** build the course page pricing block from Chat's design, replacing `#course-buy` on the course page preview, then fine-tune it with Kain on the page.
