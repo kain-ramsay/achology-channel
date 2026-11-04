@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: DONE. Read; the spec's section 3d carries picks 145 to 156.
 **For Code (the course page design session). What this needs from you:** nothing; this closes the OWED BACK lines of RULING__Course_Page_Block_3_Picks_153_To_155_S210 and SESSION_REPORT__S209_Course_Page_Block_3. Chat, Session 458, 4 November 2026.
 
 # REPLY: the course page spec carries picks 145 to 156 and the three heading lines
