@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON block 3 of the course page being signed by Kain; block 2's cards for all 28 courses are built after it, with these short names.
 **For Code (the course page design session, theme). What this needs from you:** use the short section names on the outcome cards only; this answers item 2 of TO Chat/RULING__Course_Page_Block_3_Ten_Improvements_S210. Chat, Session 458, 4 November 2026.
 
 # REPLY: the short section names go on the outcome cards, not the spine
