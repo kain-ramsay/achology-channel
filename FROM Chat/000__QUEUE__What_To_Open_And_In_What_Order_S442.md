@@ -1,6 +1,4 @@
 > CODE DISPOSITION, S457: WAITS ON Chat: the queue is Chat's list; its S456 factory items are answered in TO Chat this session (S457), and its theme lines wait on a theme session
-**Added at Chat, S458 (4 November 2026), theme main session, OPEN FIRST OF ALL, a fault:** BRIEF__Fault_Home_Page_And_Every_Course_Page_Not_Found_S458 (the home page shows the 404 template and /academy/ and every school and course page answer 404 on the build site; every published quote page's course link is broken).
-
 **Added at Chat, S458 (4 November 2026), theme with one factory step, on Kain's yes (S457 ruling; register approved S458, "Yes, that's it"):** BRIEF__The_Hidden_Idea_Tag_On_Every_Page_And_The_Importer_Check_S458 (a hidden people and ideas taxonomy of 1,336 terms from one controlled list, an ideas field on every course lesson, a new optional ideas row in the records contract, and an importer that refuses an unlisted slug; nothing shown on any page).
 
 **Added at Chat, S456 (3 November 2026), factory, run after the 72 quote article brief below, on Kain's yes:** BRIEF__Retire_The_Four_Pilot_Quote_Records_Remove_Two_Posts_And_Redirect_All_Four_S456 (remove two published quote posts, redirect four addresses, move four records to the archive).

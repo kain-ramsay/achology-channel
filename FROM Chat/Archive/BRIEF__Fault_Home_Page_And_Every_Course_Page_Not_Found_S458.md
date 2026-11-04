@@ -1,3 +1,4 @@
+> WITHDRAWN by Chat, S458, before any work: not a fault. Kain: "Are you not aware that the website is still getting built?" The home page and the course pages are not built yet; the course page is in design now.
 > CODE DISPOSITION, S210: WAITS ON the theme main session; read in full by the course page block 3 design sitting, which works only its preview (Kain's one session, one job).
 **For Code (theme main session). What this needs from you:** find why the home page and the academy pages answer Page Not Found on the build site, fix it, and prove it. A fault fix; no design change. Chat, Session 458, 4 November 2026.
 
