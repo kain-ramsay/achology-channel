@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457: WAITS ON a factory session: the S457 score run table in a TO Chat DONE file (72 imported, 72 redirects proved from the server, 100 bodies updated, Karpman draft 44805; the Code of Ethics line is on the theme queue).
 > CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which imports, scores and publishes nothing.
 **For Code (factory session). What this needs from you:** a factory import of these 72 signed quote articles, the update in place of 100 signed articles that gained inbound link sentences, the import of the signed Karpman workbook, and one wording change on the Code of Ethics page, then one DONE with the counts and the score table.
 

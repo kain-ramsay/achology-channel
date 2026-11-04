@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S457: WAITS ON a theme session: fix 2, the workbook pictures reaching the analyser (theme queue, S457), then the 52 rescored; fix 1 done for 26 pages, the 24 whose shortened phrase is not word for word in the opening wait on Chat.
 > CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which imports, scores and publishes nothing.
 **For Code, factory session. What this needs from you:** lift the 49 workbook landing pages at 79 to 85 to the bar of 86 with two fixes that change no words on the page, then rescore and report. Chat, S456, 3 November 2026, on Kain's yes.
 
