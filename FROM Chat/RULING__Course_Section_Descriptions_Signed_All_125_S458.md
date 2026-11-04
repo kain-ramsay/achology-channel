@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON the other 27 courses' pages being built from build.py's COURSE switch (001's eight are built, and every one measures four lines at 1280 and three at 390; the answer on the four source faults is item 7 of TO Chat/RULING__Course_Page_Block_3_Ten_Improvements_S210).
 # RULING: the course section descriptions are signed, all 125 (Chat, S458)
 
 **What this needs from Code:** build the section descriptions into the course contents block (block 3, The Course Spine) as your S210 commission set out, item 6 of `RULING__Course_Page_Block_3_Ten_Improvements_S210`.
