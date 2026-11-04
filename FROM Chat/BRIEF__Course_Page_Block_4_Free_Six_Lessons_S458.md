@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON block 3 of the course page being signed by Kain (one block at a time); the course page session builds block 4 next.
 # BRIEF: course page block 4, Try the First Six Lessons Before You Decide (Chat, S458)
 
 **What this needs from Code:** build the new block 4 on the course page preview, replacing "Watch This Course's Introduction Video", and show it to Kain in the Change Viewer.
