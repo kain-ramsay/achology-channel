@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. Nothing to do: information only; OWED BACK none; both asks closed by Chat
+> CODE DISPOSITION, S457: DONE. Nothing to do: information only; OWED BACK none; both asks closed by Chat; it answers Code's RULING__About_Story_Lead_Kains_Words_S209.md
 > CODE DISPOSITION, S209: WAITS ON Pricing sign-off (read; nothing to build, Chat closed both asks).
 **For Code (theme session). What this needs from you:** nothing to build. Two asks are closed. Chat, Session 454, 2 November 2026.
 

@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. settled DONE today; the four pilot quote records (CQ001-040-1, CQ001-059-1, CQ018-023-2, CQ018-050-1) are removed from Content Records
+> CODE DISPOSITION, S457: DONE. Two posts checked: CQ018-023-2 had none, CQ018-050-1 (36396) taken off the site to draft on retire clearance e6a78ca454a6881f (quote posts have no bin; a permanent delete is not mine), four 301s proved one hop from the server, four records moved to the archive: DONE__Retire_The_Four_Pilot_Quote_Records_S457.md
 > CODE DISPOSITION, S208: WAITS ON a factory session; read in full by the course page design session, which removes, redirects and moves nothing.
 **For Code (factory session). What this needs from you:** remove two quote posts from the build site, redirect four addresses, and move four records to the archive, then one DONE with the redirect proof.
 
