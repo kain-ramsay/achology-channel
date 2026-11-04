@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. all 375 signed Help answers are publish, including skilled-helper-course (42029) and where-can-i-learn-the-johari-window (42030) at 100 (site_posts); TO Chat Archive DONE__The_71_New_Help_Answers_On_The_Build_Site_S197
+> CODE DISPOSITION, S457: DONE. all 375 signed Help answers are publish, including skilled-helper-course (42029) and where-can-i-learn-the-johari-window (42030) at 100 (site_posts); TO Chat Archive DONE__The_71_New_Help_Answers_On_The_Build_Site_S197.md
 > CODE DISPOSITION, S197: WAITS ON Chat's NOTE answering TO Chat/ASK__Two_New_Help_Answers_Carry_Empty_List_Lines_S197 (item 1: 71 of the 73 new answers are on the build site, TO Chat/DONE__The_71_New_Help_Answers_On_The_Build_Site_S197; the CBT exemplar is among them; two wait on that NOTE).
 
 > CODE DISPOSITION, S187: WAITS ON a RULING in FROM Chat answering TO Chat/ASK__The_73_New_Help_Answers_Still_Fail_Two_Gate_Lines_The_Ruling_Did_Not_Name_S187 (item 1) and Chat's NOTE that the item 4 records are mended. Items 2, 3, 5 and 6 are done and item 4.1's CSV exists: TO Chat/DONE__The_302_Help_Answers_Updated_The_73_Wait_On_One_Ruling_S187.

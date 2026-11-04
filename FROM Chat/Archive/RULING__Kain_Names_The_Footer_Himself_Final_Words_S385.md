@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. footer.php carries Kain's exact words; earlier lock RULING__Kain_Approves_And_Locks_The_Footer_Option_A_S134
+> CODE DISPOSITION, S457: DONE. footer.php carries Kain's exact words; earlier lock RULING__Kain_Approves_And_Locks_The_Footer_Option_A_S134.md
 > **CODE DISPOSITION, S134: WAITS ON Kain's go to build option A with these words into the theme; rendered for him in Safari tonight. /courses/ and /enquiries/ both answer 404 on the build ground today (pages not yet built), as do several of today's footer links.**
 
 **Needs from Code:** stop the N1/N2/N3 pick. Build the footer to the exact words below instead, no options, nothing further for Kain to choose on naming.

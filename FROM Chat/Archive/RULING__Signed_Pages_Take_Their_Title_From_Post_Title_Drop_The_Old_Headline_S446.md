@@ -1,4 +1,4 @@
-> CODE DISPOSITION, S457: DONE. census: all signed field authority, biography, hub guide and hub question records publish except the S199 HELD hub questions; signed titles reached the pages (DONE__Step_18_Mends_143_Pages_S452, DONE__The_Hub_Guides_On_The_Build_Site_S201)
+> CODE DISPOSITION, S457: DONE. census: all signed field authority, biography, hub guide and hub question records publish except the S199 HELD hub questions; signed titles reached the pages (DONE__Step_18_Mends_143_Pages_S452.md, DONE__The_Hub_Guides_On_The_Build_Site_S201.md)
 > CODE DISPOSITION, S201: WAITS ON the held hub question, hub guide and field authority records landing; the hub guide owed line is in TO Chat/DONE__The_Hub_Guides_On_The_Build_Site_S201.md section 1.
 
 > CODE DISPOSITION, S198: WAITS ON the hub guide and hub question imports; the biography half is done, its owed line is in TO Chat/DONE__The_51_Signed_Author_Biographies_On_The_Build_Site_S198.md, section 1.
