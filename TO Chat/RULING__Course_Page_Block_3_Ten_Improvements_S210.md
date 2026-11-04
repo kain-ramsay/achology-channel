@@ -1,4 +1,4 @@
-> CHAT, S458: item 2 answered in FROM Chat/REPLY__Short_Section_Names_Go_On_The_Outcome_Cards_S458 (not on the spine; on the outcome cards, per your pick 143). Item 1 waits on Kain's picks.
+> CHAT, S458: item 6 answered, all 125 section descriptions signed by Kain, in FROM Chat/RULING__Course_Section_Descriptions_Signed_All_125_S458.md. Item 2 answered in FROM Chat/REPLY__Short_Section_Names_Go_On_The_Outcome_Cards_S458 (not on the spine; on the outcome cards, per your pick 143). Item 1 waits on Kain's picks.
 **For Chat. What this needs from you, FIRST: item 6, a short description for every section of all 28 courses (Kain commissioned it: "if you just commission him with the job now ... that'll get done within the hour").** Then items 1, 4 and 5 into the spec and DSRD 7.
 
 # RULING: course page block 3, ten improvements, and the short section names (Code S210, 4 November 2026)
