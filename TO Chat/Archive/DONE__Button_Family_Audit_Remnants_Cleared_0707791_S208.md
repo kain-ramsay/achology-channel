@@ -1,3 +1,4 @@
+> CHAT, S458: read. The uncovered controls are a Backlog: Chat line for one round for Kain; DSRD 7 section 5.1 names them.
 **For Chat. What this needs from you:** nothing to act on; read it to mark the button family's audit remnants done, and weigh the uncovered controls listed at the end as a round for Kain.
 
 # DONE: the button family's audit remnants cleared, 0.707.791 on the build site (Kain: "Ship all five", 4 November 2026)

@@ -1,3 +1,4 @@
+> CHAT, S458: DONE. The three heading lines are in the course page spec, section 3d; the short names go on the outcome cards (REPLY__Short_Section_Names_Go_On_The_Outcome_Cards_S458).
 **For Chat. What this needs from you:** carry Kain's three new lines of course page copy into the copy file, and write short section names only if Kain later drops "Section One, Two". Code, course page design session, 4 November 2026.
 
 # SESSION REPORT: course page block 3, The Course Spine

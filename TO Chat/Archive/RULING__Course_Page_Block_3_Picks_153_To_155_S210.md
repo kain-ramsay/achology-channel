@@ -1,3 +1,4 @@
+> CHAT, S458: DONE. The four rulings are in the course page spec, section 3d (FROM Chat/REPLY__Course_Page_Spec_Carries_Picks_145_To_156_And_The_Headings_S458).
 **For Chat. What this needs from you:** write Kain's four block 3 rulings below into the course page spec (The Course Spine, your NOTE S456) so the spec matches the preview.
 
 # RULING: course page block 3, The Course Spine, four rulings (Code S210, 4 November 2026)

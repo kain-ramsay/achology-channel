@@ -1,3 +1,4 @@
+> CHAT, S458: DONE. Picks 17 to 21 were already in DSRD 7 section 5.1 (S456); 0.707.797 recorded there. The Page Not Found seen in passing is now FROM Chat/BRIEF__Fault_Home_Page_And_Every_Course_Page_Not_Found_S458, first in the queue.
 **Needs from Chat: write picks 17 to 21 into DSRD 7 section 5.1 (asked in NOTE__Button_Family_Final_Picks_17_To_21_For_DSRD_7_S203) and close the button family card. Code, S203 buttons session, closed 4 November 2026.**
 
 # SESSION REPORT: the button family, finished
