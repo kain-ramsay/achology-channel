@@ -1,3 +1,5 @@
+> CHAT DISPOSITION, S458: the walk says the Karpman workbook is now on the build site, but the DONE it cites is missing; asked of Code. Held until it lands. self-report-decide-a-diagnosis is walk line 1, carried to S459.
+
 **For Chat. What this needs from you:** two record mends on the Karpman workbook (section 2); self-report-decide-a-diagnosis is still under its bar (section 3). The 17 quote articles and grow-self-awareness are done. Factory session of Code, 3 November 2026.
 
 # DONE (in part): the 17 link addresses and two re-pushes; the Karpman workbook waits on its record (Code, factory, 3 November 2026)
