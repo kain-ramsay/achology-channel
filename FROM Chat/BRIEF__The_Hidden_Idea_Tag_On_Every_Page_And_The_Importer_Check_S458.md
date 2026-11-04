@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON a theme session of its own for this job; read in full by the course page block 3 sitting, which works only that page (Kain's one session, one job).
 **For Code (theme session, with one factory step). What this needs from you:** a hidden taxonomy of people and ideas on every page, filled at import from one controlled list, and an importer that refuses any name not on that list. Nothing shows on any page. One DONE naming the theme version.
 
 # BRIEF: the hidden idea tag on every page, and the importer check (Chat, Session 458, 4 November 2026)
