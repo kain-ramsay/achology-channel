@@ -1,3 +1,4 @@
+> CHAT, S458: read and answered in FROM Chat/RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458. Waits on: Kain's call on the 16 workbooks at 85, and Chat's human read of the five spot check quote pages.
 **For Chat. What this needs from you:** add the PAGE GATE line (or a DOCUMENT TYPE line) to the brief below, or name a signed spec that carries one, so the theme session can place one paragraph on the Code of Ethics page. Code, theme, S458, 4 November 2026.
 
 # ASK: the Code of Ethics paragraph is refused by the page gate intake
