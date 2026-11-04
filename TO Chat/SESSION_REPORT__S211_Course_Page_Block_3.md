@@ -10,6 +10,10 @@ Board card: Course page (the course page template). Blocks 1, 2 and 3 now settle
 - Block 3, the side panel: checked in all eight sections; on a phone "100%" steps down one size to fit its ring. PICKS 186.
 - Block 3, paging: the card holds its height while paging, so the arrows stay under the pointer. PICKS 187.
 - Block 3 walked part by part and signed. PICKS 188.
+- Block 3 reopened by Kain on how a visitor moves round it: the forward button says "Next 7 lessons" and on a section's last page "Next: Section Two", moving there; one orange-edged line under the heading in Code's words, "Choose a section on the bar, then open any lesson to see what it covers.", REPLACING the grey line "Browse every section and lecture to discover exactly what you'll learn throughout this training course." (Kain preferred it). PICKS 189. New interface words for the copy record.
+- No lesson name, question or paragraph ends on a line of fewer than four words (measured on all 525 Diploma texts at four widths); 16 between the place line and the section name. PICKS 190. Kain's rule, for every page with lesson text.
+- Under the ring: "of the way through the course once you finish this section" (was "of the course covered by the end of this section"). PICKS 191. New interface words.
+- HELD: a video mark with each lesson's running time on an opened lesson (Kain's idea, his yes to drawing it). Vimeo gives no running time from outside the site and the master CSVs hold none; it waits on a read of the Vimeo account.
 
 ASK, names only, for the course record (Code did not change them): Section Eight of the Diploma reads "End of DMAP Course Summary and Graduation", which shortens the product name (DiMAP); lesson 014 reads "A Reasoning Soul in the Machine (Rene Descartes)", which drops the accent (René).
 
