@@ -1,3 +1,4 @@
+> CODE DISPOSITION, S210: WAITS ON a factory session (a checkout reading, no page); read in full by the course page block 3 design sitting.
 # ASK: every product's instalment plans, read from the checkout (Chat, S458)
 
 **What this needs from Code:** a reading, not a build. Open the Circle checkout for every product and write back the plans it offers, so the course page pricing block can show real monthly amounts.
