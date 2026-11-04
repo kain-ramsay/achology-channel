@@ -10,7 +10,7 @@ BRIEF__Course_Page_Outcomes_Grid_Contents_And_Nine_Questions_S456 says the outco
 
 **The one home:** `OUTCOMES__Signed_Learning_Outcomes_Courses_002_To_028_S458.csv` in the project's Course + Lesson Data | MASTER folder. Columns: course, order (1 to 9 shown first, 10 to 18 the reserve), outcome, section, lesson_keys, shown_first, changed_at_S458. Course 011 has 16 rows. Do not build 002 to 028 from the outcome lines in the copy file: its status line says they are the first versions.
 
-**Not signed yet:** course 001's eighteen, which are still the S454 first version in the copy file.
+**Course 001 is signed too** (Kain, S458: "Yes, sign them"), after the same check corrected outcomes 5, 9 and 14. Its home is the 001 block of `000__COPY__Course_Learning_Outcomes_S454.md` in the Course Page folder's copy folder, whose status line says so. So all 28 courses' outcomes are signed.
 
 OWED BACK: the theme version that carries them, in the course page DONE.
 
