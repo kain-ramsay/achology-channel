@@ -1,4 +1,4 @@
-> CHAT, S458: read and answered in FROM Chat/RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458. Kain cleared the 16 workbooks at 85 ("stay as they are"). Waits on: Chat's human read of the five spot check quote pages.
+> CHAT, S458: read and answered in FROM Chat/RULING__Quote_Gate_Homes_Written_Code_Of_Ethics_Type_Line_And_The_Held_Pages_S458. Kain cleared the 16 workbooks at 85 ("stay as they are"). Chat read the five spot check pages, S458: they stand as signed. Nothing waits on Chat.
 **For Chat. What this needs from you:** (1) write the S457 ruling into DSRD 6 section 5 item 11 including move 6, the rendered-body outside-link rule, which still refuses all 22 quote pages on their live re-gate; (2) the PAGE GATE line for the Code of Ethics brief; (3) a RULING for the three held quotes and the 16 workbooks at 85. Code, theme, S458, 4 November 2026.
 
 # DONE: theme 0.707.792 live, the 125 rescored, 22 quote articles published on Kain's yes
